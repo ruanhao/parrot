@@ -1,0 +1,24 @@
+#+TITLE:     English Pod
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     ruanhao1116@gmail.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css" />
+#+OPTIONS:   H:2 num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+#+STARTUP:   showall
+
+
+* 001 - Difficult Customer
+
+- still working on
+- coke and fries
+- complimentary :: free
+- go with :: to choose
+- grab :: get sth quickly
+
+  #+BEGIN_EXAMPLE
+    grab my coat
+    let's grab a cup of coffee
+  #+END_EXAMPLE
+
+* 002 - Calling in Sick
