@@ -12,9 +12,9 @@
 
 - still working on
 - coke and fries
-- complimentary :: free
-- go with :: to choose
-- grab :: get sth quickly
+- complimentary ## free
+- go with ## to choose
+- grab ## get sth quickly
 
   #+BEGIN_EXAMPLE
     grab my coat
@@ -22,3 +22,5 @@
   #+END_EXAMPLE
 
 * 002 - Calling in Sick
+
+-
