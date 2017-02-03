@@ -12,15 +12,44 @@
 
 - still working on
 - coke and fries
-- complimentary ## free
-- go with ## to choose
-- grab ## get sth quickly
-
-  #+BEGIN_EXAMPLE
-    grab my coat
-    let's grab a cup of coffee
-  #+END_EXAMPLE
+- complimentary
+  free
+- go with
+  to choose
+- grab
+  get sth quickly
 
 * 002 - Calling in Sick
 
--
+- feel ill today
+- coming down with the flu
+- calling in sick
+- was hoping to do stm
+- feeling slightly feverish
+
+* 003 - Hotel Upgrade
+
+- reservation under the name Ryan
+- mix-up
+  sth wrong
+- concierge
+  hotel employee that helps guests
+
+* 004 - I Need an Assistant
+
+- understaffed
+  short staffed
+- overstaffed
+- take on new staff
+- the timing is just not right
+- take weight off someone's shoulders
+- give me a hand
+- deep voice
+
+* 005 - Cut in Line
+
+- says who?
+- so sue me
+- jump the queue
+- stand in line
+  wait in line
