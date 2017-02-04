@@ -46,3 +46,147 @@
 - so sue me
 - jump the queue
 - stand in line (wait in line)
+
+* 006 - Road Trip
+
+- the car is packed
+- munchies (snacks)
+- fill up the tank
+- pit stop (quick stop for food or gas)
+- got all the bases covered (have everything ready)
+- all set (ready)
+- let's get going
+  - let's get down to business
+  - let's get out of here
+  - let's get cooking
+- trunk (the luggage area of a car)
+
+* 007 - The Office Virus
+
+- computer froze (stop working)
+- i'll be right up (go upstairs soon)
+  - i'll be right there
+  - i'll be right down
+  - i'll be right out
+- it turns out that
+- act up (not working properly)
+  - it's acting up again!
+
+* 008 - What's your name again?
+
+- how is it going (how are you)
+- slip my mind (been forgotten)
+- around here
+  - do you live around here
+  - there is a good restaurant just around the corner
+  - Los Angles is a great place, i used to live around there
+- terrible with (bad at)
+  - you are terrible with numbers
+  - i am terrible with directions
+  - i am terrible with faces
+- can you remind me
+- acquaintance (someone you know, but who is not a close friend)
+
+* 009 - Silence please!
+
+- keep it down (be quiet)
+- not such a big deal
+- can't hear a thing
+
+* 010 - Driving Sales
+
+- drive sales (increase sales)
+- match the competitors
+- will never fly (will not work)
+  - this plan will never fly
+
+* 011 - New Guy in Town
+
+- house warming gift
+- fill me in (tell me)
+- kick me out (force someone leave when they don't want to)
+  - kick out of bed
+  - kick out of house
+  - kick out of class
+- creep me out (scare)
+  - crept out by clows
+- scare the heck out of me
+- juicy gossip/story
+
+* 012 - Cleaning the House
+
+- in the middle of something (doing something at the moment)
+- i will be there in a second
+- immaculate (perfectly clean, having no dirt at all)
+- dish detergent
+- hoover (vacuum)
+
+* 013 - Out Of Control Spending
+
+- profit and lose statement
+- through the roof (suddenly very high)
+- off the chart (very high)
+- expenditures (amount of money spent on something)
+- the bottom line (the net profit; the amount of money a business makes after expenses)
+
+* 014 - I'm in Debt
+
+- recession
+- take out/get a loan (borrow money)
+- hit me pretty hard
+- on top of all that (besides that)
+
+* 015 - I'm sorry, I love you
+
+- watch out
+- knock over (make something fall over)
+  - knock over the vase
+  - i didn't mean to knock you overd
+
+* 016 - Turn left here!
+
+- step on it (drive faster)
+- have a fit (get angry)
+- cut through (quickly go past or though something that blocks you)
+  - let's cut through a park, it is a shortcut
+- run a red light
+- make a left/right/u-turn
+- road rage
+- back street (small street that is away from the main streets)
+- take a side street
+
+* 017 - Here Comes the Bride
+
+- bride and groom walk down the aisle
+- bridesmaid and groomsman
+- maid of honor (female fiend or relative who acts as a witness at the wedding)
+- best man (male friend or relative who acts as a witness at the wedding)
+- flower girl (a girl at a wedding that throws flower petals down the aisle)
+- ring bear (a boy at a wedding that holds the wedding rings)
+- it's about time (finally, waiting a long time)
+  - A: dinner is ready. B: it's about time, i am starving!
+  - A: i got a job. B: it's about time, you've been unemployed for 2 years!
+  - A: we almost get there. B: it's about time, we've been driving for 2 hours!
+- reception (party held to celebrate something or to welcome people)
+  - food's good at the reception
+
+* 018 - Protest
+
+- bailout (the act of saving a company form money problems)
+- placard
+
+#+BEGIN_EXAMPLE
+  A: This is Action 5 News reporter Sarah O’Connell reporting live from Washington, D. C. where a protest has broken out. Thousands of angry citi- zens are protesting against the proposed bailout of the auto manufacturing industry! Sir, sir, Sarah O’Connell, Action 5 news. Can you tell us what’s happening?
+
+  B: Yeah, yeah, we’re here because we feel this is an injustice! The financial irresponsibility of big business has to stop! We’re there to show the government that we don’t like the way that they’re spending our tax dollars!
+
+  A: Sir but what exactly is making everyone so angry?
+
+  B: It’s an absolute outrage, Sarah, the US govern- ment wants to give 25 billion dollars of taxpayers’ money to the auto industry. These are companies that have been mismanaged and are now nearly bankrupt.
+
+  A: I see. But, many supporters of the bailout argue that it could help save the jobs of millions of hard- working Americans.
+
+  B: That maybe true, and I for one don’t want to see anyone lose their job, but how can these CEOs ask for a bailout when they’re making millions of dollars? And then, they have the nerve to fly to Washington in private jets! This costs hundreds of thousands of dollars! And they’re asking for money! That is just not right!
+
+  A: Good point. This is Sarah O’Connell reporting live from Washington D. C., back to you, Tom.
+#+END_EXAMPLE
