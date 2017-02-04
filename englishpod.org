@@ -205,3 +205,34 @@
   A: Good point.
      This is Sarah O'Connell reporting live from Washington D. C., back to you, Tom.
 #+END_EXAMPLE
+
+* 019 - Christmas Chronicles I
+
+- eggnog (traditional Christmas drink containing eggs, cream, sugar and rum)
+- get a load of (look at)
+- pout
+- don't take that tone with me
+- Rudolph, Prancer and Dancer
+- we've got ourselves a situation (we have a problem)
+
+#+BEGIN_EXAMPLE
+  You are under arrest, sir.
+  You have the right to remain silent.
+  You better not pout, you better not cry.
+  Anything you say can and will be used against you.
+  You have the right to an attorney.
+  If you can not afford one, the state will appoint one for you.
+  Do you understand all these rights that were just read to you?
+#+END_EXAMPLE
+
+* 020 - I Can See Clearly Now
+
+- 20/20 vision (perfect eyesight)
+- as blind as a bat (have really poor vision)
+- check-up (regular examination by a doctor to make sure a person is healthy)
+- make out (see clearly)
+- head on
+  - head on in to the room
+  - head on out to the park
+  - head on up to my room
+  - head on over to the room
