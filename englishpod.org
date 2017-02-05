@@ -236,3 +236,73 @@
   - head on out to the park
   - head on up to my room
   - head on over to the room
+
+* 021 - What Do You Do
+
+- go on about (talk about something a lot)
+  - my mom is always going on about how I should get married
+- how is it going (how are you)
+- what do you do for a living
+
+#+BEGIN_EXAMPLE
+  A V.P. position is not easy, you know!
+  I implement policies and procedures nationwide, of various departments,
+  as well as train junior managers in FDA and EPA regulations.
+  I also have to oversee daily operation of our quality control for the entire east coast.
+  That alone means I hava 15 hundred employees under me.
+#+END_EXAMPLE
+
+* 022 - Christmas Chronicles II
+
+- candy cane
+- book (slang: arrest)
+- speeding (driving too fast)
+- impounded (held by the police)
+- under heavy (being attacked or hurt)
+  - we're under heavy attack
+  - we're under heavy fire
+  - the President is under heavy security
+- stocking stuffer (small gifts that are put in the Christmas stocking)
+- Christmas ornament (decoration that is used to make the Christmas tree beautiful)
+- tooth fairy
+
+* 023 - Making an Appointment
+
+- booked solid
+  - I can't get a hotel room, theyrre booked solid until after the New Year.
+  - I'm sorry, there are no seats available on this flight, werre booked solid over the Christmas holidays.
+  - Sorry, I can't meet with you today, I'm booked solid.
+- fit you in (find time to see some- one in a busy schedule)
+
+* 024 - Where should we eat
+
+- bistro (small, trendy restaurant or bar)
+- in the mood for
+- de'cor (decoration)
+- light (not heavy on stomach, easy to digest)
+- a hole in the wall (a very small, usually cheap restaurant or bar)
+
+* 025 - Planning For The Worst
+
+- contingency plan (a plan that prepares for a situation where things can go wrong)
+- backup plan
+- pandemic (a situation where a disease is spread out very quickly, and affects many people in many countries)
+- epidemic (event where a disease spreads really quickly and affects a large number of people)
+- let's move to our next order of business (let's move on)
+- head up the project (lead the project)
+
+#+BEGIN_EXAMPLE
+  I guess you'll need me to forecast employee absences as well, right?
+  And I'll think about the impact this will have on our clients.
+  Hey, what about vaccines? Should we be thinking about getting vaccines for our employees?
+#+END_EXAMPLE
+
+* 026 - New Year Resolution
+
+- work out (exercise at a gym)
+- stuffed
+  - i can't eat more, i'm stuffed
+  - I ate way too much! i'm stuffed!
+- cut out (remove)
+  - You have to cut out the salt from your diet. No more chips, no more French fries, no more popcorn.
+  - It's time for me to focus on my work. I'm going to cut out everything else from my life!
