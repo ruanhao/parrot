@@ -306,3 +306,75 @@
 - cut out (remove)
   - You have to cut out the salt from your diet. No more chips, no more French fries, no more popcorn.
   - It's time for me to focus on my work. I'm going to cut out everything else from my life!
+
+* 027 - Asking for Time Off
+
+- take some time off (stop working for a short time)
+- bank holiday (public holiday recognized by law)
+- used up all my vacation days
+
+* 028 - I'm Sorry, I Love You II
+
+- make it up to you (do something good as a balance to a bad or hurtful action)
+- a twist of fate (unplanned events that has a big impact on the future)
+  - a twist of fate brought us together
+- turn down an invitation
+- see someone (be in a relationship with someone)
+
+#+BEGIN_EXAMPLE
+  I woke up today thinking this would be just like any other ordinary day,but I was wrong.
+  A twist of fate brought us together. I crashed into your life and you into mine,
+  and this may sound crazy, but I'm falling in love with you.
+#+END_EXAMPLE
+
+* 029 - Investing in Emerging Markets
+
+- turmoil (a state of confusion, disorder, disturbance)
+  - with the civil war, a famine and the inflation, the country has been in turmoil for 10 years
+  - there's been a lot of turmoil in my life recently, i've moved to new city, changed my job, broke up with my girlfiend
+  - the devaluation of dollar caused a great deal of turmoil in the market
+- nest egg (money that is saved to pay for something in the future, usually a house, or retirement)
+- stimulus package (amount of money the government uses to improve the economy)
+- hit up (ask for money)
+  - I'm gonna hit up the boss for a raise.
+  - Are you trying to hit me up for money?
+  - I don't have any cash. Have you tried hitting up Sophie? She's rich.
+- depreciation (an decrease in the value of something)
+- appreciation (an increase in the value of something)
+- aggregate demand (growing consuming demand)
+- inevitable
+  - Jason knew he was going to get laid off, but he was trying to delay the inevitable.
+
+#+BEGIN_EXAMPLE
+  A: Dad, I'd like to borrow some money.
+
+  B: Sure, Johnny, how much do you need? five bucks?
+
+  A: Come on, Dad, I need thirty thousand. I wanna get into the market.
+     You know, I'm tired of hearing all this news about the economic downturn,
+     the inevitable recession, people stuffing their money in their mattresses.
+     I look at this as an opportunity. This is a chance for me to get a jump start
+     on building my nest egg.
+
+  B: I don't know about that; with all the uncertainty in the markets right now,
+     it would be a very unwise decision to invest. I don't know if you're aware son,
+     but there has been a lot of turmoil in the markets recently.
+     There have already been half a million layoffs in the last few months,
+     and we have no idea how the proposed stimulus package will impact the economy.
+     There's just too much instability. I wouldn't feel comfortable investing in this climate.
+
+  A: But look at it this way, every challenge is an oppor tunity.
+     And anyway, I'm not talking about investing in the domestic market.
+     There are emerging markets that promise great returns. Look at China, for example;
+     they have 1.4 billion people, half a billion of whom have recently entered the middle class.
+     Here alone, the aggregate demand for consumer goods represents
+     an amazing wealth generating opportunity.
+
+  B: Come on, son, you're looking at this too naively, the Chinese market
+     has exhibited a great deal of instability,
+     and their currency has been devalued by almost a whole percentage point.
+
+  A: Fine, then! If that's the way you feel, so be it.
+     But you're losing out on a great opportunity here.
+     I'm going to go hit up Mum for the cash.
+#+END_EXAMPLE
