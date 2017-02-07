@@ -162,7 +162,7 @@
 - maid of honor (female fiend or relative who acts as a witness at the wedding)
 - best man (male friend or relative who acts as a witness at the wedding)
 - flower girl (a girl at a wedding that throws flower petals down the aisle)
-- ring bear (a boy at a wedding that holds the wedding rings)
+- ring bearer (a boy at a wedding that holds the wedding rings)
 - it's about time (finally, waiting a long time)
   - A: dinner is ready. B: it's about time, i am starving!
   - A: i got a job. B: it's about time, you've been unemployed for 2 years!
@@ -378,3 +378,54 @@
      But you're losing out on a great opportunity here.
      I'm going to go hit up Mum for the cash.
 #+END_EXAMPLE
+
+* 030 - New Guy in Town II
+
+- give me the creeps (make someone to feel scared and uncomfortable)
+- rope me into something (convince someone to do something)
+  - You always rope me into things like this!
+- potluck (a party that requires everybody to bring food)
+
+* 031 - Canceling an Appointment
+
+- come up (occur in an unexpected way)
+- call off (cancel)
+- double book (have two appointments or meetings at the same time)
+- push back (move a meeting or ap- pointment to a later time)
+- rain check (a promise or offer to do something in the future that is not possible to do now)
+- a bit of an emergency
+- what's up
+  - A: what's up? B: not much
+
+* 032 - Opening a Bank Account
+
+- chequing account (a regular account for daily transations)
+- savings account (an account for people to keep their money, usually offers a higher interest rate)
+- debit card (a card for you to take money out of ATM)
+- overdraft (taking out more money than what is available in the account)
+- I'll get you (a way to ask people to do things)
+  - I'll get you to fill out this paperwork
+
+#+BEGIN_EXAMPLE
+  Well, if you just take a look here, see, with our chequing account,
+  you can have unlimited daily transactions for a small monthly fee,
+  and our savings account has a higher interest rate,
+  but you must carry a minimum balance of $ 10,000 dollars.
+
+  With this chequing account you'll be issued a debit card and a cheque book.
+  Will you require overdraft protection? There is an extra fee for that.
+#+END_EXAMPLE
+
+* 033 - Foul!
+
+- travel (take more steps with the basketball than the rule allows)
+- beer run (the act of quickly going to get beer)
+- three poiter
+
+* 034 - Live from Washington
+
+- swear in (place someone in a new position by holding an official ceremony where he promises to do the job well)
+- who's who (important and famous people in a particular industry)
+- dignitary (person with a high rank or position, especially in government or religion)
+- palpable (so strong you can feel it, obvious)
+- go down in history (be remembered)
