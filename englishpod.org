@@ -360,10 +360,10 @@
      it would be a very unwise decision to invest. I don't know if you're aware son,
      but there has been a lot of turmoil in the markets recently.
      There have already been half a million layoffs in the last few months,
-     and we have no idea how the proposed stimulus package will impact the economy.
+     and we have no idea how the proposed stimulus package will impact upon our economy.
      There's just too much instability. I wouldn't feel comfortable investing in this climate.
 
-  A: But look at it this way, every challenge is an oppor tunity.
+  A: But look at it this way, every challenge is an opportunity.
      And anyway, I'm not talking about investing in the domestic market.
      There are emerging markets that promise great returns. Look at China, for example;
      they have 1.4 billion people, half a billion of whom have recently entered the middle class.
@@ -424,8 +424,82 @@
 
 * 034 - Live from Washington
 
+- inaugural address
 - swear in (place someone in a new position by holding an official ceremony where he promises to do the job well)
-- who's who (important and famous people in a particular industry)
+  - the swearing-in ceremony
+- the who's who (something like a party of important and famous people in a particular industry)
 - dignitary (person with a high rank or position, especially in government or religion)
 - palpable (so strong you can feel it, obvious)
 - go down in history (be remembered)
+  - this day will go down in history
+- whenever the president walks into room, they will play the song "Hail to the Chief"
+
+#+BEGIN_EXAMPLE
+  A: This is Madeline Wright, for BCC News reporting live from Washington D. C. where,
+     very shortly, the new President will deliver his inaugural address.
+     Just moments ago, the President was sworn in to office;
+     following the United States Constitution the President swore an oath to faithfully
+     execute the office of the presidency.
+
+  B: And what exactly is going on now, Madeline?
+
+  A: Well, Tom, true to American tradition, the band has just played 'Hail to the Chief',
+     and the President has been honored by a 21-gun salute. Now we're waiting for the President
+     to take to the stage and deliver his speech. Tom, it's like a who's who of the
+     political world here on Capital Hill, with dignitaries representing several different countries.
+
+  B: What's the mood on the ground like, Madeline?
+
+  A: In a word, the mood here is electric.
+     The excitement in the air is palpable;
+     I've never seen a larger crowd here on Capital Hill,
+     and the audience is shouting, crying, and embracing each other.
+     On this, a most historic day, you can feel the hope and the excitement in the air.
+     The 20th of January will go down in history as the...
+     Oh, Tom, it looks like the President is about to begin...
+#+END_EXAMPLE
+
+* 035 - He's not a Good Fit
+
+- a good fit
+- work ethic (attitude to work)
+- a bad apple (a bad member of a group who makes things more difficult for others)
+- Come on, Geoff, as if you don't check Facebook at work
+- the bottom line (the most important point)
+  - And the bottom line is I don't think he's a good fit for our company
+
+* 036 - I'm Sorry, I Love You III
+
+- to get a hold of someone (find or contact someone)
+- stand someone up (fail to keep the appointment to meet someone)
+- have any idea
+  - Julie kissed my boyfriend. Does she have any idea how mean that was?
+- I have heard it all before
+
+* 037 - Chinese New Year
+
+- firecracker and fireworks
+- set off (cause something to explode)
+  - set off fireworks
+- Optimus Prime
+- red envelope money
+
+* 038 - Buying a Car
+
+- sedan (a car with four doors)
+- gas mileage (the amount of gas used per mile)
+- sleep on it (think about something further and make a decision later)
+- anti lock brakes
+- I'm just browsing
+  - I'm just browsing; seeing what’s on the lot.
+
+#+BEGIN_EXAMPLE
+  Kids these days all have cars.
+  Let me show you something we just got in:
+  a 1996 sedan. Excellent gas mileage, it has dual airbags and anti lock brakes;
+  a perfect vehicle for a young driver.
+#+END_EXAMPLE
+
+* 039 - My New Boyfriend
+
+- he's got a great career path ahead of him
