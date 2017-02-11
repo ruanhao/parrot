@@ -555,3 +555,142 @@
   And since, since you went away, don't you know I sit around with my head hanging down
   and I wonder who’s loving you.
 #+END_EXAMPLE
+
+* 046 - Emergency Room
+
+- intubate (place a plastic tube in a persons mouth to facilitate breathing)
+- BP (blood pressure)
+- flatline (condition where the heart stops working)
+- hook up (connect someone or something to a electronic device)
+  - I finally got a Nintendo V. Come on, help me hook it up to the TV.
+  - I don't know how to hook up this new DVD-player. Can you help me?
+  - I just hooked up my new HDTV. Wanna come over and watch a movie?
+- hold still (stop moving)
+  - If you don't hold still, I can't see if you have something in your eye.
+  - Hold still while she cuts your hair or else she might make a mistake.
+- chest compression (act of pushing on someone's chest to restart their heart)
+- CPR (procedure in which air is blown into another persons lungs though their mouth)
+- resuscitate (make someone who stopped breathing start breathing again)
+- defibrillator (machine that uses electricity to shock and restart the heart)
+- out of the woods (free from danger)
+- good as new
+- hamster
+
+#+BEGIN_EXAMPLE
+  A: Help! Are you a doctor? My poor little Frankie has stopped breathing!
+     Oh my gosh, Help me! I tried to perform CPR, but I just don't know if
+     I could get any air into his lungs! Oh, Frankie!
+
+  B: Ellen, get him hooked up to a monitor! Someone page Dr. Howser.
+     Get the patient to hold still, I can't get a pulse!
+     Okay, he's on the monitor. His BP is falling! He's flatlining!
+     Someone get her out of here! Get me the defibrillator.
+     Okay, clear! Again! Clear! Come on!
+     Dammit! I'm not letting go of you! Clear! I've got a pulse!
+
+  C: Okay, what's happening?
+
+  B: The patient is in acute respiratory failure, I think we're going to have to intubate!
+
+  C: Alright! Tube's in! Bag him! Someone give him 10 cc's shot of adrenaline!
+     Let’s go, people move, move!
+
+  A: Doctor, oh, thank god! How is he?
+
+  B: We managed to stabilize Frankie, but he's not out of the woods yet;
+     he's still in critical condition. Werre moving him to intensive care, but...
+
+  A: Doctor, just do whatever it takes. I just want my little Frankie to be okay.
+     I couldn't imagine life without my little hamster!
+#+END_EXAMPLE
+
+* 047 - Just In Time Strategy
+
+- obligate (make a person do some- thing because it is the right thing to do)
+- just-in-time strategy (trying to not be overstocked)
+- lead time (the time between the beginning of a process and its end)
+  - production lead time
+  - delivery lead time
+- at a given machine (at a given machine)
+  - In this factory how many cars are in production at any given time?
+  - On any given day about forty million people use the Internet.
+  - Firefighters have to be ready to attend an emergency at any given moment.
+- I'm with you on this one (I agree with you)
+- carrying cost (the cost of holding inventory)
+
+#+BEGIN_EXAMPLE
+  A: I called this meeting today in order to discuss our manufacturing plan.
+     As I'm sure you're all aware, with the credit crunch, and the global financial crisis,
+     we're obligated to look for more cost efficient ways of producing our goods.
+     We don't want to have to be looking at redundancies.
+     So, we've outlined a brief plan to implement the just-in-time philosophy.
+
+  B: We have two basic points that we want to focus on. First of all, we want to reduce our lead time.
+
+  C: Why would want to do that? I think this is not an area that really needs to be worked on.
+
+  B: Well, we want to reduce production and delivery lead timesfor better overall efficiency.
+
+  A: Right, production lead times can be reduced by moving work stations closer together,
+     reducing queue length, like for example,
+     reducing the number of jobs waiting to be processed at a given machine,
+     and improving the coordination and cooperation between successive processes.
+     Delivery lead times can be reduced through close cooperation with suppliers,
+     possibly by inducing suppliers to locate closer to the factory or
+     working with a faster shipping company.
+
+  C: I see... That makes sense.
+
+  B: The second point is that we want to require supplier quality assurance and
+     implement a zero defects quality program. We currently have far too many errors that
+     lead to defective items and therefore, they must be eliminated.
+     A quality control at the source program must be implemented to give workers
+     the personal responsibility for the quality of the work they do, and the authority to
+     stop production when something goes wrong.
+
+  C: I'm with you on this one. It's essential that we reduce these errors;
+     we've got to force our suppliers to reduce their mistakes.
+
+  A: Exactly. Well, let's look at how we're going to put this plan into action.
+#+END_EXAMPLE
+
+* 048 - Carnival in Rio!
+
+- Sambadrome
+- prestigious (being respected and admired for being successful or important)
+  - Harvard University is one of the most prestigious schools in North America.
+  - The Academy award is the most prestigious prize an actor can get in the film industry.
+  - He worked really hard and now he is a very prestigious heart surgeon.
+- ticket scalper (person that buys and resales tickets at a higher price)
+- float (a vehicle with a platform used to carry an exhibit in a parade)
+- ditch [leave someone on purpose (informal)]
+- good thing
+  - Good thing I studied for my exam. It was really hard.
+  - It's a good thing I brought my umbrella. It rained the whole day.
+  - It's a good thing that I bought my house before the prices went up.
+- no kidding (it's true)
+  - A: Wow! This restaurant is really expensive. B: No kidding.
+
+#+BEGIN_EXAMPLE
+  It says here that the school that is dancing now is one of the oldest and most *prestigious* samba schools in Rio.
+#+END_EXAMPLE
+
+* 049 - Daddy Please!
+
+- fine then
+  - Fine then! If you won't go with me I'll go by myself.
+- Duh!
+- No can do, Sorry!
+
+* 050 - New Guy In Town III
+
+- Gothic
+- poiter (tips, advice, hints)
+  - I want to dance salsa better. Can you give me a few pointers?
+- spike [to add alcohol or drugs to (food or drink)]
+- Merlot
+
+#+BEGIN_EXAMPLE
+  Here you are. A very special merlot brought directly from my home country.
+  It has a unique ingredient which gives it a pleasant aroma and superior flavor.
+#+END_EXAMPLE
