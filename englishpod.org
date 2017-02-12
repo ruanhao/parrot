@@ -739,3 +739,127 @@
 - everything seems to be in order
 
 * 055 - Hockey
+
+- puck (small, round, black object that is used to play hockey)
+- rink (ice surface used to play hockey or skate on)
+- face off (a way of beginning a game by dropping the puck between two players)
+- check (use your body to push someone in hockey)
+- breakaway [state of becoming separated from a large group (especially in sports)]
+
+#+BEGIN_EXAMPLE
+  The ref is calling the players for the face-off and here we go!
+  The Russians win possession and immediately set up their attack!
+  Federov gets checked hard into the boards!
+
+  Maurice Richard has the puck now, and passes it to the center.
+  He shoots! Wow what a save by the goalie!
+
+  The puck is back in play now. Pavel Bure is on a breakaway!
+  He is flying down the ice! The defenders can't keep up! Slap shot! He scores!
+#+END_EXAMPLE
+
+* 056 - Planning a Bank Robbery
+
+- fill in for someone (take place for someone)
+- replica (fake copy of a product)
+  - In the street maybe you can see replica watches.
+- patch (someone) through (connect to another phone line)
+  - Can you patch me through to Carroll?
+- tap (attach a device to a phone line to listen secretly)
+- lose someone's cool (lose control of emotions, basically lose temper and become irritated)
+- map out (planned, thought of)
+  - So, I have the future all mapped out. Well, you'll get a job as a waiter, then we'll get marred and two years latter we'll start having kids.
+  - We're mapping out the marketing plan at the meeting today.
+
+- heist [the act of stealing something from a shop or a bank (AmE, Infor- mal)]
+- bust (an event where the police catch people doing a crime)
+- bandit (criminal who attacks and steals from people who travel)
+- burglary (illegally entering a house or building to steal)
+
+#+BEGIN_EXAMPLE
+  A: All right, so this is what we are going to do. I've carefully mapped this out,
+     so don't screw it up. Mr. Rabbit, you and Mr. Fox will go into the bank wearing these uniforms.
+     We managed to get replicas of the one the guards wear when they pick up the money.
+
+     When you get inside, tell them that you are filling in for Carl and Tom,
+     and say that they are on another route today. Don't lose your cool. Just act natural.
+
+     We have the phones tapped. If they want to call and confirm, the call will be patched through to me,
+     and I'll pretend to be the transport company.
+
+     Only take as much money as you can fit in these bags.
+     Don't get greedy! Are you ready? Let's go.
+
+
+#+END_EXAMPLE
+
+* 057 - Malfunction
+
+- toner (ink used in a printer or photocopier)
+- pratical joke (a joke where something is done, rather than said)
+- power surge (an increase in electrical current that can damage electric equipment)
+
+* 058 - This Is Your Captain Speaking
+
+- turbulence (sudden, strong movement of air especially that causes a plane to move up and down in the air)
+- bumpy (not smooth)
+- lavatory (room with a sink and toilet, chiefly on an airplane or train)
+- stow
+  - stow your luggage under the seat
+  - stow your luggage in the overhead bin
+- refrain from (avoid doing)
+- cabin baggage (suitcases and luggage that travels inside the plane with the passengers)
+- patch (small area)
+
+- knock on wood (an idiom that means to avoid something bad happening or to continue something good happening; it is usually said while actually knocking on something made of wood)
+- carry-on (a suit case that you bring onto the plane)
+- table tray (a table that folds down from the seat in front of you on a an airplane)
+- life jacket (piece of clothing that you ware to stay floating in water)
+- oxygen mask (a mask worn over your mouth and nose so you can breathe)
+
+#+BEGIN_EXAMPLE
+  Ladies and gentlemen, this is your captain speaking. It looks like we've hit a patch of rough air,
+  so we're going to have a bit of a bumpy ride for the next several minutes.
+  At this time, I'd like to remind all of our passengers to fasten their seat beltsand
+  remain seated until the fasten seat belt sign is turned off.
+  Please ensure that all cabin baggageis carefully stowed under the seat in front of you.
+  I'll be back back to update you in a minute.
+  Ah, ladies and gentlemen, this is your captain again. We've got quite a large patch of
+  rough air ahead of us, so for your safety, we will be suspending in-flight service.
+  I would ask all in-flight crew to return to their seats at this time.
+  I would also like to ask that all our passengers refrain from using the lavatory
+  until the seat belt sign has been switched off.
+#+END_EXAMPLE
+
+* 059 - Job Interview I
+
+- undisputed (definitely true, not doubted)
+  - It's undisputed, that she's the best person for the job.
+  - The undisputed truth is that unemployment is rising, no one doubts that.
+  - He's the undisputed champion of the world.
+- read up (read to gain the most recent information on a subject)
+- unleash potential
+  - Your dog is walking on a leash.
+- resonate with
+  - The candidate speech really resonated with the voters.
+  - Their music doesn't really resonate with me.
+  - Your commitment to fight global warming resonates with me.
+
+#+BEGIN_EXAMPLE
+  Well, as I said they're the industry leaders, they have a really great growth strategy,
+  amazing development opportunities for employees, and it seems like
+  they have strong corporate governance. They're all about helping companies grow and
+  unleashing potential. I guess their core values and mission really resonated with me.
+  Oh, and they offer six weeks' vacation, stock options and bonuses...
+  I'm totally going to cash in on that.
+#+END_EXAMPLE
+
+* 060 - New Guy in Town IV
+
+- fall for it (believe a lie)
+  - He might seem like a nice guy, but don't fall for it, he's a jerk.
+  - I can't believe I fell for your lies.
+  - I told my mom I was going to a library and she fell for it.
+- gullible (easily believing something that is not true, easily fooled)
+- spill the beans (tell the truth when you don't really want to; tell someone everything)
+- the cat is out of the bag (the truth is out)
