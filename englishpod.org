@@ -863,3 +863,37 @@
 - gullible (easily believing something that is not true, easily fooled)
 - spill the beans (tell the truth when you don't really want to; tell someone everything)
 - the cat is out of the bag (the truth is out)
+
+* 061 - Swim faster!
+
+- doggy-paddle (swim like a dog)
+- take a dip (have a swim)
+- breast stroke
+- backstroke
+
+* 062 - Job Interview II
+
+- track (courses of study)
+- breadth (a wide range or scope of something)
+  - brought me a breadth of experience
+- churn rate
+- tertiary
+- scrutinize (examine something in a careful and critical way)
+
+#+BEGIN_EXAMPLE
+  I graduated with honors from Chesterton University with a major in Business Administration,
+  with a specialization in Information Management, and I minored in psychology.
+  I chose this course of study for two reasons:
+  I wanted to gain some practical, marketable skills, which the information management track provided,
+  and I also feel that interpersonal skills are essential for professional success,
+  hence the minor in psychology.
+
+  I am really passionate about consumer behavior, so I pursued a master's in that area.
+  I also strive to keep my professional skills current, so I continuously attend seminars and conferences related management and customer service.
+
+  When I was in Oracle, I worked as their customer support manager, which brought me a breadth of experience in both client care, and process management.
+  I supervised and coordinated the customer support team as well as implemented new strategies to achieve better customer satisfaction.
+  In this position I was able to make some pretty significant contributions to the overall success of the company.
+  With the different initiatives that we implemented, we lowered our churn rate to about five percent, which had a direct impact on revenue.
+
+#+END_EXAMPLE
