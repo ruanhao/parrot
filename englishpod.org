@@ -897,3 +897,8 @@
   With the different initiatives that we implemented, we lowered our churn rate to about five percent, which had a direct impact on revenue.
 
 #+END_EXAMPLE
+
+* 063 - Receptionist
+
+- May I take your name (usually write down the name)
+- momentarily
