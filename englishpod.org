@@ -491,7 +491,7 @@
 - sleep on it (think about something further and make a decision later)
 - anti lock brakes
 - I'm just browsing
-  - I'm just browsing; seeing what’s on the lot.
+  - I'm just browsing; seeing what窶冱 on the lot.
 
 #+BEGIN_EXAMPLE
   Kids these days all have cars.
@@ -553,7 +553,7 @@
 #+BEGIN_EXAMPLE
   When I had you, I treated you bad and wrong dear.
   And since, since you went away, don't you know I sit around with my head hanging down
-  and I wonder who’s loving you.
+  and I wonder who窶冱 loving you.
 #+END_EXAMPLE
 
 * 046 - Emergency Room
@@ -593,7 +593,7 @@
   B: The patient is in acute respiratory failure, I think we're going to have to intubate!
 
   C: Alright! Tube's in! Bag him! Someone give him 10 cc's shot of adrenaline!
-     Let’s go, people move, move!
+     Let窶冱 go, people move, move!
 
   A: Doctor, oh, thank god! How is he?
 
@@ -1016,14 +1016,14 @@
 - blow it (to miss an opportunity or chance)
 
 #+BEGIN_EXAMPLE
-  I can��t believe she��s on a date with me! I��m so lucky!
+  I can｡ｯt believe she｡ｯs on a date with me! I｡ｯm so lucky!
   I must be the luckiest guy in the world! I want to scream at the top of my lungs,
-  "I��m the luckiest dude in the world! "
-  Oh, shut up! Don��t be such a dumb ass. She��s so hot. Wait, I can��t say that.
-  That��s sexist. She��s so hot, She��s making me sexist. Oh my god! I��m such a tool.
-  Okay, get it together. Uhh, she��s eating salad. Oh right, I have a salad.
+  "I｡ｯm the luckiest dude in the world! "
+  Oh, shut up! Don｡ｯt be such a dumb ass. She｡ｯs so hot. Wait, I can｡ｯt say that.
+  That｡ｯs sexist. She｡ｯs so hot, She｡ｯs making me sexist. Oh my god! I｡ｯm such a tool.
+  Okay, get it together. Uhh, she｡ｯs eating salad. Oh right, I have a salad.
   Oh, crap! Which fork do I use? Dammit!
-  She��s going to think I��m a moron. What the hell are all these forks for?
+  She｡ｯs going to think I｡ｯm a moron. What the hell are all these forks for?
   Which one did she use? Okay, chill... be cool, be cool. Just take a fork...
   eat your salad...
 #+END_EXAMPLE
@@ -1037,3 +1037,70 @@
 - plaque
 - gingivitis
 - mouthwash
+
+* 076 - Learn Simple Math
+- teacher's pet
+- suck up (马屁精)
+- smarty pants (a child who tries to show he/she is so smart)
+- know-it-all (the person claims or pretends to know everything)
+
+* 077 - F1 Racing
+
+- jam on the brakes (急刹)
+- spin out (急刹后，车滑出去)
+- pace car (the car used when accidents happen which leads other cars but is not a competitor in the face)
+- cleanup crew
+- tow truck
+- partner in crime (a person you always do things together with)
+- last stretch (final moment before ending)
+  - We are finally in the stretch of a long week, I can't wait to go home
+  - He is in the last stretch of his college year, and soon he will graduate
+- close one (a situation almost dangerous, but isn't) 很悬
+  - That was a close one, the teacher almost caught me cheating
+  - It's a close one, we are tied and the game is almost over
+  - My girlfriend almost found the present I hidden under the bed, it was a close one
+- Alonso takes the checkered flag!
+- He makes his way into the pit.
+
+* 078 - International Workers Day
+
+- genesis (formal: origin; beginning)
+- fire into (shoot guns into)
+- take drastic measures
+
+* 079 - Funky Galaxy Battles
+- once and for all (forever)
+- tractor beam
+- Not so fast! (别着急嘛)
+
+#+BEGIN_EXAMPLE
+Lord Hater! We have an unidentified spacecraft taking off from the rear dock!
+They somehow managed to escape our tractor beam!
+#+END_EXAMPLE
+
+* 080 - I'm Sorry I Love You VII
+- stalk someone
+- nut job (crazy person)
+- get worked up (angry, excited, or upset about something)
+  - I'm sorry to get you worked up over nothing.
+
+* 081 - Getting A Hair Cut
+- sideburns
+- afro
+- a million bucks (Very good. To look great)
+  - You look like a million bucks
+- take a little off the top
+- buzz cut (寸头)
+- mohawk
+- crew cut (军队平头)
+- flat top (平顶)
+- dred locks
+- pony tail
+- braid
+
+* 082 - New Guy In Town V
+- heck (hell in a more polite form)
+- break free (挣脱)
+  - We tied up the dog, but it was able to break free
+  - I am glad that I break free from a horrible relationship
+  - I wanna break free from all my daily responsibilities
