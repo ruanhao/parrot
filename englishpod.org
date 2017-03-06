@@ -1016,14 +1016,14 @@
 - blow it (to miss an opportunity or chance)
 
 #+BEGIN_EXAMPLE
-  I can｡ｯt believe she｡ｯs on a date with me! I｡ｯm so lucky!
+  I can't believe she's on a date with me! I'm so lucky!
   I must be the luckiest guy in the world! I want to scream at the top of my lungs,
-  "I｡ｯm the luckiest dude in the world! "
-  Oh, shut up! Don｡ｯt be such a dumb ass. She｡ｯs so hot. Wait, I can｡ｯt say that.
-  That｡ｯs sexist. She｡ｯs so hot, She｡ｯs making me sexist. Oh my god! I｡ｯm such a tool.
-  Okay, get it together. Uhh, she｡ｯs eating salad. Oh right, I have a salad.
+  "I'm the luckiest dude in the world! "
+  Oh, shut up! Don't be such a dumb ass. She's so hot. Wait, I can't say that.
+  That's sexist. She's so hot, She's making me sexist. Oh my god! I'm such a tool.
+  Okay, get it together. Uhh, she's eating salad. Oh right, I have a salad.
   Oh, crap! Which fork do I use? Dammit!
-  She｡ｯs going to think I｡ｯm a moron. What the hell are all these forks for?
+  She's going to think I'm a moron. What the hell are all these forks for?
   Which one did she use? Okay, chill... be cool, be cool. Just take a fork...
   eat your salad...
 #+END_EXAMPLE
@@ -1104,3 +1104,12 @@ They somehow managed to escape our tractor beam!
   - We tied up the dog, but it was able to break free
   - I am glad that I break free from a horrible relationship
   - I wanna break free from all my daily responsibilities
+
+* 083 -  Using The ATM
+- local authority (police)
+- pound key (#)
+
+* 084 - At the Pharmacy
+- hydrogen peroxide
+- syringe
+- ribbed condom
