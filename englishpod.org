@@ -4,7 +4,6 @@
 #+LANGUAGE:  en
 #+LINK_HOME: http://www.github.com/ruanhao
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css" />
-#+OPTIONS:   H:2 num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
 #+STARTUP:   showall
 
 
@@ -672,7 +671,8 @@
   - A: Wow! This restaurant is really expensive. B: No kidding.
 
 #+BEGIN_EXAMPLE
-  It says here that the school that is dancing now is one of the oldest and most *prestigious* samba schools in Rio.
+  It says here that the school that is dancing now is one of the oldest
+  and most *prestigious* samba schools in Rio.
 #+END_EXAMPLE
 
 * 049 - Daddy Please!
@@ -1158,7 +1158,7 @@ They somehow managed to escape our tractor beam!
 
 * 089 - At The Airport
 
-* 090 -  I'm Sorry I Love You VIII
+* 090 - I'm Sorry I Love You VIII
 
 - come clean (confess)
 - whereabouts (the approximate place, where a person or thing is)
@@ -1167,3 +1167,124 @@ They somehow managed to escape our tractor beam!
   - You live in Toronto too? Whereabouts do you live?
 - white lie (an unimportant, small lie)
 - pull someone's leg (tell false information to for fun)
+
+* 091 - Aliens
+- greetings earthlings (often heard from aliens)
+- Orion (猎户座)
+- from afar (from a long distance)
+- come with consequence
+- downfall
+- play God
+  - Who are you to play God with our fate?
+- belligerent (好斗的，挑衅的)
+  - Don't take that belligerent tone with me, I don't want to argue with you.
+  - Tom is always so belligerent, it is impossible to talk with him.
+- anguish (intense sufferings)
+  - The end of marriage caused her great anguish.
+- what gives you the right to do something
+
+* 092 - 1950's
+- Sadie Hawkins dance (an informal dance usually in high school with girls invite boys)
+- heya [hi, you (informal)]
+- swell (great)
+  - How are you? I'm swell.
+- cool it (relax)
+  - Just cool it, now is not the right time to get angry.
+  - You need to cool it and stop yelling at me.
+- pipsqueak (someone who is not important)
+- a blast (a very fun time)
+  - I had a great pary last night, it was a blast.
+- ease off (stay away, relax)
+  - You need to ease off the junk food.
+  - Mom had been putting too much presure on me, I wish she would ease off.
+  - You have pushed Mary too much, you need to ease off a bit.
+
+** Supplementary
+- get ape (get really angry and explode)
+- be on cloud nine (be really happy)
+- cool cat (a very cool person)
+- flick (movie, film)
+- party pooper (someone who spoils other people's enjoyment by disapproving of or not taking part in a particular activity)
+- no sweat (it's no problem)
+
+* 093 - Volleyball
+
+- encounter (meet for a game or battle)
+- powerhouse (a highly energetic, strong team)
+- bumps it to the setter
+- to spike the ball (hit the ball by palm)
+- let server (the ball touches the net in a serve but still crosses into the opponents’ court)
+- in top shape (in their best condition)
+
+** Supplementary
+- side out (换发球)
+- dig (救球)
+- whiff (挥空，击空)
+
+* 094 - Big Bang Theory
+- matter (物质)
+- rigor (the state of something being very exact)
+- thus
+  - So you can see that we studied the fossil record and thus we can conclude that evolution is a fact.
+  - He broke severe company policies, thus we had to fire him.
+- tout (talk positive)
+  - The company is touting the benefits of its product.
+- equivocate (use big words to try to mislead)
+
+* 095 - Talking About a Past Event
+- in ages (for a long time)
+- run into somebody (meet somebody accidentally)
+- hilarious (very amusing)
+- freak out (lose control of your emotions positively)
+- lose it (lose control of your emotions negatively)
+  - When I showed my boss the sales figures, he completely lost it.
+** Supplementary
+- go nuts (go crazy; lose control of yourself)
+- a riot (a very fun time; or a funny event)
+- bizarre (very strange or unusual)
+- anecdote (a short, amusing story)
+
+* 096 - 1960’s English
+- pad (a place where a person lives)
+  - bachelor pad
+- dig (really like)
+  - I dig it (I understand)
+  - I dig this movie.
+- throw a bash [host a party (usually party)]
+  - Throw a celebrate party in my house.
+- far out (the latest, cool)
+- crash (stay for free)
+  - Hey man, can I crash your place at night?
+  - I lost my key so I crashed in my friend's house.
+- groovy (really cool)
+- split (leave now)
+  - Hurry up, we've got to split before the police get here.
+  - This party is boring, let's split.
+- hang loose (to relax)
+- peace out (see you later)
+- happening scene (an extremely exciting moment)
+
+* 097 - Weather Forecast
+- hover around (float around)
+  - Unemployment rate is hovering around 10% mark, despite the goverment's attempt to stimulate economy.
+  - The waiter has just kept hovering around us all night, it was very annoying.
+  - The company's margin this year is hovering around 40% mark.
+- isolated downpour
+- gust
+- sleet (a mix of rain and snow)
+- mixed bag (a collection of different kinds of things)
+** Supplementary
+- drizzle (light rain)
+- hazy (describes when air is not clear becaause of fog or smog)
+- blizard (a very strong snow storm)
+
+* 098 - Flattering
+- bar exam (the exam to qualify as a lawer)
+- obnoxious (really annoying)
+- you haven't aged a day
+- enough about me
+- A: it's been great talking to you, but I have to get going. B: Same here.
+- but of course
+** Supplementary
+- two-faced (pretend to like someone when you don't; be hypocritical)
+- stab (someone) in the back
