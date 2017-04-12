@@ -332,7 +332,7 @@
   - with the civil war, a famine and the inflation, the country has been in turmoil for 10 years
   - there's been a lot of turmoil in my life recently, i've moved to new city, changed my job, broke up with my girlfiend
   - the devaluation of dollar caused a great deal of turmoil in the market
-- nest egg (money that is saved to pay for something in the future, usually a house, or retirement)
+- nest egg (money that is saved to pay for something in the future, usually a house, or retirement, 储备金)
 - stimulus package (amount of money the government uses to improve the economy)
 - hit up (ask for money)
   - I'm gonna hit up the boss for a raise.
@@ -2066,3 +2066,174 @@ determine our company's future.
 - err on the side of caution (慎之又慎)
 - schizophrenia
 - the grid (informal way of describing the network of information that can be used to keep track of someone)
+
+* 149 - Moving
+- make way for (腾出空间)
+- up (expire)
+- move in (搬入，迁入)
+- tarantula (狼蛛)
+** Supplementary
+- in the dark on something (一无所知)
+- bubble wrap (气泡布)
+- moving truck (搬家车)
+- mover (搬运工)
+
+* 150 - Bug Spray
+- sneaky (鬼鬼祟祟的)
+- repellent (驱虫剂)
+- bug zapper (灭杀器)
+** Supplementary
+- dengue fever (登革热, break-bone fever)
+- eradicate (根除)
+
+* 151 - Darwin's Theory Of Evolution
+- put thinking caps on (好好想想)
+- without further ado (闲话少说)
+- nerdy (书呆子)
+- Mother Nature (大自然)
+- conundrum (谜团)
+- up to one's neck in something (忙于)
+  - I'm up to here with your nonsense
+- sick and tired (受够了)
+  - I'm sick and tired of all of your whining.
+- turn something on its head (调转)
+- full of holes (漏洞百出)
+- quote-unquote (打引号的)
+
+* 152 - Cut It Out
+- slurp (吸汤，水)
+- shoot the breeze (chat)
+- call a truce (停火)
+- cut something out (stop something)
+- let off steam (发泄情绪)
+- forgive and forget (既往不咎)
+- play prank (恶作剧)
+
+* 153 - Homesick
+- nostalgic
+- bummed out (失望，沮丧)
+- wingman (僚机)
+- going on a drinking binge (痛饮)
+
+* 154 - Rock Band
+- obnoxious
+- drum set (架子鼓)
+- audition (试唱)
+
+* 155 - Bachelor Party
+- bachelorette
+- lap dance (膝上艳舞)
+- gag gift (恶作剧礼物)
+- over the top (过度，过分)
+** Supplementary
+- going away party
+- pull an all nighter (通宵)
+- stag party (同 bachelor party)
+
+* 156 - Scary Story
+- great aunt (大姨妈)
+- tempter (魔鬼)
+- the old serpent (魔鬼)
+- Ouija board (通灵板)
+- for that matter (就那件事)
+- outskirt (郊边)
+- eerie (诡异的)
+- ghoulish (毛骨悚然的)
+- Vitruvian Man (维特鲁威人)
+- ward off (挡开，架开)
+
+
+* 157 - Trick Or Treat
+- pillow case (枕套)
+- Jackolantern
+
+* 158 - All Saints Day
+- altar (祭坛)
+- the deceased (亡者)
+- the departed
+
+* 159 - Getting Flowers
+- chubby (more polite way of calling someone fat)
+- orchid (兰花)
+- carnation (康乃馨)
+- that's not gonna cut it (that's not enough)
+  - This dessert is not gonna cut it, we need something much fancier.
+- insinuate (影射)
+- arrangement (插花术)
+** Supplementary
+- bouquet (花束)
+- greenery (绿色植物)
+- centerpiece (桌子中央的装饰)
+- to suck up (拍马屁)
+
+
+* 160 - Health Insurance
+- jam (a problem or diffcult situation, 困境)
+- HMO (a company that provides health insuarance)
+- Pre-existing Condition (已有疾病)
+- not in a million years (绝对不可能)
+- co-pay / deductible / coinsuarance
+  #+BEGIN_EXAMPLE
+  比如保险中规定医疗费用达到1000以上，多出的部分保险公司才报销，1000以下自理，
+  这个1000就是deductible。
+
+  又比如总共花了3000，那多出的2000，根据不同的医疗服务项目，
+  有的是受保人要固定支出的共同费用（比如10元，100元），这种固定的共同费用就是Copay/Copayment；
+  有的是受保人按照一定比率自己支付的费用（比如10%，20%），这种按照比率收取的费用就是Coinsurance。
+  #+END_EXAMPLE
+
+* 161 - Computer Games
+- blow someone off (放鸽子)
+- hooked on (addicted)
+
+* 162 - Veteran's Day
+- armistice (停战协议)
+- treaty (条约)
+- commemorate (memorize)
+- flunk (挂科)
+** Supplementary
+- poppy (罂粟花)
+
+* 163 - Social Security
+- Social Security (社保)
+- 401K plan (养老金)
+- put money away (存钱)
+- piggy bank (储蓄罐)
+- run off (跑路)
+
+* 164 - Apology Letter
+- I failed you (I let you down)
+- jeopardize (危害)
+- just being (存在)
+- hold onto (紧紧守护住)
+
+* 165 - Asking For A Loan
+- credit score (信用评分)
+- default (违约，未偿还债务)
+- pay back (repay)
+- pride ourself in something (引以为豪)
+- principal (本金)
+- assess (评估)
+
+* 166 - Dr. Botox
+- botox (注射肉毒杆菌)
+- plastic surgery (整容手术, cosmetic surgery)
+- vain (虚荣)
+- breast implant (隆胸, boob job)
+- wrinkle (fold, ridge or crease)
+- sagging (下垂的)
+- nose job (隆鼻)
+- drool (垂涎三尺)
+- black and blue (遍体鳞伤，鼻青眼肿)
+** Supplementary
+- skin graft (植皮)
+- face lift (拉皮，面部提紧术)
+- stretch mark (妊娠纹)
+- tummy tuck (吸脂)
+- lipo suction
+
+* 167 - Learning How To Drive
+- yield sign
+- steering wheel
+- sidewalk (行人道)
+- shift gear (换挡)
