@@ -1055,7 +1055,7 @@
 - last stretch (final moment before ending)
   - We are finally in the stretch of a long week, I can't wait to go home
   - He is in the last stretch of his college year, and soon he will graduate
-- close one (a situation almost dangerous, but isn't) 很悬
+- close one (a situation almost dangerous, but isn't) 好险
   - That was a close one, the teacher almost caught me cheating
   - It's a close one, we are tied and the game is almost over
   - My girlfriend almost found the present I hidden under the bed, it was a close one
@@ -2237,3 +2237,139 @@ determine our company's future.
 - steering wheel
 - sidewalk (行人道)
 - shift gear (换挡)
+- pull over (move a car to the side of the road and stop)
+- take someone alive (活捉)
+
+* 168 - Cooking A Thanksgiving Dinner
+- mouth-watering (馋涎欲滴)
+- that hit the spot (very satisfying)
+- whisk
+- grated cheese (磨碎的干酪)
+- simmer (徐徐沸腾)
+** Supplementary
+- mashed potatoes
+- gravy (肉汁)
+- apple cider (苹果酒)
+- corn on the cob (玉米棒子)
+
+* 169 - Roller Coaster
+- Roller Coaster (云霄飞车)
+- settle down (relax, 平静下来，安顿下来)
+- rip-off (宰客)
+- throw up (呕吐)
+- barf (呕吐物)
+** Supplementary
+- loop-the-loop (complete vertical loop)
+- safety/lap bar (安全压杆)
+- harness (挽具，保护带)
+- imperial system (英制)
+
+* 170 - Wedding Doubts
+- get cold feet (临阵畏缩)
+- soul searching (反省)
+- slap some sense into (remind someone to stay calm)
+- sweat like a pig (大汗淋漓)
+- I can't go through with this (我做不了这个)
+- cut the crap (少废话)
+- You had me going there for a minute/while (我信了你的邪)
+- ramble on (漫谈，东拉西扯)
+** Supplementary
+- bachelor pad (单身公寓)
+- betrothal (定亲)
+- see eye to eye (达成共识)
+
+* 171 - Buying A Camera
+- point-and-shoot (傻瓜相机)
+- interest someone in (说服去买)
+- polarizing filter (偏振片)
+- entry-level (入门级)
+- SLR (单反)
+- kit lens (相机套头, telephoto lens 是其中一种)
+- that will do (够用了)
+
+* 172 - Dry Cleaners
+** Supplementary
+- to press (iron)
+
+* 173 - Preparing A Budget
+- skyrocket (暴涨)
+- economic boom (经济繁荣)
+** Supplementary
+- bring in the dough (to make money)
+- breadwinner (one whose earnings are the primary source)
+
+* 174 - Getting A Manicure
+- get someone's nails done (have a manicure)
+- pamper (精心照料)
+- file (锉刀)
+- coat (涂层)
+- apply (涂，敷)
+- nail polish (指甲油)
+- cuticle (甲小皮)
+** Supplementary
+- French Manicure
+- nail clipper
+- acrylic nails (水晶甲)
+- gel nail (凝胶甲)
+
+* 175 - New Years Resolution
+- on the go (忙忙碌碌地)
+** Supplementary
+- clean slate (new start by clearing the recored)
+  - Let's clean slate (一笔勾销)
+  - Start with clean slate (从零开始)
+
+* 176 - Heating
+- run up (增加费用，债务)
+  - run up bill
+- thermostat (温度调节器)
+- chilly (有点冷)
+- furnace (火炉)
+- turn up (increase)
+  - turn up the heat/noise/volumn/radio
+** Supplementary
+- fireplace (壁炉)
+- wood stove (柴火炉)
+- thermos (保温杯，瓶)
+- sub-zero (零下的)
+
+* 177 - Decorating A Christmas Tree
+- stocking (长筒袜)
+- chimney (烟囱)
+** Supplementary
+- tinsel (金银丝)
+- garland (花冠)
+
+* 178 - Finding The Perfect Present
+- window shop (只看不买)
+- when it comes down to it (in reality, actually, the truth is)
+- tacky (俗气)
+- gift certificate (购物券)
+- take it easy (可用于再见)
+** Supplementary
+- voucher (代金券)
+- shop till you drop (买到手软)
+- wrack your brain (冥思苦想, think really hard)
+
+* 179 - Silent Night
+** Supplementary
+- nativity scene
+  #+BEGIN_EXAMPLE
+  a depiction of Jesus’s birth in a manger,
+  including the parents, Mary and Joseph
+  #+END_EXAMPLE
+
+* 180 - Jingle Bells
+** Supplementary
+- Christmas carol (圣诞圣歌)
+- catchy (朗朗上口)
+- bobtail (短尾巴)
+- mumble
+
+* 181 - Christmas Day
+- grouch (爱发牢骚的人)
+- knock oneself out (自便)
+- mashed potato (土豆泥)
+- yam (山药)
+** Supplementary
+- wrapping paper (礼物纸)
