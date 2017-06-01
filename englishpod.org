@@ -3591,3 +3591,12 @@ determine our company's future.
 
 * 325 - Small Talk 7 : Talking About A Trip
 -
+
+* 328 - Small Talk 8 : Talking About Work
+
+* 329 - Going To The Bakery
+- croissants (可颂，羊角包)
+- yeast (酵母)
+
+* 330 - Fortune Telling
+-
