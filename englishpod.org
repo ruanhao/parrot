@@ -3590,7 +3590,12 @@ determine our company's future.
 * 324 - Thanksgiving Dinner
 
 * 325 - Small Talk 7 : Talking About A Trip
--
+
+* 326 - Report Card
+- report card (成绩单)
+
+* 327 - Buying A Pair Of Jeans
+- your love handles (腹部赘肉)
 
 * 328 - Small Talk 8 : Talking About Work
 
