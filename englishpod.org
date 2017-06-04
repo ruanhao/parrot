@@ -3716,3 +3716,19 @@ determine our company's future.
 * 350 - Talking About Relatives
 - extended family
 - you lost me
+- half brother/sister
+
+* 351 - Vaccinations
+- booster shot (后续疫苗注射)
+- administer the booster
+  - administer the vaccine
+
+* 352 - The 7 Wonders Of The World
+- Taj Mahal
+- Petra
+- Machu Pichu
+- Colosseum
+- complex (建筑群)
+- airfare (机票价格)
+
+* 353 - College Life
