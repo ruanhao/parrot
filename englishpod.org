@@ -3747,3 +3747,23 @@ determine our company's future.
 
 * 355 - Lending Money
 - collateral (抵押物)
+- repay in full (还清)
+** Supplementary
+- barter (物物交换)
+- mooch (揩油高手)
+  - mooch off someone
+
+* 356 - Coins And Money
+- piggy bank
+- dime (1/10 dollar)
+- nickel (1/20 dollar)
+- quarter (1/4 dollar)
+- penny (1/100 pound)
+- break/change a five dollar bill
+
+* 357 - Making A Dinner Reservation
+- first come first serve
+- diner (A place that offers a wide range of foods, mostly American, a casual atmosphere and late operating hours)
+
+* 358 - Text Me
+- drop a call (挂电话)
