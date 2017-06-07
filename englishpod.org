@@ -3770,5 +3770,17 @@ determine our company's future.
 
 * 359 - Email Scam
 - dodgy (可疑)
+  - food can be dodgy (poison)
+  - person can be dodgy
 - con artist (行骗高手)
 - swindle (诈骗)
+- wire someone money
+- It is a popular scam (这是很流行的骗术)
+
+* 360 - Urban Legends
+- subliminal (潜意识的)
+- far fetched (太牵强, 很难相信是真的)
+- satanic (残忍的，邪恶的)
+** Supplementary
+- cynical (a person who believes that only selfishness motivates human actions)
+- grounded (对生活持有理智和现实态度的, quality of not letting emotions or impulses get the best of you)
