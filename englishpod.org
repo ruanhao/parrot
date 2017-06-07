@@ -3767,3 +3767,8 @@ determine our company's future.
 
 * 358 - Text Me
 - drop a call (挂电话)
+
+* 359 - Email Scam
+- dodgy (可疑)
+- con artist (行骗高手)
+- swindle (诈骗)
