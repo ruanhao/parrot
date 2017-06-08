@@ -6,7 +6,6 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css" />
 #+STARTUP:   showall
 
-
 * 001 - Difficult Customer
 
 - still working on
@@ -3805,4 +3804,9 @@ determine our company's future.
 - wimp (窝囊废)
 
 * 364 - Hiring Help
-- going rate
+- going rate (the current price or fee of something)
+- domestic help (佣人)
+
+* 365 - Household Chores
+- pull your weight (do your fair share of work or take your fair share of responsibility)
+- get to it (开始干吧)
