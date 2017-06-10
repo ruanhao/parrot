@@ -14,12 +14,12 @@
 - go with (to choose)
 - grab (get sth quickly)
 
-* 002 - Calling in Sick
+* 002 - Calling In Sick
 
 - feel ill today
 - coming down with the flu
 - calling in sick
-- was hoping to do stm
+- was hoping to do sth
 - feeling slightly feverish
 
 * 003 - Hotel Upgrade
@@ -128,21 +128,18 @@
 - the bottom line (the net profit; the amount of money a business makes after expenses)
 
 * 014 - I'm in Debt
-
 - recession
 - take out/get a loan (borrow money)
 - hit me pretty hard
 - on top of all that (besides that)
 
 * 015 - I'm sorry, I love you
-
 - watch out
 - knock over (make something fall over)
   - knock over the vase
-  - i didn't mean to knock you overd
+  - i didn't mean to knock you over
 
 * 016 - Turn left here!
-
 - step on it (drive faster)
 - have a fit (get angry)
 - cut through (quickly go past or though something that blocks you)
@@ -154,7 +151,6 @@
 - take a side street
 
 * 017 - Here Comes the Bride
-
 - bride and groom walk down the aisle
 - bridesmaid and groomsman
 - maid of honor (female fiend or relative who acts as a witness at the wedding)
@@ -169,9 +165,8 @@
   - food's good at the reception
 
 * 018 - Protest
-
-- bailout (the act of saving a company form money problems)
-- placard
+- bailout (the act of saving a company form money problems, 紧急救助)
+- *placard*
 
 #+BEGIN_EXAMPLE
   A: This is Action 5 News reporter Sarah O'Connell reporting live from Washington, D. C.
@@ -207,8 +202,9 @@
 * 019 - Christmas Chronicles I
 
 - eggnog (traditional Christmas drink containing eggs, cream, sugar and rum)
-- get a load of (look at)
+- *get a load of* (look at)
 - pout
+- *tis* = it is
 - don't take that tone with me
 - Rudolph, Prancer and Dancer
 - we've got ourselves a situation (we have a problem)
@@ -225,10 +221,10 @@
 
 * 020 - I Can See Clearly Now
 
-- 20/20 vision (perfect eyesight)
+- *20/20 vision* (perfect eyesight)
 - as blind as a bat (have really poor vision)
 - check-up (regular examination by a doctor to make sure a person is healthy)
-- make out (see clearly)
+- *make out* (see clearly)
 - head on
   - head on in to the room
   - head on out to the park
@@ -236,7 +232,6 @@
   - head on over to the room
 
 * 021 - What Do You Do
-
 - go on about (talk about something a lot)
   - my mom is always going on about how I should get married
 - how is it going (how are you)
@@ -251,11 +246,10 @@
 #+END_EXAMPLE
 
 * 022 - Christmas Chronicles II
-
 - candy cane
-- book (slang: arrest)
+- *book* (slang: arrest)
 - speeding (driving too fast)
-- impounded (held by the police)
+- *impounded* (held by the police)
 - under heavy (being attacked or hurt)
   - we're under heavy attack
   - we're under heavy fire
@@ -266,11 +260,11 @@
 
 * 023 - Making an Appointment
 
-- booked solid
-  - I can't get a hotel room, theyrre booked solid until after the New Year.
+- *booked solid*
+  - I can't get a hotel room, they're booked solid until after the New Year.
   - I'm sorry, there are no seats available on this flight, werre booked solid over the Christmas holidays.
   - Sorry, I can't meet with you today, I'm booked solid.
-- fit you in (find time to see some- one in a busy schedule)
+- *fit you in* (find time to see someone in a busy schedule)
 
 * 024 - Where should we eat
 
@@ -281,8 +275,7 @@
 - a hole in the wall (a very small, usually cheap restaurant or bar)
 
 * 025 - Planning For The Worst
-
-- contingency plan (a plan that prepares for a situation where things can go wrong)
+- *contingency plan* (a plan that prepares for a situation where things can go wrong)
 - backup plan
 - pandemic (a situation where a disease is spread out very quickly, and affects many people in many countries)
 - epidemic (event where a disease spreads really quickly and affects a large number of people)
@@ -296,7 +289,6 @@
 #+END_EXAMPLE
 
 * 026 - New Year Resolution
-
 - work out (exercise at a gym)
 - stuffed
   - i can't eat more, i'm stuffed
@@ -308,7 +300,7 @@
 * 027 - Asking for Time Off
 
 - take some time off (stop working for a short time)
-- bank holiday (public holiday recognized by law)
+- *bank holiday* (public holiday recognized by law)
 - used up all my vacation days
 
 * 028 - I'm Sorry, I Love You II
@@ -333,7 +325,7 @@
   - the devaluation of dollar caused a great deal of turmoil in the market
 - nest egg (money that is saved to pay for something in the future, usually a house, or retirement, 储备金)
 - stimulus package (amount of money the government uses to improve the economy)
-- hit up (ask for money)
+- *hit up* (ask for money)
   - I'm gonna hit up the boss for a raise.
   - Are you trying to hit me up for money?
   - I don't have any cash. Have you tried hitting up Sophie? She's rich.
@@ -378,19 +370,18 @@
 #+END_EXAMPLE
 
 * 030 - New Guy in Town II
-
 - give me the creeps (make someone to feel scared and uncomfortable)
-- rope me into something (convince someone to do something)
+- *rope me into something* (convince someone to do something)
   - You always rope me into things like this!
-- potluck (a party that requires everybody to bring food)
+- *potluck* (a party that requires everybody to bring food)
+- get myself into (陷入)
 
 * 031 - Canceling an Appointment
-
-- come up (occur in an unexpected way)
-- call off (cancel)
+- *come up* (occur in an unexpected way)
+- *call off* (cancel)
 - double book (have two appointments or meetings at the same time)
-- push back (move a meeting or ap- pointment to a later time)
-- rain check (a promise or offer to do something in the future that is not possible to do now)
+- *push back* (move a meeting or appointment to a later time)
+- *rain check* (a promise or offer to do something in the future that is not possible to do now)
 - a bit of an emergency
 - what's up
   - A: what's up? B: not much
@@ -402,7 +393,7 @@
 - debit card (a card for you to take money out of ATM)
 - overdraft (taking out more money than what is available in the account)
 - I'll get you (a way to ask people to do things)
-  - I'll get you to fill out this paperwork
+  - I'll get you to fill out this paperwork (文件)
 
 #+BEGIN_EXAMPLE
   Well, if you just take a look here, see, with our chequing account,
@@ -423,9 +414,12 @@
 * 034 - Live from Washington
 
 - inaugural address
-- swear in (place someone in a new position by holding an official ceremony where he promises to do the job well)
+- *swear in* (place someone in a new position by holding an official ceremony where he promises to do the job well)
   - the swearing-in ceremony
 - the who's who (something like a party of important and famous people in a particular industry)
+- execute the office of the presidency
+- true to (忠实于，符合)
+- *on the ground* (实地，现场)
 - dignitary (person with a high rank or position, especially in government or religion)
 - palpable (so strong you can feel it, obvious)
 - go down in history (be remembered)
@@ -459,7 +453,7 @@
 
 * 035 - He's not a Good Fit
 
-- a good fit
+- *a good fit*
 - work ethic (attitude to work)
 - a bad apple (a bad member of a group who makes things more difficult for others)
 - Come on, Geoff, as if you don't check Facebook at work
@@ -467,29 +461,27 @@
   - And the bottom line is I don't think he's a good fit for our company
 
 * 036 - I'm Sorry, I Love You III
-
-- to get a hold of someone (find or contact someone)
+- *to get a hold of someone* (find or contact someone)
 - stand someone up (fail to keep the appointment to meet someone)
 - have any idea
   - Julie kissed my boyfriend. Does she have any idea how mean that was?
 - I have heard it all before
 
 * 037 - Chinese New Year
-
 - firecracker and fireworks
-- set off (cause something to explode)
+- *set off* (cause something to explode)
   - set off fireworks
 - Optimus Prime
 - red envelope money
 
 * 038 - Buying a Car
-
 - sedan (a car with four doors)
 - gas mileage (the amount of gas used per mile)
 - sleep on it (think about something further and make a decision later)
 - anti lock brakes
+- look no further (不用再观望了)
 - I'm just browsing
-  - I'm just browsing; seeing what窶冱 on the lot.
+  - I'm just browsing; seeing what's on the lot.
 
 #+BEGIN_EXAMPLE
   Kids these days all have cars.
@@ -530,6 +522,8 @@
   - I sold my house and closed my bank account. I don't have any more ties to my home country.
   - Alvin enjoyed being single. He wasn't ready for the ties of family life.
   - Diplomatic relations have improved and the ties between the two countries are stronger.
+- remain (停留)
+- bank statement (存款证明)
 
 * 044 - Small Talk
 
@@ -543,16 +537,10 @@
 * 045 - I'm Sorry I love You IV
 
 - pull yourself together (calm down, relax, organize your thoughts)
-- cheat on you
+- Cheat on you
 - cheat you
-- toilet jokes
+- toilet jokes (黄段子)
 - I'm sure he's cheating on me! Why else wouldn't he call?
-
-#+BEGIN_EXAMPLE
-  When I had you, I treated you bad and wrong dear.
-  And since, since you went away, don't you know I sit around with my head hanging down
-  and I wonder who窶冱 loving you.
-#+END_EXAMPLE
 
 * 046 - Emergency Room
 
@@ -570,87 +558,24 @@
 - CPR (procedure in which air is blown into another persons lungs though their mouth)
 - resuscitate (make someone who stopped breathing start breathing again)
 - defibrillator (machine that uses electricity to shock and restart the heart)
-- out of the woods (free from danger)
+- *out of the woods* (free from danger, 脱离危险期)
 - good as new
 - hamster
 
-#+BEGIN_EXAMPLE
-  A: Help! Are you a doctor? My poor little Frankie has stopped breathing!
-     Oh my gosh, Help me! I tried to perform CPR, but I just don't know if
-     I could get any air into his lungs! Oh, Frankie!
-
-  B: Ellen, get him hooked up to a monitor! Someone page Dr. Howser.
-     Get the patient to hold still, I can't get a pulse!
-     Okay, he's on the monitor. His BP is falling! He's flatlining!
-     Someone get her out of here! Get me the defibrillator.
-     Okay, clear! Again! Clear! Come on!
-     Dammit! I'm not letting go of you! Clear! I've got a pulse!
-
-  C: Okay, what's happening?
-
-  B: The patient is in acute respiratory failure, I think we're going to have to intubate!
-
-  C: Alright! Tube's in! Bag him! Someone give him 10 cc's shot of adrenaline!
-     Let窶冱 go, people move, move!
-
-  A: Doctor, oh, thank god! How is he?
-
-  B: We managed to stabilize Frankie, but he's not out of the woods yet;
-     he's still in critical condition. Werre moving him to intensive care, but...
-
-  A: Doctor, just do whatever it takes. I just want my little Frankie to be okay.
-     I couldn't imagine life without my little hamster!
-#+END_EXAMPLE
-
 * 047 - Just In Time Strategy
 
-- obligate (make a person do some- thing because it is the right thing to do)
+- obligate (make a person do something because it is the right thing to do)
+- *credit crunch* (信贷危机)
 - just-in-time strategy (trying to not be overstocked)
 - lead time (the time between the beginning of a process and its end)
   - production lead time
   - delivery lead time
-- at a given machine (at a given machine)
+- at a given machine
   - In this factory how many cars are in production at any given time?
   - On any given day about forty million people use the Internet.
   - Firefighters have to be ready to attend an emergency at any given moment.
 - I'm with you on this one (I agree with you)
 - carrying cost (the cost of holding inventory)
-
-#+BEGIN_EXAMPLE
-  A: I called this meeting today in order to discuss our manufacturing plan.
-     As I'm sure you're all aware, with the credit crunch, and the global financial crisis,
-     we're obligated to look for more cost efficient ways of producing our goods.
-     We don't want to have to be looking at redundancies.
-     So, we've outlined a brief plan to implement the just-in-time philosophy.
-
-  B: We have two basic points that we want to focus on. First of all, we want to reduce our lead time.
-
-  C: Why would want to do that? I think this is not an area that really needs to be worked on.
-
-  B: Well, we want to reduce production and delivery lead timesfor better overall efficiency.
-
-  A: Right, production lead times can be reduced by moving work stations closer together,
-     reducing queue length, like for example,
-     reducing the number of jobs waiting to be processed at a given machine,
-     and improving the coordination and cooperation between successive processes.
-     Delivery lead times can be reduced through close cooperation with suppliers,
-     possibly by inducing suppliers to locate closer to the factory or
-     working with a faster shipping company.
-
-  C: I see... That makes sense.
-
-  B: The second point is that we want to require supplier quality assurance and
-     implement a zero defects quality program. We currently have far too many errors that
-     lead to defective items and therefore, they must be eliminated.
-     A quality control at the source program must be implemented to give workers
-     the personal responsibility for the quality of the work they do, and the authority to
-     stop production when something goes wrong.
-
-  C: I'm with you on this one. It's essential that we reduce these errors;
-     we've got to force our suppliers to reduce their mistakes.
-
-  A: Exactly. Well, let's look at how we're going to put this plan into action.
-#+END_EXAMPLE
 
 * 048 - Carnival in Rio!
 
@@ -679,12 +604,12 @@
 - fine then
   - Fine then! If you won't go with me I'll go by myself.
 - Duh!
-- No can do, Sorry!
+- No can do, Sorry! (办不到)
 
 * 050 - New Guy In Town III
 
 - Gothic
-- poiter (tips, advice, hints)
+- pointer (tips, advice, hints)
   - I want to dance salsa better. Can you give me a few pointers?
 - spike [to add alcohol or drugs to (food or drink)]
 - Merlot
@@ -697,7 +622,7 @@
 * 051 - What a Bargain!
 
 - bargin (good price)
-- out of my price range
+- *out of my price range*
 - shop around
 - pricey (expensive)
 - freebie (a free item that is usually given to promote a product)
@@ -713,11 +638,11 @@
 
 * 053 - Head Chef [Italy Accent]
 
-- sous chef (chef that helps and assists the head chef who does not really cook)
+- *sous chef* (chef that helps and assists the head chef who does not really cook)
 - running low on (to not have so much, having not enough)
   - You'd better look for a gas station, we're running low on fuel.
   - My flashlight is running low on battery, hurry up before gets dark.
-- in the weeds (in a difficult situation)
+- *in the weeds* (in a difficult situation)
 
 #+BEGIN_EXAMPLE
   I'm working as fast as I can! We're really in the weeds!
@@ -727,7 +652,7 @@
 
 * 054 - I'm Sorry I Love You V
 
-- blaze (big fire)
+- *blaze* (big fire)
 - I was up north to put out some major forest fires!
 - in the middle of nowhere (far from a city or town)
   - We are in the middle of nowhere. How can we find our way back home?
@@ -738,31 +663,19 @@
 - everything seems to be in order
 
 * 055 - Hockey
-
+- howdy (你好)
 - puck (small, round, black object that is used to play hockey)
 - rink (ice surface used to play hockey or skate on)
-- face off (a way of beginning a game by dropping the puck between two players)
+- face off (冰球开球)
 - check (use your body to push someone in hockey)
-- breakaway [state of becoming separated from a large group (especially in sports)]
-
-#+BEGIN_EXAMPLE
-  The ref is calling the players for the face-off and here we go!
-  The Russians win possession and immediately set up their attack!
-  Federov gets checked hard into the boards!
-
-  Maurice Richard has the puck now, and passes it to the center.
-  He shoots! Wow what a save by the goalie!
-
-  The puck is back in play now. Pavel Bure is on a breakaway!
-  He is flying down the ice! The defenders can't keep up! Slap shot! He scores!
-#+END_EXAMPLE
+- breakaway [state of becoming separated from a large group (especially in sports), 突破]
 
 * 056 - Planning a Bank Robbery
 
-- fill in for someone (take place for someone)
+- *fill in for someone* (take place for someone)
 - replica (fake copy of a product)
   - In the street maybe you can see replica watches.
-- patch (someone) through (connect to another phone line)
+- *patch (someone) through* (connect to another phone line)
   - Can you patch me through to Carroll?
 - tap (attach a device to a phone line to listen secretly)
 - lose someone's cool (lose control of emotions, basically lose temper and become irritated)
@@ -770,27 +683,10 @@
   - So, I have the future all mapped out. Well, you'll get a job as a waiter, then we'll get marred and two years latter we'll start having kids.
   - We're mapping out the marketing plan at the meeting today.
 
-- heist [the act of stealing something from a shop or a bank (AmE, Infor- mal)]
+- heist [the act of stealing something from a shop or a bank (AmE, Informal)]
 - bust (an event where the police catch people doing a crime)
-- bandit (criminal who attacks and steals from people who travel)
+- bandit (criminabl who attacks and steals from people who travel)
 - burglary (illegally entering a house or building to steal)
-
-#+BEGIN_EXAMPLE
-  A: All right, so this is what we are going to do. I've carefully mapped this out,
-     so don't screw it up. Mr. Rabbit, you and Mr. Fox will go into the bank wearing these uniforms.
-     We managed to get replicas of the one the guards wear when they pick up the money.
-
-     When you get inside, tell them that you are filling in for Carl and Tom,
-     and say that they are on another route today. Don't lose your cool. Just act natural.
-
-     We have the phones tapped. If they want to call and confirm, the call will be patched through to me,
-     and I'll pretend to be the transport company.
-
-     Only take as much money as you can fit in these bags.
-     Don't get greedy! Are you ready? Let's go.
-
-
-#+END_EXAMPLE
 
 * 057 - Malfunction
 
@@ -806,29 +702,15 @@
 - stow
   - stow your luggage under the seat
   - stow your luggage in the overhead bin
-- refrain from (avoid doing)
-- cabin baggage (suitcases and luggage that travels inside the plane with the passengers)
+- *refrain from* (avoid doing)
+- cabin baggage (随身行李)
 - patch (small area)
-
+** Supplementary
 - knock on wood (an idiom that means to avoid something bad happening or to continue something good happening; it is usually said while actually knocking on something made of wood)
-- carry-on (a suit case that you bring onto the plane)
+- carry-on (随身行李)
 - table tray (a table that folds down from the seat in front of you on a an airplane)
 - life jacket (piece of clothing that you ware to stay floating in water)
 - oxygen mask (a mask worn over your mouth and nose so you can breathe)
-
-#+BEGIN_EXAMPLE
-  Ladies and gentlemen, this is your captain speaking. It looks like we've hit a patch of rough air,
-  so we're going to have a bit of a bumpy ride for the next several minutes.
-  At this time, I'd like to remind all of our passengers to fasten their seat beltsand
-  remain seated until the fasten seat belt sign is turned off.
-  Please ensure that all cabin baggageis carefully stowed under the seat in front of you.
-  I'll be back back to update you in a minute.
-  Ah, ladies and gentlemen, this is your captain again. We've got quite a large patch of
-  rough air ahead of us, so for your safety, we will be suspending in-flight service.
-  I would ask all in-flight crew to return to their seats at this time.
-  I would also like to ask that all our passengers refrain from using the lavatory
-  until the seat belt sign has been switched off.
-#+END_EXAMPLE
 
 * 059 - Job Interview I
 
@@ -839,19 +721,11 @@
 - read up (read to gain the most recent information on a subject)
 - unleash potential
   - Your dog is walking on a leash.
-- resonate with
+- *resonate with*
   - The candidate speech really resonated with the voters.
   - Their music doesn't really resonate with me.
   - Your commitment to fight global warming resonates with me.
-
-#+BEGIN_EXAMPLE
-  Well, as I said they're the industry leaders, they have a really great growth strategy,
-  amazing development opportunities for employees, and it seems like
-  they have strong corporate governance. They're all about helping companies grow and
-  unleashing potential. I guess their core values and mission really resonated with me.
-  Oh, and they offer six weeks' vacation, stock options and bonuses...
-  I'm totally going to cash in on that.
-#+END_EXAMPLE
+- cach in on (乘机利用)
 
 * 060 - New Guy in Town IV
 
@@ -875,7 +749,7 @@
 - track (courses of study)
 - breadth (a wide range or scope of something)
   - brought me a breadth of experience
-- churn rate
+- *churn rate*
 - tertiary
 - scrutinize (examine something in a careful and critical way)
 
@@ -900,15 +774,15 @@
 * 063 - Receptionist
 
 - May I take your name (usually write down the name)
-- momentarily
+- momentarily (马上)
 
 * 064 - I'm Sorry I Love You VI
 
 - a bun in the oven (informal way of saying: pregnant)
   - She has a bun in the oven.
-- knocked up (pregnant)
+- knocked up (pregnant, 肚子搞大了)
 - comes into a picture (someone comes into one's life)
-- cheerleading squad
+- cheerleading squad (啦啦队)
 - med school
 - eavesdrop
 - a homewrecker (a person who has a relationship with a married man or a married woman)
@@ -930,7 +804,7 @@
 - wingman (a person who help you a lot)
   - commentating wingman
 - tied (having hte same score)
-- on the brink (at a critical point)
+- *on the brink* (at a critical point)
   - we're on the brink of getting bankrupt
   - the two countries are on the brink of war
   - we're on the brink of an important discovery
@@ -941,13 +815,13 @@
   Deflected by the defender and we have a corner kick.
 #+END_EXAMPLE
 
-* 068 - Groundbreaking Research
+* 068 - *Groundbreaking* Research
 
-- irrefutable
+- *irrefutable*
 - flawed
-- definitive conclusion (a final judgment)
-- single handedly (do something on your own, without help)
-- preposterous (crazy, foolish, or silly)
+- definitive conclusion (a final judgment, 不容置疑的结论)
+- single handedly (do something on your own, without help, 单枪匹马)
+- *preposterous* (crazy, foolish, or silly)
 - oblivious to (unaware or don't know)
 
 * 069 - How Would You Like Your Eggs?
@@ -964,7 +838,7 @@
 * 070 - Buying Underwear
 
 - mortifying
-- lingerie
+- lingerie (女内衣)
 - boy shorts
   - lacy boy shorts
 - granny panties
@@ -975,57 +849,44 @@
 - push-up bra
 - bikini briefs
 - going commando (term used to describe when a person is not wearing any underwear)
-- get something over with (finish it very quickly, usually not enjoyable)
+- *get something over with* (finish it very quickly, usually not enjoyable)
 - panty and bra set
-- satin bra
+- satin bra (缎子面料)
 - thong
 
-* 071 - Happy Hour
+* 071 - Happy Hour (酒吧减价时段)
 - on tap (beer served from a barrel; not in a bottle or can)
   - what do you have on tap
 - happy hour (a period of time at a bar when drinks are sold cheaper than usual)
 - pint
 - nachos
-- bar stool
+- *bar stool*
 - mozzarella sticks
 
 * 072 - You are fired
 - preoccupied (worried)
-- resent (find something very insulting)
-  - A: You are lazy! B: I resent that!
+- *resent* (find something very insulting)
+  - A: You are lazy! B: I resent that! (我反对, 你这样说我太失望了)
 - beat around the bush (oppoisite to: come out with it)
-- severance package
+- *severance package* (离职补偿)
 
 * 073 - Which Finger
 
 - pinkie (little finger, baby finger)
-- flip the bird
+- *flip the bird*
 - With this ring I thee wed.
-- abide in peace
+- *abide in peace*
 
 * 074 - What Am I Thinking
-- famished (very hungry)
-- at the top of one's lungs (to be as loud as possible)
+- *famished* (very hungry)
+- *at the top of one's lungs* (to be as loud as possible)
 - dumbass (an impolite way of calling someone foolish)
 - moron (people sometimes do stupid thing)
 - tool (saying someone is useless)
 - chill (relax, calm down)
-- get it together (control emotions)
-- blind date (a romantic outing with someone that you have not met before)
-- blow it (to miss an opportunity or chance)
-
-#+BEGIN_EXAMPLE
-  I can't believe she's on a date with me! I'm so lucky!
-  I must be the luckiest guy in the world! I want to scream at the top of my lungs,
-  "I'm the luckiest dude in the world! "
-  Oh, shut up! Don't be such a dumb ass. She's so hot. Wait, I can't say that.
-  That's sexist. She's so hot, She's making me sexist. Oh my god! I'm such a tool.
-  Okay, get it together. Uhh, she's eating salad. Oh right, I have a salad.
-  Oh, crap! Which fork do I use? Dammit!
-  She's going to think I'm a moron. What the hell are all these forks for?
-  Which one did she use? Okay, chill... be cool, be cool. Just take a fork...
-  eat your salad...
-#+END_EXAMPLE
+- get it together (control emotions, 打起精神, pull yourself together)
+- *blind date* (a romantic outing with someone that you have not met before)
+- blow it (to miss an opportunity or chance, 搞砸了)
 
 * 075 - Going to the dentist
 - swollen
@@ -1033,25 +894,25 @@
   - I got bitten by a spider and my hand is swelling up
 - crown (the visible part of the tooth)
 - floss (to use a thin thread or string to clean between teeth)
-- plaque
-- gingivitis
-- mouthwash
+- *plaque* (牙菌斑)
+- *gingivitis* (牙龈炎)
+- *mouthwash* (漱口水)
 
 * 076 - Learn Simple Math
 - teacher's pet
-- suck up (马屁精)
-- smarty pants (a child who tries to show he/she is so smart)
+- *suck up* (马屁精)
+- *smarty pants* (a child who tries to show he/she is so smart, 自作聪明的人)
 - know-it-all (the person claims or pretends to know everything)
 
 * 077 - F1 Racing
 
-- jam on the brakes (急刹)
+- *jam on the brakes* (急刹)
 - spin out (急刹后，车滑出去)
 - pace car (the car used when accidents happen which leads other cars but is not a competitor in the face)
 - cleanup crew
 - tow truck
 - partner in crime (a person you always do things together with)
-- last stretch (final moment before ending)
+- *last stretch* (final moment before ending)
   - We are finally in the stretch of a long week, I can't wait to go home
   - He is in the last stretch of his college year, and soon he will graduate
 - close one (a situation almost dangerous, but isn't) 好险
@@ -1065,11 +926,12 @@
 
 - genesis (formal: origin; beginning)
 - fire into (shoot guns into)
-- take drastic measures
+- take drastic measures (采取果断严厉措施)
 
 * 079 - Funky Galaxy Battles
 - once and for all (forever)
-- tractor beam
+- blaster (冲击波)
+- *tractor beam*
 - Not so fast! (别着急嘛)
 
 #+BEGIN_EXAMPLE
@@ -1080,15 +942,15 @@ They somehow managed to escape our tractor beam!
 * 080 - I'm Sorry I Love You VII
 - stalk someone
 - nut job (crazy person)
-- get worked up (angry, excited, or upset about something)
+- *get worked up* (angry, excited, or upset about something)
   - I'm sorry to get you worked up over nothing.
 
 * 081 - Getting A Hair Cut
-- sideburns
+- *sideburns*
 - afro
 - a million bucks (Very good. To look great)
   - You look like a million bucks
-- take a little off the top
+- take a little off the top (把上面修剪一下)
 - buzz cut (寸头)
 - mohawk
 - crew cut (军队平头)
@@ -1099,26 +961,26 @@ They somehow managed to escape our tractor beam!
 
 * 082 - New Guy In Town V
 - heck (hell in a more polite form)
-- break free (挣脱)
+- *break free* (挣脱)
   - We tied up the dog, but it was able to break free
   - I am glad that I break free from a horrible relationship
   - I wanna break free from all my daily responsibilities
 
 * 083 -  Using The ATM
 - local authority (police)
-- pound key (#)
+- *pound key* (#)
 
 * 084 - At the Pharmacy
-- hydrogen peroxide
-- syringe
+- hydrogen peroxide (双氧水)
+- syringe (注射器)
 - ribbed condom
 
 * 085 - Baseball
 
 - national anthem
 - wind up
-- line drive
-- scramble (do something quickly and in a disorganized way)
+- line drive (平飞球)
+- scramble (do something quickly and in a disorganized way, 争抢)
 - inning (a set of baseball containing a turn at bat and a turn in field for each side)
 - home plate
 - up at/to bat
@@ -1127,7 +989,7 @@ They somehow managed to escape our tractor beam!
   - My boss threw me a curve ball, so I have to stay and work late
   - It was a huge curve ball when he ask me how many kids I wanna to have
 - outfielder
-- off the bat (immediately, with out delay)
+- *off the bat* (immediately, with out delay)
 
 
 * 086 - Looking for an Apartment
@@ -1135,17 +997,17 @@ They somehow managed to escape our tractor beam!
 - airy
 - square footage
 - professional grade (something with very high quality)
-- gas range
-- walk-in closet
-- en suite bathroom
+- *gas range*
+- walk-in closet (步入式衣橱)
+- *en suite bathroom* (主人房内的浴室)
 - attic
 
 * 087 - Trek The Lost Generation
-- warp drive (the engine system used by a spacecraft to travel faster than the speed of light)
+- warp drive (the engine system used by a spacecraft to travel faster than the speed of light, 曲速引擎)
 - engage (start fighting)
 - search party (party always means party)
-- phaser
-- holodeck
+- phaser (光炮)
+- holodeck (全息甲板)
 - beam up
 
 * 088 - Will you be my girlfriend
@@ -1153,18 +1015,21 @@ They somehow managed to escape our tractor beam!
   - The man next to me talk so loud, I can't take it anymore
   - My boss is always yelling at me, I can't take it anymore
 - give a shot (give a try)
-- make-out (to kiss)
+- make-out (to kiss, 调情，接吻)
 
 * 089 - At The Airport
+- over-head compartment
+- next to nothing (几乎没有)
+- an arm and a leg (一大笔钱)
 
 * 090 - I'm Sorry I Love You VIII
 
-- come clean (confess)
-- whereabouts (the approximate place, where a person or thing is)
+- *come clean* (confess)
+- whereabouts (the approximate place, where a person or thing is, 下落)
   - The police don't have any information on the whereabouts of the murderer.
   - Currently, the whereabouts of the president is unknown.
   - You live in Toronto too? Whereabouts do you live?
-- white lie (an unimportant, small lie)
+- *white lie* (an unimportant, small lie)
 - pull someone's leg (tell false information to for fun)
 
 * 091 - Aliens
@@ -1213,7 +1078,7 @@ They somehow managed to escape our tractor beam!
 - bumps it to the setter
 - to spike the ball (hit the ball by palm)
 - let server (the ball touches the net in a serve but still crosses into the opponents’ court)
-- in top shape (in their best condition)
+- *in top shape* (in their best condition)
 
 ** Supplementary
 - side out (换发球)

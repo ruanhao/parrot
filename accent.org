@@ -1,0 +1,5 @@
+* Fuck Indian
+#+BEGIN_EXAMPLE
+I'm think of -> I'm seeing of
+How did it go -> How did it call
+#+END_EXAMPLE
