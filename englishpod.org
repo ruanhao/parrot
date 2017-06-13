@@ -1708,35 +1708,35 @@ determine our company's future.
 * 146 - Animal Rights
 - civil rights (公民权)
 - defenseless
-- at the mercy of (任由摆布)
+- *at the mercy of* (任由摆布)
 - transgression (越界)
 - poach (偷猎)
-- apples and oranges (风马牛不相及)
+- *apples and oranges* (风马牛不相及)
 - do your part (帮助完成某个目标)
   #+BEGIN_EXAMPLE
-  it’s not like a part in a play. It’s more like a part in society.
-  you’re helping make society or culture or civilization better.
+  it's not like a part in a play. It’s more like a part in society.
+  you're helping make society or culture or civilization better.
   contributing
   #+END_EXAMPLE
 ** Supplementary
 - free range (散养)
 
 * 147 - The Argument
-- chick flick (小鸡电影，迎合女性口味的电影)
-- in touch with (同情, 理解)
+- *chick flick* (小鸡电影，迎合女性口味的电影)
+- *in touch with* (同情, 理解)
 - you are no saints (人非圣贤)
-- start on someone (批评某人)
+- *start on someone* (批评某人)
 ** Supplementary
-- be/get into character (入戏了)
+- *be/get into character* (入戏了)
 - chauvinist (沙文主义，大男子主义)
 - brag (自吹自擂)
 
 * 148 - Paranoid
 - sicko (精神病人)
-- red handed (抓个正着)
+- *red handed* (抓个正着)
   - caught someone red handed
-- telemarketer (电话推销员)
-- solicitor (推销员, 一般到家里推销)
+- *telemarketer* (电话推销员)
+- *solicitor* (推销员, 一般到家里推销)
 - peeping tom (偷窥狂, voyeur)
 - on a need-to-know basis (真有必要才应知情的原则)
   - A: Tell me what happened, I wanna know. B: No, you’re on a need to know basis and you don't need to know this.
@@ -1753,13 +1753,13 @@ determine our company's future.
 - tarantula (狼蛛)
 ** Supplementary
 - in the dark on something (一无所知)
-- bubble wrap (气泡布)
+- *bubble wrap* (气泡布)
 - moving truck (搬家车)
 - mover (搬运工)
 
 * 150 - Bug Spray
 - sneaky (鬼鬼祟祟的)
-- repellent (驱虫剂)
+- *repellent* (驱虫剂)
 - bug zapper (灭杀器)
 ** Supplementary
 - dengue fever (登革热, break-bone fever)
@@ -1775,14 +1775,14 @@ determine our company's future.
   - I'm up to here with your nonsense
 - sick and tired (受够了)
   - I'm sick and tired of all of your whining.
-- turn something on its head (调转)
-- full of holes (漏洞百出)
+- *turn something on its head* (调转)
+- *full of holes* (漏洞百出)
 - quote-unquote (打引号的)
 
 * 152 - Cut It Out
-- slurp (吸汤，水)
-- shoot the breeze (chat)
-- call a truce (停火)
+- *slurp* (吸汤，水)
+- *shoot the breeze* (chat)
+- *call a truce* (停火)
 - cut something out (stop something)
 - let off steam (发泄情绪)
 - forgive and forget (既往不咎)
@@ -1792,7 +1792,7 @@ determine our company's future.
 - nostalgic
 - bummed out (失望，沮丧)
 - wingman (僚机)
-- going on a drinking binge (痛饮)
+- *going on a drinking binge* (痛饮)
 
 * 154 - Rock Band
 - obnoxious
@@ -1803,7 +1803,7 @@ determine our company's future.
 - bachelorette
 - lap dance (膝上艳舞)
 - gag gift (恶作剧礼物)
-- over the top (过度，过分)
+- *over the top* (过度，过分)
 ** Supplementary
 - going away party
 - pull an all nighter (通宵)
@@ -1835,7 +1835,7 @@ determine our company's future.
 - chubby (more polite way of calling someone fat)
 - orchid (兰花)
 - carnation (康乃馨)
-- that's not gonna cut it (that's not enough)
+- *that's not gonna cut it* (that's not enough)
   - This dessert is not gonna cut it, we need something much fancier.
 - insinuate (影射)
 - arrangement (插花术)
@@ -1845,12 +1845,11 @@ determine our company's future.
 - centerpiece (桌子中央的装饰)
 - to suck up (拍马屁)
 
-
 * 160 - Health Insurance
 - jam (a problem or diffcult situation, 困境)
 - HMO (a company that provides health insuarance)
 - Pre-existing Condition (已有疾病)
-- not in a million years (绝对不可能)
+- *not in a million years* (绝对不可能)
 - co-pay / deductible / coinsuarance
   #+BEGIN_EXAMPLE
   比如保险中规定医疗费用达到1000以上，多出的部分保险公司才报销，1000以下自理，
@@ -1862,8 +1861,8 @@ determine our company's future.
   #+END_EXAMPLE
 
 * 161 - Computer Games
-- blow someone off (放鸽子)
-- hooked on (addicted)
+- *blow someone off* (放鸽子)
+- *hooked on* (addicted)
 
 * 162 - Veteran's Day
 - armistice (停战协议)
@@ -1903,7 +1902,7 @@ determine our company's future.
 - sagging (下垂的)
 - nose job (隆鼻)
 - drool (垂涎三尺)
-- black and blue (遍体鳞伤，鼻青眼肿)
+- *black and blue* (遍体鳞伤，鼻青眼肿)
 ** Supplementary
 - skin graft (植皮)
 - face lift (拉皮，面部提紧术)
@@ -1944,13 +1943,13 @@ determine our company's future.
 - imperial system (英制)
 
 * 170 - Wedding Doubts
-- get cold feet (临阵畏缩)
+- *get cold feet* (临阵畏缩)
 - soul searching (反省)
 - slap some sense into (remind someone to stay calm)
 - sweat like a pig (大汗淋漓)
 - I can't go through with this (我做不了这个)
-- cut the crap (少废话)
-- You had me going there for a minute/while (我信了你的邪)
+- *cut the crap* (少废话)
+- *You had me going there for a minute/while* (我信了你的邪)
 - ramble on (漫谈，东拉西扯)
 ** Supplementary
 - bachelor pad (单身公寓)
