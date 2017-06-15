@@ -2,7 +2,6 @@
 #+AUTHOR:    Hao Ruan
 #+EMAIL:     ruanhao1116@gmail.com
 #+LANGUAGE:  en
-#+LINK_HOME: http://www.github.com/ruanhao
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css" />
 #+STARTUP:   showall
 
