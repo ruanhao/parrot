@@ -1,0 +1,154 @@
+#+TITLE:     English Pod Summary
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     ruanhao1116@gmail.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css" />
+#+OPTIONS:   H:2 num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+#+STARTUP:   showall
+
+
+
+* 职业
+
+- concierge
+- ticket scalper (黄牛)
+
+
+* 行为
+
+- still working on
+- go with (选择)
+- cut in queue / jump the queue (插队 )
+- stand in line (wait in line)
+- get all the bases covered
+- fill me in
+- step on it (踩油门)
+- run a red light (闯红灯)
+- make a left/right/u-turn
+- get a load of (仔细听，注意看)
+- make out (see clearly)
+- go on about (talk about sth a lot)
+- cut out (remove)
+- set off fireworks
+- cheat on (背叛)
+
+
+* 身体
+
+- coming down with the flu
+- 20/20 vision
+
+
+* 出行
+
+- reservation under the name xxx
+- gas mileage (油耗)
+
+
+* 住
+
+- house warming gift
+- dish detergent
+
+
+* 心理
+
+- slip my mind
+- creep me out
+- scare the heck out of me
+- have a fit (get angry)
+- road rage (路怒)
+- in the mood for
+- sleep on it (考虑下)
+
+
+* 口语
+
+- it's about time (finally, waiting a long time)
+- tis (= it is)
+- don't take that tone with me
+- what do you do for a living
+- book (arrest)
+- hit up (ask for money)
+- rope me into sth (诓我)
+- get myself into (陷入)
+- A: what's up? B: not much
+- come on, *as if* you don't check Facebook at work
+- get a hold of someone (find or contact someone)
+- stand someone up (放鸽子)
+- look no further (不用再观望了)
+- I've been meaning to (本想)
+- pull yourself together (calm down)
+- *why else* wouldn't he call? (不然)
+- toilet jokes (黄段子)
+- out of the woods (脱离危险期)
+- I'm with you (I agree with you)
+- No can do (办不到)
+- give some pointer (给点建议)
+
+
+* 事情
+
+- mix-up (sth wrong)
+- sth will never fly (won't work)
+- through the roof (suddenly very high)
+- off the chart (very high)
+- come up (occur in an unexpected way)
+
+
+* 物品
+
+- placard (标语牌)
+- red envelope money
+- movie trailer (电影预告片)
+
+
+* 食物
+
+- coke and fries
+- grab sth to eat
+- munchies
+- eggnog
+- light (清淡)
+- potluck (聚餐)
+- Merlot (黑葡萄酒)
+
+
+* 职场
+
+- take on new staff
+- over/under/short staffed
+- computer freeze
+- act up (not working properly)
+- drive sale (激励销售)
+- match the competitors
+- profit and lose statement
+- the bottom line (净利润)
+- calling in sick
+- take weight off one's shoulders
+- book solid
+- fit you in (find time to see someone in a busy schedule)
+- contingency plan
+- head up the project (lead the project)
+- execute the office of the presidency
+- work ethic
+- a bad apple
+- a great career path ahead of him
+
+
+* 经济
+
+- bailout (紧急财政援助)
+- aggregate demand
+- nest egg
+- bank statement (存款证明)
+- credit crunch (信贷危机)
+
+
+* 地点
+
+- reception
+- bistro
+- a hole in the wall (a very small, usually cheap restaurant or bar)
+- on the ground (实地，现场)
