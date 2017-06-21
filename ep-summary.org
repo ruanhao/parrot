@@ -13,6 +13,10 @@
 
 - concierge
 - ticket scalper (黄牛)
+- sous chef
+- suck up (马屁精)
+- smarty pants (自作聪明的人)
+- partner in crime (a person you always do things together with)
 
 
 * 行为
@@ -28,28 +32,46 @@
 - make a left/right/u-turn
 - get a load of (仔细听，注意看)
 - make out (see clearly)
+- make-out (to kiss, 调情，接吻)
 - go on about (talk about sth a lot)
 - cut out (remove)
 - set off fireworks
 - cheat on (背叛)
+- pratical joke
+- doggy-paddle (狗刨)
+- breast stroke (蛙泳)
+- back stroke (仰泳)
+- single handedly
+- going commando
+- get something over with (finish it very quickly, usually not enjoyable)
+- break free (挣脱)
+- equivocate (含糊其词)
 
 
 * 身体
 
 - coming down with the flu
 - 20/20 vision
+- plaque (牙菌斑)
+
 
 
 * 出行
 
 - reservation under the name xxx
 - gas mileage (油耗)
+- jam on the brakes (急刹)
+- spin out (急刹后，车滑出去)
 
 
-* 住
+* 生活
 
 - house warming gift
 - dish detergent
+- power surge
+- en suite bathroom (主人房内的浴室)
+- square footage
+- walk-in closet (步入式衣橱)
 
 
 * 心理
@@ -61,6 +83,15 @@
 - road rage (路怒)
 - in the mood for
 - sleep on it (考虑下)
+- out of my price range
+- oblivious to (unaware of don't know)
+- mortifying
+- farmished (饥饿的)
+- at the top of one's lungs
+- get it together (打起精神)
+- blow it (搞砸了)
+- a million bucks
+- lose it (情绪失控)
 
 
 * 口语
@@ -86,6 +117,41 @@
 - I'm with you (I agree with you)
 - No can do (办不到)
 - give some pointer (给点建议)
+- running low on (not having so much)
+- in the weeds (in a difficult situation)
+- put out fire
+- in the middle of nowhere (far from a city or town)
+- first thing in the morning/afternoon (early in the morning/afternoon)
+- howdy (你好)
+- fill in for someone (take place for someone)
+- patch someone through (connect to another phone line)
+- tap (偷听)
+- refrain from (avoid doing)
+- cash in on sth (乘机利用)
+- fall for it (believe a lie)
+- spill the beans (说漏嘴)
+- take a dip (游泳)
+- a breadth of experience
+- a bun in the oven
+- knocked up (肚子搞大了)
+- comes into a picture
+- on the brink (at a critical point)
+- I resent that
+- beat around the bush
+- what you have on tap (你这有什么酒)
+- close one (好险)
+- not so fast (别急嘛)
+- get worked up (情绪激动)
+- off the bat (立马)
+- next to nothing (几乎没有)
+- an arm and a leg (一大笔钱)
+- come clean (坦白)
+- pull someone's leg (捉弄)
+- in top shape (一最好的状态)
+- mixed bag (大杂烩)
+- enough about me (不谈我了)
+- A: it's been great talking to you, but I have to get going. B: *Same here*.
+- but of course (这是当然)
 
 
 * 事情
@@ -95,6 +161,8 @@
 - through the roof (suddenly very high)
 - off the chart (very high)
 - come up (occur in an unexpected way)
+- preposterous (荒唐的)
+- last stretch (final moment before ending)
 
 
 * 物品
@@ -102,6 +170,11 @@
 - placard (标语牌)
 - red envelope money
 - movie trailer (电影预告片)
+- freebie (a free item that is usually given to promote a product)
+- toner (复印机墨盒)
+- lingerie (女内衣)
+- bar stool
+- over-head compartment
 
 
 * 食物
@@ -113,6 +186,10 @@
 - light (清淡)
 - potluck (聚餐)
 - Merlot (黑葡萄酒)
+- soft/hard boiled egge
+- egg and soldiers
+- scrambled egg
+- sunny side up
 
 
 * 职场
@@ -135,6 +212,9 @@
 - work ethic
 - a bad apple
 - a great career path ahead of him
+- churn rate
+- technical cumen
+- severance package (离职补偿)
 
 
 * 经济
