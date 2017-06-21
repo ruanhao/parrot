@@ -1354,7 +1354,7 @@ determine our company's future.
 
 * 122 - Supermarket Cashier
 - check-out lane
-- cut me some slack (don't be so strict, bend the rules, 放我一马吧)
+- *cut me some slack* (don't be so strict, bend the rules, 放我一马吧)
 - darn (可恶, 真讨厌)
 
 * 123 - 1990's
