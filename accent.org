@@ -4,3 +4,12 @@ I'm think of -> I'm seeing of
 How did it go -> How did it call
 When all of a sudden -> When all of a sun
 #+END_EXAMPLE
+
+
+* American Accents
+
+#+BEGIN_EXAMPLE
+057; 106; 110; 119; 132; 133; 137; 144; 167; 173; 174; 175; 177; 178; 178.5; 190; 191; 202; 216; 220; 225; 226;
+242; 249; 250; 254; 271; 272; 276; 278; 287; 289; 292; 293; 295; 296; 297; 298; 299; 300;
+301; 302; 303; 308; 312; 314; 318; 322; 323; 324; 326; 327
+#+END_EXAMPLE

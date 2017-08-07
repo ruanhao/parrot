@@ -1,0 +1,108 @@
+#+TITLE:     S01
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     ruanhao1116@gmail.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css" />
+#+OPTIONS:   H:2 num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+#+STARTUP:   showall
+
+
+* E02
+
+- sit through (耐着性子)
+- word of advice
+- band women
+- mastodon
+- club
+- Are you through with that
+- ball it up
+- twirly
+- stomped on your heart
+- run it by you
+- had a thing for you
+- latch on (来劲)
+- take heat off me
+- shoot for the stars
+- What's going on with you
+- the folks (父母)
+- hit the lights
+- Things changed, roll with the punches (世事难料，兵来将挡)
+- We're kind of a thing (在一起)
+- wind up
+- get his way (得逞)
+- You're welling up (热泪盈眶)
+- cheap shot (贱招)
+
+* E03
+
+- cushion the blow (免得太伤人)
+- put to sleep (动物安乐死)
+- smoke away (那就抽吧)
+- minion (奴才)
+- giant karmic debt (业报)
+- coyotes
+- filter tipped (有过滤嘴的)
+- bash (猛击)
+- I'll go
+- yardstick (标杆，准绳)
+- a thing or two (好好让对方见识了一下)
+- The hair comes out, and the gloves come on (全都发泄出来了)
+- deja vu (似曾相识的感觉)
+
+* E04
+
+- omnipotent
+- nod off
+- Mr the glass is half empty
+- consummate (圆房)
+- guy's night out (男人之夜)
+- foam finger
+- cave-in (塌方)
+- steam milk (蒸炼牛乳)
+- peach pit (桃核)
+- nectarine (油桃)
+- tell me all the dirt (告诉我八卦)
+- slumber party (睡衣派对)
+- tweezer (镊子)
+- prep the guy (对他们做术前准备)
+- Could you tell me what this is in reference to (能告诉我是关于什么事吗)
+- floopy (不顺心)
+- dented (打扁了)
+- pally wally (伙计)
+- draw him out (勾引他)
+- preppy animal (衣冠禽兽)
+- repressed (压抑的)
+
+* E05
+
+- maneuver (娴熟的动作)
+- blow my mind (对某事感到既惊奇又兴奋)
+- get up the courage to do it
+- We're ganging up on her (联手对付她)
+- hungerstrike (绝食抗议)
+- scrunchy (闷闷不乐的)
+- He burns me up (他让我火大)
+- I'm wearing a dress that accents my boobs
+- You don't say (看得出来)
+- Big glamour night (今晚可精彩了)
+- fluffy (毛茸茸的)
+- 7 nish (七点左右)
+- belch (打嗝)
+- blow off the rest of the afternoon (一下午用来发泄了)
+- mix and match (混搭)
+- Coming through (借过)
+- suds (肥皂水)
+- send back soup
+  #+BEGIN_EXAMPLE
+    "Sending back soup" is a cultural allusion that refers to a person sending back bad food that he or she received in a restaurant.
+    There is an old joke that goes like this: The diner says to the waiter, "What is that fly doing in my soup?" The waiter responds,
+    "The backstroke." In other words, the person saw an insect in the soup, pointed it out to the server,
+    who did not seem to care but instead made a sarcastic remark.
+    In the TV series Friends, a person who couldn't send back soup is a person who is too shy to stand up for him or herself.
+  #+END_EXAMPLE
+- nibbly noise (吧唧嘴)
+- emotional age (心理年龄)
+- cocktails in Appalachia (在美国，Appalachia 地区因乱伦而出名)
+- Put our heads together (让我们商量下)
+- Go to your happy place (想些开心的事)
