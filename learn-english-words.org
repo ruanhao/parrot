@@ -39,12 +39,12 @@
 
 * PARTISAN
 
-  - The partisan press members *made a point of* criticizing every mode the president made.
+  - The partisan press members *made a point of* =提出观点= criticizing every mode the president made.
 
 
 * CAUSALITY
 
-  - When the mayornoticed the *spike* in crime in the city, research showed the causality was due to his *lenient prison sentences* and large gang population.
+  - When the mayor noticed the *spike* in crime in the city, research showed the causality was due to his *lenient prison sentences* and large gang population.
   - People's long frindships can be the causality for these *platonic relationships* to turn into life-long marriages.
 
 
@@ -60,7 +60,7 @@
 
 * MAINSTAY
 
-  - Rice is a mainstay for most Asian families as most meals include at least one *helping*.
+  - Rice is a mainstay for most Asian families as most meals include at least one *helping* =进餐时的一份食物=.
 
 
 * BELLIGERENT
@@ -127,9 +127,7 @@
 
 * WITHHOULD
 
-  #+BEGIN_EXAMPLE
-    To keep something from someone.
-  #+END_EXAMPLE
+  =To keep something from someone.=
 
   - If you withhold information from the judge, you could get thrown in jail for not telling all of the truth.
   - Brokers tend to withhold *special listings* for their own personal clients.
@@ -157,9 +155,7 @@
 
 * PERSECUTION
 
-  #+BEGIN_EXAMPLE
-    A campaign designed to harm someone because of a cultural, sexual, religious, or racial difference.
-  #+END_EXAMPLE
+  =A campaign designed to harm someone because of a cultural, sexual, religious, or racial difference.=
 
   - The national *hate crime laws* were initially enacted to prevent the persecution of minorities.
   - In 1994, the Tutsi population in Rwanda endured a persecution from the Hutu radicals that led to the genocide of over a million people.
@@ -174,9 +170,7 @@
 
 * EXCRESCENCE
 
-  #+BEGIN_EXAMPLE
-    A protrusion or growth usually in the form of a lump that is the result of sickness.
-  #+END_EXAMPLE
+  =A protrusion or growth usually in the form of a lump that is the result of sickness.=
 
   - After discovering a large excrescence that resembled a bubble on his leg, Miles went to the doctor to have it looked it.
 
@@ -231,9 +225,7 @@
 
 * SAGE
 
-  #+BEGIN_EXAMPLE
-    A wise individual who gives others helpful advice.
-  #+END_EXAMPLE
+  =A wise individual who gives others helpful advice.=
 
   - In my family, my eldest sister has always been considered the sage we can all *turn to* with our relationship problems.
 
@@ -255,9 +247,7 @@
 
 * PERSPICACIOUS
 
-  #+BEGIN_EXAMPLE
-    Able to judge quickly and correctly what people and situations are really like.
-  #+END_EXAMPLE
+  =Able to judge quickly and correctly what people and situations are really like.=
 
   - Even though the judge was normally a perspicacious woman, she found it hard to not be affected by the guilty man’s plea.
 
@@ -276,18 +266,14 @@
 
 * GENUINE
 
-  #+BEGIN_EXAMPLE
-    Real, authentic, and exactly as it appears.
-  #+END_EXAMPLE
+  =Real, authentic, and exactly as it appears.=
 
   - Throughout history many con artists have tried to *pass off* fake items as genuine holy relics.
 
 
 * MANIFEST
 
-  #+BEGIN_EXAMPLE
-    Easy to understand or recognize; obvious.
-  #+END_EXAMPLE
+  =Easy to understand or recognize; obvious.=
 
   - The inexperienced chef *managed to* ruin the cake even though she had manifest instructions.
 
@@ -306,18 +292,14 @@
 
 * SAUNTER
 
-  #+BEGIN_EXAMPLE
-    To walk at a relaxed speed.
-  #+END_EXAMPLE
+  =To walk at a relaxed speed.=
 
   - Although the criminal was being chased by a police officer, he chose to saunter down the street as if he *did not have a care* in the world.
 
 
 * CAROUSE
 
-  #+BEGIN_EXAMPLE
-    To take part in a drunken get-together.
-  #+END_EXAMPLE
+  =To take part in a drunken get-together.=
 
   - On most weekends the *fraternity brothers* carouse with the wild *sorority girls*.
 
@@ -332,9 +314,7 @@
 
 * CIRCUMSTANTIAL
 
-  #+BEGIN_EXAMPLE
-    Something that seems to be true but is not proven.
-  #+END_EXAMPLE
+  =Something that seems to be true but is not proven.=
 
   - The evidence against the suspect was purely circumstantial and was not enough to convict.
   - The teacher believed that she knew who stole the test scores but it was all circumstantial belief.
@@ -344,27 +324,21 @@
 
 * OBSTREPEROUS
 
-  #+BEGIN_EXAMPLE
-    Noisy and difficult to control.
-  #+END_EXAMPLE
+  =Noisy and difficult to control.=
 
   - The teenagers became obstreperous when their school team lost the football game.
 
 
 * PERTINENT
 
-  #+BEGIN_EXAMPLE
-    Relevant to a particular matter.
-  #+END_EXAMPLE
+  =Relevant to a particular matter.=
 
   - If you perform a Google search, you will easily find a list of articles pertinent to the subject you were discussing.
 
 
 * PESTER
 
-  #+BEGIN_EXAMPLE
-    To bother someone with several questions or requests to the point that it becomes a point of anger.
-  #+END_EXAMPLE
+  =To bother someone with several questions or requests to the point that it becomes a point of anger.=
 
   - Teenagers often pester their parents to cook them food, drive them places, or give them money.
 
@@ -376,9 +350,7 @@
 
 * PILLAGE
 
-  #+BEGIN_EXAMPLE
-    To take by force, normally during a war or battle.
-  #+END_EXAMPLE
+  =To take by force, normally during a war or battle.=
 
   - The general was a decent man and did not allow any of his soldiers to pillage items from towns they invaded.
 
@@ -409,9 +381,7 @@
 
 * ERODE
 
-  #+BEGIN_EXAMPLE
-    To destroy something at a leisurely pace.
-  #+END_EXAMPLE
+  =To destroy something at a leisurely pace.=
 
   - People predicted the Internet would erode the future of newspapers, and for the most part, they were correct.
   - Your abusive words have begun to erode our relationship.
@@ -420,16 +390,12 @@
 
 * EXTRADITE
 
-  #+BEGIN_EXAMPLE
-    To send an individual accused of a crime back to the area in which the crime took place.
-  #+END_EXAMPLE
+  =To send an individual accused of a crime back to the area in which the crime took place.=
 
 
 * DRUDGERY
 
-  #+BEGIN_EXAMPLE
-    Exhausting work normally performed by a lower class worker.
-  #+END_EXAMPLE
+  =Exhausting work normally performed by a lower class worker.=
 
 
   - The janitor normally ended his workday of drudgery by cleaning the toilets.
@@ -438,9 +404,7 @@
 
 * PROLETARIAT
 
-  #+BEGIN_EXAMPLE
-    The class that is at the bottom of the social ladder. (普罗阶级，无产阶级)
-  #+END_EXAMPLE
+  =The class that is at the bottom of the social ladder. (普罗阶级，无产阶级)=
 
   - Because the aristocracy cared nothing about the woes of the starving proletariat, a revolution occurred in France.
   - Since Henri’s lineage is proletariat, it is highly unlikely he will be approved as a suitable mate for the princess.
@@ -449,9 +413,7 @@
 
 * SLIPPERY SLOPE
 
-  #+BEGIN_EXAMPLE
-    A series of events in which one bad decision leads to a cascading number of negative consequences.
-  #+END_EXAMPLE
+  =A series of events in which one bad decision leads to a cascading number of negative consequences.=
 
   - Taking drugs is a slippery slope, and if you start you may find yourself addicted, which will lead to a life of dependency and pain.
   - A slippery slope is *called as such* because once you make one mistake, you keep on sliding and make more and more even though you try to stop.
@@ -460,9 +422,7 @@
 
 * SINGULAR
 
-  #+BEGIN_EXAMPLE
-    Remarkable, extraordinary.
-  #+END_EXAMPLE
+  =Remarkable, extraordinary.=
 
   - Harriet Tubman’s singular *resilience* *shined through*, as she never gave up trying to help slaves escape to the north.
 
@@ -474,17 +434,13 @@
 
 * PUERILE
 
-  #+BEGIN_EXAMPLE
-    Silly or childish especially in a way that shows a lack of seriousness or good judgment.
-  #+END_EXAMPLE
+  =Silly or childish especially in a way that shows a lack of seriousness or good judgment.=
 
 
 
 * RAMBUNCTIOUS
 
-  #+BEGIN_EXAMPLE
-    Hyper and energetic.
-  #+END_EXAMPLE
+  =Hyper and energetic.=
 
   - Once the rambunctious *puppy* got home, he would run around the house nonstop before tearing apart a whole couch.
   - Making loud sounds and swinging fast from tree to tree, the rambunctious monkeys were *fun and loud* entertainment to watch.
@@ -510,9 +466,7 @@
 
 * PAXIS
 
-  #+BEGIN_EXAMPLE
-    Traditional conduct or practices (行为准则)
-  #+END_EXAMPLE
+  =Traditional conduct or practices (行为准则)=
 
   - As a doctor, Jack always strives to meet the praxis of not harming his patients further.
   - The stern monk *frowned against* actions that violated the praxis of his religion.
@@ -544,9 +498,7 @@
 
 * JOSTLE
 
-  #+BEGIN_EXAMPLE
-    To compete or struggle for something.
-  #+END_EXAMPLE
+  =To compete or struggle for something.=
 
   - In the cafeteria, the students rush through the lines and jostle to get the best tables near the windows.
   - The reality show contestants will jostle to win a million dollars.
@@ -555,9 +507,7 @@
 
 * HEINOUS
 
-  #+BEGIN_EXAMPLE
-    Shockingly evil.
-  #+END_EXAMPLE
+  =Shockingly evil.=
 
   - Even as the death row inmate prepared to take his final breath, he still refused to apologize for his heinous deeds.
 
@@ -570,9 +520,7 @@
 
 * ENGENDER
 
-  #+BEGIN_EXAMPLE
-    To cause a feeling or attitude to exist.
-  #+END_EXAMPLE
+  =To cause a feeling or attitude to exist.=
 
   - The best teachers are those who engender their students to believe in their own successes.
   - The restaurant hoped the act of giving out free ice cream would engender customer loyalty.
@@ -591,9 +539,7 @@
 
 * APTLY
 
-  #+BEGIN_EXAMPLE
-    In a fitting way.
-  #+END_EXAMPLE
+  =In a fitting way.=
 
   - When my aunt labels my moody uncle as grumpy, she aptly *refers to* him.
   - It is aptly said you are what you eat.
@@ -602,18 +548,14 @@
 
 * ABOMINABLE
 
-  #+BEGIN_EXAMPLE
-    Horrible; terrible.
-  #+END_EXAMPLE
+  =Horrible; terrible.=
 
   - The weather during our beach vacation was abominable, but we tried to have fun even in the midst of a horrible storm.
 
 
 * DELEGATE
 
-  #+BEGIN_EXAMPLE
-    To give tasks or responsibilities to others.
-  #+END_EXAMPLE
+  =To give tasks or responsibilities to others.=
 
 
   - Because Janice cannot do all of the tasks, she has to learn to delegate work to her employees.
@@ -638,9 +580,7 @@
 
 * CONGRUENT
 
-  #+BEGIN_EXAMPLE
-    Matching in type or makeup.
-  #+END_EXAMPLE
+  =Matching in type or makeup.=
 
   - While the pillows are the same color, they are not congruent because one is shaped like a triangle and the other is *molded into* a square.
   - Triangles are considered congruent when they have the same angles.
@@ -658,9 +598,7 @@
 
 * FOOLHARDY
 
-  #+BEGIN_EXAMPLE
-    Making hasty decisions without regard to danger or possible consequences.
-  #+END_EXAMPLE
+  =Making hasty decisions without regard to danger or possible consequences.=
 
   - Although Mark has done some foolhardy things in the past, he recently *topped* them all by stealing a police car.
   - Many cats make the foolhardy decision to climb a tree and then become afraid to climb back down.
@@ -684,9 +622,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/2V61minxtQU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBVcDD_CSUNoIIjZY35v7aKg0BFCQ"/>
 
-  #+BEGIN_EXAMPLE
-    Objects or Individuals that are considered to be of no worth.
-  #+END_EXAMPLE
+  =Objects or Individuals that are considered to be of no worth.=
 
   - According to the old saying, one man’s flotsam is another man’s treasure.
   - When you throw flotsam in the ocean, you damage the marine ecosystem.
@@ -697,9 +633,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/A9ARaLpP4AQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC_111nKz83UVo18xhGoioJNr4apA"/>
 
-  #+BEGIN_EXAMPLE
-    A legal order demanding that a prisoner be brought before a judge to make sure that he or she is not being held illegally.
-  #+END_EXAMPLE
+  =A legal order demanding that a prisoner be brought before a judge to make sure that he or she is not being held illegally.=
 
   - Habeas corpus rights meant that the court had to tell the attorney why they were holding the prisoner in jail.
   - Suspension of habeas corpus allowed the government to hold the terrorists captive with no recourse.
@@ -709,9 +643,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/vm9T2zFbf8c/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAOrcvJrOj_9_75a_jG84lCuagArg"/>
 
-  #+BEGIN_EXAMPLE
-    Unwilling to alter one’s behaviors or views.
-  #+END_EXAMPLE
+  =Unwilling to alter one’s behaviors or views.=
 
   - Because the business owner refuses to let his employees *take off* on major holidays, he is viewed as a rigid employer.
   - My father was rigid in his conservative beliefs and never *wavered from* them during his lifetime.
@@ -722,9 +654,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/Rr8yBEt-CnM/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDHnGMCLo5t3BdNkqVU6TTmz8sTiA"/>
 
-  #+BEGIN_EXAMPLE
-    The strongest or most successful period of time.
-  #+END_EXAMPLE
+  =The strongest or most successful period of time.=
 
   - The singer reached her zenith when she sold over twelve million records in 2013.
   - Mike’s second promotion in eleven months confirms he is *at the zenith of* his career.
@@ -734,9 +664,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/_d4KSHxykCA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCQIkPunrz8sRgkxj5WWGtdgtB-iw"/>
 
-  #+BEGIN_EXAMPLE
-    In an unusual or unhealthy manner.
-  #+END_EXAMPLE
+  =In an unusual or unhealthy manner.=
 
   - Because Will is a pathological gambler, he will steal from his family to continue his habit.
   - Beth’s pathological fear of heights won’t allow her to sleep in a hotel room unless it’s on the ground floor.
@@ -768,9 +696,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/MDASexi4hx0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDVwYm5wgQiud5DCNtN9JhNfLjxZA"/>
 
-  #+BEGIN_EXAMPLE
-    To offend or criticize a person or thing.
-  #+END_EXAMPLE
+  =To offend or criticize a person or thing.=
 
   - If you don't want to derogate the locals during your travels, you should avoid being an obnoxious tourist.
   - Since my supervisor doesn't like me, she is constantly trying to derogate my work in front of our boss.
@@ -780,9 +706,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/LiCKO48HWVo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA8ebsEtaz7Cc3vtmHYkTPXoOG8dw"/>
 
-  #+BEGIN_EXAMPLE
-    Associated with subjects that are unpleasant, like death.
-  #+END_EXAMPLE
+  =Associated with subjects that are unpleasant, like death.=
 
   - Tom’s morbid curiosity with death drove him to work in the coroner’s office.
   - Although Hank didn’t know *the deceased*, he attended the funeral to explore his morbid interest in grieving families.
@@ -800,9 +724,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/dQSXLJYtRys/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDXr2N_Ig1IEqDsGN_F6GGbji0GXQ"/>
 
-  #+BEGIN_EXAMPLE
-    The way things are.
-  #+END_EXAMPLE
+  =The way things are.=
 
   - Many conservatives believe homosexual marriages are a threat to the moral status quo that is based on the principal of marriage between a man and a woman.
   - A lack of desire to change the status quo is the reason for the poor voter *turnout* at last year’s election.
@@ -812,9 +734,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/edzKbQfIAzo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBPxj_Zr7TZAsd0dx4qOI7hxttqvQ"/>
 
-  #+BEGIN_EXAMPLE
-    Out of date and no longer useful.
-  #+END_EXAMPLE
+  =Out of date and no longer useful.=
 
   - We realized the baking soda we used in baking was superannuated when our cake didn’t *rise*.
   - The information on my website was superannuated and needed updating.
@@ -825,9 +745,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/WrWz_Hy9Rew/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAxGnjx7Z5iW6pDwQMU3Vc5NddLPw"/>
 
-  #+BEGIN_EXAMPLE
-    Shameless boldness.
-  #+END_EXAMPLE
+  =Shameless boldness.=
 
   - After eating two steak dinners, Charles had the effrontery to tell the waitress he was broke.
 
@@ -836,9 +754,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/7q3zgyeHnQo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC-VwbU93tnOidF7tT1m9KlZ0auFA"/>
 
-  #+BEGIN_EXAMPLE
-    An individual who begs for a living
-  #+END_EXAMPLE
+  =An individual who begs for a living=
 
   - The mendicant hoped pedestrians would drop money in his *bucket*.
   - Rather than search for a job, Jimmy chooses to live as a mendicant who *panhandles* his way through each day.
@@ -849,9 +765,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/6ie2jQ95spQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAaPHT_b1BzXHLJFpxtj7uM0KuVlA"/>
 
-  #+BEGIN_EXAMPLE
-    Not harmful or offensive.
-  #+END_EXAMPLE
+  =Not harmful or offensive.=
 
   - In the *ring* the wrestler appeared dangerous, but in reality, he was really innocuous.
 
@@ -860,9 +774,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/DMQ8zGNrFSI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLArfGuiKrf1dYIubz5EeHNFb4GXRw"/>
 
-  #+BEGIN_EXAMPLE
-    Ability to make good judgments and decisions.
-  #+END_EXAMPLE
+  =Ability to make good judgments and decisions.=
 
   - His lack of sagacity has led to the closing of his business.
   - In order to deal with *disputes*, a police officer must have sagacity.
@@ -871,9 +783,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/xKvs-yxedyE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCqXJxzkA-oXOXue0wlRT2HZEnQsg"/>
 
-  #+BEGIN_EXAMPLE
-    Something done or paid in expiation of a wrong.
-  #+END_EXAMPLE
+  =Something done or paid in expiation of a wrong.=
 
   - Even though reparation was made after his mother broke her hip in the *rehab center*, Mark was not satisfied.
   - Rather than fining the *graffiti* artist, the judge ordered him to make reparation by painting the entire building.
@@ -898,9 +808,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/TULw4tqCs58/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBEy4F8tCxknfzzs094sZx_vYk62Q"/>
 
-  #+BEGIN_EXAMPLE
-    Excessive attachment to or domination by one’s mother.
-  #+END_EXAMPLE
+  =Excessive attachment to or domination by one’s mother.=
 
   - Momism led the *helicopter mother* to follow her son everywhere he went.
   - A victim of momism, the college student’s obsessive mother was more worried about his life _than she was her own_.
@@ -911,9 +819,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/_O62Cy1o5T0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD2RsXnlZ_oltNVHdcuoHXUiJ2NHA"/>
 
-  #+BEGIN_EXAMPLE
-    An incredibly distant celestial object made of a vivid mass of light and energy.
-  #+END_EXAMPLE
+  =An incredibly distant celestial object made of a vivid mass of light and energy.=
 
   - Because a quasar is so bright, it overshadows the light *given off* by celestial objects *in its vicinity*.
   - Although a quasar is a heavenly body packed with power and illumination, it still can’t be seen without technological assistance.
@@ -935,9 +841,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/mYTQgT_EnrE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCxWH5BRGEr80jyuzVUAKgfsE6aqA"/>
 
-  #+BEGIN_EXAMPLE
-    To denounce as damaging or bad.
-  #+END_EXAMPLE
+  =To denounce as damaging or bad.=
 
   - People who prefer physical newspapers decry the high-tech advances that have put many traditional newspaper publishers out of business.
 
@@ -977,9 +881,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/_3y-OBKzbco/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDUmh4Y_01iTz4IXFyRISzZRl4zRg"/>
 
-  #+BEGIN_EXAMPLE
-    A reclusive individual that shuns society and actively enjoys solitude.
-  #+END_EXAMPLE
+  =A reclusive individual that shuns society and actively enjoys solitude.=
 
   - After spending years as a recluse, the troglodyte climbed from his *bunker*, dusted off his clothes, and made his way into society.
 
@@ -988,9 +890,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/Ce8IdVzKNl4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAUuKeRErYYsXzoeGNN4kqDlUShhw"/>
 
-  #+BEGIN_EXAMPLE
-    An offense or disaster of great magnitude.
-  #+END_EXAMPLE
+  =An offense or disaster of great magnitude.=
 
   - When the hurricane struck the island nation, the residents were stunned by the enormity of the destruction.
   - The enormity of the fire threatened to *engulf* the city.
@@ -1001,9 +901,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/c-kUluolWZs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDIFNVOJH3Zwi8Zt8mxkGF-7FvMTg"/>
 
-  #+BEGIN_EXAMPLE
-    Full of jealousy that leads one to be eager to copy another.
-  #+END_EXAMPLE
+  =Full of jealousy that leads one to be eager to copy another.=
 
   - The teen's emulous personality led her to copy the other girl's style instead of embracing her own sense of fashion.
   - *Giving into* his emulous hunger to be like the cool kids, the boy began smoking and drinking to *fit in*.
@@ -1023,9 +921,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/MWTyU2ok8uU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC5vSf3xLn_mNhThvjgI-9g8PlzMQ"/>
 
-  #+BEGIN_EXAMPLE
-  A feeling of being frustrated or annoyed because of failure or disappointment.
-  #+END_EXAMPLE
+  =A feeling of being frustrated or annoyed because of failure or disappointment.=
 
   - *To her chagrin*, Jill placed second in the beauty pageant.
   - After finishing third in the race, I *swallowed my chagrin* and congratulated the winner.
@@ -1036,9 +932,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/jusM3DJsrqc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBi5LfTHcWTK_ESMOeE0hvvPa1Yqg"/>
 
-  #+BEGIN_EXAMPLE
-    A topical solution used to alleviate stiffness or pain.
-  #+END_EXAMPLE
+  =A topical solution used to alleviate stiffness or pain.=
 
   - At the drugstore, Ben asked the pharmacist to recommend a liniment for alleviating *joint stiffness*.
   - When I visit my grandfather at the *nursing home*, I usually take him liniment for his achy knees.
@@ -1048,9 +942,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/dY2eMcZ0ttQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCuNIgOSMiMQ5PzOOWv1_66tcJPLA"/>
 
-  #+BEGIN_EXAMPLE
-    A confused mess of things.
-  #+END_EXAMPLE
+  =A confused mess of things.=
 
   - When I returned home after work, I found that my dog had *torn into* the pillows on the couch and left the living room in a fluffy state of gallimaufry.
   - The excuses of the young children was *a gallimaufry of* nonsense, each of them saying something different that made no sense.
@@ -1061,9 +953,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/jhXX8sTiI-I/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCDKZkbF2jP8IsPG7em233wCIAh5A"/>
 
-  #+BEGIN_EXAMPLE
-    A combination of passion and energy that is typically found in artistic expression.
-  #+END_EXAMPLE
+  =A combination of passion and energy that is typically found in artistic expression.=
 
   - Johnny Depp is known for eccentric performances that burst with verve and energy.
   - Marius *professed* his love to Cosette with such verve and passion that she *swooned*.
@@ -1073,9 +963,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/o7mloqivNbM/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCEZ60j3zlB04GxdTV02I8-A6D6gA"/>
 
-  #+BEGIN_EXAMPLE
-    Unsafe, risky.
-  #+END_EXAMPLE
+  =Unsafe, risky.=
 
   - As a result of the parlous riots, the city has imposed a nightly curfew.
 
@@ -1089,9 +977,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/MtRgZnVhNQU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhW8LvksHZcgtadKmqzctveaZreg"/>
 
-  #+BEGIN_EXAMPLE
-    Lacking logic and reasoning.
-  #+END_EXAMPLE
+  =Lacking logic and reasoning.=
 
   - The insensate *simpleton* decided to put his hand on the electric fence even though there was a sign that made it obvious he shouldn’t.
   - Nearly all animals are insensate in nature, lacking the ability to consider things in a logical or reasonable *light*.
@@ -1101,9 +987,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/xeWLqrduH2Y/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD5ZWOn6U8lfg_cUX9H8EnQ98-aMQ"/>
 
-  #+BEGIN_EXAMPLE
-    Warm and sincere.
-  #+END_EXAMPLE
+  =Warm and sincere.=
 
   - If you treat people in a cordial manner, they will treat you well also.
 
@@ -1126,9 +1010,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/uGbwRhOEvhY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDCKjspKHAJlHaSsUV_MPs8ZpEHqQ"/>
 
-  #+BEGIN_EXAMPLE
-    The total opposite of an object or person.
-  #+END_EXAMPLE
+  =The total opposite of an object or person.=
 
   - In the movie, Robert’s character of an abusive husband is the antithesis of the caring spouse the actor really is.
   - During his *sermon*, the minister asked his clergy members to practice the antithesis of hate and love even their worst enemies.
@@ -1138,9 +1020,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/7ZIVVztkAnI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB_ZUjEaUgRbGmymmoR1Hipk0cDsg"/>
 
-  #+BEGIN_EXAMPLE
-  An individual’s entourage or a grave procession
-  #+END_EXAMPLE
+  =An individual’s entourage or a grave procession=
 
   - Whenever the celebrity travels, she is followed by a cortege of her staff members.
 
@@ -1171,9 +1051,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/zLDWcoQguZc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCgMWyK3UfPRsDsvbHdac8mxyEXMg"/>
 
-  #+BEGIN_EXAMPLE
-  A unit of the military that consists of ships, aircraft, or fighters
-  #+END_EXAMPLE
+  =A unit of the military that consists of ships, aircraft, or fighters=
 
 * PERCEPTIVE
 
@@ -1187,9 +1065,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/EH-m6CtF5Eg/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBStC8f9sdSsNRUmk_JckTYub7L1A"/>
 
-  #+BEGIN_EXAMPLE
-  Late in paying what is owed or past due
-  #+END_EXAMPLE
+  =Late in paying what is owed or past due=
 
 
 
@@ -1197,9 +1073,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/0kfiLseuneo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA8FDN-pR8J-Cj4jGyuvdsWN2QPPQ"/>
 
-  #+BEGIN_EXAMPLE
-  To inspire people to work towards change
-  #+END_EXAMPLE
+  =To inspire people to work towards change=
 
   - Do you think the child’s death will galvanize town residents to the point they will stand up to drug dealers?
 
@@ -1208,9 +1082,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/ZNaYnTZ3quc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCQT1VTI3s5PJN1RtcWA4yoPZcmpQ"/>
 
-  #+BEGIN_EXAMPLE
-  A gradual fall into a state of chaos or disorder
-  #+END_EXAMPLE
+  =A gradual fall into a state of chaos or disorder=
 
   - Sue prevents her small apartment from falling into entropy by storing items in containers and on shelves.
   - When the dictator died unexpectedly, the country *slid into* entropy.
@@ -1220,9 +1092,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/8SBr1H1s5XY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBWd7KV5GLWUNQNUBakmci2KX56oQ"/>
 
-  #+BEGIN_EXAMPLE
-  The way in which something is executed
-  #+END_EXAMPLE
+  =The way in which something is executed=
 
   - John gets multiple assignments done by working in a productive modality that allows him to combine tasks.
   - The modality of the ballerina’s movement *centers on* her skill and expertise.
@@ -1233,9 +1103,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/w2WYKBJRPgE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCMd200OyuWh7qcu8CSBZWOgttmjg"/>
 
-  #+BEGIN_EXAMPLE
-  To mark the limits or boundaries of something
-  #+END_EXAMPLE
+  =To mark the limits or boundaries of something=
 
   - The fence was put in place to demarcate one piece of property from the next.
   - We will demarcate the land, but first we need maps to show where the *boundary stakes* should go.
@@ -1257,9 +1125,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/g8A-cC8yPrw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDlkhbPNTW-Q8NvIONU7jv_79rKFQ"/>
 
-  #+BEGIN_EXAMPLE
-  Able to produce a deep sound
-  #+END_EXAMPLE
+  =Able to produce a deep sound=
 
   - Because Hank has a sonorous pleasant-sounding voice, he is often paid to narrate television commercials.
   - *More than anything*, the deaf girl wished she could hear the sonorous sound of the tuba.
@@ -1270,9 +1136,12 @@
   #+HTML: <img src="https://i.ytimg.com/vi/ZUZuOYtGvKU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBK-dZ_arUc-qrzPNSqtjMXm0FDuw"/>
 
   #+BEGIN_EXAMPLE
-    The overwhelming need to be with or receive similar feelings from another person that manifests in physical trembling and pain when the other person is not around.
-    (深恋感)
+    The overwhelming need to be with or receive similar feelings from another person that
+    manifests in physical trembling and pain when the other person is not around.
+
+    深恋感
   #+END_EXAMPLE
+
 
   - When Romeo first laid eyes on Juliet, he was struck with such limerence that his need for her became like a drug that could only be satisfied by returned feelings.
   - Limerence is beyond infatuation or a simple crush. It is the inability to function without the one you desire.
@@ -1282,9 +1151,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/NLyZZhLggWw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBMPO0EtqmRejdVFJkBE-dYkyKT4g"/>
 
-  #+BEGIN_EXAMPLE
-  Convulsive, loud laughter
-  #+END_EXAMPLE
+  =Convulsive, loud laughter=
 
   - The evil witch continued her wild cachinnation as she pretended to be conversing with a funny demon.
   - Debra has a sense of humor that is so hilarious that it always leaves people *doubled over* (前仰后合) in cachinnation.
@@ -1301,9 +1168,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/ox78iaviK84/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAC9uaocLbmGVtyqudF4RNwv8yf6w"/>
 
-  #+BEGIN_EXAMPLE
-  Behavior that is flirty in nature
-  #+END_EXAMPLE
+  =Behavior that is flirty in nature=
 
   - It was hard for Rick to ignore his wife’s shameless coquetry with other men.
   - During the party, Anna displayed her coquetry by *batting her eyes* (抛媚眼) at every man in the room.
@@ -1314,8 +1179,10 @@
   #+HTML: <img src="https://i.ytimg.com/vi/xYntonU77cM/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDupyo-uVPSyrcGcGj8Vx5hn5NOTA"/>
 
   #+BEGIN_EXAMPLE
-  A comparison that generally uses 'like' or 'as' to make lofty or exaggerated descriptions of a person or object
+    A comparison that generally uses 'like' or 'as' to make lofty
+    or exaggerated descriptions of a person or object
   #+END_EXAMPLE
+
 
   - Snow White’s entire description is made from a simile for each feature: hair as black as night, skin as white as snow, lips as red as blood.
   - The students were instructed to write a simile using ‘like’ or ‘as’ to compare their best friend to an animal.
@@ -1326,9 +1193,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/hsITXOB-kXo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBT2PaoGMyz8DcnrBKBN1CMd5FULw"/>
 
-  #+BEGIN_EXAMPLE
-  Hostility triggered by a grievance or insult
-  #+END_EXAMPLE
+  =Hostility triggered by a grievance or insult=
 
   - If my neighbor continues to let his dog *poop* in my front yard, he is going to feel the *full force* of my ire when I toss the canine waste on his porch.
 
@@ -1337,9 +1202,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/hyL4rarzgd8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCyV6a7aSfF4s4HRIur5oWM8pg48g"/>
 
-  #+BEGIN_EXAMPLE
-  Excessively large
-  #+END_EXAMPLE
+  =Excessively large=
 
   - Since Bill is a salesman, he spends an inordinate portion of his day on the telephone.
   - Some dogs are very hyper and require an inordinate amount of attention from their owners.
@@ -1349,9 +1212,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/YVDGd3XHpmw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCHRbDU1k8QbKpfyonGlYz4TmAf7w"/>
 
-  #+BEGIN_EXAMPLE
-  To remove support as a form of complaint
-  #+END_EXAMPLE
+  =To remove support as a form of complaint=
 
   - If I receive bad service at a restaurant, I boycott the *establishment* and never eat there again.
 
@@ -1376,10 +1237,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/VeJafV5n9rQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBsYqWb6vFFHwAbaPFeRw-Dv8tJXg"/>
 
-  #+BEGIN_EXAMPLE
-  The worth of an individual’s character or his level of ability
-  (才干)
-  #+END_EXAMPLE
+  =The worth of an individual’s character or his level of ability, 才干=
 
   - Only soldiers of the uppermost caliber are invited to join the elite squad of infantryman.
   - According to the store owner, the right caliber of salesman is one who can sell at least four major appliances each day.
@@ -1422,9 +1280,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/8klVY4q-xX4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDfxAME8lkzapOlKnBvWgLttsv9cg"/>
 
-  #+BEGIN_EXAMPLE
-  Rude; impolite
-  #+END_EXAMPLE
+  =Rude; impolite=
 
   - Linda decided never to call that babysitter again because the nanny-cam showed that she acted churlish with the children.
   - I admit that I wake up churlish every morning, but my mood improves drastically after I have my cup of coffee.
@@ -1441,9 +1297,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/KBRbuNeZfoc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBdX793Ir0rlR8wHMEJnyQzApUCEw"/>
 
-  #+BEGIN_EXAMPLE
-  To create an outline or a faint shadow
-  #+END_EXAMPLE
+  =To create an outline or a faint shadow=
 
   - With assistance from the victim, the *sketch artist* will adumbrate a picture of the robbery suspect.
   - When my mother lit the candle in the darkness, it was nice to see the light adumbrate our shadows on the wall.
@@ -1454,9 +1308,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/S6Ifw4-a4YA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAuN9r7Fn1pusHZBaFLnBGyRYuw0w"/>
 
-  #+BEGIN_EXAMPLE
-    A dazed state where one wanders without active knowledge that they are doing so
-  #+END_EXAMPLE
+  =A dazed state where one wanders without active knowledge that they are doing so=
 
   - Sleepwalkers are often found in a trance state where they wander aimlessly without conscious thought.
   - The audience was so *enraptured* by the Bolshoi ballerinas that they watched in a rapt trance, unable to move or look away from the beauty.
@@ -1474,10 +1326,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/pcdrhILEJbc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLALcneFs2zkNCtlGIaF_SVCzp7yQg"/>
 
-  #+BEGIN_EXAMPLE
-    A figure of speech in which a part is used for the whole or the whole for a part
-    (借代)
-  #+END_EXAMPLE
+  =A figure of speech in which a part is used for the whole or the whole for a part, 借代=
 
   - I often use the synecdoche "plastic" when referring to my credit cards.
   - A common synecdoche used in everyday life is *boots on the ground*, where boots refers to a group of soldiers.
@@ -1503,9 +1352,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/xJiX9r4vv2Q/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAF-YFuOD0-Fai3vIHIVaik5L5I7Q"/>
 
-  #+BEGIN_EXAMPLE
-  An ill-timed or humiliating incident
-  #+END_EXAMPLE
+  =An ill-timed or humiliating incident=
 
   - Falling in the school cafeteria was a contretemps the shy girl would never forget. (难堪)
   - The illegal border crossing is a contretemps that could *stall* the signing of the peace treaty. (不合时宜)
@@ -1539,9 +1386,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/2V-ukHc0Q-4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAum9nTHiKuKR9_VOOIQnKbZcXaVQ"/>
 
-  #+BEGIN_EXAMPLE
-  A person who lives in poverty
-  #+END_EXAMPLE
+  =A person who lives in poverty=
 
   - John was basically a pauper after his wife took all his money in the divorce.
 
@@ -1558,9 +1403,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/SK2YX4xDkeU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDzNCtfR6Fa26Kg8VEjQyiRmC8a7w"/>
 
-  #+BEGIN_EXAMPLE
-  Well-known but probably not true
-  #+END_EXAMPLE
+  =Well-known but probably not true=
 
   - Because the truth about the singer’s upbringing is unknown, most people just *pass on* apocryphal stories about his life.
 
@@ -1570,9 +1413,7 @@
   #+HTML: <img src="https://i.ytimg.com/vi/q5IJ7RbJSZo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAhviFbRecK25DhbwaTbG49xBIWXA"/>
 
 
-  #+BEGIN_EXAMPLE
-  A situation in which one has a great amount of wealth
-  #+END_EXAMPLE
+  =A situation in which one has a great amount of wealth=
 
   - When the economy crashed, many people of affluence became poor.
   - Gail *credits* her early retirement and affluence to working hard and saving carefully.
@@ -1582,9 +1423,7 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/m98ldEPyi-M/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAkz3U_4rBw1DShcKVItsEAvnU36Q"/>
 
-  #+BEGIN_EXAMPLE
-  Not essential or coming from the outside
-  #+END_EXAMPLE
+  =Not essential or coming from the outside=
 
   - If you have any extraneous money after you’ve taken care of the month’s bills, you should consider investing it or putting it into savings.
   - If you *slip off your diet*, the *extraneous calories* will make you gain all the weight you lost.
@@ -1618,26 +1457,20 @@
 
 #+HTML: <img src="https://i.ytimg.com/vi/41ouIufkKDQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC3Fq2PRxD9VbyJvFGE5EKDllgYvQ"/>
 
-#+BEGIN_EXAMPLE
-A collection of documents about a particular person, event, or subject
-#+END_EXAMPLE
+  =A collection of documents about a particular person, event, or subject=
 
 
 * DELUGE
 
 #+HTML: <img src="https://www.youtube.com/watch?v=Dp_mWw1rzEA&index=245&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9"/>
 
-#+BEGIN_EXAMPLE
-A large number of things occurring in the same instance
-#+END_EXAMPLE
+  =A large number of things occurring in the same instance=
 
 
 
 * MALLEABLE
 
-#+BEGIN_EXAMPLE
-Capable of being easily changed or influenced
-#+END_EXAMPLE
+  =Capable of being easily changed or influenced=
 
 - When my uncle drinks a great deal, he is always quite malleable to suggestions.
 - The malleable politician frequently changed his position on gun policy.
@@ -1650,9 +1483,7 @@ Capable of being easily changed or influenced
 
 * INTRACTABLE
 
-#+BEGIN_EXAMPLE
-棘手的
-#+END_EXAMPLE
+  =棘手的=
 
 - When the hyperactive child did not take his sedative, he was intractable and difficult to manage.
 - Additional police officers were *called to the scene* when the crowd became intractable.
@@ -1661,9 +1492,7 @@ Capable of being easily changed or influenced
 
 * LEER
 
-#+BEGIN_EXAMPLE
-To stare at a person with an unpleasant expression that is often sexual in nature
-#+END_EXAMPLE
+  =To stare at a person with an unpleasant expression that is often sexual in nature=
 
 - When Jill looked up from her phone, one of the drunk men at the bar had began to leer at her by smiling *suggestively*.
 - During spring break, you can always find groups of *horny* college boys leaning over hotel balconies to leer at bikini-clad girls.
@@ -1672,9 +1501,7 @@ To stare at a person with an unpleasant expression that is often sexual in natur
 
 * FRISSON
 
-#+BEGIN_EXAMPLE
-An intense emotion that comes on suddenly
-#+END_EXAMPLE
+  =An intense emotion that comes on suddenly=
 
 - As Amber walked to the podium to make her speech, a frisson of nervousness swept over her.
 - When Helen saw the snake, she felt a frisson of terror.
@@ -1714,9 +1541,7 @@ An intense emotion that comes on suddenly
 
 * PROTRACT
 
-#+BEGIN_EXAMPLE
-To prolong in time or space
-#+END_EXAMPLE
+  =To prolong in time or space=
 
 - Not wanting to hurt her boyfriend’s feelings, the young woman continued to protract their inevitable breakup.
 - The fiancée demanded to know why her future husband wanted to protract their engagement.
@@ -1752,9 +1577,471 @@ To prolong in time or space
 
 * REFUTE
 
-#+BEGIN_EXAMPLE
-To prove wrong by argument or evidence
-#+END_EXAMPLE
+  =To prove wrong by argument or evidence=
 
 - Because I had once been a teenager myself, I was able to refute all of my son’s arguments for staying out late.
 - Although the scientist conducted the experiment six times, he was not able to obtain results that would refute the theory.
+
+
+* TRAVERSE
+
+  #+HTML: <img src="https://i.ytimg.com/vi/HF7hdYKNe9k/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAgjok0EU-VGuO4f7t6E_GUc4oh5Q"/>
+
+  =To travel a 'rough' path=
+
+  - Individuals who are serious about becoming doctors should be prepared to traverse a demanding educational journey.
+  - The settlers had to traverse unsafe terrains to reach ground that was suitable for farming.
+
+
+* SORDID
+
+  =Very bad or dirty=
+
+  - If people learn of the politician’s sordid past, they will not vote for him.
+  - *To get publicity*, the actress created a sordid but fake tale about childhood abuse.
+
+
+* SECULAR
+
+  =Not driven by religious principles=
+
+  - Since Bill was not a *spiritual man* (属灵人), he *went out of his way* (不辞辛苦) to attend a university with a secular focus.
+  - Most teachers are told to avoid giving their personal religious opinions and to instead focus on secular facts about the world.
+  - Even the most secular people turned to the church after the hurricane destroyed most of the city.
+  - As soon as the teenagers leave the church, they *toss off* their Christian values and go in search of secular pleasures.
+
+
+
+* GRANDILOQUENT
+
+  =Prone to using sophisticated language in order to impress people=
+
+  - The city girl’s grandiloquent talk was confusing to the people in the country town.
+  - Bill’s grandiloquent conversation made him seem *out of place* among the uneducated workers.
+
+
+* GREENHORN
+
+  - The greenhorn bowler’s ball spent a lot of time in the *gutter*.
+
+* GUFFAW
+
+
+
+* HIGHFALUTIN
+
+  =Conceited or arrogant=
+
+  - “You probably don’t want to live in this neighborhood,” the *realtor* pointed to the mansion, “because these highfalutin homeowners only speak to people who make over a million dollars a year.”
+  - The highfalutin celebrity would drive one of her many luxury cars around town just to show them off.
+
+
+* LOGOPHILE
+
+  =A lover of words=
+
+  - To be author, you have to be a logophile because love of words goes hand-in-hand with crafting an engaging story.
+
+
+* LUGUBRIOUS
+
+  - Franklin *despised* his job at the ketchup plant so he always had a lugubrious look on his face at work.
+
+
+
+* PARAMOUR
+
+  =姘头=, =side chick=
+
+
+* LIONIZE
+
+  - I hate when people lionize dead celebrities that were *vilified* during their lifetimes.
+  - Listening to the *emcee* lionizing the president of his company, Barry could not help feeling a little bit jealous of his superior.
+  - Larry *walked out* (罢工) in protest when Rick began to lionize a man that went to prison for operating a *Ponzi scheme*.
+
+
+* ANTICIPATE
+
+  - When camping, you should anticipate the need for bug *repellant*.
+
+
+* MACHINATION
+
+  =A scheme that is usually created for bad reasons=
+
+  - Many spy movies *revolve around* a bad guy’s machination to take over the world.
+
+
+* MITIGATE
+
+
+* BAWDY
+
+  - I am not sure why Carol chose to dress as a bawdy prostitute for a child’s costume party.
+  - During the bachelor party, Jim’s intoxicated friends made several bawdy predictions about his honeymoon night.
+  - My children are not allowed to listen to music with bawdy lyrics.
+
+
+* REDOLENT
+
+  - When my husband came home late, his clothing was redolent *with* the scent of a strange woman’s perfume.
+  - My beachfront hotel room was redolent *with* the wonderful smell of the ocean.
+
+
+
+* EXPEDIENT
+
+  =suitable to the circumstances; appropriate=
+
+  - Given the fact the police will be looking for us soon, it is expedient we leave this apartment quickly!
+  - While I could have taken the train to New York City, I found it more expedient to fly there.
+  - While the patient has no insurance, it is expedient that the hospital staff take all life-saving methods, regardless of their costs.
+  - There has to be a more expedient means of counting the beans than by taking them out of the jar one by one.
+  - My mother is a chatty woman and is quite skilled at getting rid of nosey neighbors in an expedient manner.
+
+
+* CORROBORATE
+
+  =to strengthen or support with other evidence; make more certain=
+
+  - The chocolate on James’ face was enough to corroborate the theory he was the one who stole the brownies.
+  - Even though she knew her husband was lying, Meredith still agreed to corroborate his story in court.
+  - My coworkers can corroborate the fact I was at work all day.
+
+
+* OPULENT
+
+  =extravagant and rich=
+
+  - Because the movie star made over ten million dollars a film, she was able to maintain an opulent lifestyle.
+  - The couple spent over eighty thousand dollars on opulent kitchen appliances.
+
+
+* GERMANE
+
+  =relating to a subject in an appropriate way=
+
+  - The president will only respond to media questions that are germane to the economic crisis.
+  - If you post anything other than germane comments beneath this article, you will be banned from the site.
+
+
+* GELID
+
+  - Gelid air from the Arctic Ocean made even the penguins shiver.
+  - Gelid temperatures stopped many beach goers in as the *cold snap* =寒潮= swept through the area.
+
+
+
+* HARANGUE
+
+  =a loud and aggressive speech; verbal attack=
+
+  - As usual, the priest made his usual harangue about the dangers of listening to rap music.
+  - During last month’s meeting, the PTA president gave a harangue against the new superintendent.
+
+
+* HEGEMONY
+
+  =the predominant influence of one group over another, 霸权主义=
+
+  - Although the principal has hegemony status *over* the students, she is a kind woman who treats all of the children as if they were her own.
+  - My sister’s possessive boyfriend had a strange hegemony *over* her.
+  - When the dictator was *chased out of* the country, his hegemony *over* the people came to an end.
+
+
+* LEVITY
+
+  =a lack of seriousness=
+
+  - When I watch movies, I prefer films with levity, not *tearjerkers*.
+  - As a student, I really liked Mrs. Walters because she was not too stern and always used levity in her lessons to make the class less formal.
+
+
+* EXPLOIT
+
+  - For hefty paychecks, the *paparazzi* were willing to exploit the grieving widow at her husband’s funeral.
+  - Fuel suppliers will exploit the national oil shortage by raising prices to increase their *bottom lines* =底价=.
+
+
+* GRATUITOUS
+
+  =uncalled for; unwarranted; unnecessary; 无谓的=
+
+  - Even though I had been looking forward to seeing the movie, I walked out of the theater after thirty minutes because of so much gratuitous foul language.
+  - He’s always looking for gratuitous attention from his classmates by pulling all sorts of reckless stunts.
+
+
+* LUCID
+
+  =easy to understand or thinking clearly, 清醒=
+
+  - After *staying up* for twenty hours, I was far from lucid.
+  - Because the medicine made Lisa drowsy, she was not very lucid.
+
+
+* GADFLY
+
+  =an annoying person who is a nuisance by constantly criticizing others, 牛虻=
+
+  - The television commentator is a gadfly whose main purpose on the show is to criticize others.
+  - Criticizing his staff’s work constantly, the rude gadfly was *less of a principal and more of a pest*.
+
+
+* INTEGRITY
+
+
+* BERATE
+
+  =to yell at; to criticize or scold someone in a loud and angry way=
+
+  - Because the *bailiff* had brought the message that the jury could not reach a decision, the judge called them into the courtroom to berate them about how a *hung jury* =不能做出一致决断的陪审团= was a waste of taxpayers’ money.
+  - During his *first term of office*, the President was constantly having to berate Congress for obstructing his proposed legislation.
+  - The police officer *flagged down* the truck and began to berate the driver for driving his *rig* =大货车= through the quiet neighborhood.
+
+
+* CAPITULATE
+
+  =to give in; to surrender under certain terms=
+
+  - I will not capitulate on this deal unless I receive the stock options I have requested!
+  - I never thought my brother would capitulate and allow me to drive his car for a week.
+
+
+* SUBLIME
+
+  - Because of a bad case of laryngitis, the soprano wasn’t able to sing, but her understudy received a standing ovation for stepping into the role and delivering a sublime performance.
+
+
+* APLOMB
+
+  =confidence and skill shown, especially in a difficult situation; keeping your cool=
+
+  - Although the awards host could not read the *television prompter* =提字器=, he still performed his *opening number* =第一首曲子= with aplomb that made him the hit of the evening.
+
+
+* DISSEMBLE
+
+  =to disguise or conceal behind a false appearance=
+
+  - While it may be easier to dissemble your true feelings from others, it is always best to be honest with those you love.
+  - In an attempt to dissemble his affair *from* his wife, Matt bought a cell phone which he kept hidden in his car.
+
+
+
+* GOSSAMER
+
+  =a light and thin material=
+
+  - Because I love sunlight, I only have gossamer curtains in my home.
+  - When the butterfly landed on my arm, I could almost see through its gossamer wings.
+  - In the sunlight, the spider’s *gossamer web* appeared translucent.
+
+
+* COMMENSURATE
+
+  =in proportion, equal=
+
+  - You will get a salary increase commensurate *with* your additional responsibilities and work.
+  - Because Albert is a smart young man, I think he should quit working in fast food and find a career commensurate *with* his high IQ.
+
+
+* COMPLIANT
+
+  - The teacher was shocked when her normally rebellious class became compliant.
+  - If your restaurant does not become compliant *with* the health department codes, it will be closed down.
+  - My friend recently bought a *shock collar* =电震项圈= to make her dog more compliant.
+
+
+* PLAUSIBLE
+
+  - Do you really think telling the judge you were on an alien spaceship is going to *go over well* as a plausible *alibi*?
+
+
+
+* MOTIF
+
+  - *Unrequited love* =单相思= is a frequent motif in the playwright’s works.
+
+
+* DEBONAIR
+
+  =confident and stylish; suave=
+
+  - On the day of his wedding, my brother looked debonair in his tuxedo.
+  - With his dirty hair and *rumpled* clothing, the homeless man looked far from debonair.
+  - The debonair man knew he could win the woman over with a smile and a few *choice words* =swear words, 脏话=.
+
+
+* EMANCIPATE
+
+  =to give freedom to someone=
+
+
+* PROLIFERATE
+
+  - On cleaning day, Meg gets angry when she sees the way the *dust bunnies* =灰尘团= tend to proliferate if she doesn’t vacuum every single day.
+  - Rumors of a breakup began to proliferate when Lynn was spotted *about town* =在城里= with a different man.
+
+
+* IDEOLOGY
+
+* SPOILS SYSTEM
+
+  =美国当选总统把官职分给支持者的政党分肥制=
+
+  - Some argue that President Trump has a spoils system in place because all of the open political offices are given to his unqualified friends.
+  - Ancient Rome was a spoils system in which those who made monetary contributions to the rulers earned positions in the government.
+
+
+* SELFLESS
+
+  =thinking only of others and not of oneself=
+
+
+* CONSIDERATE
+
+  - While Jill’s husband was stationed =派驻= overseas, a considerate teenager mowed her lawn.
+
+
+* EXTRICATE
+
+  =to free or remove something or someone=
+
+  - If the magician does not extricate himself from the water tank in the next forty-five seconds, he will die.
+
+
+* INVARIABLY
+
+  =必定=
+
+  - Every day, at least one *telemarketer* invariably calls while we are enjoying a quiet dinner.
+  - Max was a little too *handy with* =善于使用= the *snooze button* on his alarm clock, so he was invariably late for work every day.
+
+* LENIENT
+
+  =lax, not strict=
+
+  - The lenient judge is merely going to give Cal a *stern warning* =严正警告=.
+
+
+
+* LIAISON
+
+  =联络人=
+
+
+* CHARITABLE
+
+  - Though she pretends to be charitable, the stingy woman hates giving money away.
+
+
+* LOFTY
+
+  =great and worthy of praise=
+
+  - The football players have set a lofty goal *in their bid* to win all their home games this year.
+
+
+* BASTION
+
+  =an individual or object dedicated to a belief or idea=
+
+  - The elderly hotel owner continued to be a bastion for a quiet vacation and refused to put telephones and televisions in his hotel rooms.
+  - Many people consider radio to be the final bastion of analog amusement.
+
+* AWOL
+
+  =擅离职守=
+
+  - By *going AWOL*, the Navy seaman put himself at risk for being dismissed from the military.
+  - The soldier went AWOL from his post, but eventually showed back up for duty.
+
+* ADAPT
+
+  - Kelly found it difficult to adapt to being a paparazzi target after going unnoticed for so many years.
+  - After Lou lost one arm in a car accident, he had to adapt to a prosthetic limb.
+
+
+* RECREANT
+
+  =变节=
+
+  - The recreant police officer was *brought up* =带上法庭= on charges of disobeying orders.
+  - It was discovered that a recreant employee had *divulged* secret company information to competitors.
+
+
+* ORDINANCE
+
+  - When the ordinance is passed, people will be fined for not keeping their front lawns neatly cut.
+  - The town ordinance requires all individuals to clean up after their dogs when accompanying them on property they do not own.
+
+
+* PRIMAL
+
+  =basic; instinctive=
+
+  - In this primal stage, the crying baby can only focus on his most basic needs.
+  - Although we no longer live in caves, many of the most primal instincts of our ancestors still exist.
+
+
+* REGALIA
+
+  =特别服饰=
+
+  - The church was covered in regalia for the *Christmas pageant* =圣诞游行=.
+  -  When I watched the Olympics, I enjoyed the Opening Ceremony with all the country’s regalia.
+
+
+* NOTWITHSTANDING
+
+  =despite; regardless=
+
+  - Notwithstanding the fact he was grounded =禁足=, Phil went to the cookout.
+
+
+* MONOPOLY
+
+  - Anti-trust laws have been enacted to prevent companies from disrupting fair trade by obtaining a monopoly in a specific industry.
+
+
+* MONGREL
+
+  - Although he wasn’t a pure-breed, the neighborhood mongrel was both feared and loved by all of the children.
+
+
+* MOIETY
+
+  - If the medicine makes you feel drowsy, you should only take a moiety of the dosage before going to work and the other half when you get home.
+  - Fortunately, the *bill collector* =收账人= is willing to accept a moiety of my debt and is giving me more time to pay the remaining half.
+
+
+* MEDDLE
+
+  =to interfere in something that is not your concern=
+
+  - The government should never meddle with religious affairs.
+  - The machine is working fine so please do not meddle with the settings.
+
+
+* PERPENDICULAR
+
+
+* PARVENU
+
+  =an individual who moves from a lower economic and social class to a higher one while remaining an outsider; 暴发户=
+
+  - When the parvenu won the lottery, he joined a country club in an attempt to *fit in with* the other well-off citizens.
+
+
+* ZANY
+
+  =unique and amusing=
+
+  - My cat behaves in a zany manner after inhaling *catnip* =猫薄荷=.
+
+* VIM
+
+  =energy; enthusiasm=
+
+  - After losing a few pounds, the dieter was energized again with vim and vigor.
