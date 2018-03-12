@@ -1455,14 +1455,14 @@
 
 * DOSSIER
 
-#+HTML: <img src="https://i.ytimg.com/vi/41ouIufkKDQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC3Fq2PRxD9VbyJvFGE5EKDllgYvQ"/>
+  #+HTML: <img src="https://i.ytimg.com/vi/41ouIufkKDQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC3Fq2PRxD9VbyJvFGE5EKDllgYvQ"/>
 
   =A collection of documents about a particular person, event, or subject=
 
 
 * DELUGE
 
-#+HTML: <img src="https://www.youtube.com/watch?v=Dp_mWw1rzEA&index=245&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9"/>
+  #+HTML: <img src="https://www.youtube.com/watch?v=Dp_mWw1rzEA&index=245&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9"/>
 
   =A large number of things occurring in the same instance=
 
@@ -2859,3 +2859,348 @@
   - The foolish mailman tried to fit the corpulent package in the tiny mailbox.
   - Because the piano is too corpulent to fit through the front door, we will have to bring it in through the garage.
   - Frank used an editing program to give himself a less corpulent look in the photograph.
+
+
+* AUDACITY
+
+  - I can’t believe my ex-wife had the audacity to ask me to spend time with her boyfriend!
+  - After robbing the bank, the robber had the audacity to leave an insulting note for the police.
+  - Can you believe Maggie had the audacity to threaten to call the police on her noisy neighbors?
+  - My sister Sarah once had the audacity to jump on the stage with her favorite singer.
+  - Only Frank had the audacity to call our boss a bully.
+
+
+* FRACTIOUS
+
+  =hard to manage or control=
+
+  - The inexperienced teacher found the fractious students difficult to control.
+  - During the concert, police officers were *on hand* =在场= just in case the crowd became fractious.
+  - The fractious child would not listen to a word his mother said.
+  - As a new manager, Hank is not used to dealing with fractious employees who do not follow directions.
+  - The fractious dog would not obey its owner’s commands.
+
+
+* CREDULOUS
+
+  =ready to believe, especially on slight or uncertain evidence=
+
+  - At the age of eleven, Pierce was so credulous he believed in the tooth fairy.
+  - *For the most part* =大多数情况下=, credulous individuals will believe anything they are told.
+  - Because my brother is a credulous consumer, he is a salesperson’s dream.
+  - My uncle is a credulous man who once paid a fortune for an imaginary gold mine.
+  - If you do not stop being so credulous, someone is really going to take advantage of you one day!
+
+
+* PRUDENT
+
+  =marked by wisdom or sound judgment=
+
+  - It is not prudent to go swimming during a hurricane.
+  - Even though my aunt thinks it is hard to quit smoking, she knows it is a prudent decision to stop the bad habit.
+  - Since so many car accidents have happened at that intersection, it would be prudent for the city to put a stop sign in the area.
+  - Because Warren has made many prudent investments over the years, he is now a very wealthy man.
+  - As parents, we must teach our children to make prudent choices about their futures.
+
+
+* ADEPT
+
+  =very good at doing something that is not easy=
+
+  - Mark is an adept juggler who can easily manager four balls in the air without dropping one.
+  - Although Stephanie seems to have a hard time in science, she is adept at solving math equations.
+  - Karen is an adept *seamstress* who can turn a pair of curtains into a beautiful evening gown.
+  - Because Sarah has been swimming since she was a baby, she is now an adept swimmer.
+  - Since Matt rarely plays baseball, he is not adept in the sport.
+
+
+* VAPID
+
+  =lacking liveliness; dull=
+
+  - Because we did nothing but sit in the hotel room, our vacation was vapid and uninteresting.
+  - Nathan was not impressed by the vapid cartoons his little brother enjoyed watching.
+  - For a teenage girl, there is nothing more vapid than having your mom participate in your *sleepover* =朋友家过夜=.
+  - Since Bill was nervous, his first standup routine was confusing and vapid.
+  - To me, baseball is a vapid sport that quickly puts me to sleep.
+
+
+* SUPERFICIAL
+
+  - Since John chooses his dates solely on their superficial qualities, he could care less about their personalities and goals.
+  - Mark only has a superficial knowledge of American history so he is not a good choice to help you with your college research paper.
+  - Whenever Billy participates in a chat with someone he does not like, he only pretends to have a superficial interest in the conversation.
+  - The wooden floor looks somewhat strange because the stain has only gone so far as the superficial *grains* =表面质地，触感= of the board.
+
+
+
+* MYRIAD
+
+* ARBITRARY
+
+  =chosen or done at random=
+
+  - In spite of the cold weather, we made an arbitrary trip to the beach.
+  - When the judge started making arbitrary rulings that were not based on law, he was reprimanded by the governor.
+  - If your bank charges you arbitrary fees, you should look for a new place to store your money!
+  - Because he was upset about his divorce, the police officer made a number of arbitrary arrests.
+  - Because the group could not come to a decision on lunch, Katherine made an arbitrary choice and ordered pizza.
+
+
+* HUBRIS
+
+  =having too much pride and personal worth=
+
+  - Feeling unbeatable because of her hubris, Carolyn did not prepare well for the contest and lost.
+  - The leader of the cult had so much hubris he believed the government would never be able to capture him.
+  - Filled with hubris, the rabbit lost the race to the turtle.
+  - Overcome by hubris, the teenager pulled a gun on the six police officers.
+  - Although the priest had taken a vow to help others, his own personal judgment was blinded by hubris.
+
+* DUBIOUS
+
+  =causing doubt=
+
+  - Because Larry had a drinking problem, I was dubious about going to a bar with him.
+  - When questioned about the night of the murder, the suspect's memory was dubious.
+  - In such a crazy world, it is hard not to be dubious *of* a stranger’s intentions.
+  - How many times must I warn you about opening dubious emails?
+  - The teacher was dubious of Johnny’s homework excuse.
+
+* RESONATE
+
+  =to move a person in an emotional manner=
+
+  - The speaker hopes her inspirational story will resonate with audience members and *spur* them to chase their dreams.
+  - Since the book focuses on Mexico’s independence, it seems to resonate more powerfully with my Mexican students.
+  - The movie about the origin of Hanukkah will resonate strongly with members of the Jewish faith.
+  - Although the writer hoped his books would resonate with all of his fans, he was glad a few people were moved by his efforts.
+
+
+* HYPERBOLE
+
+  =an extravagant exaggeration=
+
+  - During the hurricane, it seemed as though the hyperbole, “raining cats and dogs”, was almost accurate.
+  - The main element of the product’s commercial was a hyperbole describing rapid weight loss.
+  - If the politician uses one more hyperbole in his speech, I will know he is exaggerating about all his claims.
+  - When Henry made a hyperbole on the stand, the judge gave him a warning and reminded him to stick to the facts.
+
+
+* WISTFUL
+
+  =sad and reflective=
+
+  - At the end of the school year, many teenagers are wistful as they contemplate a summer of not seeing their best friends every day.
+  - Even though Jimmy is leaving the company for a better job, he is still wistful about saying goodbye to his coworkers.
+  - When I visit my mother’s grave, I feel wistful.
+  - Listening to the sorrows of the blues music always puts Dean in a wistful mood.
+  - At the end of the dramatic movie, the wistful audience sat in silence as they all pondered the tragedy they had just witnessed.
+
+
+* DEFT
+
+  =skillful and clever=
+
+  - Although I have studied the guitar for over a year, I still do not consider myself to be a deft guitarist so I will not be performing in the annual concert.
+  - The deft carpenter was able to take a few old boards and turn them into a beautiful bookshelf.
+  - Even though I enjoy baking at home, I am not deft enough to be a professional baker.
+  - Because Jake is a deft electrician, it will not take him long to rewire the electrical outlets in the bathroom.
+  - The deft musician was able to play the harmonica and the piano at the same time.
+
+
+* QUIXOTIC
+
+  =unrealistic and impractical=
+
+  - It is quixotic to think you can get away with walking into the prison and breaking out your boyfriend.
+  - Henry knew running for class president was a quixotic idea, but he was not going to let his enemy run unopposed.
+  - The idea of an obese person participating in a triathlon is a quixotic notion.
+  - When the kidnappers received their *ransom* money, they were still stuck in the city because their quixotic getaway plan had failed.
+  - Everyone told Jennifer her dream of being a Hollywood star was quixotic, but she proved them wrong when she became a ten million dollar actress.
+
+
+* PREVARICATE
+
+  =to speak or act in an evasive way=
+
+  - When teenagers talk to their parents about their bad grades, it is not unusual for them to prevaricate.
+  - In hopes of avoiding questions about his recent car accident, the actor tried to prevaricate during his interview.
+  - Even after she had been sworn in for her testimony, the witness continued to prevaricate about her relationship with the defendant.
+  - Because Marie’s first reaction is to prevaricate, I have a hard time believing anything she says.
+  - In most cases, it is easier to tell the truth than to try and prevaricate your way out of a sticky situation.
+
+
+* RECALCITRANT
+
+  =stubborn=
+
+  - Despite being offered treats by his parents, the little boy was still recalcitrant about doing his homework.
+  - Training the recalcitrant puppy was quite a challenge.
+  - Our recalcitrant boss refuses to listen to the union representative’s proposal.
+  - Annette is so recalcitrant that every discussion we have turns into an argument.
+  - Because of its two recalcitrant members, the committee got very little work done.
+
+
+* EXONERATE
+
+  =to prove that someone is not guilty of a crime or responsible for a problem=
+
+  - As your lawyer, I will do everything I can to exonerate your restaurant *of* the food poisoning accusations.
+  - By looking at the surveillance tapes, the store manager was able to exonerate the morning cashier *of* the register theft.
+  - Do you feel the DNA evidence pointing to another suspect is enough to exonerate my brother?
+  - Only by identifying the real cause of the house fire can we exonerate you *from* the arson charge.
+
+
+* HAPHAZARD
+
+  =random, chaotic, incomplete=
+
+  - Steven’s notes were a haphazard jumble of thoughts and I couldn’t make any sense out of them.
+  - Compared to her mother’s organized system, Jen’s approach to housekeeping was haphazard, at best.
+  - While her life had been characterized by a series of haphazard events, Cynthia somehow managed to develop into a very organized, structured businesswoman.
+  - Because of the haphazard mixture of fabric pieces and the way they’re laid out, they call this a crazy quilt.
+  - Her haphazard method of arranging the furniture made the den look cluttered and somewhat disturbing
+
+
+* EXASPERATED
+
+  =very annoyed=
+
+  - Since I am a hard worker, I get exasperated when I am placed on a team with lazy people.
+  - The exasperated bus driver refused to leave the school until all of the students were quiet.
+  - Even though Bill likes his doctor, he becomes exasperated when he has to wait two hours to see him.
+  - The exasperated teacher asked the principal to suspend a difficult student.
+  - Hank gets exasperated when his neighbors play loud music late at night.
+
+
+* EVANESCENT
+
+  =lasting only for a short time=
+
+  - We would have all missed the evanescent moment if not for the photographer’s speed and skill.
+  - Even though April seemed interested in taking piano lessons now, her mother knew her interest was only evanescent and would soon disappear.
+  - Rainbows are evanescent because they do not stay around for long periods of time.
+  - When the temperature rises, the snow becomes evanescent as it turns into water.
+  - The lightning was evanescent and disappeared just as quickly as it appeared.
+  - Unfortunately, the best dreams are always evanescent and end at sunrise.
+  - Your childhood years are evanescent so appreciate each moment before you have to grow up and get a job
+
+
+* GULLIBLE
+
+  =easily fooled or cheated=
+
+  - Unfortunately, the elderly woman was gullible enough to provide the con man with all of her financial information.
+  - When the car salesman told me the price of the car was double its actual value, he obviously assumed I was a gullible idiot.
+  - The stores hope to trick gullible consumers into buying expensive products that are no better in quality than their lower-priced counterparts.
+  - Being in love with Hank has made Janet so gullible that she pays all his bills while he *sits around* =无所事事= all day.
+
+
+* EPICURE
+
+  =a person who takes particular pleasure in fine food and drink=
+
+  - Since Hank is an epicure, he refuses to consume any food that is not prepared by a gourmet chef.
+  - Although I am not a wine epicure, I do enjoy a glass of delicate wine every now and then.
+  - If the main judge likes your food, you can be happy knowing a real epicure has found pleasure in your efforts.
+  - Because Mary considers herself to be an epicure, she will not eat any meal that comes from a fast food restaurant.
+  - The head chef is an epicure who has spent over twenty years perfecting his signature dishes
+
+
+* MILIEU
+
+  =the environment in which one experiences life=
+
+  - As the son of a legendary pianist, Henry grew up in a musical milieu.
+  - Because my father grew up in a military milieu, he knew he wanted to join the armed forces when he graduated from high school.
+  - When Eileen’s millionaire father declared bankruptcy, she and her family were forced into a different social milieu.
+  - Jane’s marriage before sex belief stems from her upbringing in a religious milieu.
+  - The homeless girl surprised everyone when she focused on her education and earned a place in a collegiate milieu.
+
+* CUMBROUS
+
+  =difficult to handle or manage=
+
+  - Since the professor had once taught higher level classes, his students dreaded his cumbrous tests.
+  - Once a few employees quit the company, the workload became cumbrous since replacements were not hired yet.
+  - With blood on his hands, the man found it difficult to choose his words for his cumbrous explanation.
+  - Without practicing, the rookie runner found the marathon to be cumbrous.
+  - The cumbrous methods for learning physics was made apparent to the teacher after the first test.
+
+
+* MEPHITIC
+
+  =bad-smelling; having a foul odor especially of gas or vapor=
+
+  - The car’s mephitic fumes choked up the passengers in a nearby sedan.
+  - Passing by the mephitic industrial hole, the children held their noses to avoid the stench.
+  - Burning trash produced a mephitic odor that was extremely foul.
+  - Because the food wouldn’t digest in his stomach, the man developed mephitic gas that smelled horrible.
+  - The mephitic landscape was a rotting wasteland that smelled like burning flesh.
+
+
+* ALABASTER
+
+  =雪花石膏=
+
+  - Her smooth, white skin resembled alabaster sculptures.
+  - Historians originally thought Michelangelo carved his sculptures from alabaster because of their brilliant white color and smooth texture.
+  - Famous structures like the Egyptian pyramids and the Sphinx are made of a combination of hard, translucent minerals like alabaster.
+  - Tombs of ancient Roman warriors were made from large slabs of alabaster because the soft material was both sturdy and easy to carve.
+  - Archaeologists thought the vase was made of harsh stone but after careful cleaning it was revealed to be the smooth, white of alabaster.
+
+
+* NAMESAKE
+
+  =an individual or thing that is named after another person or thing=
+
+  - Since Frank wanted his son to be his namesake, he gave him his first name.
+  - The college’s new library is the namesake of the billionaire who funded the building’s development.
+  - When the old man learned his grandchild would be his namesake, he was thrilled the child would bear his name.
+  - Lambeau Field is the namesake of Curly Lambeau, the man who founded the football team that calls the venue its home.
+
+* OSTRACIZE
+
+  =to exclude someone=
+
+  - As a teacher, your job is not to ostracize your students but to show them support so they can become contributing members of society.
+  - Sadly, the rich children ostracize the other girl because she comes from a poor family.
+  - Bill knew his community would ostracize him after his release from prison so he moved to another town.
+  - The main purpose of civil rights laws is to deter those who choose to ostracize others because of physical differences.
+  - Unfortunately, teenagers will ostracize their peers and make them feel unwanted for the simplest reasons.
+
+
+* OMNIPOTENT
+
+  =having virtually unlimited power or influence=
+
+
+  - In some cultures, gods are considered to be omnipotent and all-powerful.
+  - My teenager daughter likes to believe she is omnipotent in our household.
+  - Because the dictator was omnipotent, he did whatever he wanted without any negative consequences.
+  - If the superhero can fight off twenty men at one time, then he must be omnipotent.
+  - When I was a small child, I believed my father was omnipotent and capable of doing anything.
+
+
+* INSOLENT
+
+  =rude or impolite=
+
+  - If you were not so insolent to people, you would have a greater number of friends!
+  - Betsy is an insolent girl who acts as though she has no manners at all.
+  - The school bully constantly makes insolent remarks to younger students.
+  - When the insolent young man yelled my name, I ignored him and walked towards my car.
+  - After I responded to the judge in an insolent voice, I was asked to leave the courtroom.
+  - My strict teacher does not tolerate insolent behavior in her classroom.
+
+
+* INCREDULOUS
+
+  =unbelievable; can not accept as true=
+
+  - Because Leslie is such a tiny woman, people find it incredulous she is a police officer.
+  - The lottery winner was incredulous and could not believe his good fortune.
+  - After trying for five years to become pregnant, Janet was incredulous when she finally received the unexpected news from her doctor.
+  - The incredulous man could not believe he survived the car wreck without a single scratch.
+  - When my teenage daughter told me she had used my credit card to purchase a three hundred dollar pair of sneakers, I was incredulous.
