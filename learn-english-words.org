@@ -82,7 +82,7 @@
   =characterized by ready or rapid speech; fluent=
 
   - After my grandfather drinks a few beers, he becomes voluble and will not stop talking.
-  - When I left a message on Jack’s answering machine, I spoke at a voluble pace to beat the twenty-second cutoff.
+  - When I left a message on Jack’s answering machine, I spoke at a voluble pace to beat the twenty-second *cutoff*.
   - In order to break the record for the fastest speaker in the world, you must be capable of talking at an extremely voluble speed.
   - My father cannot understand my mother when she yells at him in a voluble tone.
   - Because of a brain injury that affected Matt’s speech pattern, he is not a voluble speaker.
@@ -97,19 +97,21 @@
 
   - When the most popular girl in school wore her hair differently, a new vogue took place the next day when everyone was wear that same hairstyle.
   - Once the idea of using scarves as decorations took effect, it came into vogue for many teenage girls who care about their appearance.
-  - People began to wear leg warmers over their jeans in the 1980s, but that style went out of vogue in the early 1990s since they were uncomfortable.
+  - People began to wear *leg warmers* over their jeans in the 1980s, but that style went out of vogue in the early 1990s since they were uncomfortable.
   - Painting the front door a bright color has become vogue because many people now want this part of their house to stand out.
   - Many celebrities will don the fashion styles taken from the most recent fashion shows to display the latest vogue in clothing.
 
 * [[https://www.youtube.com/watch?v=ufAFjlo6l_4&index=8&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][UNEQUIVOCAL]]
 
-  #+HTML: <img src="https://i.ytimg.com/vi/ufAFjlo6l_4/sddefault.jpg"/>
+    #+HTML: <img src="https://i.ytimg.com/vi/ufAFjlo6l_4/sddefault.jpg"/>
 
   =unquestionably clear=
 
+  =斩钉截铁=
+
   - Since we raised over a million dollars for our charity, we considered the fundraiser to be an unequivocal success.
   - Without unequivocal evidence, the prosecutor will not be able to prove the defendant’s guilt.
-  - When the singer received an unequivocal dismissal from all three judges, he knew he was not going to be on the reality show.
+  - When the singer received an unequivocal *dismissal* from all three judges, he knew he was not going to be on the reality show.
   - My father’s unequivocal no meant I did not need to ask him again.
   - With the election a few weeks away, the president announced his unequivocal support for all the candidates of his political party.
 
@@ -123,7 +125,7 @@
   - In many fairy tales, knights are valorous warriors who enter into not battle with nothing but bravery and a sharp sword.
   - The valorous soldier ran into battle with his head held high, despite being outnumbered.
   - The valorous knight ran into the dragon’s den to rescue the kidnapped princess.
-  - In a particularly valorous move, a complete stranger dove off of the bridge to rescue the drowning girl.
+  - In a particularly valorous move, a complete stranger *dove off* =纵身跳下= of the bridge to rescue the drowning girl.
 
 * [[https://www.youtube.com/watch?v=TyiUnE3BHw0&index=10&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][VAGARY]]
 
@@ -133,7 +135,7 @@
 
   - When the temperature dropped to freezing conditions on a summer day, it was a vagary of the weather.
   - Hank’s outburst in church was a vagary that simply came out of nowhere.
-  - Because Kim has a bipolar disorder, she is known to display a vagary without any warning.
+  - Because Kim has a *bipolar disorder* =躁狂抑郁性精神病=, she is known to display a vagary without any warning.
   - Today’s stock market vagary cost investors millions of dollars.
   - When the vagary of the earth’s alignment blocks out the sun, a lunar eclipse occurs.
 
@@ -190,9 +192,9 @@
 
   - If the panhandler hadn’t been so impudent, I might have given him a couple of bucks.
   - Even though Mary needed a new vacuum cleaner, the impudent attitude of the sales clerk made her decide to leave the store.
-  - Matt is an impudent scoundrel who doesn’t seem to respect rules or people.
-  - He never admitted that he had eaten the leftover pizza, but I could tell from his impudent smirk that he was the guilty party.
-  - Because the couple in the corner booth had exhibited such impudent behavior, Derek was pleasantly surprised to see that they had left him a $20 tip.
+  - Matt is an impudent *scoundrel* =恶棍= who doesn’t seem to respect rules or people.
+  - He never admitted that he had eaten the leftover pizza, but I could tell from his impudent smirk that he was the *guilty party* =有罪一方=.
+  - Because the couple in the *corner booth* =角落位置= had exhibited such impudent behavior, Derek was pleasantly surprised to see that they had left him a $20 tip.
 
 * [[https://www.youtube.com/watch?v=sUJ6KmaSNG0&index=16&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][BOMBASTIC]]
 
@@ -201,7 +203,7 @@
   =one who is full of himself; a self absorbed person=
 
   - Because he is a bit too bombastic for me, I will not be voting for that politician again!
-  - His bombastic rant made her rethink her decision to go on a date with him.
+  - His bombastic *rant* =大话= made her rethink her decision to go on a date with him.
   - Bombastic by nature, Daryl did not fit in with the quiet chess players.
   - If you want to sell your energy drink, then you must use bombastic claims in your commercials.
   - Henry’s bombastic remarks about terrorism got him kicked off the airplane.
@@ -252,7 +254,7 @@
 
   - When Mary learned her boyfriend was married, her antipathy towards him filled her with rage.
   - Is your antipathy for me so great that you no longer care about my feelings?
-  - The teenagers expressed their antipathy for the school by vandalizing the gym.
+  - The teenagers expressed their antipathy for the school by *vandalizing* the gym.
   - After serving in the war, he developed an antipathy to guns.
   - For the past five years, there has been a great deal of antipathy directed at automobile makers.
 
@@ -324,7 +326,7 @@
   =to occur before something else=
 
   - As a Christian, Adam likes to see a marriage announcement precede the birth of a child.
-  - Sometimes a tingling sensation in the arm will precede a heart attack.
+  - Sometimes a *tingling sensation* =发麻= in the arm will precede a heart attack.
   - I will gladly make the introduction that will precede our company president’s speech.
   - Congestion and fatigue are two symptoms that often precede a cold.
   - During the wedding ceremony, the bridesmaids will precede the bride down the aisle.
@@ -385,9 +387,9 @@
   =an organized uprising against an authoritative body=
 
   - After an insurrection removed the brutal royal family from power, a democratic government led the country.
-  - During the insurrection, several convicts held a prison doctor hostage.
+  - During the insurrection, several convicts *held a prison doctor hostage*.
   - By way of an insurrection, the lower class overthrew the selfish aristocrats during the French Revolution.
-  - If the insurrection against the tyrant fails, many innocent people will continue to be killed on a daily basis.
+  - If the insurrection against the tyrant fails, many innocent people will continue to be killed *on a daily basis* =每天=.
   - Fortunately a government agency discovered the group’s plan for insurrection before the highest politicians in the nation were murdered.
 
 * [[https://www.youtube.com/watch?v=1YNPD2vs1SQ&index=32&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PIPE DREAM]]
@@ -407,7 +409,7 @@
 
   =well-known for having a negative reputation=
 
-  - Because the back roads are infamous for ice patches in the winter, I suggest you stick to the highways on your trip.
+  - Because the *back roads* =偏僻公路= are infamous for ice patches in the winter, I suggest you stick to the highways on your trip.
   - The murder tour will take you to the sites of several infamous celebrity killings.
   - After eluding arrest for sixteen years, the infamous mobster was finally caught by police.
   - The intern was known for her infamous affair with the president.
@@ -442,7 +444,7 @@
   #+HTML: <img src="https://i.ytimg.com/vi/LX9bWYVXzG0/sddefault.jpg"/>
 
   - Using a powerful electromagnet, the *wrecking yard* worker moved *scrap metal* from one side of the *lot* to the orhter.
-  - When someone rings your doorbell, a tiny electromagnet uses electricy to pull a metal *clapper* against a bell.
+  - When someone rings your doorbell, a tiny electromagnet uses electricy to pull a metal *clapper* =铃舌，响板= against a bell.
 
 
 * [[https://www.youtube.com/watch?v=YVRCfT-_958&index=37&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][AGRARIAN]]
@@ -469,6 +471,7 @@
   #+HTML: <img src="https://i.ytimg.com/vi/YYFROs2MBVs/sddefault.jpg"/>
 
   - Often, I find myself *contemptuous of* those who pretend they cannot see the homeless problem.
+  - After announcing the life sentence, the judge *called* =传唤= the guilty man contemptuous.
 
 * [[https://www.youtube.com/watch?v=8JkCW2BN154&index=40&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][DIMINUTION]]
 
@@ -489,7 +492,13 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/o23qo9BgkB4/sddefault.jpg"/>
 
+  =prejudiced in favor of a particulr cause=
+
+  - Because of your partisan views, you are unwilling to look at other options.
   - The partisan press members *made a point of* =提出观点= criticizing every mode the president made.
+  - Since the judge entered his fan vote before all the contestants had performed, everyone knew his partisan vote was for the competitor from his home state.
+  - If you continue to follow your partisan plan and ignore other options, you are going to lose a lot of friends.
+  - Please listen to the entire suggestion before you decide to make a partisan issue out of one part of the proposal!
 
 
 * [[https://www.youtube.com/watch?v=EvccZPTfFh8&index=42&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CAUSALITY]]
@@ -498,20 +507,34 @@
 
   - When the mayor noticed the *spike* in crime in the city, research showed the causality was due to his *lenient prison sentences* and large gang population.
   - People's long frindships can be the causality for these *platonic relationships* to turn into life-long marriages.
+  - If a member of the family begins to steal money, a causality of this unusual behavior could be *substance addiction* =药物成瘾= since most drug addicts will take money from anyone.
 
 
 * [[https://www.youtube.com/watch?v=F3NhgMVNJVs&index=43&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][HAUTEUR]]
 
   #+HTML: <img src="https://i.ytimg.com/vi/F3NhgMVNJVs/sddefault.jpg"/>
 
+  =conceit; arrogance=
+
+  - Jim’s hauteur has led him to believe he is better than everyone else.
   - Since April won the *beauty pageant*, she has *pranced* around the school with such hauteur that everyone has started to hate her.
+  - Kate’s hauteur prevented her from seeing the homeless woman as an equal.
+  - When I approached Heather about her hauteur, she refused to acknowledge her own arrogance.
+  - The famous actor is filled with hauteur and refuses to work for anything less than ten million dollars.
+
 
 
 * [[https://www.youtube.com/watch?v=CfZ_THfxd9w&index=44&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][LIVID]]
 
   #+HTML: <img src="https://i.ytimg.com/vi/CfZ_THfxd9w/sddefault.jpg"/>
 
+  =furious=
+
   - The taxpayers are livid about the proposed *tax hike*.
+  - Boris was livid with fury when he learned his wife’s killer was being released from prison.
+  - After sitting in the airport for nine hours, I was livid when I learned my flight would be delayed another six hours.
+  - Livid with rage, Amy threw the iron pipe into the television set.
+  - When Sarah caught her husband in bed with another woman, she was livid and burned all of his clothing.
 
 * [[https://www.youtube.com/watch?v=ae5j186dvgY&index=45&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SUPERSEDE]]
 
@@ -537,14 +560,25 @@
 
   #+HTML: <img src="https://i.ytimg.com/vi/4VU9IUCsDeo/sddefault.jpg"/>
 
-  - Rice is a mainstay for most Asian families as most meals include at least one *helping* =进餐时的一份食物=.
+  =a thing that something or someone depends on=
 
+  - Coupons are a mainstay for the couple since they depend on them to reduce their grocery bill every week.
+  - The downtown theater was a mainstay for the community, providing entertainment for many generations over the years.
+  - Calvin plays many instruments, but the keyboard is his mainstay for most performances.
+  - Rice is a mainstay for most Asian families as most meals include at least one *helping* =进餐时的一份食物=.
+  - Radiation is a mainstay of cancer treatment, but there are also other options.
 
 * [[https://www.youtube.com/watch?v=u6lTBJi4H8o&index=48&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][BELLIGERENT]]
 
   #+HTML: <img src="https://i.ytimg.com/vi/u6lTBJi4H8o/sddefault.jpg"/>
 
+  =hostile; ready to fight=
+
+  - If you want to see a belligerent dog, you should attempt to take his food while he is eating it.
+  - While many professional wrestlers may appear belligerent, in reality, most of them are really nice.
+  - Because the pharmacy is closed, Jack is unable to get his pain medicine and is becoming increasingly belligerent.
   - Since my sister is a belligerent driver who *honks her horn* constantly, I try to avoid riding anywhere with her.
+  - After Janice had to wait two hours to see her doctor, she became belligerent with the office staff.
 
 
 * [[https://www.youtube.com/watch?v=ta_JvCMvv68&index=49&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][GREGARIOUS]]
@@ -680,14 +714,16 @@
   - Gardeners add compost to the soil in order to fertilize it before planting the flowers in the ground.
 
 * [[https://www.youtube.com/watch?v=s2eD8GeUkjE&index=64&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PYRE]]
-#+HTML: <img src="https://i.ytimg.com/vi/s2eD8GeUkjE/sddefault.jpg"/>
+
+  #+HTML: <img src="https://i.ytimg.com/vi/s2eD8GeUkjE/sddefault.jpg"/>
 
   - During the search of the pyre in the killer’s yard, the police found scorched human bones.
   - Over the pyre of wood in the backyard, we roasted marshmallows and hot dogs.
   - Dead Vikings were sometimes cremated on a funeral pyre in a boat.
 
 * [[https://www.youtube.com/watch?v=lmEgm9IyPFw&index=65&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][RECURSIVE]]
-#+HTML: <img src="https://i.ytimg.com/vi/lmEgm9IyPFw/sddefault.jpg"/>
+
+  #+HTML: <img src="https://i.ytimg.com/vi/lmEgm9IyPFw/sddefault.jpg"/>
 
 * [[https://www.youtube.com/watch?v=qPtCMfaPjVg&index=66&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SURMISE]]
 #+HTML: <img src="https://i.ytimg.com/vi/qPtCMfaPjVg/sddefault.jpg"/>
