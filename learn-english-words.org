@@ -3934,15 +3934,24 @@ xs
 
   #+HTML: <img src="https://i.ytimg.com/vi/pYhsq9FxF3k/sddefault.jpg"/>
 
+
 * [[https://www.youtube.com/watch?v=JgVALafkmNw&index=352&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CONCERTED]]
-#+HTML: <img src="https://i.ytimg.com/vi/JgVALafkmNw/sddefault.jpg"/>
 
-=齐心协力的=
+  #+HTML: <img src="https://i.ytimg.com/vi/JgVALafkmNw/sddefault.jpg"/>
 
+  =in group agreement; working as a team=
+
+  =齐心协力的=
+
+  - A concerted effort from community residents led to the formation of an effective *neighborhood watch* =邻里守望=.
+  - Without concerted determination from lawmakers, the bill will never become a law.
+  - The political candidate claimed the media was making a concerted attempt to ruin his reputation.
   - Because of the concerted effort of the allied forces, the war quickly came to an end.
+  - When workers came together for a concerted protest, employers had no choice but to increase the minimum wage.
 
 
 * [[https://www.youtube.com/watch?v=4QjdpMfI96I&index=353&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][INDOMITABLE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/4QjdpMfI96I/sddefault.jpg"/>
 
   =not capable of being defeated=
@@ -3952,7 +3961,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=m9rIzXRaej4&index=354&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MACHIAVELLIAN]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/m9rIzXRaej4/sddefault.jpg"/>
+
+  =noted by devious behavior, especially when benefiting one’s career or business goals=
 
   =马基雅维里式的政治人物，不择手段的=
 
@@ -3961,28 +3973,41 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=cq86QwAViZg&index=355&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MACHISMO]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/cq86QwAViZg/sddefault.jpg"/>
+
+  =exaggerated masculine pride=
 
   =男子气概=
 
+  - A machismo makeover was just what the man needed to increase his masculinity.
+  - His machismo made him a strong and bold street fighter.
   - Machismo kept all of the women interested in the manly doctor.
+  - The wrestler’s machismo earned him the reputation of “macho man”.
 
 
 * [[https://www.youtube.com/watch?v=4b8kyQaae8M&index=356&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][EXQUISITE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/4b8kyQaae8M/sddefault.jpg"/>
+
+  =especially fine or pleasing; exceptional=
 
   - With the sun shining down and a cool breeze in the air, there was no more exquisite weather they could have hoped for.
   - He believed that this exquisite necklace would help him wow his girlfriend.
 
 
 * [[https://www.youtube.com/watch?v=0y5guW3suMA&index=357&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OBTUSE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/0y5guW3suMA/sddefault.jpg"/>
+
+  =not able to think clearly or to understand what is obvious or simple=
 
   - Are you so obtuse that you will give away all your money to a fake charity?
   - Because the man was obtuse after a night of partying, he was unable to pass his driver’s test.
 
 
 * [[https://www.youtube.com/watch?v=Gv77xcMwdTo&index=358&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MISCONSTRUED]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Gv77xcMwdTo/sddefault.jpg"/>
 
   =to interpret something the wrong way=
@@ -3992,6 +4017,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=rtzEtlWf99Q&index=359&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OBSOLETE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/rtzEtlWf99Q/sddefault.jpg"/>
 
   =no longer useful=
@@ -4002,6 +4028,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=LBv_b_gS-XQ&index=360&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][IMPLACABLE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/LBv_b_gS-XQ/sddefault.jpg"/>
 
   =not capable of being appeased, 坚决的=
@@ -4014,7 +4041,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=XznGbgQOSUU&index=361&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CONTINGENT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/XznGbgQOSUU/sddefault.jpg"/>
+
+  =depending on whether or not something else occurs=
 
   =依情况而定=
 
@@ -4026,6 +4056,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=3SBQ4u9sxIk&index=362&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][DILATORY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/3SBQ4u9sxIk/sddefault.jpg"/>
 
   =intended to cause delay=
@@ -4035,6 +4066,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=vexteftm_l4&index=363&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ACRID]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/vexteftm_l4/sddefault.jpg"/>
 
   =bitter and unpleasant in taste or smell=
@@ -4044,6 +4076,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=Kyu1U884vcI&index=364&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][INDOLENT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Kyu1U884vcI/sddefault.jpg"/>
 
   =lazy=
@@ -4054,21 +4087,29 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=eHOfhz9PZW8&index=365&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OBSTINATE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/eHOfhz9PZW8/sddefault.jpg"/>
 
+  =stubbornly refusing to change one's opinion or action; very difficult to change or persuade=
+
   - Although the little boy knew he was wrong, he was too obstinate to apologize to his parents.
+  - Even though Henry’s friends wanted him to join them at the *arcade* =街机=, he remained obstinate and went to the library to study.
   - The salesman was obstinate about the car’s price.
   - Obstinate and unyielding, the judge refused to *give* the defendant *credit* for time served.
 
 
 * [[https://www.youtube.com/watch?v=B1jFuszHSDg&index=366&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ANOMALY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/B1jFuszHSDg/sddefault.jpg"/>
+
+  =something unusual or unexpected=
 
   - Since my son has a history of failing classes, his good grades are a welcome anomaly.
   - It was quite an anomaly when the temperature reached 101 degrees in December in Michigan.
 
 
 * [[https://www.youtube.com/watch?v=27vc3vwykuI&index=367&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ICONOCLAST]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/27vc3vwykuI/sddefault.jpg"/>
 
   =someone who attacks the beliefs, customs, and opinions that most people in a society accept=
@@ -4078,6 +4119,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=pUGPveS0-Fc&index=368&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CAMARADERIE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/pUGPveS0-Fc/sddefault.jpg"/>
 
   =good friendship and trust among members of a group=
@@ -4099,7 +4141,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=y_IPdQxcesk&index=370&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ONEROUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/y_IPdQxcesk/sddefault.jpg"/>
+
+  =involving great effort and difficulty=
 
   - When Jack agreed to help his father cut the grass, he did not realize the chore would be so onerous.
   - Despite his rigid training, the athlete was unprepared to handle the onerous terrain.
@@ -4113,21 +4158,25 @@ xs
   - After I was given the sedative, I was in complete oblivion and unaware of my surroundings.
   - The novel put me in such a state of oblivion I forgot to prepare dinner for my family.
 
+
 * [[https://www.youtube.com/watch?v=Q6n5iRUC5Ao&index=372&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ASYNCHRONOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Q6n5iRUC5Ao/sddefault.jpg"/>
 
 
 * [[https://www.youtube.com/watch?v=fSLvCzz7liU&index=373&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][BRAVADO]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/fSLvCzz7liU/sddefault.jpg"/>
 
   =a show of defiance or courage, 故作勇敢, 虚张声势=
 
   - Compared to the other contestants on the reality show, Monica wasn’t able to adopt a show of bravado and eat the bowl of squirming insects.
-  - While Tom knew he must be holding the *worst hand* at the table, he decided to bluff and hoped that the other players would not see through his false bravado.
+  - While Tom knew he must be holding the *worst hand* =坏牌= at the table, he decided to bluff and hoped that the other players would not see through his false bravado.
   - Although Marina suspected they were lost, she displayed a false bravado so that the hikers would assume they were on the right path.
 
 
 * [[https://www.youtube.com/watch?v=ZaX6IiTjpeo&index=374&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][DEPRECATORY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/ZaX6IiTjpeo/sddefault.jpg"/>
 
   =belittling, critical=
@@ -4138,30 +4187,49 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=qwkWVHuUwy8&index=375&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][DE FACTO]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/qwkWVHuUwy8/sddefault.jpg"/>
 
   =in use regardless of actual status, 实际上存在的（不一定合法）=
 
+
+  - When the dictator was removed from power, a de facto government immediately fell into place.
+  - Some celebrities appear to live by a set of de facto laws that give them privileges common people do not have.
+  - Since my sister abandoned her children, I am now the kids’ de facto guardian.
   - Although Jim and Sarah have never married, they consider their thirty-year relationship to be a de facto marriage.
   - To many, it seems as though school tests are a de facto method of *segregating* =区别对待= the students.
 
 
 * [[https://www.youtube.com/watch?v=LYBz4BdRvT4&index=376&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CUMBERSOME]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/LYBz4BdRvT4/sddefault.jpg"/>
+
+  =difficult to manage=
 
   - As soon as Pam got the new couch home, she realized it was so cumbersome it took up most of the den.
 
 
 * [[https://www.youtube.com/watch?v=aFbetoAVfYc&index=377&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][COTERMINOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/aFbetoAVfYc/sddefault.jpg"/>
 
   =having the same border or covering the same area as something else=
 
+  - The little town of Richland is coterminous with the parish of Richland as they share the same border.
+  - Some places have political and physical lines and although sometimes the same, the two are not always conterminous.
+  - Tipton county only includes one town, so it would make sense that the coterminous areas share the same name.
+  - In this case, the small village is conterminous with the town of Daniel since they have the same northern border.
+  - There are two counties with the name of lake, but they are not coterminous since they are in different states.
+
+
 * [[https://www.youtube.com/watch?v=coKDCKSdoaM&index=378&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CONCATENATION]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/coKDCKSdoaM/sddefault.jpg"/>
 
 
+
 * [[https://www.youtube.com/watch?v=hF_e81NaIgw&index=379&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][COGNIZANT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/hF_e81NaIgw/sddefault.jpg"/>
 
   =knowledgeable of something, especially through personal experience=
@@ -4173,6 +4241,7 @@ xs
   - My teenage daughter will not become cognizant of the dangers of driving until she gets her license.
 
 * [[https://www.youtube.com/watch?v=2tzP06PNsQs&index=380&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][AURA]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/2tzP06PNsQs/sddefault.jpg"/>
 
   =a unique sensation or feeling that stems from an object, person, or place=
@@ -4186,12 +4255,14 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=9z5q4qsVQ7g&index=381&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][AMATEUR]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/9z5q4qsVQ7g/sddefault.jpg"/>
 
   - I attend many *amateur nights* at comedy clubs, hoping to make my big break.
 
 
 * [[https://www.youtube.com/watch?v=MeOTnW3Scig&index=382&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PENSIVE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/MeOTnW3Scig/sddefault.jpg"/>
 
   =expressing or revealing sad thoughtfulness=
@@ -4204,18 +4275,20 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=z9-1dK7yxCM&index=383&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ORTHODOX]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/z9-1dK7yxCM/sddefault.jpg"/>
 
   =common, familiar=
 
   - The minister called me an *upstart* =狂妄自大的新手= when I dared to question his orthodox views.
   - During the orthodox sex education class, the teacher repeated the same lecture she had been repeating for ten years.
-  - The tenured economic professors who had taught their orthodox ideas for years did not appreciate questions from the newly hired professor.
+  - The *tenured* =终身的= economic professors who had taught their orthodox ideas for years did not appreciate questions from the newly hired professor.
   - While my brother is quite adventurous and likes to try new things, I hate change and prefer to maintain an orthodox lifestyle.
   - Unfortunately, the new bacterium is resistant to the usual *roster* =花名册= of orthodox antibiotics.
 
 
 * [[https://www.youtube.com/watch?v=yPbFi-JwzY4&index=384&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MONOCLE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/yPbFi-JwzY4/sddefault.jpg"/>
 
   - The cartoon character wears a monocle on a *cord* around his neck so he can easily increase the vision in his nearsighted eye.
@@ -4226,17 +4299,19 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=Ngc91V2p0vI&index=385&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][DIGRESS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Ngc91V2p0vI/sddefault.jpg"/>
 
   =not staying on topic; to go off on a tangent=
 
   - Jerry would digress every time his parents asked for his report card.
-  - During our debate on religion, Tim would often digress onto a separate *rant* on oil consumption.
+  - During our debate on religion, Tim would often digress onto a separate *rant* =激辩= on oil consumption.
   - As your new class president, I will end homework, lower student crime, and mandate hours of recess, but I digress.
   - Every time we asked about Jane's father, she would give me a bogus answer and digress onto something else.
 
 
 * [[https://www.youtube.com/watch?v=ndgfrBROXO0&index=386&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][EPONYMOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/ndgfrBROXO0/sddefault.jpg"/>
 
   =a title or name that is derived from another name, 齐名, 同名=
@@ -4249,12 +4324,18 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=NRtqRDI3Pik&index=387&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][LOBBYIST]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/NRtqRDI3Pik/sddefault.jpg"/>
+
+  =an individual hired to convince a legislator to act in a specific manner=
 
   - As a lobbyist for a gun manufacturer, Harry tries to persuade legislators to vote against strict gun control bills.
   - The lobbyist took the senator’s secretary out to lunch to see if he could learn more about the legislator’s position on the issue.
+  - At the *luncheon* =午宴=, the chairman of the committee asked security to remove a lobbyist who kept bothering her throughout her meal.
+
 
 * [[https://www.youtube.com/watch?v=6us2w2sfXyc&index=388&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][NOMADIC]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/6us2w2sfXyc/sddefault.jpg"/>
 
   =having a life of drifter=
@@ -4264,13 +4345,17 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=7MO36CRY_ek&index=389&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PULLEY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/7MO36CRY_ek/sddefault.jpg"/>
+
+  =a simple machine designed to lift something very heavy=
 
   - To raise a flag on a pole, the use of a pulley is mandatory in order to move the flag up and down.
   - As the temperature rose, many townspeople began to use the pulley to bring water up from the well.
 
 
 * [[https://www.youtube.com/watch?v=WWlmIKWUX1Q&index=390&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CONNIVE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/WWlmIKWUX1Q/sddefault.jpg"/>
 
   =to conspire or plan=
@@ -4283,6 +4368,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=GguynGoSabQ&index=391&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][FLORID]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/GguynGoSabQ/sddefault.jpg"/>
 
   =to have a red or rosy complextion=
@@ -4306,6 +4392,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=o4slgiIcieE&index=393&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][RELAPSE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/o4slgiIcieE/sddefault.jpg"/>
 
   =to fall backwards, usually in relation to a person’s health=
@@ -4316,8 +4403,12 @@ xs
   - You should stay away from drug users if you don’t want to relapse into addiction.
   - Kelly could relapse into depression if she doesn’t see her therapist regularly.
 
+
 * [[https://www.youtube.com/watch?v=w5QhCBwDYys&index=394&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SISYPHEAN]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/w5QhCBwDYys/sddefault.jpg"/>
+
+  =describing something that appears or actually is endless=
 
   =西西弗斯式的，不可能完成的=
 
@@ -4327,6 +4418,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=OkJOni1U_Ds&index=395&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][RECRUDESCENCE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/OkJOni1U_Ds/sddefault.jpg"/>
 
   =a return of something after a period of inactivity or abatement=
@@ -4339,6 +4431,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=aGgiN1ZhYrs&index=396&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][POMPOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/aGgiN1ZhYrs/sddefault.jpg"/>
 
   =having or exhibiting self-importance=
@@ -4350,6 +4443,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=AHuWxo5fa6w&index=397&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SEAMLESS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/AHuWxo5fa6w/sddefault.jpg"/>
 
   =smooth and without interruption；成功的=
@@ -4362,6 +4456,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=l2OXu6xyPyM&index=398&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][TELEPATHY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/l2OXu6xyPyM/sddefault.jpg"/>
 
   - Many people believe twins have telepathy and can talk to each other without speaking.
@@ -4372,6 +4467,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=qUuVB-EZBDM&index=399&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SUPPLIANT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/qUuVB-EZBDM/sddefault.jpg"/>
 
   =pleading, begging=
@@ -4383,7 +4479,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=NeB18LMrulA&index=400&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SALACIOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/NeB18LMrulA/sddefault.jpg"/>
+
+  =promoting sexual desire or lust=
 
   - Brad had never really thought of his office flirting as salacious behavior, so he was stunned when several women brought charges of sexual harassment against him. (use harvey winestein photo)
   - The salacious content of some popular novels has led parents to demand that they be removed from school libraries.
@@ -8308,7 +8407,8 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=TPcEQVln4HU&index=750&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OBSEQUIOUS]]
-#+HTML: <img src="https://i.ytimg.com/vi/TPcEQVln4HU/sddefault.jpg"/>
+
+  #+HTML: <img src="https://i.ytimg.com/vi/TPcEQVln4HU/sddefault.jpg"/>
 
   =excessively submissive; overly obedient=
 
