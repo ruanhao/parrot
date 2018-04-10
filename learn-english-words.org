@@ -904,9 +904,9 @@
 
 * [[https://www.youtube.com/watch?v=M0MXTJE2H78&index=83&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][GENUINE]]
 
-#+HTML: <img src="https://i.ytimg.com/vi/M0MXTJE2H78/sddefault.jpg"/>
+  #+HTML: <img src="https://i.ytimg.com/vi/M0MXTJE2H78/sddefault.jpg"/>
 
-=Real, authentic, and exactly as it appears.=
+  =Real, authentic, and exactly as it appears.=
 
   - When the bride took her engagement ring to be reset she was shocked to discover that her diamond was not genuine but cubic zirconia.
   - Despite the tag claiming the purse was genuine leather, when Lydia *sniffed* =嗅= the smooth fabric she knew it was fake.
@@ -916,9 +916,9 @@
 
 * [[https://www.youtube.com/watch?v=2h-RghadpwQ&index=84&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PERSPICACIOUS]]
 
-#+HTML: <img src="https://i.ytimg.com/vi/2h-RghadpwQ/sddefault.jpg"/>
+  #+HTML: <img src="https://i.ytimg.com/vi/2h-RghadpwQ/sddefault.jpg"/>
 
-=Able to judge quickly and correctly what people and situations are really like.=
+  =Able to judge quickly and correctly what people and situations are really like.=
 
   - Even though the judge was normally a perspicacious woman, she found it hard to not be affected by the guilty man’s plea.
   - Many perspicacious investors sold their tech stocks long before the market crashed.
@@ -4491,7 +4491,15 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=cIgkAIJZvS4&index=401&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][RATIFY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/cIgkAIJZvS4/sddefault.jpg"/>
+
+  =to officially go on the record as approving something=
+
+  #+BEGIN_EXAMPLE
+    If you go on record or if you are on record as saying something,
+    you say it publicly and officially and it is *written down*.
+  #+END_EXAMPLE
 
   - Unfortunately, half of the legislators refuse to ratify a bill that would increase funding for public schools.
   - If the president chooses to ratify the budget proposal, the new budget will go into effect in January.
@@ -4500,14 +4508,20 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=VbGIAFoyXwA&index=402&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][QUADRANT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/VbGIAFoyXwA/sddefault.jpg"/>
 
+  =one section of something that is devided into four parts=
+
+  - During the hurricane, the *low-lying* =低洼的= fourth quadrant of the city was hit much harder than the other three areas.
   - One quadrant of the classroom was set up with a computer lab while the other areas were filled with desks, a reading center, and the teacher’s personal space.
   - An injury to the right-front quadrant of his head caused migraines that affected the other three parts as well.
   - Dividing the cabin into four parts, the camp leader assigned a specific quadrant to each scout.
   - The fourth and final quadrant of the famer’s field was dedicated to the growing of wheat.
 
+
 * [[https://www.youtube.com/watch?v=rCmVb0JCX3g&index=403&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PICTURESQUE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/rCmVb0JCX3g/sddefault.jpg"/>
 
   =having the attributes of a painting or picture=
@@ -4520,11 +4534,12 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=NHouW8u1O_E&index=404&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PERIPATETIC]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/NHouW8u1O_E/sddefault.jpg"/>
 
   =travelling from place to place=
 
-  - Toddlers are a very peripatetic bunch, and I have yet to see a 2 year-old who will sit still unless he’s asleep.
+  - Toddlers are a very peripatetic *bunch* =群=, and I have yet to see a 2 year-old who will sit still unless he’s asleep.
   - Rather than limit myself to one destination, I like to take a more peripatetic vacation where I move around from place to place.
   - Even though Ernest is forced to remain in his cell, his peripatetic imagination takes him to places far away from his limited world.
   - I haven’t been able to train my dog to stop his peripatetic behavior of running away in search of adventure.
@@ -4532,7 +4547,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=31f78egHWfg&index=405&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PERSPICACITY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/31f78egHWfg/sddefault.jpg"/>
+
+  =the ability to notice and understand things that are not obvious=
 
   - The cat’s perspicacity allowed it to notice even the slightest movement in the grass.
   - Students rarely act up in Mrs. Henderson’s class because of her strong perspicacity to recognize the guilty party.
@@ -4650,7 +4668,7 @@ xs
 
   #+HTML: <img src="https://i.ytimg.com/vi/_HY-R_xZ5pk/sddefault.jpg"/>
 
-=a situation in which a lot of people leave a place or activity at the same time=
+  =a situation in which a lot of people leave a place or activity at the same time=
 
   - One would think that the repeated occurrence of tornadoes in an area would prompt an exodus of the residents to a location with a more stable climate.
   - Seconds after Bobby positioned the magnifying glass between the sun and the ant hill, thousands of frantic ants began a hurried exodus in search of safer ground.
@@ -4908,7 +4926,7 @@ xs
 
   #+HTML: <img src="https://i.ytimg.com/vi/2LzxnyIH0UQ/sddefault.jpg"/>
 
-=concerned with only what is on the surface=
+  =concerned with only what is on the surface=
 
   - Since John chooses his dates solely on their superficial qualities, he could care less about their personalities and goals.
   - Mark only has a superficial knowledge of American history so he is not a good choice to help you with your college research paper.
@@ -5077,6 +5095,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=pl4hM79p9xs&index=451&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][EXASPERATED]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/pl4hM79p9xs/sddefault.jpg"/>
 
   =very annoyed=
@@ -5103,6 +5122,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=FoE8ZRsJTOs&index=453&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][GULLIBLE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/FoE8ZRsJTOs/sddefault.jpg"/>
 
   =easily fooled or cheated=
@@ -5114,6 +5134,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=xm3WrFgeE1I&index=454&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][EPICURE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/xm3WrFgeE1I/sddefault.jpg"/>
 
   =a person who takes particular pleasure in fine food and drink=
@@ -5122,10 +5143,11 @@ xs
   - Although I am not a wine epicure, I do enjoy a glass of delicate wine every now and then.
   - If the main judge likes your food, you can be happy knowing a real epicure has found pleasure in your efforts.
   - Because Mary considers herself to be an epicure, she will not eat any meal that comes from a fast food restaurant.
-  - The head chef is an epicure who has spent over twenty years perfecting his signature dishes
+  - The head chef is an epicure who has spent over twenty years perfecting his *signature dishes*.
 
 
 * [[https://www.youtube.com/watch?v=UCgUT9-TkNU&index=455&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MILIEU]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/UCgUT9-TkNU/sddefault.jpg"/>
 
   =the environment in which one experiences life=
@@ -5136,7 +5158,9 @@ xs
   - Jane’s marriage before sex belief stems from her upbringing in a religious milieu.
   - The homeless girl surprised everyone when she focused on her education and earned a place in a collegiate milieu.
 
+
 * [[https://www.youtube.com/watch?v=Z7I8c7yqiQM&index=456&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CUMBROUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Z7I8c7yqiQM/sddefault.jpg"/>
 
   =difficult to handle or manage=
@@ -5149,18 +5173,20 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=hRaFQDQ76xc&index=457&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MEPHITIC]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/hRaFQDQ76xc/sddefault.jpg"/>
 
   =bad-smelling; having a foul odor especially of gas or vapor=
 
   - The car’s mephitic fumes choked up the passengers in a nearby sedan.
-  - Passing by the mephitic industrial hole, the children held their noses to avoid the stench.
+  - Passing by the mephitic industrial hole, the children held their noses to avoid the *stench*.
   - Burning trash produced a mephitic odor that was extremely foul.
   - Because the food wouldn’t digest in his stomach, the man developed mephitic gas that smelled horrible.
   - The mephitic landscape was a rotting wasteland that smelled like burning flesh.
 
 
 * [[https://www.youtube.com/watch?v=n9FIdHIIWwU&index=458&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ALABASTER]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/n9FIdHIIWwU/sddefault.jpg"/>
 
   =雪花石膏=
@@ -5173,6 +5199,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=63-K2MiAwgI&index=459&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][NAMESAKE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/63-K2MiAwgI/sddefault.jpg"/>
 
   =an individual or thing that is named after another person or thing=
@@ -5182,7 +5209,9 @@ xs
   - When the old man learned his grandchild would be his namesake, he was thrilled the child would bear his name.
   - Lambeau Field is the namesake of Curly Lambeau, the man who founded the football team that calls the venue its home.
 
+
 * [[https://www.youtube.com/watch?v=rjxUJVQ4XZA&index=460&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OSTRACIZE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/rjxUJVQ4XZA/sddefault.jpg"/>
 
   =to exclude someone=
@@ -5195,10 +5224,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=kPHTSnk6qxQ&index=461&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OMNIPOTENT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/kPHTSnk6qxQ/sddefault.jpg"/>
 
   =having virtually unlimited power or influence=
-
 
   - In some cultures, gods are considered to be omnipotent and all-powerful.
   - My teenager daughter likes to believe she is omnipotent in our household.
@@ -5208,6 +5237,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=2vYwZAT6Tb8&index=462&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][INSOLENT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/2vYwZAT6Tb8/sddefault.jpg"/>
 
   =rude or impolite=
@@ -5221,6 +5251,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=l7hXSpaT0qw&index=463&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][INCREDULOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/l7hXSpaT0qw/sddefault.jpg"/>
 
   =unbelievable; can not accept as true=
@@ -5233,6 +5264,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=qAQlVXk5xjw&index=464&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ACTUATE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/qAQlVXk5xjw/sddefault.jpg"/>
 
   =to trigger a movement or action=
@@ -5243,7 +5275,9 @@ xs
   - In case of an emergency, the pilot will actuate the *floor lighting* on the plane.
   - An increase in fuel prices will actuate a decrease in gas purchases.
 
+
 * [[https://www.youtube.com/watch?v=z8xYzER_vAg&index=465&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SATCHEL]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/z8xYzER_vAg/sddefault.jpg"/>
 
   =a bag, often with a strap=
@@ -5255,9 +5289,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=_lTsYfYz8ok&index=466&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][TIRADE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/_lTsYfYz8ok/sddefault.jpg"/>
 
-  =a long and angry speech=
+  =a long and angry speech= 😤
 
   - Because Carrie is normally a *laidback* person, she shocked everyone with her tirade.
   - When the airline representative told me my luggage was lost, I responded to the announcement with a tirade.
@@ -5267,9 +5302,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=ju8274NGeXE&index=467&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CAGEY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/ju8274NGeXE/sddefault.jpg"/>
 
-  =uncommunicative; unwilling or hesitant to give information; 守口如瓶=
+  =uncommunicative; unwilling or hesitant to give information; 守口如瓶= 🤐
 
   - Coca Cola acted in a very cagey fashion when I attempted to find out the ingredients of their soft drinks.
   - The *tight lipped* and cagey White House spokesmen knew that if he let one wrong word slip, a catastrophe could result.
@@ -5279,9 +5315,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=LrZG_HEgBKk&index=468&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][TOMFOOLERY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/LrZG_HEgBKk/sddefault.jpg"/>
 
-  =foolish or overly silly behavior or actions=
+  =foolish or overly silly behavior or actions= 😜
 
   - My sister is far too serious to play pranks on any of our neighbors, so I had to engage in that tomfoolery by myself.
   - My mother frowns on all types of tomfoolery, from the making of funny faces to the calling of silly names.
@@ -5291,6 +5328,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=SzCjyZmR3Us&index=469&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ZILCH]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/SzCjyZmR3Us/sddefault.jpg"/>
 
   =zero or nothing=
@@ -5303,18 +5341,20 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=sQ7tgypAGCc&index=470&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][NESCIENCE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/sQ7tgypAGCc/sddefault.jpg"/>
 
-  =unawareness or ignorance; 不可知=
+  =unawareness or ignorance; 不可知= 😕 ❓
 
   - Because of a nescience of allergic reactions, many people with allergies don’t carry the proper emergency medicines.
   - Peter’s nescience of current events causes him to speak unwisely about trending topics.
-  - In court the judge explained nescience of the laws was not an acceptable defense for criminal behavior.
+  - In court the judge explained *nescience of the laws* was not an acceptable defense for criminal behavior.
   - The suspect claimed nescience when questioned about the robbery.
   - Since Amy knew about her surprise party, she assumed nescience when she entered the room.
 
 
 * [[https://www.youtube.com/watch?v=oJG3NGLBaAA&index=471&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][QUELL]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/oJG3NGLBaAA/sddefault.jpg"/>
 
   =to calm or reduce=
@@ -5327,16 +5367,19 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=EH_PW47U5SQ&index=472&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][FURTHERMORE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/EH_PW47U5SQ/sddefault.jpg"/>
 
 
 * [[https://www.youtube.com/watch?v=vatUh4rWCy0&index=473&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][REIGN]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/vatUh4rWCy0/sddefault.jpg"/>
 
   =the timespan during which an individual or government is in power=
 
 
 * [[https://www.youtube.com/watch?v=GdAB3ARqbo4&index=474&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OUTLIER]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/GdAB3ARqbo4/sddefault.jpg"/>
 
   =an outsider=
@@ -5349,6 +5392,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=7ruQdKovwSY&index=475&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SCANT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/7ruQdKovwSY/sddefault.jpg"/>
 
   =a tiny scant=
@@ -5361,9 +5405,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=qWvkSo7x87Y&index=476&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CONDESCENDING]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/qWvkSo7x87Y/sddefault.jpg"/>
 
-  =showing you are more important than others=
+  =showing you are more important than others= 🖕
 
   - A condescending little brat walked into daycare today and called all of the younger kids a "LOSER!"
   - Saying that I won't *amount to much* =了不起= is cruel and condescending.
@@ -5371,6 +5416,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=qvBQPvPfJnA&index=477&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][GIRTH]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/qvBQPvPfJnA/sddefault.jpg"/>
 
   =腰围，腰身=
@@ -5380,9 +5426,10 @@ xs
   - Because the *prom dress* =舞会礼服= could not be worn by the teenager due to her girth being larger than the fabric bought, she ended up crying.
 
 * [[https://www.youtube.com/watch?v=e3j6aF1TCig&index=478&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][GRANDSTAND]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/e3j6aF1TCig/sddefault.jpg"/>
 
-  =大看台=
+  =大看台= 🏟️
 
   - The NASCAR enthusiasts *peered* =仔细看，端详= from the *shaded* grandstand and watched the cars speed around the track.
   - The grandstand was full of hundreds of eager spectators dying to watch the *monster trucks* =大脚车= crush tiny cars.
@@ -5391,9 +5438,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=O5DgTB6ii7U&index=479&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PREPOSTEROUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/O5DgTB6ii7U/sddefault.jpg"/>
 
-  =contrary to nature, reason, or common sense=
+  =contrary to nature, reason, or common sense= 🤦
 
   - His idea of selling dead bugs for big money is totally preposterous!
   - Although you are a fast runner, it is preposterous to think you can catch that car on foot.
@@ -5403,9 +5451,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=Pi_sUWDZKMk&index=480&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][SEMAPHORE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Pi_sUWDZKMk/sddefault.jpg"/>
 
-  =a mechanical gadget with arm, lights, or flags that is used as a signal=
+  =a mechanical gadget with arm, lights, or flags that is used as a signal= 🚩
 
   - The railroad’s semaphore was broken, causing the car to miss the warning and come over the tracks.
   - A semaphore with moving arms and lights was placed on the road to caution drivers.
@@ -5415,6 +5464,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=6h3aWyZOhVE&index=481&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ZEITGEIST]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/6h3aWyZOhVE/sddefault.jpg"/>
 
   =the spirit or identity of a specific time period; 时代精神=
@@ -5426,9 +5476,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=HKxTlJcXgmc&index=482&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PALAVER]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/HKxTlJcXgmc/sddefault.jpg"/>
 
-  =unnecessary talk that wastes time=
+  =unnecessary talk that wastes time= 🗣️
 
   - Although we were supposed to have a lecture, the teacher spent the entire period with palaver about his vacation.
   - I was late for work after my chatty grandmother held me up with palaver about past economic times.
@@ -5437,9 +5488,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=Yw23KsXXiuY&index=483&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CONCUPISCENCE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Yw23KsXXiuY/sddefault.jpg"/>
 
-  =an intense desire, often describing a sextual craving=
+  =an intense desire, often describing a sextual craving= 👉 👌
 
   - Jared shouldn't get married until he can *rein in* =控制= his concupiscence and control his sexual cravings.
   - Because the teen had a fixation with his concupiscence for sex, he watched a lot of porn movies.
@@ -5447,7 +5499,9 @@ xs
   - Did you know Father Frank is *in counseling* =咨询= to deal with the concupiscence that has caused his adult magazine addiction?
   - Mark must attend weekly meetings in order to control his concupiscence for gambling.
 
+
 * [[https://www.youtube.com/watch?v=E_wOYOv1KpM&index=484&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][WOEBEGONE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/E_wOYOv1KpM/sddefault.jpg"/>
 
   =sad, tearful, or miserable in appearance=
@@ -5460,6 +5514,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=LpLERWv9y6I&index=485&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][FUSILLADE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/LpLERWv9y6I/sddefault.jpg"/>
 
   =a huge quantity of firings that occur rapidly=
@@ -5468,22 +5523,29 @@ xs
   - The media directed a fusillade of questions to the disgraced politician.
   - A fusillade of fireworks lit up the sky and converged in the shape of the country’s flag.
   - Before the trial started, the defense fired a fusillade of motions to have the case dismissed.
-  - When the intoxicated customer was refused bar service, he shot off a fusillade of foul words at the bartender.
+  - When the intoxicated customer was refused bar service, he *shot off* a fusillade of foul words at the bartender.
+
 
 * [[https://www.youtube.com/watch?v=SVZ2SDwVSC8&index=486&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][CONSULATE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/SVZ2SDwVSC8/sddefault.jpg"/>
 
   =领事馆=
 
 
 * [[https://www.youtube.com/watch?v=MgQu_8soBuY&index=487&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][HELIOCENTRIC]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/MgQu_8soBuY/sddefault.jpg"/>
+
+  =relating to the sun as the center of the universe=
 
   - When I think of the heliocentric theory I refer to my wife as my sun because she is the center of my world.
   - Unlike geocentric theory which views the Earth as the world’s center, the heliocentric theory believes the sun holds that position.
   - The term “heliocentric” is derived from two terms, “helio” meaning sun and “centric” meaning center.
 
+
 * [[https://www.youtube.com/watch?v=irmfoczwvyk&index=488&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][HORTATORY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/irmfoczwvyk/sddefault.jpg"/>
 
   =supportive, encouraging=
@@ -5496,6 +5558,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=O5EbVbSR2fE&index=489&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][LEVIATHAN]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/O5EbVbSR2fE/sddefault.jpg"/>
 
   =a person or thing that is humongous=
@@ -5508,6 +5571,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=q9FtSkjdd04&index=490&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PROGENITOR]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/q9FtSkjdd04/sddefault.jpg"/>
 
   =any of a person's direct ancestors; an ancestral form of a species=
@@ -5520,9 +5584,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=CIaHfV9C_HY&index=491&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][RAPACIOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/CIaHfV9C_HY/sddefault.jpg"/>
 
-  =aggressively greedy=
+  =aggressively greedy= 🤑
 
   - Because of its rapacious appetite, the shark is often considered to be more of an eating machine than a living creature.
   - Our rapacious neighbors have *maxed out* =刷爆= five different credit cards because they always have to have something newer and better.
@@ -5531,9 +5596,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=dQUFt8i_pYA&index=492&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][REPUGNANT]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/dQUFt8i_pYA/sddefault.jpg"/>
 
-  =repulsive or offensive=
+  =repulsive or offensive= 💩
 
   - Because of your repugnant behavior, I no longer want to be friends with you.
   - In many countries, your poor behavior would be considered repugnant.
@@ -5543,9 +5609,10 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=B2yALIFErPo&index=493&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][EXIMIOUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/B2yALIFErPo/sddefault.jpg"/>
 
-  =exceptional, distinguished=
+  =exceptional, distinguished= 🏆
 
   - Not willing to settle on the venue, the bride looked for an eximious location that would top any other she had seen.
   - The eximious school was known for its exceptional academics and outstanding sports program.
@@ -5553,11 +5620,12 @@ xs
   - One eximious player stood out from all the rest and was named MVP of the year.
   - Because he is an eximious chef, the distinguished cook charges hundreds of dollars an hour to cater.
 
+
 * [[https://www.youtube.com/watch?v=Ztf4o9hNImw&index=494&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MASTICATE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Ztf4o9hNImw/sddefault.jpg"/>
 
   =to chomp with teeth; chew=
-
 
   - My mother told me to never talk while I masticate my food.
   - Because Daniel did not masticate his food well, he almost choked on a piece of chicken.
@@ -5567,19 +5635,23 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=6phBfWil2Xc&index=495&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][LUDICROUS]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/6phBfWil2Xc/sddefault.jpg"/>
 
-  =something viewed as humorous because of its ridiculousness=
+  =something viewed as humorous because of its ridiculousness= 😜
 
   - The ludicrous movie is about a dog that becomes the president of a country.
   - The idea of comparing Lee’s pizza driver salary with the earnings of a professional athlete is ludicrous.
-  - Although Haley knew it was ludicrous to wear shorts in the freezing weather, she still put on her favorite cutoff jeans.
+  - Although Haley knew it was ludicrous to wear shorts in the freezing weather, she still put on her favorite *cutoff jeans* =牛仔短裤=.
   - Because John is too lazy to work, his dream of becoming a billionaire is quite ludicrous.
   - To many people, the idea of talking about oneself *in the third person* =以旁观者姿态，第三人称= is ludicrous.
 
 
 * [[https://www.youtube.com/watch?v=8IzwsGSFuPU&index=496&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][MUTABILITY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/8IzwsGSFuPU/sddefault.jpg"/>
+
+  =the ability to be altered=
 
   - Because of the weather’s mutability, I never leave home without a jacket and an umbrella.
   - With the mutability of my work schedule, I’m not sure I’ll be able to attend the concert.
@@ -5589,6 +5661,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=3nvXe7FlKf0&index=497&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ORIFICE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/3nvXe7FlKf0/sddefault.jpg"/>
 
   =an opening or cavity through which things move=
@@ -5601,6 +5674,7 @@ xs
 
 
 * [[https://www.youtube.com/watch?v=AxuLuHXzsMA&index=498&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][OSCULATE]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/AxuLuHXzsMA/sddefault.jpg"/>
 
   =to caress with one's lips or kiss=
@@ -5612,6 +5686,7 @@ xs
   - When Tina was a little girl, her father would osculate her on my forehead before *tucking her in* for the night.
 
 * [[https://www.youtube.com/watch?v=cWhkQaNpKZc&index=499&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PANOPLY]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/cWhkQaNpKZc/sddefault.jpg"/>
 
   =an impressive collection or exhibition=
@@ -5622,6 +5697,7 @@ xs
   - Phil will not sell his panoply of stamps because it is worth over a million dollars.
 
 * [[https://www.youtube.com/watch?v=Iokqi9FBIjg&index=500&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][PELF]]
+
   #+HTML: <img src="https://i.ytimg.com/vi/Iokqi9FBIjg/sddefault.jpg"/>
 
   =money=
