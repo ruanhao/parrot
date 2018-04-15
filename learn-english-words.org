@@ -7190,7 +7190,7 @@ xs
 
   =an arrogant man who is more concerned about his clothes than anything else=
 
-  - With his nose in the air, the coxcomb believed he was the best looking man since he was wearing a $5,000 outfit.
+  - *With his nose in the air*, the coxcomb believed he was the best looking man since he was wearing a $5,000 outfit.
   - As the middle-aged coxcomb strolled down the sidewalk in his clean suit, he stopped into the window to observe his appearance.
   - Instead of assisting the child who had fallen down, the coxcomb didn’t want to get his clothes dirty so he walked on by.
   - When everyone saw the town coxcomb walking into the opera, people realized it probably took Henry hours to get ready so that every article of clothing was perfect.
@@ -7332,7 +7332,7 @@ xs
   =meant as amusing and not in a serious manner=
 
   - Telling someone to go jump off a bridge is a tongue-in-cheek suggestion.
-  - During the comedy roast, several comics made tongue-in-cheek remarks about the celebrated actor.
+  - During the comedy *roast* =耍笑庆祝会（常为宴会，讲述主角的滑稽事）=, several comics made tongue-in-cheek remarks about the celebrated actor.
   - Because Larry was drunk, he responded to the police officer’s questions with tongue-in-cheek answers.
   - When comedy writers pen stories about real people, they hope their work is viewed as tongue-in-cheek and not as fact.
   - Mrs. Brown has a tongue-in-cheek teaching approach that can make even the most boring subject seem fun.
@@ -7356,7 +7356,7 @@ xs
 
   - Since even the scariest of horror movies only made her laugh, Sofia supposed that she had a macabre sense of humor.
   - While David has a talent for pulling macabre pranks, it can get a little bothersome when he doesn’t limit them to Halloween.
-  - Although Rose had braced herself to find some macabre surprise like a fake eyeball in the small box, she nearly fainted when she saw a beautiful diamond engagement ring.
+  - Although Rose had *braced herself* =硬着头皮= to find some macabre surprise like a fake eyeball in the small box, she nearly fainted when she saw a beautiful diamond engagement ring.
   - Among the other evils committed under Hitler’s regime were the macabre experiments performed on prisoners.
 
 
@@ -7378,7 +7378,7 @@ xs
   =an acknowledgement or an award=
 
   - Mrs. Smith is such a great teacher that she is always getting one accolade after another.
-  - When the police officer was offered the plaque, he refused to accept an accolade for doing his job.
+  - When the police officer was offered the *plaque* =牌匾=, he refused to accept an accolade for doing his job.
   - During the monthly meeting, the company president will present an accolade to the employee of the month.
   - Because I am not well known at school, I know I will not receive the “most popular” accolade from my peers.
   - The Medal of Honor is the highest accolade a soldier can win.
@@ -7452,7 +7452,7 @@ xs
 * [[https://www.youtube.com/watch?v=0MhBQs3fYus&index=652&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][TESTY]]
 #+HTML: <img src="https://i.ytimg.com/vi/0MhBQs3fYus/sddefault.jpg"/>
 
-  =easily ticked off or irritated=
+  =easily *ticked off* (气炸了) or irritated=
 
   - My wife is often testy and in a bad mood after a hard day at work.
   - When Jared is tired and irritable, he can be quite testy about small things.
