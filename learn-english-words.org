@@ -9410,7 +9410,8 @@ xs
 
   - If you're stranded in the middle of nowhere without your cell phone, then you're caught in a real conundrum.
   - When I am faced with a conundrum, I often ask my friends for advice.
-  - The government has spent hundreds of millions of dollars trying to unearth a solution to the fuel conundrum.
+  - The government has spent hundreds of millions of dollars trying to *unearth* =找到= a solution to the fuel conundrum.
+  - The *labor secretary* =劳工部长= believes *outsourcing* =外包= could be the remedy for our employment conundrum.
 
 
 * [[https://www.youtube.com/watch?v=M2FwypYM7Us&index=850&list=PL5oykh1rbQ4NfsEddIzO9poa7DlC5FOS9][ERUDITE]]
