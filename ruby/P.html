@@ -1,0 +1,4937 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>P</title>
+<!-- 2018-04-22 Sun 20:20 -->
+<meta  charset="utf-8">
+<meta  name="generator" content="Org-mode">
+<meta  name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">P</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Pacify</a></li>
+<li><a href="#sec-2">2. Pact</a></li>
+<li><a href="#sec-3">3. Pagan</a></li>
+<li><a href="#sec-4">4. Palate</a></li>
+<li><a href="#sec-5">5. Palatial</a></li>
+<li><a href="#sec-6">6. Pall</a></li>
+<li><a href="#sec-7">7. Palliate</a></li>
+<li><a href="#sec-8">8. Palliative</a></li>
+<li><a href="#sec-9">9. Pallid</a></li>
+<li><a href="#sec-10">10. Palpitate</a></li>
+<li><a href="#sec-11">11. Pamper</a></li>
+<li><a href="#sec-12">12. Pander</a></li>
+<li><a href="#sec-13">13. Pane</a></li>
+<li><a href="#sec-14">14. Pang</a></li>
+<li><a href="#sec-15">15. Panorama</a></li>
+<li><a href="#sec-16">16. Parch</a></li>
+<li><a href="#sec-17">17. Pare</a></li>
+<li><a href="#sec-18">18. Parity</a></li>
+<li><a href="#sec-19">19. Parley</a></li>
+<li><a href="#sec-20">20. Parlous</a></li>
+<li><a href="#sec-21">21. Parochial</a></li>
+<li><a href="#sec-22">22. Parry</a></li>
+<li><a href="#sec-23">23. Parturition</a></li>
+<li><a href="#sec-24">24. Passé</a></li>
+<li><a href="#sec-25">25. Pastiche</a></li>
+<li><a href="#sec-26">26. Pastoral</a></li>
+<li><a href="#sec-27">27. Pauper</a></li>
+<li><a href="#sec-28">28. Pavid</a></li>
+<li><a href="#sec-29">29. Pawn</a></li>
+<li><a href="#sec-30">30. Peculate</a></li>
+<li><a href="#sec-31">31. Pedagogy</a></li>
+<li><a href="#sec-32">32. Peddle</a></li>
+<li><a href="#sec-33">33. Pedestal</a></li>
+<li><a href="#sec-34">34. Peep</a></li>
+<li><a href="#sec-35">35. Peeve</a></li>
+<li><a href="#sec-36">36. Pell-mell</a></li>
+<li><a href="#sec-37">37. Pellucid</a></li>
+<li><a href="#sec-38">38. Pelt</a></li>
+<li><a href="#sec-39">39. Penance</a></li>
+<li><a href="#sec-40">40. Pendent</a></li>
+<li><a href="#sec-41">41. Pendulous</a></li>
+<li><a href="#sec-42">42. Pendulum</a></li>
+<li><a href="#sec-43">43. Penury</a></li>
+<li><a href="#sec-44">44. Perambulate</a></li>
+<li><a href="#sec-45">45. Perch</a></li>
+<li><a href="#sec-46">46. Percolate</a></li>
+<li><a href="#sec-47">47. Peremptory</a></li>
+<li><a href="#sec-48">48. Perfidy</a></li>
+<li><a href="#sec-49">49. Perforate</a></li>
+<li><a href="#sec-50">50. Peril</a></li>
+<li><a href="#sec-51">51. Peripheral</a></li>
+<li><a href="#sec-52">52. Perish</a></li>
+<li><a href="#sec-53">53. Perjury</a></li>
+<li><a href="#sec-54">54. Perk</a></li>
+<li><a href="#sec-55">55. Persiflage</a></li>
+<li><a href="#sec-56">56. Persnickety</a></li>
+<li><a href="#sec-57">57. Pertinacious</a></li>
+<li><a href="#sec-58">58. Peruse</a></li>
+<li><a href="#sec-59">59. Perverse</a></li>
+<li><a href="#sec-60">60. Pester</a></li>
+<li><a href="#sec-61">61. Pestilent</a></li>
+<li><a href="#sec-62">62. Pestle</a></li>
+<li><a href="#sec-63">63. Petition</a></li>
+<li><a href="#sec-64">64. Petrify</a></li>
+<li><a href="#sec-65">65. Petty</a></li>
+<li><a href="#sec-66">66. Petulance</a></li>
+<li><a href="#sec-67">67. Phantom</a></li>
+<li><a href="#sec-68">68. Philology</a></li>
+<li><a href="#sec-69">69. Phony</a></li>
+<li><a href="#sec-70">70. Picayune</a></li>
+<li><a href="#sec-71">71. Pictorial</a></li>
+<li><a href="#sec-72">72. Piddling</a></li>
+<li><a href="#sec-73">73. Piecemeal</a></li>
+<li><a href="#sec-74">74. Pied</a></li>
+<li><a href="#sec-75">75. Pierce</a></li>
+<li><a href="#sec-76">76. Pigment</a></li>
+<li><a href="#sec-77">77. Pillage</a></li>
+<li><a href="#sec-78">78. Pinch</a></li>
+<li><a href="#sec-79">79. Piquant</a></li>
+<li><a href="#sec-80">80. Pique</a></li>
+<li><a href="#sec-81">81. Pirouette</a></li>
+<li><a href="#sec-82">82. Piteous</a></li>
+<li><a href="#sec-83">83. Pith</a></li>
+<li><a href="#sec-84">84. Pitiless</a></li>
+<li><a href="#sec-85">85. Pittance</a></li>
+<li><a href="#sec-86">86. Pivot</a></li>
+<li><a href="#sec-87">87. Plait</a></li>
+<li><a href="#sec-88">88. Plateau</a></li>
+<li><a href="#sec-89">89. Platonic</a></li>
+<li><a href="#sec-90">90. Plaudit</a></li>
+<li><a href="#sec-91">91. Plead</a></li>
+<li><a href="#sec-92">92. Plebeian</a></li>
+<li><a href="#sec-93">93. Pledge</a></li>
+<li><a href="#sec-94">94. Plenary</a></li>
+<li><a href="#sec-95">95. Plenitude</a></li>
+<li><a href="#sec-96">96. Pleonasm</a></li>
+<li><a href="#sec-97">97. Plod</a></li>
+<li><a href="#sec-98">98. Ploy</a></li>
+<li><a href="#sec-99">99. Plumber</a></li>
+<li><a href="#sec-100">100. Plummet</a></li>
+<li><a href="#sec-101">101. Plunder</a></li>
+<li><a href="#sec-102">102. Pluralistic</a></li>
+<li><a href="#sec-103">103. Plush</a></li>
+<li><a href="#sec-104">104. Poach</a></li>
+<li><a href="#sec-105">105. Podiatrist</a></li>
+<li><a href="#sec-106">106. Polemic</a></li>
+<li><a href="#sec-107">107. Ponderable</a></li>
+<li><a href="#sec-108">108. Pontificate</a></li>
+<li><a href="#sec-109">109. Portentous</a></li>
+<li><a href="#sec-110">110. Posit</a></li>
+<li><a href="#sec-111">111. Potation</a></li>
+<li><a href="#sec-112">112. Potentate</a></li>
+<li><a href="#sec-113">113. Pother</a></li>
+<li><a href="#sec-114">114. Potpourri</a></li>
+<li><a href="#sec-115">115. Pouch</a></li>
+<li><a href="#sec-116">116. Pound</a></li>
+<li><a href="#sec-117">117. Prate</a></li>
+<li><a href="#sec-118">118. Preamble</a></li>
+<li><a href="#sec-119">119. Precept</a></li>
+<li><a href="#sec-120">120. Precocious</a></li>
+<li><a href="#sec-121">121. Predilection</a></li>
+<li><a href="#sec-122">122. Preen</a></li>
+<li><a href="#sec-123">123. Prehensile</a></li>
+<li><a href="#sec-124">124. Prelude</a></li>
+<li><a href="#sec-125">125. Premium</a></li>
+<li><a href="#sec-126">126. Preponderant</a></li>
+<li><a href="#sec-127">127. Prepossessing</a></li>
+<li><a href="#sec-128">128. Preposterous</a></li>
+<li><a href="#sec-129">129. Presage</a></li>
+<li><a href="#sec-130">130. Prescience</a></li>
+<li><a href="#sec-131">131. Presentation</a></li>
+<li><a href="#sec-132">132. Presentiment</a></li>
+<li><a href="#sec-133">133. Preside</a></li>
+<li><a href="#sec-134">134. Prestige</a></li>
+<li><a href="#sec-135">135. Presumption</a></li>
+<li><a href="#sec-136">136. Pretence</a></li>
+<li><a href="#sec-137">137. Pretension</a></li>
+<li><a href="#sec-138">138. Pretext</a></li>
+<li><a href="#sec-139">139. Prevaricate</a></li>
+<li><a href="#sec-140">140. Prey</a></li>
+<li><a href="#sec-141">141. Prime</a></li>
+<li><a href="#sec-142">142. Privation</a></li>
+<li><a href="#sec-143">143. Privilege</a></li>
+<li><a href="#sec-144">144. Probe</a></li>
+<li><a href="#sec-145">145. Procession</a></li>
+<li><a href="#sec-146">146. Proclaim</a></li>
+<li><a href="#sec-147">147. Procrastinate</a></li>
+<li><a href="#sec-148">148. Procrustean</a></li>
+<li><a href="#sec-149">149. Profane</a></li>
+<li><a href="#sec-150">150. Proffer</a></li>
+<li><a href="#sec-151">151. Profligate</a></li>
+<li><a href="#sec-152">152. Progenitor</a></li>
+<li><a href="#sec-153">153. Progeny</a></li>
+<li><a href="#sec-154">154. Prognosis</a></li>
+<li><a href="#sec-155">155. Prognosticate</a></li>
+<li><a href="#sec-156">156. Projectile</a></li>
+<li><a href="#sec-157">157. Prolix</a></li>
+<li><a href="#sec-158">158. Prologue</a></li>
+<li><a href="#sec-159">159. Prominent</a></li>
+<li><a href="#sec-160">160. Promissory</a></li>
+<li><a href="#sec-161">161. Prompt</a></li>
+<li><a href="#sec-162">162. Prophecy</a></li>
+<li><a href="#sec-163">163. Prophet</a></li>
+<li><a href="#sec-164">164. Propulsion</a></li>
+<li><a href="#sec-165">165. Prorogue</a></li>
+<li><a href="#sec-166">166. Prosecution</a></li>
+<li><a href="#sec-167">167. Prosperity</a></li>
+<li><a href="#sec-168">168. Prosperous</a></li>
+<li><a href="#sec-169">169. Protagonist</a></li>
+<li><a href="#sec-170">170. Protean</a></li>
+<li><a href="#sec-171">171. Protuberance</a></li>
+<li><a href="#sec-172">172. Protuberant</a></li>
+<li><a href="#sec-173">173. Provenance</a></li>
+<li><a href="#sec-174">174. Proverbial</a></li>
+<li><a href="#sec-175">175. Providential</a></li>
+<li><a href="#sec-176">176. Prowess</a></li>
+<li><a href="#sec-177">177. Prowl</a></li>
+<li><a href="#sec-178">178. Prude</a></li>
+<li><a href="#sec-179">179. Pry</a></li>
+<li><a href="#sec-180">180. Puerile</a></li>
+<li><a href="#sec-181">181. Puissant</a></li>
+<li><a href="#sec-182">182. Pulchritude</a></li>
+<li><a href="#sec-183">183. Pullulate</a></li>
+<li><a href="#sec-184">184. Pulverize</a></li>
+<li><a href="#sec-185">185. Punctilious</a></li>
+<li><a href="#sec-186">186. Pundit</a></li>
+<li><a href="#sec-187">187. Puny</a></li>
+<li><a href="#sec-188">188. Purgatory</a></li>
+<li><a href="#sec-189">189. Purge</a></li>
+<li><a href="#sec-190">190. Purify</a></li>
+<li><a href="#sec-191">191. Purloin</a></li>
+<li><a href="#sec-192">192. Purport</a></li>
+<li><a href="#sec-193">193. Purveyor</a></li>
+<li><a href="#sec-194">194. Pusillanimous</a></li>
+<li><a href="#sec-195">195. Putative</a></li>
+<li><a href="#sec-196">196. Putrefy</a></li>
+<li><a href="#sec-197">197. Putrid</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Pacify</a></li>
+<li><a href="#sec-2">2. Pact</a></li>
+<li><a href="#sec-3">3. Pagan</a></li>
+<li><a href="#sec-4">4. Palate</a></li>
+<li><a href="#sec-5">5. Palatial</a></li>
+<li><a href="#sec-6">6. Pall</a></li>
+<li><a href="#sec-7">7. Palliate</a></li>
+<li><a href="#sec-8">8. Palliative</a></li>
+<li><a href="#sec-9">9. Pallid</a></li>
+<li><a href="#sec-10">10. Palpitate</a></li>
+<li><a href="#sec-11">11. Pamper</a></li>
+<li><a href="#sec-12">12. Pander</a></li>
+<li><a href="#sec-13">13. Pane</a></li>
+<li><a href="#sec-14">14. Pang</a></li>
+<li><a href="#sec-15">15. Panorama</a></li>
+<li><a href="#sec-16">16. Parch</a></li>
+<li><a href="#sec-17">17. Pare</a></li>
+<li><a href="#sec-18">18. Parity</a></li>
+<li><a href="#sec-19">19. Parley</a></li>
+<li><a href="#sec-20">20. Parlous</a></li>
+<li><a href="#sec-21">21. Parochial</a></li>
+<li><a href="#sec-22">22. Parry</a></li>
+<li><a href="#sec-23">23. Parturition</a></li>
+<li><a href="#sec-24">24. Passé</a></li>
+<li><a href="#sec-25">25. Pastiche</a></li>
+<li><a href="#sec-26">26. Pastoral</a></li>
+<li><a href="#sec-27">27. Pauper</a></li>
+<li><a href="#sec-28">28. Pavid</a></li>
+<li><a href="#sec-29">29. Pawn</a></li>
+<li><a href="#sec-30">30. Peculate</a></li>
+<li><a href="#sec-31">31. Pedagogy</a></li>
+<li><a href="#sec-32">32. Peddle</a></li>
+<li><a href="#sec-33">33. Pedestal</a></li>
+<li><a href="#sec-34">34. Peep</a></li>
+<li><a href="#sec-35">35. Peeve</a></li>
+<li><a href="#sec-36">36. Pell-mell</a></li>
+<li><a href="#sec-37">37. Pellucid</a></li>
+<li><a href="#sec-38">38. Pelt</a></li>
+<li><a href="#sec-39">39. Penance</a></li>
+<li><a href="#sec-40">40. Pendent</a></li>
+<li><a href="#sec-41">41. Pendulous</a></li>
+<li><a href="#sec-42">42. Pendulum</a></li>
+<li><a href="#sec-43">43. Penury</a></li>
+<li><a href="#sec-44">44. Perambulate</a></li>
+<li><a href="#sec-45">45. Perch</a></li>
+<li><a href="#sec-46">46. Percolate</a></li>
+<li><a href="#sec-47">47. Peremptory</a></li>
+<li><a href="#sec-48">48. Perfidy</a></li>
+<li><a href="#sec-49">49. Perforate</a></li>
+<li><a href="#sec-50">50. Peril</a></li>
+<li><a href="#sec-51">51. Peripheral</a></li>
+<li><a href="#sec-52">52. Perish</a></li>
+<li><a href="#sec-53">53. Perjury</a></li>
+<li><a href="#sec-54">54. Perk</a></li>
+<li><a href="#sec-55">55. Persiflage</a></li>
+<li><a href="#sec-56">56. Persnickety</a></li>
+<li><a href="#sec-57">57. Pertinacious</a></li>
+<li><a href="#sec-58">58. Peruse</a></li>
+<li><a href="#sec-59">59. Perverse</a></li>
+<li><a href="#sec-60">60. Pester</a></li>
+<li><a href="#sec-61">61. Pestilent</a></li>
+<li><a href="#sec-62">62. Pestle</a></li>
+<li><a href="#sec-63">63. Petition</a></li>
+<li><a href="#sec-64">64. Petrify</a></li>
+<li><a href="#sec-65">65. Petty</a></li>
+<li><a href="#sec-66">66. Petulance</a></li>
+<li><a href="#sec-67">67. Phantom</a></li>
+<li><a href="#sec-68">68. Philology</a></li>
+<li><a href="#sec-69">69. Phony</a></li>
+<li><a href="#sec-70">70. Picayune</a></li>
+<li><a href="#sec-71">71. Pictorial</a></li>
+<li><a href="#sec-72">72. Piddling</a></li>
+<li><a href="#sec-73">73. Piecemeal</a></li>
+<li><a href="#sec-74">74. Pied</a></li>
+<li><a href="#sec-75">75. Pierce</a></li>
+<li><a href="#sec-76">76. Pigment</a></li>
+<li><a href="#sec-77">77. Pillage</a></li>
+<li><a href="#sec-78">78. Pinch</a></li>
+<li><a href="#sec-79">79. Piquant</a></li>
+<li><a href="#sec-80">80. Pique</a></li>
+<li><a href="#sec-81">81. Pirouette</a></li>
+<li><a href="#sec-82">82. Piteous</a></li>
+<li><a href="#sec-83">83. Pith</a></li>
+<li><a href="#sec-84">84. Pitiless</a></li>
+<li><a href="#sec-85">85. Pittance</a></li>
+<li><a href="#sec-86">86. Pivot</a></li>
+<li><a href="#sec-87">87. Plait</a></li>
+<li><a href="#sec-88">88. Plateau</a></li>
+<li><a href="#sec-89">89. Platonic</a></li>
+<li><a href="#sec-90">90. Plaudit</a></li>
+<li><a href="#sec-91">91. Plead</a></li>
+<li><a href="#sec-92">92. Plebeian</a></li>
+<li><a href="#sec-93">93. Pledge</a></li>
+<li><a href="#sec-94">94. Plenary</a></li>
+<li><a href="#sec-95">95. Plenitude</a></li>
+<li><a href="#sec-96">96. Pleonasm</a></li>
+<li><a href="#sec-97">97. Plod</a></li>
+<li><a href="#sec-98">98. Ploy</a></li>
+<li><a href="#sec-99">99. Plumber</a></li>
+<li><a href="#sec-100">100. Plummet</a></li>
+<li><a href="#sec-101">101. Plunder</a></li>
+<li><a href="#sec-102">102. Pluralistic</a></li>
+<li><a href="#sec-103">103. Plush</a></li>
+<li><a href="#sec-104">104. Poach</a></li>
+<li><a href="#sec-105">105. Podiatrist</a></li>
+<li><a href="#sec-106">106. Polemic</a></li>
+<li><a href="#sec-107">107. Ponderable</a></li>
+<li><a href="#sec-108">108. Pontificate</a></li>
+<li><a href="#sec-109">109. Portentous</a></li>
+<li><a href="#sec-110">110. Posit</a></li>
+<li><a href="#sec-111">111. Potation</a></li>
+<li><a href="#sec-112">112. Potentate</a></li>
+<li><a href="#sec-113">113. Pother</a></li>
+<li><a href="#sec-114">114. Potpourri</a></li>
+<li><a href="#sec-115">115. Pouch</a></li>
+<li><a href="#sec-116">116. Pound</a></li>
+<li><a href="#sec-117">117. Prate</a></li>
+<li><a href="#sec-118">118. Preamble</a></li>
+<li><a href="#sec-119">119. Precept</a></li>
+<li><a href="#sec-120">120. Precocious</a></li>
+<li><a href="#sec-121">121. Predilection</a></li>
+<li><a href="#sec-122">122. Preen</a></li>
+<li><a href="#sec-123">123. Prehensile</a></li>
+<li><a href="#sec-124">124. Prelude</a></li>
+<li><a href="#sec-125">125. Premium</a></li>
+<li><a href="#sec-126">126. Preponderant</a></li>
+<li><a href="#sec-127">127. Prepossessing</a></li>
+<li><a href="#sec-128">128. Preposterous</a></li>
+<li><a href="#sec-129">129. Presage</a></li>
+<li><a href="#sec-130">130. Prescience</a></li>
+<li><a href="#sec-131">131. Presentation</a></li>
+<li><a href="#sec-132">132. Presentiment</a></li>
+<li><a href="#sec-133">133. Preside</a></li>
+<li><a href="#sec-134">134. Prestige</a></li>
+<li><a href="#sec-135">135. Presumption</a></li>
+<li><a href="#sec-136">136. Pretence</a></li>
+<li><a href="#sec-137">137. Pretension</a></li>
+<li><a href="#sec-138">138. Pretext</a></li>
+<li><a href="#sec-139">139. Prevaricate</a></li>
+<li><a href="#sec-140">140. Prey</a></li>
+<li><a href="#sec-141">141. Prime</a></li>
+<li><a href="#sec-142">142. Privation</a></li>
+<li><a href="#sec-143">143. Privilege</a></li>
+<li><a href="#sec-144">144. Probe</a></li>
+<li><a href="#sec-145">145. Procession</a></li>
+<li><a href="#sec-146">146. Proclaim</a></li>
+<li><a href="#sec-147">147. Procrastinate</a></li>
+<li><a href="#sec-148">148. Procrustean</a></li>
+<li><a href="#sec-149">149. Profane</a></li>
+<li><a href="#sec-150">150. Proffer</a></li>
+<li><a href="#sec-151">151. Profligate</a></li>
+<li><a href="#sec-152">152. Progenitor</a></li>
+<li><a href="#sec-153">153. Progeny</a></li>
+<li><a href="#sec-154">154. Prognosis</a></li>
+<li><a href="#sec-155">155. Prognosticate</a></li>
+<li><a href="#sec-156">156. Projectile</a></li>
+<li><a href="#sec-157">157. Prolix</a></li>
+<li><a href="#sec-158">158. Prologue</a></li>
+<li><a href="#sec-159">159. Prominent</a></li>
+<li><a href="#sec-160">160. Promissory</a></li>
+<li><a href="#sec-161">161. Prompt</a></li>
+<li><a href="#sec-162">162. Prophecy</a></li>
+<li><a href="#sec-163">163. Prophet</a></li>
+<li><a href="#sec-164">164. Propulsion</a></li>
+<li><a href="#sec-165">165. Prorogue</a></li>
+<li><a href="#sec-166">166. Prosecution</a></li>
+<li><a href="#sec-167">167. Prosperity</a></li>
+<li><a href="#sec-168">168. Prosperous</a></li>
+<li><a href="#sec-169">169. Protagonist</a></li>
+<li><a href="#sec-170">170. Protean</a></li>
+<li><a href="#sec-171">171. Protuberance</a></li>
+<li><a href="#sec-172">172. Protuberant</a></li>
+<li><a href="#sec-173">173. Provenance</a></li>
+<li><a href="#sec-174">174. Proverbial</a></li>
+<li><a href="#sec-175">175. Providential</a></li>
+<li><a href="#sec-176">176. Prowess</a></li>
+<li><a href="#sec-177">177. Prowl</a></li>
+<li><a href="#sec-178">178. Prude</a></li>
+<li><a href="#sec-179">179. Pry</a></li>
+<li><a href="#sec-180">180. Puerile</a></li>
+<li><a href="#sec-181">181. Puissant</a></li>
+<li><a href="#sec-182">182. Pulchritude</a></li>
+<li><a href="#sec-183">183. Pullulate</a></li>
+<li><a href="#sec-184">184. Pulverize</a></li>
+<li><a href="#sec-185">185. Punctilious</a></li>
+<li><a href="#sec-186">186. Pundit</a></li>
+<li><a href="#sec-187">187. Puny</a></li>
+<li><a href="#sec-188">188. Purgatory</a></li>
+<li><a href="#sec-189">189. Purge</a></li>
+<li><a href="#sec-190">190. Purify</a></li>
+<li><a href="#sec-191">191. Purloin</a></li>
+<li><a href="#sec-192">192. Purport</a></li>
+<li><a href="#sec-193">193. Purveyor</a></li>
+<li><a href="#sec-194">194. Pusillanimous</a></li>
+<li><a href="#sec-195">195. Putative</a></li>
+<li><a href="#sec-196">196. Putrefy</a></li>
+<li><a href="#sec-197">197. Putrid</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Author</td>
+<td class="left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="left">Date</td>
+<td class="left">2018-04-22 20:20:00</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/pacify-in-a-sentence/">Pacify</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>to placate or appease</code>
+</p>
+
+<ul class="org-ul">
+<li>If my husband thinks he can pacify me with a pearl necklace, then he <b>is in for</b> <code>免不了遭受</code> a big surprise!
+</li>
+<li>Hopefully the warm bottle of milk will pacify the crying baby.
+</li>
+<li>According to mythology, only a virginal sacrifice could pacify the angry gods.
+</li>
+<li>The airline attempted to pacify the <b>stranded</b> passengers with offers of free flight vouchers.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/pact-in-a-sentence/">Pact</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>a formal agreement</code>
+</p>
+
+<ul class="org-ul">
+<li>Not wanting to forget the good times they had, the high school friends made a pact to keep in touch after graduation.
+</li>
+<li>Each student had passed the final exam, so the teacher honored their pact and took a pie to her face.
+</li>
+<li>Ashton's pact with his fitness trainer made him think twice about eating a second donut.
+</li>
+<li>The neighbors made a pact to keep an eye on each other's houses to maintain a safe neighborhood.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/pagan-in-a-sentence/">Pagan</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>an individual who doesn’t follow one of the world’s main religions</code>
+</p>
+
+<ul class="org-ul">
+<li>My uncle is a pagan who worships money.
+</li>
+<li>If Sarah were truly a pagan, she wouldn’t attend the services at the local church.
+</li>
+<li>The missionary wanted to share his religion with every pagan he encountered.
+</li>
+<li>During the ceremony, the head pagan covers himself in chicken blood and walks on hot coals.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/palate-in-a-sentence/">Palate</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>person’s sense of taste or appetite</code>
+</p>
+
+<ul class="org-ul">
+<li>Because she has a picky palate, the toddler refuses to eat anything other than chicken nuggets.
+</li>
+<li>Jenny will <b>stretch her palate</b> tonight and try squid and some other interesting dishes.
+</li>
+<li>I enjoy most <b>pasta dishes</b>, but my palate isn’t very fond of seafood based recipes.
+</li>
+<li>The sweetness added to the top of the <b>casserole</b> was too much for my palate.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/palatial-in-a-sentence/">Palatial</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>on a large scale with elaborate furnishings</code>
+</p>
+
+<ul class="org-ul">
+<li>The palatial diamond ring was so heavy it made Gina’s finger hurt.
+</li>
+<li>With one hundred and fifty floors, the Abdu tower is one of the most palatial buildings in the  world.
+</li>
+<li>A palatial house in the country is much cheaper than a similar mansion in the city.
+</li>
+<li>Because the museum is so palatial in size, one needs at least two days to view all of the exhibits.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/pall-in-a-sentence/">Pall</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>a thing or person that makes something depressing or dismal</code>
+</p>
+
+<ul class="org-ul">
+<li>The car accident that killed five students cast a pall over the graduation ceremony.
+</li>
+<li>After the president’s <b>embezzlement</b> scandal <b>came to light</b>, a pall of distrust covered the administration.
+</li>
+<li>The prospect of a war has thrown a pall over the prosperous economy.
+</li>
+<li>Do you think the recent rise in gun violence will cast a pall over the city’s Olympic bid?
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/palliate-in-a-sentence/">Palliate</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>to get rid of or alleviate</code>
+</p>
+
+<ul class="org-ul">
+<li>After surgery, Greg received large doses of medications to palliate his suffering.
+</li>
+<li>Kurt hoped he could palliate his wife’s anger by buying her flowers.
+</li>
+<li>After a long night of drinking, Bill takes a pill to palliate the symptoms of the hangover he expects to have the next day.
+</li>
+<li>Perhaps a nap will palliate my headache.
+</li>
+<li>During the counseling session, the therapist will try and palliate the conflict between the frustrated couple.
+</li>
+<li>The psychologist suggested I write a letter to my deceased mother in order to palliate the anger I felt towards her.
+</li>
+<li>In their studies, the nurses learned many ways to palliate their patients’ misery.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/palliative-in-a-sentence/">Palliative</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>soothing remedy to relieve pain such as medicine</code>
+</p>
+
+<ul class="org-ul">
+<li>My rash needs some palliative lotion if it is going to stop hurting and heal.
+</li>
+<li>Would you like some palliative medicine for your neck pains?
+</li>
+<li>The doctor said that you need to apply some palliative medicine to your incision if you experience any pain.
+</li>
+<li>The cut on my back needs some palliative gel to help me walk around.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/pallid-in-a-sentence/">Pallid</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>pale skin or lacking in vitality or interest</code>
+</p>
+
+<ul class="org-ul">
+<li>Although she is a <b>redhead</b> <code>红毛</code> with very <b>fair skin</b> <code>白皙的皮肤</code>, Maureen has tried all sorts of ways to give her pallid complexion just a touch of color.
+</li>
+<li>His pallid complexion is a definite indication that he spends all his time indoors.
+</li>
+<li>Because her face was so pallid, I had no reason to believe that she was pretending to be sick to get out of cleaning up the kitchen.
+</li>
+<li>When I saw myself standing next to the mime in the photo, I decided that next to him, my pallid complexion was <b>downright</b> <code>彻头彻尾的</code> rosy!
+</li>
+<li>I didn’t get past the first chapter of the book because I found the main character to be a <b>whiny</b> <code>爱哭哭啼啼的</code>, pallid caricature of a romantic heroine.
+</li>
+<li>When Romeo saw Juliet’s pallid face in the <b>crypt</b> <code>（尤指旧时做墓穴用的）教堂地下室</code> , he believed she was really dead.
+</li>
+<li>This new novel of his is just a pallid remake of the bestseller that made him famous.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/palpitate-in-a-sentence/">Palpitate</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>to thump or throb intensely</code>
+</p>
+
+<ul class="org-ul">
+<li>When the music at the concert started to palpitate, it caused my head to hurt.
+</li>
+<li>Janet felt her heart palpitate rapidly as she walked nervously onto the stage.
+</li>
+<li>Whenever Tim becomes really angry, the veins in his neck start to noticeably palpitate.
+</li>
+<li>Since Eric has a phobia of reptiles, his heart will palpitate if he even looks at a photo of a snake.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/pamper-in-a-sentence/">Pamper</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>to indulge with affection and attention</code>
+</p>
+
+<ul class="org-ul">
+<li>The gentleman would pamper his wife with a shoulder massage <b>on a consistent basis</b> <code>始终如一</code>.
+</li>
+<li>To unwind from everyday stress, be sure to take the time treat and pamper yourself regularly.
+</li>
+<li>Occasionally, it’s nice to pamper your family with a spontaneous trip to the beach.
+</li>
+<li>After a tense day at work, she chose to pamper herself with hot yoga and a pedicure.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-12" class="outline-2">
+<h2 id="sec-12"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/pander-in-a-sentence/">Pander</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>to spoil a person by giving him his desires, usually something immoral or illegal</code>
+</p>
+
+<ul class="org-ul">
+<li>The woman on the corner did not realize she was attempting to pander her sexual services to an undercover cop.
+</li>
+<li>Because Jim wants his son to value a dollar, he does not pander to his whims by giving him everything he wants.
+</li>
+<li>I hate reality shows because I believe they pander to people who enjoy watching immoral activities.
+</li>
+<li>In some cases, corrupt lobbyists pander to politicians by giving them cash bribes.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-13" class="outline-2">
+<h2 id="sec-13"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/pane-in-a-sentence/">Pane</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>a piece of glass used in windows</code>
+</p>
+
+<ul class="org-ul">
+<li>When the baseball crashed through the pane, the father explained to his son how important it is to hit the ball away from the house.
+</li>
+<li>Details for the historical house included a pane over the front door showing the character of the house.
+</li>
+<li>After slamming the door, the pane fell out and crashed to the ground almost injuring a passerby.
+</li>
+<li>Attempting to wash the pane in the skylight proved impossible due to the ceilings being twelve feet high.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-14" class="outline-2">
+<h2 id="sec-14"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/pang-in-a-sentence/">Pang</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>an abrupt yet intense spasm of distress or pain</code>
+</p>
+
+<ul class="org-ul">
+<li>When the bullet entered Rick’s stomach, it sent a pang of agony through his body.
+</li>
+<li>The boy experienced a pang of sorrow when he learned his puppy had died.
+</li>
+<li>As Sharon watched her ex-boyfriend dance with her best friend, she felt a pang of jealousy.
+</li>
+<li>A hunger pang reminded me I hadn’t eaten in twenty-four hours.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-15" class="outline-2">
+<h2 id="sec-15"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/panorama-in-a-sentence/">Panorama</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>a picture of a long scene or place</code>
+</p>
+
+<ul class="org-ul">
+<li>Hot air balloon tours allow risk-takers to see a panorama of the city below while being thousands of feet up in the air.
+</li>
+<li>Photos of the panorama from our beach trip reminds me of the first day we stepped onto the sand.
+</li>
+<li>Mayor Pike’s photograph of the city’s panorama was displayed on his wall as if he owned the entire city.
+</li>
+<li>Seated in the very center of the 15th row of the soccer stadium allowed me to see the panorama of the soccer field which became known as the best seats in the stadium.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-16" class="outline-2">
+<h2 id="sec-16"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/parch-in-a-sentence/">Parch</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>to dry up due to heat</code>
+</p>
+
+<ul class="org-ul">
+<li>With the sun shining so brightly, it was not difficult to parch the wet clothing.
+</li>
+<li>Hours after my last drink of water, my throat began to parch.
+</li>
+<li>Years of heat but no rain had caused the land to parch.
+</li>
+<li>Even sturdy desert plants began to parch under the savannah sun.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-17" class="outline-2">
+<h2 id="sec-17"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/pare-in-a-sentence/">Pare</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>clip, tidy up or peel something to make it look better</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to make my small apartment more comfortable, I had to pare down my possessions to only a few small pieces of furniture.
+</li>
+<li>Since I only have an hour to run my errands, I will have to pare down my list to just three places.
+</li>
+<li>The chef began to pare the cucumber because including the cucumber’s skin would cause the dish to be extra chewy.
+</li>
+<li>To make the glazed orange cake, the first step was to pare the <b>zest</b> <code>橘子皮</code> of an orange for the glaze.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-18" class="outline-2">
+<h2 id="sec-18"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/parity-in-a-sentence/">Parity</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>the same in nature, value, or class</code>
+</p>
+
+<ul class="org-ul">
+<li>As far as parity in currency, the pound is worth more than the dollar.
+</li>
+<li>The price parity of the two shoe brands is nearly equal so it really does not matter which pair of shoes you buy.
+</li>
+<li>In my company, there is an uneven parity between the salaries of males and females with females usually earning fifteen percent less.
+</li>
+<li>It is impossible to establish parity with the prices of apples and oranges because they are two different fruits.
+</li>
+<li>When Jill reviewed the final two resumes she received, she found no parity between the nanny of ten years and the beginning babysitter.
+</li>
+<li>There is absolutely no parity between the fake diamond and the real stone.
+</li>
+<li>In an ideal world, there would be parity in the healthcare coverage received by the rich and the healthcare coverage received by the poor.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-19" class="outline-2">
+<h2 id="sec-19"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/parley-in-a-sentence/">Parley</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>conversation between enemies or rivals</code>
+</p>
+
+<ul class="org-ul">
+<li>The end result of the parley between the two world leaders was a productive trade agreement.
+</li>
+<li>After our parley, my former best friend and I decided to stop making unkind remarks about each other.
+</li>
+<li>The mediator tried to <b>make sense of</b> <code>弄懂</code> the rapid parley between the two parties.
+</li>
+<li>When the parley between my husband and his brother sounded as though it was going to turn violent, I stepped between the two men.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-20" class="outline-2">
+<h2 id="sec-20"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/parlous-in-a-sentence/">Parlous</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>unsafe; risky</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of the storm, it was parlous for the children to leave school.
+</li>
+<li>People reduce their shopping expenses when they’re worried about a parlous economy.
+</li>
+<li>Once a popular tourist destination, the South American country has been ravaged by drug violence.
+</li>
+<li>Even in these modern times, pirates still make the seas parlous.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-21" class="outline-2">
+<h2 id="sec-21"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/parochial-in-a-sentence/">Parochial</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>having a restricted outlook</code>
+</p>
+
+<ul class="org-ul">
+<li>John’s view of life is parochial and does not include anything outside of his own happiness.
+</li>
+<li>Because of Heather’s parochial upbringing in the country, she knows nothing about living in a large city.
+</li>
+<li>The parochial school’s views are limited to the religious principles of the church that manages it.
+</li>
+<li>Since the professor tends to be parochial, he is often unwilling to listen to theories other than his own.
+</li>
+<li>The mayor’s parochial response to the media showed he was only focused on his opinion of the situation.
+</li>
+<li>In his speech, the principal detailed his parochial education plan that centered on the faculty teaching solely from the textbooks.
+</li>
+<li>One of my grandmother’s parochial views is that women are not capable of working outside the home.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-22" class="outline-2">
+<h2 id="sec-22"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/parry-in-a-sentence/">Parry</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>a shielding or defensive maneuver used for protection</code>
+</p>
+
+<ul class="org-ul">
+<li>She put on her sunglasses to parry his probing eyes.
+</li>
+<li>Before Mary walked away, she tried to parry Ann’s insult with one of her own.
+</li>
+<li>The boxer put up his fists to parry his opponent’s punch.
+</li>
+<li>Each time Riley lunged with his sword, Arthur would parry the blow by blocking it with his own blade.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-23" class="outline-2">
+<h2 id="sec-23"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/parturition-in-a-sentence/">Parturition</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>childbirth; the process of giving birth</code>
+</p>
+
+<ul class="org-ul">
+<li>Breastfeeding can continue several years after parturition is complete and the baby is born.
+</li>
+<li>During parturition, the <b>midwife</b> <code>助产士</code> helped ease the mother through her contractions.
+</li>
+<li>Without pain medicine, parturition was very painful for the laboring mother.
+</li>
+<li>Laboring for several hours, the expectant mother felt as if parturition would never end.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-24" class="outline-2">
+<h2 id="sec-24"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/passe-in-a-sentence/">Passé</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>out of fashion; no longer trendy</code>
+</p>
+
+<ul class="org-ul">
+<li>Why would the young man wear a passé outfit that went out of style two years ago?
+</li>
+<li>Nobody listens to the singer anymore because his music is so passé.
+</li>
+<li>Although the snuggling blanket was very popular a few years ago, today it is considered passé and is no longer available in stores.
+</li>
+<li>Once a new social media site becomes trendy, all of the old sites become passé and lose users.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-25" class="outline-2">
+<h2 id="sec-25"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/pastiche-in-a-sentence/">Pastiche</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>a mix of unique items</code>
+</p>
+
+<ul class="org-ul">
+<li>The mix of country, pop, and soul music made the album a fascinating pastiche of sounds.
+</li>
+<li>Because Maggie decorated her residence in a pastiche of styles, every room in her house is uniquely beautified.
+</li>
+<li>The rainbow is made of a pastiche of colors.
+</li>
+<li>Because the buffet contains a pastiche of <b>entrees</b>, you shouldn’t have any trouble finding a dish to <b>sate your hunger</b>.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-26" class="outline-2">
+<h2 id="sec-26"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/pastoral-in-a-sentence/">Pastoral</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>pertaining to the country or to country folk</code>
+</p>
+
+<ul class="org-ul">
+<li>The Smiths decided it would be better to raise their family in a pastoral area outside of the city.
+</li>
+<li>When I looked at the artist’s pastoral paintings, I could clearly see the fields and trees in which he played as a child.
+</li>
+<li>The gardens behind the church made a beautiful pastoral setting for the wedding.
+</li>
+<li>Because we live in a crowded urban area, we spend our vacations at a pastoral destination outside the city.
+</li>
+<li>John found it hard to adapt to a pastoral lifestyle after living in the city for forty years.
+</li>
+<li>Although Sarah was curious about pastoral cuisine, she was not eager to taste the <b>raccoon soup</b> <code>一种乡下喝的汤</code> offered by the farmers.
+</li>
+<li>We enjoyed the <b>wagon ride</b> <code>马车</code> through the dirt roads of the pastoral town.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-27" class="outline-2">
+<h2 id="sec-27"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/pauper-in-a-sentence/">Pauper</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>a person who lives in poverty</code>
+</p>
+
+<ul class="org-ul">
+<li>The pauper had no money and slept under a bridge.
+</li>
+<li>When the caring man saw the pauper had no footwear, he offered the man the pair of shoes he wore.
+</li>
+<li>John was basically a pauper after his wife took all his money in the divorce.
+</li>
+<li>During the great depression, more than one millionaire lost his fortune and became a pauper.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-28" class="outline-2">
+<h2 id="sec-28"><span class="section-number-2">28</span> Pavid</h2>
+</div>
+
+
+<div id="outline-container-sec-29" class="outline-2">
+<h2 id="sec-29"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/pawn-in-a-sentence/">Pawn</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>an item that is handed over as collateral for a money loan</code>
+</p>
+
+<ul class="org-ul">
+<li>Since my engagement ring was so important to me, I decided to pawn it so that I could get it back in a few days.
+</li>
+<li>After losing my job, Kevin would pawn his motorcycle and stereo at the local pawn store in order to pay his bills.
+</li>
+<li>Frank received $500 for his television set since he decided to pawn it instead of selling it to a neighbor.
+</li>
+<li>Detective Cooper showed a picture of the victim’s watch to the store’s owner to see if the criminal had tried to pawn it.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-30" class="outline-2">
+<h2 id="sec-30"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/peculate-in-a-sentence/">Peculate</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>to take money that belongs to others, usually a business or public agency</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Adam needed money to pay his bills, it was hard for him to fight the temptation to peculate funds from the bank.
+</li>
+<li>We were shocked when we learned our <b>pastor</b> <code>牧师</code> had chosen to peculate money from our daycare fund to pay for a prostitute’s services.
+</li>
+<li>As a trustworthy accountant, Jim would never peculate money from the financial accounts he monitors.
+</li>
+<li>Why did Gina peculate money from her own charity and use it for personal use?
+</li>
+<li>In order to cover his drug debts, Stan decided to peculate money from the office’s <b>petty cash fund</b> <code>零用备用金</code>.
+</li>
+<li>Cameras are located throughout the bank in case any employees decide to peculate funds.
+</li>
+<li>Working together, the two embezzlers managed to peculate millions of dollars from hospital accounts.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-31" class="outline-2">
+<h2 id="sec-31"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/pedagogy-in-a-sentence/">Pedagogy</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>activities of educating, teaching or instructing</code>
+</p>
+
+<ul class="org-ul">
+<li>The school boasts the most progressive pedagogy and a 100% graduation rate.
+</li>
+<li>If pedagogy doesn’t keep pace with technology, today’s students will be woefully unprepared for the real world.
+</li>
+<li>While the basic principles of pedagogy are designed to provide learners with the best education, they are completely ineffective if students do not have the desire to learn.
+</li>
+<li>Mrs. Brown follows a unique style of pedagogy, and she often allows her students to take over the lesson.
+</li>
+<li>As public school pedagogy moves away from developing <b>penmanship</b> <code>书法</code>, many young people aren’t equipped to read or write <b>in cursive</b> <code>草书</code>.
+</li>
+<li>Because the test scores have been below average several years in a row, perhaps we should examine the pedagogy to see if it is sound.
+</li>
+<li>US representatives are looking into the pedagogy used in other countries to try to determine why American students are behind in science and math skills.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-32" class="outline-2">
+<h2 id="sec-32"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/peddle-in-a-sentence/">Peddle</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>to sell products by traveling to other places</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to peddle his wares, the young man went door to door describing each product as best as he could.
+</li>
+<li>Instead of having to peddle her clothing, now all she had to do was to use her computer to sell her items on Ebay.
+</li>
+<li>It is rather impossible to peddle some items like a house or a car because they are too big to carry around.
+</li>
+<li>After the salesman would peddle his products around town, he would go to the local hotel for a good night sleep.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-33" class="outline-2">
+<h2 id="sec-33"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/pedestal-in-a-sentence/">Pedestal</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>a standing from which an individual is greatly admired</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though you put the rapper on a pedestal for making the occasional charitable donation, the man is really just a <b>thug</b> <code>恶棍</code>.
+</li>
+<li>The actor is not a god so I see no reason to place him on a pedestal and worship him.
+</li>
+<li>When the challenger defeated the champion, he knocked a legend from his pedestal.
+</li>
+<li>Anna thinks so highly of her husband that she has elevated him upon a pedestal.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-34" class="outline-2">
+<h2 id="sec-34"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/peep-in-a-sentence/">Peep</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>to look</code>
+</p>
+
+<ul class="org-ul">
+<li>Take a peep inside the <b>treasure chest</b> to see what prizes you could earn for good behavior.
+</li>
+<li>To see if he was asleep in his <b>crib</b> <code>童床</code>, the infant’s mother took a peep at the baby monitor.
+</li>
+<li>Peep inside the freezer to see if we have any chocolate, strawberry, or vanilla ice cream left.
+</li>
+<li>Do not peep inside the girls’ <b>locker room</b> <code>更衣间</code> right now because they are changing clothes.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-35" class="outline-2">
+<h2 id="sec-35"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/peeve-in-a-sentence/">Peeve</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>an annoyance or irritant</code>
+</p>
+
+<ul class="org-ul">
+<li>Making a tapping sound on the desk was the peeve that annoyed our teacher the most.
+</li>
+<li>A dreaded peeve of mine is when people talk loudly on a cell phone during a movie.
+</li>
+<li>Texting and driving is not only a bothersome peeve of police, it is illegal in most states.
+</li>
+<li>Her most infuriating peeve is when people <b>smack their gum</b> <code>make a loud popping sound while chewing gum</code>, and that’s exactly what we did.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-36" class="outline-2">
+<h2 id="sec-36"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/pell-mell-in-a-sentence/">Pell-mell</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>a confused or disorderly manner</code>
+</p>
+
+<ul class="org-ul">
+<li>The crowd of people was running about in an absolute pell-mell that was difficult for the riot police to keep under control.
+</li>
+<li>On Black Friday, many people engage in a massive pell-mell that can be very dangerous since everyone is running about so crazily.
+</li>
+<li>Someone pulled the fire alarm at the mall, causing everyone to flee the building in a pell-mell of disorderly escapees.
+</li>
+<li>A panicked crowd is one that runs about in a pell-mell, with little organization or direction to keep things orderly.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-37" class="outline-2">
+<h2 id="sec-37"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/pellucid-in-a-sentence/">Pellucid</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>very well-defined in meaning and style</code>
+</p>
+
+<ul class="org-ul">
+<li>The contract was pellucid and left no confusion about each party’s responsibilities.
+</li>
+<li>Because the story was not written in a pellucid manner, its plot was difficult to understand.
+</li>
+<li>The poem was easy to understand because of its pellucid style.
+</li>
+<li>When the president broadcast his budget plan for the country, he revealed a pellucid plan that was clearly outlined.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-38" class="outline-2">
+<h2 id="sec-38"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/pelt-in-a-sentence/">Pelt</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>to beat or hit repeatedly</code>
+</p>
+
+<ul class="org-ul">
+<li>When I looked up at the tree, a squirrel took an acorn and acted like it would pelt me with it.
+</li>
+<li>A severe thunderstorm created hail that would pelt the windshield with such force that I thought it would crack.
+</li>
+<li>The Boston Massacre is believed to have started when one colonist decided to pelt a British soldier with a snowball.
+</li>
+<li>In dodgeball the objective is to pelt your opponents with a ball without the opponents catching it.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-39" class="outline-2">
+<h2 id="sec-39"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/penance-in-a-sentence/">Penance</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>self-inflicted punishment for a misdeed</code>
+</p>
+
+<ul class="org-ul">
+<li>The priest told me to say twenty Hail Marys as a penance for my sins.
+</li>
+<li>Because April spent most of her teenage years mistreating her mother, she felt it was her penance to provide care for her when she became elderly.
+</li>
+<li>The man gave away all of his money to charity as penance for his greed.
+</li>
+<li>If you are a Christian, you believe Jesus paid the ultimate penance for everyone by dying on the cross.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-40" class="outline-2">
+<h2 id="sec-40"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/pendant-in-a-sentence/">Pendent</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>a piece of jewelry worn around the neck</code>
+</p>
+
+<ul class="org-ul">
+<li>The teenager had a rose gold pendent around her neck with a chain that hung low.
+</li>
+<li>I inherited a gold pendent necklace that had been passed down for many generations.
+</li>
+<li>The cross pendent around her neck was given to her on her first communion.
+</li>
+<li>Although the sliver pendent didn’t have much monetary value, it was a priceless necklace.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-41" class="outline-2">
+<h2 id="sec-41"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/pendulous-in-a-sentence/">Pendulous</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>hanging down</code>
+</p>
+
+<ul class="org-ul">
+<li>Due to the pendulous <b>flaps</b> on the oversized tablecloth, the cat would claw at it.
+</li>
+<li>The ladies of the Southern Magnolia Garden Club sat quietly beneath the pendulous branches of the old willow tree sipping mint juleps.
+</li>
+<li>Bethany’s heart sank when she noticed the pendulous petals on her rose and darkened color it had turned.
+</li>
+<li>Since Tara only had a queen-sized <b>comforter</b> <code>厚被子</code> to put on the twin bed, the pendulous sides hung to the floor.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-42" class="outline-2">
+<h2 id="sec-42"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/pendulum-in-a-sentence/">Pendulum</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>something hanging and swinging freely back and forth under the influence of gravity</code>
+</p>
+
+<ul class="org-ul">
+<li>When the pendulum clock strikes twelve, it produces a heavy <b>clanging</b>.
+</li>
+<li>When a pendulum reaches the limit of its swing, it stays <b>put</b> <code>不动</code> <b>for a split second</b> <code>一瞬间</code>.
+</li>
+<li>Politically speaking, the pendulum has swung so far to the left that it must reverse trend.
+</li>
+<li>Janet’s hair mimics the swinging of a pendulum when she goes out for a run.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-43" class="outline-2">
+<h2 id="sec-43"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/penury-in-a-sentence/">Penury</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>extreme poverty</code>
+</p>
+
+<ul class="org-ul">
+<li>My uncle wasted his fortune and died in penury.
+</li>
+<li>When Margot lost all her money gambling, her family was forced to live in penury.
+</li>
+<li>Jason foolishly went from a lifestyle of wealth and privilege to one of penury and starvation.
+</li>
+<li>If you don’t start to save money, you will spend your final years in penury!
+</li>
+<li>Everyone wants to know how the president plans on helping homeless families who are living in penury right now.
+</li>
+<li>Once Ann’s bank account was completely drained, she found herself in penury and in need of financial assistance.
+</li>
+<li>The selfish dictator is not concerned about his citizens who live and die in penury.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-44" class="outline-2">
+<h2 id="sec-44"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/perambulate-in-a-sentence/">Perambulate</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>to travel over, especially on foot</code>
+</p>
+
+<ul class="org-ul">
+<li>They decided to take a short cut and perambulate over the large hill.
+</li>
+<li>Everyone was intrigued when the man decided to perambulate across country.
+</li>
+<li>When their car broke down, the passengers had to perambulate to the nearest gas station.
+</li>
+<li>In order to perambulate the long tour, they invested in expensive walking shoes.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-45" class="outline-2">
+<h2 id="sec-45"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/perch-in-a-sentence/">Perch</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>to settle or land on a raised area or site</code>
+</p>
+
+<ul class="org-ul">
+<li>The birds commonly perch on the strong cable wire before diving down to the ground below.
+</li>
+<li>Squirrels would perch on the rooftop in order to analyze their surroundings for food on the ground.
+</li>
+<li>After weeks of training, the trainer was able to get the small lizard to perch on my finger for a few seconds.
+</li>
+<li>When a fly would perch on the rim of my glass, I would <b>swat it off</b> only for another fly to replace him.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-46" class="outline-2">
+<h2 id="sec-46"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/percolate-in-a-sentence/">Percolate</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>to gradually penetrate</code>
+</p>
+
+<ul class="org-ul">
+<li>During the gas leak, the fumes seemed to percolate the entire house.
+</li>
+<li>The light from the rising sun has started to percolate the dark forest.
+</li>
+<li>Even though the rumor is not true, eventually it will percolate the school.
+</li>
+<li>It didn’t take long for the blood to percolate the bandage.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-47" class="outline-2">
+<h2 id="sec-47"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/peremptory-in-a-sentence/">Peremptory</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>used to describe an order, command, etc., that you must obey without any questions or excuses</code>
+</p>
+
+<ul class="org-ul">
+<li>In a peremptory tone, the flight attendant told the passenger to either fasten his seatbelt or get off the plane.
+</li>
+<li>The general gave the troops a peremptory order they had to obey.
+</li>
+<li>Because Jack did not like following orders, he found it difficult to listen to his teacher’s peremptory instructions.
+</li>
+<li>The prison guard spoke to the inmate in a peremptory tone.
+</li>
+<li>When I was in high school, my mother gave me a peremptory curfew that required me to be in the house at eleven o’clock.
+</li>
+<li>The lawyer used his last peremptory strike to have an unfriendly juror removed from the case.
+</li>
+<li>To the nun, the <b>Ten Commandments</b> are peremptory rules that must be obeyed at all times.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-48" class="outline-2">
+<h2 id="sec-48"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/perfidy-in-a-sentence/">Perfidy</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>behavior that shows that someone cannot be trusted</code>
+</p>
+
+<ul class="org-ul">
+<li>Because my husband’s perfidy hurt me terribly, I served him with divorce papers.
+</li>
+<li>The evil witch is such a cruel woman that there is no perfidy beyond her imagination.
+</li>
+<li>When the soldier’s perfidy against the government was brought to light, people all over the country called for the man to be executed.
+</li>
+<li>The disgruntled curator was accused of perfidy after the robbery was determined to be an inside job.
+</li>
+<li>If you do business with criminals, you should not be shocked when their perfidy comes back to you in the form of a bullet in the back.
+</li>
+<li>Lester was arrested for corporate perfidy after it was discovered he had stolen three million dollars from one of the accounts.
+</li>
+<li>Because my brother was the one who attacked me, I knew I could never forget the perfidy of the incident.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-49" class="outline-2">
+<h2 id="sec-49"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/perforate-in-a-sentence/">Perforate</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>to pierce or penetrate and make holes in</code>
+</p>
+
+<ul class="org-ul">
+<li>If she would perforate the paper, she would be able to place it in her notebook rings.
+</li>
+<li>Scared that the knife would perforate her skin, the woman was always cautious while cutting.
+</li>
+<li>Although its main use was to perforate wood, the awl can be used to make holes in leather as well.
+</li>
+<li>A swift kick caused the ball to perforate the net and the game was paused until they found a new one.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-50" class="outline-2">
+<h2 id="sec-50"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/peril-in-a-sentence/">Peril</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>grave and imminent danger</code>
+</p>
+
+<ul class="org-ul">
+<li>Since your life is in peril, I suggest you run!
+</li>
+<li>To avoid peril, Helen should leave her house before the hurricane gets any closer to shore.
+</li>
+<li>Although Pat knew he was possibly putting his life in peril by enlisting in the military, he wanted to help protect his country.
+</li>
+<li>Everyone knows drinking poison is an act that will put your life in peril.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-51" class="outline-2">
+<h2 id="sec-51"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/peripheral-in-a-sentence/">Peripheral</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>relating to minor matters</code>
+</p>
+
+<ul class="org-ul">
+<li>The boss is too concerned about peripheral issues that do not matter to notice our sales are at an <b>all-time</b> <code>创纪录的</code> low.
+</li>
+<li>As the president of the company, Glen usually focuses on the major issues and passes the peripheral matters to his vice-presidents.
+</li>
+<li>Do not spend too much time on the peripheral questions because they are only worth ten percent of the test grade.
+</li>
+<li>Despite the loss of a few peripheral functions, the airplane will still be able to land safely.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-52" class="outline-2">
+<h2 id="sec-52"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/perish-in-a-sentence/">Perish</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>pass away; rot or decay</code>
+</p>
+
+<ul class="org-ul">
+<li>Without enough lifejackets, someone might perish at sea.
+</li>
+<li>We searched for a vaccination, fearing that we would perish by the plague.
+</li>
+<li>Jessica hates to stock up on vegetables because they tend to perish quickly.
+</li>
+<li><b>Perish the thought</b> <code>打消念头</code> of us dying in an accident!
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-53" class="outline-2">
+<h2 id="sec-53"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/perjury-in-a-sentence/">Perjury</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>giving false testimony after swearing to state the truth</code>
+</p>
+
+<ul class="org-ul">
+<li>During his testimony, Jim committed perjury when he misled the court about his wife’s whereabouts.
+</li>
+<li>John was warned by the judge to tell the truth or else be arrested for perjury.
+</li>
+<li>Because Ann was not honest about her participation in the murder, she was sentenced to extra time in prison for committing perjury.
+</li>
+<li>The mother who lied about her son's whereabouts will soon face trial for perjury.
+</li>
+<li>Since the politician deceived the investigator about his use of campaign funds, he is under investigation for perjury.
+</li>
+<li>Oscar was charged with perjury for giving false statements to the grand jury.
+</li>
+<li>While Rick did not participate in the crime, he is being charged with perjury because he lied under oath in order to protect his friends.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-54" class="outline-2">
+<h2 id="sec-54"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/perk-in-a-sentence/">Perk</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>a bonus or incentive</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the perk to working at the restaurant was the free meals, the young man decided to take this job.
+</li>
+<li>As the boy walked into his favorite teacher’s classroom, he realized that it was a perk to have his best friend in the same class with him.
+</li>
+<li>After witnessing the stress placed on a president, having access to a personal chef seemed to be the best perk of the job.
+</li>
+<li>The Hawks were a solid team for the tournament, but the perk for them was getting to play every tournament game on their home field.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-55" class="outline-2">
+<h2 id="sec-55"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/persiflage-in-a-sentence/">Persiflage</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>dialogue that is joking and playful</code>
+</p>
+
+<ul class="org-ul">
+<li>Since you used persiflage, I knew you were joking about my appearance.
+</li>
+<li>Everyone thought the persiflage between the actor and his wife was a hilarious conversation.
+</li>
+<li>At first Ted was worried about the persiflage between his daughters, but then he realized they were teasing each other.
+</li>
+<li>The friends who were engaged in persiflage could not stop laughing at their own funny comments.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-56" class="outline-2">
+<h2 id="sec-56"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/persnickety-in-a-sentence/">Persnickety</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>being overly focused on small details</code>
+</p>
+
+<ul class="org-ul">
+<li>The persnickety housewife couldn’t stand for anything to be out of place in her perfect home.
+</li>
+<li>My boss’s persnickety personality causes her to micromanage the entire office, always wanting to make every little decision herself.
+</li>
+<li>Our persnickety English teacher picked our essays apart, correcting almost every single line.
+</li>
+<li>The picky eater is persnickety about his food and refuses to eat a steak that is <b>anything less than</b> <code>不是</code> well done.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-57" class="outline-2">
+<h2 id="sec-57"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/pertinacious-in-a-sentence/">Pertinacious</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>firm on achieving a task</code>
+</p>
+
+<ul class="org-ul">
+<li>The pertinacious girl would not stop trying to sell cookies to the toothless man.
+</li>
+<li>Because I am pertinacious, I will not stop until I have achieved my goals.
+</li>
+<li>The pertinacious actress chained herself to a tree to bring attention to her environmental fight.
+</li>
+<li>Although Elise has failed her driver’s test six times, her pertinacious spirit will not allow her to stop trying.
+</li>
+<li>The pertinacious debater would not <b>back down</b> <code>打退堂鼓，放弃原主张</code> from the argument.
+</li>
+<li>Even when the pertinacious athlete fell out of his wheelchair, he continued to crawl towards the finish line.
+</li>
+<li>Jack is a pertinacious salesman who refuses to leave a home without a sale.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-58" class="outline-2">
+<h2 id="sec-58"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/peruse-in-a-sentence/">Peruse</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>to read or examine carefully; to look over casually</code>
+</p>
+
+<ul class="org-ul">
+<li>Peruse the manual to set up your television.
+</li>
+<li>To see what entrées we have to offer this evening, peruse our menu.
+</li>
+<li>Many employers will peruse an employee's Facebook profile to what he/she does online.
+</li>
+<li>I have included reference material in your packet to peruse.
+</li>
+<li>The judge will want to peruse your incident report, so don't forget to bring it!
+</li>
+<li>Peruse the footnotes for additional commentary.
+</li>
+<li>I am sitting in a waiting room with no magazine to peruse!
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-59" class="outline-2">
+<h2 id="sec-59"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/perverse-in-a-sentence/">Perverse</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>not normal or proper</code>
+</p>
+
+<ul class="org-ul">
+<li>The serial killer found perverse pleasure in every murder he committed.
+</li>
+<li>What kind of perverse person would harm a small child?
+</li>
+<li>The <b>psychopath</b> gets a perverse sense of enjoyment from torturing animals.
+</li>
+<li>Although I tried not to hold a grudge, I felt perverse joy when I learned my mean supervisor had been fired.
+</li>
+<li>Ann’s perverse view of a healthy relationship involves <b>bondage and whips</b> <code>（以捆绑寻求性快感的）性虐待癖</code>.
+</li>
+<li>Since Lester has a perverse sense of humor, he should not tell his jokes around young people.
+</li>
+<li>The perverse woman kept a collection of her clipped toenails in a jar in her refrigerator.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-60" class="outline-2">
+<h2 id="sec-60"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/pester-in-a-sentence/">Pester</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>to bother someone with several questions or requests to the point that it becomes a point of anger</code>
+</p>
+
+<ul class="org-ul">
+<li>Brian hated when his annoying little cousin visited because he liked to pester him with a hundred questions.
+</li>
+<li>The teacher created detailed lesson plans with examples so that her students wouldn't pester her with questions about the assignment.
+</li>
+<li>Teenagers often pester their parents to cook them food, drive them places, or give them money.
+</li>
+<li>Bruce wished his sister wouldn't pester him with requests to play dolls so that he could get him homework done.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-61" class="outline-2">
+<h2 id="sec-61"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/pestilent-in-a-sentence/">Pestilent</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>producing irritation</code>
+</p>
+
+<ul class="org-ul">
+<li>Because John has a pestilent personality, he annoys many of the kids in his class.
+</li>
+<li>The pestilent vapors from the nuclear plant are causing skin rashes on local citizens.
+</li>
+<li>To many individuals, homeless beggars are <b>nothing more than</b> <code>只不过是</code> pestilent irritants.
+</li>
+<li>No matter what I do the pestilent squirrels keep invading my garden.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-62" class="outline-2">
+<h2 id="sec-62"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/pestle-in-a-sentence/">Pestle</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>handheld tool used to grind or crush substances up</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to get the dog to take his medicine, the owner had to crush the pill with a pestle.
+</li>
+<li>Most science lab kits come with a <b>mortar and pestle</b> in order to grind things down.
+</li>
+<li>Because of the size of the pill, I decided to use a pestle to break it into small chunks.
+</li>
+<li>In the science lab, the students crushed the substance into a powder using a mortar and pestle.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-63" class="outline-2">
+<h2 id="sec-63"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/petition-in-a-sentence/">Petition</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>an official document that makes a request and is signed by supporters</code>
+</p>
+
+<ul class="org-ul">
+<li>A nonviolent way to protest a law is by signing a petition requesting the annulment of the law.
+</li>
+<li>Because the petition did not receive the required number of signatures, it will not be brought before a council vote.
+</li>
+<li>Many people have endorsed the petition to save the old church.
+</li>
+<li>Although the execution is set for tonight, the Christian organization is still accepting signatures on its petition to halt the sentence.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-64" class="outline-2">
+<h2 id="sec-64"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/petrify-in-a-sentence/">Petrify</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>to scare someone into inaction</code>
+</p>
+
+<ul class="org-ul">
+<li>Because heights petrify me, I will never get on a plane.
+</li>
+<li>The terrorist group tries to petrify the public by showing gruesome videos.
+</li>
+<li>When the kidnappers mailed the bloody finger, they hoped to petrify the hostage’s family into not going to the police.
+</li>
+<li>The scary zombie is sure to petrify young haunted house visitors.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-65" class="outline-2">
+<h2 id="sec-65"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/petty-in-a-sentence/">Petty</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>small and insignificant</code>
+</p>
+
+<ul class="org-ul">
+<li>The officer did not arrest the teen for the petty crime.
+</li>
+<li>Even though the argument was petty, it still caused a major rift in Kelly and Jill’s friendship.
+</li>
+<li>Do not let a petty grudge make you spend your life ignoring someone who could be one of your best friends.
+</li>
+<li>Murder is not viewed as a petty crime.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-66" class="outline-2">
+<h2 id="sec-66"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/petulance-in-a-sentence/">Petulance</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>characterized by being bad-tempered and unreasonable, especially because you cannot do or have what you want</code>
+</p>
+
+<ul class="org-ul">
+<li>After <b>getting a shot</b> <code>打一针</code>, the infant showed increased signs of petulance and would not stop crying.
+</li>
+<li>Symptoms of migraines include pain, blurred vision, and petulance.
+</li>
+<li>Because Carrie’s petulance caused her to always be in a bad mood, nobody wanted to be around her.
+</li>
+<li>John’s petulance made him dislike all the things he normally favored.
+</li>
+<li>After being fouled out of the basketball game, the player displayed his petulance by kicking over a chair.
+</li>
+<li>When Travis was going through <b>alcohol withdrawal</b> <code>戒酒</code>, his feelings of petulance scared off his family.
+</li>
+<li>Miley had a look of petulance on her face when a fan interrupted her meal to ask for an autograph.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-67" class="outline-2">
+<h2 id="sec-67"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/phantom-in-a-sentence/">Phantom</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>a ghost</code>
+</p>
+
+<ul class="org-ul">
+<li>In her dream, Suzan was attempting to flee from a phantom that kept on getting closer, but for some reason she could not run away.
+</li>
+<li>Craig believed that a phantom had descended into his bottle of wine and that if he would drink it he would hallucinate.
+</li>
+<li>We heard terrifying sounds coming from the hermit’s house, convincing us that a phantom had <b>taken up</b> <code>占据</code> residence there.
+</li>
+<li>Laura thinks that a phantom entered Todd’s body, and is projecting itself through his face.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-68" class="outline-2">
+<h2 id="sec-68"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/philology-in-a-sentence/">Philology</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>the study of historical prose, poetry and linguistic fields</code>
+</p>
+
+<ul class="org-ul">
+<li>After taking my courses in Philology, Literature, Western Civilization and Poetry, I was ready to get my English and History degrees.
+</li>
+<li>My teacher of Philology explained the differences among a poem and a short story using authentic primary sources from the 18th century.
+</li>
+<li>When the girl wanted to learn about the history of her town, she took a short course in Philology and read many true ghost stories that took place there.
+</li>
+<li>The security officer showed the couple to the room labeled “philology” so they could find the written records of the local authors.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-69" class="outline-2">
+<h2 id="sec-69"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/phony-in-a-sentence/">Phony</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>fraudulent; fake; having a misleading appearance</code>
+</p>
+
+<ul class="org-ul">
+<li>Although the man claimed to be a doctor, no one was fooled by that glib phony.
+</li>
+<li>Fran warned us not to believe anything that Mark has to say because he is a phony who cannot be trusted.
+</li>
+<li>I warned the group not to be <b>swayed</b> by Rick’s good looks, because he really is a phony who will not keep any of his political promises.
+</li>
+<li>Derrick is a highly professional jeweler who can tell the difference between a real and a phony piece of jewelry in seconds.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-70" class="outline-2">
+<h2 id="sec-70"><span class="section-number-2">70</span> <a href="https://wordsinasentence.com/picayune-in-a-sentence/">Picayune</a></h2>
+<div class="outline-text-2" id="text-70">
+<p>
+<code>insignificant; small</code>
+</p>
+
+<ul class="org-ul">
+<li>While twenty dollars may seem like a picayune sum to you, it is a fortune to a starving person.
+</li>
+<li>Jim was not upset because he lost only a picayune amount of money at the casino.
+</li>
+<li>In the big scheme of life, the death of a single ant seems picayune.
+</li>
+<li>The hotel manager hates to deal with customers who complain about picayune issues like tiny wrinkles in their bed sheets.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-71" class="outline-2">
+<h2 id="sec-71"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/pictorial-in-a-sentence/">Pictorial</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>to be expressed in pictures</code>
+</p>
+
+<ul class="org-ul">
+<li>The pictorial novel was a hit with people who disliked reading and enjoyed looking at pictures.
+</li>
+<li>As she looked through the pictorial magazine, she was impressed at how much emotion was conveyed through the photographs.
+</li>
+<li>The pictorial book called, “The Red Book” is a popular children’s book with no words inside.
+</li>
+<li>A short pictorial article exposing the politician’s affair ruined the reputation of the politician.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-72" class="outline-2">
+<h2 id="sec-72"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/piddling-in-a-sentence/">Piddling</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>useless petty and trivial</code>
+</p>
+
+<ul class="org-ul">
+<li>I am tired of your petty piddling questions that have nothing to do with the issue at hand.
+</li>
+<li>The students wasted valuable class time piddling around during time designated for a project.
+</li>
+<li>Mom was piddling around the kitchen all day, but there is still nothing cooked.
+</li>
+<li>Your piddling income couldn’t even cover a week’s worth of groceries.
+</li>
+<li>Amy tends to get upset of the most piddling things, crying and carrying on about nothing.
+</li>
+<li>The pedestrian dropped his change in the sewer, but losing such a piddling sum of money was no big deal.
+</li>
+<li>Lisa claims that she wants to lose weight but offers piddling and trivial excuses every time I invite her to the gym.
+</li>
+<li>Compared to the millionaire’s enormous bank roll, the small amount of taxes he has to pay seems like a piddling amount.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-73" class="outline-2">
+<h2 id="sec-73"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/piecemeal-in-a-sentence/">Piecemeal</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>made bit by bit</code>
+</p>
+
+<ul class="org-ul">
+<li>Building the pyramids took years because the required effort was extensive and required piecemeal progress.
+</li>
+<li>Despite the public’s cries for a federal investigation into police brutality, the government’s response has been slow and piecemeal at best.
+</li>
+<li>With our internal struggles, we shall destroy our nation piecemeal without assistance from other countries.
+</li>
+<li>Using the piecemeal approach, we are not going to be able to complete this project by the deadline.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-74" class="outline-2">
+<h2 id="sec-74"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/pied-in-a-sentence/">Pied</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>pied means having two or more different colors</code>
+</p>
+
+<ul class="org-ul">
+<li>The young children rode the tan and brown pied colored pony at the birthday party.
+</li>
+<li>Our new addition is a pied yellow and red mixed breed puppy.
+</li>
+<li>The piglet’s pied tail was an adorable combination of pink and grey.
+</li>
+<li>Although the father’s coat was pure solid brown, the mother’s was pied.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-75" class="outline-2">
+<h2 id="sec-75"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/pierce-in-a-sentence/">Pierce</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>to make a hole in something with a sharp object</code>
+</p>
+
+<ul class="org-ul">
+<li>The native used a spear to pierce the fish swimming in the stream.
+</li>
+<li>Using a needle to pierce her ear caused the girl a lot of pain.
+</li>
+<li>A nail was not strong enough to pierce the <b>wall stud</b> <code>管线支架</code>.
+</li>
+<li>Without a way to pierce the fabric, the designer had to come up with a design that did not call for perforation.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-76" class="outline-2">
+<h2 id="sec-76"><span class="section-number-2">76</span> <a href="https://wordsinasentence.com/pigment-in-a-sentence/">Pigment</a></h2>
+<div class="outline-text-2" id="text-76">
+<p>
+<code>a natural substance that gives color to something else</code>
+</p>
+
+<ul class="org-ul">
+<li>The paint store was unable to match the pigment sample.
+</li>
+<li>In art class, we learned how to mix pigment on our pallets.
+</li>
+<li>The hairstylist poured pigment into the container to create the desired hair dye color.
+</li>
+<li>After I cut up the beets, I realized they left a red pigment on my fingers.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-77" class="outline-2">
+<h2 id="sec-77"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/pillage-in-a-sentence/">Pillage</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>to take by force, normally during a war or battle</code>
+</p>
+
+<ul class="org-ul">
+<li>The general was a decent man and did not allow any of his soldiers to pillage items from towns they invaded.
+</li>
+<li>During the race riot, many citizens were arrested as they tried to break into local stores and pillage expensive goods.
+</li>
+<li>The greedy soldiers needed several trucks to transport all the goods they had managed to pillage during the war.
+</li>
+<li>Without a leader, the troops took the opportunity to pillage gold coins and jewelry from every town through which they travelled.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-78" class="outline-2">
+<h2 id="sec-78"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/pinch-in-a-sentence/">Pinch</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>to tightly grip using a finger and thumb</code>
+</p>
+
+<ul class="org-ul">
+<li>Since his body fat percentage is six percent, you can’t pinch an inch from his waist.
+</li>
+<li>Fold the dough, and pinch it with your fingers to seal it together.
+</li>
+<li>Sometimes I want to pinch myself to see if I’m living in a dream.
+</li>
+<li>Cade was crying because his twin brother would pinch and hit him every time he tried to play with him.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-79" class="outline-2">
+<h2 id="sec-79"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/piquant-in-a-sentence/">Piquant</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>appealing or delightful</code>
+</p>
+
+<ul class="org-ul">
+<li>We were thrilled when we arrived at the piquant bed and breakfast on our honeymoon night.
+</li>
+<li>As the man eyed the lovely woman, he could not help but enjoy her piquant appearance.
+</li>
+<li>I found the piquant picture so appealing that I readily paid the photographer’s high asking price.
+</li>
+<li>Although the woman was not physically attractive, her piquant personality made her a pleasant companion.
+</li>
+<li>The piquant bouquet of white and pink roses made me forget about my husband’s late arrival.
+</li>
+<li>As John walked past the bakery, the piquant aroma of the baked goods tempted him.
+</li>
+<li>The reality show’s record number of viewers proves teenagers find the outrageous show to be very piquant.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-80" class="outline-2">
+<h2 id="sec-80"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/pique-in-a-sentence/">Pique</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>to trigger curiosity or interest</code>
+</p>
+
+<ul class="org-ul">
+<li>Hopefully the movie trailer will pique the interest of moviegoers and motivate them to buy tickets to see the film.
+</li>
+<li>The mysterious stain on the church wall is sure to pique the curiosity of a number of religious fanatics.
+</li>
+<li>In a messy crime scene like this one, it is doubtful the detective will find a clue to pique his attention.
+</li>
+<li>Publishers use book <b>blurbs</b> <code>书的宣传语</code> to pique the curiosity of readers.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-81" class="outline-2">
+<h2 id="sec-81"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/pirouette-in-a-sentence/">Pirouette</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>a ballet move that requires spinning on foot with the raised foot pressed against your knee</code>
+</p>
+
+<ul class="org-ul">
+<li>The pirouette is a famous spin move used in both ballet and figure skating.
+</li>
+<li>A dedicated ballerina practices the pirouette every day.
+</li>
+<li>Executing a successful pirouette requires very good balance.
+</li>
+<li>The pirouette is a dance move most commonly performed by ballerinas.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-82" class="outline-2">
+<h2 id="sec-82"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/piteous-in-a-sentence/">Piteous</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>provoking pity</code>
+</p>
+
+<ul class="org-ul">
+<li>After being stuck in the rain all night, the puppy looked piteous.
+</li>
+<li>The cries of the wounded animal were piteous so I was happy when the veterinarian <b>put him to rest</b> <code>使安息</code>.
+</li>
+<li>When I saw the piteous homeless man, I gave him all the money I had in my wallet.
+</li>
+<li>The piteous woman begged her doctor to give her something for pain.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-83" class="outline-2">
+<h2 id="sec-83"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/pith-in-a-sentence/">Pith</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>spongy tissue in animals and plants</code>
+</p>
+
+<ul class="org-ul">
+<li>The heart of a watermelon is the best part because the pith tastes the best.
+</li>
+<li>Since I don’t like orange pith, I purchase non-pulp orange juice from the grocery store.
+</li>
+<li>Because the center of the meat is raw, make sure the pith isn’t bloody when served.
+</li>
+<li>Soft melon pith is the opposite of hard peeling.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-84" class="outline-2">
+<h2 id="sec-84"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/pitiless-in-a-sentence/">Pitiless</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>ruthless, unmerciful, and without remorse</code>
+</p>
+
+<ul class="org-ul">
+<li>The judge was pitiless when sentencing the murderer to the death penalty.
+</li>
+<li>Operating with a pitiless conscience, the thieves robbed innocent people at gunpoint.
+</li>
+<li>No animal deserves to be treated in such a harsh, cruel and pitiless manner.
+</li>
+<li>The chef received pitiless scrutiny on the flavorless dish as reviewed by the food critic.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-85" class="outline-2">
+<h2 id="sec-85"><span class="section-number-2">85</span> <a href="https://wordsinasentence.com/pittance-in-a-sentence/">Pittance</a></h2>
+<div class="outline-text-2" id="text-85">
+<p>
+<code>a tiny amount of something</code>
+</p>
+
+<ul class="org-ul">
+<li>The housekeeper was unable to pay her bills with the pittance her employers paid her.
+</li>
+<li>As a cashier, the single mother earns a pittance that barely permits her to buy food for her children.
+</li>
+<li>The pittance the homeless man makes from selling scrap metal allows him to eat every other day.
+</li>
+<li>Because Jared was unsatisfied with the pittance his parents gave him each week, he started a dog walking business to earn extra cash.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-86" class="outline-2">
+<h2 id="sec-86"><span class="section-number-2">86</span> <a href="https://wordsinasentence.com/pivot-in-a-sentence/">Pivot</a></h2>
+<div class="outline-text-2" id="text-86">
+<p>
+<code>to turn or rotate on a fixed point</code>
+</p>
+
+<ul class="org-ul">
+<li>During the recital, the ballerinas pivot on their tiptoes simultaneously to the speed of the music.
+</li>
+<li>A broken clock’s hand would continuously pivot around the numbers and it seemed it would never stop.
+</li>
+<li>Based on the teacher’s instructions, we would make the pencil in the compass pivot nonstop so the circle kept getting darker.
+</li>
+<li>The children’s game required a child to constantly pivot around the other children until they became dizzy.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-87" class="outline-2">
+<h2 id="sec-87"><span class="section-number-2">87</span> <a href="https://wordsinasentence.com/plait-in-a-sentence/">Plait</a></h2>
+<div class="outline-text-2" id="text-87">
+<p>
+<code>braid</code>
+</p>
+
+<ul class="org-ul">
+<li>The young woman ahead of me in line wore her hair with a plait running down her back and tied at the end.
+</li>
+<li>After combing Patty’s hair smooth, her mother fixed a tiny plait of hair on either side of her head.
+</li>
+<li>Deciding to have an informal wedding, the bride wore a plait in her hair intertwining it with baby’s breath.
+</li>
+<li>Many cowgirls are known to wear a plait in their hair so that it doesn’t get in their way when riding in the rodeo.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-88" class="outline-2">
+<h2 id="sec-88"><span class="section-number-2">88</span> <a href="https://wordsinasentence.com/plateau-in-a-sentence/">Plateau</a></h2>
+<div class="outline-text-2" id="text-88">
+<p>
+<code>a time or point where no advancement is made</code>
+</p>
+
+<ul class="org-ul">
+<li>Since my weight loss has hit a plateau, I need to increase my workout to start losing weight again.
+</li>
+<li>Once the ticket sales reached a plateau, we had to reduce the price in order to attract more buyers.
+</li>
+<li>Ellen knew she had reached her plateau at her company when she failed to get promoted after five years of hard work.
+</li>
+<li>No matter how fast Mark ran he could not get past the plateau of his fastest running time.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-89" class="outline-2">
+<h2 id="sec-89"><span class="section-number-2">89</span> <a href="https://wordsinasentence.com/platonic-in-a-sentence/">Platonic</a></h2>
+<div class="outline-text-2" id="text-89">
+<p>
+<code>describing a relationship without sexual intimacy</code>
+</p>
+
+<ul class="org-ul">
+<li>My partnership with Alice is strictly platonic because we are both happily married to other people.
+</li>
+<li>In a platonic relationship, the individuals don’t engage in sexual activities.
+</li>
+<li>Frank and Lisa have a platonic bond not an intimate one.
+</li>
+<li>While Sam and Linda were once married, they are now divorced and have only a platonic relationship.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-90" class="outline-2">
+<h2 id="sec-90"><span class="section-number-2">90</span> <a href="https://wordsinasentence.com/plaudit-in-a-sentence/">Plaudit</a></h2>
+<div class="outline-text-2" id="text-90">
+<p>
+<code>a showing of approval or applause</code>
+</p>
+
+<ul class="org-ul">
+<li>As my daughter accepted her award, she <b>blushed</b> <code>脸红</code> upon hearing the principal’s gracious plaudit.
+</li>
+<li>When the shy teenager heard the applause, she had no idea she was receiving a plaudit for her charitable efforts.
+</li>
+<li>The soldier refused to accept a plaudit for his bravery because he felt he was simply performing his duty.
+</li>
+<li>During the award show, a local filmmaker received one plaudit after another for his outstanding short film.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-91" class="outline-2">
+<h2 id="sec-91"><span class="section-number-2">91</span> <a href="https://wordsinasentence.com/plead-in-a-sentence/">Plead</a></h2>
+<div class="outline-text-2" id="text-91">
+<p>
+<code>to make a case for</code>
+</p>
+
+<ul class="org-ul">
+<li>The <b>first time offender</b> <code>初犯</code> will plead for a short prison sentence.
+</li>
+<li>Did you plead for leniency when your father grounded you?
+</li>
+<li>If the defendant decides to <b>plead guilty</b> <code>认罪</code>, he may receive a lighter consequence from the judge.
+</li>
+<li>The legislator denies all the charges and insists he will <b>plead not guilty</b> in court.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-92" class="outline-2">
+<h2 id="sec-92"><span class="section-number-2">92</span> <a href="https://wordsinasentence.com/plebeian-in-a-sentence/">Plebeian</a></h2>
+<div class="outline-text-2" id="text-92">
+<p>
+<code>not worthy of the upper classes; ordinary</code>
+</p>
+
+<ul class="org-ul">
+<li>There is no way the plebeian could afford the country club’s expensive dues.
+</li>
+<li>During the formal event, the plebeian looked out of place because she was not wearing a formal gown.
+</li>
+<li>The millionaire called the hotel a plebeian accommodation because it did not offer room service.
+</li>
+<li>When the judge announced the hefty fine, the plebeian was horrified because he did not have a source of income.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-93" class="outline-2">
+<h2 id="sec-93"><span class="section-number-2">93</span> <a href="https://wordsinasentence.com/pledge-in-a-sentence/">Pledge</a></h2>
+<div class="outline-text-2" id="text-93">
+<p>
+<code>a promise</code>
+</p>
+
+<ul class="org-ul">
+<li>I made a pledge that I would go on a date with him, so I can't back out now.
+</li>
+<li>Mike pledged and swore to abide by the rules of the school.
+</li>
+<li>Government officials <b>pledge and swear</b> to uphold the laws of this institution.
+</li>
+<li>In this fraternity, we pledge to honor our legacy and brothers.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-94" class="outline-2">
+<h2 id="sec-94"><span class="section-number-2">94</span> <a href="https://wordsinasentence.com/plenary-in-a-sentence/">Plenary</a></h2>
+<div class="outline-text-2" id="text-94">
+<p>
+<code>attended by all members of a group</code>
+</p>
+
+<ul class="org-ul">
+<li>At the plenary meeting, all shareholders can vote on the proposal.
+</li>
+<li>The plenary legislative session will be attended by members of both congressional houses.
+</li>
+<li>During the plenary faculty meeting, all teachers will have an opportunity to vote for the location of the holiday party.
+</li>
+<li>The school assembly is plenary and will cover dress code expectations for all grade levels.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-95" class="outline-2">
+<h2 id="sec-95"><span class="section-number-2">95</span> <a href="https://wordsinasentence.com/plenitude-in-a-sentence/">Plenitude</a></h2>
+<div class="outline-text-2" id="text-95">
+<p>
+<code>abundance, plenty</code>
+</p>
+
+<ul class="org-ul">
+<li>Despite a plenitude of money, the oil tycoon lived very economically.
+</li>
+<li>A plenitude of <b>bird seed</b> <code>鸟食</code> allowed the aviarist to feed many birds at once.
+</li>
+<li>Thanksgiving dinner is not complete without a plenitude of food to <b>feast on</b> <code>享受美食</code>.
+</li>
+<li>A plenitude of eager musicians lined up outside of the auditions.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-96" class="outline-2">
+<h2 id="sec-96"><span class="section-number-2">96</span> <a href="https://wordsinasentence.com/pleonasm-in-a-sentence/">Pleonasm</a></h2>
+<div class="outline-text-2" id="text-96">
+<p>
+<code>to use more words than necessary</code>
+</p>
+
+<ul class="org-ul">
+<li>His book was mostly pleonasm because half of it was filled with unnecessary wording.
+</li>
+<li>Instead of getting straight to the central idea, she used pleonasm because she thought more words made it better.
+</li>
+<li>Her pleonasm was a page-long definition, but it could be summed up as meaning “The sun is shining.”
+</li>
+<li>The editor read the four thousand page book and realized it was mostly pleonasm.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-97" class="outline-2">
+<h2 id="sec-97"><span class="section-number-2">97</span> <a href="https://wordsinasentence.com/plod-in-a-sentence/">Plod</a></h2>
+<div class="outline-text-2" id="text-97">
+<p>
+<code>to advance slowly through something</code>
+</p>
+
+<ul class="org-ul">
+<li>After having painful <b>cramps</b> <code>痉挛</code>, I could only plod through the race.
+</li>
+<li>My dog will plod back to the house after he wears himself out in the woods.
+</li>
+<li>Because Ted has to plod through boring accounting forms at work, he enjoys engaging in fun activities on the weekends.
+</li>
+<li>Rachel lost her balance as she attempted to plod through the heavy snow.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-98" class="outline-2">
+<h2 id="sec-98"><span class="section-number-2">98</span> <a href="https://wordsinasentence.com/ploy-in-a-sentence/">Ploy</a></h2>
+<div class="outline-text-2" id="text-98">
+<p>
+<code>a gimmick or strategy</code>
+</p>
+
+<ul class="org-ul">
+<li>The store used a <b>bait and switch</b> ploy to get customers to buy a more expensive item.
+</li>
+<li>If the prosecutor’s ploy does not work, a guilty man could go free.
+</li>
+<li>The lender’s ploy is to offer you more money than requested while <b>downplaying</b> <code>轻描淡写</code> the increased rate of  interest.
+</li>
+<li>Although Janice may fall for your romantic ploy and forgive you this time, it does not mean she will allow you to cheat on her again.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-99" class="outline-2">
+<h2 id="sec-99"><span class="section-number-2">99</span> <a href="https://wordsinasentence.com/plumber-in-a-sentence/">Plumber</a></h2>
+<div class="outline-text-2" id="text-99">
+<p>
+<code>a person who installs and repairs water supply and sanitation pipes</code>
+</p>
+
+<ul class="org-ul">
+<li>A plumber specializes in installing and maintaining systems used for water, sewage, and drainage.
+</li>
+<li>We paid the plumber $300 to unclog the pipes, and it took him 30 minutes to do so.
+</li>
+<li>A plumber is a craftsman who installs and repairs pipes, fixtures, and appliances.
+</li>
+<li>The school had to hire a plumber to repair a pipe that was clogged with a letterman jacket.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-100" class="outline-2">
+<h2 id="sec-100"><span class="section-number-2">100</span> <a href="https://wordsinasentence.com/plummet-in-a-sentence/">Plummet</a></h2>
+<div class="outline-text-2" id="text-100">
+<p>
+<code>to drop abruptly</code>
+</p>
+
+<ul class="org-ul">
+<li>When the housing bubble burst, many people saw their property values plummet.
+</li>
+<li>The increase in the bear population has caused the salmon population to plummet.
+</li>
+<li>Because the number of deer in the area has started to plummet, deer hunting has been temporarily banned.
+</li>
+<li>Experts predicted compact disc sales would plummet when the ability to download music became available.
+</li>
+<li>If the temperature begins to plummet, coat sales are sure to rise.
+</li>
+<li>Jill’s hopes for her husband’s safe return began to plummet when the police car <b>pulled into</b> <code>驶入</code> her driveway.
+</li>
+<li>When the economy improves, we can expect to see the unemployment rate plummet.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-101" class="outline-2">
+<h2 id="sec-101"><span class="section-number-2">101</span> <a href="https://wordsinasentence.com/plunder-in-a-sentence/">Plunder</a></h2>
+<div class="outline-text-2" id="text-101">
+<p>
+<code>to take forcefully usually during a time of disorder</code>
+</p>
+
+<ul class="org-ul">
+<li>During the protest riots, angry citizens began to plunder goods from closed stores.
+</li>
+<li>The thieves were arrested as they attempted to plunder the diamond necklace from the security guard.
+</li>
+<li>As the store manager walked to the bank, a man attacked him in an attempt to plunder the bank deposits.
+</li>
+<li>The pirates tried to <b>overtake</b> <code>赶超</code> the yacht so they could plunder the billionaire’s valuables.
+</li>
+<li>When the gang heard the old man kept thousands of dollars in his house, they decided to tie him up and plunder his money.
+</li>
+<li>The commanding officer will arrest any soldier who tries to plunder gold from the <b>fallen dictator’s</b> <code>下台的独裁者</code> mansion.
+</li>
+<li>As soon as the teens tried to plunder the ATM, an alarm sounded and sent them running from the scene.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-102" class="outline-2">
+<h2 id="sec-102"><span class="section-number-2">102</span> <a href="https://wordsinasentence.com/pluralistic-in-a-sentence/">Pluralistic</a></h2>
+<div class="outline-text-2" id="text-102">
+<p>
+<code>related to a system in which multiple things coexist together</code>
+</p>
+
+<ul class="org-ul">
+<li>The solar system is pluralistic in nature, having multiple celestial bodies operating within it.
+</li>
+<li>All computer systems are pluralistic, relying on multiple different pieces of technology to operate as a whole.
+</li>
+<li>Because there are multiple animals involved in every food chain, nearly all food chains are pluralistic in nature.
+</li>
+<li>Since nearly all systems that exist rely on another being or existence to function, nearly all systems are pluralistic.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-103" class="outline-2">
+<h2 id="sec-103"><span class="section-number-2">103</span> <a href="https://wordsinasentence.com/plush-in-a-sentence/">Plush</a></h2>
+<div class="outline-text-2" id="text-103">
+<p>
+<code>anything that is soft, comfortable, or luxurious</code>
+</p>
+
+<ul class="org-ul">
+<li>Taking a seat in the hotel lobby’s plush armchair, the tired traveler knew it would be impossible to stay awake much longer.
+</li>
+<li>Grabbing her plush robe and slippers, the heiress called for her assistant and headed towards the spa.
+</li>
+<li>Even without plush bedding, the mattress in the cozy cabin slept much better than expensive brands.
+</li>
+<li>Grasping the keys to the plush apartment, the young Wall Street banker was glad that his risky deals had paid off.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-104" class="outline-2">
+<h2 id="sec-104"><span class="section-number-2">104</span> <a href="https://wordsinasentence.com/poach-in-a-sentence/">Poach</a></h2>
+<div class="outline-text-2" id="text-104">
+<p>
+<code>to cook by simmering in a small quantity of liquid</code>
+</p>
+
+<ul class="org-ul">
+<li>Mom chose to poach the egg in a small amount of water instead of frying it in bacon grease.
+</li>
+<li>The chef decided to poach the peaches by slowly steaming them in white wine and fruit juice.
+</li>
+<li>Poach the steak by gently simmering it in beef broth, and serve it with gourmet herbed butter.
+</li>
+<li>First, we will poach the chicken by bringing it to a soft boil in well-seasoned chicken <b>broth</b> <code>高汤</code>.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-105" class="outline-2">
+<h2 id="sec-105"><span class="section-number-2">105</span> <a href="https://wordsinasentence.com/podiatrist-in-a-sentence/">Podiatrist</a></h2>
+<div class="outline-text-2" id="text-105">
+<p>
+<code>a foot doctor</code>
+</p>
+
+<ul class="org-ul">
+<li>The sandals model consulted a podiatrist to get the wart removed quickly before her next modeling job.
+</li>
+<li>As the ache in my arch continued, my podiatrist recommended that I remain immobile for the next few days.
+</li>
+<li>If you have calluses on your feet, any podiatrist would prescribe an ointment to cure the problem.
+</li>
+<li>Due to swelling, I realized I needed to ask a podiatrist what to do since my shoe didn’t fit anymore.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-106" class="outline-2">
+<h2 id="sec-106"><span class="section-number-2">106</span> <a href="https://wordsinasentence.com/polemic-in-a-sentence/">Polemic</a></h2>
+<div class="outline-text-2" id="text-106">
+<p>
+<code>a written or verbal attack on an individual or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>The political candidate posted a polemic on his blog that mocked his rival’s lack of <b>community service</b> <code>社区服务</code>.
+</li>
+<li>Because I do not like to become involved in the conflicts of others, I refuse to listen to my office mate’s polemic about another employee.
+</li>
+<li>The newspaper editor used his column to present a polemic that was a scathing attack against the city’s dishonest mayor.
+</li>
+<li>When the principal received an anonymous polemic about her leadership skills, she urged the writer to meet her face-to-face.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-107" class="outline-2">
+<h2 id="sec-107"><span class="section-number-2">107</span> <a href="https://wordsinasentence.com/ponderable-in-a-sentence/">Ponderable</a></h2>
+<div class="outline-text-2" id="text-107">
+<p>
+<code>something that is important enough to be contemplated</code>
+</p>
+
+<ul class="org-ul">
+<li>Many news reporters were covering the ponderable news stories that the country’s citizens would deem vital to their lives.
+</li>
+<li>John F. Kennedy stated many ponderable quotes that people still discuss today and students use in their essays.
+</li>
+<li>The teacher asked many ponderable questions during her lesson today that caused many students to think deeply about the topic.
+</li>
+<li>Since there was evidence that both proved his innocence and his guilt, the jury had a really ponderable matter to discuss.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-108" class="outline-2">
+<h2 id="sec-108"><span class="section-number-2">108</span> <a href="https://wordsinasentence.com/pontificate-in-a-sentence/">Pontificate</a></h2>
+<div class="outline-text-2" id="text-108">
+<p>
+<code>to speak in an arrogant tone, particularly for a long period</code>
+</p>
+
+<ul class="org-ul">
+<li>If you dare to question the professor, he will <b>give you an evil look</b> and then proceed to pontificate on a totally different subject.
+</li>
+<li>The students stopped listening when their teacher started to pontificate in a tone that implied they were stupid.
+</li>
+<li>Although we think the billionaire is an arrogant jerk, we always listen when he begins to pontificate about happenings in the stock market.
+</li>
+<li>How dare Heather open her mouth to pontificate about my relationship with John when she knows nothing about it!
+</li>
+<li>How many times have you sat at a bar and had to listen to a <b>drunkard</b> pontificate about his miserable marriage?
+</li>
+<li>When I learned my mother never graduated from high school, I could no longer <b>sit back</b> <code>袖手旁观</code> and listen to her pontificate about the value of an education.
+</li>
+<li>The interview was <b>cut short</b> <code>打断(讲话)</code> when the journalist started to pontificate about the celebrity’s drug addiction.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-109" class="outline-2">
+<h2 id="sec-109"><span class="section-number-2">109</span> <a href="https://wordsinasentence.com/portentous-in-a-sentence/">Portentous</a></h2>
+<div class="outline-text-2" id="text-109">
+<p>
+<code>foreboding, ominous, or threatening</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Jack generally expects the worst, his language is normally portentous and filled with warnings.
+</li>
+<li>Mark’s portentous voice made him the perfect narrator for the horror movie.
+</li>
+<li>When the portentous music warned us of the upcoming violence in the film, we all sat up straight in our seats.
+</li>
+<li>The actions of the portentous monster kept me interested in the otherwise boring play.
+</li>
+<li>Despite the fact the hero was surrounded by several portentous guys, he still refused to surrender.
+</li>
+<li>When the young girl heard the portentous thunder, she jumped into her father’s arms.
+</li>
+<li>The woman called the police and complained about the portentous man who would not stop following her.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-110" class="outline-2">
+<h2 id="sec-110"><span class="section-number-2">110</span> <a href="https://wordsinasentence.com/posit-in-a-sentence/">Posit</a></h2>
+<div class="outline-text-2" id="text-110">
+<p>
+<code>to offer as a suggestion</code>
+</p>
+
+<ul class="org-ul">
+<li>Since no other venue is available, I will posit my <b>condominium</b> <code>公寓</code> as a place for the company holiday party.
+</li>
+<li>The students were asked to posit their ideas about the dance through the school suggestion box.
+</li>
+<li>Before engaging in battle, the general will posit his war plans to the president.
+</li>
+<li>The press is waiting to hear the scientist posit his latest theory on molecular movement.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-111" class="outline-2">
+<h2 id="sec-111"><span class="section-number-2">111</span> <a href="https://wordsinasentence.com/potation-in-a-sentence/">Potation</a></h2>
+<div class="outline-text-2" id="text-111">
+<p>
+<code>the act of drinking a beverage, usually alcohol</code>
+</p>
+
+<ul class="org-ul">
+<li>As a <b>recovering alcoholic</b>, Jim decided to refrain from potation.
+</li>
+<li>Bars are such successful establishments because potation is such a popular vice.
+</li>
+<li>When it comes to potation, some people prefer beer while others prefer wine.
+</li>
+<li>People get drunk when they engage in too much potation.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-112" class="outline-2">
+<h2 id="sec-112"><span class="section-number-2">112</span> <a href="https://wordsinasentence.com/potentate-in-a-sentence/">Potentate</a></h2>
+<div class="outline-text-2" id="text-112">
+<p>
+<code>someone with unlimited power, usually a leader of a country or territory</code>
+</p>
+
+<ul class="org-ul">
+<li>Our president cannot become a potentate because he has to share his power with two other branches of government.
+</li>
+<li>If William plans on being a potentate and running the country on his own, he needs to become more convincing as a leader.
+</li>
+<li>King Henry made himself the potentate of his realm by killing anyone who dared to question his decisions.
+</li>
+<li>Since the dictator has his huge army behind him, he can behave as a potentate because no one will challenge his unrestricted power.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-113" class="outline-2">
+<h2 id="sec-113"><span class="section-number-2">113</span> <a href="https://wordsinasentence.com/pother-in-a-sentence/">Pother</a></h2>
+<div class="outline-text-2" id="text-113">
+<p>
+<code>a disturbance or commotion</code>
+</p>
+
+<ul class="org-ul">
+<li>The police are often called to investigate a pother in rural neighborhoods.
+</li>
+<li>Young children tend to cause a pother when they want or need attention from their parents.
+</li>
+<li>Wild animals will often flee from a pother caused by humans.
+</li>
+<li>Curious people will often investigate a pother if they don’t know what’s causing it.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-114" class="outline-2">
+<h2 id="sec-114"><span class="section-number-2">114</span> <a href="https://wordsinasentence.com/potpourri-in-a-sentence/">Potpourri</a></h2>
+<div class="outline-text-2" id="text-114">
+<p>
+<code>a collection of various things</code>
+</p>
+
+<ul class="org-ul">
+<li>New York City is a potpourri of various nationalities and religions.
+</li>
+<li>The avid reader enjoyed reading a potpourri of classical literature and newer works.
+</li>
+<li>Displaying a potpourri of various types of artwork set the museum above others in the area.
+</li>
+<li>The potpourri of events sprinkled throughout the city all supported breast cancer awareness.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-115" class="outline-2">
+<h2 id="sec-115"><span class="section-number-2">115</span> <a href="https://wordsinasentence.com/pouch-in-a-sentence/">Pouch</a></h2>
+<div class="outline-text-2" id="text-115">
+<p>
+<code>a typically flexible small bag used for storage of equally small objects</code>
+</p>
+
+<ul class="org-ul">
+<li>Ricky likes to keep his marbles in a small pouch so he doesn’t lose them.
+</li>
+<li>Some people use a pouch to hold their money instead of a wallet.
+</li>
+<li>A leather pouch is a great way to store shells you find at the beach.
+</li>
+<li>Some people would consider a purse to be a pouch.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-116" class="outline-2">
+<h2 id="sec-116"><span class="section-number-2">116</span> <a href="https://wordsinasentence.com/pound-in-a-sentence/">Pound</a></h2>
+<div class="outline-text-2" id="text-116">
+<p>
+<code>to hit or strike something with heavy force</code>
+</p>
+
+<ul class="org-ul">
+<li>Boxers pound away at each other as they try to knock out their opponent.
+</li>
+<li>You often have to pound tough meat with a <b>mallet</b> to tenderize it before cooking.
+</li>
+<li>When she was young, Mandy would often pound on her bed when she got angry or upset.
+</li>
+<li>A sculptor usually has to pound their clay so they can mold it more easily.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-117" class="outline-2">
+<h2 id="sec-117"><span class="section-number-2">117</span> <a href="https://wordsinasentence.com/prate-in-a-sentence/">Prate</a></h2>
+<div class="outline-text-2" id="text-117">
+<p>
+<code>talking for a long time without purpose</code>
+</p>
+
+<ul class="org-ul">
+<li>Even when the intoxicated woman was placed in the police car, she continued to prate until one of the officers yelled for her to be silent.
+</li>
+<li>Jill put on her headphones so she would not have to listen to Paige prate about her unhappy marriage.
+</li>
+<li>During his visits, my grandfather will sit in the big chair and prate about his life until he talks himself to sleep.
+</li>
+<li>My extremely religious aunt has been known to prate on and on about her beliefs.
+</li>
+<li>Helen had no interest in listening to the car salesman prate about the features of a car she could not afford.
+</li>
+<li>Since I am unhappily single, it is sometimes difficult for me to listen to my sister prate about her happy marriage.
+</li>
+<li>My husband walked out the front door as I started to prate about the late hours he was keeping.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-118" class="outline-2">
+<h2 id="sec-118"><span class="section-number-2">118</span> <a href="https://wordsinasentence.com/preamble-in-a-sentence/">Preamble</a></h2>
+<div class="outline-text-2" id="text-118">
+<p>
+<code>an opening announcement used to describe what is about to be read or said</code>
+</p>
+
+<ul class="org-ul">
+<li>The preamble of the international health organization summarizes the group’s purpose.
+</li>
+<li>At the start, the article’s preamble informs readers about the topics the author will discuss during his interview.
+</li>
+<li>The constitution’s preamble gives a brief summary of the principles that are clearly defined in the document of rights.
+</li>
+<li>As a preamble, the company president began the annual meeting by pointing out how well the firm exceeded its goals.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-119" class="outline-2">
+<h2 id="sec-119"><span class="section-number-2">119</span> <a href="https://wordsinasentence.com/precept-in-a-sentence/">Precept</a></h2>
+<div class="outline-text-2" id="text-119">
+<p>
+<code>a rule that sets the pattern for one’s behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>The school’s honesty precept dictates we only turn in our own work.
+</li>
+<li>In order to be a good parent, you must lead by precept so your kids will view you as a role model.
+</li>
+<li>Lawyers are supposed to follow a strict precept of ethics.
+</li>
+<li>If everyone lived by the precept of treating people how they would like to be treated, the world would be a wonderful place.
+</li>
+<li>To be a member of the secret club, you must follow every precept of the organization.
+</li>
+<li>In school, the little kids earn sad faces if they do not obey the precept of <b>keeping their hands to themselves</b> <code>Do not touch things that are not yours</code>.
+</li>
+<li>During the task, each student must write a precept for the code of laws that will determine the behavior of people in his or her fictional country.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-120" class="outline-2">
+<h2 id="sec-120"><span class="section-number-2">120</span> <a href="https://wordsinasentence.com/precocious-in-a-sentence/">Precocious</a></h2>
+<div class="outline-text-2" id="text-120">
+<p>
+<code>having mature qualities at an unusually early age</code>
+</p>
+
+<ul class="org-ul">
+<li>My precocious little girl thinks she knows everything there is to know about life.
+</li>
+<li>Although Jack is smart, he is a bit too precocious at six years of age.
+</li>
+<li>I was a precocious child who at the age of four was already discussing the daily news with my parents.
+</li>
+<li>While their peers were running around the playground, one precocious group of elementary school students sat and chatted about the colleges they hoped to attend.
+</li>
+<li>The precocious high school athlete played basketball like he was a paid professional.
+</li>
+<li>Even though Ann was only ten, she was quite precocious and had a strong interest in the opposite sex.
+</li>
+<li>At only five years of age, the precocious pianist <b>brought the entire audience to its feet</b>.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-121" class="outline-2">
+<h2 id="sec-121"><span class="section-number-2">121</span> <a href="https://wordsinasentence.com/predilection-in-a-sentence/">Predilection</a></h2>
+<div class="outline-text-2" id="text-121">
+<p>
+<code>a preference for something; a strong liking</code>
+</p>
+
+<ul class="org-ul">
+<li>Gregory goes out to watch birds daily so I assume he has a predilection for the hobby.
+</li>
+<li>Her predilection for chocolate-covered roaches is so weird!
+</li>
+<li>When the repeat offender stood in front of the court, the judge asked him if he had a predilection for getting into trouble.
+</li>
+<li>Since she has a sizable art collection, her predilection for art is apparent.
+</li>
+<li>His predilection for excess ended up killing him.
+</li>
+<li>The pregnant woman had a predilection for pickles and peanut butter.
+</li>
+<li>While girls wear the color pink often, boys have a predilection for wearing blue and black clothing.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-122" class="outline-2">
+<h2 id="sec-122"><span class="section-number-2">122</span> <a href="https://wordsinasentence.com/preen-in-a-sentence/">Preen</a></h2>
+<div class="outline-text-2" id="text-122">
+<p>
+<code>to groom or spruce up</code>
+</p>
+
+<ul class="org-ul">
+<li>His pet bird would preen its feathers to keep it clean.
+</li>
+<li>Because he was concerned with looks, he was known to preen himself throughout the day.
+</li>
+<li>The <b>spokesmodel</b> <code>代言人</code> asked for a mirror so he could preen himself in between each <b>take</b> <code>镜头</code>.
+</li>
+<li>Not wanting to preen in public, the nervous groom headed to the bathroom.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-123" class="outline-2">
+<h2 id="sec-123"><span class="section-number-2">123</span> <a href="https://wordsinasentence.com/prehensile-in-a-sentence/">Prehensile</a></h2>
+<div class="outline-text-2" id="text-123">
+<p>
+<code>able to take hold of and clasp objects</code>
+</p>
+
+<ul class="org-ul">
+<li>The monkey’s prehensile tail allowed him to spy on his enemies while dangling from a tree.
+</li>
+<li>A large opossum used its prehensile tail to gather and carry nesting materials.
+</li>
+<li>Almost as long as its body, the <b>bearcat’s</b> <code>小熊猫</code> prehensile tail is used as a 5th hand.
+</li>
+<li>New world porcupine’s prehensile tails help them hang on to trees while climbing.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-124" class="outline-2">
+<h2 id="sec-124"><span class="section-number-2">124</span> <a href="https://wordsinasentence.com/prelude-in-a-sentence/">Prelude</a></h2>
+<div class="outline-text-2" id="text-124">
+<p>
+<code>that which precedes another event</code>
+</p>
+
+<ul class="org-ul">
+<li>Movie trailers are often used as a prelude to feature films.
+</li>
+<li>When Jason <b>got down on his knees</b>, I knew it was a prelude to the marriage proposal of my dreams.
+</li>
+<li>The fast-paced musical prelude leads into the movie's police chase.
+</li>
+<li>As soon as Gail saw her father’s stern look, she knew it was a prelude to a long lecture about her conduct.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-125" class="outline-2">
+<h2 id="sec-125"><span class="section-number-2">125</span> <a href="https://wordsinasentence.com/premium-in-a-sentence/">Premium</a></h2>
+<div class="outline-text-2" id="text-125">
+<p>
+<code>an amount to be paid for an insurance policy</code>
+</p>
+
+<ul class="org-ul">
+<li>The woman’s life insurance policy was cancelled after she forgot to pay her premium.
+</li>
+<li>My job offers two health insurance policies, but both have the same two-hundred dollar a month premium.
+</li>
+<li>If you purchase your car insurance policy in full instead of paying monthly, the premium will be several hundred dollars cheaper.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-126" class="outline-2">
+<h2 id="sec-126"><span class="section-number-2">126</span> <a href="https://wordsinasentence.com/preponderant-in-a-sentence/">Preponderant</a></h2>
+<div class="outline-text-2" id="text-126">
+<p>
+<code>blatantly influential and powerful</code>
+</p>
+
+<ul class="org-ul">
+<li>The United States, Russia, and the China are preponderant military powers who have major influence over matters of diplomacy.
+</li>
+<li>Napoleon would not have won quite so many battles without his preponderant and massive naval forces.
+</li>
+<li>The popularity of books in the United States have a preponderant influence on what is translated and available in other countries.
+</li>
+<li>Einstein’s preponderant physics studies still influence how gravity is understood today.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-127" class="outline-2">
+<h2 id="sec-127"><span class="section-number-2">127</span> <a href="https://wordsinasentence.com/prepossessing-in-a-sentence/">Prepossessing</a></h2>
+<div class="outline-text-2" id="text-127">
+<p>
+<code>being appealing to others</code>
+</p>
+
+<ul class="org-ul">
+<li>The female fans went wild when the prepossessing actor walked into the theater.
+</li>
+<li>Because the hotel is prepossessing, it is impossible to reserve a room without booking a year in advance.
+</li>
+<li>The restaurant manager hires prepossessing women to work as servers in his popular sports bar.
+</li>
+<li>Since the house is located in the most prepossessing area of the city, it is sure to cost several million dollars.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-128" class="outline-2">
+<h2 id="sec-128"><span class="section-number-2">128</span> <a href="https://wordsinasentence.com/preposterous-in-a-sentence/">Preposterous</a></h2>
+<div class="outline-text-2" id="text-128">
+<p>
+<code>contrary to nature, reason, or common sense</code>
+</p>
+
+<ul class="org-ul">
+<li>His idea of selling dead bugs for big money is totally preposterous!
+</li>
+<li>Even though the plan sounds preposterous, I think it can be done.
+</li>
+<li>The new laws are preposterous and will not solve the real crime issue.
+</li>
+<li>Although you are a fast runner, it is preposterous to think you can catch that car on foot.
+</li>
+<li>The movie’s preposterous ending included a six-year-old serial killer who got rid of people by giving them poisoned candy.
+</li>
+<li>Although I normally adore John Smith’s novels, I am turned off by the preposterous storyline of the author’s latest book.
+</li>
+<li>It is preposterous to assume you can pass a college entrance test without studying.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-129" class="outline-2">
+<h2 id="sec-129"><span class="section-number-2">129</span> <a href="https://wordsinasentence.com/presage-in-a-sentence/">Presage</a></h2>
+<div class="outline-text-2" id="text-129">
+<p>
+<code>to give a warning something unpleasant may occur in the future</code>
+</p>
+
+<ul class="org-ul">
+<li>If the unpopular president is reelected, his win will presage a countrywide protest.
+</li>
+<li>The changing of the terror alert color may presage a possible terrorist attack.
+</li>
+<li>When the judge sentenced the ten-year-old defendant to life in prison, he knew his decision would presage the outcome of future trials.
+</li>
+<li>Dark clouds normally presage a storm.
+</li>
+<li>According to the psychic, the cards presage an upcoming tragedy in my life.
+</li>
+<li>Everyone knows bad weather is a presage of horrible driving conditions.
+</li>
+<li>After a brief discussion, the economists agreed the high rate of unemployment would more than likely presage an economic crisis.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-130" class="outline-2">
+<h2 id="sec-130"><span class="section-number-2">130</span> <a href="https://wordsinasentence.com/prescience-in-a-sentence/">Prescience</a></h2>
+<div class="outline-text-2" id="text-130">
+<p>
+<code>the capacity to know future events</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Janet was amazed by the psychic’s prescience, she visited her on a regular basis.
+</li>
+<li>We could not deny the fortuneteller’s prescience when his prophecies were realized.
+</li>
+<li>Since Nana has prescience, she knows my baby is going to be a boy.
+</li>
+<li>Fortunately, my prescience led me to bring an umbrella to work on what was supposed to be a sunny day.
+</li>
+<li>The struggling gambler wished he had prescience so he could choose winning teams.
+</li>
+<li>When we read Ann’s diary, we knew she had prescience and had seen her death.
+</li>
+<li>There is always someone who thinks he has prescience and knows who will win the World Series at the start of baseball season.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-131" class="outline-2">
+<h2 id="sec-131"><span class="section-number-2">131</span> <a href="https://wordsinasentence.com/presentation-in-a-sentence/">Presentation</a></h2>
+<div class="outline-text-2" id="text-131">
+<p>
+<code>a performance or demonstration usually involving factual or persuasive information</code>
+</p>
+
+<ul class="org-ul">
+<li>Using power point, the business executive gave a presentation about workplace etiquette to his staff so that they would understand how to behave at the office.
+</li>
+<li>Following the principal’s presentation about graduation requirements, the parents and students sat in the auditorium realizing what they would have to do to graduate.
+</li>
+<li>At the environmental conference, the first presentation included data and statistics being delivered to the audience about global warming.
+</li>
+<li>Since the first item on the schedule involved a boring speaker just reciting the material, the presentation during the second event allowed the audience to participate with the presenter.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-132" class="outline-2">
+<h2 id="sec-132"><span class="section-number-2">132</span> <a href="https://wordsinasentence.com/presentiment-in-a-sentence/">Presentiment</a></h2>
+<div class="outline-text-2" id="text-132">
+<p>
+<code>the feeling something bad might occur</code>
+</p>
+
+<ul class="org-ul">
+<li>The presentiment lingered after I saw a black cat twice in one day.
+</li>
+<li>As soon as Larry saw the man with the gun approaching, he had a presentiment his life was in jeopardy.
+</li>
+<li>Helen would not board the airplane because of her presentiment a fatal crash would occur.
+</li>
+<li>Because Jake could not get rid of his presentiment of doom, he regularly went to a therapist in hopes of conquering his fears.
+</li>
+<li>Phil’s presentiment of disaster led him to stay away from the crowded parade.
+</li>
+<li>If you suffer from an anxiety disorder, you may occasionally experience a presentiment of tragedy that makes you avoid social situations.
+</li>
+<li>Since layoffs were being announced, Mary had a presentiment of doom when her boss called her into his office.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-133" class="outline-2">
+<h2 id="sec-133"><span class="section-number-2">133</span> <a href="https://wordsinasentence.com/preside-in-a-sentence/">Preside</a></h2>
+<div class="outline-text-2" id="text-133">
+<p>
+<code>to be in charge of something as the leader</code>
+</p>
+
+<ul class="org-ul">
+<li>Judge Judy will preside over the case and make a final ruling on the matter.
+</li>
+<li>Because he was friends with the defendant, the state attorney wanted someone else to preside over the trial.
+</li>
+<li>Adam finally agreed to preside over the book club since there was no one else who wanted to lead the meetings.
+</li>
+<li>As top advisor, Mr. Lee will preside over all the other <b>cabinet members</b>.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-134" class="outline-2">
+<h2 id="sec-134"><span class="section-number-2">134</span> <a href="https://wordsinasentence.com/prestige-in-a-sentence/">Prestige</a></h2>
+<div class="outline-text-2" id="text-134">
+<p>
+<code>how well something or someone is regarded</code>
+</p>
+
+<ul class="org-ul">
+<li>The word most commonly associated with the luxury hotel chain is prestige.
+</li>
+<li>Because of the prestige associated with the scholarship, thousands of people apply for it every year.
+</li>
+<li>The prestige that came with winning the literary award allowed Hiram to enter the homes of the New York elite.
+</li>
+<li>As a doctor, my husband’s career prestige exceeds the prestige afforded to a nursing assistant.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-135" class="outline-2">
+<h2 id="sec-135"><span class="section-number-2">135</span> <a href="https://wordsinasentence.com/presumption-in-a-sentence/">Presumption</a></h2>
+<div class="outline-text-2" id="text-135">
+<p>
+<code>a belief that something is true or false without having all of the facts</code>
+</p>
+
+<ul class="org-ul">
+<li>Because they were fighting more often than not, the girl made a presumption that her parents were unhappily married.
+</li>
+<li>The woman completed her workday even though there was a presumption that she was to be fired.
+</li>
+<li>In the 7th grade, there was a presumption that being an athlete automatically meant you were popular.
+</li>
+<li>No presumption proved correct when the woman tried to identify her secret admirer.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-136" class="outline-2">
+<h2 id="sec-136"><span class="section-number-2">136</span> <a href="https://wordsinasentence.com/pretence-in-a-sentence/">Pretence</a></h2>
+<div class="outline-text-2" id="text-136">
+<p>
+<code>behavior used to trick or deceive other people</code>
+</p>
+
+<ul class="org-ul">
+<li>John’s pretence of wealth included renting a luxury sedan to convince his friends of his success.
+</li>
+<li>Although Ann made a pretence of disinterest when her son talked about his father’s girlfriend, she was really curious about the woman.
+</li>
+<li>The police officer made no pretence of listening to the woman’s claim of innocence as he pushed her into his vehicle.
+</li>
+<li>When I told my daughter she was grounded, she shrugged her shoulders in a pretence of indifference.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-137" class="outline-2">
+<h2 id="sec-137"><span class="section-number-2">137</span> <a href="https://wordsinasentence.com/pretension-in-a-sentence/">Pretension</a></h2>
+<div class="outline-text-2" id="text-137">
+<p>
+<code>asserting a certain quality or status</code>
+</p>
+
+<ul class="org-ul">
+<li>To be the president of a country, Marcel is extremely down-to-earth and completely devoid of pretension.
+</li>
+<li>The butler <b>reeked of</b> <code>散发出</code> pretension as he told me to enter the house through the back door.
+</li>
+<li>Because the famous actress is without pretension, she is adored by millions of people who love her easygoing personality.
+</li>
+<li>The <b>wannabes</b> expose themselves through acts of pretension that make truly wealthy people avoid being around them.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-138" class="outline-2">
+<h2 id="sec-138"><span class="section-number-2">138</span> <a href="https://wordsinasentence.com/pretext-in-a-sentence/">Pretext</a></h2>
+<div class="outline-text-2" id="text-138">
+<p>
+<code>a fake excuse or reason</code>
+</p>
+
+<ul class="org-ul">
+<li>Under pretext of being a police officer, the gang member gained entry into the rival gang leader’s apartment.
+</li>
+<li>Ann’s former company fired her under the pretext of poor work ethics after she filed sexual harassment charges against her boss.
+</li>
+<li>Art’s pretext for being late to work involves a sick child he does not have.
+</li>
+<li>If the attorney wants to win the case and earn Ann a nice settlement, he must prove the pretext for the termination really was false.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-139" class="outline-2">
+<h2 id="sec-139"><span class="section-number-2">139</span> <a href="https://wordsinasentence.com/prevaricate-in-a-sentence/">Prevaricate</a></h2>
+<div class="outline-text-2" id="text-139">
+<p>
+<code>speak or act in an evasive way</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to get his bill passed, the politician went out of his way to prevaricate about the release of the environmental study.
+</li>
+<li>Because my sister Sarah does not take bad news well, I always prevaricate when telling her something she does not want to hear.
+</li>
+<li>In hopes of avoiding questions about his recent car accident, the actor tried to prevaricate during his interview.
+</li>
+<li>When you prevaricate, you only make a complicated situation worse than it already is.
+</li>
+<li>If you confront Tess about her actions, she will only prevaricate about her reasons for behaving in such a manner.
+</li>
+<li>Because Marie’s first reaction is to prevaricate, I have a hard time believing anything she says.
+</li>
+<li>When teenagers talk to their parents about their bad grades, it is not unusual for them to prevaricate.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-140" class="outline-2">
+<h2 id="sec-140"><span class="section-number-2">140</span> <a href="https://wordsinasentence.com/prey-in-a-sentence/">Prey</a></h2>
+<div class="outline-text-2" id="text-140">
+<p>
+<code>something or someone that is susceptible to attack</code>
+</p>
+
+<ul class="org-ul">
+<li>The rapist stalked his prey for days.
+</li>
+<li>From the sky, the eagle eyed his prey as it <b>scurried</b> for cover.
+</li>
+<li>Troubled children are easy prey for gang leaders looking for new recruits.
+</li>
+<li>Because the lion had poor eyesight, it could not catch its prey.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-141" class="outline-2">
+<h2 id="sec-141"><span class="section-number-2">141</span> <a href="https://wordsinasentence.com/prime-in-a-sentence/">Prime</a></h2>
+<div class="outline-text-2" id="text-141">
+<p>
+<code>superior or best</code>
+</p>
+
+<ul class="org-ul">
+<li>If a customer wants to order the prime cut of meat, he will have to pay top dollar for that dish.
+</li>
+<li>Most people preferred to receive health care services from the prime hospital due to it producing optimal care for all of its patients.
+</li>
+<li>After the lawyer submitted his prime evidence in the case, the jury instantly believed his client was innocent.
+</li>
+<li>When the woman was making millions of dollar and had an active social life, she was in the prime part of her life.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-142" class="outline-2">
+<h2 id="sec-142"><span class="section-number-2">142</span> <a href="https://wordsinasentence.com/privation-in-a-sentence/">Privation</a></h2>
+<div class="outline-text-2" id="text-142">
+<p>
+<code>the state of being very poor, and lacking the basic necessities of life</code>
+</p>
+
+<ul class="org-ul">
+<li>Written records of early explorers indicate that the native people faced a great deal of hard times and privation where they had to eat insects and other unspeakable items just to stay alive.
+</li>
+<li>My grandparents described the Great Depression as a time of privation where there were no luxuries, but plenty of love.
+</li>
+<li>Although she was born into poverty, Samantha vowed that she would work hard to escape the life of privation she had suffered in her childhood.
+</li>
+<li>While off-shore <b>oil rig jobs</b> <code>石油钻塔工作</code> have a reputation of offering a life of privation in exchange for a comfortable salary, the truth is that many companies now provide very comfortable accommodations and amenities to keep their workers happy and productive.
+</li>
+<li>Birgit refused to let the privation of being homeless affect her quality of education, and no one was surprised when she was named valedictorian of her graduating class.
+</li>
+<li>After the privation of giving up sweets for Lent, Nellie took extreme pleasure in diving into a <b>double banana split</b> <code>一种甜点</code> for breakfast the day after Easter.
+</li>
+<li>Even though they were desperate to find a way to control Robert’s delinquent behavior, his parents weren’t sure if they wanted to subject him to the privation of boot camp.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-143" class="outline-2">
+<h2 id="sec-143"><span class="section-number-2">143</span> <a href="https://wordsinasentence.com/privilege-in-a-sentence/">Privilege</a></h2>
+<div class="outline-text-2" id="text-143">
+<p>
+<code>an advantage or benefit given to certain individuals</code>
+</p>
+
+<ul class="org-ul">
+<li>As a senior account executive, I now have the privilege of access to the executive lounge.
+</li>
+<li>Having a driver’s license is a privilege that can be taken away if a driver is not responsible.
+</li>
+<li>At one time only men had the privilege of voting.
+</li>
+<li>The president of our country has the privilege of calling the White House home.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-144" class="outline-2">
+<h2 id="sec-144"><span class="section-number-2">144</span> <a href="https://wordsinasentence.com/probe-in-a-sentence/">Probe</a></h2>
+<div class="outline-text-2" id="text-144">
+<p>
+<code>to inquire or investigate</code>
+</p>
+
+<ul class="org-ul">
+<li>An independent investigator will probe the allegations of racial bias in police hiring.
+</li>
+<li>A robot is being sent inside the school to probe the building for explosive devices.
+</li>
+<li>Before a warrant can be issued, the detective must probe the case further.
+</li>
+<li>The pathologist will probe the tissue for signs of cancer.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-145" class="outline-2">
+<h2 id="sec-145"><span class="section-number-2">145</span> <a href="https://wordsinasentence.com/procession-in-a-sentence/">Procession</a></h2>
+<div class="outline-text-2" id="text-145">
+<p>
+<code>group of people or thing moving along in an orderly manner</code>
+</p>
+
+<ul class="org-ul">
+<li>Behind the tank followed a long procession of the armored soldiers.
+</li>
+<li><b>Across from</b> <code>在正对面</code> the ball, a procession of carriages moved up the street.
+</li>
+<li>Because he was well-loved, the mayor’s funeral procession followed the hearse for several miles.
+</li>
+<li>A grand procession rolled through the streets of the festive city.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-146" class="outline-2">
+<h2 id="sec-146"><span class="section-number-2">146</span> <a href="https://wordsinasentence.com/proclaim-in-a-sentence/">Proclaim</a></h2>
+<div class="outline-text-2" id="text-146">
+<p>
+<code>to announce or declare</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to win concert tickets, I needed to proclaim my love for the band.
+</li>
+<li>I rented a <b>skywriter</b> to proclaim my desire to marry my girlfriend.
+</li>
+<li>Because we wanted to surprise our family, we waited until Christmas day to proclaim that we were expecting a baby.
+</li>
+<li>She had to proclaim her allergy before she ordered any food at the restaurant.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-147" class="outline-2">
+<h2 id="sec-147"><span class="section-number-2">147</span> <a href="https://wordsinasentence.com/procrastinate-in-a-sentence/">Procrastinate</a></h2>
+<div class="outline-text-2" id="text-147">
+<p>
+<code>to put off until another time</code>
+</p>
+
+<ul class="org-ul">
+<li>My project is late because I constantly procrastinate.
+</li>
+<li>If you procrastinate about making a purchase, you might not be able to buy the item later.
+</li>
+<li>The counselor urged the students to not procrastinate in filling out their college applications.
+</li>
+<li>When the lazy squirrel ran out of food in the winter, he learned it was unwise to procrastinate.
+</li>
+<li>The uncertain car buyer will procrastinate until he is sure about the type of car he wants.
+</li>
+<li>If Kelly did not procrastinate so much, she could meet her daily work goals.
+</li>
+<li>The normal person tends to procrastinate performing messy household chores.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-148" class="outline-2">
+<h2 id="sec-148"><span class="section-number-2">148</span> <a href="https://wordsinasentence.com/procrustean-in-a-sentence/">Procrustean</a></h2>
+<div class="outline-text-2" id="text-148">
+<p>
+<code>related to forcing everyone to be the same</code>
+</p>
+
+<ul class="org-ul">
+<li>All inhabitants in the town were forced to dress and behave the same under procrustean rulers.
+</li>
+<li>The procrustean system left no room for individuality and required all citizens to conform.
+</li>
+<li>His coach’s procrustean mentality meant that all of teams players were expected to perform exactly the same.
+</li>
+<li>The procrustean nation forbid its citizens from expressing themselves in any way that was not uniform to the country’s vision.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-149" class="outline-2">
+<h2 id="sec-149"><span class="section-number-2">149</span> <a href="https://wordsinasentence.com/profane-in-a-sentence/">Profane</a></h2>
+<div class="outline-text-2" id="text-149">
+<p>
+<code>vulgar and inappropriate</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the comic’s jokes were profane and offensive to our religion, we left the show early.
+</li>
+<li>Our supervisor’s profane language has led many employees to resign from their positions.
+</li>
+<li>When the coach heard the referee’s call against his team, he began to yell profane words.
+</li>
+<li>The seventy-year-old nun has probably never made a profane statement in her life.
+</li>
+<li>Although the book is now considered a classic, it was once viewed as profane and banned from public libraries.
+</li>
+<li>The boy was kicked out of school after he directed a profane tirade at his teacher.
+</li>
+<li>In the restaurant, we were seated next to a couple that spent the entire night engaged in a profane discussion about their sex life.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-150" class="outline-2">
+<h2 id="sec-150"><span class="section-number-2">150</span> <a href="https://wordsinasentence.com/proffer-in-a-sentence/">Proffer</a></h2>
+<div class="outline-text-2" id="text-150">
+<p>
+<code>an offer made to another individual</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I am hungry, I am happy to accept your proffer of a meal.
+</li>
+<li>Janice happily accepted the generous financial proffer made during her divorce negotiation.
+</li>
+<li>Because the proffer for the house is lower than the property’s value, Lars turned down the buyer’s offer.
+</li>
+<li>The prosecutor’s proffer for the witness includes no jail time and witness protection for three years.
+</li>
+<li>Although Rachel is not an uncaring person, she will not proffer help unless someone requests her assistance.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-151" class="outline-2">
+<h2 id="sec-151"><span class="section-number-2">151</span> <a href="https://wordsinasentence.com/profligate-meaning-in-a-sentence/">Profligate</a></h2>
+<div class="outline-text-2" id="text-151">
+<p>
+<code>1.) wildly extravagant or wasteful; 2.) shamelessly immoral</code>
+</p>
+
+<ul class="org-ul">
+<li>After the millionaire saw evidence of his new wife's profligate spending, he quickly filed for a divorce.
+</li>
+<li>During the mayor’s campaign, he swore to put an end to profligate government spending.
+</li>
+<li>Since she is a profligate spender, Jill buys tons of items she never uses.
+</li>
+<li>Not surprisingly, none of the company’s leaders are willing to accept responsibility for the profligate manner in which our money was spent.
+</li>
+<li>Because I considered both presidential candidates to be profligate spenders, I had a hard time deciding how to <b>cast my vote</b>.
+</li>
+<li>With no money worries, the hotel heiress makes several profligate purchases every week.
+</li>
+<li>Entertainment magazines are filled with the profligate ways in which celebrities waste money.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-152" class="outline-2">
+<h2 id="sec-152"><span class="section-number-2">152</span> <a href="https://wordsinasentence.com/progenitor-in-a-sentence/">Progenitor</a></h2>
+<div class="outline-text-2" id="text-152">
+<p>
+<code>any of a person's direct ancestors; an ancestral form of a species</code>
+</p>
+
+<ul class="org-ul">
+<li>Sharing a common progenitor meant that the two best friends were also <b>3rd cousins</b>.
+</li>
+<li>Some scientists suggest that because we share similar DNA, the human’s closest progenitor is chimpanzee.
+</li>
+<li>The hybrid plant originally descended from its progenitor, a blueberry bush.
+</li>
+<li>Although he was a distant progenitor, everyone said the boy had his great grandfather’s smile.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-153" class="outline-2">
+<h2 id="sec-153"><span class="section-number-2">153</span> <a href="https://wordsinasentence.com/progeny-in-a-sentence/">Progeny</a></h2>
+<div class="outline-text-2" id="text-153">
+<p>
+<code>descendants or offspring</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the billionaire bachelor did not have a progeny, his entire estate went to charity when he died.
+</li>
+<li>Our dog is the favorite to win the show because he is a progeny of a long line of champions.
+</li>
+<li>Although Diane is the progeny of a very wealthy man, she still chooses to live a humble life in a one-bedroom apartment.
+</li>
+<li>A wise breeder always keeps the male progeny of his finest bulls.
+</li>
+<li>According to the rules of succession, only a <b>male progeny</b> can replace his father on the throne.
+</li>
+<li>Janice has passed her genes for poor skin on to her progeny.
+</li>
+<li>Unfortunately, the criminal’s progeny followed in his footsteps and is now in prison for life.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-154" class="outline-2">
+<h2 id="sec-154"><span class="section-number-2">154</span> <a href="https://wordsinasentence.com/prognosis-in-a-sentence/">Prognosis</a></h2>
+<div class="outline-text-2" id="text-154">
+<p>
+<code>the predicted outcome of a situation</code>
+</p>
+
+<ul class="org-ul">
+<li>After being hit by a car, the small dog’s health prognosis was not good.
+</li>
+<li>The infant was given an excellent prognosis after having heart surgery.
+</li>
+<li>Due to the company’s financial prognosis, we will probably be out of business in less than three months.
+</li>
+<li>My car has over two hundred thousand miles so I am not expecting a good prognosis from the mechanic.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-155" class="outline-2">
+<h2 id="sec-155"><span class="section-number-2">155</span> <a href="https://wordsinasentence.com/prognosticate-in-a-sentence/">Prognosticate</a></h2>
+<div class="outline-text-2" id="text-155">
+<p>
+<code>to forecast the future</code>
+</p>
+
+<ul class="org-ul">
+<li>Using computer technology, meteorologists attempt to prognosticate the future.
+</li>
+<li>The sports writer believes he can prognosticate the Super Bowl champions based on last year’s statistics.
+</li>
+<li>Every year, many foolish people pay fortunetellers to prognosticate their futures.
+</li>
+<li>Today your doctor will be performing your annual physical in order to prognosticate your future health.
+</li>
+<li>According to legend, there are a number of women who can look at tealeaves and prognosticate the number of children a woman will have.
+</li>
+<li>It is hard to fool my parents because they always seem to be able to prognosticate my actions even before I do them.
+</li>
+<li>When Rachel looked up at the sky, she saw dark clouds that appeared to prognosticate the end of her beach weekend.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-156" class="outline-2">
+<h2 id="sec-156"><span class="section-number-2">156</span> <a href="https://wordsinasentence.com/projectile-in-a-sentence/">Projectile</a></h2>
+<div class="outline-text-2" id="text-156">
+<p>
+<code>something that will be or has been expelled from some object</code>
+</p>
+
+<ul class="org-ul">
+<li>The projectile went from the prisoner’s mouth and onto the guard’s face.
+</li>
+<li>If the military projectile hits the building, it will <b>take out</b> <code>除去</code> several floors.
+</li>
+<li>The tennis ball became a projectile as it shot out of the ball machine.
+</li>
+<li>When the projectile crashed through the window, it sent shards of glass everywhere.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-157" class="outline-2">
+<h2 id="sec-157"><span class="section-number-2">157</span> <a href="https://wordsinasentence.com/prolix-in-a-sentence/">Prolix</a></h2>
+<div class="outline-text-2" id="text-157">
+<p>
+<code>prone to using large words that most people do not understand</code>
+</p>
+
+<ul class="org-ul">
+<li>The prolix professor had a habit of using complex words that most people could not comprehend.
+</li>
+<li>Because the novel was so prolix, I had to read it with a dictionary beside me.
+</li>
+<li>The prolix speaker did not realize most of the audience members were confused by the large words he used.
+</li>
+<li>When the <b>expert witness</b> <code>鉴定人</code> explained the forensic evidence, he used prolix language that left most of the jury  puzzled.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-158" class="outline-2">
+<h2 id="sec-158"><span class="section-number-2">158</span> <a href="https://wordsinasentence.com/prologue-in-a-sentence/">Prologue</a></h2>
+<div class="outline-text-2" id="text-158">
+<p>
+<code>an introduction that usually precedes a novel or play</code>
+</p>
+
+<ul class="org-ul">
+<li>The play’s prologue provides the audience members with insight into what they are about to watch.
+</li>
+<li>Because the prologue was so short, I had no idea what to expect from the novel.
+</li>
+<li>As a prologue occurs at the beginning of a novel or play, it should trigger the audience’s interest.
+</li>
+<li>Before the play began, the narrator read the prologue and set the scene for the interactions.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-159" class="outline-2">
+<h2 id="sec-159"><span class="section-number-2">159</span> <a href="https://wordsinasentence.com/prominent-in-a-sentence/">Prominent</a></h2>
+<div class="outline-text-2" id="text-159">
+<p>
+<code>showing distinction above others in a specific area</code>
+</p>
+
+<ul class="org-ul">
+<li>There is a six-month waiting list to see the most prominent psychiatrist in the city.
+</li>
+<li>If you are a prominent member of society, you will surely get an invitation to the mayor’s fundraising gala.
+</li>
+<li>The singer’s concerts sell out within minutes because she is viewed as one of the most prominent vocalists of our time.
+</li>
+<li>Once Jacob won the lottery, he sold his humble home and moved to one of the most prominent areas of the city.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-160" class="outline-2">
+<h2 id="sec-160"><span class="section-number-2">160</span> <a href="https://wordsinasentence.com/promissory-in-a-sentence/">Promissory</a></h2>
+<div class="outline-text-2" id="text-160">
+<p>
+<code>something that implies or guarantees a promise</code>
+</p>
+
+<ul class="org-ul">
+<li>My friend often makes promissory statements, but he always fails to keep those ludicrous promises that he makes.
+</li>
+<li>I received a promissory note from the government that promised me ten thousand dollars, though it is likely a scam.
+</li>
+<li>There are all sorts of fraudulent websites on the internet with promissory statements of free money, but anyone that is not completely gullible sees through them.
+</li>
+<li>For someone that makes the same promissory comment to his friends nearly every day, Joe has still failed to become the most popular boy in school.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-161" class="outline-2">
+<h2 id="sec-161"><span class="section-number-2">161</span> <a href="https://wordsinasentence.com/prompt-in-a-sentence/">Prompt</a></h2>
+<div class="outline-text-2" id="text-161">
+<p>
+<code>in good time; punctual</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I take pride in being prompt, I always leave early for work.
+</li>
+<li>Normally I have to wait to hear back from my teachers so I was shocked to receive such a prompt reply from Mr. Edwards.
+</li>
+<li>The taxi driver could not promise me the trip would be prompt because of the heavy traffic.
+</li>
+<li>Since Ann was not prompt for her massage appointment, her time slot was given to another customer.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-162" class="outline-2">
+<h2 id="sec-162"><span class="section-number-2">162</span> <a href="https://wordsinasentence.com/prophecy-in-a-sentence/">Prophecy</a></h2>
+<div class="outline-text-2" id="text-162">
+<p>
+<code>a prediction or foretelling of what's to come</code>
+</p>
+
+<ul class="org-ul">
+<li>As the Persians suffered one loss after another, Daniel’s prophecy from years before was proven to be true.
+</li>
+<li>Jack speaks about his ideas as if they are words of prophecy, when we all know that they are nothing more than speculation.
+</li>
+<li>We believed the old man’s words of prophecy, as his foretelling of future events have been proven true in the past.
+</li>
+<li>The people bowed before the prophet, begging him to speak his words of prophecy, and to tell them of great things yet to come.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-163" class="outline-2">
+<h2 id="sec-163"><span class="section-number-2">163</span> <a href="https://wordsinasentence.com/prophet-in-a-sentence/">Prophet</a></h2>
+<div class="outline-text-2" id="text-163">
+<p>
+<code>a person who speaks for God, or someone who can predict what will happen in the future</code>
+</p>
+
+<ul class="org-ul">
+<li>In the bible, Noah was a prophet who warned the people that God would bring a flood to wipe out humanity because of all of their thievery and deceit.
+</li>
+<li>The people laughed at the words of the prophet, claiming that he never did commune with a higher being, although he really had.
+</li>
+<li>Ron is a wise day trader whose stock predictions are so accurate that people laughingly compare him to a prophet.
+</li>
+<li>In the bible, Jonah was a prophet who warned the people of Nineveh to repent before it was too late.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-164" class="outline-2">
+<h2 id="sec-164"><span class="section-number-2">164</span> <a href="https://wordsinasentence.com/propulsion-in-a-sentence/">Propulsion</a></h2>
+<div class="outline-text-2" id="text-164">
+<p>
+<code>a force or energy that causes progress or movement</code>
+</p>
+
+<ul class="org-ul">
+<li>The plane cannot leave the hangar until its propulsion system is fixed.
+</li>
+<li>Using his feet for propulsion, Jack was able to kick himself to the surface of the pool.
+</li>
+<li>The writer used time travel as a propulsion to send his character two hundred years back in time.
+</li>
+<li>Do you know what kind of propulsion sends the spaceship out of the Earth’s atmosphere?
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-165" class="outline-2">
+<h2 id="sec-165"><span class="section-number-2">165</span> <a href="https://wordsinasentence.com/prorogue-in-a-sentence/">Prorogue</a></h2>
+<div class="outline-text-2" id="text-165">
+<p>
+<code>to defer or discontinue Parliament or other government business for a period of time</code>
+</p>
+
+<ul class="org-ul">
+<li>The governor was advised to prorogue Parliament for now and call a meeting at a later date.
+</li>
+<li>It is the task of the country’s monarch to summon Parliament to make decisions and prorogue them when more time is needed.
+</li>
+<li>As is his duty, the king chose to prorogue the House of Parliament, discontinuing their assemblies on the subject.
+</li>
+<li>Opposition inside the state’s government led leaders to prorogue any voting until the political climate settled.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-166" class="outline-2">
+<h2 id="sec-166"><span class="section-number-2">166</span> <a href="https://wordsinasentence.com/prosecution-in-a-sentence/">Prosecution</a></h2>
+<div class="outline-text-2" id="text-166">
+<p>
+<code>the process of holding a trial against a person who is accused of a crime</code>
+</p>
+
+<ul class="org-ul">
+<li>Prosecution of the defendant will be difficult since the evidence against him is all circumstantial.
+</li>
+<li>It took several months for prosecution of thief to take place since the attorneys schedules never seemed to align.
+</li>
+<li>Prosecution of several innocent victims took place during the Salem witch trials, lead to the deaths of many after <b>make-believe trials</b>.
+</li>
+<li>Deciding <b>against prosecution</b> <code>反对公诉</code> of the young mother was a <b>tough call</b> <code>艰难的决定</code> and brought on angry threats by those who felt she should be tried for neglect.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-167" class="outline-2">
+<h2 id="sec-167"><span class="section-number-2">167</span> <a href="https://wordsinasentence.com/prosperity-in-a-sentence/">Prosperity</a></h2>
+<div class="outline-text-2" id="text-167">
+<p>
+<code>an abundance of resources</code>
+</p>
+
+<ul class="org-ul">
+<li>When Jake reached his goal of prosperity, he realized he had neglected his family for his professional achievements.
+</li>
+<li>Once Karen has prosperity and can fulfill all her financial dreams, she still may not be happy.
+</li>
+<li>As soon as the miners heard about the opportunity for prosperity, they packed up their homes and went in search of gold.
+</li>
+<li>While prosperity is great, being successful is not the key to happiness.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-168" class="outline-2">
+<h2 id="sec-168"><span class="section-number-2">168</span> <a href="https://wordsinasentence.com/prosperous-in-a-sentence/">Prosperous</a></h2>
+<div class="outline-text-2" id="text-168">
+<p>
+<code>successful; well off</code>
+</p>
+
+<ul class="org-ul">
+<li>The prosperous man never had to worry about having enough money to pay his bills.
+</li>
+<li>Although the restaurant took a while to become prosperous, it was soon grossing over a million dollars a year.
+</li>
+<li>Hank shows how prosperous he is by having parties at his mansion every weekend.
+</li>
+<li>Since Jill did not come from a prosperous family, she had to get a job to pay for her prom dress and graduation fees.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-169" class="outline-2">
+<h2 id="sec-169"><span class="section-number-2">169</span> <a href="https://wordsinasentence.com/protagonist-in-a-sentence/">Protagonist</a></h2>
+<div class="outline-text-2" id="text-169">
+<p>
+<code>the leading character in a literary composition</code>
+</p>
+
+<ul class="org-ul">
+<li>The protagonist was willing to give his life for the woman he loved.
+</li>
+<li>In the screenplay, the protagonist must rob a bank in order to save his daughter’s life.
+</li>
+<li>A protagonist usually has an antagonist opposing his goals.
+</li>
+<li>By the end of the movie, we realize the protagonist cannot achieve his dreams because of his greedy nature.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-170" class="outline-2">
+<h2 id="sec-170"><span class="section-number-2">170</span> <a href="https://wordsinasentence.com/protean-in-a-sentence/">Protean</a></h2>
+<div class="outline-text-2" id="text-170">
+<p>
+<code>changing often; variable</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the woman’s affections are protean, she has ten ex-husbands.
+</li>
+<li>George is a protean actor who is capable of playing numerous characters.
+</li>
+<li>Since the mutant superhero is protean, she can take the form of anyone she encounters.
+</li>
+<li>I am unable to make a final decision because of my protean nature which makes me indecisive.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-171" class="outline-2">
+<h2 id="sec-171"><span class="section-number-2">171</span> <a href="https://wordsinasentence.com/protuberance-in-a-sentence/">Protuberance</a></h2>
+<div class="outline-text-2" id="text-171">
+<p>
+<code>something that protrudes or sticks out from something else</code>
+</p>
+
+<ul class="org-ul">
+<li>A <b>hairy</b> <code>可怕的</code> protuberance <b>from</b> the woman’s nose stuck out just enough to make the neighborhood children think she was a witch.
+</li>
+<li>The bony protuberance coming out from the child’s finger was said to be an extra <b>digit</b> <code>手指</code> by delivery doctors.
+</li>
+<li>An odd protuberance jetted out from the woman’s elbow overnight, leaving her to question what the lump might be.
+</li>
+<li>After he was hit with the baseball, a protuberance that looked like a round knot attached itself to the boy’s knee.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-172" class="outline-2">
+<h2 id="sec-172"><span class="section-number-2">172</span> <a href="https://wordsinasentence.com/protuberant-in-a-sentence/">Protuberant</a></h2>
+<div class="outline-text-2" id="text-172">
+<p>
+<code>protruding; bulging</code>
+</p>
+
+<ul class="org-ul">
+<li>The eerie looking fish had a protuberant jaw that stuck out from the rest of his small body and was filled with bony teeth.
+</li>
+<li>Protuberant bellies of the children on the island are an indication that they are swelling from malnutrition.
+</li>
+<li>The toddler’s protuberant lips were always stuck out when she pouted to get her way.
+</li>
+<li>Protuberant eyes seemed to bulge from the doll’s face, giving her a creepy look.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-173" class="outline-2">
+<h2 id="sec-173"><span class="section-number-2">173</span> <a href="https://wordsinasentence.com/provenance-in-a-sentence/">Provenance</a></h2>
+<div class="outline-text-2" id="text-173">
+<p>
+<code>origin or the source of where something derived from</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the provenance of this dish came from Italy, many people wanted to go to Italy to taste the actual authentic dish.
+</li>
+<li>Realizing that the provenance of the antique chest was from France, it let the dealer know that this piece was created in 18th century Paris.
+</li>
+<li>An archeologist discovered the provenance of the fossil as being from China’s historical Ming Dynasty.
+</li>
+<li>When the geologist determined the rock’s provenance dated back to the Ice Age, this rock was over 2.6 million years old.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-174" class="outline-2">
+<h2 id="sec-174"><span class="section-number-2">174</span> <a href="https://wordsinasentence.com/proverbial-in-a-sentence/">Proverbial</a></h2>
+<div class="outline-text-2" id="text-174">
+<p>
+<code>used often to describe something</code>
+</p>
+
+<ul class="org-ul">
+<li>Everyone in class knew the proverbial quote from the hit animated comedy.
+</li>
+<li>When my mother saw the dirty bathroom, she viewed the mess as the <b>proverbial straw</b> <code>When we talk about "a proverbial" something, it means something relating to a proverb.</code> she needed to withhold my allowance.
+</li>
+<li>My grandmother always followed the awful cough medicine with the proverbial spoon of sugar.
+</li>
+<li>Like a proverbial <b>drill sergeant</b> <code>教官</code>, the teacher kept her class quiet and organized.
+</li>
+<li>The night before his wedding Steve got a case of the proverbial cold feet and thought about cancelling the ceremony.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-175" class="outline-2">
+<h2 id="sec-175"><span class="section-number-2">175</span> <a href="https://wordsinasentence.com/providential-in-a-sentence/">Providential</a></h2>
+<div class="outline-text-2" id="text-175">
+<p>
+<code>fortunate</code>
+</p>
+
+<ul class="org-ul">
+<li>It was providential that I moved out of the way before being struck by the oncoming vehicle.
+</li>
+<li>Winning the lottery was a providential step towards paying off my <b>mounting debt</b> <code>不断增加的债务</code>.
+</li>
+<li>Due to a providential storm, we stayed home and avoided an accident at the park.
+</li>
+<li>When we found ourselves in Europe at the same time, my fiancé and I had a providential meeting.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-176" class="outline-2">
+<h2 id="sec-176"><span class="section-number-2">176</span> <a href="https://wordsinasentence.com/prowess-in-a-sentence/">Prowess</a></h2>
+<div class="outline-text-2" id="text-176">
+<p>
+<code>Skill or expertise in an activity or field</code>
+</p>
+
+<ul class="org-ul">
+<li>Christina used her hunting prowess to survive in the woods for a week.
+</li>
+<li>Michelangelo, historically known for his sculptures and paintings, clearly possessed a prowess for art.
+</li>
+<li>With a prowess for writing, the promising author wrote a thirteen chapter fiction novel.
+</li>
+<li>The young girl hangs her paintings on the wall to display her prowess in art.
+</li>
+<li>I got my artistic prowess from my Mother, an <b>interior designer</b> <code>室内设计师</code>.
+</li>
+<li>If you have a prowess for writing, then you should have no problem becoming an author.
+</li>
+<li>While you have prowess in math, I can barely add 2 and 2 without a calculator.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-177" class="outline-2">
+<h2 id="sec-177"><span class="section-number-2">177</span> <a href="https://wordsinasentence.com/prowl-in-a-sentence/">Prowl</a></h2>
+<div class="outline-text-2" id="text-177">
+<p>
+<code>to move around quietly in a place trying not to be heard or seen</code>
+</p>
+
+<ul class="org-ul">
+<li>I called the police when I noticed a masked man prowl through the neighborhood.
+</li>
+<li>When we walked down the dark alley, we saw cats prowl by the <b>dumpsters</b> <code>大垃圾箱</code>.
+</li>
+<li>We wanted to sneak out of school, so we had to prowl through the hallways without drawing attention to ourselves.
+</li>
+<li>I dropped my phone on the walk to school, so I had to prowl through the neighbor’s bushes to look for it.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-178" class="outline-2">
+<h2 id="sec-178"><span class="section-number-2">178</span> <a href="https://wordsinasentence.com/prude-in-a-sentence/">Prude</a></h2>
+<div class="outline-text-2" id="text-178">
+<p>
+<code>one who is easily offended or shocked by rude things</code>
+</p>
+
+<ul class="org-ul">
+<li>I wouldn’t consider myself a prude, but I was offended at the comedian’s <b>off-color jokes</b> <code>低级笑话</code>.
+</li>
+<li>My grandmother revealed how much of a prude she was when she told me my <b>hem-line</b> was too short.
+</li>
+<li>Because I wouldn’t allow my daughters to wear <b>tank tops</b> <code>大圆领女背心</code>, they told me I was a prude.
+</li>
+<li>The prude <b>chaperoned</b> <code>在交际场中监护少女的)年长女伴</code> her children’s dates.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-179" class="outline-2">
+<h2 id="sec-179"><span class="section-number-2">179</span> <a href="https://wordsinasentence.com/pry-in-a-sentence/">Pry</a></h2>
+<div class="outline-text-2" id="text-179">
+<p>
+<code>to look where one is not welcome; to be nosey</code>
+</p>
+
+<ul class="org-ul">
+<li>Her reputation was that she liked to pry into people’s private lives.
+</li>
+<li>In order to pry into the subject’s past, the detective interviewed family members.
+</li>
+<li>The nosey woman considered how she could pry information out of the shy club member.
+</li>
+<li>Not wanting to pry, I didn’t ask why my neighbor was moving so suddenly.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-180" class="outline-2">
+<h2 id="sec-180"><span class="section-number-2">180</span> <a href="https://wordsinasentence.com/puerile-in-a-sentence/">Puerile</a></h2>
+<div class="outline-text-2" id="text-180">
+<p>
+<code>silly or childish especially in a way that shows a lack of seriousness or good judgment</code>
+</p>
+
+<ul class="org-ul">
+<li>Since my son is thirty-three years of age, I do not find his puerile behavior amusing.
+</li>
+<li>Your jokes are puerile and not appropriate for a woman of your years.
+</li>
+<li>If you behave in a puerile manner during a job interview, the interviewer will think you are very childish.
+</li>
+<li>The fireman was scolded for playing puerile pranks on his coworkers.
+</li>
+<li>Because my father takes everything very seriously, he has little patience for puerile humor.
+</li>
+<li>My teenage daughter was upset when her puerile conduct got her sent to the little kids’ table at dinner.
+</li>
+<li>Although Bill is normally known for coming up with great ideas, his latest proposal is puerile and <b>borders on</b> being ridiculous.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-181" class="outline-2">
+<h2 id="sec-181"><span class="section-number-2">181</span> <a href="https://wordsinasentence.com/puissant-in-a-sentence/">Puissant</a></h2>
+<div class="outline-text-2" id="text-181">
+<p>
+<code>having a large amount of authority or power</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the dictator was puissant, he could do anything he wanted without seeking permission.
+</li>
+<li>The movie star believed a puissant person like herself should never have to wait in line.
+</li>
+<li>As a mediator, the puissant prime minister was able to get both of the leaders to agree to a peace accord.
+</li>
+<li>The puissant school superintendent has the authority to close schools in the event of inclement weather.
+</li>
+<li>Since some of the smallest men in history have changed the world, it is obvious size does not determine a person’s puissance.
+</li>
+<li>The puissant knight quickly defeated all of his challengers on the field.
+</li>
+<li>Without the permission of a puissant judge, the man’s conviction cannot be overturned.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-182" class="outline-2">
+<h2 id="sec-182"><span class="section-number-2">182</span> <a href="https://wordsinasentence.com/pulchritude-in-a-sentence/">Pulchritude</a></h2>
+<div class="outline-text-2" id="text-182">
+<p>
+<code>physical beauty</code>
+</p>
+
+<ul class="org-ul">
+<li>Because we all know that beauty is only <b>skin deep</b>, you should always look beneath the pulchritude on the outside to see what’s going on in a person’s heart and soul.
+</li>
+<li>Although this actress is not a woman of great pulchritude, her vast talent has won her more awards than anyone else in the business.
+</li>
+<li>The magazine editor had an eye for pulchritude, and he was surrounded by beautiful women until the day he died.
+</li>
+<li>Not only is Angelina Jolie a woman of great pulchritude, her humanitarian efforts have demonstrated that she is equally as beautiful on the inside as on the outside.
+</li>
+<li>Although the citizens of that country are well-known for their hospitality, it is their pulchritude and vitality as a people that attracts artists who are looking for models.
+</li>
+<li>Whoever would have thought that a funny-sounding word like pulchritude would mean something beautiful?
+</li>
+<li>Among the characters of Greek mythology, Narcissus was the man who possessed such abundant pulchritude that he fell in love with himself.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-183" class="outline-2">
+<h2 id="sec-183"><span class="section-number-2">183</span> <a href="https://wordsinasentence.com/pullulate-in-a-sentence/">Pullulate</a></h2>
+<div class="outline-text-2" id="text-183">
+<p>
+<code>to be crowded or overpopulated</code>
+</p>
+
+<ul class="org-ul">
+<li>At the annual Tri-State Farmer’s Auction, the cows would pullulate in the small <b>pen</b> barely having any room to move around.
+</li>
+<li>As the bees began to pullulate around Henry when he disrupted the beehive, there were too many bees to count.
+</li>
+<li>Typically on a sunny Saturday, Disneyworld is known to pullulate with many eager people because this tourist attraction draws many visitors.
+</li>
+<li>Many passersby began to pullulate around the injured little boy that even the paramedics could not see what was happening when they arrived.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-184" class="outline-2">
+<h2 id="sec-184"><span class="section-number-2">184</span> <a href="https://wordsinasentence.com/pulverize-in-a-sentence/">Pulverize</a></h2>
+<div class="outline-text-2" id="text-184">
+<p>
+<code>to break into tiny pieces or destroy</code>
+</p>
+
+<ul class="org-ul">
+<li>The tiny wrestler knew his giant opponent was going to pulverize him.
+</li>
+<li>Using the food processor, I am going to pulverize the vegetables into small pieces.
+</li>
+<li>Kathryn hates boxing because she does not like to watch men pulverize each other.
+</li>
+<li>Because Will was certain his favorite football team would pulverize its opponent, he bet all his savings on the game.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-185" class="outline-2">
+<h2 id="sec-185"><span class="section-number-2">185</span> <a href="https://wordsinasentence.com/punctilious-in-a-sentence/">Punctilious</a></h2>
+<div class="outline-text-2" id="text-185">
+<p>
+<code>showing great attention to detail or correct behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>Because my aunt is quite punctilious when it comes to table settings, every utensil must be turned properly.
+</li>
+<li>My father was punctilious about having all of his ties lined up by color.
+</li>
+<li>While I enjoy cleanliness, I am not so punctilious that I get upset about a little dust on my furniture.
+</li>
+<li>Pharmacists must be very punctilious because the actions they take could result in fatalities.
+</li>
+<li>Although Kevin grew up in a poor home, his punctilious manners allowed him to fit in anywhere.
+</li>
+<li>The prisoner was released early because he never got in trouble and displayed punctilious behavior at all times.
+</li>
+<li>While a smart woman, Cathy was a lousy editor who was not punctilious and lacked the ability to focus on details.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-186" class="outline-2">
+<h2 id="sec-186"><span class="section-number-2">186</span> <a href="https://wordsinasentence.com/pundit-in-a-sentence/">Pundit</a></h2>
+<div class="outline-text-2" id="text-186">
+<p>
+<code>one who gives his opinion as an expert in a specific field</code>
+</p>
+
+<ul class="org-ul">
+<li>During the trial, the prosecutor will call upon a pundit of forensics to link the evidence to the suspect.
+</li>
+<li>John is the pundit in our science class who usually knows all the test review answers.
+</li>
+<li>Although Jill has never been to Greece, she often speaks about the culture as though she is a pundit of the country.
+</li>
+<li>The attorney is often asked to provide insight as a pundit for the <b>primetime legal drama</b> <code>黄金时段的法律剧</code>.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-187" class="outline-2">
+<h2 id="sec-187"><span class="section-number-2">187</span> <a href="https://wordsinasentence.com/puny-in-a-sentence/">Puny</a></h2>
+<div class="outline-text-2" id="text-187">
+<p>
+<code>tiny and weak</code>
+</p>
+
+<ul class="org-ul">
+<li>People underestimate my strength because I appear puny.
+</li>
+<li>Our cat delivered kittens, but no one wanted to adopt the puny <b>runt</b> <code>（一胎中）最弱小的动物</code> of the <b>litter</b> <code>一胎幼崽</code>.
+</li>
+<li>My brother said that I was too puny to try out for the football team.
+</li>
+<li>The audience thought the puny girl would not sing loudly, but she surprised everyone when her strong voice filled the auditorium.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-188" class="outline-2">
+<h2 id="sec-188"><span class="section-number-2">188</span> <a href="https://wordsinasentence.com/purgatory-in-a-sentence/">Purgatory</a></h2>
+<div class="outline-text-2" id="text-188">
+<p>
+<code>a situation that causes misery</code>
+</p>
+
+<ul class="org-ul">
+<li>To the teenage girl, listening to her teachers’ boring lectures all day was purgatory.
+</li>
+<li>The freshman did not mind the purgatory he had to endure to become a <b>full-fledged</b> <code>完全合格的</code> fraternity member.
+</li>
+<li>Because Jake hated to sit still for a long period of time, he viewed his upcoming eight-hour flight as purgatory.
+</li>
+<li>Janet calls the bullying she faces at school her personal purgatory.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-189" class="outline-2">
+<h2 id="sec-189"><span class="section-number-2">189</span> <a href="https://wordsinasentence.com/purge-in-a-sentence/">Purge</a></h2>
+<div class="outline-text-2" id="text-189">
+<p>
+<code>to get rid of something or someone</code>
+</p>
+
+<ul class="org-ul">
+<li>After he saw his parents making out in the back seat of their Buick, Kevin vowed that he would do whatever it took to purge the image from his brain.
+</li>
+<li>Because she never intended to gain back the weight she had lost, Jennifer decided to purge her wardrobe of anything bigger than a size 10 and then go shopping.
+</li>
+<li>Although this cleansing diet will purge toxins from my system temporarily, my nutritionist warned me that they’ll come right back if I return to my former bad eating habits.
+</li>
+<li>Myrna is so superstitious that she hired a spiritualist to purge her new house of evil spirits.
+</li>
+<li>It is essential for all nations to remain vigilant to foreign leaders who intend to purge the planet of minority groups that they consider to be undesirable.
+</li>
+<li>In an effort to save money, officials decided to try to purge the company of overpaid executives by offering them early retirement.
+</li>
+<li>After watching a TV show about <b>hoarders</b> <code>喜欢囤积东西的人</code>, Darlene resolved to purge her house of any items that she didn’t absolutely need.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-190" class="outline-2">
+<h2 id="sec-190"><span class="section-number-2">190</span> <a href="https://wordsinasentence.com/purify-in-a-sentence/">Purify</a></h2>
+<div class="outline-text-2" id="text-190">
+<p>
+<code>to cleanse something; to remove contaminants</code>
+</p>
+
+<ul class="org-ul">
+<li>Pumps were used to purify the dirty water that came from the pond.
+</li>
+<li>Because the drinking water was found to have a brain-eating amoeba, crews were called in to purify the system.
+</li>
+<li>Chemists were able to purify the compound and cleanse it of any impurities.
+</li>
+<li>The company will need to purify the fuel and rid it of any contaminants before it can be delivered for sale.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-191" class="outline-2">
+<h2 id="sec-191"><span class="section-number-2">191</span> <a href="https://wordsinasentence.com/purloin-in-a-sentence/">Purloin</a></h2>
+<div class="outline-text-2" id="text-191">
+<p>
+<code>to take another’s belongings without permission</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Eddie tried to purloin the woman’s purse, he spent the night in jail.
+</li>
+<li>Jill was shocked when her best friend tried to purloin her favorite necklace.
+</li>
+<li>During the raid, a crooked police officer was caught trying to purloin drug money.
+</li>
+<li>The experienced pickpocket was able to purloin watches and wallets without being observed.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-192" class="outline-2">
+<h2 id="sec-192"><span class="section-number-2">192</span> <a href="https://wordsinasentence.com/purport-in-a-sentence/">Purport</a></h2>
+<div class="outline-text-2" id="text-192">
+<p>
+<code>to imply something is true although it is most likely false</code>
+</p>
+
+<ul class="org-ul">
+<li>The drug manufacturer knows it is against the law to purport claims about its product’s effectiveness.
+</li>
+<li>In the scam, a suspicious person from a foreign country will purport to have a large inheritance for the email recipient.
+</li>
+<li>The website is for entertainment only and does not purport to give you an accurate prediction of your future.
+</li>
+<li>To get your money, the psychic will purport she can talk to your deceased loved ones.
+</li>
+<li>Why does Karen purport she knows Spanish well when she is only familiar with two words in the language?
+</li>
+<li>When the woman gets on the witness stand, she will most likely purport her husband was home all night.
+</li>
+<li>The prosecutor warned the jury the defendant would purport he was an innocent man.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-193" class="outline-2">
+<h2 id="sec-193"><span class="section-number-2">193</span> <a href="https://wordsinasentence.com/purveyor-in-a-sentence/">Purveyor</a></h2>
+<div class="outline-text-2" id="text-193">
+<p>
+<code>an individual who provides supplies for others, often food</code>
+</p>
+
+<ul class="org-ul">
+<li>Even during times of war rationing, the purveyor was able to find coffee and sugar for the wealthy families.
+</li>
+<li>The weapons purveyor is wanted in several countries for providing radicals with bombs.
+</li>
+<li>When we asked the wine purveyor about his <b>best bottles</b>, he mentioned a bottle of champagne that cost  over thirty thousand dollars.
+</li>
+<li>The House of Wythe is the official purveyor of linens to the royal family.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-194" class="outline-2">
+<h2 id="sec-194"><span class="section-number-2">194</span> <a href="https://wordsinasentence.com/pusillanimous-in-a-sentence/">Pusillanimous</a></h2>
+<div class="outline-text-2" id="text-194">
+<p>
+<code>lacking bravery or courage</code>
+</p>
+
+<ul class="org-ul">
+<li>The pusillanimous soldier cried because he was scared of the gunfire.
+</li>
+<li>During the fight at the basketball game, the pusillanimous man tried to run from his opponent.
+</li>
+<li>The pusillanimous girl would not stand up to the school bully.
+</li>
+<li>During the storm the pusillanimous boy crawled in bed with his parents.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-195" class="outline-2">
+<h2 id="sec-195"><span class="section-number-2">195</span> <a href="https://wordsinasentence.com/putative-in-a-sentence/">Putative</a></h2>
+<div class="outline-text-2" id="text-195">
+<p>
+<code>assumed to be as such</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though there has not been a DNA test, everyone accepts Jason as the girl’s putative father.
+</li>
+<li>The film’s putative conclusion led me to believe the hero would return in a <b>sequel</b>.
+</li>
+<li>With Fat Tony in prison, Salvatore is now viewed as the putative boss of the mob.
+</li>
+<li>Many people see chicken soup as a putative cure of runny noses and chills.
+</li>
+<li>Although Charles has not received the crown, he is already being treated as the putative king of his country.
+</li>
+<li>Peter claimed to be the putative owner of the car even though he did not have the vehicle’s title in his possession.
+</li>
+<li>Because Henry is such a close friend of my parents, I view him as a putative uncle.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-196" class="outline-2">
+<h2 id="sec-196"><span class="section-number-2">196</span> <a href="https://wordsinasentence.com/putrefy-in-a-sentence/">Putrefy</a></h2>
+<div class="outline-text-2" id="text-196">
+<p>
+<code>to produce a strong odor while decaying</code>
+</p>
+
+<ul class="org-ul">
+<li>So many soldiers died during the war, with their decomposing bodies left to putrefy in the fields.
+</li>
+<li>As rotting fruit began to putrefy in the compost pile, flies swarmed the mound.
+</li>
+<li>The smell of the bodies that had begun to putrefy caused authorities to become suspicious of the abandoned building.
+</li>
+<li>Water left over from the hurricane swept the area and covered the corpses that quickly started to putrefy.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-197" class="outline-2">
+<h2 id="sec-197"><span class="section-number-2">197</span> <a href="https://wordsinasentence.com/putrid-in-a-sentence/">Putrid</a></h2>
+<div class="outline-text-2" id="text-197">
+<p>
+<code>rotting, rotten, being in a state of putrefaction</code>
+</p>
+
+<ul class="org-ul">
+<li>Dealing with dead bodies, he encountered plenty of putrid odors.
+</li>
+<li>The armadillo was run over by a car four days ago, which left it putrid.
+</li>
+<li>Being left out too long, the tomatoes became putrid.
+</li>
+<li>The old cave was filled with a putrid odor, leading them to think something had recently died there.
+</li>
+<li>Putrid meat is not fit for human consumption, even if you cook it thoroughly.
+</li>
+<li>The pandemic worked to kill the crops, leaving many farmers with putrid vegetables.
+</li>
+<li>Judging by the putrid odor, it was not safe to swim in the lake.
+</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

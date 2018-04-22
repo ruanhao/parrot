@@ -1,0 +1,2084 @@
+#+TITLE:     P
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/pacify-in-a-sentence/][Pacify]]
+
+  =to placate or appease=
+
+  - If my husband thinks he can pacify me with a pearl necklace, then he *is in for* =免不了遭受= a big surprise!
+  - Hopefully the warm bottle of milk will pacify the crying baby.
+  - According to mythology, only a virginal sacrifice could pacify the angry gods.
+  - The airline attempted to pacify the *stranded* passengers with offers of free flight vouchers.
+
+
+* [[https://wordsinasentence.com/pact-in-a-sentence/][Pact]]
+
+  =a formal agreement=
+
+  - Not wanting to forget the good times they had, the high school friends made a pact to keep in touch after graduation.
+  - Each student had passed the final exam, so the teacher honored their pact and took a pie to her face.
+  - Ashton's pact with his fitness trainer made him think twice about eating a second donut.
+  - The neighbors made a pact to keep an eye on each other's houses to maintain a safe neighborhood.
+
+
+* [[https://wordsinasentence.com/pagan-in-a-sentence/][Pagan]]
+
+  =an individual who doesn’t follow one of the world’s main religions=
+
+  - My uncle is a pagan who worships money.
+  - If Sarah were truly a pagan, she wouldn’t attend the services at the local church.
+  - The missionary wanted to share his religion with every pagan he encountered.
+  - During the ceremony, the head pagan covers himself in chicken blood and walks on hot coals.
+
+
+* [[https://wordsinasentence.com/palate-in-a-sentence/][Palate]]
+
+  =person’s sense of taste or appetite=
+
+  - Because she has a picky palate, the toddler refuses to eat anything other than chicken nuggets.
+  - Jenny will *stretch her palate* tonight and try squid and some other interesting dishes.
+  - I enjoy most *pasta dishes*, but my palate isn’t very fond of seafood based recipes.
+  - The sweetness added to the top of the *casserole* was too much for my palate.
+
+
+* [[https://wordsinasentence.com/palatial-in-a-sentence/][Palatial]]
+
+  =on a large scale with elaborate furnishings=
+
+  - The palatial diamond ring was so heavy it made Gina’s finger hurt.
+  - With one hundred and fifty floors, the Abdu tower is one of the most palatial buildings in the  world.
+  - A palatial house in the country is much cheaper than a similar mansion in the city.
+  - Because the museum is so palatial in size, one needs at least two days to view all of the exhibits.
+
+* [[https://wordsinasentence.com/pall-in-a-sentence/][Pall]]
+
+  =a thing or person that makes something depressing or dismal=
+
+  - The car accident that killed five students cast a pall over the graduation ceremony.
+  - After the president’s *embezzlement* scandal *came to light*, a pall of distrust covered the administration.
+  - The prospect of a war has thrown a pall over the prosperous economy.
+  - Do you think the recent rise in gun violence will cast a pall over the city’s Olympic bid?
+
+
+* [[https://wordsinasentence.com/palliate-in-a-sentence/][Palliate]]
+
+  =to get rid of or alleviate=
+
+  - After surgery, Greg received large doses of medications to palliate his suffering.
+  - Kurt hoped he could palliate his wife’s anger by buying her flowers.
+  - After a long night of drinking, Bill takes a pill to palliate the symptoms of the hangover he expects to have the next day.
+  - Perhaps a nap will palliate my headache.
+  - During the counseling session, the therapist will try and palliate the conflict between the frustrated couple.
+  - The psychologist suggested I write a letter to my deceased mother in order to palliate the anger I felt towards her.
+  - In their studies, the nurses learned many ways to palliate their patients’ misery.
+
+* [[https://wordsinasentence.com/palliative-in-a-sentence/][Palliative]]
+
+  =soothing remedy to relieve pain such as medicine=
+
+  - My rash needs some palliative lotion if it is going to stop hurting and heal.
+  - Would you like some palliative medicine for your neck pains?
+  - The doctor said that you need to apply some palliative medicine to your incision if you experience any pain.
+  - The cut on my back needs some palliative gel to help me walk around.
+
+
+* [[https://wordsinasentence.com/pallid-in-a-sentence/][Pallid]]
+
+  =pale skin or lacking in vitality or interest=
+
+  - Although she is a *redhead* =红毛= with very *fair skin* =白皙的皮肤=, Maureen has tried all sorts of ways to give her pallid complexion just a touch of color.
+  - His pallid complexion is a definite indication that he spends all his time indoors.
+  - Because her face was so pallid, I had no reason to believe that she was pretending to be sick to get out of cleaning up the kitchen.
+  - When I saw myself standing next to the mime in the photo, I decided that next to him, my pallid complexion was *downright* =彻头彻尾的= rosy!
+  - I didn’t get past the first chapter of the book because I found the main character to be a *whiny* =爱哭哭啼啼的=, pallid caricature of a romantic heroine.
+  - When Romeo saw Juliet’s pallid face in the *crypt* =（尤指旧时做墓穴用的）教堂地下室= , he believed she was really dead.
+  - This new novel of his is just a pallid remake of the bestseller that made him famous.
+
+
+* [[https://wordsinasentence.com/palpitate-in-a-sentence/][Palpitate]]
+
+  =to thump or throb intensely=
+
+  - When the music at the concert started to palpitate, it caused my head to hurt.
+  - Janet felt her heart palpitate rapidly as she walked nervously onto the stage.
+  - Whenever Tim becomes really angry, the veins in his neck start to noticeably palpitate.
+  - Since Eric has a phobia of reptiles, his heart will palpitate if he even looks at a photo of a snake.
+
+
+* [[https://wordsinasentence.com/pamper-in-a-sentence/][Pamper]]
+
+  =to indulge with affection and attention=
+
+  - The gentleman would pamper his wife with a shoulder massage *on a consistent basis* =始终如一=.
+  - To unwind from everyday stress, be sure to take the time treat and pamper yourself regularly.
+  - Occasionally, it’s nice to pamper your family with a spontaneous trip to the beach.
+  - After a tense day at work, she chose to pamper herself with hot yoga and a pedicure.
+
+
+* [[https://wordsinasentence.com/pander-in-a-sentence/][Pander]]
+
+  =to spoil a person by giving him his desires, usually something immoral or illegal=
+
+  - The woman on the corner did not realize she was attempting to pander her sexual services to an undercover cop.
+  - Because Jim wants his son to value a dollar, he does not pander to his whims by giving him everything he wants.
+  - I hate reality shows because I believe they pander to people who enjoy watching immoral activities.
+  - In some cases, corrupt lobbyists pander to politicians by giving them cash bribes.
+
+* [[https://wordsinasentence.com/pane-in-a-sentence/][Pane]]
+
+  =a piece of glass used in windows=
+
+  - When the baseball crashed through the pane, the father explained to his son how important it is to hit the ball away from the house.
+  - Details for the historical house included a pane over the front door showing the character of the house.
+  - After slamming the door, the pane fell out and crashed to the ground almost injuring a passerby.
+  - Attempting to wash the pane in the skylight proved impossible due to the ceilings being twelve feet high.
+
+
+* [[https://wordsinasentence.com/pang-in-a-sentence/][Pang]]
+
+  =an abrupt yet intense spasm of distress or pain=
+
+  - When the bullet entered Rick’s stomach, it sent a pang of agony through his body.
+  - The boy experienced a pang of sorrow when he learned his puppy had died.
+  - As Sharon watched her ex-boyfriend dance with her best friend, she felt a pang of jealousy.
+  - A hunger pang reminded me I hadn’t eaten in twenty-four hours.
+
+* [[https://wordsinasentence.com/panorama-in-a-sentence/][Panorama]]
+
+  =a picture of a long scene or place=
+
+  - Hot air balloon tours allow risk-takers to see a panorama of the city below while being thousands of feet up in the air.
+  - Photos of the panorama from our beach trip reminds me of the first day we stepped onto the sand.
+  - Mayor Pike’s photograph of the city’s panorama was displayed on his wall as if he owned the entire city.
+  - Seated in the very center of the 15th row of the soccer stadium allowed me to see the panorama of the soccer field which became known as the best seats in the stadium.
+
+
+* [[https://wordsinasentence.com/parch-in-a-sentence/][Parch]]
+
+  =to dry up due to heat=
+
+  - With the sun shining so brightly, it was not difficult to parch the wet clothing.
+  - Hours after my last drink of water, my throat began to parch.
+  - Years of heat but no rain had caused the land to parch.
+  - Even sturdy desert plants began to parch under the savannah sun.
+
+* [[https://wordsinasentence.com/pare-in-a-sentence/][Pare]]
+
+  =clip, tidy up or peel something to make it look better=
+
+  - In order to make my small apartment more comfortable, I had to pare down my possessions to only a few small pieces of furniture.
+  - Since I only have an hour to run my errands, I will have to pare down my list to just three places.
+  - The chef began to pare the cucumber because including the cucumber’s skin would cause the dish to be extra chewy.
+  - To make the glazed orange cake, the first step was to pare the *zest* =橘子皮= of an orange for the glaze.
+
+
+* [[https://wordsinasentence.com/parity-in-a-sentence/][Parity]]
+
+  =the same in nature, value, or class=
+
+  - As far as parity in currency, the pound is worth more than the dollar.
+  - The price parity of the two shoe brands is nearly equal so it really does not matter which pair of shoes you buy.
+  - In my company, there is an uneven parity between the salaries of males and females with females usually earning fifteen percent less.
+  - It is impossible to establish parity with the prices of apples and oranges because they are two different fruits.
+  - When Jill reviewed the final two resumes she received, she found no parity between the nanny of ten years and the beginning babysitter.
+  - There is absolutely no parity between the fake diamond and the real stone.
+  - In an ideal world, there would be parity in the healthcare coverage received by the rich and the healthcare coverage received by the poor.
+
+
+* [[https://wordsinasentence.com/parley-in-a-sentence/][Parley]]
+
+  =conversation between enemies or rivals=
+
+  - The end result of the parley between the two world leaders was a productive trade agreement.
+  - After our parley, my former best friend and I decided to stop making unkind remarks about each other.
+  - The mediator tried to *make sense of* =弄懂= the rapid parley between the two parties.
+  - When the parley between my husband and his brother sounded as though it was going to turn violent, I stepped between the two men.
+
+
+* [[https://wordsinasentence.com/parlous-in-a-sentence/][Parlous]]
+
+  =unsafe; risky=
+
+  - Because of the storm, it was parlous for the children to leave school.
+  - People reduce their shopping expenses when they’re worried about a parlous economy.
+  - Once a popular tourist destination, the South American country has been ravaged by drug violence.
+  - Even in these modern times, pirates still make the seas parlous.
+
+
+* [[https://wordsinasentence.com/parochial-in-a-sentence/][Parochial]]
+
+  =having a restricted outlook=
+
+  - John’s view of life is parochial and does not include anything outside of his own happiness.
+  - Because of Heather’s parochial upbringing in the country, she knows nothing about living in a large city.
+  - The parochial school’s views are limited to the religious principles of the church that manages it.
+  - Since the professor tends to be parochial, he is often unwilling to listen to theories other than his own.
+  - The mayor’s parochial response to the media showed he was only focused on his opinion of the situation.
+  - In his speech, the principal detailed his parochial education plan that centered on the faculty teaching solely from the textbooks.
+  - One of my grandmother’s parochial views is that women are not capable of working outside the home.
+
+
+* [[https://wordsinasentence.com/parry-in-a-sentence/][Parry]]
+
+  =a shielding or defensive maneuver used for protection=
+
+  - She put on her sunglasses to parry his probing eyes.
+  - Before Mary walked away, she tried to parry Ann’s insult with one of her own.
+  - The boxer put up his fists to parry his opponent’s punch.
+  - Each time Riley lunged with his sword, Arthur would parry the blow by blocking it with his own blade.
+
+
+* [[https://wordsinasentence.com/parturition-in-a-sentence/][Parturition]]
+
+  =childbirth; the process of giving birth=
+
+  - Breastfeeding can continue several years after parturition is complete and the baby is born.
+  - During parturition, the *midwife* =助产士= helped ease the mother through her contractions.
+  - Without pain medicine, parturition was very painful for the laboring mother.
+  - Laboring for several hours, the expectant mother felt as if parturition would never end.
+
+
+* [[https://wordsinasentence.com/passe-in-a-sentence/][Passé]]
+
+  =out of fashion; no longer trendy=
+
+  - Why would the young man wear a passé outfit that went out of style two years ago?
+  - Nobody listens to the singer anymore because his music is so passé.
+  - Although the snuggling blanket was very popular a few years ago, today it is considered passé and is no longer available in stores.
+  - Once a new social media site becomes trendy, all of the old sites become passé and lose users.
+
+
+* [[https://wordsinasentence.com/pastiche-in-a-sentence/][Pastiche]]
+
+  =a mix of unique items=
+
+  - The mix of country, pop, and soul music made the album a fascinating pastiche of sounds.
+  - Because Maggie decorated her residence in a pastiche of styles, every room in her house is uniquely beautified.
+  - The rainbow is made of a pastiche of colors.
+  - Because the buffet contains a pastiche of *entrees*, you shouldn’t have any trouble finding a dish to *sate your hunger*.
+
+* [[https://wordsinasentence.com/pastoral-in-a-sentence/][Pastoral]]
+
+  =pertaining to the country or to country folk=
+
+  - The Smiths decided it would be better to raise their family in a pastoral area outside of the city.
+  - When I looked at the artist’s pastoral paintings, I could clearly see the fields and trees in which he played as a child.
+  - The gardens behind the church made a beautiful pastoral setting for the wedding.
+  - Because we live in a crowded urban area, we spend our vacations at a pastoral destination outside the city.
+  - John found it hard to adapt to a pastoral lifestyle after living in the city for forty years.
+  - Although Sarah was curious about pastoral cuisine, she was not eager to taste the *raccoon soup* =一种乡下喝的汤= offered by the farmers.
+  - We enjoyed the *wagon ride* =马车= through the dirt roads of the pastoral town.
+
+
+* [[https://wordsinasentence.com/pauper-in-a-sentence/][Pauper]]
+
+  =a person who lives in poverty=
+
+  - The pauper had no money and slept under a bridge.
+  - When the caring man saw the pauper had no footwear, he offered the man the pair of shoes he wore.
+  - John was basically a pauper after his wife took all his money in the divorce.
+  - During the great depression, more than one millionaire lost his fortune and became a pauper.
+
+
+* Pavid
+
+
+* [[https://wordsinasentence.com/pawn-in-a-sentence/][Pawn]]
+
+  =an item that is handed over as collateral for a money loan=
+
+  - Since my engagement ring was so important to me, I decided to pawn it so that I could get it back in a few days.
+  - After losing my job, Kevin would pawn his motorcycle and stereo at the local pawn store in order to pay his bills.
+  - Frank received $500 for his television set since he decided to pawn it instead of selling it to a neighbor.
+  - Detective Cooper showed a picture of the victim’s watch to the store’s owner to see if the criminal had tried to pawn it.
+
+
+* [[https://wordsinasentence.com/peculate-in-a-sentence/][Peculate]]
+
+  =to take money that belongs to others, usually a business or public agency=
+
+  - Because Adam needed money to pay his bills, it was hard for him to fight the temptation to peculate funds from the bank.
+  - We were shocked when we learned our *pastor* =牧师= had chosen to peculate money from our daycare fund to pay for a prostitute’s services.
+  - As a trustworthy accountant, Jim would never peculate money from the financial accounts he monitors.
+  - Why did Gina peculate money from her own charity and use it for personal use?
+  - In order to cover his drug debts, Stan decided to peculate money from the office’s *petty cash fund* =零用备用金=.
+  - Cameras are located throughout the bank in case any employees decide to peculate funds.
+  - Working together, the two embezzlers managed to peculate millions of dollars from hospital accounts.
+
+
+* [[https://wordsinasentence.com/pedagogy-in-a-sentence/][Pedagogy]]
+
+  =activities of educating, teaching or instructing=
+
+  - The school boasts the most progressive pedagogy and a 100% graduation rate.
+  - If pedagogy doesn’t keep pace with technology, today’s students will be woefully unprepared for the real world.
+  - While the basic principles of pedagogy are designed to provide learners with the best education, they are completely ineffective if students do not have the desire to learn.
+  - Mrs. Brown follows a unique style of pedagogy, and she often allows her students to take over the lesson.
+  - As public school pedagogy moves away from developing *penmanship* =书法=, many young people aren’t equipped to read or write *in cursive* =草书=.
+  - Because the test scores have been below average several years in a row, perhaps we should examine the pedagogy to see if it is sound.
+  - US representatives are looking into the pedagogy used in other countries to try to determine why American students are behind in science and math skills.
+
+
+* [[https://wordsinasentence.com/peddle-in-a-sentence/][Peddle]]
+
+  =to sell products by traveling to other places=
+
+  - In order to peddle his wares, the young man went door to door describing each product as best as he could.
+  - Instead of having to peddle her clothing, now all she had to do was to use her computer to sell her items on Ebay.
+  - It is rather impossible to peddle some items like a house or a car because they are too big to carry around.
+  - After the salesman would peddle his products around town, he would go to the local hotel for a good night sleep.
+
+
+* [[https://wordsinasentence.com/pedestal-in-a-sentence/][Pedestal]]
+
+  =a standing from which an individual is greatly admired=
+
+  - Even though you put the rapper on a pedestal for making the occasional charitable donation, the man is really just a *thug* =恶棍=.
+  - The actor is not a god so I see no reason to place him on a pedestal and worship him.
+  - When the challenger defeated the champion, he knocked a legend from his pedestal.
+  - Anna thinks so highly of her husband that she has elevated him upon a pedestal.
+
+
+* [[https://wordsinasentence.com/peep-in-a-sentence/][Peep]]
+
+  =to look=
+
+  - Take a peep inside the *treasure chest* to see what prizes you could earn for good behavior.
+  - To see if he was asleep in his *crib* =童床=, the infant’s mother took a peep at the baby monitor.
+  - Peep inside the freezer to see if we have any chocolate, strawberry, or vanilla ice cream left.
+  - Do not peep inside the girls’ *locker room* =更衣间= right now because they are changing clothes.
+
+
+* [[https://wordsinasentence.com/peeve-in-a-sentence/][Peeve]]
+
+  =an annoyance or irritant=
+
+  - Making a tapping sound on the desk was the peeve that annoyed our teacher the most.
+  - A dreaded peeve of mine is when people talk loudly on a cell phone during a movie.
+  - Texting and driving is not only a bothersome peeve of police, it is illegal in most states.
+  - Her most infuriating peeve is when people *smack their gum* =make a loud popping sound while chewing gum=, and that’s exactly what we did.
+
+* [[https://wordsinasentence.com/pell-mell-in-a-sentence/][Pell-mell]]
+
+  =a confused or disorderly manner=
+
+  - The crowd of people was running about in an absolute pell-mell that was difficult for the riot police to keep under control.
+  - On Black Friday, many people engage in a massive pell-mell that can be very dangerous since everyone is running about so crazily.
+  - Someone pulled the fire alarm at the mall, causing everyone to flee the building in a pell-mell of disorderly escapees.
+  - A panicked crowd is one that runs about in a pell-mell, with little organization or direction to keep things orderly.
+
+
+
+* [[https://wordsinasentence.com/pellucid-in-a-sentence/][Pellucid]]
+
+  =very well-defined in meaning and style=
+
+  - The contract was pellucid and left no confusion about each party’s responsibilities.
+  - Because the story was not written in a pellucid manner, its plot was difficult to understand.
+  - The poem was easy to understand because of its pellucid style.
+  - When the president broadcast his budget plan for the country, he revealed a pellucid plan that was clearly outlined.
+
+
+* [[https://wordsinasentence.com/pelt-in-a-sentence/][Pelt]]
+
+  =to beat or hit repeatedly=
+
+  - When I looked up at the tree, a squirrel took an acorn and acted like it would pelt me with it.
+  - A severe thunderstorm created hail that would pelt the windshield with such force that I thought it would crack.
+  - The Boston Massacre is believed to have started when one colonist decided to pelt a British soldier with a snowball.
+  - In dodgeball the objective is to pelt your opponents with a ball without the opponents catching it.
+
+
+* [[https://wordsinasentence.com/penance-in-a-sentence/][Penance]]
+
+  =self-inflicted punishment for a misdeed=
+
+  - The priest told me to say twenty Hail Marys as a penance for my sins.
+  - Because April spent most of her teenage years mistreating her mother, she felt it was her penance to provide care for her when she became elderly.
+  - The man gave away all of his money to charity as penance for his greed.
+  - If you are a Christian, you believe Jesus paid the ultimate penance for everyone by dying on the cross.
+
+
+* [[https://wordsinasentence.com/pendant-in-a-sentence/][Pendent]]
+
+  =a piece of jewelry worn around the neck=
+
+  - The teenager had a rose gold pendent around her neck with a chain that hung low.
+  - I inherited a gold pendent necklace that had been passed down for many generations.
+  - The cross pendent around her neck was given to her on her first communion.
+  - Although the sliver pendent didn’t have much monetary value, it was a priceless necklace.
+
+
+
+* [[https://wordsinasentence.com/pendulous-in-a-sentence/][Pendulous]]
+
+  =hanging down=
+
+  - Due to the pendulous *flaps* on the oversized tablecloth, the cat would claw at it.
+  - The ladies of the Southern Magnolia Garden Club sat quietly beneath the pendulous branches of the old willow tree sipping mint juleps.
+  - Bethany’s heart sank when she noticed the pendulous petals on her rose and darkened color it had turned.
+  - Since Tara only had a queen-sized *comforter* =厚被子= to put on the twin bed, the pendulous sides hung to the floor.
+
+
+* [[https://wordsinasentence.com/pendulum-in-a-sentence/][Pendulum]]
+
+  =something hanging and swinging freely back and forth under the influence of gravity=
+
+  - When the pendulum clock strikes twelve, it produces a heavy *clanging*.
+  - When a pendulum reaches the limit of its swing, it stays *put* =不动= *for a split second* =一瞬间=.
+  - Politically speaking, the pendulum has swung so far to the left that it must reverse trend.
+  - Janet’s hair mimics the swinging of a pendulum when she goes out for a run.
+
+
+* [[https://wordsinasentence.com/penury-in-a-sentence/][Penury]]
+
+  =extreme poverty=
+
+  - My uncle wasted his fortune and died in penury.
+  - When Margot lost all her money gambling, her family was forced to live in penury.
+  - Jason foolishly went from a lifestyle of wealth and privilege to one of penury and starvation.
+  - If you don’t start to save money, you will spend your final years in penury!
+  - Everyone wants to know how the president plans on helping homeless families who are living in penury right now.
+  - Once Ann’s bank account was completely drained, she found herself in penury and in need of financial assistance.
+  - The selfish dictator is not concerned about his citizens who live and die in penury.
+
+
+* [[https://wordsinasentence.com/perambulate-in-a-sentence/][Perambulate]]
+
+  =to travel over, especially on foot=
+
+  - They decided to take a short cut and perambulate over the large hill.
+  - Everyone was intrigued when the man decided to perambulate across country.
+  - When their car broke down, the passengers had to perambulate to the nearest gas station.
+  - In order to perambulate the long tour, they invested in expensive walking shoes.
+
+
+* [[https://wordsinasentence.com/perch-in-a-sentence/][Perch]]
+
+  =to settle or land on a raised area or site=
+
+  - The birds commonly perch on the strong cable wire before diving down to the ground below.
+  - Squirrels would perch on the rooftop in order to analyze their surroundings for food on the ground.
+  - After weeks of training, the trainer was able to get the small lizard to perch on my finger for a few seconds.
+  - When a fly would perch on the rim of my glass, I would *swat it off* only for another fly to replace him.
+
+
+* [[https://wordsinasentence.com/percolate-in-a-sentence/][Percolate]]
+
+  =to gradually penetrate=
+
+  - During the gas leak, the fumes seemed to percolate the entire house.
+  - The light from the rising sun has started to percolate the dark forest.
+  - Even though the rumor is not true, eventually it will percolate the school.
+  - It didn’t take long for the blood to percolate the bandage.
+
+
+* [[https://wordsinasentence.com/peremptory-in-a-sentence/][Peremptory]]
+
+  =used to describe an order, command, etc., that you must obey without any questions or excuses=
+
+  - In a peremptory tone, the flight attendant told the passenger to either fasten his seatbelt or get off the plane.
+  - The general gave the troops a peremptory order they had to obey.
+  - Because Jack did not like following orders, he found it difficult to listen to his teacher’s peremptory instructions.
+  - The prison guard spoke to the inmate in a peremptory tone.
+  - When I was in high school, my mother gave me a peremptory curfew that required me to be in the house at eleven o’clock.
+  - The lawyer used his last peremptory strike to have an unfriendly juror removed from the case.
+  - To the nun, the *Ten Commandments* are peremptory rules that must be obeyed at all times.
+
+
+* [[https://wordsinasentence.com/perfidy-in-a-sentence/][Perfidy]]
+
+  =behavior that shows that someone cannot be trusted=
+
+  - Because my husband’s perfidy hurt me terribly, I served him with divorce papers.
+  - The evil witch is such a cruel woman that there is no perfidy beyond her imagination.
+  - When the soldier’s perfidy against the government was brought to light, people all over the country called for the man to be executed.
+  - The disgruntled curator was accused of perfidy after the robbery was determined to be an inside job.
+  - If you do business with criminals, you should not be shocked when their perfidy comes back to you in the form of a bullet in the back.
+  - Lester was arrested for corporate perfidy after it was discovered he had stolen three million dollars from one of the accounts.
+  - Because my brother was the one who attacked me, I knew I could never forget the perfidy of the incident.
+
+
+* [[https://wordsinasentence.com/perforate-in-a-sentence/][Perforate]]
+
+  =to pierce or penetrate and make holes in=
+
+  - If she would perforate the paper, she would be able to place it in her notebook rings.
+  - Scared that the knife would perforate her skin, the woman was always cautious while cutting.
+  - Although its main use was to perforate wood, the awl can be used to make holes in leather as well.
+  - A swift kick caused the ball to perforate the net and the game was paused until they found a new one.
+
+
+* [[https://wordsinasentence.com/peril-in-a-sentence/][Peril]]
+
+  =grave and imminent danger=
+
+  - Since your life is in peril, I suggest you run!
+  - To avoid peril, Helen should leave her house before the hurricane gets any closer to shore.
+  - Although Pat knew he was possibly putting his life in peril by enlisting in the military, he wanted to help protect his country.
+  - Everyone knows drinking poison is an act that will put your life in peril.
+
+
+* [[https://wordsinasentence.com/peripheral-in-a-sentence/][Peripheral]]
+
+  =relating to minor matters=
+
+  - The boss is too concerned about peripheral issues that do not matter to notice our sales are at an *all-time* =创纪录的= low.
+  - As the president of the company, Glen usually focuses on the major issues and passes the peripheral matters to his vice-presidents.
+  - Do not spend too much time on the peripheral questions because they are only worth ten percent of the test grade.
+  - Despite the loss of a few peripheral functions, the airplane will still be able to land safely.
+
+
+* [[https://wordsinasentence.com/perish-in-a-sentence/][Perish]]
+
+  =pass away; rot or decay=
+
+  - Without enough lifejackets, someone might perish at sea.
+  - We searched for a vaccination, fearing that we would perish by the plague.
+  - Jessica hates to stock up on vegetables because they tend to perish quickly.
+  - *Perish the thought* =打消念头= of us dying in an accident!
+
+
+* [[https://wordsinasentence.com/perjury-in-a-sentence/][Perjury]]
+
+  =giving false testimony after swearing to state the truth=
+
+  - During his testimony, Jim committed perjury when he misled the court about his wife’s whereabouts.
+  - John was warned by the judge to tell the truth or else be arrested for perjury.
+  - Because Ann was not honest about her participation in the murder, she was sentenced to extra time in prison for committing perjury.
+  - The mother who lied about her son's whereabouts will soon face trial for perjury.
+  - Since the politician deceived the investigator about his use of campaign funds, he is under investigation for perjury.
+  - Oscar was charged with perjury for giving false statements to the grand jury.
+  - While Rick did not participate in the crime, he is being charged with perjury because he lied under oath in order to protect his friends.
+
+
+* [[https://wordsinasentence.com/perk-in-a-sentence/][Perk]]
+
+  =a bonus or incentive=
+
+  - Since the perk to working at the restaurant was the free meals, the young man decided to take this job.
+  - As the boy walked into his favorite teacher’s classroom, he realized that it was a perk to have his best friend in the same class with him.
+  - After witnessing the stress placed on a president, having access to a personal chef seemed to be the best perk of the job.
+  - The Hawks were a solid team for the tournament, but the perk for them was getting to play every tournament game on their home field.
+
+
+* [[https://wordsinasentence.com/persiflage-in-a-sentence/][Persiflage]]
+
+  =dialogue that is joking and playful=
+
+  - Since you used persiflage, I knew you were joking about my appearance.
+  - Everyone thought the persiflage between the actor and his wife was a hilarious conversation.
+  - At first Ted was worried about the persiflage between his daughters, but then he realized they were teasing each other.
+  - The friends who were engaged in persiflage could not stop laughing at their own funny comments.
+
+* [[https://wordsinasentence.com/persnickety-in-a-sentence/][Persnickety]]
+
+  =being overly focused on small details=
+
+  - The persnickety housewife couldn’t stand for anything to be out of place in her perfect home.
+  - My boss’s persnickety personality causes her to micromanage the entire office, always wanting to make every little decision herself.
+  - Our persnickety English teacher picked our essays apart, correcting almost every single line.
+  - The picky eater is persnickety about his food and refuses to eat a steak that is *anything less than* =不是= well done.
+
+
+* [[https://wordsinasentence.com/pertinacious-in-a-sentence/][Pertinacious]]
+
+  =firm on achieving a task=
+
+  - The pertinacious girl would not stop trying to sell cookies to the toothless man.
+  - Because I am pertinacious, I will not stop until I have achieved my goals.
+  - The pertinacious actress chained herself to a tree to bring attention to her environmental fight.
+  - Although Elise has failed her driver’s test six times, her pertinacious spirit will not allow her to stop trying.
+  - The pertinacious debater would not *back down* =打退堂鼓，放弃原主张= from the argument.
+  - Even when the pertinacious athlete fell out of his wheelchair, he continued to crawl towards the finish line.
+  - Jack is a pertinacious salesman who refuses to leave a home without a sale.
+
+
+* [[https://wordsinasentence.com/peruse-in-a-sentence/][Peruse]]
+
+  =to read or examine carefully; to look over casually=
+
+  - Peruse the manual to set up your television.
+  - To see what entrées we have to offer this evening, peruse our menu.
+  - Many employers will peruse an employee's Facebook profile to what he/she does online.
+  - I have included reference material in your packet to peruse.
+  - The judge will want to peruse your incident report, so don't forget to bring it!
+  - Peruse the footnotes for additional commentary.
+  - I am sitting in a waiting room with no magazine to peruse!
+
+* [[https://wordsinasentence.com/perverse-in-a-sentence/][Perverse]]
+
+  =not normal or proper=
+
+  - The serial killer found perverse pleasure in every murder he committed.
+  - What kind of perverse person would harm a small child?
+  - The *psychopath* gets a perverse sense of enjoyment from torturing animals.
+  - Although I tried not to hold a grudge, I felt perverse joy when I learned my mean supervisor had been fired.
+  - Ann’s perverse view of a healthy relationship involves *bondage and whips* =（以捆绑寻求性快感的）性虐待癖=.
+  - Since Lester has a perverse sense of humor, he should not tell his jokes around young people.
+  - The perverse woman kept a collection of her clipped toenails in a jar in her refrigerator.
+
+
+* [[https://wordsinasentence.com/pester-in-a-sentence/][Pester]]
+
+  =to bother someone with several questions or requests to the point that it becomes a point of anger=
+
+  - Brian hated when his annoying little cousin visited because he liked to pester him with a hundred questions.
+  - The teacher created detailed lesson plans with examples so that her students wouldn't pester her with questions about the assignment.
+  - Teenagers often pester their parents to cook them food, drive them places, or give them money.
+  - Bruce wished his sister wouldn't pester him with requests to play dolls so that he could get him homework done.
+
+* [[https://wordsinasentence.com/pestilent-in-a-sentence/][Pestilent]]
+
+  =producing irritation=
+
+  - Because John has a pestilent personality, he annoys many of the kids in his class.
+  - The pestilent vapors from the nuclear plant are causing skin rashes on local citizens.
+  - To many individuals, homeless beggars are *nothing more than* =只不过是= pestilent irritants.
+  - No matter what I do the pestilent squirrels keep invading my garden.
+
+
+* [[https://wordsinasentence.com/pestle-in-a-sentence/][Pestle]]
+
+  =handheld tool used to grind or crush substances up=
+
+  - In order to get the dog to take his medicine, the owner had to crush the pill with a pestle.
+  - Most science lab kits come with a *mortar and pestle* in order to grind things down.
+  - Because of the size of the pill, I decided to use a pestle to break it into small chunks.
+  - In the science lab, the students crushed the substance into a powder using a mortar and pestle.
+
+
+* [[https://wordsinasentence.com/petition-in-a-sentence/][Petition]]
+
+  =an official document that makes a request and is signed by supporters=
+
+  - A nonviolent way to protest a law is by signing a petition requesting the annulment of the law.
+  - Because the petition did not receive the required number of signatures, it will not be brought before a council vote.
+  - Many people have endorsed the petition to save the old church.
+  - Although the execution is set for tonight, the Christian organization is still accepting signatures on its petition to halt the sentence.
+
+* [[https://wordsinasentence.com/petrify-in-a-sentence/][Petrify]]
+
+  =to scare someone into inaction=
+
+  - Because heights petrify me, I will never get on a plane.
+  - The terrorist group tries to petrify the public by showing gruesome videos.
+  - When the kidnappers mailed the bloody finger, they hoped to petrify the hostage’s family into not going to the police.
+  - The scary zombie is sure to petrify young haunted house visitors.
+
+* [[https://wordsinasentence.com/petty-in-a-sentence/][Petty]]
+
+  =small and insignificant=
+
+  - The officer did not arrest the teen for the petty crime.
+  - Even though the argument was petty, it still caused a major rift in Kelly and Jill’s friendship.
+  - Do not let a petty grudge make you spend your life ignoring someone who could be one of your best friends.
+  - Murder is not viewed as a petty crime.
+
+* [[https://wordsinasentence.com/petulance-in-a-sentence/][Petulance]]
+
+  =characterized by being bad-tempered and unreasonable, especially because you cannot do or have what you want=
+
+  - After *getting a shot* =打一针=, the infant showed increased signs of petulance and would not stop crying.
+  - Symptoms of migraines include pain, blurred vision, and petulance.
+  - Because Carrie’s petulance caused her to always be in a bad mood, nobody wanted to be around her.
+  - John’s petulance made him dislike all the things he normally favored.
+  - After being fouled out of the basketball game, the player displayed his petulance by kicking over a chair.
+  - When Travis was going through *alcohol withdrawal* =戒酒=, his feelings of petulance scared off his family.
+  - Miley had a look of petulance on her face when a fan interrupted her meal to ask for an autograph.
+
+
+* [[https://wordsinasentence.com/phantom-in-a-sentence/][Phantom]]
+
+  =a ghost=
+
+  - In her dream, Suzan was attempting to flee from a phantom that kept on getting closer, but for some reason she could not run away.
+  - Craig believed that a phantom had descended into his bottle of wine and that if he would drink it he would hallucinate.
+  - We heard terrifying sounds coming from the hermit’s house, convincing us that a phantom had *taken up* =占据= residence there.
+  - Laura thinks that a phantom entered Todd’s body, and is projecting itself through his face.
+
+
+* [[https://wordsinasentence.com/philology-in-a-sentence/][Philology]]
+
+  =the study of historical prose, poetry and linguistic fields=
+
+  - After taking my courses in Philology, Literature, Western Civilization and Poetry, I was ready to get my English and History degrees.
+  - My teacher of Philology explained the differences among a poem and a short story using authentic primary sources from the 18th century.
+  - When the girl wanted to learn about the history of her town, she took a short course in Philology and read many true ghost stories that took place there.
+  - The security officer showed the couple to the room labeled “philology” so they could find the written records of the local authors.
+
+* [[https://wordsinasentence.com/phony-in-a-sentence/][Phony]]
+
+  =fraudulent; fake; having a misleading appearance=
+
+  - Although the man claimed to be a doctor, no one was fooled by that glib phony.
+  - Fran warned us not to believe anything that Mark has to say because he is a phony who cannot be trusted.
+  - I warned the group not to be *swayed* by Rick’s good looks, because he really is a phony who will not keep any of his political promises.
+  - Derrick is a highly professional jeweler who can tell the difference between a real and a phony piece of jewelry in seconds.
+
+
+* [[https://wordsinasentence.com/picayune-in-a-sentence/][Picayune]]
+
+  =insignificant; small=
+
+  - While twenty dollars may seem like a picayune sum to you, it is a fortune to a starving person.
+  - Jim was not upset because he lost only a picayune amount of money at the casino.
+  - In the big scheme of life, the death of a single ant seems picayune.
+  - The hotel manager hates to deal with customers who complain about picayune issues like tiny wrinkles in their bed sheets.
+
+
+* [[https://wordsinasentence.com/pictorial-in-a-sentence/][Pictorial]]
+
+  =to be expressed in pictures=
+
+  - The pictorial novel was a hit with people who disliked reading and enjoyed looking at pictures.
+  - As she looked through the pictorial magazine, she was impressed at how much emotion was conveyed through the photographs.
+  - The pictorial book called, “The Red Book” is a popular children’s book with no words inside.
+  - A short pictorial article exposing the politician’s affair ruined the reputation of the politician.
+
+
+* [[https://wordsinasentence.com/piddling-in-a-sentence/][Piddling]]
+
+  =useless petty and trivial=
+
+  - I am tired of your petty piddling questions that have nothing to do with the issue at hand.
+  - The students wasted valuable class time piddling around during time designated for a project.
+  - Mom was piddling around the kitchen all day, but there is still nothing cooked.
+  - Your piddling income couldn’t even cover a week’s worth of groceries.
+  - Amy tends to get upset of the most piddling things, crying and carrying on about nothing.
+  - The pedestrian dropped his change in the sewer, but losing such a piddling sum of money was no big deal.
+  - Lisa claims that she wants to lose weight but offers piddling and trivial excuses every time I invite her to the gym.
+  - Compared to the millionaire’s enormous bank roll, the small amount of taxes he has to pay seems like a piddling amount.
+
+* [[https://wordsinasentence.com/piecemeal-in-a-sentence/][Piecemeal]]
+
+  =made bit by bit=
+
+  - Building the pyramids took years because the required effort was extensive and required piecemeal progress.
+  - Despite the public’s cries for a federal investigation into police brutality, the government’s response has been slow and piecemeal at best.
+  - With our internal struggles, we shall destroy our nation piecemeal without assistance from other countries.
+  - Using the piecemeal approach, we are not going to be able to complete this project by the deadline.
+
+
+* [[https://wordsinasentence.com/pied-in-a-sentence/][Pied]]
+
+  =pied means having two or more different colors=
+
+  - The young children rode the tan and brown pied colored pony at the birthday party.
+  - Our new addition is a pied yellow and red mixed breed puppy.
+  - The piglet’s pied tail was an adorable combination of pink and grey.
+  - Although the father’s coat was pure solid brown, the mother’s was pied.
+
+
+* [[https://wordsinasentence.com/pierce-in-a-sentence/][Pierce]]
+
+  =to make a hole in something with a sharp object=
+
+  - The native used a spear to pierce the fish swimming in the stream.
+  - Using a needle to pierce her ear caused the girl a lot of pain.
+  - A nail was not strong enough to pierce the *wall stud* =管线支架=.
+  - Without a way to pierce the fabric, the designer had to come up with a design that did not call for perforation.
+
+
+* [[https://wordsinasentence.com/pigment-in-a-sentence/][Pigment]]
+
+  =a natural substance that gives color to something else=
+
+  - The paint store was unable to match the pigment sample.
+  - In art class, we learned how to mix pigment on our pallets.
+  - The hairstylist poured pigment into the container to create the desired hair dye color.
+  - After I cut up the beets, I realized they left a red pigment on my fingers.
+
+
+* [[https://wordsinasentence.com/pillage-in-a-sentence/][Pillage]]
+
+  =to take by force, normally during a war or battle=
+
+  - The general was a decent man and did not allow any of his soldiers to pillage items from towns they invaded.
+  - During the race riot, many citizens were arrested as they tried to break into local stores and pillage expensive goods.
+  - The greedy soldiers needed several trucks to transport all the goods they had managed to pillage during the war.
+  - Without a leader, the troops took the opportunity to pillage gold coins and jewelry from every town through which they travelled.
+
+
+* [[https://wordsinasentence.com/pinch-in-a-sentence/][Pinch]]
+
+  =to tightly grip using a finger and thumb=
+
+  - Since his body fat percentage is six percent, you can’t pinch an inch from his waist.
+  - Fold the dough, and pinch it with your fingers to seal it together.
+  - Sometimes I want to pinch myself to see if I’m living in a dream.
+  - Cade was crying because his twin brother would pinch and hit him every time he tried to play with him.
+
+
+* [[https://wordsinasentence.com/piquant-in-a-sentence/][Piquant]]
+
+  =appealing or delightful=
+
+  - We were thrilled when we arrived at the piquant bed and breakfast on our honeymoon night.
+  - As the man eyed the lovely woman, he could not help but enjoy her piquant appearance.
+  - I found the piquant picture so appealing that I readily paid the photographer’s high asking price.
+  - Although the woman was not physically attractive, her piquant personality made her a pleasant companion.
+  - The piquant bouquet of white and pink roses made me forget about my husband’s late arrival.
+  - As John walked past the bakery, the piquant aroma of the baked goods tempted him.
+  - The reality show’s record number of viewers proves teenagers find the outrageous show to be very piquant.
+
+
+* [[https://wordsinasentence.com/pique-in-a-sentence/][Pique]]
+
+  =to trigger curiosity or interest=
+
+  - Hopefully the movie trailer will pique the interest of moviegoers and motivate them to buy tickets to see the film.
+  - The mysterious stain on the church wall is sure to pique the curiosity of a number of religious fanatics.
+  - In a messy crime scene like this one, it is doubtful the detective will find a clue to pique his attention.
+  - Publishers use book *blurbs* =书的宣传语= to pique the curiosity of readers.
+
+* [[https://wordsinasentence.com/pirouette-in-a-sentence/][Pirouette]]
+
+  =a ballet move that requires spinning on foot with the raised foot pressed against your knee=
+
+  - The pirouette is a famous spin move used in both ballet and figure skating.
+  - A dedicated ballerina practices the pirouette every day.
+  - Executing a successful pirouette requires very good balance.
+  - The pirouette is a dance move most commonly performed by ballerinas.
+
+
+* [[https://wordsinasentence.com/piteous-in-a-sentence/][Piteous]]
+
+  =provoking pity=
+
+  - After being stuck in the rain all night, the puppy looked piteous.
+  - The cries of the wounded animal were piteous so I was happy when the veterinarian *put him to rest* =使安息=.
+  - When I saw the piteous homeless man, I gave him all the money I had in my wallet.
+  - The piteous woman begged her doctor to give her something for pain.
+
+
+* [[https://wordsinasentence.com/pith-in-a-sentence/][Pith]]
+
+  =spongy tissue in animals and plants=
+
+  - The heart of a watermelon is the best part because the pith tastes the best.
+  - Since I don’t like orange pith, I purchase non-pulp orange juice from the grocery store.
+  - Because the center of the meat is raw, make sure the pith isn’t bloody when served.
+  - Soft melon pith is the opposite of hard peeling.
+
+
+* [[https://wordsinasentence.com/pitiless-in-a-sentence/][Pitiless]]
+
+  =ruthless, unmerciful, and without remorse=
+
+  - The judge was pitiless when sentencing the murderer to the death penalty.
+  - Operating with a pitiless conscience, the thieves robbed innocent people at gunpoint.
+  - No animal deserves to be treated in such a harsh, cruel and pitiless manner.
+  - The chef received pitiless scrutiny on the flavorless dish as reviewed by the food critic.
+
+
+* [[https://wordsinasentence.com/pittance-in-a-sentence/][Pittance]]
+
+  =a tiny amount of something=
+
+  - The housekeeper was unable to pay her bills with the pittance her employers paid her.
+  - As a cashier, the single mother earns a pittance that barely permits her to buy food for her children.
+  - The pittance the homeless man makes from selling scrap metal allows him to eat every other day.
+  - Because Jared was unsatisfied with the pittance his parents gave him each week, he started a dog walking business to earn extra cash.
+
+
+* [[https://wordsinasentence.com/pivot-in-a-sentence/][Pivot]]
+
+  =to turn or rotate on a fixed point=
+
+  - During the recital, the ballerinas pivot on their tiptoes simultaneously to the speed of the music.
+  - A broken clock’s hand would continuously pivot around the numbers and it seemed it would never stop.
+  - Based on the teacher’s instructions, we would make the pencil in the compass pivot nonstop so the circle kept getting darker.
+  - The children’s game required a child to constantly pivot around the other children until they became dizzy.
+
+* [[https://wordsinasentence.com/plait-in-a-sentence/][Plait]]
+
+  =braid=
+
+  - The young woman ahead of me in line wore her hair with a plait running down her back and tied at the end.
+  - After combing Patty’s hair smooth, her mother fixed a tiny plait of hair on either side of her head.
+  - Deciding to have an informal wedding, the bride wore a plait in her hair intertwining it with baby’s breath.
+  - Many cowgirls are known to wear a plait in their hair so that it doesn’t get in their way when riding in the rodeo.
+
+
+* [[https://wordsinasentence.com/plateau-in-a-sentence/][Plateau]]
+
+  =a time or point where no advancement is made=
+
+  - Since my weight loss has hit a plateau, I need to increase my workout to start losing weight again.
+  - Once the ticket sales reached a plateau, we had to reduce the price in order to attract more buyers.
+  - Ellen knew she had reached her plateau at her company when she failed to get promoted after five years of hard work.
+  - No matter how fast Mark ran he could not get past the plateau of his fastest running time.
+
+
+
+* [[https://wordsinasentence.com/platonic-in-a-sentence/][Platonic]]
+
+  =describing a relationship without sexual intimacy=
+
+  - My partnership with Alice is strictly platonic because we are both happily married to other people.
+  - In a platonic relationship, the individuals don’t engage in sexual activities.
+  - Frank and Lisa have a platonic bond not an intimate one.
+  - While Sam and Linda were once married, they are now divorced and have only a platonic relationship.
+
+
+* [[https://wordsinasentence.com/plaudit-in-a-sentence/][Plaudit]]
+
+  =a showing of approval or applause=
+
+  - As my daughter accepted her award, she *blushed* =脸红= upon hearing the principal’s gracious plaudit.
+  - When the shy teenager heard the applause, she had no idea she was receiving a plaudit for her charitable efforts.
+  - The soldier refused to accept a plaudit for his bravery because he felt he was simply performing his duty.
+  - During the award show, a local filmmaker received one plaudit after another for his outstanding short film.
+
+* [[https://wordsinasentence.com/plead-in-a-sentence/][Plead]]
+
+  =to make a case for=
+
+  - The *first time offender* =初犯= will plead for a short prison sentence.
+  - Did you plead for leniency when your father grounded you?
+  - If the defendant decides to *plead guilty* =认罪=, he may receive a lighter consequence from the judge.
+  - The legislator denies all the charges and insists he will *plead not guilty* in court.
+
+
+* [[https://wordsinasentence.com/plebeian-in-a-sentence/][Plebeian]]
+
+  =not worthy of the upper classes; ordinary=
+
+  - There is no way the plebeian could afford the country club’s expensive dues.
+  - During the formal event, the plebeian looked out of place because she was not wearing a formal gown.
+  - The millionaire called the hotel a plebeian accommodation because it did not offer room service.
+  - When the judge announced the hefty fine, the plebeian was horrified because he did not have a source of income.
+
+
+* [[https://wordsinasentence.com/pledge-in-a-sentence/][Pledge]]
+
+  =a promise=
+
+  - I made a pledge that I would go on a date with him, so I can't back out now.
+  - Mike pledged and swore to abide by the rules of the school.
+  - Government officials *pledge and swear* to uphold the laws of this institution.
+  - In this fraternity, we pledge to honor our legacy and brothers.
+
+
+* [[https://wordsinasentence.com/plenary-in-a-sentence/][Plenary]]
+
+  =attended by all members of a group=
+
+  - At the plenary meeting, all shareholders can vote on the proposal.
+  - The plenary legislative session will be attended by members of both congressional houses.
+  - During the plenary faculty meeting, all teachers will have an opportunity to vote for the location of the holiday party.
+  - The school assembly is plenary and will cover dress code expectations for all grade levels.
+
+
+* [[https://wordsinasentence.com/plenitude-in-a-sentence/][Plenitude]]
+
+  =abundance, plenty=
+
+  - Despite a plenitude of money, the oil tycoon lived very economically.
+  - A plenitude of *bird seed* =鸟食= allowed the aviarist to feed many birds at once.
+  - Thanksgiving dinner is not complete without a plenitude of food to *feast on* =享受美食=.
+  - A plenitude of eager musicians lined up outside of the auditions.
+
+
+* [[https://wordsinasentence.com/pleonasm-in-a-sentence/][Pleonasm]]
+
+  =to use more words than necessary=
+
+  - His book was mostly pleonasm because half of it was filled with unnecessary wording.
+  - Instead of getting straight to the central idea, she used pleonasm because she thought more words made it better.
+  - Her pleonasm was a page-long definition, but it could be summed up as meaning “The sun is shining.”
+  - The editor read the four thousand page book and realized it was mostly pleonasm.
+
+
+* [[https://wordsinasentence.com/plod-in-a-sentence/][Plod]]
+
+  =to advance slowly through something=
+
+  - After having painful *cramps* =痉挛=, I could only plod through the race.
+  - My dog will plod back to the house after he wears himself out in the woods.
+  - Because Ted has to plod through boring accounting forms at work, he enjoys engaging in fun activities on the weekends.
+  - Rachel lost her balance as she attempted to plod through the heavy snow.
+
+
+* [[https://wordsinasentence.com/ploy-in-a-sentence/][Ploy]]
+
+  =a gimmick or strategy=
+
+  - The store used a *bait and switch* ploy to get customers to buy a more expensive item.
+  - If the prosecutor’s ploy does not work, a guilty man could go free.
+  - The lender’s ploy is to offer you more money than requested while *downplaying* =轻描淡写= the increased rate of  interest.
+  - Although Janice may fall for your romantic ploy and forgive you this time, it does not mean she will allow you to cheat on her again.
+
+
+* [[https://wordsinasentence.com/plumber-in-a-sentence/][Plumber]]
+
+  =a person who installs and repairs water supply and sanitation pipes=
+
+  - A plumber specializes in installing and maintaining systems used for water, sewage, and drainage.
+  - We paid the plumber $300 to unclog the pipes, and it took him 30 minutes to do so.
+  - A plumber is a craftsman who installs and repairs pipes, fixtures, and appliances.
+  - The school had to hire a plumber to repair a pipe that was clogged with a letterman jacket.
+
+
+* [[https://wordsinasentence.com/plummet-in-a-sentence/][Plummet]]
+
+  =to drop abruptly=
+
+  - When the housing bubble burst, many people saw their property values plummet.
+  - The increase in the bear population has caused the salmon population to plummet.
+  - Because the number of deer in the area has started to plummet, deer hunting has been temporarily banned.
+  - Experts predicted compact disc sales would plummet when the ability to download music became available.
+  - If the temperature begins to plummet, coat sales are sure to rise.
+  - Jill’s hopes for her husband’s safe return began to plummet when the police car *pulled into* =驶入= her driveway.
+  - When the economy improves, we can expect to see the unemployment rate plummet.
+
+
+* [[https://wordsinasentence.com/plunder-in-a-sentence/][Plunder]]
+
+  =to take forcefully usually during a time of disorder=
+
+  - During the protest riots, angry citizens began to plunder goods from closed stores.
+  - The thieves were arrested as they attempted to plunder the diamond necklace from the security guard.
+  - As the store manager walked to the bank, a man attacked him in an attempt to plunder the bank deposits.
+  - The pirates tried to *overtake* =赶超= the yacht so they could plunder the billionaire’s valuables.
+  - When the gang heard the old man kept thousands of dollars in his house, they decided to tie him up and plunder his money.
+  - The commanding officer will arrest any soldier who tries to plunder gold from the *fallen dictator’s* =下台的独裁者= mansion.
+  - As soon as the teens tried to plunder the ATM, an alarm sounded and sent them running from the scene.
+
+
+* [[https://wordsinasentence.com/pluralistic-in-a-sentence/][Pluralistic]]
+
+  =related to a system in which multiple things coexist together=
+
+  - The solar system is pluralistic in nature, having multiple celestial bodies operating within it.
+  - All computer systems are pluralistic, relying on multiple different pieces of technology to operate as a whole.
+  - Because there are multiple animals involved in every food chain, nearly all food chains are pluralistic in nature.
+  - Since nearly all systems that exist rely on another being or existence to function, nearly all systems are pluralistic.
+
+
+* [[https://wordsinasentence.com/plush-in-a-sentence/][Plush]]
+
+  =anything that is soft, comfortable, or luxurious=
+
+  - Taking a seat in the hotel lobby’s plush armchair, the tired traveler knew it would be impossible to stay awake much longer.
+  - Grabbing her plush robe and slippers, the heiress called for her assistant and headed towards the spa.
+  - Even without plush bedding, the mattress in the cozy cabin slept much better than expensive brands.
+  - Grasping the keys to the plush apartment, the young Wall Street banker was glad that his risky deals had paid off.
+
+* [[https://wordsinasentence.com/poach-in-a-sentence/][Poach]]
+
+  =to cook by simmering in a small quantity of liquid=
+
+  - Mom chose to poach the egg in a small amount of water instead of frying it in bacon grease.
+  - The chef decided to poach the peaches by slowly steaming them in white wine and fruit juice.
+  - Poach the steak by gently simmering it in beef broth, and serve it with gourmet herbed butter.
+  - First, we will poach the chicken by bringing it to a soft boil in well-seasoned chicken *broth* =高汤=.
+
+
+* [[https://wordsinasentence.com/podiatrist-in-a-sentence/][Podiatrist]]
+
+  =a foot doctor=
+
+  - The sandals model consulted a podiatrist to get the wart removed quickly before her next modeling job.
+  - As the ache in my arch continued, my podiatrist recommended that I remain immobile for the next few days.
+  - If you have calluses on your feet, any podiatrist would prescribe an ointment to cure the problem.
+  - Due to swelling, I realized I needed to ask a podiatrist what to do since my shoe didn’t fit anymore.
+
+
+* [[https://wordsinasentence.com/polemic-in-a-sentence/][Polemic]]
+
+  =a written or verbal attack on an individual or thing=
+
+  - The political candidate posted a polemic on his blog that mocked his rival’s lack of *community service* =社区服务=.
+  - Because I do not like to become involved in the conflicts of others, I refuse to listen to my office mate’s polemic about another employee.
+  - The newspaper editor used his column to present a polemic that was a scathing attack against the city’s dishonest mayor.
+  - When the principal received an anonymous polemic about her leadership skills, she urged the writer to meet her face-to-face.
+
+
+* [[https://wordsinasentence.com/ponderable-in-a-sentence/][Ponderable]]
+
+  =something that is important enough to be contemplated=
+
+  - Many news reporters were covering the ponderable news stories that the country’s citizens would deem vital to their lives.
+  - John F. Kennedy stated many ponderable quotes that people still discuss today and students use in their essays.
+  - The teacher asked many ponderable questions during her lesson today that caused many students to think deeply about the topic.
+  - Since there was evidence that both proved his innocence and his guilt, the jury had a really ponderable matter to discuss.
+
+
+* [[https://wordsinasentence.com/pontificate-in-a-sentence/][Pontificate]]
+
+  =to speak in an arrogant tone, particularly for a long period=
+
+  - If you dare to question the professor, he will *give you an evil look* and then proceed to pontificate on a totally different subject.
+  - The students stopped listening when their teacher started to pontificate in a tone that implied they were stupid.
+  - Although we think the billionaire is an arrogant jerk, we always listen when he begins to pontificate about happenings in the stock market.
+  - How dare Heather open her mouth to pontificate about my relationship with John when she knows nothing about it!
+  - How many times have you sat at a bar and had to listen to a *drunkard* pontificate about his miserable marriage?
+  - When I learned my mother never graduated from high school, I could no longer *sit back* =袖手旁观= and listen to her pontificate about the value of an education.
+  - The interview was *cut short* =打断(讲话)= when the journalist started to pontificate about the celebrity’s drug addiction.
+
+
+* [[https://wordsinasentence.com/portentous-in-a-sentence/][Portentous]]
+
+  =foreboding, ominous, or threatening=
+
+  - Because Jack generally expects the worst, his language is normally portentous and filled with warnings.
+  - Mark’s portentous voice made him the perfect narrator for the horror movie.
+  - When the portentous music warned us of the upcoming violence in the film, we all sat up straight in our seats.
+  - The actions of the portentous monster kept me interested in the otherwise boring play.
+  - Despite the fact the hero was surrounded by several portentous guys, he still refused to surrender.
+  - When the young girl heard the portentous thunder, she jumped into her father’s arms.
+  - The woman called the police and complained about the portentous man who would not stop following her.
+
+
+* [[https://wordsinasentence.com/posit-in-a-sentence/][Posit]]
+
+  =to offer as a suggestion=
+
+  - Since no other venue is available, I will posit my *condominium* =公寓= as a place for the company holiday party.
+  - The students were asked to posit their ideas about the dance through the school suggestion box.
+  - Before engaging in battle, the general will posit his war plans to the president.
+  - The press is waiting to hear the scientist posit his latest theory on molecular movement.
+
+
+* [[https://wordsinasentence.com/potation-in-a-sentence/][Potation]]
+
+  =the act of drinking a beverage, usually alcohol=
+
+  - As a *recovering alcoholic*, Jim decided to refrain from potation.
+  - Bars are such successful establishments because potation is such a popular vice.
+  - When it comes to potation, some people prefer beer while others prefer wine.
+  - People get drunk when they engage in too much potation.
+
+
+* [[https://wordsinasentence.com/potentate-in-a-sentence/][Potentate]]
+
+  =someone with unlimited power, usually a leader of a country or territory=
+
+  - Our president cannot become a potentate because he has to share his power with two other branches of government.
+  - If William plans on being a potentate and running the country on his own, he needs to become more convincing as a leader.
+  - King Henry made himself the potentate of his realm by killing anyone who dared to question his decisions.
+  - Since the dictator has his huge army behind him, he can behave as a potentate because no one will challenge his unrestricted power.
+
+
+* [[https://wordsinasentence.com/pother-in-a-sentence/][Pother]]
+
+  =a disturbance or commotion=
+
+  - The police are often called to investigate a pother in rural neighborhoods.
+  - Young children tend to cause a pother when they want or need attention from their parents.
+  - Wild animals will often flee from a pother caused by humans.
+  - Curious people will often investigate a pother if they don’t know what’s causing it.
+
+
+* [[https://wordsinasentence.com/potpourri-in-a-sentence/][Potpourri]]
+
+  =a collection of various things=
+
+  - New York City is a potpourri of various nationalities and religions.
+  - The avid reader enjoyed reading a potpourri of classical literature and newer works.
+  - Displaying a potpourri of various types of artwork set the museum above others in the area.
+  - The potpourri of events sprinkled throughout the city all supported breast cancer awareness.
+
+* [[https://wordsinasentence.com/pouch-in-a-sentence/][Pouch]]
+
+  =a typically flexible small bag used for storage of equally small objects=
+
+  - Ricky likes to keep his marbles in a small pouch so he doesn’t lose them.
+  - Some people use a pouch to hold their money instead of a wallet.
+  - A leather pouch is a great way to store shells you find at the beach.
+  - Some people would consider a purse to be a pouch.
+
+* [[https://wordsinasentence.com/pound-in-a-sentence/][Pound]]
+
+  =to hit or strike something with heavy force=
+
+  - Boxers pound away at each other as they try to knock out their opponent.
+  - You often have to pound tough meat with a *mallet* to tenderize it before cooking.
+  - When she was young, Mandy would often pound on her bed when she got angry or upset.
+  - A sculptor usually has to pound their clay so they can mold it more easily.
+
+* [[https://wordsinasentence.com/prate-in-a-sentence/][Prate]]
+
+  =talking for a long time without purpose=
+
+  - Even when the intoxicated woman was placed in the police car, she continued to prate until one of the officers yelled for her to be silent.
+  - Jill put on her headphones so she would not have to listen to Paige prate about her unhappy marriage.
+  - During his visits, my grandfather will sit in the big chair and prate about his life until he talks himself to sleep.
+  - My extremely religious aunt has been known to prate on and on about her beliefs.
+  - Helen had no interest in listening to the car salesman prate about the features of a car she could not afford.
+  - Since I am unhappily single, it is sometimes difficult for me to listen to my sister prate about her happy marriage.
+  - My husband walked out the front door as I started to prate about the late hours he was keeping.
+
+
+* [[https://wordsinasentence.com/preamble-in-a-sentence/][Preamble]]
+
+  =an opening announcement used to describe what is about to be read or said=
+
+  - The preamble of the international health organization summarizes the group’s purpose.
+  - At the start, the article’s preamble informs readers about the topics the author will discuss during his interview.
+  - The constitution’s preamble gives a brief summary of the principles that are clearly defined in the document of rights.
+  - As a preamble, the company president began the annual meeting by pointing out how well the firm exceeded its goals.
+
+
+
+* [[https://wordsinasentence.com/precept-in-a-sentence/][Precept]]
+
+  =a rule that sets the pattern for one’s behavior=
+
+  - The school’s honesty precept dictates we only turn in our own work.
+  - In order to be a good parent, you must lead by precept so your kids will view you as a role model.
+  - Lawyers are supposed to follow a strict precept of ethics.
+  - If everyone lived by the precept of treating people how they would like to be treated, the world would be a wonderful place.
+  - To be a member of the secret club, you must follow every precept of the organization.
+  - In school, the little kids earn sad faces if they do not obey the precept of *keeping their hands to themselves* =Do not touch things that are not yours=.
+  - During the task, each student must write a precept for the code of laws that will determine the behavior of people in his or her fictional country.
+
+
+* [[https://wordsinasentence.com/precocious-in-a-sentence/][Precocious]]
+
+  =having mature qualities at an unusually early age=
+
+  - My precocious little girl thinks she knows everything there is to know about life.
+  - Although Jack is smart, he is a bit too precocious at six years of age.
+  - I was a precocious child who at the age of four was already discussing the daily news with my parents.
+  - While their peers were running around the playground, one precocious group of elementary school students sat and chatted about the colleges they hoped to attend.
+  - The precocious high school athlete played basketball like he was a paid professional.
+  - Even though Ann was only ten, she was quite precocious and had a strong interest in the opposite sex.
+  - At only five years of age, the precocious pianist *brought the entire audience to its feet*.
+
+
+* [[https://wordsinasentence.com/predilection-in-a-sentence/][Predilection]]
+
+  =a preference for something; a strong liking=
+
+  - Gregory goes out to watch birds daily so I assume he has a predilection for the hobby.
+  - Her predilection for chocolate-covered roaches is so weird!
+  - When the repeat offender stood in front of the court, the judge asked him if he had a predilection for getting into trouble.
+  - Since she has a sizable art collection, her predilection for art is apparent.
+  - His predilection for excess ended up killing him.
+  - The pregnant woman had a predilection for pickles and peanut butter.
+  - While girls wear the color pink often, boys have a predilection for wearing blue and black clothing.
+
+* [[https://wordsinasentence.com/preen-in-a-sentence/][Preen]]
+
+  =to groom or spruce up=
+
+  - His pet bird would preen its feathers to keep it clean.
+  - Because he was concerned with looks, he was known to preen himself throughout the day.
+  - The *spokesmodel* =代言人= asked for a mirror so he could preen himself in between each *take* =镜头=.
+  - Not wanting to preen in public, the nervous groom headed to the bathroom.
+
+
+* [[https://wordsinasentence.com/prehensile-in-a-sentence/][Prehensile]]
+
+  =able to take hold of and clasp objects=
+
+  - The monkey’s prehensile tail allowed him to spy on his enemies while dangling from a tree.
+  - A large opossum used its prehensile tail to gather and carry nesting materials.
+  - Almost as long as its body, the *bearcat’s* =小熊猫= prehensile tail is used as a 5th hand.
+  - New world porcupine’s prehensile tails help them hang on to trees while climbing.
+
+* [[https://wordsinasentence.com/prelude-in-a-sentence/][Prelude]]
+
+  =that which precedes another event=
+
+  - Movie trailers are often used as a prelude to feature films.
+  - When Jason *got down on his knees*, I knew it was a prelude to the marriage proposal of my dreams.
+  - The fast-paced musical prelude leads into the movie's police chase.
+  - As soon as Gail saw her father’s stern look, she knew it was a prelude to a long lecture about her conduct.
+
+
+* [[https://wordsinasentence.com/premium-in-a-sentence/][Premium]]
+
+  =an amount to be paid for an insurance policy=
+
+  - The woman’s life insurance policy was cancelled after she forgot to pay her premium.
+  - My job offers two health insurance policies, but both have the same two-hundred dollar a month premium.
+  - If you purchase your car insurance policy in full instead of paying monthly, the premium will be several hundred dollars cheaper.
+
+
+* [[https://wordsinasentence.com/preponderant-in-a-sentence/][Preponderant]]
+
+  =blatantly influential and powerful=
+
+  - The United States, Russia, and the China are preponderant military powers who have major influence over matters of diplomacy.
+  - Napoleon would not have won quite so many battles without his preponderant and massive naval forces.
+  - The popularity of books in the United States have a preponderant influence on what is translated and available in other countries.
+  - Einstein’s preponderant physics studies still influence how gravity is understood today.
+
+
+* [[https://wordsinasentence.com/prepossessing-in-a-sentence/][Prepossessing]]
+
+  =being appealing to others=
+
+  - The female fans went wild when the prepossessing actor walked into the theater.
+  - Because the hotel is prepossessing, it is impossible to reserve a room without booking a year in advance.
+  - The restaurant manager hires prepossessing women to work as servers in his popular sports bar.
+  - Since the house is located in the most prepossessing area of the city, it is sure to cost several million dollars.
+
+
+* [[https://wordsinasentence.com/preposterous-in-a-sentence/][Preposterous]]
+
+  =contrary to nature, reason, or common sense=
+
+  - His idea of selling dead bugs for big money is totally preposterous!
+  - Even though the plan sounds preposterous, I think it can be done.
+  - The new laws are preposterous and will not solve the real crime issue.
+  - Although you are a fast runner, it is preposterous to think you can catch that car on foot.
+  - The movie’s preposterous ending included a six-year-old serial killer who got rid of people by giving them poisoned candy.
+  - Although I normally adore John Smith’s novels, I am turned off by the preposterous storyline of the author’s latest book.
+  - It is preposterous to assume you can pass a college entrance test without studying.
+
+
+* [[https://wordsinasentence.com/presage-in-a-sentence/][Presage]]
+
+  =to give a warning something unpleasant may occur in the future=
+
+  - If the unpopular president is reelected, his win will presage a countrywide protest.
+  - The changing of the terror alert color may presage a possible terrorist attack.
+  - When the judge sentenced the ten-year-old defendant to life in prison, he knew his decision would presage the outcome of future trials.
+  - Dark clouds normally presage a storm.
+  - According to the psychic, the cards presage an upcoming tragedy in my life.
+  - Everyone knows bad weather is a presage of horrible driving conditions.
+  - After a brief discussion, the economists agreed the high rate of unemployment would more than likely presage an economic crisis.
+
+
+* [[https://wordsinasentence.com/prescience-in-a-sentence/][Prescience]]
+
+  =the capacity to know future events=
+
+  - Because Janet was amazed by the psychic’s prescience, she visited her on a regular basis.
+  - We could not deny the fortuneteller’s prescience when his prophecies were realized.
+  - Since Nana has prescience, she knows my baby is going to be a boy.
+  - Fortunately, my prescience led me to bring an umbrella to work on what was supposed to be a sunny day.
+  - The struggling gambler wished he had prescience so he could choose winning teams.
+  - When we read Ann’s diary, we knew she had prescience and had seen her death.
+  - There is always someone who thinks he has prescience and knows who will win the World Series at the start of baseball season.
+
+
+* [[https://wordsinasentence.com/presentation-in-a-sentence/][Presentation]]
+
+  =a performance or demonstration usually involving factual or persuasive information=
+
+  - Using power point, the business executive gave a presentation about workplace etiquette to his staff so that they would understand how to behave at the office.
+  - Following the principal’s presentation about graduation requirements, the parents and students sat in the auditorium realizing what they would have to do to graduate.
+  - At the environmental conference, the first presentation included data and statistics being delivered to the audience about global warming.
+  - Since the first item on the schedule involved a boring speaker just reciting the material, the presentation during the second event allowed the audience to participate with the presenter.
+
+
+* [[https://wordsinasentence.com/presentiment-in-a-sentence/][Presentiment]]
+
+  =the feeling something bad might occur=
+
+  - The presentiment lingered after I saw a black cat twice in one day.
+  - As soon as Larry saw the man with the gun approaching, he had a presentiment his life was in jeopardy.
+  - Helen would not board the airplane because of her presentiment a fatal crash would occur.
+  - Because Jake could not get rid of his presentiment of doom, he regularly went to a therapist in hopes of conquering his fears.
+  - Phil’s presentiment of disaster led him to stay away from the crowded parade.
+  - If you suffer from an anxiety disorder, you may occasionally experience a presentiment of tragedy that makes you avoid social situations.
+  - Since layoffs were being announced, Mary had a presentiment of doom when her boss called her into his office.
+
+
+* [[https://wordsinasentence.com/preside-in-a-sentence/][Preside]]
+
+  =to be in charge of something as the leader=
+
+  - Judge Judy will preside over the case and make a final ruling on the matter.
+  - Because he was friends with the defendant, the state attorney wanted someone else to preside over the trial.
+  - Adam finally agreed to preside over the book club since there was no one else who wanted to lead the meetings.
+  - As top advisor, Mr. Lee will preside over all the other *cabinet members*.
+
+
+* [[https://wordsinasentence.com/prestige-in-a-sentence/][Prestige]]
+
+  =how well something or someone is regarded=
+
+  - The word most commonly associated with the luxury hotel chain is prestige.
+  - Because of the prestige associated with the scholarship, thousands of people apply for it every year.
+  - The prestige that came with winning the literary award allowed Hiram to enter the homes of the New York elite.
+  - As a doctor, my husband’s career prestige exceeds the prestige afforded to a nursing assistant.
+
+
+* [[https://wordsinasentence.com/presumption-in-a-sentence/][Presumption]]
+
+  =a belief that something is true or false without having all of the facts=
+
+  - Because they were fighting more often than not, the girl made a presumption that her parents were unhappily married.
+  - The woman completed her workday even though there was a presumption that she was to be fired.
+  - In the 7th grade, there was a presumption that being an athlete automatically meant you were popular.
+  - No presumption proved correct when the woman tried to identify her secret admirer.
+
+
+* [[https://wordsinasentence.com/pretence-in-a-sentence/][Pretence]]
+
+  =behavior used to trick or deceive other people=
+
+  - John’s pretence of wealth included renting a luxury sedan to convince his friends of his success.
+  - Although Ann made a pretence of disinterest when her son talked about his father’s girlfriend, she was really curious about the woman.
+  - The police officer made no pretence of listening to the woman’s claim of innocence as he pushed her into his vehicle.
+  - When I told my daughter she was grounded, she shrugged her shoulders in a pretence of indifference.
+
+
+* [[https://wordsinasentence.com/pretension-in-a-sentence/][Pretension]]
+
+  =asserting a certain quality or status=
+
+  - To be the president of a country, Marcel is extremely down-to-earth and completely devoid of pretension.
+  - The butler *reeked of* =散发出= pretension as he told me to enter the house through the back door.
+  - Because the famous actress is without pretension, she is adored by millions of people who love her easygoing personality.
+  - The *wannabes* expose themselves through acts of pretension that make truly wealthy people avoid being around them.
+
+
+* [[https://wordsinasentence.com/pretext-in-a-sentence/][Pretext]]
+
+  =a fake excuse or reason=
+
+  - Under pretext of being a police officer, the gang member gained entry into the rival gang leader’s apartment.
+  - Ann’s former company fired her under the pretext of poor work ethics after she filed sexual harassment charges against her boss.
+  - Art’s pretext for being late to work involves a sick child he does not have.
+  - If the attorney wants to win the case and earn Ann a nice settlement, he must prove the pretext for the termination really was false.
+
+
+* [[https://wordsinasentence.com/prevaricate-in-a-sentence/][Prevaricate]]
+
+  =speak or act in an evasive way=
+
+  - In order to get his bill passed, the politician went out of his way to prevaricate about the release of the environmental study.
+  - Because my sister Sarah does not take bad news well, I always prevaricate when telling her something she does not want to hear.
+  - In hopes of avoiding questions about his recent car accident, the actor tried to prevaricate during his interview.
+  - When you prevaricate, you only make a complicated situation worse than it already is.
+  - If you confront Tess about her actions, she will only prevaricate about her reasons for behaving in such a manner.
+  - Because Marie’s first reaction is to prevaricate, I have a hard time believing anything she says.
+  - When teenagers talk to their parents about their bad grades, it is not unusual for them to prevaricate.
+
+
+* [[https://wordsinasentence.com/prey-in-a-sentence/][Prey]]
+
+  =something or someone that is susceptible to attack=
+
+  - The rapist stalked his prey for days.
+  - From the sky, the eagle eyed his prey as it *scurried* for cover.
+  - Troubled children are easy prey for gang leaders looking for new recruits.
+  - Because the lion had poor eyesight, it could not catch its prey.
+
+
+* [[https://wordsinasentence.com/prime-in-a-sentence/][Prime]]
+
+  =superior or best=
+
+  - If a customer wants to order the prime cut of meat, he will have to pay top dollar for that dish.
+  - Most people preferred to receive health care services from the prime hospital due to it producing optimal care for all of its patients.
+  - After the lawyer submitted his prime evidence in the case, the jury instantly believed his client was innocent.
+  - When the woman was making millions of dollar and had an active social life, she was in the prime part of her life.
+
+
+* [[https://wordsinasentence.com/privation-in-a-sentence/][Privation]]
+
+  =the state of being very poor, and lacking the basic necessities of life=
+
+  - Written records of early explorers indicate that the native people faced a great deal of hard times and privation where they had to eat insects and other unspeakable items just to stay alive.
+  - My grandparents described the Great Depression as a time of privation where there were no luxuries, but plenty of love.
+  - Although she was born into poverty, Samantha vowed that she would work hard to escape the life of privation she had suffered in her childhood.
+  - While off-shore *oil rig jobs* =石油钻塔工作= have a reputation of offering a life of privation in exchange for a comfortable salary, the truth is that many companies now provide very comfortable accommodations and amenities to keep their workers happy and productive.
+  - Birgit refused to let the privation of being homeless affect her quality of education, and no one was surprised when she was named valedictorian of her graduating class.
+  - After the privation of giving up sweets for Lent, Nellie took extreme pleasure in diving into a *double banana split* =一种甜点= for breakfast the day after Easter.
+  - Even though they were desperate to find a way to control Robert’s delinquent behavior, his parents weren’t sure if they wanted to subject him to the privation of boot camp.
+
+
+* [[https://wordsinasentence.com/privilege-in-a-sentence/][Privilege]]
+
+  =an advantage or benefit given to certain individuals=
+
+  - As a senior account executive, I now have the privilege of access to the executive lounge.
+  - Having a driver’s license is a privilege that can be taken away if a driver is not responsible.
+  - At one time only men had the privilege of voting.
+  - The president of our country has the privilege of calling the White House home.
+
+
+* [[https://wordsinasentence.com/probe-in-a-sentence/][Probe]]
+
+  =to inquire or investigate=
+
+  - An independent investigator will probe the allegations of racial bias in police hiring.
+  - A robot is being sent inside the school to probe the building for explosive devices.
+  - Before a warrant can be issued, the detective must probe the case further.
+  - The pathologist will probe the tissue for signs of cancer.
+
+
+* [[https://wordsinasentence.com/procession-in-a-sentence/][Procession]]
+
+  =group of people or thing moving along in an orderly manner=
+
+  - Behind the tank followed a long procession of the armored soldiers.
+  - *Across from* =在正对面= the ball, a procession of carriages moved up the street.
+  - Because he was well-loved, the mayor’s funeral procession followed the hearse for several miles.
+  - A grand procession rolled through the streets of the festive city.
+
+
+* [[https://wordsinasentence.com/proclaim-in-a-sentence/][Proclaim]]
+
+  =to announce or declare=
+
+  - In order to win concert tickets, I needed to proclaim my love for the band.
+  - I rented a *skywriter* to proclaim my desire to marry my girlfriend.
+  - Because we wanted to surprise our family, we waited until Christmas day to proclaim that we were expecting a baby.
+  - She had to proclaim her allergy before she ordered any food at the restaurant.
+
+
+* [[https://wordsinasentence.com/procrastinate-in-a-sentence/][Procrastinate]]
+
+  =to put off until another time=
+
+  - My project is late because I constantly procrastinate.
+  - If you procrastinate about making a purchase, you might not be able to buy the item later.
+  - The counselor urged the students to not procrastinate in filling out their college applications.
+  - When the lazy squirrel ran out of food in the winter, he learned it was unwise to procrastinate.
+  - The uncertain car buyer will procrastinate until he is sure about the type of car he wants.
+  - If Kelly did not procrastinate so much, she could meet her daily work goals.
+  - The normal person tends to procrastinate performing messy household chores.
+
+
+* [[https://wordsinasentence.com/procrustean-in-a-sentence/][Procrustean]]
+
+  =related to forcing everyone to be the same=
+
+  - All inhabitants in the town were forced to dress and behave the same under procrustean rulers.
+  - The procrustean system left no room for individuality and required all citizens to conform.
+  - His coach’s procrustean mentality meant that all of teams players were expected to perform exactly the same.
+  - The procrustean nation forbid its citizens from expressing themselves in any way that was not uniform to the country’s vision.
+
+
+* [[https://wordsinasentence.com/profane-in-a-sentence/][Profane]]
+
+  =vulgar and inappropriate=
+
+  - Because the comic’s jokes were profane and offensive to our religion, we left the show early.
+  - Our supervisor’s profane language has led many employees to resign from their positions.
+  - When the coach heard the referee’s call against his team, he began to yell profane words.
+  - The seventy-year-old nun has probably never made a profane statement in her life.
+  - Although the book is now considered a classic, it was once viewed as profane and banned from public libraries.
+  - The boy was kicked out of school after he directed a profane tirade at his teacher.
+  - In the restaurant, we were seated next to a couple that spent the entire night engaged in a profane discussion about their sex life.
+
+
+* [[https://wordsinasentence.com/proffer-in-a-sentence/][Proffer]]
+
+  =an offer made to another individual=
+
+  - Since I am hungry, I am happy to accept your proffer of a meal.
+  - Janice happily accepted the generous financial proffer made during her divorce negotiation.
+  - Because the proffer for the house is lower than the property’s value, Lars turned down the buyer’s offer.
+  - The prosecutor’s proffer for the witness includes no jail time and witness protection for three years.
+  - Although Rachel is not an uncaring person, she will not proffer help unless someone requests her assistance.
+
+
+* [[https://wordsinasentence.com/profligate-meaning-in-a-sentence/][Profligate]]
+
+  =1.) wildly extravagant or wasteful; 2.) shamelessly immoral=
+
+  - After the millionaire saw evidence of his new wife's profligate spending, he quickly filed for a divorce.
+  - During the mayor’s campaign, he swore to put an end to profligate government spending.
+  - Since she is a profligate spender, Jill buys tons of items she never uses.
+  - Not surprisingly, none of the company’s leaders are willing to accept responsibility for the profligate manner in which our money was spent.
+  - Because I considered both presidential candidates to be profligate spenders, I had a hard time deciding how to *cast my vote*.
+  - With no money worries, the hotel heiress makes several profligate purchases every week.
+  - Entertainment magazines are filled with the profligate ways in which celebrities waste money.
+
+
+* [[https://wordsinasentence.com/progenitor-in-a-sentence/][Progenitor]]
+
+  =any of a person's direct ancestors; an ancestral form of a species=
+
+  - Sharing a common progenitor meant that the two best friends were also *3rd cousins*.
+  - Some scientists suggest that because we share similar DNA, the human’s closest progenitor is chimpanzee.
+  - The hybrid plant originally descended from its progenitor, a blueberry bush.
+  - Although he was a distant progenitor, everyone said the boy had his great grandfather’s smile.
+
+
+* [[https://wordsinasentence.com/progeny-in-a-sentence/][Progeny]]
+
+  =descendants or offspring=
+
+  - Because the billionaire bachelor did not have a progeny, his entire estate went to charity when he died.
+  - Our dog is the favorite to win the show because he is a progeny of a long line of champions.
+  - Although Diane is the progeny of a very wealthy man, she still chooses to live a humble life in a one-bedroom apartment.
+  - A wise breeder always keeps the male progeny of his finest bulls.
+  - According to the rules of succession, only a *male progeny* can replace his father on the throne.
+  - Janice has passed her genes for poor skin on to her progeny.
+  - Unfortunately, the criminal’s progeny followed in his footsteps and is now in prison for life.
+
+
+* [[https://wordsinasentence.com/prognosis-in-a-sentence/][Prognosis]]
+
+  =the predicted outcome of a situation=
+
+  - After being hit by a car, the small dog’s health prognosis was not good.
+  - The infant was given an excellent prognosis after having heart surgery.
+  - Due to the company’s financial prognosis, we will probably be out of business in less than three months.
+  - My car has over two hundred thousand miles so I am not expecting a good prognosis from the mechanic.
+
+
+* [[https://wordsinasentence.com/prognosticate-in-a-sentence/][Prognosticate]]
+
+  =to forecast the future=
+
+  - Using computer technology, meteorologists attempt to prognosticate the future.
+  - The sports writer believes he can prognosticate the Super Bowl champions based on last year’s statistics.
+  - Every year, many foolish people pay fortunetellers to prognosticate their futures.
+  - Today your doctor will be performing your annual physical in order to prognosticate your future health.
+  - According to legend, there are a number of women who can look at tealeaves and prognosticate the number of children a woman will have.
+  - It is hard to fool my parents because they always seem to be able to prognosticate my actions even before I do them.
+  - When Rachel looked up at the sky, she saw dark clouds that appeared to prognosticate the end of her beach weekend.
+
+
+* [[https://wordsinasentence.com/projectile-in-a-sentence/][Projectile]]
+
+  =something that will be or has been expelled from some object=
+
+  - The projectile went from the prisoner’s mouth and onto the guard’s face.
+  - If the military projectile hits the building, it will *take out* =除去= several floors.
+  - The tennis ball became a projectile as it shot out of the ball machine.
+  - When the projectile crashed through the window, it sent shards of glass everywhere.
+
+
+
+* [[https://wordsinasentence.com/prolix-in-a-sentence/][Prolix]]
+
+  =prone to using large words that most people do not understand=
+
+  - The prolix professor had a habit of using complex words that most people could not comprehend.
+  - Because the novel was so prolix, I had to read it with a dictionary beside me.
+  - The prolix speaker did not realize most of the audience members were confused by the large words he used.
+  - When the *expert witness* =鉴定人= explained the forensic evidence, he used prolix language that left most of the jury  puzzled.
+
+
+* [[https://wordsinasentence.com/prologue-in-a-sentence/][Prologue]]
+
+  =an introduction that usually precedes a novel or play=
+
+  - The play’s prologue provides the audience members with insight into what they are about to watch.
+  - Because the prologue was so short, I had no idea what to expect from the novel.
+  - As a prologue occurs at the beginning of a novel or play, it should trigger the audience’s interest.
+  - Before the play began, the narrator read the prologue and set the scene for the interactions.
+
+
+* [[https://wordsinasentence.com/prominent-in-a-sentence/][Prominent]]
+
+  =showing distinction above others in a specific area=
+
+  - There is a six-month waiting list to see the most prominent psychiatrist in the city.
+  - If you are a prominent member of society, you will surely get an invitation to the mayor’s fundraising gala.
+  - The singer’s concerts sell out within minutes because she is viewed as one of the most prominent vocalists of our time.
+  - Once Jacob won the lottery, he sold his humble home and moved to one of the most prominent areas of the city.
+
+* [[https://wordsinasentence.com/promissory-in-a-sentence/][Promissory]]
+
+  =something that implies or guarantees a promise=
+
+  - My friend often makes promissory statements, but he always fails to keep those ludicrous promises that he makes.
+  - I received a promissory note from the government that promised me ten thousand dollars, though it is likely a scam.
+  - There are all sorts of fraudulent websites on the internet with promissory statements of free money, but anyone that is not completely gullible sees through them.
+  - For someone that makes the same promissory comment to his friends nearly every day, Joe has still failed to become the most popular boy in school.
+
+* [[https://wordsinasentence.com/prompt-in-a-sentence/][Prompt]]
+
+  =in good time; punctual=
+
+  - Because I take pride in being prompt, I always leave early for work.
+  - Normally I have to wait to hear back from my teachers so I was shocked to receive such a prompt reply from Mr. Edwards.
+  - The taxi driver could not promise me the trip would be prompt because of the heavy traffic.
+  - Since Ann was not prompt for her massage appointment, her time slot was given to another customer.
+
+
+* [[https://wordsinasentence.com/prophecy-in-a-sentence/][Prophecy]]
+
+  =a prediction or foretelling of what's to come=
+
+  - As the Persians suffered one loss after another, Daniel’s prophecy from years before was proven to be true.
+  - Jack speaks about his ideas as if they are words of prophecy, when we all know that they are nothing more than speculation.
+  - We believed the old man’s words of prophecy, as his foretelling of future events have been proven true in the past.
+  - The people bowed before the prophet, begging him to speak his words of prophecy, and to tell them of great things yet to come.
+
+
+* [[https://wordsinasentence.com/prophet-in-a-sentence/][Prophet]]
+
+  =a person who speaks for God, or someone who can predict what will happen in the future=
+
+  - In the bible, Noah was a prophet who warned the people that God would bring a flood to wipe out humanity because of all of their thievery and deceit.
+  - The people laughed at the words of the prophet, claiming that he never did commune with a higher being, although he really had.
+  - Ron is a wise day trader whose stock predictions are so accurate that people laughingly compare him to a prophet.
+  - In the bible, Jonah was a prophet who warned the people of Nineveh to repent before it was too late.
+
+
+* [[https://wordsinasentence.com/propulsion-in-a-sentence/][Propulsion]]
+
+  =a force or energy that causes progress or movement=
+
+  - The plane cannot leave the hangar until its propulsion system is fixed.
+  - Using his feet for propulsion, Jack was able to kick himself to the surface of the pool.
+  - The writer used time travel as a propulsion to send his character two hundred years back in time.
+  - Do you know what kind of propulsion sends the spaceship out of the Earth’s atmosphere?
+
+* [[https://wordsinasentence.com/prorogue-in-a-sentence/][Prorogue]]
+
+  =to defer or discontinue Parliament or other government business for a period of time=
+
+  - The governor was advised to prorogue Parliament for now and call a meeting at a later date.
+  - It is the task of the country’s monarch to summon Parliament to make decisions and prorogue them when more time is needed.
+  - As is his duty, the king chose to prorogue the House of Parliament, discontinuing their assemblies on the subject.
+  - Opposition inside the state’s government led leaders to prorogue any voting until the political climate settled.
+
+* [[https://wordsinasentence.com/prosecution-in-a-sentence/][Prosecution]]
+
+  =the process of holding a trial against a person who is accused of a crime=
+
+  - Prosecution of the defendant will be difficult since the evidence against him is all circumstantial.
+  - It took several months for prosecution of thief to take place since the attorneys schedules never seemed to align.
+  - Prosecution of several innocent victims took place during the Salem witch trials, lead to the deaths of many after *make-believe trials*.
+  - Deciding *against prosecution* =反对公诉= of the young mother was a *tough call* =艰难的决定= and brought on angry threats by those who felt she should be tried for neglect.
+
+
+* [[https://wordsinasentence.com/prosperity-in-a-sentence/][Prosperity]]
+
+  =an abundance of resources=
+
+  - When Jake reached his goal of prosperity, he realized he had neglected his family for his professional achievements.
+  - Once Karen has prosperity and can fulfill all her financial dreams, she still may not be happy.
+  - As soon as the miners heard about the opportunity for prosperity, they packed up their homes and went in search of gold.
+  - While prosperity is great, being successful is not the key to happiness.
+
+
+* [[https://wordsinasentence.com/prosperous-in-a-sentence/][Prosperous]]
+
+  =successful; well off=
+
+  - The prosperous man never had to worry about having enough money to pay his bills.
+  - Although the restaurant took a while to become prosperous, it was soon grossing over a million dollars a year.
+  - Hank shows how prosperous he is by having parties at his mansion every weekend.
+  - Since Jill did not come from a prosperous family, she had to get a job to pay for her prom dress and graduation fees.
+
+* [[https://wordsinasentence.com/protagonist-in-a-sentence/][Protagonist]]
+
+  =the leading character in a literary composition=
+
+  - The protagonist was willing to give his life for the woman he loved.
+  - In the screenplay, the protagonist must rob a bank in order to save his daughter’s life.
+  - A protagonist usually has an antagonist opposing his goals.
+  - By the end of the movie, we realize the protagonist cannot achieve his dreams because of his greedy nature.
+
+* [[https://wordsinasentence.com/protean-in-a-sentence/][Protean]]
+
+  =changing often; variable=
+
+  - Because the woman’s affections are protean, she has ten ex-husbands.
+  - George is a protean actor who is capable of playing numerous characters.
+  - Since the mutant superhero is protean, she can take the form of anyone she encounters.
+  - I am unable to make a final decision because of my protean nature which makes me indecisive.
+
+
+* [[https://wordsinasentence.com/protuberance-in-a-sentence/][Protuberance]]
+
+  =something that protrudes or sticks out from something else=
+
+  - A *hairy* =可怕的= protuberance *from* the woman’s nose stuck out just enough to make the neighborhood children think she was a witch.
+  - The bony protuberance coming out from the child’s finger was said to be an extra *digit* =手指= by delivery doctors.
+  - An odd protuberance jetted out from the woman’s elbow overnight, leaving her to question what the lump might be.
+  - After he was hit with the baseball, a protuberance that looked like a round knot attached itself to the boy’s knee.
+
+
+* [[https://wordsinasentence.com/protuberant-in-a-sentence/][Protuberant]]
+
+  =protruding; bulging=
+
+  - The eerie looking fish had a protuberant jaw that stuck out from the rest of his small body and was filled with bony teeth.
+  - Protuberant bellies of the children on the island are an indication that they are swelling from malnutrition.
+  - The toddler’s protuberant lips were always stuck out when she pouted to get her way.
+  - Protuberant eyes seemed to bulge from the doll’s face, giving her a creepy look.
+
+
+* [[https://wordsinasentence.com/provenance-in-a-sentence/][Provenance]]
+
+  =origin or the source of where something derived from=
+
+  - Since the provenance of this dish came from Italy, many people wanted to go to Italy to taste the actual authentic dish.
+  - Realizing that the provenance of the antique chest was from France, it let the dealer know that this piece was created in 18th century Paris.
+  - An archeologist discovered the provenance of the fossil as being from China’s historical Ming Dynasty.
+  - When the geologist determined the rock’s provenance dated back to the Ice Age, this rock was over 2.6 million years old.
+
+
+* [[https://wordsinasentence.com/proverbial-in-a-sentence/][Proverbial]]
+
+  =used often to describe something=
+
+  - Everyone in class knew the proverbial quote from the hit animated comedy.
+  - When my mother saw the dirty bathroom, she viewed the mess as the *proverbial straw* =When we talk about "a proverbial" something, it means something relating to a proverb.= she needed to withhold my allowance.
+  - My grandmother always followed the awful cough medicine with the proverbial spoon of sugar.
+  - Like a proverbial *drill sergeant* =教官=, the teacher kept her class quiet and organized.
+  - The night before his wedding Steve got a case of the proverbial cold feet and thought about cancelling the ceremony.
+
+* [[https://wordsinasentence.com/providential-in-a-sentence/][Providential]]
+
+  =fortunate=
+
+  - It was providential that I moved out of the way before being struck by the oncoming vehicle.
+  - Winning the lottery was a providential step towards paying off my *mounting debt* =不断增加的债务=.
+  - Due to a providential storm, we stayed home and avoided an accident at the park.
+  - When we found ourselves in Europe at the same time, my fiancé and I had a providential meeting.
+
+
+* [[https://wordsinasentence.com/prowess-in-a-sentence/][Prowess]]
+
+  =Skill or expertise in an activity or field=
+
+  - Christina used her hunting prowess to survive in the woods for a week.
+  - Michelangelo, historically known for his sculptures and paintings, clearly possessed a prowess for art.
+  - With a prowess for writing, the promising author wrote a thirteen chapter fiction novel.
+  - The young girl hangs her paintings on the wall to display her prowess in art.
+  - I got my artistic prowess from my Mother, an *interior designer* =室内设计师=.
+  - If you have a prowess for writing, then you should have no problem becoming an author.
+  - While you have prowess in math, I can barely add 2 and 2 without a calculator.
+
+* [[https://wordsinasentence.com/prowl-in-a-sentence/][Prowl]]
+
+  =to move around quietly in a place trying not to be heard or seen=
+
+  - I called the police when I noticed a masked man prowl through the neighborhood.
+  - When we walked down the dark alley, we saw cats prowl by the *dumpsters* =大垃圾箱=.
+  - We wanted to sneak out of school, so we had to prowl through the hallways without drawing attention to ourselves.
+  - I dropped my phone on the walk to school, so I had to prowl through the neighbor’s bushes to look for it.
+
+* [[https://wordsinasentence.com/prude-in-a-sentence/][Prude]]
+
+  =one who is easily offended or shocked by rude things=
+
+  - I wouldn’t consider myself a prude, but I was offended at the comedian’s *off-color jokes* =低级笑话=.
+  - My grandmother revealed how much of a prude she was when she told me my *hem-line* was too short.
+  - Because I wouldn’t allow my daughters to wear *tank tops* =大圆领女背心=, they told me I was a prude.
+  - The prude *chaperoned* =在交际场中监护少女的)年长女伴= her children’s dates.
+
+
+* [[https://wordsinasentence.com/pry-in-a-sentence/][Pry]]
+
+  =to look where one is not welcome; to be nosey=
+
+  - Her reputation was that she liked to pry into people’s private lives.
+  - In order to pry into the subject’s past, the detective interviewed family members.
+  - The nosey woman considered how she could pry information out of the shy club member.
+  - Not wanting to pry, I didn’t ask why my neighbor was moving so suddenly.
+
+
+* [[https://wordsinasentence.com/puerile-in-a-sentence/][Puerile]]
+
+  =silly or childish especially in a way that shows a lack of seriousness or good judgment=
+
+  - Since my son is thirty-three years of age, I do not find his puerile behavior amusing.
+  - Your jokes are puerile and not appropriate for a woman of your years.
+  - If you behave in a puerile manner during a job interview, the interviewer will think you are very childish.
+  - The fireman was scolded for playing puerile pranks on his coworkers.
+  - Because my father takes everything very seriously, he has little patience for puerile humor.
+  - My teenage daughter was upset when her puerile conduct got her sent to the little kids’ table at dinner.
+  - Although Bill is normally known for coming up with great ideas, his latest proposal is puerile and *borders on* being ridiculous.
+
+
+
+* [[https://wordsinasentence.com/puissant-in-a-sentence/][Puissant]]
+
+  =having a large amount of authority or power=
+
+  - Because the dictator was puissant, he could do anything he wanted without seeking permission.
+  - The movie star believed a puissant person like herself should never have to wait in line.
+  - As a mediator, the puissant prime minister was able to get both of the leaders to agree to a peace accord.
+  - The puissant school superintendent has the authority to close schools in the event of inclement weather.
+  - Since some of the smallest men in history have changed the world, it is obvious size does not determine a person’s puissance.
+  - The puissant knight quickly defeated all of his challengers on the field.
+  - Without the permission of a puissant judge, the man’s conviction cannot be overturned.
+
+
+* [[https://wordsinasentence.com/pulchritude-in-a-sentence/][Pulchritude]]
+
+  =physical beauty=
+
+  - Because we all know that beauty is only *skin deep*, you should always look beneath the pulchritude on the outside to see what’s going on in a person’s heart and soul.
+  - Although this actress is not a woman of great pulchritude, her vast talent has won her more awards than anyone else in the business.
+  - The magazine editor had an eye for pulchritude, and he was surrounded by beautiful women until the day he died.
+  - Not only is Angelina Jolie a woman of great pulchritude, her humanitarian efforts have demonstrated that she is equally as beautiful on the inside as on the outside.
+  - Although the citizens of that country are well-known for their hospitality, it is their pulchritude and vitality as a people that attracts artists who are looking for models.
+  - Whoever would have thought that a funny-sounding word like pulchritude would mean something beautiful?
+  - Among the characters of Greek mythology, Narcissus was the man who possessed such abundant pulchritude that he fell in love with himself.
+
+
+* [[https://wordsinasentence.com/pullulate-in-a-sentence/][Pullulate]]
+
+  =to be crowded or overpopulated=
+
+  - At the annual Tri-State Farmer’s Auction, the cows would pullulate in the small *pen* barely having any room to move around.
+  - As the bees began to pullulate around Henry when he disrupted the beehive, there were too many bees to count.
+  - Typically on a sunny Saturday, Disneyworld is known to pullulate with many eager people because this tourist attraction draws many visitors.
+  - Many passersby began to pullulate around the injured little boy that even the paramedics could not see what was happening when they arrived.
+
+
+* [[https://wordsinasentence.com/pulverize-in-a-sentence/][Pulverize]]
+
+  =to break into tiny pieces or destroy=
+
+  - The tiny wrestler knew his giant opponent was going to pulverize him.
+  - Using the food processor, I am going to pulverize the vegetables into small pieces.
+  - Kathryn hates boxing because she does not like to watch men pulverize each other.
+  - Because Will was certain his favorite football team would pulverize its opponent, he bet all his savings on the game.
+
+
+* [[https://wordsinasentence.com/punctilious-in-a-sentence/][Punctilious]]
+
+  =showing great attention to detail or correct behavior=
+
+  - Because my aunt is quite punctilious when it comes to table settings, every utensil must be turned properly.
+  - My father was punctilious about having all of his ties lined up by color.
+  - While I enjoy cleanliness, I am not so punctilious that I get upset about a little dust on my furniture.
+  - Pharmacists must be very punctilious because the actions they take could result in fatalities.
+  - Although Kevin grew up in a poor home, his punctilious manners allowed him to fit in anywhere.
+  - The prisoner was released early because he never got in trouble and displayed punctilious behavior at all times.
+  - While a smart woman, Cathy was a lousy editor who was not punctilious and lacked the ability to focus on details.
+
+
+* [[https://wordsinasentence.com/pundit-in-a-sentence/][Pundit]]
+
+  =one who gives his opinion as an expert in a specific field=
+
+  - During the trial, the prosecutor will call upon a pundit of forensics to link the evidence to the suspect.
+  - John is the pundit in our science class who usually knows all the test review answers.
+  - Although Jill has never been to Greece, she often speaks about the culture as though she is a pundit of the country.
+  - The attorney is often asked to provide insight as a pundit for the *primetime legal drama* =黄金时段的法律剧=.
+
+* [[https://wordsinasentence.com/puny-in-a-sentence/][Puny]]
+
+  =tiny and weak=
+
+  - People underestimate my strength because I appear puny.
+  - Our cat delivered kittens, but no one wanted to adopt the puny *runt* =（一胎中）最弱小的动物= of the *litter* =一胎幼崽=.
+  - My brother said that I was too puny to try out for the football team.
+  - The audience thought the puny girl would not sing loudly, but she surprised everyone when her strong voice filled the auditorium.
+
+* [[https://wordsinasentence.com/purgatory-in-a-sentence/][Purgatory]]
+
+  =a situation that causes misery=
+
+  - To the teenage girl, listening to her teachers’ boring lectures all day was purgatory.
+  - The freshman did not mind the purgatory he had to endure to become a *full-fledged* =完全合格的= fraternity member.
+  - Because Jake hated to sit still for a long period of time, he viewed his upcoming eight-hour flight as purgatory.
+  - Janet calls the bullying she faces at school her personal purgatory.
+
+
+* [[https://wordsinasentence.com/purge-in-a-sentence/][Purge]]
+
+  =to get rid of something or someone=
+
+  - After he saw his parents making out in the back seat of their Buick, Kevin vowed that he would do whatever it took to purge the image from his brain.
+  - Because she never intended to gain back the weight she had lost, Jennifer decided to purge her wardrobe of anything bigger than a size 10 and then go shopping.
+  - Although this cleansing diet will purge toxins from my system temporarily, my nutritionist warned me that they’ll come right back if I return to my former bad eating habits.
+  - Myrna is so superstitious that she hired a spiritualist to purge her new house of evil spirits.
+  - It is essential for all nations to remain vigilant to foreign leaders who intend to purge the planet of minority groups that they consider to be undesirable.
+  - In an effort to save money, officials decided to try to purge the company of overpaid executives by offering them early retirement.
+  - After watching a TV show about *hoarders* =喜欢囤积东西的人=, Darlene resolved to purge her house of any items that she didn’t absolutely need.
+
+
+* [[https://wordsinasentence.com/purify-in-a-sentence/][Purify]]
+
+  =to cleanse something; to remove contaminants=
+
+  - Pumps were used to purify the dirty water that came from the pond.
+  - Because the drinking water was found to have a brain-eating amoeba, crews were called in to purify the system.
+  - Chemists were able to purify the compound and cleanse it of any impurities.
+  - The company will need to purify the fuel and rid it of any contaminants before it can be delivered for sale.
+
+* [[https://wordsinasentence.com/purloin-in-a-sentence/][Purloin]]
+
+  =to take another’s belongings without permission=
+
+  - Because Eddie tried to purloin the woman’s purse, he spent the night in jail.
+  - Jill was shocked when her best friend tried to purloin her favorite necklace.
+  - During the raid, a crooked police officer was caught trying to purloin drug money.
+  - The experienced pickpocket was able to purloin watches and wallets without being observed.
+
+
+* [[https://wordsinasentence.com/purport-in-a-sentence/][Purport]]
+
+  =to imply something is true although it is most likely false=
+
+  - The drug manufacturer knows it is against the law to purport claims about its product’s effectiveness.
+  - In the scam, a suspicious person from a foreign country will purport to have a large inheritance for the email recipient.
+  - The website is for entertainment only and does not purport to give you an accurate prediction of your future.
+  - To get your money, the psychic will purport she can talk to your deceased loved ones.
+  - Why does Karen purport she knows Spanish well when she is only familiar with two words in the language?
+  - When the woman gets on the witness stand, she will most likely purport her husband was home all night.
+  - The prosecutor warned the jury the defendant would purport he was an innocent man.
+
+
+* [[https://wordsinasentence.com/purveyor-in-a-sentence/][Purveyor]]
+
+  =an individual who provides supplies for others, often food=
+
+  - Even during times of war rationing, the purveyor was able to find coffee and sugar for the wealthy families.
+  - The weapons purveyor is wanted in several countries for providing radicals with bombs.
+  - When we asked the wine purveyor about his *best bottles*, he mentioned a bottle of champagne that cost  over thirty thousand dollars.
+  - The House of Wythe is the official purveyor of linens to the royal family.
+
+
+* [[https://wordsinasentence.com/pusillanimous-in-a-sentence/][Pusillanimous]]
+
+  =lacking bravery or courage=
+
+  - The pusillanimous soldier cried because he was scared of the gunfire.
+  - During the fight at the basketball game, the pusillanimous man tried to run from his opponent.
+  - The pusillanimous girl would not stand up to the school bully.
+  - During the storm the pusillanimous boy crawled in bed with his parents.
+
+* [[https://wordsinasentence.com/putative-in-a-sentence/][Putative]]
+
+  =assumed to be as such=
+
+  - Even though there has not been a DNA test, everyone accepts Jason as the girl’s putative father.
+  - The film’s putative conclusion led me to believe the hero would return in a *sequel*.
+  - With Fat Tony in prison, Salvatore is now viewed as the putative boss of the mob.
+  - Many people see chicken soup as a putative cure of runny noses and chills.
+  - Although Charles has not received the crown, he is already being treated as the putative king of his country.
+  - Peter claimed to be the putative owner of the car even though he did not have the vehicle’s title in his possession.
+  - Because Henry is such a close friend of my parents, I view him as a putative uncle.
+
+
+* [[https://wordsinasentence.com/putrefy-in-a-sentence/][Putrefy]]
+
+  =to produce a strong odor while decaying=
+
+  - So many soldiers died during the war, with their decomposing bodies left to putrefy in the fields.
+  - As rotting fruit began to putrefy in the compost pile, flies swarmed the mound.
+  - The smell of the bodies that had begun to putrefy caused authorities to become suspicious of the abandoned building.
+  - Water left over from the hurricane swept the area and covered the corpses that quickly started to putrefy.
+
+* [[https://wordsinasentence.com/putrid-in-a-sentence/][Putrid]]
+
+  =rotting, rotten, being in a state of putrefaction=
+
+  - Dealing with dead bodies, he encountered plenty of putrid odors.
+  - The armadillo was run over by a car four days ago, which left it putrid.
+  - Being left out too long, the tomatoes became putrid.
+  - The old cave was filled with a putrid odor, leading them to think something had recently died there.
+  - Putrid meat is not fit for human consumption, even if you cook it thoroughly.
+  - The pandemic worked to kill the crops, leaving many farmers with putrid vegetables.
+  - Judging by the putrid odor, it was not safe to swim in the lake.
