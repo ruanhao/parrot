@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>长难句训练</title>
+<!-- 2018-04-26 Thu 21:49 -->
+<meta  charset="utf-8">
+<meta  name="generator" content="Org-mode">
+<meta  name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">长难句训练</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. 长成分</a>
+<ul>
+<li><a href="#sec-1-1">1.1. 长从句做主语，宾语或其他成分</a>
+<ul>
+<li><a href="#sec-1-1-1">1.1.1. 主语从句</a></li>
+<li><a href="#sec-1-1-2">1.1.2. 宾语从句</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-2">1.2. 长状语</a></li>
+<li><a href="#sec-1-3">1.3. 层层修饰</a></li>
+<li><a href="#sec-1-4">1.4. 并列成分</a></li>
+</ul>
+</li>
+<li><a href="#sec-2">2. 倒装</a>
+<ul>
+<li><a href="#sec-2-1">2.1. 及物动词加介词</a></li>
+<li><a href="#sec-2-2">2.2. 及物动词加副词</a></li>
+</ul>
+</li>
+<li><a href="#sec-3">3. 省略</a>
+<ul>
+<li><a href="#sec-3-1">3.1. 重复的成分的省略</a></li>
+<li><a href="#sec-3-2">3.2. 让步转折的省略</a></li>
+<li><a href="#sec-3-3">3.3. 定语从句引导词的省略</a></li>
+<li><a href="#sec-3-4">3.4. 定语从句中的引导词与系动词的同时省略，变成后置定语</a></li>
+</ul>
+</li>
+<li><a href="#sec-4">4. 短语分割</a></li>
+<li><a href="#sec-5">5. 多重否定</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. 长成分</a>
+<ul>
+<li><a href="#sec-1-1">1.1. 长从句做主语，宾语或其他成分</a>
+<ul>
+<li><a href="#sec-1-1-1">1.1.1. 主语从句</a></li>
+<li><a href="#sec-1-1-2">1.1.2. 宾语从句</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-2">1.2. 长状语</a></li>
+<li><a href="#sec-1-3">1.3. 层层修饰</a></li>
+<li><a href="#sec-1-4">1.4. 并列成分</a></li>
+</ul>
+</li>
+<li><a href="#sec-2">2. 倒装</a>
+<ul>
+<li><a href="#sec-2-1">2.1. 及物动词加介词</a></li>
+<li><a href="#sec-2-2">2.2. 及物动词加副词</a></li>
+</ul>
+</li>
+<li><a href="#sec-3">3. 省略</a>
+<ul>
+<li><a href="#sec-3-1">3.1. 重复的成分的省略</a></li>
+<li><a href="#sec-3-2">3.2. 让步转折的省略</a></li>
+<li><a href="#sec-3-3">3.3. 定语从句引导词的省略</a></li>
+<li><a href="#sec-3-4">3.4. 定语从句中的引导词与系动词的同时省略，变成后置定语</a></li>
+</ul>
+</li>
+<li><a href="#sec-4">4. 短语分割</a></li>
+<li><a href="#sec-5">5. 多重否定</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Author</td>
+<td class="left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="left">Date</td>
+<td class="left">2018-04-26 21:49:55</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> 长成分</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> 长从句做主语，宾语或其他成分</h3>
+<div class="outline-text-3" id="text-1-1">
+</div><div id="outline-container-sec-1-1-1" class="outline-4">
+<h4 id="sec-1-1-1"><span class="section-number-4">1.1.1</span> 主语从句</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<p>
+That each large film will act with consideration of its own needs and thus avoid selling its products for more than its competitors is commonly recognized by advocaes of free-market economic theories.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-1-2" class="outline-4">
+<h4 id="sec-1-1-2"><span class="section-number-4">1.1.2</span> 宾语从句</h4>
+<div class="outline-text-4" id="text-1-1-2">
+<p>
+The historian Frederick J. Turner wrote in the 1890's that the agrarian discontent that had been developing steadily in the United States since about 1870 had been precipitated by the closing of the internal frontier &#x2013; that is, the depletion of available new land needed for further expansion of the American farming system.
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> 长状语</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+The appreciation of traditional oral American Indian literatuure has been limited, hampered by poor translations and by the difficulty, even in the rare culturally sensitive and aesthetically satisfying translation, of completely conveying the original's verse structure, tone, and syntax.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-3" class="outline-3">
+<h3 id="sec-1-3"><span class="section-number-3">1.3</span> 层层修饰</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+A very specialized feeding adaptation in zooplankton is that of the tadpolelike appendicularian who lives in a walnut-sized or smaller balloon of mucus equipped with filters that capture and concentrate phytoplankton.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-4" class="outline-3">
+<h3 id="sec-1-4"><span class="section-number-3">1.4</span> 并列成分</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+They were fighting, albeit discrectly, to open the intellectual world to the new science and to liberate intellectual life from ecclesiastical philosophy and they envisioned their work as contributing to the growth, not of philosophy, but of research in mathematics and physics.
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> 倒装</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> 及物动词加介词</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Yet Walzer's argument, however deficient, does point to one of the most serious weaknesses of capitalism &#x2013; namely, that it brings to predominant positions in a society people who, no matter how legitimately they have earned their material rewards, often lack those other qualities that evoke affection or admiration.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> 及物动词加副词</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Friedrich Engels, howeever, predicted that women would be liberated from the "social, legal, and economic subordination" of the family by technological developments that made possible the recruitment of "the whole female sex into public industry."
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> 省略</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1"><span class="section-number-3">3.1</span> 重复的成分的省略</h3>
+</div>
+
+<div id="outline-container-sec-3-2" class="outline-3">
+<h3 id="sec-3-2"><span class="section-number-3">3.2</span> 让步转折的省略</h3>
+</div>
+
+<div id="outline-container-sec-3-3" class="outline-3">
+<h3 id="sec-3-3"><span class="section-number-3">3.3</span> 定语从句引导词的省略</h3>
+</div>
+
+<div id="outline-container-sec-3-4" class="outline-3">
+<h3 id="sec-3-4"><span class="section-number-3">3.4</span> 定语从句中的引导词与系动词的同时省略，变成后置定语</h3>
+</div>
+</div>
+
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> 短语分割</h2>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> 多重否定</h2>
+</div>
+</div>
+</body>
+</html>

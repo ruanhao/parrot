@@ -1,0 +1,72 @@
+#+TITLE:     长难句训练
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: </div>
+
+
+* 长成分
+
+** 长从句做主语，宾语或其他成分
+
+*** 主语从句
+
+That each large film will act with consideration of its own needs and thus avoid selling its products for more than its competitors is commonly recognized by advocaes of free-market economic theories.
+
+
+*** 宾语从句
+
+The historian Frederick J. Turner wrote in the 1890's that the agrarian discontent that had been developing steadily in the United States since about 1870 had been precipitated by the closing of the internal frontier -- that is, the depletion of available new land needed for further expansion of the American farming system.
+
+
+** 长状语
+
+The appreciation of traditional oral American Indian literatuure has been limited, hampered by poor translations and by the difficulty, even in the rare culturally sensitive and aesthetically satisfying translation, of completely conveying the original's verse structure, tone, and syntax.
+
+
+** 层层修饰
+
+A very specialized feeding adaptation in zooplankton is that of the tadpolelike appendicularian who lives in a walnut-sized or smaller balloon of mucus equipped with filters that capture and concentrate phytoplankton.
+
+
+** 并列成分
+
+They were fighting, albeit discrectly, to open the intellectual world to the new science and to liberate intellectual life from ecclesiastical philosophy and they envisioned their work as contributing to the growth, not of philosophy, but of research in mathematics and physics.
+
+
+* 倒装
+
+** 及物动词加介词
+
+Yet Walzer's argument, however deficient, does point to one of the most serious weaknesses of capitalism -- namely, that it brings to predominant positions in a society people who, no matter how legitimately they have earned their material rewards, often lack those other qualities that evoke affection or admiration.
+
+
+** 及物动词加副词
+
+Friedrich Engels, howeever, predicted that women would be liberated from the "social, legal, and economic subordination" of the family by technological developments that made possible the recruitment of "the whole female sex into public industry."
+
+
+* 省略
+
+** 重复的成分的省略
+
+** 让步转折的省略
+
+** 定语从句引导词的省略
+
+** 定语从句中的引导词与系动词的同时省略，变成后置定语
+
+
+* 短语分割
+
+* 多重否定
