@@ -1032,6 +1032,8 @@
 
   =done rapidly without thinking=
 
+  #+HTML: <img src="https://img1.qunarzz.com/travel/d0/201312/10/693346da46caf6eeddb12cfb.jpg"/>
+
   - Because Richard never thinks about the consequences of his precipitous actions, he often ends up in jail.
   - You should think before you do precipitous stunts that endanger your life!
   - Before the colonel makes a precipitous decision, he must consider the number of lives he might lose in battle.
