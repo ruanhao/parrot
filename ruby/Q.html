@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Q</title>
+<!-- 2018-05-08 Tue 23:08 -->
+<meta  charset="utf-8">
+<meta  name="generator" content="Org-mode">
+<meta  name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Q</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Quagmire</a></li>
+<li><a href="#sec-2">2. Quaint</a></li>
+<li><a href="#sec-3">3. Qualm</a></li>
+<li><a href="#sec-4">4. Quantifiable</a></li>
+<li><a href="#sec-5">5. Quantum</a></li>
+<li><a href="#sec-6">6. Quash</a></li>
+<li><a href="#sec-7">7. Querulous</a></li>
+<li><a href="#sec-8">8. Quiescent</a></li>
+<li><a href="#sec-9">9. Quixotic</a></li>
+<li><a href="#sec-10">10. Quaff</a></li>
+<li><a href="#sec-11">11. Quail</a></li>
+<li><a href="#sec-12">12. Quandary</a></li>
+<li><a href="#sec-13">13. Queer</a></li>
+<li><a href="#sec-14">14. Quell</a></li>
+<li><a href="#sec-15">15. Quench</a></li>
+<li><a href="#sec-16">16. Quibble</a></li>
+<li><a href="#sec-17">17. Quirk</a></li>
+<li><a href="#sec-18">18. Quondam</a></li>
+<li><a href="#sec-19">19. Quotidian</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Quagmire</a></li>
+<li><a href="#sec-2">2. Quaint</a></li>
+<li><a href="#sec-3">3. Qualm</a></li>
+<li><a href="#sec-4">4. Quantifiable</a></li>
+<li><a href="#sec-5">5. Quantum</a></li>
+<li><a href="#sec-6">6. Quash</a></li>
+<li><a href="#sec-7">7. Querulous</a></li>
+<li><a href="#sec-8">8. Quiescent</a></li>
+<li><a href="#sec-9">9. Quixotic</a></li>
+<li><a href="#sec-10">10. Quaff</a></li>
+<li><a href="#sec-11">11. Quail</a></li>
+<li><a href="#sec-12">12. Quandary</a></li>
+<li><a href="#sec-13">13. Queer</a></li>
+<li><a href="#sec-14">14. Quell</a></li>
+<li><a href="#sec-15">15. Quench</a></li>
+<li><a href="#sec-16">16. Quibble</a></li>
+<li><a href="#sec-17">17. Quirk</a></li>
+<li><a href="#sec-18">18. Quondam</a></li>
+<li><a href="#sec-19">19. Quotidian</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Author</td>
+<td class="left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="left">Date</td>
+<td class="left">2018-05-08 23:08:36</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/quagmire-in-a-sentence/">Quagmire</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>a situation from which it is hard to escape</code>
+</p>
+
+<ul class="org-ul">
+<li>Many young people do not realize the quagmire to which occasional drug use can lead.
+</li>
+<li>Since Jim lost all of his money gambling, he is stuck in a financial quagmire.
+</li>
+<li>When Hank called me from jail, I knew he was in a quagmire.
+</li>
+<li>When Marie’s car broke down, getting to work became a quagmire for her.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/quaint-in-a-sentence/">Quaint</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>appearing old-fashioned in an appealing way</code>
+</p>
+
+<ul class="org-ul">
+<li>My grandmother’s quaint home is filled with knick-knacks from her childhood.
+</li>
+<li>As I walked through the quaint shop, I felt as though I was transported back in time.
+</li>
+<li>The quaint village does not appear to have changed since it was first settled in the early 1900s.
+</li>
+<li>Before I left the old house, I had to sit in the quaint rocking chairs on the front porch.
+</li>
+<li>The antebellum mansion looks very quaint under the moss-covered trees.
+</li>
+<li>As soon as we entered the quaint home, we noticed it was filled with charming antiques.
+</li>
+<li>Tabitha looked adorable in her quaint homemade dress.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/qualm-in-a-sentence/">Qualm</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>a feeling of doubt or uncertainty about whether you are doing the right thing</code>
+</p>
+
+<ul class="org-ul">
+<li>Under the influence of drugs, Matt had no qualm whatsoever about spending all of his money at the casino.
+</li>
+<li>I have a serious qualm about my teenage daughter dating an older man.
+</li>
+<li>Without any qualm, the killer shot the young woman in the face.
+</li>
+<li>My qualm with this company is their lack of contributions to local charities.
+</li>
+<li>The crooked businessman appeared to have no qualm about tearing down the nursing home to build a parking lot.
+</li>
+<li>As Jenna walked down the aisle to meet her future husband, she experienced a qualm that almost made her change her mind about getting married.
+</li>
+<li>When Margaret desperately needed money, she seemed to have no qualm about robbing others.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/quantifiable-in-a-sentence/">Quantifiable</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>able to be measured</code>
+</p>
+
+<ul class="org-ul">
+<li>Scientists used a calculator to average the quantifiable data gathered during the experiment.
+</li>
+<li>Although the teacher tried to determine which children were the best readers from the assessment, the results were not quantifiable.
+</li>
+<li>After grading all of the quantifiable tests, the teacher wrote letter grades on each one.
+</li>
+<li>Quantifiable surveys were conducted to gauge the number of employees who were unhappy with current insurance options.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/quantum-in-a-sentence/">Quantum</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>The smallest amount of something, specifically energy</code>
+</p>
+
+<ul class="org-ul">
+<li>Measuring the quantum amount of the object essentially destroyed it.
+</li>
+<li>Quantum complexities are just a small part of the make-up of the human brain.
+</li>
+<li>Quantum mechanics was used to explain properties of several energy forms.
+</li>
+<li>While quantum energy could not be measured fully, the scientist continued to work on the experiment.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/quash-in-a-sentence/">Quash</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>to put an end to something</code>
+</p>
+
+<ul class="org-ul">
+<li>Refusing to give in to the toddler’s demands, the exasperated mother was hell-bent on coming up with a plan to quash the tantrums.
+</li>
+<li>My defense team tried to quash the subpoena but it was served anyway.
+</li>
+<li>Tired of squabbling, the exhausted husband agreed to quash the argument and go shopping with his wife.
+</li>
+<li>Scientists were able to quickly quash the outbreak through a new immunization.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/querulous-in-a-sentence/">Querulous</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>full of complaints; complaining</code>
+</p>
+
+<ul class="org-ul">
+<li>If there was an award for being querulous, my aunt would win because she is always complaining about something.
+</li>
+<li>I don’t mean to be querulous, but I do believe I should get my money’s worth at all times.
+</li>
+<li>Forgive me for sounding querulous, but there is a bug in my soup.
+</li>
+<li>Whenever my father had too many drinks, he would become querulous and complain about everything.
+</li>
+<li>During the plane trip, I had to sit next to a querulous lady who did nothing but criticize the flight attendants.
+</li>
+<li>If my little boy does not take his nap on time, he becomes querulous and finds fault with everything.
+</li>
+<li>I was a querulous kid who always argued with my mother when she put vegetables on my dinner plate.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/quiescent-in-a-sentence/">Quiescent</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>not active; quiet</code>
+</p>
+
+<ul class="org-ul">
+<li>For once, our hyperactive Great Dane is quiescent and resting on the rug.
+</li>
+<li>Now that school has started back, my neighborhood is pretty quiescent during the day.
+</li>
+<li>While the bees are quiescent early in the morning and in the evening, they are overactive in the middle of the day.
+</li>
+<li>During the quiescent phase of the lab, we simply observe and note the growth of the cells.
+</li>
+<li>After the mediation between the two warring countries, the region became quiescent.
+</li>
+<li>You have no reason to be concerned about the quiescent volcano.
+</li>
+<li>As long as the protest remains quiescent, the police will not be called.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/quixotic-in-a-sentence/">Quixotic</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>unrealistic and impractical</code>
+</p>
+
+<ul class="org-ul">
+<li>Although Jack’s plan for killing the giant was quixotic, it was the village’s only hope.
+</li>
+<li>Henry knew running for class president was a quixotic idea, but he was not going to let his enemy run unopposed.
+</li>
+<li>It is quixotic to think you can get away with walking into the prison and breaking out your boyfriend.
+</li>
+<li>While the knight’s quest sounded noble, in reality it was a quixotic plot which could only end in the young man’s death.
+</li>
+<li>Everyone told Jennifer her dream of being a Hollywood star was quixotic, but she proved them wrong when she became a ten million dollar actress.
+</li>
+<li>Because reality does not always have a happy ending, most women prefer to watch quixotic romantic-comedies that normally end with the girl getting her guy.
+</li>
+<li>Nobody believed the tiny boy would achieve his quixotic goal of making the football team.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/quaff-in-a-sentence/">Quaff</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>to hastily consume a beverage</code>
+</p>
+
+<ul class="org-ul">
+<li>The huge athlete was able to quaff down a gallon of water in less than two minutes.
+</li>
+<li>On any college campus, you can find at least one frat boy who will quaff any beverage given to him.
+</li>
+<li>My husband always has to quaff a pot of coffee before leaving for work.
+</li>
+<li>When the thirsty sailors were on leave, they would quaff as much beer as they could hold.
+</li>
+<li>The intoxicated girl tried to quaff the entire keg.
+</li>
+<li>When the man was rescued from the desert, he wanted to quaff the entire bottle of water.
+</li>
+<li>After the last final exam, my friends and I went to the pub to quaff a few drinks.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/quail-in-a-sentence/">Quail</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>a small, short-tailed, commonly hunted bird</code>
+</p>
+
+<ul class="org-ul">
+<li>Known as a gourmet chef, Emeril Lagasse created a masterpiece of flavors by snipping off the wings and removing the feathers off the quail before roasting and serving it to the queen.
+</li>
+<li>For the experienced hunters, hunting quail proved difficult due to its high flying abilities and its brown feathers allowing it to camouflage into nature.
+</li>
+<li>When I visited the local park, a quail darted near the pond and pecked with its beak at the bread crumbs lying around.
+</li>
+<li>The only artwork I was interested in at the art sale was a watercolor picture of a brown quail perched with its short tail dangling over the tree limb.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-12" class="outline-2">
+<h2 id="sec-12"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/quandary-in-a-sentence/">Quandary</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>a state of doubt about what to do in a certain situation; a difficult situation</code>
+</p>
+
+<ul class="org-ul">
+<li>Mark is in a quandary about whether or not he should keep the money he found in the park.
+</li>
+<li>When the lawyer told us our lawsuit options, we realized we were in a quandary about which legal path to take.
+</li>
+<li>I find myself in a moral quandary about whether or not I should tell my wife the truth about my affair.
+</li>
+<li>Because you are in a quandary and doubting your ability to make a decision, I suggest you talk to one of your friends about your problem.
+</li>
+<li>Since I am always honest with my parents, I found myself in a quandary when my best friend asked me to lie to my father about my whereabouts.
+</li>
+<li>The decline of the housing market has put many real estate agents into a financial quandary.
+</li>
+<li>When my husband and I were debating our vacation plans, we were in a quandary between going on a cruise and flying to New York City.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-13" class="outline-2">
+<h2 id="sec-13"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/queer-in-a-sentence/">Queer</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>strange; odd</code>
+</p>
+
+<ul class="org-ul">
+<li>Peering into the queer little house, Georgia couldn’t understand why all the unusually shaped furniture was painted pink and blue.
+</li>
+<li>Because of his queer habits, the recluse was seen as strange by his fellow townspeople.
+</li>
+<li>Lily found it queer that her sister had pet monkey’s but accepted her odd obsession all the same.
+</li>
+<li>The queer little object looked like something out of a science fiction movie.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-14" class="outline-2">
+<h2 id="sec-14"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/quell-in-a-sentence/">Quell</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>to calm or reduce</code>
+</p>
+
+<ul class="org-ul">
+<li>Before Sarah gives a speech, she always drinks a shot of whiskey to quell her nerves.
+</li>
+<li>The old man drinks warm milk to quell his upset stomach.
+</li>
+<li>During the riots, over five hundred policemen worked to quell the uproar.
+</li>
+<li>The principal tapped the microphone to quell the noise in the auditorium.
+</li>
+<li>In order to quell unemployment, the government is giving more business loans.
+</li>
+<li>Troops are being deployed to quell the threat of violence from the terrorist nation.
+</li>
+<li>Because Hiriam wants to quell his urge to smoke, he is now using nicotine patches.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-15" class="outline-2">
+<h2 id="sec-15"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/quench-in-a-sentence/">Quench</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>to satisfy an actual or figurative thirst, or to put out a fire</code>
+</p>
+
+<ul class="org-ul">
+<li>Aiming to quench her thirst, the runner guzzled down the water at full speed.
+</li>
+<li>When they were finally able to quench the flames of the fire, the firefighters breathed a sigh of relief.
+</li>
+<li>Although it failed to quench her thirst for a summer road trip, the mini-vacation at the lake was a distraction for the avid traveler.
+</li>
+<li>Unable to quench the flame on by blowing, the birthday girl laughed as she realized that her parents had bought a prank candle.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-16" class="outline-2">
+<h2 id="sec-16"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/quibble-in-a-sentence/">Quibble</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>to quarrel about minor matters</code>
+</p>
+
+<ul class="org-ul">
+<li>It is normal for married couples to quibble over small things like who controls the television remote.
+</li>
+<li>Whenever the two historians meet, they quibble over historical facts before drinking a pitcher of beer.
+</li>
+<li>We should not quibble over a small detail like borrowed money before your surgery.
+</li>
+<li>When my ex-husband and I are together, all we do is quibble over the lack of support he gives me.
+</li>
+<li>The billionaire did not quibble over the five-dollar service charge.
+</li>
+<li>As usual the city council members chose to quibble over holiday party details rather than deal with the city’s issues.
+</li>
+<li>How long do you think the politicians will quibble over the budget proposals before they finally select one?
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-17" class="outline-2">
+<h2 id="sec-17"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/quirk-in-a-sentence/">Quirk</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>an odd behavior or different way of acting</code>
+</p>
+
+<ul class="org-ul">
+<li>Janice has this irritating quirk of rolling her eyes whenever she speaks.
+</li>
+<li>According to Ken, his habit of constantly wringing his hands is just an uncontrollable quirk.
+</li>
+<li>Wearing only pink socks is Greg’s oddest quirk.
+</li>
+<li>In the film, the killer’s quirk of styling his victims’ hair led the police to the salon where he worked.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-18" class="outline-2">
+<h2 id="sec-18"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/quondam-in-a-sentence/">Quondam</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>former; previous</code>
+</p>
+
+<ul class="org-ul">
+<li>The quondam beauty queen was much more exotic than the one currently being crowned.
+</li>
+<li>Before retiring, the quondam editor trained me to take over his position.
+</li>
+<li>Readers were surprised that the quondam CEO was speaking out against the company that he helped build from the ground up.
+</li>
+<li>The quondam lovers could barely look at each other after they ended their relationship.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-19" class="outline-2">
+<h2 id="sec-19"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/quotidian-in-a-sentence/">Quotidian</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>everyday events that are normal and not that exciting</code>
+</p>
+
+<ul class="org-ul">
+<li>As the days of celebration wore on, the formerly spectacular events began to seem more quotidian, and the king found himself yawning at the chariot races.
+</li>
+<li>There is a precise schedule for taking care of quotidian tasks, but all your time is your own once you have completed them.
+</li>
+<li>Every year Mrs. Anderson is faced with the task of taking quotidian assignments from the curriculum and trying to make them stimulating for her students.
+</li>
+<li>Even though the life of rock stars may seem exciting and glamorous, the days they spend traveling while on tour are as quotidian as yours and mine.
+</li>
+<li>Compared to the process of shopping for their time share, the couple found it difficult to sit through the quotidian necessity of ironing out the details in the contract.
+</li>
+<li>Because Arthur has a simple quotidian talent for painting, he prefers to create art for his own enjoyment rather than exhibiting it to the public.
+</li>
+<li>Emily has an admirable enthusiasm for life, and she attacks even the most quotidian of chores with energy and passion.
+</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

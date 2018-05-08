@@ -1,0 +1,2767 @@
+#+TITLE:     R
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/radiant-in-a-sentence/][Radiant]]
+
+  =shining with happiness=
+
+  - The bride looked radiant as she walked down the aisle.
+  - As the woman prayed and found inner peace, a radiant look crossed her face.
+  - My best friend was able to cheer me up with her radiant smile.
+  - When the nun took her vows, she was radiant with joy.
+
+
+
+
+
+* [[https://wordsinasentence.com/ragged-in-a-sentence/][Ragged]]
+
+  =tattered and worn=
+
+  - An old, ragged flag showed its tattered stripes as it ripped back and forth in the wind.
+  - The pioneers’ ragged clothing showed wear from the grueling trip west.
+  - A shabby, ragged cross stood in front of the church for decades before being torn down.
+  - Ragged and shabby clothing donned the back of the scruffy panhandler.
+
+
+
+
+* [[https://wordsinasentence.com/rampant-in-a-sentence/][Rampant]]
+
+  =not restrained=
+
+  - During the riots, crime was rampant in the streets.
+  - Diseases associated with contaminated water are rampant in the country of Haiti.
+  - Unfortunately, underage drinking is rampant in the college town.
+  - Sadly, the Internet has made it easier for the rampant spread of false information.
+
+* [[https://wordsinasentence.com/ramshackle-in-a-sentence/][Ramshackle]]
+
+  =worn down; in disrepair=
+
+  - I will be surprised if your ramshackle car can make it out of the driveway.
+  - To build new subdivisions, the city is tearing down all of the ramshackle houses that were abandoned after the hurricane.
+  - The ramshackle table collapsed during our Thanksgiving meal.
+  - Because I value my safety, there is no way I am going to climb up the ramshackle ladder.
+
+* [[https://wordsinasentence.com/rancid-in-a-sentence/][Rancid]]
+
+  =being foul in taste or smell=
+
+  - The oil went rancid because it was overly exposed to sunlight.
+  - The prisoners were fed rancid meat that made them retch and vomit.
+  - Route 95 always has a rancid smell due to a nearby landfill.
+  - When the door opened, we were hit by a rancid odor.
+
+
+* [[https://wordsinasentence.com/rancor-in-a-sentence/][Rancor]]
+
+  =a feeling of hate or anger=
+
+  - Even though my mother despised her twin sister, she always spoke about her without rancor.
+  - It is hard for me to not feel rancor towards the woman who married my ex-boyfriend.
+  - Although my friend betrayed me, I have no rancor towards him.
+  - The fiery debate created rancor among the political candidates.
+  - Because of the rancor I feel towards my sister, I never go home for the holidays.
+  - While my daughter acted friendly when she ran into her former best friend, I knew it took a great deal of effort for her to hide her rancor.
+  - Sometimes I wonder if I will ever be able to let go of the rancor I feel towards my cruel stepmother.
+
+
+* [[https://wordsinasentence.com/rarefy-in-a-sentence/][Rarefy]]
+
+  =to convert into something less thick=
+
+  - The humidifier will rarefy the room by putting moisture in the air.
+  - Because of an increase in residential developments, the forests are continuing to rarefy.
+  - The chemotherapy may rarefy a person’s hair and cause baldness.
+  - To make the mixture less dense, add water to rarefy it.
+
+* [[https://wordsinasentence.com/ratify-in-a-sentence/][Ratify]]
+
+  =to officially go on the record as approving something=
+
+  - Unfortunately, half of the legislators refuse to ratify a bill that would increase funding for public schools.
+  - The shareholders will ratify any merger that will increase their dividends.
+  - If the president chooses to ratify the budget proposal, the new budget will go into effect in January.
+  - The oil producing countries will not ratify an agreement that limits their ability to raise fuel prices.
+  - Since the students worked with administrators to create the new dress code, they are sure to ratify the proposal at their monthly meeting.
+  - The tax reduction will not continue if at least three-fourths of the legislators do not vote to ratify the extension.
+  - Because one state has chosen not to ratify the amendment, the amendment will not be added to the U.S. Constitution.
+
+
+
+
+* [[https://wordsinasentence.com/rational-in-a-sentence/][Rational]]
+
+  =centered on reasoning or logic=
+
+  - I cannot have a rational discussion with my delusional aunt.
+  - According to the physician, there is no rational explanation for the disappearance of the tumor.
+  - The defendant did not have a rational excuse to explain his vicious attack on the priest.
+  - Since Tim was diagnosed with a mental disorder, he has been taking medicine to help him think in a rational manner.
+
+* [[https://wordsinasentence.com/raucous-in-a-sentence/][Raucous]]
+
+  =behaving in a noisy and disorderly way=
+
+  - Raucous but fun is how they always describe her birthday parties.
+  - Although Mitchell never had a dollar to buy a drink, he was always the most raucous person at the bar.
+  - With a raucous laugh and an evil grin, the purse snatcher grabbed my purse and ran.
+  - Did you hear that shots were fired at the raucous rap concert?
+  - When their football team ran out onto the field, the fans became quite raucous.
+  - After listening to the raucous cries of a variety of birds, Dr. Samuels was able to understand their mating calls.
+  - His talk show was popular because of the raucous behavior of the studio audience.
+
+
+
+* [[https://wordsinasentence.com/ravage-in-a-sentence/][Ravage]]
+
+  =to destroy=
+
+  - The category five hurricane will ravage the city.
+  - Despite the efforts of the firemen, the fire continued to ravage the forest.
+  - It took the teething puppy only a few minutes to ravage the stuffed animal.
+  - If diabetes is not controlled, it can ravage many organs in the human body.
+
+
+* [[https://wordsinasentence.com/rave-in-a-sentence/][Rave]]
+
+  =to speak wildly and incoherently, as though insane=
+
+  - The hermit would rave at anyone that happened upon his home in the woods, never making sense or saying anything reasonable.
+  - People who take drugs are likely to rave at others if they are not in their right mind, though that usually only happens when they take drugs that are not prescription.
+  - The crazy man that had been living by himself could only rave at the people that tried to talk to him after his rescue.
+  - People who wake up confused from a dream or a nightmare may rave unintelligibly for a few moments before anyone can understand them.
+
+
+* [[https://wordsinasentence.com/raze-in-a-sentence/][Raze]]
+
+  =to demolish=
+
+  - As part of his campaign promise, the mayoral candidate pledged to raze all neglected properties that were unfit for human life.
+  - Officials struggled with deciding whether or not to raze the abandoned church to make room for a parking lot.
+  - The commercial builder has plans to raze the buildings and develop the area into a series of strip malls.
+  - After losing the majority of their home in a fire, the Smiths decided to raze their entire residence and build afresh.
+  - Residents of the mostly Christian town are upset about the developer’s plan to raze an abandoned mall and turn it into a gigantic casino.
+  - When the troops came through the village, their mission was to raze everything and leave nothing standing.
+  - In a few moments, the bulldozer will raze the old nursing home to make room for a modern retirement center.
+
+
+
+* [[https://wordsinasentence.com/reactionary-in-a-sentence/][Reactionary]]
+
+  =against change=
+
+  - My grandmother is described as reactionary because she refuses to use modern technologies like microwaves and mobile phones.
+  - Because Randall is a reactionary political candidate, he promises to curb the liberals’ massive spending.
+  - The new president believes some of the government’s reactionary policies should be changed.
+  - As a reactionary politician, the elderly senator votes against any bill that attempts to alter the status quo.
+
+
+* [[https://wordsinasentence.com/reaffirm-in-a-sentence/][Reaffirm]]
+
+  =to state something again=
+
+  - By transferring to the Middletown Baptist Church, I had to reaffirm my faith in front of the congregation.
+  - Karen submitted proof that she was qualified for the nursing position because she was able to provide her resume and reaffirm her commitment to the care of patients.
+  - On their 30th wedding anniversary, the loving couple decided to reaffirm their vows in front of a packed church.
+  - After working for 5 years, the client allowed Sally to reaffirm her commitment to the company for another 2 years.
+
+
+  - Doctors worked to relieve his shoulder pain and realign the joint.
+  - The medication lifts your mood, restores your energy, realigns your brain chemistry - and the price is unbeatable.
+  - There is a lot of work to be done to realign our party with our principles and our heritage.
+  - Acupuncture is a practice based on traditional Chinese medicine where needles inserted into the skin are used to realign the flow of energy, or qi, in the body.
+
+
+
+
+
+
+* [[https://wordsinasentence.com/reassure-in-a-sentence/][Reassure]]
+
+  =to say or do something to remove fear or doubt=
+
+  - The husband tried to reassure his wife that he loved her no matter what.
+  - Sandra had to reassure her nervous boss that the deal would continue as planned.
+  - Anxious about the test results, Carol needed someone to reassure her that everything would be okay.
+  - The banker tried to reassure the wary customer that his funds would be secure in the safe.
+
+
+* [[https://wordsinasentence.com/rebellious-in-a-sentence/][Rebellious]]
+
+  =unruly and wild with behavior and actions=
+
+  - The rebellious teen refused to listen to his parents and did what he wanted to do.
+  - Rebellious and unruly, Anna pretended to go to bed but snuck out of her window instead.
+  - Because of his rebellious behavior, the sophomore was suspended from school for being disobedient and disrespecting his teacher.
+  - The banker’s rebellious son refused to listen to his father and continued to drain his parents’ finances.
+
+
+* [[https://wordsinasentence.com/rebuke-in-a-sentence/][Rebuke]]
+
+  =to criticize sharply or a sharp criticism=
+
+  - Good parents praise their children more than they rebuke them.
+  - When I was a teenager, I would avoid my mother so I would not have to listen to her rebuke my clothing choices.
+  - The nun did not hesitate to rebuke the misbehaving child.
+  - After learning the lawyer accepted a bribe, the committee decided to rebuke him and suspend his license.
+  - The minister used the sermon to rebuke those who were spreading gossip in the church.
+  - After eight-year-old Max set the curtains on fire, he received a severe rebuke from the fire department.
+  - Maggie is going to rebuke her teenage son for not cleaning his bedroom.
+
+
+* [[https://wordsinasentence.com/recalcitrant-in-a-sentence/][Recalcitrant]]
+
+  =stubborn=
+
+  - Despite being offered treats by his parents, the little boy was still recalcitrant about doing his homework.
+  - Because of its two recalcitrant members, the committee got very little work done.
+  - The recalcitrant teenager gets into trouble every day.
+  - Since his recalcitrant client was not following instructions, the lawyer had a hard time preparing a solid defense.
+  - After the economy soured, the president fired his recalcitrant advisers.
+  - Our recalcitrant boss refuses to listen to the union representative’s proposal.
+  - Annette is so recalcitrant that every discussion we have turns into an argument.
+
+
+* [[https://wordsinasentence.com/recapitulate-in-a-sentence/][Recapitulate]]
+
+  =to review or repeat=
+
+  - At the start of each class, the professor will recapitulate yesterday’s lecture.
+  - My grandmother has the tendency to recapitulate her stories over and over again.
+  - To ensure my students understand the instructions, I recapitulate them more than once.
+  - The president will recapitulate the main points of his speech before leaving the podium.
+  - Although I read the legal document several times, I still found it difficult to recapitulate the information to others.
+  - The political candidate did not fail to recapitulate his opponent’s dismal voting record during the press conference.
+  - If the client cannot recapitulate the software error on his computer, then the programmer will not be able to fix the bug.
+
+
+* [[https://wordsinasentence.com/recast-in-a-sentence/][Recast]]
+
+  =to allocate the parts of a play to different actors than originally intended=
+
+  - The actors in the play were recast once the director realized that they were not in the best roles possible.
+  - We had to recast the actors in our school play because our main actor got sick and won’t be able to come back for a few weeks.
+  -  We need to recast the play because the people we currently have in each role aren’t well suited to it.
+  - If something happens to one of the main actors in a movie, the director will have to recast it to fill the position.
+
+
+* [[https://wordsinasentence.com/recede-in-a-sentence/][Recede]]
+
+  =to go back=
+
+  - If you look closely at George’s hair, you can see where his hairline has started to recede.
+  - The client was unhappy when he learned the software company was going to recede his project’s delivery date.
+  - When the storm quiets, the waters will recede from the beach.
+  - The animals will recede further into the forest as developers continue to cut down trees.
+  - When Hugh glanced over his shoulder, he saw a mysterious man recede into an alley.
+  - Since the bridge is out, we will have to recede and take the mountain path.
+  - Within a few days, the floodwaters are expected to recede.
+
+
+* [[https://wordsinasentence.com/receptive-in-a-sentence/][Receptive]]
+
+  =ready to receive new ideas or concepts=
+
+  - Every Friday night, Ben hits the club scene in hopes of finding a woman who will be receptive to his charm.
+  - Despite the fact that some of the applicants arrived with no credentials, Mr. Blackstone maintained a receptive attitude during every interview.
+  - When you are in a more receptive mood, I would like to discuss how you plan to pay these bills.
+  - Children are more receptive to new experiences if their parents prepare them ahead of time.
+  - Laughing in all the right places, Saturday’s audience was so receptive that the director decided to hold the show over for another week.
+  - Samuel is a master at appearing to be receptive to your ideas, but he always sticks to his own agenda.
+  - Even though the patient seems to be receptive to visual stimuli, he will unfortunately never fully recover from his brain injury.
+
+
+
+
+* [[https://wordsinasentence.com/recessive-in-a-sentence/][Recessive]]
+
+  =going in a backwards direction=
+
+  - When my teenager becomes upset, she resorts to the recessive behavior of a small child and starts sucking her thumb.
+  - Riley has decided to abandon modern appliances to live a recessive lifestyle like that of our country’s first settlers.
+  - Despite attending tutoring twice a week, my son has returned to his recessive study habits and is no longer passing his classes.
+  - My sixty-five-year old teacher continues to use recessive teaching equipment like a chalkboard and an overhead projector.
+
+* [[https://wordsinasentence.com/recipient-in-a-sentence/][Recipient]]
+
+  =one who receives, such as one who receives money or goods=
+
+  - Michael is the recipient of a Nobel Peace prize because of the discovery he made in the field of medicine.
+  - Each recipient received a hand written thank-you note as well as a voucher.
+  - As a recipient of Suzanne’s hospitality, I feel that I have a requirement to reciprocate in kind.
+  - The recipient of the first heart transplant was lucky to have been placed in the skilled hands of Dr. Barnard.
+
+
+
+* [[https://wordsinasentence.com/reclamation-in-a-sentence/][Reclamation]]
+
+  =the act of recovering or retrieving something=
+
+  - When the car owner defaulted on his loan, the bank hired a company to handle the reclamation of his vehicle.
+  - The Indian tribe celebrated after the government ordered a reclamation that would give them back their ancestral lands.
+  - After the emperor died, many conquered nations fought for the reclamation of their territories.
+  - The salvage collector’s job is to focus on the reclamation of recycled materials.
+
+
+* [[https://wordsinasentence.com/recluse-in-a-sentence/][Recluse]]
+
+  =a person who lives alone and avoids other people; a hermit=
+
+  - Despite her reputation as a recluse, Samantha held regular gatherings in her home to entertain close friends.
+  - Because her mother had lived life as a recluse ever since becoming a widow, Paula had to spend a good deal of time running her mother’s errands instead of living her own life.
+  - The rumor around town is that the Great Mysterio became a recluse when his wife was paralyzed after helping with one of his illusions.
+  - Becoming a recluse is not usually a matter of choice because many who live this way of life have mental issues such as agoraphobia.
+  - Even though Mr. Green is a legendary recluse, he allows the town’s children to use his mansion as a haunted house on Halloween.
+  - The aging actress was never able to accept the fact that she couldn’t play the young love interest, so she became a recluse to avoid accepting Granny roles.
+  - As a recluse, Myrna had learned everything she knew about the world from newspapers and magazines.
+
+
+* [[https://wordsinasentence.com/recoil-in-a-sentence/][Recoil]]
+
+  =to quickly move back=
+
+  - Seeing the snake made me recoil in fear.
+  - As soon as the strange man reached for me, my instincts told me to recoil.
+  - Even the experienced detective had to recoil from the bloody crime scene.
+  - Since Jim is a recovering alcoholic, I expect him to recoil from any bar unless he is ordering a nonalcoholic beverage.
+
+
+* [[https://wordsinasentence.com/recollect-in-a-sentence/][Recollect]]
+
+  =to remember=
+
+  - Racing frantically throughout the house, the frazzled woman tried to recollect where she had placed her car keys.
+  - With her husband’s passing still fresh, being able to recollect fond memories helped the grieving widow smile again.
+  - Though she did not recollect borrowing any money from her brother, she paid him the amount he demanded to avoid a feud.
+  - The academic advisor recognized the student’s face, but failed to recollect his name.
+
+
+
+
+* [[https://wordsinasentence.com/reconcile-in-a-sentence/][Reconcile]]
+
+  =to restore a friendly relationship=
+
+  - After being separated for several months, the couple decided to attempt to reconcile for the emotional wellbeing of their distraught children.
+  - Bill’s plan was to reconcile with his estranged brother whom he had not spoken to in seven years.
+  - Despite Hank’s numerous affairs, he expresses a desire to move back home and reconcile with his spouse.
+  - Instead of spending a fortune in court fees, the two parties have agreed to see a mediator to reconcile their differences.
+  - The film revolves around the story of two formers friends who are forced to reconcile and work together in order to save their families.
+  - While Kim wishes to reconcile with Lisa, Lisa is not willing to forgive and forget.
+  - It is not unusual for teenage friends to have a major dispute and then reconcile and be best buddies within two days.
+
+
+* [[https://wordsinasentence.com/reconciliation-in-a-sentence/][Reconciliation]]
+
+  =the restoration of good relations between individuals, groups, or territories who had become divided for some reason=
+
+  - If the reconciliation between the two Indian tribes takes place, there will finally be peace in the area.
+  - I hope my parents can achieve some type of reconciliation before my wedding so my special day will not be tense.
+  - When the reconciliation brought my two brothers together again, it changed our family dynamics for the better.
+  - The reconciliation between the two kings will never occur because both men are too stubborn.
+
+
+
+
+* [[https://wordsinasentence.com/recondite-in-a-sentence/][Recondite]]
+
+  =not understood or known by many people=
+
+  - Since I do not have a law degree, I find it hard to understand the recondite terms of the contract.
+  - The difficult concept of the physics theory was recondite to everyone but the scientists.
+  - To me, my daughter’s foolish actions are recondite and not understandable at all.
+  - The secret government agency worked hard to make sure the alien’s presence remained recondite and out of the news.
+  - Without assistance, the student could not figure out how to use the recondite computer system.
+  - The police refused to make a statement to the press until the recondite facts of the case could be explained.
+  - Try as they might, the missionaries could not grasp the recondite language of the African tribe.
+
+
+* [[https://wordsinasentence.com/reconnaissance-in-a-sentence/][Reconnaissance]]
+
+  =a survey or observation to gain information=
+
+  - Because the reconnaissance team has discovered bombs up ahead, we will sleep here tonight and allow our explosives’ unit time to detonate the devices.
+  - The football coach sent his assistant to his rival’s field to perform reconnaissance on the other team’s strategy.
+  - With assistance from the aerial team, the police on the ground will conduct reconnaissance on the suspect.
+  - Our government often sends reconnaissance drones into other countries to assess possible threats.
+  - Ever since we made peace with our adjacent countries, we have stopped sending reconnaissance teams to spy at the borders.
+  - Reconnaissance robots are the latest trends in technological surveillance.
+  - In this particular case, the private detective’s assignment is to conduct a renaissance mission to see if the football player’s wife is having an extramarital affair.
+
+
+* [[https://wordsinasentence.com/recount-in-a-sentence/][Recount]]
+
+  =the action of retelling or recounting something=
+
+  - When the results of the vote were too close to identify a winner, the candidates requested a recount.
+  - I always enjoy listening to Kate's recount of her perfect wedding day.
+  - A recount is being held to decide the country’s new president.
+  - Once Jill makes it to the police station, she will give the detectives a recount of the robbery.
+
+
+
+* [[https://wordsinasentence.com/recourse-in-a-sentence/][Recourse]]
+
+  =options or assistance during a difficult period or situation=
+
+  - Before hospitals, midwives were often the only recourse for expectant mothers.
+  - Laid-off workers have no other recourse than to file for jobless benefits.
+  - Since the insurance company will not pay for Tim’s deck damage, Tim’s only recourse is a bank loan.
+  - Tina bought her vehicle “as is” so she has no recourse if the car suddenly stops working.
+  - There were many greedy attorneys willing to provide me with recourse after the intoxicated surgeon botched my procedure.
+  - Since Jim was fired because of his tardiness, he has no legal recourse against his former employer.
+  - Many teachers join a union so they will have recourse if they are unfairly terminated by the school district.
+
+* [[https://wordsinasentence.com/recreation-in-a-sentence/][Recreation]]
+
+  =activities that are done for enjoyment=
+
+  - The activities that I prefer to engage in for recreation include reading, writing, and video games, though many people claim those don’t go together.
+  - Some people like to go to the beach when they have some recreation time to themselves, but personally I prefer to go to the mountains.
+  - Many people think it is silly that I write for fun, but it happens to be one of my favorite types of recreation.
+  - People who work all the time and leave none for recreation will find themselves both bored and frustrated, since fun is a key part of healthy living.
+
+
+* [[https://wordsinasentence.com/rectify-in-a-sentence/][Rectify]]
+
+  =to correct an issue=
+
+  - The puzzled doctor could not identify the proper medicine to rectify his patient’s medical condition.
+  - When Jack was wrongly imprisoned for ten years, the state gave him five million dollars to rectify its mistake.
+  - The best way to rectify the children’s poor test grades is to reteach the lesson and give a second test.
+  - Without additional funds from the government, the principal cannot rectify the issue of overcrowding in his school.
+  - The software engineers worked quickly to rectify the bug that was deleting user accounts.
+  - If we can rectify the plumbing problem, we should be able to open the restaurant on schedule.
+  - When Jim complained about an unusual bank fee, the customer service representative promised to rectify the matter immediately.
+
+
+* [[https://wordsinasentence.com/recuperate-in-a-sentence/][Recuperate]]
+
+  =to obtain something that has been lost, usually one’s good health or a financial stake=
+
+  - Hopefully Jean will recuperate quickly and be able to leave the hospital soon.
+  - After the surgery on my Achilles tendon, I will be at a physical disadvantage until I completely recuperate.
+  - My psychiatrist urged me to spend some time alone so I could mentally recuperate in a stress-free environment.
+  - Although I won the case, I doubt I will ever recuperate my money from the scam artist.
+
+
+
+* [[https://wordsinasentence.com/recur-in-a-sentence/][Recur]]
+
+  =to happen or appear again=
+
+  - Even with chemotherapy, the cancer could recur and wreck my life again.
+  - The topic of racism is a theme that will probably recur in each of the activist’s novels.
+  - If Norman stops taking his medication, his insanity could recur.
+  - I’ll go back to the doctor if the symptoms of my illness start to recur.
+
+
+* [[https://wordsinasentence.com/recurrent-in-a-sentence/][Recurrent]]
+
+  =happening or recurring time after time=
+
+  - Being late to work was a recurrent issue for him, so they had to terminate his employment.
+  - Putting our mail in the neighbor’s mailbox was a recurrent incident with our postman.
+  - The woman wanted tests run due to her recurrent bouts of pneumonia.
+  - Even though he promised to change his ways, the man’s lying was recurrent.
+
+* [[https://wordsinasentence.com/recurring-in-a-sentence/][Recurring]]
+
+  =happening or occurring frequently, with repetition=
+
+  - The woman was happy that her recurring cancer was in remission for a third time.
+  - Recurring sinus infections plagued the man every winter.
+  - Recurring injuries to his knee ended the player’s career as a pro athlete.
+  - Watching the recurring setting of the sun was the traveler’s favorite part of camping.
+
+
+* [[https://wordsinasentence.com/redeem-in-a-sentence/][Redeem]]
+
+  =to exchange one thing for money or goods; to buy or pay off=
+
+  - I save my coupons so that I can redeem them at the supermarket.
+  - At the end of Janet’s car lease she will redeem it for another Honda.
+  - The bank refused to redeem Mark’s Canadian bills for U.S. currency.
+  - I can’t wait to redeem my loan, so I can free myself of debt.
+
+
+
+
+
+
+
+* [[https://wordsinasentence.com/reflective-in-a-sentence/][Reflective]]
+
+  =thinking carefully about something=
+
+  - When I was faced with a difficult decision, I was very reflective before I made my choice.
+  - Choosing to move across the country was a decision that I was very reflective before making.
+  - His choice in a car is reflective of how he saves his money for what he wants to purchase.
+  - As a manager, I use reflective thinking processes to help improve company morale.
+
+
+* [[https://wordsinasentence.com/refractory-in-a-sentence/][Refractory]]
+
+  =not responsive or difficult to manage=
+
+  - Because the prisoner acts in a refractory manner, he is accompanied by four guards whenever he leaves his cell.
+  - Most teenagers go through a refractory phase where they don’t want to listen to authority figures.
+  - How long do you think it will take the trainer to tame the refractory dog?
+  - The refractory students spend a great deal of time in the detention room.
+
+
+* [[https://wordsinasentence.com/refrain-in-a-sentence/][Refrain]]
+
+  =to abstain from making a move=
+
+  - To avoid a punishment, I am going to refrain from talking back to my mother.
+  - If you refrain from threatening your ex-wife, she might be nicer to you.
+  - The treaty was signed when both world leaders agreed to refrain from building nuclear weapons for ten years.
+  - Since the ballerina’s ankle is sore, she will refrain from dancing today.
+
+* [[https://wordsinasentence.com/refrigerator-in-a-sentence/][Refrigerator]]
+
+  =a rectangular appliance that keeps food and drink cold while storing=
+
+  - A refrigerator was placed in the classroom to keep the teacher’s drinks cool while she works.
+  - Without refrigerators, there was no way for early Americans to keep perishables fresh for long periods of time.
+  - The small refrigerator in the garage is used to store my husband’s worms, keeping them cool for his fishing trip.
+  - A freezer was attached to the refrigerator so there would be a place to store both frozen and cold foods.
+
+* [[https://wordsinasentence.com/regale-in-a-sentence/][Regale]]
+
+  =to please someone=
+
+  - The chef hoped his meal would regale the food critic.
+  - On the ghost tour, an experienced guide will regale you with scary stories of the house’s past residents.
+  - Hopefully Gail will come back from her music tour and regale us with her fantastic European adventures.
+  - Since I prefer happy endings, reading gory crime novels does not regale me.
+  - The intense flavor of the wine is sure to regale true wine lovers.
+  - The innkeeper will regale guests by providing them with a coupon book filled with discounted attraction tickets.
+  - Before the concert starts, the comedian will regale the audience with jokes.
+
+
+
+
+* [[https://wordsinasentence.com/regression-in-a-sentence/][Regression]]
+
+  =the act of returning to a prior state=
+
+  - When my teenager does not get his way, he undergoes regression and starts to act like an upset toddler.
+  - Hopefully we will not have a sales regression after the two for one deal is over.
+  - After our troops left the war-torn country, regression occurred when the citizens resorted to their unstable form of government.
+  - My four-year-old responded to the presence of his baby sister by experiencing regression and acting completely helpless.
+
+
+
+* [[https://wordsinasentence.com/regulatory-in-a-sentence/][Regulatory]]
+
+  =something that holds you to the rules=
+
+  - Many citizens believe the regulatory laws of the country need changing
+  - Prescription drugs can be dangerous without regulatory control.
+  - The FDA is a regulatory agency that controls food and drugs in the United States.
+  - Too many regulatory controls caused the workers at the factory to be unhappy.
+
+
+* [[https://wordsinasentence.com/rehabilitate-in-a-sentence/][Rehabilitate]]
+
+  =to bring back to a healthy or useful state=
+
+  - The image consultant believes she can rehabilitate the reputation of the disgraced politician.
+  - After my surgery, I will attend physical therapy sessions to rehabilitate the muscles in my knee.
+  - Because of the oil spill, it will take a lot of work to rehabilitate the marine ecosystem to its natural state.
+  - Since Marvin had a stroke, he has been working to rehabilitate his vocal skills so he can speak clearly again.
+
+* [[https://wordsinasentence.com/reign-in-a-sentence/][Reign]]
+
+  =the timespan during which an individual or government is in power=
+
+  - A few years ago, the queen celebrated her fifty-year reign as the monarch of her country.
+  - Fortunately, our constitution prevents our president’s reign from lasting longer than eight years.
+  - Because Mr. Jordan is an unpleasant person, the students are happy his reign as principal will end next week.
+  - The dictator’s reign of power ended when the rebels assassinated him.
+
+* [[https://wordsinasentence.com/reimburse-in-a-sentence/][Reimburse]]
+
+  =to give back what has been given, used, or damaged=
+
+  - To make the trip more affordable, my company is going to reimburse me for all expenses.
+  - The boy who broke my window has to reimburse me for the damage.
+  - If I deliver pizza will the company reimburse me for mileage?
+  - Mrs. Smith was unhappy when she learned the school district wouldn’t reimburse her for the funds she spent on classroom supplies.
+
+* [[https://wordsinasentence.com/reinstate-in-a-sentence/][Reinstate]]
+
+  =restore; bring back=
+
+  - My insurance will reinstate my policy once I’m fully paid up.
+  - In 1976 the supreme court chose to reinstate the death penalty.
+  - The government decided to reinstate the failed policies of its predecessor.
+  - Our company refused to reinstate the laid off accountant.
+
+* [[https://wordsinasentence.com/reiterate-in-a-sentence/][Reiterate]]
+
+  =to do or say something many times; repeat=
+
+  - Do you have to reiterate everything you say?
+  - Because Janice considered herself better than everyone else, she often felt the need to reiterate the fact she lived in a gated community.
+  - I cannot stand it when you reiterate every word that comes out of my mouth!
+  - To ensure her students understand the key points of her lessons, Mrs. Morgan always asks them to reiterate the main ideas back to her.
+  - Since I could not hear the instructions, I asked the teacher to reiterate them once more.
+  - To whom it may concern, I would like to reiterate my interest in the job opportunity.
+  - Because the waiter did not speak English very well, I had to reiterate my order several times.
+
+
+* [[https://wordsinasentence.com/relegate-in-a-sentence/][Relegate]]
+
+  =to put (someone or something) in a lower or less important position, rank=
+
+  - After the lead actors had been repeatedly late for rehearsal, the director decided to relegate them to the chorus and replace them with their understudies.
+  - Mr. Pierce eases his workload by having his secretary pick out the mail that is most important and relegate everything else to the recycling bin.
+  - In spite of her strong commitment to her job, she vowed she would never relegate her maternal duties to a nanny.
+  - Because of her shyness, Lori would often relegate herself to doing chores in the kitchen while everyone else enjoyed the party.
+  - As the coordinator of the show, Chuck decided to relegate the backstage duties to local technicians.
+  - When studying for final exams, it’s a good idea to highlight the most important ideas and relegate the smaller details as insignificant.
+  - Although Alan likes to take the lead in class projects, he only does it so that he can relegate the duties to everyone else.
+
+* [[https://wordsinasentence.com/relent-in-a-sentence/][Relent]]
+
+  =to unstiffen or give in=
+
+  - Because my father is very angry, he won’t relent on my harsh punishment.
+  - Hopefully the judge will relent and allow me to post bail.
+  - Despite the threat of a lawsuit, the racist man wouldn’t relent and allow minorities to rent his apartments.
+  - Do you think the guy will relent and let me in the bar if I show him my fake identification?
+
+* [[https://wordsinasentence.com/relentless-in-a-sentence/][Relentless]]
+
+  =persistent; unyielding=
+
+  - The relentless marshal pursued the escaped prisoner for ten years.
+  - During the battle, the relentless soldier continued to fight despite the bullet in his shoulder.
+  - The politician’s rivals are waging a relentless campaign of slander against him.
+  - Relentless and driven, the runner managed to finish the race despite his bruised ankle.
+
+* [[https://wordsinasentence.com/relevance-in-a-sentence/][Relevance]]
+
+  =the condition of being related to or relevant=
+
+  - My talkative professor is known for sharing stories that have no relevance to our lessons.
+  - If students don’t believe history has relevance to current events, they won’t be interested in learning about the past.
+  - The aging singer seeks out media attention because she is worried about her relevance in the music industry.
+  - Because of the creation of electronic readers, paperback books are slowly losing their relevance in society.
+
+
+
+* [[https://wordsinasentence.com/relinquish-in-a-sentence/][Relinquish]]
+
+  =to give up, abandon=
+
+  - If you relinquish your right to an attorney, it could lead to some serious difficulty when you go before the judge.
+  - While your natural instinct may tell you to resist, you will be safer if you just relinquish your valuables to a mugger.
+  - The antics of the tiny Chihuahua forced the English bulldog to relinquish the bone.
+  - No matter how many setbacks you have to face, don’t relinquish your dream of getting into veterinary school.
+  - Despite all his efforts to hold on to the lead, he had to relinquish his position when he fell outside the foul line.
+  - Some states require you to relinquish your driver’s license for a year after you have been convicted of drunk driving.
+  - Once the scandal hit the newspapers, the chairman agreed to relinquish his position voluntarily.
+
+* [[https://wordsinasentence.com/relish-in-a-sentence/][Relish]]
+
+  =have a fondness for=
+
+  - After a long day at work, there is nothing I relish more than a long hot bath.
+  - My son will relish the opportunity to make some extra money over the summer.
+  - While Ellen does not relish the idea of having a dog in the family, she will do anything to make her daughter happy.
+  - The policeman did not relish having to telling families about the deaths of their loved ones.
+
+
+
+* [[https://wordsinasentence.com/reminiscent-in-a-sentence/][Reminiscent]]
+
+  =triggering memories of past times=
+
+  - The smells coming from the bakery were reminiscent of the scents that used to come from my grandmother’s kitchen.
+  - Since there appears to be no originality left in Hollywood, all the new movies appear reminiscent of the films made in prior years.
+  - The singer’s smooth singing style is very reminiscent of the crooners of the 1920s and 1930s.
+  - As Jason grew older, he started to exhibit behaviors my mother said were reminiscent of our deceased father's personality.
+
+* [[https://wordsinasentence.com/remiss-in-a-sentence/][Remiss]]
+
+  =lacking care or attention to duty; negligent=
+
+  - If I let you go without food, I would be remiss in my responsibilities as a parent.
+  - Remiss in her duties, the waitress forgot to take water to her tables.
+  - Jason was furious because the handyman in his building was remiss in making repairs.
+  - Because the elves were remiss in their toy making, Santa did not have enough gifts to fill his sleigh.
+  - The pharmacist would be remiss in his duties if he did not tell you about the drug’s adverse effects.
+  - Do not be remiss in paying your taxes or you might end up in prison!
+  - Since he had been remiss in making his car payments, Marcus was not surprised when his car was repossessed.
+
+* [[https://wordsinasentence.com/remorse-in-a-sentence/][Remorse]]
+
+  =guilt or regret for a misdeed=
+
+  - The psychopath appeared content and showed no remorse during the murder trial.
+  - When my husband is angry, he displays no remorse for the mean words he says.
+  - I felt remorse after I bought the rundown car from the dealer.
+  - Because Gail lied to her boss about being ill, she felt a sense of remorse all day.
+  - Mariel experienced a great deal of remorse when she returned to the store to buy the dress and learned someone had purchased it.
+  - Since the judge knew the man had killed six children, he had no remorse about sentencing him to death.
+  - Bill felt remorse when he crashed his friend's car.
+
+
+* [[https://wordsinasentence.com/remorseless-in-a-sentence/][Remorseless]]
+
+  =without guilt or regret=
+
+  - The driver seemed remorseless after rear-ending my vehicle.
+  - When she pushed her way into the building, the remorseless woman knocked down several other customers.
+  - His behavior was remorseless after hearing his jail sentence.
+  - Not wanting to seem remorseless, I sent a sympathy note to my friend whose dad passed away.
+
+
+* [[https://wordsinasentence.com/remunerative-in-a-sentence/][Remunerative]]
+
+  =extending benefits, usually financial in nature=
+
+  - Because Ann really loves money, she will not date a man unless he has a remunerative job.
+  - The college decided not to renew the professor’s grant because his research had not been remunerative to the school.
+  - As long as my career is remunerative and emotionally fulfilling, I will not change my line of work.
+  - Sarah saves her aluminum cans because the remunerative demand for them earns her extra spending money.
+
+* [[https://wordsinasentence.com/render-in-a-sentence/][Render]]
+
+  =to provide=
+
+  - Because of the principal’s unexpected death, grief counselors will be available at the school to render support to staff and students.
+  - The rescue personnel will be here momentarily to render aid to the victims.
+  - During the telethon, the celebrity pleaded with his fans for money to render a new wing for the children’s hospital.
+  - My donation is going to the local soup kitchen because I know it will use the funds to render food to the homeless.
+
+* [[https://wordsinasentence.com/renegade-in-a-sentence/][Renegade]]
+
+  =someone who leaves one group and joins another with different goals or beliefs=
+
+  - The renegade soldiers decided to leave the base and go back home to their families.
+  - Although I do not consider myself to be a renegade, I do not mind going out on my own either.
+  - A few renegade members of our church have decided to start their own ministry.
+  - When Clara learned her law firm was trying to hide important evidence, she became a renegade and joined the opposing legal team.
+  - Once considered a renegade troublemaker, Martin eventually became a well-known civil rights leader.
+  - In order to be a renegade, you have to be prepared to walk alone and follow your own path.
+  - Because she was upset about not getting a promotion, Lorelei became a renegade worker and sold company secrets.
+
+* [[https://wordsinasentence.com/renewal-in-a-sentence/][Renewal]]
+
+  =restoration; regeneration=
+
+  - Renewal of the woman’s energy was accomplished by early morning coffee and a hot shower.
+  - Insurance renewal fees are tacked on to the premium as a surcharge for continuing your coverage.
+  - Renewal of my favorite series was canceled, leaving me wishing it would be restored with no show to watch.
+  - Season pass renewal notices were sent out earlier in the week and contained directions on how to restore water park access.
+
+* [[https://wordsinasentence.com/renounce-in-a-sentence/][Renounce]]
+
+  =to formally reject something or someone=
+
+  - When Hector tried to renounce his membership in the gang, the group’s leader threatened him.
+  - Once the church leaders learned Pastor Smith had been arrested for robbery, they chose to renounce him as their minister.
+  - After the man was tortured by his government for many years, he decided to renounce his citizenship and move to a new country.
+  - The open-minded man elected to renounce his club membership when he learned the group did not accept applications from minorities.
+  - As a Christian, I completely renounce atheism.
+  - The cult leader asked his followers to renounce the material world by giving him all of their assets.
+  - Because the politician refused to renounce his affiliation with the racist organization, he lost the election.
+
+
+* [[https://wordsinasentence.com/renown-in-a-sentence/][Renown]]
+
+  =the state of being widely known; acclaim=
+
+  - Because the college’s medical students perform exceptionally well on the licensing exam, the school has earned much renown.
+  - Winning the tournament brought renown to the inexperienced knight.
+  - While the actress has not reached the level of renown that draws a million dollar salary, she has been in many popular films.
+  - The philanthropist has garnered renown for her clean water projects in Africa.
+  - Winning four music awards in one night brought renown to the new artist.
+  - The wedding designer’s stylish gowns have won her global renown.
+  - Under the new editor, the struggling magazine gained renown for its insightful and well-written articles.
+
+* [[https://wordsinasentence.com/renowned-in-a-sentence/][Renowned]]
+
+  =well known for something=
+
+  - The renowned singer’s concert sold out in under a minute.
+  - Picasso was a well renowned artist.
+  - Last year the new design of the basketball player's renowned sneakers sold out in thirty minutes.
+  - The renowned actress could not go out in public without wearing a disguise.
+
+
+* [[https://wordsinasentence.com/reparation-in-a-sentence/][Reparation]]
+
+  =something done or paid in expiation of a wrong=
+
+  - Alec tried to make reparation for the hurt feelings he had caused, but Emily wasn’t having any of it.
+  - Rather than fining the graffiti artist, the judge ordered him to make reparation by painting the entire building.
+  - Although monetary reparation will help with the medical bills, it’s little compensation for the long-term pain and suffering caused by the drunk driver.
+  - Anthony decided to file a claim seeking reparation for the chronic respiratory problems he had suffered ever since he worked at the factory.
+  - Even though reparation was made after his mother broke her hip in the rehab center, Mark was not satisfied.
+  - The landlord had to cash in all of his bonds to make reparation to the tenants who had been displaced because of the broken plumbing.
+  - The Assembly of Galaxy Governors voted unanimously not to provide reparation to the planets that had been decimated during the Bragon Wars.
+
+
+* [[https://wordsinasentence.com/repeal-in-a-sentence/][Repeal]]
+
+  =to cancel=
+
+  - With so much negative feedback, the owner had to consider a repeal of his new dress code.
+  - The Supreme Court has the authority to repeal a law deemed unconstitutional.
+  - Since his kids did not seem to learn, the father was forced to repeal his unreasonable rule.
+  - Taking over the company, the new manager’s first act was to repeal many of the outdated policies.
+  - The Supreme Court ruled they would have to repeal the new law.
+  - The new President worked to repeal many of his predecessor’s laws.
+  - Calling for a repeal of the outdated policy, the citizens were delighted when their leader listened.
+
+* [[https://wordsinasentence.com/repel-in-a-sentence/][Repel]]
+
+  =to force a thing or person away=
+
+  - Hopefully the air freshener will repel the odor of the deceased rodent.
+  - Because the dinner is being served outside, we’ll use special candles to repel insects from the table.
+  - The king's men used arrows to repel invaders away from the castle.
+  - Does the political candidate realize his hateful words will repel Christian voters?
+
+* [[https://wordsinasentence.com/repellent-in-a-sentence/][Repellent]]
+
+  =repulsive; disgusting=
+
+  - The repellent odor was strong enough to keep the children out of the bathroom.
+  - Although the repellent spray was repulsive enough to ward off mosquitoes, it did nothing for spiders.
+  - With both a repellent look and smell, the fish head stew made my stomach instantly queasy.
+  - Filled with the repellent smell of decaying flesh, the house of horrors was a repugnant nightmare.
+
+* [[https://wordsinasentence.com/repertoire-in-a-sentence/][Repertoire]]
+
+  =a set of skills or types of behavior that a person uses regularly=
+
+  - As long as the piano player continues to strum through a boring repertoire of tunes, he will never keep a large audience.
+  -  The elderly singer’s concert repertoire consisted mainly of old blues and jazz tunes.
+  - Before we hired the magician, we asked him to show us a few tricks in his repertoire.
+  - Most cooks have a baked chicken dish as part of their cooking repertoire.
+  - As you write your resume, remember to include the repertoire of skills that you frequently use in the workplace.
+  - Our funny professor always starts class with a small repertoire of jokes to get us in the mood to learn.
+  -  In order to keep his programming job, the senior employee knew he had to increase his repertoire of coding skills.
+
+
+* [[https://wordsinasentence.com/repetitious-in-a-sentence/][Repetitious]]
+
+  =having parts or actions that are repeated over and over again=
+
+  - Writing articles can be repetitious, especially when the topic doesn’t change for a long time.
+  - The cafeteria cooks make the same repetitious meals week after week.
+  - Telling the same jokes every set, the comedian’s repetitious material is starting to get old.
+  - Repetitious exercise will help you lose weight if it is consistent enough.
+
+* [[https://wordsinasentence.com/replenish-in-a-sentence/][Replenish]]
+
+  =to refill=
+
+  - There was no food in the refrigerator, so I had to visit the grocery store to replenish our supply.
+  - The woman said the vitamin would replenish my calcium deficiency.
+  - They gave me an IV to replenish my fluids due to dehydration.
+  - In order to replenish the water supply, I needed to dig deeper within the aquifer.
+
+* [[https://wordsinasentence.com/replete-in-a-sentence/][Replete]]
+
+  =having much or plenty of something=
+
+  - History is replete with examples of the dangers of war.
+  - Although the lemonade was replete with sugar and water, it still had a bitter taste.
+  - The twelve bedroom house is replete with five bedrooms.
+  - If you do not download the new version of the software, your computer will be replete with error messages.
+  - Because the museum is replete with valuable paintings, it is guarded twenty-four hours a day.
+  - Nobody believed the witness because her testimony was replete with lies.
+  - Although the author’s fables are replete with lessons for young people, they are not very entertaining stories.
+
+
+
+* [[https://wordsinasentence.com/reprehensible-in-a-sentence/][Reprehensible]]
+
+  =highly unacceptable action; deserving severe disapproval or criticism=
+
+  - How reprehensible of you to put sugar in my gas tank!
+  - Stealing is reprehensible.
+  - Instead of making reprehensible comments about women, go spread some cheer.
+  - Your conduct is reprehensible and will not be tolerated!
+  - While George saved an old woman from death, his reprehensible past overshadowed his heroism.
+  - Women, specifically teen girls, often spend a reprehensible amount of time in the bathroom.
+  - There is nothing reprehensible about loving your goldfish more than your dogs.
+
+* [[https://wordsinasentence.com/represent-in-a-sentence/][Represent]]
+
+  =to stand or speak for someone else=
+
+  - One of the lawyer’s partners was sent to represent her in court since she had a conflict of interest with the case.
+  - Ancient Greek symbols each represent a specific number and are similar to Roman Numerals.
+  - Only one of the quiz bowl students was selected to represent the team in their final challenge.
+  - The frustrated man chose to represent himself during trial after his attorney didn’t show up on the morning of the hearing.
+
+* [[https://wordsinasentence.com/repress-in-a-sentence/][Repress]]
+
+  =to prevent from coming forth=
+
+  - The patient takes the medicine to repress his violent mood swings.
+  - During the protest, troops were sent to the town hall to repress angry citizens from entering the building.
+  - Unfortunately the psychiatric medication may repress your sexual interest or desire.
+  - According to many people, the racist politician wants to enact legislation that will repress the rights of minorities.
+
+
+* [[https://wordsinasentence.com/reprimand-in-a-sentence/][Reprimand]]
+
+  =an act of disapproval, generally done in an official manner=
+
+  - When I misbehaved in school, my teacher sent me home with a written reprimand for my parents to sign.
+  - The policeman’s warning was my reprimand for speeding in rainy weather.
+  - Because I was mean to a customer on the phone, my supervisor placed a reprimand in my employee folder.
+  - The reprimand Hank received from the fire department is enough to make him stop burning leaves in the summer time.
+  - In the absence of their parents, Jane felt it was her responsibility to give her naughty brother a reprimand.
+  - Will the ambassador’s scandalous behavior merely earn him a reprimand or will it cause him his job?
+  - Since the soldiers knew they had missed curfew, they were not shocked when they received a reprimand from their commanding officer.
+
+* [[https://wordsinasentence.com/reprisal-in-a-sentence/][Reprisal]]
+
+  =an act of retaliation=
+
+  - Outraged at failing his French class, Matt keyed the teacher’s car in reprisal.
+  - Even in the most extreme circumstances, back and forth reprisal is generally not the best way to resolve conflict.
+  - With rumors of reprisal coming from all his most reliable sources, the king ordered that every entrance to the castle be barricaded.
+  - No one knows for certain, but it is widely believed that the drive-by shooting was in reprisal to some offense committed by a rival gang.
+  - When Jeanette’s parents were told about the bullying tactics she had used in reprisal for the gossip against her, she was grounded and had to miss the winter dance.
+  - Now that the drug cartels have toned down their acts of reprisal against each other, more people are traveling to Mexico for pleasure.
+  - Junior high school is a place where insecurity, peer pressure, hurt feelings, and acts of reprisal plague the lives of adolescents.
+
+* [[https://wordsinasentence.com/reproach-in-a-sentence/][Reproach]]
+
+  =disgrace or scandal=
+
+  - The politician’s sordid actions have brought reproach to the entire government.
+  - As a law enforcement officer, Jack must always make sure his behavior is above reproach.
+  - Individuals who work in the banking industry must be honest and beyond reproach.
+  - When the police officer was caught selling drugs, he brought reproach to his department and earned the public’s anger.
+  - The highly publicized trial shows not all teachers are beyond reproach.
+  - If the judge is associated with any kind of reproach, he could be removed from the bench.
+  - Since Kelly is not above reproach, she should not talk about the bad actions of others.
+
+* [[https://wordsinasentence.com/repudiate-in-a-sentence/][Repudiate]]
+
+  =to reject; refuse to support=
+
+  - Because I want to avoid the conflict between my two sisters, I repudiate their argument.
+  - The company will repudiate any claims of negligence.
+  - Despite his claims of innocence, he did very little to repudiate the allegations made against him.
+  - Jill is going to repudiate the bill because it is incorrect.
+  - Even though James loved his wife, he chose to repudiate any fault for her crimes.
+  - The actress used the interview to repudiate claims of alcohol abuse.
+  - If you want to stay sober, you need to repudiate all addictive substances.
+
+
+
+* [[https://wordsinasentence.com/repugnance-in-a-sentence/][Repugnance]]
+
+  =intense revulsion or disgust=
+
+  - The man’s repugnance towards mustard was only outdone by his revulsion of mayonnaise.
+  - After taking a big bite of the carrots, the baby showed his repugnance by spitting out his mouthful.
+  - Racist clan members feel a repugnance for all minorities and show this hatred through their disgusting behavior.
+  - The priest’s repugnance of sin is demonstrated through his dislike of anything immoral.
+
+* [[https://wordsinasentence.com/repugnant-in-a-sentence/][Repugnant]]
+
+  =repulsive or offensive=
+
+  - The smell was completely repugnant to the pregnant woman.
+  - Because of your repugnant behavior, I no longer want to be friends with you.
+  - The racist words were repugnant to everyone in the auditorium.
+  - When the repugnant man tried to grab my purse, I kicked him in the groin and ran.
+  - What is it that makes people drawn to a repugnant activity like dog fighting?
+  - There is nothing I find more repugnant in a relationship than dishonesty.
+  - Because Elliott is such a repugnant individual, he does not have any friends.
+
+* [[https://wordsinasentence.com/repulse-in-a-sentence/][Repulse]]
+
+  =to repel or drive back=
+
+  - Because of his rude behavior that would repulse many people, he was without close friends.
+  - His gross eating habits would repulse anyone sharing a meal with him.
+  - Since she enjoyed cleaning, the piles of garbage were sure to repulse the housekeeper.
+  - To avoid getting bitten by mosquitoes, she put on a spray that was said to repulse the insects.
+
+* [[https://wordsinasentence.com/reputed-in-a-sentence/][Reputed]]
+
+  =reported to be such a way=
+
+  - A local gang is reputed to have killed the storeowner because he refused to pay protection money.
+  - Although the fiber powder is reputed to be tasteless, it actually has a metal taste when dissolved in liquids.
+  - Most people avoided Tommy Luchino because he was reputed to have mob connections.
+  - Because Hilary was reputed to have a bad temper, I went out of my way to not offend her.
+  - Jill’s parents sent her to rehab after they heard she was reputed to be a drug addict.
+  - Since the cafeteria food was reputed to be awful, I was surprised when I received a delicious steak sandwich and mouthwatering fries.
+  - Don’t eat those berries because they are reputed to cause diarrhea!
+
+* [[https://wordsinasentence.com/requisite-in-a-sentence/][Requisite]]
+
+  =something that is considered or viewed as mandatory=
+
+  - Before you can enter the official nursing program, you must complete the requisite coursework.
+  - Having at least five years of experience as a paramedic is the main requisite for the position.
+  - For the used car salesmen, three sales a day is the requisite for maintaining employment at the dealership.
+  - We cannot complete your payroll request without the requisite forms.
+
+* [[https://wordsinasentence.com/rescind-in-a-sentence/][Rescind]]
+
+  =to take back; cancel=
+
+  - I cannot believe Janice’s boyfriend tried to rescind his marriage proposal!
+  - Because of illegal alcohol sales, the government had to rescind the prohibition act.
+  - Once their union demands were met, the workers agreed to rescind the strike.
+  - When new evidence in favor of the defendant came to light, the judge had no choice but to rescind the trial verdict.
+  - Despite the criticism on his healthcare plan, the president did not rescind the policy.
+  - When the college became aware Henry had been using steroids, they chose to rescind his football scholarship.
+  - After I discovered the charity was not keeping accurate financial records, I decided to rescind my sponsorship donations.
+
+
+* [[https://wordsinasentence.com/resent-in-a-sentence/][Resent]]
+
+  =to express displeasure for=
+
+  - Rather than resent others for having what you desire, work hard to get what you want.
+  - As the only single daughter in a family of five girls, I could not help but resent my sisters’ marriages.
+  - My daughter will resent the fact I have cancelled her mobile phone service.
+  - As a parent, Greg resents the school administrator telling him how to control his children.
+
+* [[https://wordsinasentence.com/resentful-in-a-sentence/][Resentful]]
+
+  =expressing bitterness or anger towards an unfair situation or person=
+
+  - It’s hard to not feel resentful when your boss gives a promotion to his lazy son.
+  - Because my niece didn’t invite me to her wedding, I felt left out and resentful.
+  - Many Americans feel resentful towards illegal immigrants who live off their tax dollars.
+  - When my rival realized I was flying in first class while she was in coach, she gave me a resentful stare.
+
+* [[https://wordsinasentence.com/reside-in-a-sentence/][Reside]]
+
+  =to stay in a specific place=
+
+  - The homeless man will reside in a local shelter until he can afford his own apartment.
+  - Like most presidents before him, the new U.S. president will reside in the White House.
+  - After living on her own for a while, the teen decided she wanted to reside with her parents again.
+  - Most species of fish that reside in the ocean can’t live in freshwater.
+
+
+* [[https://wordsinasentence.com/residual-in-a-sentence/][Residual]]
+
+  =lingering after a process has finished=
+
+  - I have a low amount of residual funds after paying my bills.
+  - Because of the residual radiation in the area, homeowners won’t be allowed in their residences for seventy-two hours.
+  - The purchase of a second home brings me residual income in the form of rental payments from tenants.
+  - Even after spraying the air freshener, Kim could still smell the residual odor of burnt chicken.
+
+
+* [[https://wordsinasentence.com/resort-in-a-sentence/][Resort]]
+
+  =option; alternative=
+
+  - As a last resort, the oncologist suggested a trial drug that might send the cancer into remission.
+  - Staying at a shabby motel was the couple’s last resort after learning all the decent inns were booked.
+  - Although she did not want to use this last resort, the mother had to charge groceries to her credit card while in a bind.
+  - The only resort the stranded driver had left was to put a donut on the front of the car and keep moving down the highway.
+
+
+* [[https://wordsinasentence.com/respite-in-a-sentence/][Respite]]
+
+  =brief interval of rest or relief=
+
+  - Gardening is the perfect hobby for those who need respite from hectic city life.
+  - After driving through the desert all day, Jack welcomed the respite of an air-conditioned hotel room.
+  - In most places, summer brings a much-needed respite to teachers and students alike.
+  - Compared to her last job, the relaxed atmosphere of her new surroundings was an invigorating respite.
+  - Despite the fact that it’s hard to get to, I welcome my monthly trips and the respite of my cabin in the woods.
+  - Insomniacs are continually frustrated by their inability to achieve the respite of a good night’s sleep.
+  - As long as you can find a quiet place where you can be alone, meditation is a form of respite that you can take advantage of wherever you are.
+
+
+
+* [[https://wordsinasentence.com/restitution-in-a-sentence/][Restitution]]
+
+  =the restoring of something that is stolen or lost to the property owner=
+
+  - Instead of jail time, the shoplifter has been ordered to pay a huge sum of money as restitution for the stolen items.
+  - The reasoning behind restitution is to make the wrongdoer responsible for any loss or harm he may have caused.
+  - Since I was in the car but not the driver, I do not believe I should have to pay restitution to the hit-and-run victim.
+  - After Marvin vandalized the school by breaking the library window, he was ordered to pay restitution in the sum of three thousand dollars.
+  - The man who ran over my dog tried to give me restitution by paying the veterinarian's bill.
+  - Although Janice made restitution for damaging my car, she and I are no longer the best of friends.
+  - The pharmaceutical group was ordered to pay millions of dollars in restitution for selling cancer-causing drugs.
+
+
+* [[https://wordsinasentence.com/restive-in-a-sentence/][Restive]]
+
+  =feeling bored or impatient while waiting for something to happen or change=
+
+  - As the clock ticked past 7:30, the wedding guests became restive and started to shift in their seats, wondering if something had happened.
+  - When we finally trapped the feral cat on our back porch, it became extremely restive, yowling and scratching frantically at the door.
+  - Since the words are actually opposites, don’t make the common mistake of thinking restful and restive mean the same thing.
+  - After just a week of summer vacation, the kids were bored and restive, demanding new things to do.
+  - The school lockdown was going into its fourth hour, with the students becoming more restive and anxious by the minute.
+  - When he noticed the horses becoming restive, Zeke decided to investigate and found the biggest rattler he had ever seen slithering toward the campsite.
+  - Despite all the evidence that the workers were becoming more dissatisfied and restive, the management refused to believe they would actually go on strike.
+
+
+* [[https://wordsinasentence.com/resurgence-in-a-sentence/][Resurgence]]
+
+  =renewal of a comeback of an event=
+
+  - After thousands of people died from the 9/11 attacks, there was a resurgence of patriotism where people began flying the U.S. flag outside their homes.
+  - A health-related epidemic resulted in a panic of many people when a resurgence of tuberculosis recently infected ten people.
+  - Within the past decade, a resurgence of terrorism seems to plague the world due to ISIS.
+  - The 1960s and 1970s pushed for environmental changes to be made, but there was a resurgence during the 2000s when more environmental problems occurred.
+
+* [[https://wordsinasentence.com/resurrection-in-a-sentence/][Resurrection]]
+
+  =the act of bringing a person who died back alive again=
+
+  - People believe that Christianity evolved from the resurrection of Christ’s body from the Earth.
+  - In the fictional movie, the resurrection of the dog caused Scruffy to dig up through the soil and greet his shocked owner.
+  - After the Crucifixion, Burial and Resurrection of Jesus, people realized that this was a miracle on Earth.
+  - When the resurrection of the zombies began to take over the world, many people were ready for the Zombie Apocalypse.
+
+* [[https://wordsinasentence.com/resuscitate-in-a-sentence/][Resuscitate]]
+
+  =to bring someone or something back to an active state=
+
+  - Although we tried, we could not resuscitate the puppy who got hit by the speeding car.
+  - The paramedic will try to resuscitate the victim using CPR.
+  - When my father had a second heart attack in the hospital, the doctor was unable to resuscitate him.
+  - Hopefully the water will resuscitate the drooping plant.
+
+
+* [[https://wordsinasentence.com/retain-in-a-sentence/][Retain]]
+
+  =to maintain in use or possession=
+
+  - Since I have poor memory recall, it is hard for me to retain lecture notes.
+  - The cup warmer will allow your beverage to retain its temperature for at least an hour.
+  - Because my sister is a shopping addict, she finds it hard to retain money.
+  - It was hard for Jennifer to retain her sobriety on the drug-filled college campus.
+
+
+* [[https://wordsinasentence.com/retaliate-in-a-sentence/][Retaliate]]
+
+  =to respond to an attack in some way=
+
+  - Although Larry wants to retaliate against the man who killed his wife, he is going to wait for the court to administer justice.
+  - The country will more than likely retaliate against the sanctions with its own trade restrictions.
+  - Since Alice got me in trouble with our parents, I will retaliate and do the same thing to her.
+  - My first instinct was to retaliate and scream back at her.
+
+* [[https://wordsinasentence.com/retentive-in-a-sentence/][Retentive]]
+
+  =able to remember facts and other information=
+
+  - Jason has a retentive memory and never fails to recall the names of his three hundred employees.
+  - With my retentive mind, I can easily remember important historical dates.
+  - Sarah obviously does not have a retentive memory because she can barely remember her own birthday.
+  - As soon as I approached the retentive bartender, he poured my favorite drink without questioning me.
+
+* [[https://wordsinasentence.com/reticent-in-a-sentence/][Reticent]]
+
+  =keeping to yourself; not likely to draw attention to yourself; uncommunicative=
+
+  - While Barbara likes to discuss her personal life with our co-workers, I am much more reticent.
+  - Rather than voice her political opinions, Eileen prefers to remain reticent!
+  - When asked if he broke the lamp, the child was reticent and refused to make eye contact.
+  - Joe was reticent when I asked why he did not go to school yesterday.
+  - In regards to discussing his client’s guilt, the lawyer must be reticent in his responses.
+  - It is okay to be reticent around people you do not know well.
+  - Why were you so reticent when I asked about your day?
+
+
+
+* [[https://wordsinasentence.com/retract-in-a-sentence/][Retract]]
+
+  =to pull back in=
+
+  - The company will retract its job offer if it learns of your arrest.
+  - After being sued, the magazine was forced to retract the fictitious article.
+  - Did you see the little kitten retract its tiny claws?
+  - Once you explain the situation to your teacher, she might retract your failing grade and give you another opportunity.
+
+* [[https://wordsinasentence.com/retribution-in-a-sentence/][Retribution]]
+
+  =punishment that is considered to be morally right and fully deserved=
+
+  - Since the killer had murdered my husband, I found it fitting retribution that he be electrocuted.
+  - Everyone knew the shooting was an act of retribution from a rival gang.
+  - If you break your word to me, you should expect retribution to be swift and painful!
+  - Christians believe God will give retribution to those who sin.
+  - The angry woman extracted retribution from her rapist by stabbing him in the groin.
+  - Because I voted against the other board members on a big project, I am sure they are angry enough to seek retribution.
+  - While in prison for a crime she did not commit, Elena planned the retribution she would inflict upon those who betrayed her.
+
+
+
+* [[https://wordsinasentence.com/retrospect-in-a-sentence/][Retrospect]]
+
+  =a review of past occurrences=
+
+  - In retrospect, the old man wished he had traveled more during his younger days.
+  - To begin with, in retrospect, as a police officer Jason should have known better than to drink and drive.
+  - In retrospect, Jack wished he had asked Krissy on a date before she started dating his roommate.
+  - As the storeowners looked around their wrecked store, they realized, in retrospect, they should have hired more security for the pop star’s visit.
+  - Unfortunately the teacher realized, in retrospect, she had not prepared her students well for the national test.
+  - In retrospect, the minister understood his decision to build the new church next to a sex shop had been a bad idea.
+  - In retrospect, I should have never allowed my husband to drive to the store during the ice storm.
+
+* [[https://wordsinasentence.com/retrospective-in-a-sentence/][Retrospective]]
+
+  =relating to things that occurred previously=
+
+  - The retrospective automobile exhibit will highlight cars from the 1930’s and 1940’s.
+  - When the seniors looked at the retrospective slideshow, they laughed at their freshmen photos.
+  - A retrospective study of hospital admissions in the past decade suggests that women are more likely to be admitted than men during holiday periods.
+  - After the last football game, each player was asked to write a retrospective essay about his performance throughout the season.
+  - Sometimes we need to look back and take a retrospective view of our lives in order to determine our futures.
+  - Today, employees will receive retrospective bonuses for the goals they met six months ago.
+  - During the annual meeting, the company accountant will present a retrospective report on the company’s profit margin for last year.
+
+* [[https://wordsinasentence.com/reveal-in-a-sentence/][Reveal]]
+
+  =to expose=
+
+  - Several people would reveal the truth of the car accident when they decided to testify as to what they saw that day.
+  - After analyzing the evidence, the detective would reveal the answer to the mystery surrounding the bank robbery.
+  - When you reveal someone’s secret after they have confided in you, they will most likely never trust you again.
+  - An ultrasound can reveal the sex of a baby usually as early as seven weeks of pregnancy.
+
+* [[https://wordsinasentence.com/revelation-in-a-sentence/][Revelation]]
+
+  =a surprising realization that makes you look at things in a new way=
+
+  - When he was arrested for driving so much over the speed limit, he came to the revelation that he might need to slow down.
+  - After waking up in the bathtub, he came to the revelation that he needed to cut back on his drinking.
+  - He came to the revelation that his girlfriend was not right for him.
+  - After her friend was killed in a DUI related accident, the college student came to the revelation not to drink and drive.
+  - Once her boyfriend ditched her for drugs, she came to the revelation that she needed to find a new relationship.
+  - She came to the revelation that she was not in love with her boyfriend.
+  - Watching his son play with block, the engineer received a sudden revelation of how to solve his construction challenge.
+
+* [[https://wordsinasentence.com/reverberate-in-a-sentence/][Reverberate]]
+
+  =to cause effects afterwards=
+
+  - The drunk driver had no idea his foolish decision would reverberate and destroy the lives of five families.
+  - If the country continues to stockpile nuclear weapons, it will create fear that could reverberate and start a war.
+  - I was afraid my father’s anger would reverberate to my mother and put her in a bad mood as well.
+  - Even though harsh words appear to disappear instantly, they actually reverberate in the recipient’s mind and foster resentment.
+
+
+* [[https://wordsinasentence.com/reverential-in-a-sentence/][Reverential]]
+
+  =showing humbleness and courteousness=
+
+  - In the Chinese culture, the reverential children take care of their elderly parents and expect the same from their own children.
+  - When the reverential mourners filed into the cemetery, they quietly surrounded the casket as it was lowered into the ground.
+  - The reverential attitude toward the Holocaust Museum was evident from the serious looks on the faces of the teenagers.
+  - After reading about the way the underpopulated army of the United States fought the Mexicans at the Alamo, we stood in a reverential way looking at the photos of those who fought.
+
+
+* [[https://wordsinasentence.com/reversible-in-a-sentence/][Reversible]]
+
+  =able to go in the opposite direction=
+
+  - My teacher explained to the class that a palindrome is a reversible word because of its spelling.
+  - As a reversible process, thermodynamics allows the energy to travel back to where it came from.
+  - Sarah was grateful that she decided to wear her reversible shirt since she spilled sauce on it and could turn it inside out.
+  - Many women get Botox injections since it is a reversible procedure which causes the woman’s lips to go back to normal after a few weeks.
+
+
+* [[https://wordsinasentence.com/revile-in-a-sentence/][Revile]]
+
+  =to attack with abusive language=
+
+  - To the candidate, it came as no surprise that his political rival would revile him in front of the press.
+  - Individuals who are arrogant will often look for ways to revile those they view as beneath them.
+  - Although the media goes out of its way to revile the president, its actions have not caused a fall in the leader’s popularity.
+  - The store manager frequently loses employees because he takes every chance he gets to revile them and complain about their work.
+  - It is hard to not revile someone who fails to follow instructions after hearing them countless times.
+  - As a struggling small business owner, I find it quite easy to revile big firms who are slashing prices to steal my customers.
+  - The preacher was not a good man because he would openly revile those who did not regularly contribute to the church fund.
+
+
+* [[https://wordsinasentence.com/revitalize-in-a-sentence/][Revitalize]]
+
+  =to put new life or energy back in something=
+
+  - In an effort to revitalize the dying plant, we put it in a well-lit spot and provided it with plenty of water.
+  - Whenever you are feeling down, you should consider hanging out with your friends or doing something you enjoy to revitalize you.
+  - In order to revitalize someone whose heart has stopped, doctors attempt to bring them back to life with electric shock.
+  - If you want to revitalize a boring party, you should put on some energetic music and maybe bust out some fun games.
+
+* [[https://wordsinasentence.com/revival-in-a-sentence/][Revival]]
+
+  =an instance of something becoming popular or important again after a long time=
+
+  - A revival of the classic musical, Godspell, was playing at a theater downtown.
+  - The fashion industry was experiencing a revival of 80s style.
+  - The band was promoting a revival compilation of their famous hits.
+  - The drive-in was playing a revival of classic movies.
+
+* [[https://wordsinasentence.com/revoke-in-a-sentence/][Revoke]]
+
+  =to cancel or make invalid=
+
+  - The court has decided to revoke Jimmy’s parole and send him back to prison.
+  - If I get one more speeding ticket, the driver’s bureau is going to revoke my license.
+  - The club is going to revoke Mary’s membership because she has not paid her annual dues.
+  - After my sixteen-year-old daughter failed two of her classes, I had no choice but to revoke her driving privileges.
+
+
+* [[https://wordsinasentence.com/rhapsody-in-a-sentence/][Rhapsody]]
+
+  =an expression of great passion that is often displayed in a creative manner=
+
+  - The composer’s rhapsody described the passion he felt for his newborn son.
+  - Because the singer was so passionate about his music, he sung the rhapsody with unrestrained enthusiasm.
+  - The enthusiastic researcher launched into a lengthy rhapsody about his latest medical discovery.
+  - When the photographer took the wedding picture, he had no idea it would become the rhapsody that would celebrate the couple’s love forever.
+
+* [[https://wordsinasentence.com/rhetoric-in-a-sentence/][Rhetoric]]
+
+  =persuasive or impressive language which is often insincere=
+
+  - If someone does not stop the political rhetoric in that country, a civil war is likely to break out soon.
+  - The protestors’ rhetoric is filled with anger towards the government.
+  - As a teenager, the best way to avoid trouble is to ignore the angry rhetoric of your peers.
+  - The senator will be a great president because he is big on action and low on rhetoric.
+  - The politician hoped his rhetoric would win him some votes.
+  - Because I know the politician’s rhetoric is insincere, I will definitely not vote for him.
+  - As the activist has gotten older, he has changed the tone of his rhetoric to a more peaceful voice.
+
+
+
+* [[https://wordsinasentence.com/ribald-in-a-sentence/][Ribald]]
+
+  =offensive or vulgar humor=
+
+  - The comic’s sexual jokes were too ribald for my religious mother.
+  - Because twelve-year-old Jenny wants to see a film with ribald humor, she must have a parent or guardian accompany her.
+  - The teacher sent Jim to the principal’s office after he told a ribald joke in class.
+  - Although I enjoy a good joke as much as the next person, ribald jokes about rape hold no humor for me.
+  - The Christian radio station refused to play the ribald song.
+  - Ever since the candidate was caught on camera making ribald remarks, he has found it difficult to raise campaign funds.
+  - I left the restaurant as soon as my blind date started to make ribald jokes of a sexual nature.
+
+
+* Ridicule
+
+  - It may have been a simple ridicule, but it still made him feel rejected.
+  - He was the victim of a cruel ridicule, making him feel alienated from his classmates.
+  - There is a difference between an innocent jest and a mean-spirited ridicule.
+  - Though he had been subjected to his fair share of ridicule, he still had a hard time taking criticism.
+  - The boys constantly worked to ridicule their sister for her imaginary tea parties.
+  - It is very common for friends to ridicule one another.
+  - For kids to ridicule one another is normal, but it is important to monitor and ensure it doesn’t become bullying.
+
+* [[https://wordsinasentence.com/ridiculous-in-a-sentence/][Ridiculous]]
+
+  =absurd or crazy, usually resulting in derision or mockery=
+
+  - The ridiculous claim that the moon is made of cheese is guaranteed to make people laugh at you should you actually utter it.
+  - The notion of living forever is ridiculous, as it has been proven impossible for thousands of years already.
+  - To think of the world as flat would be ridiculous today, but in the past people truly believed it.
+  - I think that continuing a relationship with someone that clearly does not care for you is ridiculous.
+
+* [[https://wordsinasentence.com/rift-in-a-sentence/][Rift]]
+
+  =a circumstance in which an amiable relationship has been broken=
+
+  - A difference in perspectives caused a rift that forced the two friends to end their business partnership.
+  - Because of the rift between the two countries, everyone is waiting to see who will break the truce first.
+  - The rift between the spouses made for quiet mealtimes.
+  - After the rift, Beth and Ana never spoke to each other again.
+
+* [[https://wordsinasentence.com/righteous-in-a-sentence/][Righteous]]
+
+  =adhering to moral and/or religious beliefs=
+
+  - Although the righteous man knew his wife was cheating on him, he refused to leave her because the church opposed divorce.
+  - The ruler was a righteous man who believed his people should be his equals and not his servants.
+  - While the minister preached about the need for righteous behavior, out of church he was a thief and a scoundrel.
+  - As a righteous young woman, Jane planned on saving her virginity for her husband.
+
+* [[https://wordsinasentence.com/rigid-in-a-sentence/][Rigid]]
+
+  =unwilling to alter one’s behaviors or views=
+
+  - In the biographical movie, the cult leader was portrayed as a rigid man who tolerated no ideas except for his own.
+  - The rigid teacher ignores the latest technologies because she prefers to educate using traditional materials.
+  - Because the business owner refuses to let his employees take off on major holidays, he is viewed as a rigid employer.
+  - My father was rigid in his conservative beliefs and never wavered from them during his lifetime.
+
+
+* [[https://wordsinasentence.com/rigorous-in-a-sentence/][Rigorous]]
+
+  =strict and demanding=
+
+  - To gain entry into any Special Forces unit in the military, you must push through rigorous testing.
+  - Unless you get a truly rigorous workout, you should not expect to see any results.
+  - With rigorous commitment to his studies, the student was able to pass with an A.
+  - A good rigorous scrubbing will help to clean up most stains.
+  - No matter how rigorous he was in his pursuit, the woman would not agree to date him.
+  - It was a rigorous effort for sure, but he still fell short of the required guidelines.
+  - The trainer developed a rigorous fitness program to help his clients lose weight.
+
+
+
+* [[https://wordsinasentence.com/rival-in-a-sentence/][Rival]]
+
+  =a group or individual who is competing against another group or person=
+
+  - Cathy is certain she will get the promotion because her rival is a new employee with no work experience.
+  - Since our football team is playing our school rival during the championship game, we are sure to have a spirited match.
+  - Lisa views Gail as her rival for homecoming queen.
+  - While Bill was once my rival on the football field, we are now co-captains of the same college team.
+
+* [[https://wordsinasentence.com/rivalry-in-a-sentence/][Rivalry]]
+
+  =competition=
+
+  - The rivalry between the two teams was a longstanding conflict.
+  - Wanting to eliminate any rivalry, the group leader led the teammates through conflict resolution exercises.
+  - The parents were stumped on how to control the sibling rivalry.
+  - There was an unspoken rivalry between me and another choral singer, as we often competed for solos.
+
+* [[https://wordsinasentence.com/rivet-in-a-sentence/][Rivet]]
+
+  =to command the attention of=
+
+  - Apple Inc. knows how to rivet the world’s attention by constantly releasing cutting edge technology.
+  - Jerry is a coach with an ability to rivet the attention of his team by giving a pep talk like no other.
+  - The Super Bowl always manages to rivet the country, regardless of whatever else is going on in the news.
+  - As a master story teller, I love to rivet the attention of the children with fascinating and suspenseful stories.
+
+
+
+
+
+
+* [[https://wordsinasentence.com/rowdy-in-a-sentence/][Rowdy]]
+
+  =wild in a loud or typically obnoxious manner=
+
+  - The rowdy patrons at the bar were loud and especially irritating in their words, making the night less enjoyable for everyone present.
+  - Young children have a tendency to get rowdy because they have a lot of energy and don’t have any inkling of social tact.
+  - A lot of athletes are rowdy in the sense that they are loud and occasionally rough with one another.
+  - It is difficult for new parents to deal with a rowdy child because they are generally not used to having such an uproar in the house.
+
+
+
+* [[https://wordsinasentence.com/rudimentary-in-a-sentence/][Rudimentary]]
+
+  =basic; minimal=
+
+  - You need to have at least a rudimentary understanding of technology before you can upload a video on that website.
+  - Even though the information seems rudimentary, a review of the basics now and then will ensure that you will respond appropriately in emergency situations.
+  - Even though Lorenzo showed only rudimentary skills, his enthusiasm for sculpting indicated that he would soon be a master of the craft.
+  - After conducting some rudimentary research, Celine was pleased to discover that the town would be the ideal place for her to set up her business.
+  - Because she didn’t meet the rudimentary requirements for her secretarial skills, her name was removed from the list of prospective employees.
+  - The business plan is still in its rudimentary stages, but at this point your product looks like it could be a game-changer.
+  - If you take a rudimentary approach to even the most difficult problem, you will find that it becomes less overwhelming.
+
+* [[https://wordsinasentence.com/rueful-in-a-sentence/][Rueful]]
+
+  =displaying regret and/or sorrow for one’s actions=
+
+  - The rueful dog looked pitiful after it chewed up its blanket.
+  - Because the judge felt the defendant wasn’t rueful, he gave him a harsh sentence.
+  - The woman’s tear-stained face had a rueful look as she apologized for hitting my dog.
+  - With a rueful nod of his head, Stan expressed his regret to his parents.
+
+* [[https://wordsinasentence.com/rugged-in-a-sentence/][Rugged]]
+
+  =describing a rough uneven area of land=
+
+  - Since there are so many rocks on the island, the terrain is extremely rugged.
+  - It will be a while before the rescuers can cross the rugged area to save the stranded hiker.
+  - If you drive your car on the rugged road, you are likely to damage your tires.
+  - Few people climb the mountain because its rugged ground makes scaling very hazardous.
+
+* [[https://wordsinasentence.com/ruminant-in-a-sentence/][Ruminant]]
+
+  =a type of animal with a four-chambered stomach hat brings up food from its stomach and chews it again=
+
+  - The water buffalo is a ruminant, which means it has a four-chambered stomach.
+  - Because the giraffe is a ruminant it rechews the grass after it has already eaten it once.
+  - The animal is called a ruminant because it gets the most value out of its food by bringing it up from its stomach and rechewing.
+  - Camels and Alpacas digest their food in a four-chambered stomach just like any ruminant does.
+
+
+
+* [[https://wordsinasentence.com/rustic-in-a-sentence/][Rustic]]
+
+  =having a country or simple style=
+
+  - The rustic cabin was filled with hand carved furniture.
+  - Since Rebecca has a rural upbringing, she is planning a rustic wedding in the mountains.
+  - The restaurant has a rustic charm that reminds me of my grandmother’s kitchen.
+  - Although the rustic table is wobbly from age, it is still one of my favorite family heirlooms.
+
+* [[https://wordsinasentence.com/ruthless-in-a-sentence/][Ruthless]]
+
+  =without concern for others; cold-hearted=
+
+  - The ruthless gang leader killed the new recruit for showing up late for a meeting.
+  - When the ruthless company president refused to stop selling unsafe drugs, the government threatened to imprison him.
+  - The dictator is ruthless and will kill anyone who challenges his authority.
+  - In prison, the ruthless guards will abuse you if they don’t receive protection money from your family.
+
+* [[https://wordsinasentence.com/rabid-in-a-sentence/][Rabid]]
+
+  =having excessive enthusiasm for something or someone=
+
+  - The singer’s rabid fans have been known to dig through his trash.
+  - When the millionaire joined the cult, he became a rabid follower who donated most of his fortune to the religious group.
+  - Rabid viewers of the television show repeatedly watch their favorite episodes.
+  - After the championship game, some of the winning team's rabid fans refused to leave the stadium.
+
+
+* [[https://wordsinasentence.com/rack-in-a-sentence/][Rack]]
+
+  =a stand or shelf used to hold or hang things=
+
+  - A shoe rack and several small cubbies lined the walls of the classroom.
+  - One rack in the closet was for coats while the other held umbrellas.
+  - The gun fanatic ordered a new rack to hold the latest addition to his firearm collection.
+  - Placing the scarves on the exotic looking rack, the sore owner hoped the new furniture and décor would help attract customers.
+
+* [[https://wordsinasentence.com/raffish-in-a-sentence/][Raffish]]
+
+  =unconventional and unacceptable yet intriguing=
+
+  - The raffish woman drew everyone’s attention when she crashed the wedding.
+  - While many people found the singer’s raffish behavior interesting, others viewed it as completely unacceptable.
+  - The female judge found it difficult to give a harsh sentence to the raffish criminal.
+  - With his untidy hair, the Duke was attractive in a raffish sort of way.
+
+* [[https://wordsinasentence.com/rakish-in-a-sentence/][Rakish]]
+
+  =filled with a nonchalant attitude that is often displayed in an unconventional manner=
+
+  - Josh’s rakish personality leads him to believe it is okay to have six girlfriends at one time.
+  - In our religious community, males are forbidden to have long rakish hair.
+  - The school girls were drawn to the rakish new boy who ignored school rules.
+  - Although the rakish pirate was wanted by several governments, he eluded arrest because of his popularity with the public.
+
+* [[https://wordsinasentence.com/ramble-in-a-sentence/][Ramble]]
+
+  =to talk aimlessly=
+
+  - Because my math professor tends to ramble on, I often fall asleep in class.
+  - When the tour guide started to ramble about his home life, many of the passengers on the bus grew bored.
+  - Until the star of the show arrives on set, the host will probably ramble about the weather.
+  - For the longest time, we listened to the politician ramble without answering any of the audience’s questions.
+
+
+* [[https://wordsinasentence.com/rambunctious-in-a-sentence/][Rambunctious]]
+
+  =hyper and energetic=
+
+  - The classroom looked like a war zone after the rambunctious kindergartners ran around knocking things onto the ground.
+  - Once the rambunctious puppy got home, he would run around the house nonstop before tearing apart a whole couch.
+  - Making loud sounds and swinging fast from tree to tree, the rambunctious monkeys were fun and loud entertainment to watch.
+  - The aerobics instructor made us perform a rambunctious routine by continuously moving our bodies to the music.
+
+* [[https://wordsinasentence.com/rampage-in-a-sentence/][Rampage]]
+
+  =to rush through an area in a reckless or violent manner=
+
+  - Shoppers went on a rampage through the mall, knocking over racks and pushing each other down.
+  - On a deadly rampage, the Facebook shooter killed an innocent man walking home from Easter dinner.
+  - During the riot, protesters went on a rampage and destroyed several downtown monuments through their rage.
+  - A rampage at the government building prompted security reviews and changes in riot response.
+
+* [[https://wordsinasentence.com/rankle-in-a-sentence/][Rankle]]
+
+  =to cause bitterness or irritation=
+
+  - The fact the plane is leaving two hours late is certainly going to rankle the passengers.
+  - When the prince decided to date a commoner, he knew his romantic choice would rankle his parents.
+  - Releasing the killer from prison is sure to rankle the victim’s family.
+  - If I tell my husband how much money I spent at the store, I am certain the figure will rankle him.
+  - The plan to tear down the historical church and build a strip mall is going to rankle all the religious activists in the community.
+  - According to the media, the current poll results are going to rankle the politician who appears to be losing his political seat.
+  - The boy’s lazy behavior began to rankle his parents.
+
+* [[https://wordsinasentence.com/ransom-in-a-sentence/][Ransom]]
+
+  =something that is paid to free an individual who is being held as a hostage=
+
+  - In some cases you can pay the ransom and still not have your loved one returned.
+  - How much ransom does the kidnapper want in order to return your wife?
+  - I’ll need to withdraw all my money from the bank in order to pay the ransom requested by my daughter’s abductor.
+  - Because my parents don’t like me very much, they probably won’t pay the ransom for my release.
+
+* [[https://wordsinasentence.com/rant-in-a-sentence/][Rant]]
+
+  =an act complaining or speaking about something in a loud, lengthy, angry, emotional manner=
+
+  - The woman’s irate Facebook rant was not representative of her character and was eventually taken down.
+  - In a tirade, the deranged stranger proceeded to rant about pharmaceutical overcharges.
+  - Mid-rant, the man seemed to realize how silly his outburst was and sulked off in a different direction.
+  - With her rant completed, the woman tapped her foot, waiting for her children to begin cleaning.
+
+* [[https://wordsinasentence.com/rapacious-in-a-sentence/][Rapacious]]
+
+  =aggressively greedy=
+
+  - Because of its rapacious appetite, the shark is often considered to be more of an eating machine than a living creature.
+  - Our rapacious neighbors have maxed out five different credit cards because they always have to have something newer and better.
+  - The Vikings had a reputation for being merciless conquerors, and they were rapacious about taking away as much loot from their raids as their ships could carry.
+  - Even though Bruno is always happy to give you a loan at a ridiculously high interest rate, if you don’t pay him back on time he becomes a rapacious bill collector.
+  - According to early historical documents, ancient rulers were rapacious tyrants who could never acquire enough wealth or power.
+  - The rapacious developer kept trying to procure all the property he could, and he was using fraudulent means to get people to sell their land to him for ridiculously low prices.
+  - Because of his aggressive pursuit of new clients for his law office, Daniel has a reputation as a rapacious ambulance chaser.
+
+
+* [[https://wordsinasentence.com/rapport-in-a-sentence/][Rapport]]
+
+  =a pleasant association or relationship=
+
+  - The rapport I have with my therapist allows me to tell her my deepest thoughts.
+  - As a happily married couple, my husband and I share a deep rapport.
+  - Jane hoped to establish a rapport with her adopted daughter that would allow them to build a loving relationship.
+  - Because my coworker has a great rapport with our boss, she will probably get a raise before I obtain one.
+
+* [[https://wordsinasentence.com/rapprochement-in-a-sentence/][Rapprochement]]
+
+  =an agreement reached by opposing parties=
+
+  - After the warring countries reached a rapprochement, things in the area are now more politically calm.
+  - Mediators pushed towards rapprochement but the two sides could never reach an agreement.
+  - An experiment in racial rapprochement was conducted to see if any of the techniques could help heal racial tensions in the neighborhood.
+  - Rapprochement between the U.S. and North Korea seems unlikely as more threat are made from both sides.
+
+* [[https://wordsinasentence.com/rapt-in-a-sentence/][Rapt]]
+
+  =totally enthralled=
+
+  - The toddler watched the cartoon in rapt attention.
+  - Whenever my favorite actor comes onscreen, I am rapt by his performance.
+  - The audience was rapt as the two boxers squared off in the ring.
+  - Because the reality star is rapt by her appearance, she constantly looks in the mirror.
+
+* [[https://wordsinasentence.com/rarefaction-in-a-sentence/][Rarefaction]]
+
+  =the lessening of density in a substance=
+
+  - The rarefaction of air occurs as it rises higher in the atmosphere, where it loses much of its density.
+  - Rarefaction is the name of the process when a substance begins losing density, such as in the case of sound waves.
+  - The further a sound wave travels, the less dense it becomes, which is an example of the rarefaction process.
+  - You can witness rarefaction at the beach, as a wave loses a great deal of its density as it travels towards the shore.
+
+* [[https://wordsinasentence.com/raspy-in-a-sentence/][Raspy]]
+
+  =hoarse or harsh, usually in regards to a person’s voice=
+
+  - My sore throat made my voice sound raspy to my friends, who knew I was sick the moment they heard my hoarse words.
+  - The extremely old man had a very raspy voice, made harsh by the strain that was placed on his vocal cords in his old age.
+  - If you smoke a lot, it is very likely that your voice will become raspy and rough as you get older, since you will have damaged your vocal cords and lungs.
+  - People who have trouble breathing often have a raspy voice, since they cannot get enough air into their lungs to speak clearly and smoothly.
+
+
+
+* [[https://wordsinasentence.com/ratiocination-in-a-sentence/][Ratiocination]]
+
+  =the method of precise thinking=
+
+  - The detective used his ratiocination to determine the killer’s identity.
+  - After suffering a head injury, the man was unable to engage in the ratiocination needed to perform simple math calculations.
+  - We reached our conclusion on buying the home after evaluating information using ratiocination.
+  - Because the police officer wasn’t experienced in ratiocination, he didn’t realize he had overlooked a valuable clue.
+
+* [[https://wordsinasentence.com/ration-in-a-sentence/][Ration]]
+
+  =the portion that is distributed=
+
+  - I put the dog’s daily ration in a bag for the pet sitter.
+  - Because the shipwreck survivors were running low on food supplies, each person received only a small ration each day.
+  - The man pulled into the crowded gas station to receive his weekly fuel ration.
+  - Although the soldier was hungry, he gave his daily ration to the starving child.
+
+* [[https://wordsinasentence.com/rattle-in-a-sentence/][Rattle]]
+
+  =to shake or clatter=
+
+  - Aftershocks from the earthquake were strong enough to rattle the china in the kitchen cabinet.
+  - Hearing the snake’s shaking tail rattle next to my foot sent me into a tizzy.
+  - The rattle and clatter of popcorn kernels hitting the metal pan made my mouth water.
+  - As he continued to rattle and bang the change in his small tin cup, the homeless man looked pitifully at those passing by.
+
+* [[https://wordsinasentence.com/ravel-in-a-sentence/][Ravel]]
+
+  =to untangle or unravel and object or situation=
+
+  - As more and more facts came to light, the truth about who murdered the butler began to ravel.
+  - Pulling the string with his small paw, the kitten tried to ravel the tight ball of yarn.
+  - The frustrated fisherman strugged to ravel the tangled line.
+  - Trying to ravel her fiance’s twisted web of lies seemed almost impossible to the jilted bride.
+
+
+* [[https://wordsinasentence.com/ravenous-in-a-sentence/][Ravenous]]
+
+  =very hungry=
+
+  - As a ravenous carnivore, Adam was sure that he would be able to finish the 4-pound steak in an hour.
+  - The ravenous dragon flew low over the forest looking for movement that would reveal the presence of some tidbit to satisfy the rumblings in his belly.
+  - Even though she felt ravenous, Scarlet allowed herself to nibble only the smallest portions of the delicious party goodies.
+  - Sometimes children act out at school because they are neglected at home and are ravenous for attention, good or bad.
+  - Despite her small size, Emma always seems to be ravenous, even after she has already eaten a sizeable meal.
+  - If we hadn’t put up a high fence, our garden would have been totally demolished by the ravenous deer coming down from the hills.
+  - No matter what type of stressful situation I’m facing, my body responds by eating everything in sight because of my ravenous appetite.
+
+
+* [[https://wordsinasentence.com/ravishing-in-a-sentence/][Ravishing]]
+
+  =extremely beautiful=
+
+  - The groom thought the bride looked ravishing in her wedding dress.
+  - When the ravishing woman entered the room, all eyes were drawn to her beauty.
+  - The event planner designed a ravishing setting for the elaborate gala.
+  - My stylist told me that I looked ravishing in red.
+
+
+
+
+* [[https://wordsinasentence.com/reap-in-a-sentence/][Reap]]
+
+  =to harvest by cutting=
+
+  - With the invention of the thresher, farmers were able to reap their crops faster than before.
+  - In order to sell the soybeans to the local markets before his competition, Farmer John would have to reap the harvest within the next two days.
+  - The main job on the plantation was to reap the wheat during the springtime and then clean it before taking it to market.
+  - I knew that I could reap the apples once they were bright red and ripe while hanging on the trees.
+
+* [[https://wordsinasentence.com/rebuff-in-a-sentence/][Rebuff]]
+
+  =to turn down or refuse=
+
+  - Since your offer does not benefit me, I will have to rebuff it and walk away empty-handed.
+  - The pretty woman’s rebuff was so kind that Jared did not feel bad when she turned down his offer to dance.
+  - Because the position does not pay well, Kelly decided to rebuff her supervisor’s offer of a promotion.
+  - The unattractive girl was shocked when the star of the football team did not rebuff her invitation to the dance.
+  - Since Alice is married to Jeff, she is going to rebuff Bill’s lunch invitation.
+  - Unfortunately I have to rebuff your expensive gift because we hardly know each other.
+  - The parole board will rebuff the violent killer’s plea for an early release.
+
+* [[https://wordsinasentence.com/rebuttal-in-a-sentence/][Rebuttal]]
+
+  =an account that is written or stated to contradict another idea=
+
+  - Since the defense attorney did not have a rebuttal to the prosecutor’s statement, he was unable to make the jury believe his client’s alibi.
+  - A rebuttal witness was called to contradict the testimony of the prosecutor’s key witness.
+  -  During the politician’s rebuttal, he further described his proposal to improve the nation’s economy.
+  - Gil was so hurt by his wife’s accusation he refused to respond with a rebuttal.
+
+
+* [[https://wordsinasentence.com/recant-in-a-sentence/][Recant]]
+
+  =to retract a public statement=
+
+  - After being convicted of perjury, the witness had to recant her remarks against the defendant.
+  - The judge ordered the magazine to recant the false statements it made about the actress.
+  - If my best friend does not recant the accusation she made about me, then she and I will no longer be friends.
+  - The brutal dictator will behead any rebels who refuse to recant their criticisms of his rule.
+  - Rather than be considered crazy, Richard decided to recant his statement of an alien abduction.
+  - The newspaper editor will be sued if he does not recant his editorial piece on the singer.
+  - When the church elders called the young parishioner into their office, they commanded him to recant his testimony that claimed God was not real.
+
+
+* [[https://wordsinasentence.com/recess-in-a-sentence/][Recess]]
+
+  =a short break=
+
+  - After a short recess, the judge will return and decide on the case.
+  - The children are given a recess so that they can have a break from working.
+  - Leaders in the program will schedule a recess or short break for the attendees.
+  - Earlier this morning, jury members were sent on a recess to think about the case facts.
+
+
+
+* [[https://wordsinasentence.com/reciprocal-in-a-sentence/][Reciprocal]]
+
+  =shared, felt, or shown by both sides=
+
+  - Unfortunately, I have to tell my best friend his romantic feelings towards me are not reciprocal.
+  - The United Nations is concerned the reciprocal animosity between the two countries could lead to war.
+  - In Kate’s classroom, both she and her students have roles in reciprocal teaching.
+  - If you put a link to my website on your page, I will include a reciprocal link on my website.
+  - When my puppy licked my face, I realized he and I shared a reciprocal affection.
+  - If Billy does a favor for Jack, Jack will owe him a reciprocal favor in return.
+  - Without reciprocal respect, the divorcing husband and wife will not come to terms on a settlement.
+
+* [[https://wordsinasentence.com/reckon-in-a-sentence/][Reckon]]
+
+  =to anticipate a specific thing will occur=
+
+  - From the loud cheers, it’s obvious the local fans reckon their team will win the game.
+  - The news forecasters reckon a huge blizzard will soon hit our city.
+  - Although I’m exhausted I reckon I will go to the party for a few hours.
+  - Economic analysts reckon the economy is improving because fewer people are filing for unemployment benefits.
+
+* [[https://wordsinasentence.com/recline-in-a-sentence/][Recline]]
+
+  =to tilt back or lie down=
+
+  - Cramped airline space made it difficult for the passenger to recline her seat back.
+  - The chairs in the ICU waiting room could recline all the way, allowing family members to sleep in them if needed.
+  - At the end of the scene, the ballerinas began to recline on the floor in a dramatic heap.
+  - On most family vacations, I recline the backrest and sleep while my mom drives.
+
+
+
+* Recompense
+
+  - There is no recompense I would accept in exchange for the life of my child who was recently killed in a hit-and-run accident.
+  - Although I am in favor of the young man having to pay me recompense for my slashed tire, I do not want him to go to jail for the crime.
+  - It was the jury’s task to decide how much recompense the survivor of the plane crash deserved.
+  - While being your intern is a great experience for me, I know I will work harder with a little financial recompense.
+  - Does the government have the right to build a road on my property without offering me some form of recompense?
+  - After the wild bachelor party, the groom had to make recompense to the hotel to cover the damage done to the suite.
+  - Even though the maid did not clean my house properly, she still wanted recompense for her time and effort.
+
+* [[https://wordsinasentence.com/reconnoiter-in-a-sentence/][Reconnoiter]]
+
+  =to survey a place or situation for planning purposes=
+
+  - Before the event, we will reconnoiter the venue so we can design the evening’s seating arrangements.
+  - The thief opened a bank account so he would have an opportunity to reconnoiter the bank’s security.
+  - Because Jane wanted the perfect wedding, she decided to reconnoiter several wedding chapels before making a final decision.
+  - Hank will reconnoiter numerous acres of land to ensure he is choosing the best property for his family home.
+  - To plan a solid defense, we must reconnoiter our enemy’s movements.
+  - Today, the location scout will reconnoiter the city park to see if it is suitable for the movie’s wedding scene.
+  - Unfortunately computer technology has made it very easy for thieves to reconnoiter the homes of the rich and famous.
+
+
+* [[https://wordsinasentence.com/rectitude-in-a-sentence/][Rectitude]]
+
+  =behavior that is correct and moral=
+
+  - Jake’s rectitude prevented him from lying to the police about his actions.
+  - Although the restaurant has received bad press lately, it normally is recognized for its rectitude in providing outstanding customer service.
+  - Sheila’s sense of rectitude kept her from keeping the lost hundred dollar bill.
+  - When the valedictorian made her speech, she encouraged her classmates to seek out lives filled with honesty and rectitude.
+  - Because Helen was familiar with Sheila’s ethical rectitude, she did not invite her to participate in the group’s robbery.
+  - Kevin’s rectitude at making ethical decisions made him a top candidate for the position.
+  - When Allen mugged the elderly woman, it became obvious to everyone that he was no longer being guided by his rectitude.
+
+* [[https://wordsinasentence.com/recumbent-in-a-sentence/][Recumbent]]
+
+  =a resting or reclining state=
+
+  - When we returned home, the exhausted babysitter was asleep and recumbent on the couch.
+  - Is your cat going to lie recumbent on the windowsill all day long?
+  - After drinking four beers, my father was recumbent in his favorite chair.
+  - Heather was recumbent on a pool lounger when it started to rain.
+  - Since James just had a life-saving surgery, he is bound to be recumbent for a while.
+  - Alan was recumbent in his bed when the police burst into his house and arrested him.
+  - Because Tara did not want to be discovered in her sister’s room, she assumed a recumbent posture under the bed.
+
+
+* [[https://wordsinasentence.com/redemption-in-a-sentence/][Redemption]]
+
+  =the act of earning something back=
+
+  - Phillip prays his confession will earn him the redemption of a reduced prison sentence.
+  - Through writing his biography, the criminal hopes to earn redemption for his crimes by changing the lives of troubled young people.
+  - My daughter hoped doing extra chores would earn her redemption for staying out past her curfew.
+  - At the counter kids can exchange tickets for redemption and receive fun items such as toys and stuffed animals.
+
+* [[https://wordsinasentence.com/redolent-in-a-sentence/][Redolent]]
+
+  =filled with a scent or odor=
+
+  - The candy shop was redolent with the rich smell of chocolate.
+  - When my husband came home late, his clothing was redolent with the scent of a strange woman’s perfume.
+  - The morgue is redolent with the odor of deceased individuals.
+  - As I walked through the airport, the air was redolent with the smell of fresh baked croissants.
+
+* [[https://wordsinasentence.com/redoubtable-in-a-sentence/][Redoubtable]]
+
+  =a difficult challenger or challenge=
+
+  - Despite his intense workouts, the boxer was no match for his redoubtable competitor who held several title belts.
+  - The young singer was anxious about facing off against the redoubtable singer who had been performing for twenty years.
+  - Because the teacher knew the test was redoubtable, she urged her students to study tirelessly.
+  - Ben knew it would take him several weeks to complete the redoubtable task assigned to him by his manager.
+  - When the scrawny high school wrestler saw his redoubtable two hundred pound competitor, he fainted.
+  - The politician’s wife is a redoubtable woman who will challenge anyone who speaks poorly of her spouse.
+  - In the final round of the tournament, two redoubtable teams will play each other.
+
+* [[https://wordsinasentence.com/redress-in-a-sentence/][Redress]]
+
+  =to make something right or the payment for a wrong=
+
+  - Kate demanded redress from the builder when her deck collapsed.
+  - If Jim is not paid the money he is owed, he will go to court to seek redress.
+  - The company hopes to redress the victim’s injury by paying out a million dollar settlement.
+  - When I hired the attorney, I hoped he could help me get redress from the rental company that had evicted me without valid cause.
+  - Since you were hurt in the car accident and were not driving, you are entitled to a redress from the guilty person’s insurance carrier.
+  - A legal redress from the court is not enough to make me forgive my father’s killer.
+  - Although I am not a fan of the singer, I was impressed when he tried to redress his bodyguard’s blunder with an offer of a nice meal and two concert tickets.
+
+
+* [[https://wordsinasentence.com/reek-in-a-sentence/][Reek]]
+
+  =to have or give off a strong, unpleasant smell=
+
+  - It was discovered that a gallon of milk had spilled all over the car, making it reek.
+  - The garbage cans needed to be cleaned when they began to reek.
+  - After camping for two weeks without properly showering, I started to reek.
+  - The kitchen began to reek because he neglected to take out the garbage.
+
+* [[https://wordsinasentence.com/reel-in-a-sentence/][Reel]]
+
+  =to lose balance or feel dizzy=
+
+  - As I started to reel and feel faint, I realized my date had put something in my drink.
+  - The drunk man started to reel as soon as he stepped away from the barstool.
+  - For a few days after the surgery, you may feel like you are going to reel so be careful when you are active.
+  - Margaret knew her son was drunk when she saw him reel and fall off the porch.
+
+* [[https://wordsinasentence.com/refectory-in-a-sentence/][Refectory]]
+
+  =a cafeteria or place where meals are served=
+
+  - Lunch in the hospital refectory is served from 11:00 a.m. to 2:00 p.m. and dinner begins at 5:00 p.m.
+  - The monks in the monastery share their evening meals in the large refectory.
+  - The old refectory no longer has lunch tables or served meals, instead it is being used as a storage building.
+  - Right outside the dorms, there is a refectory where students can come and eat lunch between classes.
+
+* [[https://wordsinasentence.com/refraction-in-a-sentence/][Refraction]]
+
+  =the twisting or bending of light as it travels from one agent to another agent=
+
+  - We observed refraction when we turned our flashlights upon the cloudy lake.
+  - Stepping back, the student could see the refraction of light as it moved through the beaker.
+  - I am going to have a refraction exam to see if the light bends appropriately as it travels through my eye.
+  - In refraction light rays are bent as they move through rain puddles, and the resulting reflection often presents itself as a rainbow.
+
+
+* [[https://wordsinasentence.com/refulgent-in-a-sentence/][Refulgent]]
+
+  =gleaming; shining excessively bright=
+
+  - When the beauty queen accepted her crown, she had a refulgent smile on her face.
+  - The sunlight appeared refulgent on the church’s window.
+  - During the wedding, the candles provided a refulgent light.
+  - Santa’s eyes were smiling and refulgent when he laughed.
+
+* [[https://wordsinasentence.com/refurbish-in-a-sentence/][Refurbish]]
+
+  =to rebuild or replenish; to restore to original (or better) working order and appearance=
+
+  - My dad’s hobby is buying classic cars so he can refurbish them.
+  - We wanted to refurbish the garage into an extension of the living room.
+  - As an artist, I am always searching flea markets for junk that I can refurbish.
+  - The community voted to refurbish the now defunct train tracks into a garden.
+
+* [[https://wordsinasentence.com/refute-in-a-sentence/][Refute]]
+
+  =to prove wrong by argument or evidence=
+
+  - The evidence provided by the prosecutor will refute the defendant’s claim of innocence.
+  - Although I wish I could refute your argument, I do not have the facts to do so at this time.
+  - My physics teacher challenged us to refute his laboratory findings with our own evidence.
+  - If one can find the facts, it is very easy for one to refute lies.
+  - Even though Jake knew he was guilty of the crime, he still hired a lawyer to refute the charges.
+  - My plan was to refute my neighbor’s false rumors about me with actual facts
+  - Many church authorities refute the idea Christ was actually born on December 25th.
+
+* [[https://wordsinasentence.com/regime-in-a-sentence/][Regime]]
+
+  =a style of management or rule=
+
+  - In order to build muscle and lose fat, a weight lifter must follow a rigorous regime composed of intense workouts and a strict diet.
+  - Our government believes it can use military force to overthrow the brutal regime that is terrorizing the small nation.
+  - Under the country’s military regime, criminal offenders were punished harshly and swiftly.
+  - The football player’s nutritional regime requires him to eat several large servings of proteins each day.
+
+* [[https://wordsinasentence.com/regress-in-a-sentence/][Regress]]
+
+  =to fall back to a previous state=
+
+  - After being an A-student for several months, Hank is starting to regress into the practice of not studying.
+  - When I saw my teenage son starting to regress to toddler behavior, I took him to see a therapist.
+  - While Jack seemed to be recovering after his surgery last week, he started to regress today and is now bedridden.
+  - As a modern civilization, we need to make progress towards equality for all and not regress into an age of endless civil rights violations.
+  - After eating healthy for the past few weeks, we do not want to regress to our old habit of eating fast food every day.
+  - Rather than regress, you should always strive to move forward.
+  - When the twenty-year old woman began to throw a tantrum in the store, it was obvious she had started to regress to the days when screaming got her everything she wanted.
+
+* [[https://wordsinasentence.com/regurgitate-in-a-sentence/][Regurgitate]]
+
+  =to expel swallowed substances out of the mouth or to repeat information despite not understanding it=
+
+  - While I didn’t understand the lecture, I was able to regurgitate the content well enough to create a decent essay.
+  - Sometimes the baby will regurgitate his milk when he is unwell.
+  - Since the little boy ate until his stomach hurt, he will probably regurgitate a portion of his dinner.
+  - Did you see the mother bird regurgitate her food and then give it to her young?
+
+* [[https://wordsinasentence.com/rehearsal-in-a-sentence/][Rehearsal]]
+
+  =a practice or trial of a play or similar public performance=
+
+  - The actors had one last rehearsal the night before the big play, since they wanted to be absolutely sure that they were prepared for their big performance.
+  - The orchestra had to endure more than one rehearsal before the night of their performance, since they were playing for very wealthy patrons and had to be as perfect as they could manage.
+  - A rehearsal is essentially just a practice round for actors and performers to undergo so they can prepare for the day they have a real audience watching them.
+  - Any scenario in which you practice for something before it actually occurs can be considered a rehearsal.
+
+* [[https://wordsinasentence.com/reincarnation-in-a-sentence/][Reincarnation]]
+
+  =the act of being reborn in a new form or body=
+
+  - If you accept the idea of reincarnation, you believe a person’s spirit will leave its deceased form and step into a living vessel.
+  - The pharaohs were buried with their treasures so they would have riches when they were resurrected through reincarnation.
+  - Because I believe death is permanent, I do not see how one can be reborn through reincarnation.
+  - One example of reincarnation is when shredded paper is recycled into paper towels.
+
+* [[https://wordsinasentence.com/rejoice-in-a-sentence/][Rejoice]]
+
+  =display or show feelings of great joy=
+
+  - The children will rejoice after they open their holiday gifts.
+  - As long-suffering parents, we’ll rejoice when our children move out of our house.
+  - The hometown fans are sure to rejoice when their team wins the basketball championship.
+  - During the celebration of the new year, intoxicated people usually rejoice and dance in the streets.
+
+
+* [[https://wordsinasentence.com/rejoinder-in-a-sentence/][Rejoinder]]
+
+  =a clever or sharp response=
+
+  - The boy was chastised when he responded to the teacher with a sarcastic rejoinder.
+  - When the rapper made a rude rejoinder to his critics, he faced harsh backlash from the public.
+  - The comic is known for his ability to make a hilarious rejoinder with a deadpan expression on his face.
+  - Although I wanted to respond to my supervisor’s comment with a biting rejoinder, I bit my tongue.
+
+* [[https://wordsinasentence.com/rejuvenate-in-a-sentence/][Rejuvenate]]
+
+  =to provide with energy and/or strength=
+
+  - The football players consume sports drinks to rejuvenate themselves during the game.
+  - When I am exhausted after work, I count on a hot shower to rejuvenate me.
+  - The government issued stimulus checks in an attempt to rejuvenate the depressed economy.
+  - Because Hannah needed a quiet space to rejuvenate after having a baby, she went to a spa for a week.
+
+* [[https://wordsinasentence.com/relapse-in-a-sentence/][Relapse]]
+
+  =to fall backwards, usually in relation to a person’s health=
+
+  - After the relapse, I had to return to my sickbed.
+  - Bill had been sober for ten years, but then he had a relapse and started drinking again.
+  - To avoid having a relapse, the patient should rest and take his medications.
+  - You should stay away from drug users if you don’t want to relapse into addiction.
+
+
+* [[https://wordsinasentence.com/relent-in-a-sentence/][Relent]]
+
+  =to unstiffen or give in=
+
+  - Because my father is very angry, he won’t relent on my harsh punishment.
+  - Hopefully the judge will relent and allow me to post bail.
+  - Despite the threat of a lawsuit, the racist man wouldn’t relent and allow minorities to rent his apartments.
+  - Do you think the guy will relent and let me in the bar if I show him my fake identification?
+
+* [[https://wordsinasentence.com/reliance-in-a-sentence/][Reliance]]
+
+  =dependence on help or support=
+
+  - When she resigned, the company dissolved because of its reliance on her leadership.
+  - She had to decline the invite because her young children were in complete reliance of her.
+  - Because he didn’t have a job, his reliance for money was on his parents.
+  - The cast members’ reliance on the lead characters put the show in jeopardy when they fell ill.
+
+* [[https://wordsinasentence.com/relic-in-a-sentence/][Relic]]
+
+  =an artifact; an old object that remains; that which is left after loss or decay=
+
+  - The piece of pottery was a relic of the past that evoked in me a feeling of nostalgia.
+  - David has a fear of ghosts, which is probably a relic of the silly beliefs of the ancients.
+  - In its preserved state, the relic is supposed to be the left ear from a bust of Julius Caesar.
+  - He spoke of customs that are a relic of past generations, still preserved by us, although their reasons are unknown.
+
+* [[https://wordsinasentence.com/remainder-in-a-sentence/][Remainder]]
+
+  =an amount that is extra=
+
+  - After dividing 3 into 25, the remainder to the math problem is one because 3 goes into 25 eight times with 1 left over.
+  - Once I finished working for ten hours at my job, I spent the remainder of the day resting in my recliner at my house.
+  - Two pieces were cut out of the fabric and the remainder of the fabric was used as scraps for my craft projects.
+  - After the deductions were taken out of my paycheck, the remainder of it became my net pay or take home pay.
+
+* [[https://wordsinasentence.com/remand-in-a-sentence/][Remand]]
+
+  =to send someone accused of committing a crime into custody or bail until their next hearing=
+
+  - The judge agreed to remand the convicted felon into custody until his sentencing hearing.
+  - Bond remand rates have increase significantly since the judge started reducing the amounts of off offender bonds.
+  - The alleged murderer wasn’t surprised when the judge agreed to remand him to jail with no possible bond.
+  - Because the court chose to remand the thief into custody without a bail hearing, his family was forced to let him sit in jail.
+
+
+* [[https://wordsinasentence.com/reminisce-in-a-sentence/][Reminisce]]
+
+  =to recall pleasant moments from one’s life=
+
+  - When I eat sugar cookies, I reminisce about the childhood hours I spent making the treats with my grandmother.
+  - My sisters and I often share a bottle of wine while we reminisce over family photo albums.
+  - As soon as the veterans get together, they reminisce about their service days.
+  - When I ran into an old friend at the store, she and I decided to meet for lunch so we could reminisce about our high school days.
+
+* [[https://wordsinasentence.com/remission-in-a-sentence/][Remission]]
+
+  =the condition of decreasing or lessening=
+
+  - My father’s cancer went into remission when the oncologist said that his large tumor had almost disappeared.
+  - After receiving three scholarships for school, the remission of my college tuition dropped from $10,000 to $2,000.
+  - Once the woman started taking her prescribed medication, her depression went into remission and she became much happier.
+  - Due to the remission of the man’s arthritis, he could now move his joints easily enough to run a marathon.
+
+* [[https://wordsinasentence.com/remit-in-a-sentence/][Remit]]
+
+  =to send or convey=
+
+  - If you do not remit the payment for your light bill within two days, your service will be disconnected.
+  - I have hired a carrier to remit the documents to my attorney.
+  - Before you remit money to an online seller, make sure you are dealing with a reputable salesperson and not a crook.
+  - My grandmother never fails to remit me a greeting card on my birthday.
+
+* [[https://wordsinasentence.com/remittance-in-a-sentence/][Remittance]]
+
+  =money used as payment for an expense=
+
+  - Please give the remittance for the sold cookie boxes to your troop leader.
+  - To pay your bill please forward the remittance to our corporate office.
+  - We will not ship your order until we process your remittance.
+  - Because I didn’t mail my remittance on time, a late payment fee was added onto my water bill.
+
+* [[https://wordsinasentence.com/remonstrate-in-a-sentence/][Remonstrate]]
+
+  =to argue with, complain to, or criticize someone about something=
+
+  - Whenever I refuse my young daughter anything, she likes to remonstrate by stomping her feet on the floor.
+  - Rather than yell and remonstrate with an individual, I will simply walk away from an argument.
+  - Before I could remonstrate on the poor working conditions, my boss fired me.
+  - Although Jack attempted to remonstrate with the police officer, he still received a speeding ticket.
+  - When the winners of the contest were announced, one of the performers who did not win tried to remonstrate with the judges.
+  - The football players have all signed a petition to remonstrate the firing of their beloved coach.
+  - Because my husband is extremely laid-back and understanding, he will never remonstrate with you even when you are at fault.
+
+
+
+
+* [[https://wordsinasentence.com/renascent-in-a-sentence/][Renascent]]
+
+  =becoming popular again=
+
+  - The renascent team was becoming more and more popular with every step they took towards the playoffs.
+  - Jazz music is renascent, rapidly becoming a favorite again with a younger generation.
+  - Although many thought it was on its way out, the renascent political party is quickly regaining momentum.
+  - Resurgent and renascent, the emperor seemed to rise from the ashes of defeat to take his rightful place on the throne.
+
+* [[https://wordsinasentence.com/rend-in-a-sentence/][Rend]]
+
+  =to rip apart with violence or force=
+
+  - The hungry dog is going to rend the steak into pieces.
+  - With the hurricane winds expected to rend the coast apart, people are starting to leave their beachfront homes.
+  - The missile will rend the plane into bits of metal.
+  - When my boyfriend broke up with me, I felt as though he was trying to rend my heart into tiny pieces.
+
+* [[https://wordsinasentence.com/render-in-a-sentence/][Render]]
+
+  =to provide=
+
+  - Because of the principal’s unexpected death, grief counselors will be available at the school to render support to staff and students.
+  - The rescue personnel will be here momentarily to render aid to the victims.
+  - During the telethon, the celebrity pleaded with his fans for money to render a new wing for the children’s hospital.
+  - My donation is going to the local soup kitchen because I know it will use the funds to render food to the homeless.
+
+* [[https://wordsinasentence.com/rendition-in-a-sentence/][Rendition]]
+
+  =a presentation or version of something=
+
+  - The singer praised the fan’s rendition of her song.
+  - Although Frank is a R&B singer, he won many accolades with his rendition of the country tune.
+  - The artist’s rendition of the song was extremely different from the original version.
+  - There is no way the cinematic rendition of the novel can be as good as the printed work.
+
+* [[https://wordsinasentence.com/renege-in-a-sentence/][Renege]]
+
+  =to not fulfill a promise=
+
+  - Although my father made a promise to extend my curfew, he later decided to renege upon his word and ordered me home by eleven.
+  - The property buyers will be sued if they renege on the terms of the contract.
+  - If Harriet is going to renege on her responsibility, she should let us know now so we can find another sitter before it gets too late.
+  - The kind manager did everything he could to ensure he would not renege on the promises he made to his employees.
+  - Even though John had plenty of money, he chose to renege on his car loan so the lender would reclaim the vehicle.
+  - Many people lost their homes when the local bank decided to renege on its late payment extension program.
+  - If the witness chooses to renege on her deal to testify against the defendant, she will be put in jail for her crimes.
+
+
+* [[https://wordsinasentence.com/renunciation-in-a-sentence/][Renunciation]]
+
+  =a formal rejection of a position, duty, or claim=
+
+  - The renunciation of the throne left the country without a leader.
+  - In order to join the cult, members must take part in a renunciation of the outside world.
+  - Joining the priesthood calls for a renunciation of worldly pleasures.
+  - To prove the renunciation of his family loyalty, the terrorist must kill his mother.
+
+* [[https://wordsinasentence.com/repartee-in-a-sentence/][Repartee]]
+
+  =an interchange of clever replies=
+
+  - The repartee between the two actors made the movie really funny.
+  - If you do not enjoy the repartee between my husband and myself, then you should stop listening to our private conversation!
+  - Everyone was concerned the sharp repartee between the two competitors would lead to a physical altercation.
+  - While we watched from the sidelines, the two coaches engaged in a repartee about who had the better team.
+  - It is a rare occasion when the stuffy politician engages in repartee with the media.
+  - Because Maria's first language was Spanish, she did not understand the repartee between her two English-speaking friends.
+  - Since Frank had been in prison for over fifty years, he knew all the guards well and often engaged in repartee with them.
+
+* [[https://wordsinasentence.com/repent-in-a-sentence/][Repent]]
+
+  =to feel sorrow or regret for what one has done=
+
+  - I insisted that I had no need to repent because I never did anything wrong.
+  - Jordan felt the need to repent for sins committed when he was a child.
+  - The criminal decided to repent and turn over a new leaf.
+  - The prophet urged the people to repent from their evil ways.
+
+* [[https://wordsinasentence.com/repercussion-in-a-sentence/][Repercussion]]
+
+  =the consequence of a previous action=
+
+  - The people in my neighborhood will not report the crime lord’s activities because they are afraid of a possible repercussion.
+  - If you want to be able to shoot people without the fear of legal repercussion, you should consider becoming either a police officer or a military sniper.
+  - Danielle did not stop shoplifting until she was faced with the repercussion of jail time.
+  - When Rick was called upon to prosecute the mob boss, he resigned from his office so he would not have to deal with repercussion from the mafia.
+  - The rookie football player knew if he complained about the hazing he would face serious repercussion from his teammates.
+  - After the prisoner attacked the guard, he had to deal with the repercussion of having his prison sentence extended.
+  - As soon as I saw my report card, I knew there would be a repercussion for my failing grades.
+
+* [[https://wordsinasentence.com/repine-in-a-sentence/][Repine]]
+
+  =to yearn for something or someone=
+
+  - While in prison the man did nothing but repine for his freedom.
+  - The soldiers repine for their families when they are stationed overseas.
+  - The little girl began to cry when she started to repine for her family during her first sleepover.
+  - Until John can get to the liquor store, he is going to repine for his favorite whiskey.
+
+* [[https://wordsinasentence.com/repose-in-a-sentence/][Repose]]
+
+  =a state of rest, sleep, or tranquility=
+
+  - When you begin to meditate, you need to sit in repose and try to empty your mind of all thoughts.
+  - Not wishing to disturb whatever might be lying in repose, the troop tiptoed past the cave.
+  - Sometimes, when I don’t want anyone to bother me, I go to the public library, my favorite place of repose.
+  - Everyone’s life should have a balance: work and play, activity and repose.
+  - The deer lay in repose in the shadows of the forest, blessedly unaware that hunting season had begun.
+  - To paraphrase an old saying, there’s no repose for the wicked; some of the truly wicked would probably disagree.
+  - After the chaos of tax season every year, Don looks forward to several weeks of quiet repose.
+
+* [[https://wordsinasentence.com/reprehend-in-a-sentence/][Reprehend]]
+
+  =to express dissatisfaction=
+
+  - Because the book’s plot is boring, critics are sure to reprehend the story.
+  - Jan knew her husband was sick so she didn’t reprehend him for forgetting her birthday.
+  - Since I didn’t finish the project, I’m sure my boss is going to reprehend me over my lack of effort.
+  - Who are we to reprehend others about their mistakes when we’re not perfect ourselves?
+
+
+* [[https://wordsinasentence.com/reprieve-in-a-sentence/][Reprieve]]
+
+  =to cancel or postpone a bad situation=
+
+  - Because of a legal review, the criminal was granted a reprieve on his sentence.
+  - To kids, snow days are wonderful events because they allow them a reprieve from school.
+  - Some of the biggest lenders are compromising with homeowners by giving them a three-month reprieve to catch up on their payments.
+  - When he realized he would not get a last minute reprieve, the death row inmate said his final goodbyes.
+  - The children were happy when their mother gave them a reprieve and allowed them to skip their chores for a day.
+  - My mountain vacation is my reprieve from the noise of the city.
+  - Without a long-term plan, the cash bail-out will be nothing but a temporary reprieve for the homebuilders.
+
+* [[https://wordsinasentence.com/reprobate-in-a-sentence/][Reprobate]]
+
+  =a wicked or evil person=
+
+  - While Janice pretended to be a good girl, she was really a reprobate who would do anything to get what she wanted.
+  - The serial killer was a reprobate who did not care about anyone.
+  - Although the old man pretended to be a reprobate in public, in private he did a lot of good deeds for the homeless.
+  - You need to go to church and stop being a reprobate!
+  - In my opinion, the pickpocket who stole my wallet is a reprobate.
+  - Because my brother is a reprobate, he will not stop bullying little girls.
+  - My sister’s husband is a reprobate who spends all his money on alcohol and drugs.
+
+* [[https://wordsinasentence.com/reproof-in-a-sentence/][Reproof]]
+
+  =a criticism or rebuke=
+
+  - Angry letters of reproof were sent to the editor criticizing his latest opinion piece.
+  - Without harsh reproof, the mother calmly explained the reasons why the boy shouldn’t throw the ball in the house.
+  - The pastor tried to explain the consequences of sin without reproof or stiff judgement.
+  - The frustrated teen gave her sister an unforgiving frown as reproof for borrowing her clothing again without asking.
+
+
+
+* [[https://wordsinasentence.com/requite-in-a-sentence/][Requite]]
+
+  =to give payment for something=
+
+  - Ted chose to requite Carol for the lovely dinner by presenting her with a bouquet of flowers.
+  - Because Alan loaned me twenty dollars when I was broke, I chose to requite the favor when he asked me for a loan.
+  - The civil court jury will decide how much money the drug manufacturer must requite the widow for the death of her husband.
+  - After the war, the losing countries had to requite the victorious nations billions of dollars for damages.
+
+* [[https://wordsinasentence.com/rescind-in-a-sentence/][Rescind]]
+
+  =to take back; cancel=
+
+  - I cannot believe Janice’s boyfriend tried to rescind his marriage proposal!
+  - Because of illegal alcohol sales, the government had to rescind the prohibition act.
+  - Once their union demands were met, the workers agreed to rescind the strike.
+  - When new evidence in favor of the defendant came to light, the judge had no choice but to rescind the trial verdict.
+  - Despite the criticism on his healthcare plan, the president did not rescind the policy.
+  - When the college became aware Henry had been using steroids, they chose to rescind his football scholarship.
+  - After I discovered the charity was not keeping accurate financial records, I decided to rescind my sponsorship donations.
+
+* [[https://wordsinasentence.com/resentment-in-a-sentence/][Resentment]]
+
+  =anger or bitterness related to something that happened in the past=
+
+  - After several years of dealing with her husband’s cheating, bitterness and resentment had built up in the wife’s heart.
+  - The daughter decided to let go of her resentment, forgiving her father for the hurt he had caused.
+  - Resentment of the past caused the man to be full of anger and stopped him from living a happy life.
+  - Deep resentment existed between the two rival players who had hated each other for many years.
+
+
+* [[https://wordsinasentence.com/residue-in-a-sentence/][Residue]]
+
+  =the tiny portion that is left behind when something is taken out or when a course of action is completed=
+
+  - After the bomb exploded, a residue of black ash covered the crime scene.
+  - It took a lot of scrubbing for me to get the paint residue off my fingers.
+  - As soon as I saw the oil residue in my driveway, I knew I needed to take my car to the shop.
+  - Mopping might be the only way to get the sugar residue off the floor.
+
+* [[https://wordsinasentence.com/resigned-in-a-sentence/][Resigned]]
+
+  =to leave one’s position without being asked=
+
+  - After a scandal emerged about his extramarital affair, the pastor resigned from his church.
+  - The singer resigned from the band after the group refused to perform any of his songs.
+  - Because the politician had been quite effective in office, he surprised everyone when he resigned from his position.
+  - Maurice resigned his club membership because of the organization’s racist practices.
+
+
+* [[https://wordsinasentence.com/resound-in-a-sentence/][Resound]]
+
+  =to be loud enough to echo=
+
+  - The speaker’s loud words resound at every large scale speaking event he takes on.
+  - Afraid her voice wasn’t loud enough to resound across the stage, the quiet presenter used a microphone.
+  - The auctioneer’s projecting voice gave him to resound over the chatty crowd.
+  - As her acting coach pushed her to resound her voice during the monologue, the actresses’ voice began to dance through the rafters.
+
+
+* [[https://wordsinasentence.com/resplendent-in-a-sentence/][Resplendent]]
+
+  =shiny and colourful, and thus pleasing to the eye=
+
+  - After the medal ceremony, Marshall’s comrades gathered around to congratulate him, looking resplendent in their dress blues.
+  - The peacock is a very showy bird with resplendent plumage in multiple shades of blues and greens.
+  - Although the mansion has deteriorated over the centuries, it still looks resplendent from a distance.
+  - The lush garden lent a resplendent quality to the otherwise plain cottage.
+  - Philippa, resplendent in a crimson gown sprinkled with crystal beads, looked truly surprised as she walked on stage to accept her award.
+  - Despite hummingbirds’ resplendent feathers and delightful appearance, they can really be mean little birds.
+  - The sun coming out after the first snowfall of the season made the little village resplendent and almost magical.
+
+
+
+* [[https://wordsinasentence.com/restorative-in-a-sentence/][Restorative]]
+
+  =capable of making an individual feel well=
+
+  - The doctor will tell you that most medications don’t have the restorative power of a good night’s sleep.
+  - If you want to fight off the flu, you should drink this restorative mix that contains a lot of Vitamin C.
+  - My eighty-five-year-old grandmother credits restorative yoga as the key to her good health.
+  - At work, I sometimes take a restorative nap to reenergize.
+
+
+* [[https://wordsinasentence.com/restrain-in-a-sentence/][Restrain]]
+
+  =to control or restrict=
+
+  - I had to restrain myself from punching Gary in the face.
+  - If we can restrain runaway spending our economy will not suffer.
+  - Four burly cops attempted to restrain the mighty animal.
+  - Jeff is a whistleblower who can’t restrain himself from exposing his corrupt company.
+
+* [[https://wordsinasentence.com/resurgence-in-a-sentence/][Resurgence]]
+
+  =renewal of a comeback of an event=
+
+  - After thousands of people died from the 9/11 attacks, there was a resurgence of patriotism where people began flying the U.S. flag outside their homes.
+  - A health-related epidemic resulted in a panic of many people when a resurgence of tuberculosis recently infected ten people.
+  - Within the past decade, a resurgence of terrorism seems to plague the world due to ISIS.
+  - The 1960s and 1970s pushed for environmental changes to be made, but there was a resurgence during the 2000s when more environmental problems occurred.
+
+
+* [[https://wordsinasentence.com/retard-in-a-sentence/][Retard]]
+
+  =to delay or hold back the development of something=
+
+  - The poor fiscal decisions of one country can do much to retard the growth of other nations as well.
+  - Lack of proper nutrition was enough to retard the infant’s growth temporarily.
+  - Anti-aging supplements and creams on the QVC network promise to retard mother nature and hold wrinkles at bay.
+  - A mediocre coach can retard the growth of a player’s basketball skills.
+
+* [[https://wordsinasentence.com/retch-in-a-sentence/][Retch]]
+
+  =make the sound and movement of vomiting=
+
+  - The pregnant woman was struck by a bout of morning sickness and began to retch.
+  - The smell of tuna fish always made her nauseous and feel like she was going to retch.
+  - She thought the milk tasted a little sour, but it was only when she started to retch that she realized she had food poisoning.
+  - Janelle knew she drank too much when the room began to spin and she started to retch all over the floor.
+
+* [[https://wordsinasentence.com/retention-in-a-sentence/][Retention]]
+
+  =the power to hold on to or keep something=
+
+  - Because of water retention my stomach appears swollen.
+  - Studying is one of the best ways to increase your retention of information.
+  - After having a stroke, my grandfather had problems with his memory retention and found it difficult to recall dates and times.
+  - Once the retention period of three months has passed, you can claim the found money at the police station.
+
+* Retort
+
+  - Because Amy was brought up to always be respectful, she restrained the urge to make a sarcastic retort to the young man’s question about her zodiac sign.
+  - When the conversation turned to critical comments about her outfit, Brenda had to stifle a retort about Emma’s crooked teeth.
+  - Why is it that you can never think of a good retort to an insult until long after the opportunity has passed?
+  - Knowing that my job might depend on my reaction, I stopped myself from giving my boss the retort that I wanted to make to his comment.
+  - While Winston wanted to retort and let the bully know that he wasn’t afraid of him, he knew deep inside that he would probably be beaten to a pulp if he did.
+  - Realizing that Rudy was trying to start an argument, Maria scowled at him but decided not to retort.
+  - If I hadn’t been so foolish as to retort to the judge, I wouldn’t have to pay this $500 fine.
+
+
+
+* [[https://wordsinasentence.com/retreat-in-a-sentence/][Retreat]]
+
+  =a private event or place where a person goes to relax=
+
+  - The presidential retreat at Camp David was used as a place to unwind and reflect.
+  - Gathering at the spiritual retreat, the cult members meditated and made sacrifices to their leader.
+  - The relaxing women’s retreat was held in a wooded area with no cellular service or other distractions.
+  - Packing up his poles and bait, the fisherman prepared to retire to his secluded lakefront retreat.
+
+* [[https://wordsinasentence.com/retrench-in-a-sentence/][Retrench]]
+
+  =to reduce or cut down on expenses, staff=
+
+  - In this turbulent economy, many businesses are having to retrench and cut down on spending.
+  - The pro football team could possibly retrench and trim down their huge payroll budget.
+  - After several months of economic loss, board members felt it was best to retrench on all fronts.
+  - With hundreds of employees handing in the balance, the company had to find a way to retrench while affecting as many staff members as possible.
+
+* [[https://wordsinasentence.com/revenge-in-a-sentence/][Revenge]]
+
+  =the act of hurting someone because they have hurt you=
+
+  - After my cousin left me off her wedding invitation list, I decided to enact revenge and keep her off my guest list.
+  - The plotline followed a woman seeking revenge for her family’s deaths.
+  - Wanting revenge, the man blocked his neighbor’s driveway with fresh snow.
+  - Even though I wanted revenge, I decided to forgive my friend for her wrongdoing.
+
+
+
+* [[https://wordsinasentence.com/revolt-in-a-sentence/][Revolt]]
+
+  =to rebel, particularly against authority=
+
+  - A revolt will force the government to shut down.
+  - With the revolt in full swing, the army was called in.
+  - The revolt against the Caesar’s rule led to bloodshed.
+  - A revolt will force the government to shut down.
+
+* [[https://wordsinasentence.com/revulsion-in-a-sentence/][Revulsion]]
+
+  =an abrupt sense of disgust=
+
+  - When I saw my wife’s killer enter the courtroom, I felt revulsion and anger.
+  - The newspaper’s graphic story on child molesters caused many readers to experience revulsion.
+  - As the Christian book reviewer read the erotic novel, she underwent an intense feeling of revulsion.
+  - Teresa’s revulsion to city life triggered her decision to move to the country.
+  -  Even though the little boy felt revulsion when he smelled the alcohol, he still drank the beverage to impress the big kids.
+  - The disabled soldier gave an interview that exposed his revulsion to the war.
+  - Although the attorney dislikes his client and feels revulsion towards her, he must still represent her in court.
+
+
+
+* [[https://wordsinasentence.com/ribald-in-a-sentence/][Ribald]]
+
+  =offensive or vulgar humor=
+
+  - The comic’s sexual jokes were too ribald for my religious mother.
+  - Because twelve-year-old Jenny wants to see a film with ribald humor, she must have a parent or guardian accompany her.
+  - The teacher sent Jim to the principal’s office after he told a ribald joke in class.
+  - Although I enjoy a good joke as much as the next person, ribald jokes about rape hold no humor for me.
+  - The Christian radio station refused to play the ribald song.
+  - Ever since the candidate was caught on camera making ribald remarks, he has found it difficult to raise campaign funds.
+  - I left the restaurant as soon as my blind date started to make ribald jokes of a sexual nature.
+
+* [[https://wordsinasentence.com/rife-in-a-sentence/][Rife]]
+
+  =in a great quantity=
+
+  - During the last economic crisis, the unemployment office was so rife with people that additional chairs were brought into the building.
+  - The beach is rife with young people during the summer months.
+  - Since the tap water in the city is rife with bacteria, you should only drink bottled water during your visit.
+  - Countries with limited clean water resources are rife with cases of stomach viruses.
+  - According to my teacher, my essay was rife with mistakes and needed to be rewritten.
+  - The reality show is rife with treachery and betrayal as contestants fight to be the last person on the island.
+  - Although the inventor is best known for his medical device, he has a portfolio that is rife with other inventions.
+
+
+* [[https://wordsinasentence.com/rig/][Rig]]
+
+  =to set up or modify something, usually a piece of equipment=
+
+  - In an attempt to rig a makeshift pair of skates, the young child strapped some buggy wheels to his shoes, though the results were less than stellar.
+  - The radio was broken, but a talented technician managed to rig it to work with spare parts he found in the workshop.
+  - It was difficult to rig the car battery to work out in the middle of nowhere, but thankfully someone drove by after an hour or so and he managed to jumpstart our vehicle.
+  - I decided to rig my paintball gun with a scope, but my brother said paintballs were so inaccurate that such a modification was pointless.
+
+* [[https://wordsinasentence.com/rigor-in-a-sentence/][Rigor]]
+
+  =inflexibility; severity=
+
+  - The stern professor does not accept excuses and is known for exhibiting rigor in his classroom.
+  - To ensure his results would not be questioned, the scientist conducted his experiment with methodical rigor.
+  - Students who do not apply themselves will not be able to handle the rigor of medical school.
+  - During boot camp, we had several participants leave the group because of the program's rigor.
+
+* [[https://wordsinasentence.com/rile-in-a-sentence/][Rile]]
+
+  =to anger or irritate someone=
+
+  - Since she’s already irritable, it doesn’t take much to rile up the moody teen.
+  - Shouting curse words at the other team’s players, the fan tried to rile up the shooter.
+  - Spitting in the protestor’s face was enough to rile up the entire group.
+  - The bully likes to rile up others on the playground, taking their toys and calling names to make them mad.
+
+
+* [[https://wordsinasentence.com/riotous-in-a-sentence/][Riotous]]
+
+  =wildly rowdy; unmanageable=
+
+  - Trying to calm the riotous crowd, the police showed up at the venue and began arresting concert goers.
+  - Anger filled the riotous protesters and they began to destroy storefronts.
+  - At the wedding, the riotous party guests were unmanageable after having too much to drink.
+  - The Mardi Gras celebration became riotous after partiers on the street belligerently destroyed several floats.
+
+* [[https://wordsinasentence.com/ripen/][Ripen]]
+
+  =to become or make something ripe=
+
+  - Even though fruit will grow on a tree long before it is ready to eat, you must wait for it to ripen before it can be picked and consumed.
+  - If you want to somewhat accelerate the growth process of fruit, you can have it ripen a little faster by storing them at room temperature for a few days.
+  - Some pinecones do not fully ripen until their second year of growth, so they stay closed on their trees for a long time.
+  - Some fruits will ripen faster in certain climates, and this is especially true of citrus, which grows faster in the southern hemisphere.
+
+* [[https://wordsinasentence.com/ripple-in-a-sentence/][Ripple]]
+
+  =a small wave=
+
+  - We watched the ripple effect as we dropped stones from the bridge above to the water below.
+  - One ripple chased another, as the circles continued expanding wider and wider until they melted back into the still waters of the lake.
+  - The ducks were frightened by the sudden ripple in the calm waters, causing them to flap their wings wildly.
+  - Harry is a politician who is very aware of what he says because one wrong word can have an unexpected ripple effect.
+
+
+* [[https://wordsinasentence.com/rollicking-in-a-sentence/][Rollicking]]
+
+  =joyous and carefree=
+
+  - Debra’s book is a rollicking good read that will take your mind on a joyride like none other.
+  - The professor’s carefree and rollicking nature stands at odds with the disciplinary nature of the other teachers in our school.
+  - We spent one rollicking week in Hawaii, running from one gorgeous beach to the next.
+  - The music was so merry and rollicking that within no time everyone was on their feet, swaying to the beat.
+
+
+
+* [[https://wordsinasentence.com/rote-in-a-sentence/][Rote]]
+
+  =without thought; by habit or routine=
+
+  - By singing the alphabet song throughout the day, my daughter is learning her letters by rote.
+  - William, like many other children, picked up his multiplication facts through rote memorization.
+  - As the teacher listened to the student’s response, she realized he was just reciting her words he had memorized by rote.
+  - Having students remember words by sight is one type of rote learning.
+
+
+
+
+* [[https://wordsinasentence.com/rout-in-a-sentence/][Rout]]
+
+  =a defeat of an individual, army, group, or team=
+
+  - After the dictator’s rout, the people finally had control of their country.
+  - The rout of our rivals in the cheerleading competition made our team the favorite to win.
+  - With the rout of the rebels, the village was left in peace.
+  - The rout of last year’s champions shocked everyone who expected them to repeat their win.
+
+
+* [[https://wordsinasentence.com/ruckus-in-a-sentence/][Ruckus]]
+
+  =a commotion or disturbance=
+
+  - Due to the ruckus in the motel room next door, it woke my whole family up.
+  - After the referee at the basketball game made a bad call, a ruckus erupted in the stands by the fans of the home team.
+  - In the peacefully calm room, placing a heavy weight on the shelf caused a ruckus when it broke and everything fell on the floor.
+  - The effects of the ruckus from the angry citizens left many people arrested for disturbing the peace.
+
+* [[https://wordsinasentence.com/rudder-in-a-sentence/][Rudder]]
+
+  =a part of a ship or vehicle found underneath that is used to turn the vehicle from side to side=
+
+  - When the Titanic was raised into the air, the people in the lifeboats could see the rudder that was underneath the ship.
+  - After the iceberg was spotted, the officers on duty tried to maneuver the ship around the iceberg using the rudder.
+  - Both engines failed in the airplane causing the airplane pilot to use the rudder to try to steer the vessel safely to the ground.
+  - Since the large ship was approaching the shore, the captain used the rudder to turn the ship away from the shore.
+
+* [[https://wordsinasentence.com/ruddy-in-a-sentence/][Ruddy]]
+
+  =having a wholesome red skin color that generally comes from being outdoors a lot=
+
+  - The pasty teenager got a ruddy tan after spending most of her summer on the soccer field.
+  - When my brother gets frustrated, his ruddy complexion gets even redder.
+  - My daughter’s normally pale skin becomes ruddy with a rosy color when she works in the garden.
+  - In the summer, everyone in my family has ruddy skin because we spend most of our days on the beach.
+
+* [[https://wordsinasentence.com/rue-in-a-sentence/][Rue]]
+
+  =to experience regret or sorrow=
+
+  - My husband will rue the day he ever cheated on me!
+  - Since I have lost a good portion of my savings on a bad investment, I rue the day I ever met my broker.
+  - John will rue the fact he chose not to repay the vicious loan shark.
+  - As the man pointed his gun at the front door, he knew the home invaders would rue the day they tried to rob him.
+
+* [[https://wordsinasentence.com/ruffle-in-a-sentence/][Ruffle]]
+
+  =to annoy or upset someone or something=
+
+  - “I didn’t mean to ruffle your feathers when I told you that your dress looked ugly,” the teenager told her classmate.
+  - When the girl interrupted her friend’s conversation, it seemed to ruffle all of her friends hanging around.
+  - Little brothers often will ruffle the nerves of their older siblings who may retaliate against them.
+  - Mischievous teenagers will often ruffle their teacher’s attitudes by talking back to them.
+
+
+* [[https://wordsinasentence.com/rumble-in-a-sentence/][Rumble]]
+
+  =to roar or thunder=
+
+  - A rumble in the sky alerted the washerwoman that a storm was brewing.
+  - The rumble of passing subway trains shook the houses nearby as it roared.
+  - Giving out a rumble, the piano seemed to thunder as the gospel musician played the heavy hymn.
+  - The quiet rumble of the thief’s voice woke the master of the house.
+
+* [[https://wordsinasentence.com/ruminate-in-a-sentence/][Ruminate]]
+
+  =to think deeply about something=
+
+  - Although I knew I cared deeply for Henry, I still had to ruminate on his marriage proposal for a while.
+  - His sudden death made us all ruminate on the true value of time.
+  - Before I make any major decisions, I need to ruminate on all the facts.
+  - On New Year’s Eve, many people choose to ruminate about their lives.
+  - While sitting on the plane, Betty had time to ruminate on the state of her marriage.
+  - Because most young people are only interested in having fun, they usually do not ruminate on their decisions.
+  - The judges will ruminate over the evidence before deciding upon a verdict.
+
+
+* [[https://wordsinasentence.com/rumpus-in-a-sentence/][Rumpus]]
+
+  =a commotion or noisy disturbance=
+
+  - When the teacher began the class with a pop quiz over the difficult previous lesson, a rumpus among the students erupted throughout the room.
+  - The surprise witch jumping out at the screen created such a rumpus of screams and cries from the audience that everyone was on edge for the remainder of the movie.
+  - A rumpus of clashing metal pierced the silent night when the train derailed resulting in the cars crashing into each other.
+  - Hair pulling and slaps between the twin sisters resulted in a rumpus of crying at the top of their lungs for their mother.
+
+
+* [[https://wordsinasentence.com/rupture-in-a-sentence/][Rupture]]
+
+  =a crack that interrupts peaceable relations=
+
+  - The missile launch is sure to rupture the relationship between the two countries.
+  - After a big misunderstanding, my best friend and I had a rupture in our friendship.
+  - Mary and Pete hope counseling will help them repair the rupture in their marital union.
+  - If the business partners can’t seal the rupture in their relationship, their store will probably close.
+
+
+* [[https://wordsinasentence.com/ruse-in-a-sentence/][Ruse]]
+
+  =a plan or plot to mislead someone=
+
+  - The security guard knew the girls were going to try and use a distractive ruse in order to shoplift.
+  - According to the president’s enemies, his interest in public education is a ruse to distract attention from the economy.
+  - One example of a military ruse is the Trojan horse.
+  - If my fake identification ruse backfires, I will not be allowed to enter the bar to see my favorite band.
+
+* [[https://wordsinasentence.com/rustle-in-a-sentence/][Rustle]]
+
+  =to move (something) with a soft crackling sound=
+
+  - It was a lovely fall day watching the leaves change color and rustle in the wind.
+  - The rustle in the bushes turned out to be a family of skunks.
+  - My aunt’s wedding dress was so large, it made a gentle rustle as she walked down the aisle.
+  - The rustle of my book pages was the background noise as I slumbered in the hammock.
+
+* [[https://wordsinasentence.com/ruthless-in-a-sentence/][Ruthless]]
+
+  =without concern for others; cold-hearted=
+
+  - The ruthless gang leader killed the new recruit for showing up late for a meeting.
+  - When the ruthless company president refused to stop selling unsafe drugs, the government threatened to imprison him.
+  - The dictator is ruthless and will kill anyone who challenges his authority.
+  - In prison, the ruthless guards will abuse you if they don’t receive protection money from your family.
