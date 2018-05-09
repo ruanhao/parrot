@@ -1108,7 +1108,9 @@
 
 * [[https://wordsinasentence.com/preempt-in-a-sentence/][Preempt]]
 
-p  =to take steps to prevent something from happening=
+  =to take steps to prevent something from happening=
+
+  =Acquire or appropriate (something) in advance.=
 
   - The company decided to meet with its former employee as a way to preempt a lawsuit.
   - One way to preempt misbehavior in children is to give them things to keep them busy.
