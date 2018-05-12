@@ -9,4 +9,5 @@
 ## Ruby
 [P](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/P.html)
 [Q](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/Q.html)
-[Q](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/R.html)
+[R](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/R.html)
+[S](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/S.html)

@@ -1,0 +1,2612 @@
+#+TITLE:     S
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/sagacious-in-a-sentence/][Sagacious]]
+
+  =intelligent; showing good judgement=
+
+  - Wise and full of insight, the sagacious leader would live on to better the world.
+  - Many agree that replacing typewriters with computers is a sagacious idea because computers make typing, editing, and proofreading easier.
+  - I saw this sagacious dog on television that could add and subtract numbers!
+  - It is not very sagacious of you to play with fire.
+  - When Jane needs advice, she goes to her sagacious friend.
+  - Instead of getting into a petty argument, do the sagacious thing next time and walk away!
+  - Because you are sagacious in Algebra, I will come to you with my math questions.
+
+
+* [[https://wordsinasentence.com/salient-in-a-sentence/][Salient]]
+
+  =most important or prominent=
+
+  - When I look at the house for sale, salient defects such as the broken windows stare back at me.
+  - The salient feature on Johnny’s face is his huge nose.
+  - As Janet debated which car to buy, she realized price was the most salient factor in her decision.
+  - What do you believe is the author’s salient message he wants to convey in his latest novel?
+  - Even though Cheryl had been shaken up by the attack, she was still able to give the police a few salient facts about her attacker.
+  - The salient feature of the getaway car was its bright orange color.
+  - In my religion, the salient belief that stands as the basis of our faith is the death of Christ for our sins.
+
+
+* [[https://wordsinasentence.com/salubrious-in-a-sentence/][Salubrious]]
+
+  =something that is good for you or is beneficial to mind or body=
+
+  - Vegetables are salubrious foods which provide essential nutrients.
+  - While nuts are salubrious on a nutritional level, eating too many of them can cause you to gain unwanted weight.
+  - Rumor has it that the spring waters in our community are salubrious and filled with healing oils.
+  -  Because of his religion, Hiram was a very salubrious eater who ate only vegetables and fruits.
+  - In cities where alcohol sales are prohibited, people tend to live longer and have more salubrious lives.
+  - Because Elizabeth wanted to stay salubrious, she never missed her yearly physical with her doctor.
+  - Although I have a small headache, I feel pretty salubrious for the most part.
+
+* [[https://wordsinasentence.com/salutary-in-a-sentence/][Salutary]]
+
+  =producing good benefits=
+
+  - The board hopes the merger of the two companies will have salutary effects that will leave all the shareholders happy.
+  - At the salutary event, the charity easily reached its fundraising goal of one million dollars.
+  - In addition to effectively teaching the curriculum, our professor often educates us with salutary lessons that personally enrich our lives.
+  -  To Chad, his year of European traveling was a salutary experience because it provided him with new friends and new knowledge.
+  - The young mother stopped spanking her son when she realized the punishment did not have a salutary influence on her offspring.
+  - Listening to the speaker’s inspirational story was a salutary experience for every person in the room who had ever doubted his or her ability to become successful.
+  - If this drug does not have any salutary effects, the drug administration will not approve it for use.
+
+
+* [[https://wordsinasentence.com/sanguine-in-a-sentence/][Sanguine]]
+
+  =optimistic, hopeful, or confident about the future=
+
+  - Although the economy is looking better, we should still not be too sanguine about the future.
+  - You can tell by the big smile on her fact that she has a sanguine temperament!
+  - Despite the fact the soldiers have not been home in eight months, they are still sanguine about seeing their families soon.
+  - The bank manager did not feel sanguine about recovering the loan.
+  - It amazes me how having cancer does not prevent him from being sanguine!
+  - Since the doctor had told Sharon she could leave the hospital in two days, she was feeling quite sanguine about her recovery.
+  - Matthew was sanguine about his wife taking him back after their short separation.
+
+* [[https://wordsinasentence.com/satiate-in-a-sentence/][Satiate]]
+
+  =to satisfy fully=
+
+  - Hopefully this feast I am preparing will satiate your hunger.
+  - When I was pregnant, all it took to satiate my cravings was a chocolate ice cream cone.
+  - A trip to the library will satiate Jeremy’s thirst for knowledge.
+  - Since I get hungry in between lunch and dinner, I keep snacks on hand to satiate my appetite.
+  - After the race, Hank tried to satiate his thirst by drinking two gallons of water.
+  - A bottle of milk will normally satiate my baby at night.
+  - By baking three cakes for the holiday weekend, I hope to satiate the taste buds of everyone in my family.
+
+* [[https://wordsinasentence.com/satirize-in-a-sentence/][Satirize]]
+
+  =cleverly make fun of something=
+
+  - The poet looked for a way to satirize the boring poem and give it a more humorous appeal.
+  - Using humor and irony, the playwright was able to satirize the drama.
+  - His ability to satirize the depressing story caused the readers to laugh instead of cry.
+  - The playwright set out to satirize his newest work, using exaggerations and funny one-liners in every act.
+
+* [[https://wordsinasentence.com/saturnine-in-a-sentence/][Saturnine]]
+
+  =sad and solemn=
+
+  - The dog’s eyes became saturnine whenever he was left at home alone.
+  - As the widow accepted offers of sympathy at her husband’s funeral, she struggled to keep tears from her saturnine eyes.
+  - Matt had a saturnine look on his face as he watched his ex-girlfriend walk out the door for the last time.
+  - Since Natasha has been ill, she has been in a saturnine mood.
+
+
+* [[https://wordsinasentence.com/scant-in-a-sentence/][Scant]]
+
+  =a tiny amount=
+
+  - We have to ration the water because we only have a scant amount.
+  - Since food provisions were in scant supply, we could only eat once a day.
+  - The student didn’t understand the math concept because she paid scant attention during the lecture.
+  - Because my salary is scant, I only have a few dollars left after I pay my bills.
+
+* [[https://wordsinasentence.com/scavenger-in-a-sentence/][Scavenger]]
+
+  =someone who scavenges, especially one who searches through rubbish for food or useful things=
+
+  - The vulture is considered a scavenger because it searches for dead prey.
+  - I consider myself a bargain scavenger because I am constantly on the lookout for deals.
+  - The scavenger dumpster dives, looking for trash to turn into treasure.
+  - My dog is a scavenger and is always ready to eat any food that falls to the floor.
+
+
+* [[https://wordsinasentence.com/schism-in-a-sentence/][Schism]]
+
+  =a split or separation within a group or organization=
+
+  - The schism between my two best friends put me in the awkward position of having to choose one over the other.
+  - In the United States, the schism caused by slavery eventually led to the Civil War.
+  - Because of the schism that has divided the football players, our high school team will not play a game this week.
+  - As a result of the schism within the church, many clergy members are confused between which of the two sects to join.
+  - The schism that divided the nation into two separate countries was caused by religious differences.
+  - A century ago, a severe schism occurred within the Lutheran church and split the religion into two different branches.
+  - Once my parents realized their schism was destroying our household, they decided to end their marriage and go their separate ways.
+
+* [[https://wordsinasentence.com/scour-in-a-sentence/][Scour]]
+
+  =to scrub hard=
+
+  - My mother made us scour the bathroom before our guests arrived.
+  - After I spilled ketchup on my white shirt, I took it to the bathroom to scour it with cold water.
+  - Our punishment was to scour the graffiti off of school property.
+  - Every time the dog tracked mud inside the house, my mother would scour the dirt.
+
+* [[https://wordsinasentence.com/scourge-in-a-sentence/][Scourge]]
+
+  =a persistent pest, illness, or source of trouble=
+
+  - For several years, the drug violence in the border city was such a scourge on the population that it was named the murder capital of the world.
+  - From AIDS, to cancer, to Alzheimer’s, medical research is always trying to find a cure for the latest scourge on human health.
+  - Although I love to see the butterflies fluttering around my flowers, the caterpillars that they come from are a scourge on my garden.
+  - Although the scourge of crime in the neighborhood continues to get worse, most of the residents are older people who can’t afford to move.
+  - From the way that Ali was ranting about how men were the scourge of the universe, I guessed that she must have broken up with her latest boyfriend.
+  - Montezuma’s Revenge is the quaint nickname for the intestinal scourge that many travelers suffer after they drink the water in some Latin countries.
+  - Cameron would always look back on this winter and remember the scourge of blizzards and ice storms that kept him a virtual prisoner in his own home.
+
+
+
+* [[https://wordsinasentence.com/scruples-in-a-sentence/][Scruples]]
+
+  =internal factors that prevent a person from behaving in a certain manner=
+
+  - Janet has no scruples about mistreating people who mistreat her.
+  - Although Alan would like to participate in the challenge, his religious scruples will not allow him to participate in a drinking event.
+  - Many individuals will ignore their scruples for the right price.
+  - Because Sylvester is a mercenary, he has no scruples about killing someone for money.
+  - Marshall’s religious scruples would not allow him to get a much-needed blood transfusion.
+  - Since the swindler had no scruples, he was not concerned about selling the old woman a worthless life insurance policy.
+  - My teenage daughter likes to joke and say her moral scruples prohibit her from doing chores.
+
+* [[https://wordsinasentence.com/scrupulous-in-a-sentence/][Scrupulous]]
+
+  =very careful about doing something correctly=
+
+  - Will is a scrupulous employee who always checks his work for accuracy.
+  - Because Shannon is a scrupulous editor, she never misses errors when she proofreads a document.
+  - Scrupulous landscapers are careful to only destroy weeds and not the beautiful vegetation.
+  - Although Margaret tries to be a scrupulous cleaner, she sometimes forgets to dust off the bookshelves.
+  - Josh is a scrupulous dancer who will practice a step repeatedly until he can make the motion effortlessly.
+  - As a surgeon, my husband has to be very scrupulous when he is performing life-saving operations.
+  - Most detectives are scrupulous individuals who do not let small details escape their notice.
+
+* [[https://wordsinasentence.com/sedate-in-a-sentence/][Sedate]]
+
+  =to soothe or calm=
+
+  - The shot should sedate the patient and allow him to sleep peacefully.
+  - When my baby is upset, I can usually sedate her by patting her back.
+  - The only way to sedate the hostile dog was by putting him to sleep with a tranquilizer.
+  - During an anxiety attack, you can sometimes sedate yourself by breathing slowly.
+
+
+* [[https://wordsinasentence.com/seductive-in-a-sentence/][Seductive]]
+
+  =tempting; alluring=
+
+  - Seductive plates full of scrumptious shrimp and mouthwatering steak made the guests mouth water.
+  - Seductive blobs of color drew the woman’s eyes to the most fascinating painting in the gallery.
+  - Singing in a cool and seductive voice, Marilyn Monroe attracted every man in the room.
+  - Low indoor lighting combined with candles and seductive music set the mood for a romantic weekend.
+
+* [[https://wordsinasentence.com/sedulous-in-a-sentence/][Sedulous]]
+
+  =diligent, hard working and persistent=
+
+  - Even though you completely destroy the ant bed time after time, those sedulous ants will continue to go right back to work rebuilding it.
+  - Although she told him that she was already in a relationship with someone, Ethan refused to abandon his sedulous efforts to get a date with Felicia.
+  - Because he is a sedulous worker who is always on the lookout for new prospects, Garrison has been Salesman of the Year for six years in a row.
+  - This antique table is constructed with sedulous workmanship and an attention to detail that you just don’t find in today’s manufactured furniture.
+  - Although mules are stereotyped as stubborn creatures, they are actually sedulous animals who work tirelessly in almost any situation.
+  - Harrison is constantly boasting about his sedulous assistant who keeps the office running smoothly.
+  - Isabel has a sedulous routine of putting on her makeup every day because she is obsessed with making a glamorous impression.
+
+* [[https://wordsinasentence.com/segregate-in-a-sentence/][Segregate]]
+
+  =to place apart because of real or perceived differences=
+
+  - Airlines segregate passengers into economy and first class so they can charge higher ticket prices for premium seats.
+  - To preserve order inside the prison, the warden will segregate rival gang members from each other.
+  - Most schools segregate students according to their academic abilities.
+  - At the veterinarian’s office, two waiting areas are used to segregate the well animals from the sick animals.
+
+* [[https://wordsinasentence.com/seismic-in-a-sentence/][Seismic]]
+
+  =Caused by or related to an earthquake=
+
+  - Seismic tests were conducted to determine the force of the earthquake.
+  - Seismic waves caused by the earthquake caused a tsunami on the island shore.
+  - Conducting hi-tech seismic surveys, the scientists were able to predict an upcoming quake.
+  - Buildings hit by seismic waves were not able to withstand the trembling surfs.
+
+* [[https://wordsinasentence.com/seminal-in-a-sentence/][Seminal]]
+
+  =important and highly influential on later developments=
+
+  - His award-winning performance was a seminal event for the college.
+  - Newton’s laws are seminal in the field of physics.
+  - Steve Jobs’ inventions were seminal in the world of technology.
+  - We attended a conference where seminal ideas for future scenarios were introduced.
+
+* [[https://wordsinasentence.com/sentient-in-a-sentence/][Sentient]]
+
+  =being able to feel or sense things=
+
+  - Humans are not the only sentient beings, elephants are very emotional and perceptive mammals as well.
+  - For many years, scientists argued over whether corals were sentient creatures or were an inanimate object like a rock.
+  - Many people believe plants to be sentient and responsive to things such as music and the human voice.
+  - Because it barely moves, people do not see the snail as a very sentient and conscious animal.
+
+* [[https://wordsinasentence.com/septic-in-a-sentence/][Septic]]
+
+  =infected or contaminated with disease-causing organisms=
+
+  - After the wound became septic, it started oozing pus and turned green.
+  - When working with a septic system, the workers wear suits to protect themselves from contaminants in the sewage.
+  - You should wash and cover your wound to prevent it from becoming septic.
+  - The doctor prescribed an antibiotic to cure my septic throat.
+
+* [[https://wordsinasentence.com/sequester-in-a-sentence/][Sequester]]
+
+  =to be put away for a specific reason=
+
+  - The people with the virus were told to sequester themselves at home to avoid spreading the illness.
+  - If the verdict is not decided the first day, the judge will sequester the jury members to protect them from external influences.
+  - The writer decided to sequester himself in an isolated cabin so he could finish his novel without interruptions.
+  - In an attempt to break his own videogame record, Daniel chose to sequester himself in his bedroom for an entire weekend.
+  - The judge ordered detectives to sequester the witness in a safe house.
+  - To prevent poisoning accidents, many parents sequester medications in a locked cabinet.
+  - The single mother was upset when she learned the judge planned to sequester the jury away from their families.
+
+* [[https://wordsinasentence.com/serendipity-in-a-sentence/][Serendipity]]
+
+  =the fact of finding pleasant or useful things by chance=
+
+  - The lottery is something one wins by serendipity not by design.
+  - When it comes to capturing the perfect picture, it is all about serendipity.
+  - The paparazzi relied on serendipity to figure out which hotel entrance the celebrity would use.
+  - Although Jeremiah is known for being unlucky, he did once have the serendipity of being chosen as one of the city’s most exciting young people.
+  - It was by serendipity that I found a hundred dollar bill on the sidewalk.
+  - By serendipity, I was fortunate enough to get two tickets to a sold out conference.
+  - When I ran into my first love on a singles cruise, I knew it was serendipity at work.
+
+* [[https://wordsinasentence.com/serene-in-a-sentence/][Serene]]
+
+  =calm; peaceful=
+
+  - The quiet beach made a serene setting for the midnight wedding.
+  - While James is usually upset about something, his wife has a serene personality and is incredibly laid-back.
+  - Danielle sleeps best in a serene environment.
+  - During the test, I tried to remain serene so I would not get nervous and make careless mistakes.
+  - Taking yoga classes helps me remain serene.
+  - When Mabel went to the doctor, she received an anxiety medication to help her stay serene.
+  - Standing in front of the waterfall, the bride and groom made a serene picture.
+
+* [[https://wordsinasentence.com/serenity-in-a-sentence/][Serenity]]
+
+  =untroubled, calm, and peaceful=
+
+  - For the outdoorsman, there is no way to experience serenity better than enjoying nature.
+  - The beautiful garden filled him with a sense of serenity.
+  - For an introvert, it is difficult to experience serenity in a large crowd.
+  - Many individuals find that yoga is a great way to experience serenity.
+  - The monk had attained a peaceful serenity, completely unaffected by the troubles around him.
+  - Serenity is often sought after but in the busy bustle of city life it is rarely found.
+  - A thrill-seeker would much prefer constant chaos than complete serenity.
+
+* [[https://wordsinasentence.com/serrated-in-a-sentence/][Serrated]]
+
+  =having a row of sharp or tooth-like projections=
+
+  - A serrated knife allowed the chef to saw the bread into slices.
+  - In order to cut the steaks, each dish included a serrated knife.
+  - The serrated edge of a knife proved more dangerous to cut food due to its toothed side.
+  - The difference between the two knife sets is that the first set contained a serrated knife to cut bread and meats.
+
+* [[https://wordsinasentence.com/servile-in-a-sentence/][Servile]]
+
+  =submissive; willing to serve others=
+
+  - Some individuals are so servile that other people take advantage of their submissiveness.
+  - Because she has a servile disposition, Janet is a great nurse.
+  - Even though Michelle was no longer a maid, she still felt servile when she was in a room with wealthy people.
+  - Wives do not exist simply to be servile and to do their husbands’ bidding.
+  - Since you pay me, I am willing to work for you and be servile from the hours of nine to five each day.
+  - A diehard people pleaser, Justine is servile by nature.
+  - Because the billionaire’s personal assistant wants to keep her job, she always speaks to her boss in a servile tone.
+
+* [[https://wordsinasentence.com/shrivel-in-a-sentence/][Shrivel]]
+
+  =become wrinkled or get smaller=
+
+  - Soaking in the bathtub for too long, the girl’s tiny fingers began to shrivel up like wrinkled sticks.
+  - As they lay in the sun, the grapes began to shrivel into a raisin form.
+  - Years of tanning in the sun had caused the woman’s skin to dry and shrivel.
+  - As summer turned into fall, the leaves began to shrivel and turn brown in the crisp air.
+
+* [[https://wordsinasentence.com/shunt-in-a-sentence/][Shunt]]
+
+  =to push or shove something=
+
+  - It’s unfortunate that our society tends to shunt older workers to retirement before they are ready.
+  - The thirty something attempted to shunt the idea of marriage in hopes she would get a ring.
+  - The car responsible for the rear-end crash shunt the other vehicle into oncoming traffic.
+  - Lazy nurses tried to shunt the difficult patient’s onto assistants while they gossiped in the back.
+
+* [[https://wordsinasentence.com/sinuous-in-a-sentence/][Sinuous]]
+
+  =winding and twisting=
+
+  - According to the treasure map, the cave is located at the end of the sinuous path that winds up the mountain.
+  - It took the artist four years to create the sinuous sculpture made of hand twisted pieces of wire.
+  - Because the maze was especially sinuous with countless twists and turns, we were lost in it for hours.
+  - The bird carefully made a sinuous nest out of twigs.
+
+* [[https://wordsinasentence.com/skew-in-a-sentence/][Skew]]
+
+  =slanted, crooked=
+
+  - Because we didn’t use a level when hanging it, the picture was skew on the wall.
+  - The peculiar man was well known for his crooked cowboy hat that sat skew on top of his head.
+  - I was irritated by the skew book on the shelf that refused to stand up straight.
+  - Although I tried my best to keep all of the dominoes parallel, a skew piece called all of the others to come tumbling down.
+
+
+* [[https://wordsinasentence.com/skinflint-in-a-sentence/][Skinflint]]
+
+  =a person who spends as little money as possible=
+
+  - The skinflint refused to spend money, even on things that are necessary.
+  - A hardnosed skinflint, the penny-pincher refused to pay full price for anything.
+  - The woman’s husband is a skinflint and refuses to give her money for groceries or utilities.
+  - Scrooge was a skinflint who refused to spend a dime on anyone but himself.
+
+* [[https://wordsinasentence.com/slipshod-in-a-sentence/][Slipshod]]
+
+  =performed too rapidly=
+
+  - Because the roofer performed a slipshod repair job, we had a leak in the kitchen within hours.
+  - This is a very important task so please do not perform it in a slipshod manner.
+  - If you turn in a slipshod project for your final assignment, you will probably not pass the class.
+  - Jim’s awful presentation of the poem revealed his slipshod preparation for poetry night.
+
+
+* [[https://wordsinasentence.com/slovenly-in-a-sentence/][Slovenly]]
+
+  =having a dirty appearance=
+
+  - The man’s slovenly dress was a result of him being homeless for a month.
+  - Because Jan is a pet hoarder, with over twenty cats, it is not surprising that she lives in a slovenly home.
+  - In the animated series, the slovenly dark-skinned child always has a puff of dirt following him.
+  - Although Warren is very wealthy, he still lives in the slovenly neighborhood where he grew up as an underprivileged youth.
+  - Since Bridgett spends most of her time in class, she rarely cleans her slovenly dorm room.
+  - The inmates have written the governor a letter complaining about the slovenly and unsanitary prison conditions.
+  - After a night of wild partying, a slovenly-looking Carl came in to work wearing yesterday’s clothes.
+
+* [[https://wordsinasentence.com/sluggish-in-a-sentence/][Sluggish]]
+
+  =slow-moving and lacking in energy=
+
+  - After staying up all night, the tired teenager was sluggish when morning arrived.
+  - It took forever for the sluggish sloth to move from one side of the road to the other.
+  - Ben may need a new computer since his sluggish laptop takes forever to boot up.
+  - Because sales have been sluggish, the company will host an event to bring in customers.
+
+* [[https://wordsinasentence.com/smother-in-a-sentence/][Smother]]
+
+  =to restrict or stifle the airflow of someone or something requiring air or oxygen=
+
+  - When the camp leader decided he needed to smother the fire before going to bed, he took his booted foot and stomped it out.
+  - Taking a pillow to smother the victim by holding it firmly on top of her face is one way to cause the victim to die since she can’t breathe.
+  - By rubbing thick Vaseline over the tick under my skin that caused it to smother since it was trapped without oxygen.
+  - Instead of blowing out the candle, I placed a small cup over the entire wick in order to smother the flame.
+
+* [[https://wordsinasentence.com/smug-in-a-sentence/][Smug]]
+
+  =extremely satisfied with oneself=
+
+  - Gregory was smug after he easily eliminated his rival during the kickboxing competition.
+  - After scoring a touchdown, the smug player did his celebratory dance.
+  - Jason’s smug expression left his face when he received a failing score on his driving exam.
+  - Because Rick had a smug attitude during his meeting with the principal, he projected the image he was proud of his misdeeds.
+
+* [[https://wordsinasentence.com/snub-in-a-sentence/][Snub]]
+
+  =the ignoring or brushing off of someone=
+
+  - The waitress insisted that her lack of attentiveness to the table wasn’t a snub, but an accidental oversight.
+  - The ignoring of the new student was an intentional snub, as the hateful girls refused to allow anyone into their cliché.
+  - When the newlywed turned her nose up to her mother-in-law’s dinner offer, the snub offended everyone in the family.
+  - The endorsement of the unknown candidate by many local affiliates felt like a snub to the local contender.
+
+* [[https://wordsinasentence.com/snug-in-a-sentence/][Snug]]
+
+  =fitting tightly=
+
+  - The baby’s car seat belt must be snug so that she will be protected in case of an accident.
+  - Snug fitting pajamas help protect your skin from burning in case of a fire.
+  - The woman’s snug fitting pants were the first sign that she had gained weight.
+  - Pulling down his snug cap down tightly, the ball player prepared to pitch the ball.
+
+* [[https://wordsinasentence.com/solder-in-a-sentence/][Solder]]
+
+  =a fusible metal (usually tin or lead) that is used to join other metals together=
+
+  - Half of the world’s tin is used for solder, specifically to fuse other metals together.
+  - A laser was used to attach a lead solder to the ball joint.
+  - It is important when fusing things to use solder that is compatible with both metals.
+  - After a few failed attempts, lead solder was used to fuse two metal bars together.
+
+* [[https://wordsinasentence.com/solicit-in-a-sentence/][Solicit]]
+
+  =to request or ask for something=
+
+  - Many businesses put up signs to discourage others from going there to solicit.
+  - If you want to solicit business from them, you’ll have to communicate at their level.
+  - The prostitute was arrested when she tried to solicit an undercover officer.
+  - During the war, they looked to solicit help from their neighboring countries.
+  - The homeless man looked to solicit enough money to buy lunch.
+  - She only wore that fancy dress to solicit compliments from her peers.
+  - The salesman tried to solicit business everywhere he went.
+
+* [[https://wordsinasentence.com/solicitous-in-a-sentence/][solicitous]]
+
+  =full of anxiety and concern=
+
+  - I am going to keep a solicitous eye out for criminals in this hard-hit neighborhood.
+  - The solicitous mother did not want her young daughter going out on a date.
+  - My girlfriend gets solicitous when I drink too much.
+  - Nothing makes me more solicitous right now than my depressing financial situation.
+  - My solicitous friend believes it is unsafe to fly an airplane.
+  - I can understand why you are concerned about my late pregnancy, but acting overly solicitous about it is crazy.
+  - Drivers around the world are solicitous about rising gas prices.
+
+* [[https://wordsinasentence.com/solicitude-in-a-sentence/][Solicitude]]
+
+  =care or concern=
+
+  - His solicitude was shown by the fact that he brought flowers to her every day.
+  - A mother is always going to display some solicitude for her children.
+  - After her boyfriend was in a car accident, she showed her solicitude by visiting until he was out of the hospital.
+  - He waited with solicitude for the test results, hoping his daughter was not suffering from a serious condition.
+  - The server was able to improve her tips by offering sincere solicitude to all of her customers.
+  - Gandhi showed great solicitude towards all life on earth.
+  - Mother Teresa was known for her extraordinary solicitude.
+
+* [[https://wordsinasentence.com/soliloquy-in-a-sentence/][Soliloquy]]
+
+  =a monologue that is spoken out loud by an actor or actress=
+
+  - Speaking her internal thoughts as she moved about, the Broadway star gave a stellar soliloquy through her moving speech.
+  - A closing soliloquy moved the crowd to tears as they were given a glimpse into the dying man’s fears and hopes.
+  - The actress’s soliloquy let the audience hear the character’s inner thoughts right before the climax.
+  - Preparing for his soliloquy, Shakespeare paced back and forth reading his monologue lines aloud.
+
+* [[https://wordsinasentence.com/solvent-in-a-sentence/][Solvent]]
+
+  =able to pay all financial obligations=
+
+  - When the man realized he was not solvent and was unable to provide for his wife and kids, he killed himself.
+  - Rick refused to sell his solvent company because it was so profitable.
+  - Because the restaurant is not solvent, it will be closing in two weeks.
+  - The computer company was able to remain solvent for three years before closing its doors.
+
+* [[https://wordsinasentence.com/somber-in-a-sentence/][Somber]]
+
+  =grim or miserable=
+
+  - When I saw the doctor’s somber expression, I knew my diagnosis was not a good one.
+  - Sometimes the news is so somber I turn off the television.
+  - After Bill was unexpectedly fired, he was in a somber mood for weeks.
+  - The funeral hall was filled with somber faces.
+  - Because Jane was feeling poorly on her birthday, she looked pretty somber during her party.
+  - We took William’s somber look to mean he had not gotten the promotion at work.
+  - After the home team lost the big game, the stands were filled with somber fans.
+
+* [[https://wordsinasentence.com/sonorous-in-a-sentence/][Sonorous]]
+
+  =able to produce a deep sound=
+
+  - Even without a microphone, the singer’s sonorous voice filled the entire room.
+  - Because Hank has a sonorous pleasant-sounding voice, he is often paid to narrate television commercials.
+  - I wear earplugs so my husband’s sonorous snoring does not keep me awake at night.
+  - When the doctors heard the patient’s sonorous breathing, they knew he needed oxygen immediately.
+  - The lion’s sonorous rumble startled the small children in the zoo.
+  - When a sonorous sound came from the volcano, the residents of the village knew it was time to evacuate the area.
+  - The town crier had a loud sonorous voice that was easily heard throughout the  town.
+
+* [[https://wordsinasentence.com/soothe-in-a-sentence/][Soothe]]
+
+  =to calm or ease=
+
+  - The calming aloe vera plant is used be people all over the world to soothe burns and skin irritations.
+  - Try as I might, I could not soothe the colicky infant who continued to cry.
+  - An apology did little to soothe the woman’s hurt feelings or mend the grudge between the feuding siblings.
+  - Alternating between heat and cool compresses is said to soothe the aching in the lower lumbar region.
+
+* [[https://wordsinasentence.com/sophomoric-in-a-sentence/][Sophomoric]]
+
+  =juvenile, immature, and lacking good judgment=
+
+  - After drinking too much alcohol, the celebrity made sophomoric comments that turned his fans against him.
+  - The sophomoric humor in the movie only appeals to teenagers.
+  - When Jason and Heather went out on dates, Jason often displayed sophomoric behaviors that really embarrassed Heather in front of her mature friends.
+  - Young people should not watch reality shows because the only thing they can learn from this type of entertainment is how to act in a sophomoric manner.
+  - The professor was shocked when one of his graduate students turned in an essay filled with sophomoric errors.
+  - Because the boys played a sophomoric prank that could have turned deadly, they were suspended from school for the rest of the academic year.
+  - As one of the few openly gay teenagers in his school, Jed is used to enduring sophomoric comments from bullies.
+
+* [[https://wordsinasentence.com/soporific-in-a-sentence/][Soporific]]
+
+  =causing or tending to cause sleep=
+
+  - The professor’s boring speech was soporific and had everyone in the audience yawning.
+  - While alcohol is soporific and can help you sleep, it does not take away your problems.
+  - Because of the medicine’s soporific properties, the doctor told me to only take it at bedtime.
+  - There is a soporific effect of eating that makes many people sleepy after every meal.
+  - Everyone was glad when the loud dance music completely altered the soporific tone of the formal event.
+  - To my active daughter, few things are as soporific as watching the game of golf on television.
+  - After taking her soporific prescription, June was asleep within an hour.
+
+
+* [[https://wordsinasentence.com/spartan-in-a-sentence/][Spartan]]
+
+  =reflective of vast self-denial=
+
+  - The décor in my apartment is spartan because I don’t have a lot of money for furnishings.
+  - As a soldier, Mark is used to traveling with spartan supplies.
+  - The monks have chosen to live a spartan life devoid of all luxuries.
+  - While I had my wedding at a five-star hotel, my sister’s wedding took place in a spartan courthouse.
+
+* [[https://wordsinasentence.com/specious-in-a-sentence/][Specious]]
+
+  =seems correct or true, but actually wrong or false; deceptive=
+
+  - The intruder tried to give the authorities a specious excuse regarding his presence in the building.
+  - Although he could not deliver on them, the salesman made us several specious promises.
+  - Several weight loss products on the market make specious claims as to their effectiveness.
+  - Rather than admitting he overslept, Joe gave his teacher a specious reason for being late.
+  - Even though the defendant told a good tale, the jury found his testimony to be specious.
+  - Since she had doubts about the specious business offer, Kim refused to sign the contract.
+  - You will not win your debate with specious arguments!
+
+
+* [[https://wordsinasentence.com/sporadic-in-a-sentence/][Sporadic]]
+
+  =occurring occasionally=
+
+  - Since my father left my mother and me twenty years ago, he has made sporadic appearances in my life.
+  - The doctor decided to hospitalize my mother because of her sporadic heartbeat.
+  - Sporadic gas shortages are making the summer miserable for many travelers.
+  - Over the years, many singers have discovered success can be sporadic.
+  - After the tornado, there were sporadic power outages in our town.
+  - Commercial development in our city has been sporadic because of the weak economy.
+  - The doctors are finding it difficult to identify the cause of Tom’s sporadic headaches because they occur infrequently.
+
+* [[https://wordsinasentence.com/sprawl-in-a-sentence/][Sprawl]]
+
+  =to develop or spread without limitation=
+
+  - If we don’t manage the bushes, they'll sprawl onto our neighbor’s property.
+  - The troublesome vines have started to sprawl over the fence.
+  - Once finished, the huge amusement park will sprawl over more than 400 acres.
+  - My kitten will sometimes sprawl across my laptop and use it as a nap spot.
+
+* [[https://wordsinasentence.com/sprout-in-a-sentence/][Sprout]]
+
+  =to develop or shoot forth=
+
+  - The young students are eager gardeners ready to see their seeds sprout.
+  - Because we haven’t been tending the garden, the weeds have started to sprout.
+  - My nephew has began to sprout and is now nearly as tall as his father.
+  - After the mayor announced the building of the new manufacturing plant, housing developments started to sprout around our small town.
+
+
+* [[https://wordsinasentence.com/spruce-in-a-sentence/][Spruce]]
+
+  =to make something clean or neat or to be stylish or clean=
+
+  - We are having guests so please spruce up before dinner.
+  - As soon as the spruce man walked in the room, everyone started to comment about his stylish appearance.
+  - A new coat of paint should spruce up the old church.
+  - The necklace will spruce up the black dress and give you a more sophisticated look.
+
+* [[https://wordsinasentence.com/spurious-in-a-sentence/][Spurious]]
+
+  =not real or genuine=
+
+  - After receiving a low appraisal on my diamond ring, I realized the suspicious-looking jeweler had sold me a spurious jewel.
+  - The con artist made a spurious claim about being a member of the royal family.
+  - Despite the spurious statement the suspect made about his whereabouts on the night of the murder, the police had to release him because of a lack of evidence.
+  - Everyone knows Janice is trying to pass her spurious designer handbag off as the real thing.
+  - Recently, some weight loss drugs were taken off the market because of spurious statements made by the manufacturers.
+  - The so-called historical document looked spurious to me because it was written on printer paper.
+  - Because they want to attract readers, many bloggers often make up spurious headlines.
+
+* [[https://wordsinasentence.com/spurn-in-a-sentence/][Spurn]]
+
+  =to reject; turn down=
+
+  - Mikey is such a picky eater that he will spurn everything except chicken nuggets and ice cream.
+  - Even after you spurn this so-called charity’s request for donations, they continue to hound you every week.
+  - I’ll never understand why my cousin chose to spurn the chance to join us on our family cruise to the Bahamas.
+  - During the 1960s, young people began to spurn the traditions of previous generations, and the Hippy movement was born.
+  - Just because you were afraid of everything as a kid, you shouldn’t spurn the idea of taking your son to Disneyland.
+  - In spite of the fact that everyone knew that any suitor the princess decided to spurn would be sent to fight the red dragon, there was still always a line of hopeful young wooers eager to take on the challenge.
+  - The political tension in the Middle East is heightened by the current leaders’ tendencies to spurn all overtures to peace.
+
+* [[https://wordsinasentence.com/squalid-in-a-sentence/][Squalid]]
+
+  =extremely dirty and unpleasant=
+
+  - The homeless man had no choice but to sleep in squalid conditions.
+  - During the war, many prisoners had to live in squalid camps where water and food were in short supply.
+  - The abandoned house was squalid and filled with rats.
+  - When the health inspector saw the squalid conditions of the restaurant, he insisted the owners close the establishment immediately.
+  - The kidnapped little girl was kept in a squalid shed that contained nothing but a filthy mattress.
+  - Because the landlord allowed his tenants to live in squalid conditions, he was sentenced to nine months in jail by the state judge.
+  - The murder took place in a squalid building that was occupied mostly by drug dealers and gang members.
+
+* [[https://wordsinasentence.com/squander-in-a-sentence/][Squander]]
+
+  =to waste=
+
+  - Because time is one thing you can never get back again, you should always make an effort not to squander a minute on trivial pursuits.
+  - Eddie has a tendency to squander his entire allowance on comic books and action figures.
+  - Since the beginning of human existence, the abundance of nature has inspired us to squander our natural resources, which is why we’re in the mess we’re in now.
+  - Dina didn’t want to squander her good mood in the darkness of a movie theater, so she persuaded her friends to go dancing instead.
+  - I couldn’t believe it when I heard that the young virtuoso had decided to squander his talent as a violinist and become a game show host.
+  - There are a lot of deceitful characters out there who prey on the elderly in an effort to get them to squander what little money they have from their pensions or Social Security.
+  - When the head of the company decided to invest in all-new technology in every department, the Chief Financial Officer was afraid that he was about to squander all the profits.
+
+* [[https://wordsinasentence.com/stagnant-in-a-sentence/][Stagnant]]
+
+  =not moving or increasing=
+
+  - Because John needs more money and his current salary has been stagnant for three years, he is looking for a new job.
+  - Sometimes when I feel my life is stagnant and not going anywhere, I will talk to my psychologist so I can honestly reflect upon my situation.
+  - Although the economy appears to be stagnant among the middle classes, it seems as though the rich are getting richer.
+  - Two days after the storm, the stagnant water puddles are still in my front yard.
+  - Since the legislators are focusing on their battles with each other, progress on the budget proposal has been stagnant.
+  - On the hottest day of the year the air was stagnant without a breeze in sight.
+  - As my mother looked at the rising food prices and her empty bank account, she noticed her paycheck had remained stagnant for years.
+
+* [[https://wordsinasentence.com/stalwart-in-a-sentence/][Stalwart]]
+
+  =extremely dedicated and loyal=
+
+  - The stalwart dog refused to leave his owner’s grave.
+  - When the king was accompanied by his stalwart bodyguards, he felt safe walking among his people.
+  - Only the most stalwart of employees will work for free.
+  - As a stalwart follower of the Democratic Party, I agree to vote for the party’s presidential candidate.
+
+* [[https://wordsinasentence.com/stark-in-a-sentence/][Stark]]
+
+  =plain; without decoration=
+
+  - With only a small red dot on a white canvas, the painting looked quite stark.
+  - The house’s living room was stark and held only one couch.
+  - When I looked at the depressed artist’s painting, I was saddened by his stark depiction of the widower’s home.
+  - The vegetation in the desert is stark because of the area’s dry climate.
+
+* [[https://wordsinasentence.com/steadfast-in-a-sentence/][Steadfast]]
+
+  =faithful to a person, belief, or goal=
+
+  - My mother really loved my father and remained steadfast to her marriage vows even after my father died.
+  - Although the civil rights activist had been warned by the racist police officers, he held steadfast in his commitment to march to city hall.
+  - The priest was steadfast in his belief that Christ had died for the sins of all mankind.
+  - Despite the fact donations were coming in slowly, Hank remained steadfast to his commitment to raise money for a new orphanage.
+  - It was hard for the soldiers to remain steadfast to their commanding officer when they knew he was sending them on a suicide mission.
+  - Even though Jack knew his wife had extramarital affairs, he refused to leave her because of his steadfast love.
+  - Michelle remained steadfast to her vow of abstinence despite pressure from her boyfriend to have sex.
+
+* [[https://wordsinasentence.com/stilted-in-a-sentence/][Stilted]]
+
+  =unnatural; stiff in form or tone=
+
+  - After the divorce, my parents' conversations were stilted and far from natural.
+  - The casting director described the actor’s stilted monologue as a stiff performance.
+  - Because Gail and I are school rivals, we rarely engage in anything other than a stilted conversation.
+  - It was obvious Jeff’s parents made him deliver the stilted apology.
+
+* [[https://wordsinasentence.com/stint-in-a-sentence/][Stint]]
+
+  =a span of time in which a person is occupied with a particular job or in a particular place=
+
+  - After a two-year stint as a Peace Corps volunteer, I returned home and became a teacher.
+  - Patricia’s stint as a waitress gave her the patience she needed to work in shoe sales.
+  - When the astronaut returned home after a long stint in space, he had to reconnect with his family.
+  - The lawyer did a yearlong stint as a public defender before applying for a position in the district attorney’s office.
+  - Before Jason enjoyed a stint as a professional baseball player, he played golf on the amateur level.
+  - Mark served a stint in jail for selling drugs.
+  - After a stint as an x-ray technician, Barbara applied to pharmacy school.
+
+* [[https://wordsinasentence.com/stipulate-in-a-sentence/][Stipulate]]
+
+  =to insist upon something as a condition of an agreement=
+
+  - The owners may stipulate a huge deposit as a condition of the purchase agreement.
+  - Before I agree to close the deal, I must stipulate a few requirements that must be met before I sign on the dotted line.
+  - The contracts of the baseball players stipulate they must attend all practices and games.
+  - The software company’s policies stipulate employees must take two fifteen-minute breaks a day.
+  - Carl’s probation terms stipulate he must adhere to a curfew and report to his probation officer once a week.
+  - If the contract does not stipulate how often payments should be made, then it is not a valid agreement.
+  - The rules of the Miss South Pageant stipulate that all entrants must be under the age of twenty-one.
+
+* [[https://wordsinasentence.com/stocky-in-a-sentence/][Stocky]]
+
+  =sturdy and solid shape usually in humans or animals=
+
+  - With a stocky frame, her blind date was rather short but it looked like he could bench press over 200 pounds.
+  - Even though the stocky dog was a cute poodle, he knocked me over after jumping up on me.
+  - Sam was picked for the kickball team due to his stocky body type which made his teammates believe he could kick a homerun.
+  - As the stocky horse rounded the corner of the racetrack, his muscle bulged through his shiny brown fur.
+
+* [[https://wordsinasentence.com/stodgy-in-a-sentence/][Stodgy]]
+
+  =having old-fashioned beliefs and feelings=
+
+  - The stodgy old man did not believe women should work outside of the home.
+  - As I looked at the stodgy committee, I knew the members would not be impressed by my unconventional ideas.
+  - My professor’s pipe and outdated wardrobe gave him a stodgy appearance.
+  - In my church, the minister maintains the stodgy opinion women should not wear pants.
+
+* [[https://wordsinasentence.com/stoic-in-a-sentence/][Stoic]]
+
+  =describing one who is not moved by pain or pleasure=
+
+  - My stoic uncle showed no emotion at his wife’s funeral.
+  - While on camera, the actor played the role of a stoic killer who was not affected by the pain he suffered or inflicted upon others.
+  - Candace worked hard to maintain her stoic features so others could not see her true feelings.
+  - As I looked at Alex’s stoic face, I could not tell if he was happy or said.
+  - The stoic defendant’s facial expression did not change when the judge gave him life in prison.
+  - When the stoic girl got a spanking, she showed no emotion at all.
+  - John’s stoic personality causes him to come across as cold and unfeeling.
+
+* [[https://wordsinasentence.com/stratagem-in-a-sentence/][Stratagem]]
+
+  =a scheme or a clever plot, especially one used to outwit an opponent or achieve a goal=
+
+  - His chess stratagem was so good that he never lost a match.
+  - Her business stratagem allowed her to quickly rise to the top as a great success.
+  - With years of tactical experience, the lieutenant used a stratagem to minimize risk of casualties.
+  - Though he had a clever stratagem, he had underestimated his opponent’s numbers and was faced with defeat.
+  - Though the villain had a devious stratagem, the hero was able to win in the end.
+  - With the right stratagem, you can accomplish just about any goal.
+  - His poker stratagem allowed him to beat his friends nearly every week.
+
+* [[https://wordsinasentence.com/streak-in-a-sentence/][Streak]]
+
+  =a line of substance that is distinct from the whole. Can be dirt, color, or some other source=
+
+  - In an iconic scene in Harry Potter and the Sorcerer’s Stone, Ron Weasley has a streak of dirt on his cheek.
+  - Skunks have a streak of white fur down their backs.
+  - During her date at the Italian restaurant, Janet was so flustered that she dropped her ravioli and it left a streak of red sauce on her white blouse.
+  - Before dying her whole head, Roxie put a streak of pink in her bangs to test the color.
+
+* [[https://wordsinasentence.com/strenuous-in-a-sentence/][Strenuous]]
+
+  =requiring a lot of effort=
+
+  - Writing a novel under a tight deadline is a very strenuous task.
+  - In order to be in the military, one must be prepared for strenuous activity.
+  - The weightlifter exerted strenuous effort to lift the car off the ground.
+  - Because I am out of shape, I found the two-mile hike to be very strenuous.
+
+
+* [[https://wordsinasentence.com/stringent-in-a-sentence/][Stringent]]
+
+  =very strict or severe=
+
+  - I was so happy to move out of my parents’ house and escape their stringent rules.
+  - When Martha was overweight, her doctor put her on stringent diet that left her feeling hungry all the time.
+  - Airplanes must pass stringent safety tests before they are allowed to be passenger carriers.
+  - Since the level of violent crimes has not decreased in years, it appears as if more stringent consequences are necessary for those who commit these awful acts.
+  - Stringent visa rules are keeping many people from relocating to our country.
+  - Even though James performed very well as a college undergraduate, he was unable to meet the stringent admission requirements of the medical school.
+  - Several schools are being closed as a result of the county’s stringent budget crisis.
+
+* [[https://wordsinasentence.com/stronghold-in-a-sentence/][Stronghold]]
+
+  =heavily reinforced place of protection or center for militia=
+
+  - The stronghold was guarded by hundreds of highly trained soldiers and fortified with reinforced steel.
+  - They knew that if they could just make it to the stronghold alive that they’d find ample protection and weapons to use against their enemies.
+  - Every skilled army has a stronghold to hole up in when the battle starts to go downhill.
+  - The castle’s stronghold was the optimal place to go under siege because it only had one entrance and housed countless deadly weapons.
+
+* [[https://wordsinasentence.com/stumble-in-a-sentence/][Stumble]]
+
+  =a fall or trip; to lose one's balance=
+
+  - She tripped on a toy and began to stumble down the stairs.
+  - After he hit his head while playing at the park, he was only able to stumble home to safety.
+  - She needed practice walking in high heels for her wedding day as she managed to only stumble around in them.
+  - The runner started to stumble as he approached the finish line.
+
+* [[https://wordsinasentence.com/stymie-in-a-sentence/][Stymie]]
+
+  =to stand as an obstacle=
+
+  - My rival did everything she could to stymie my efforts to become homecoming queen.
+  - Since my parents were unhappy about my college choice, they tried to stymie my decision by withholding their financial assistance.
+  - Some people believe the legalization of marijuana will stymie drug violence.
+  - At the concert, the security guards worked hard to stymie crazed fans from grabbing their idols.
+  - The purpose of the therapy is to stymie the growth of the cancer cells.
+  - Because Henry wants to stymie his divorce, he is refusing to sign the final papers.
+  - The power outage will stymie progress in the computer center.
+
+* [[https://wordsinasentence.com/subdued-in-a-sentence/][Subdued]]
+
+  =held down; overpowered=
+
+  - According to the lawsuit, the officers subdued the suspect with unnecessary force and broke his arm.
+  - The kidnapper quickly subdued the small child.
+  - Since the dog was not properly subdued with the restraints, it was able to bite the veterinarian.
+  - The victim had to be subdued with sedatives before she would calm down enough to answer the investigator’s questions.
+  - When the toddler had a tantrum in the parking lot, his father subdued him by wrapping him in a bear hug.
+  - Even after four tranquilizer darts, the huge black bear would not be subdued.
+  - After working all night, the firemen finally subdued the gigantic blaze that threatened the entire neighborhood.
+
+
+* [[https://wordsinasentence.com/subservient-in-a-sentence/][Subservient]]
+
+  =submissive=
+
+  - In the movie, you will play the role of a subservient son who never talks back to his father.
+  - The little boy usually became subservient in the presence of bullies.
+  - While I do not mind following reasonable orders on occasion, I am far from subservient and will not do everything I am told.
+  - The stuck-up singer believed everyone should be subservient to her.
+  - If a slave wanted to avoid punishment, he had no choice but to be completely subservient to his owner.
+  - The cult leader insisted that all of his followers be subservient and obey his every command.
+  - When the genie came out of the bottle, she was subservient to her master and fulfilled his every wish.
+
+
+* [[https://wordsinasentence.com/subsist-in-a-sentence/][Subsist]]
+
+  =to sustain or live upon=
+
+  - The prisoners of war were forced to subsist upon bread and water.
+  - Since the roads were closed during the storm, my family had to subsist on biscuits and canned meats for three days.
+  - Jeff will have to subsist on ten dollars until he receives his next paycheck.
+  - How does the government expect a poor family to subsist on such a tiny amount of financial assistance?
+
+* [[https://wordsinasentence.com/subversive-in-a-sentence/][Subversive]]
+
+  =intended to destroy the power or influence of a government or an established belief=
+
+  - The group published a subversive magazine that contained nothing but negative articles about the current government.
+  - On Sunday night, the subversive members of the church usually meet to discuss ways to get rid of their minister.
+  - The government closely monitors subversive organizations to see if they pose a threat to the country.
+  - In the movie, the dictator sent out troops to kill all of the subversive rebels who were trying to remove him from power.
+  - Every day, subversive groups are recruiting young people to join their rebellious organizations.
+  - Through its protest, the subversive crowd is displaying its opposition to the government’s crimes against humanity.
+  - The professor used his lessons to teach subversive philosophies to his frustrated students who were displeased with the president’s policies.
+
+* [[https://wordsinasentence.com/subvert-in-a-sentence/][Subvert]]
+
+  =to attempt to undercut or overthrow a person or group’s authority=
+
+  - In the movie, the rebels sought to subvert the tribunal’s power and replace the body with a democratic government.
+  - My stepmother is slowly changing things in our house in an attempt to subvert my mother’s traditions.
+  - Since the prince was in a hurry to become king, he planned to subvert his father’s influence by convincing everyone the leader was insane.
+  - The dictator ordered the execution of every insurgent who sought to subvert his authority.
+
+* [[https://wordsinasentence.com/succinct-in-a-sentence/][Succinct]]
+
+  =expressed in a clear but brief manner=
+
+  - Everyone was happy when the politician made a succinct speech that did not take all evening.
+  - The ideal summary is succinct and to the point.
+  - Because my students are easily bored, I have to be certain my lessons are succinct.
+  - The reviewer’s remarks were succinct and to the point.
+  - My literature class is so crowded the teacher insists our presentations be succinct and no more than three minutes in length.
+  - During the debate, the politicians only had a few moments to give succinct responses.
+  - People who suffer from attention deficit disorders learn best through succinct lectures which do not require them to focus for long periods of time.
+
+
+  - As soon as the news was broadcast, people from the small community were gathering in homes and churches to organize plans for bringing succor to the widows and children of the firefighters.
+  - Even though Holly is painfully shy, she is never hesitant to offer succor to anyone who is in pain.
+  - Because of its powers to provide emotional succor in times of stress, Paula keeps a drawer full of chocolate at work, in case of emergency.
+  - The Red Cross is dedicated to providing succor and support to families who have been displaced by natural disasters.
+  - Compared to the indifference paid to returning veterans from the Viet Nam conflict, today’s Americans are more likely to succor soldiers who have served in combat.
+  - While they waited for the ambulance to arrive, Beth did whatever she could to succor the people who had been injured in the crash.
+  - Even though you may be tempted to succor the baby bird, it would be better if you called a wildlife agency or veterinarian.
+
+* Soccor
+
+  - As soon as the news was broadcast, people from the small community were gathering in homes and churches to organize plans for bringing succor to the widows and children of the firefighters.
+  - Even though Holly is painfully shy, she is never hesitant to offer succor to anyone who is in pain.
+  - Because of its powers to provide emotional succor in times of stress, Paula keeps a drawer full of chocolate at work, in case of emergency.
+  - The Red Cross is dedicated to providing succor and support to families who have been displaced by natural disasters.
+  - Compared to the indifference paid to returning veterans from the Viet Nam conflict, today’s Americans are more likely to succor soldiers who have served in combat.
+  - While they waited for the ambulance to arrive, Beth did whatever she could to succor the people who had been injured in the crash.
+  - Even though you may be tempted to succor the baby bird, it would be better if you called a wildlife agency or veterinarian.
+
+* [[https://wordsinasentence.com/succumb-in-a-sentence/][Succumb]]
+
+  =to give up or give in=
+
+  - Although Jerry gave up smoking, there is always a chance he might succumb to his old habit
+  - Sarah is so vain she thinks every man will succumb to her charms.
+  - I will not succumb to the temptations offered by the donut shop.
+  - The siren was so seductive that all the sailors would succumb to her song and leave their posts.
+  - Even though my knee is aching, I will not succumb to the pain and drop out of the race.
+  - Gerry lost several friends when he refused to succumb to peer pressure and use drugs.
+  - In his speech, the president stated that our country will not succumb to fear and terror.
+
+* [[https://wordsinasentence.com/suffrage-in-a-sentence/][Suffrage]]
+
+  =the right to participate in making a decision=
+
+  - By allowing employees to leave work early during the elections, the company president is encouraging each employee to use his right of suffrage.
+  - If the people in the small country had suffrage, they would remove the evil leader from power.
+  - Women who acquired the freedom to vote can thank the female leaders who fought for universal suffrage.
+  - On election day Jim will stand in a long line to execute his right of suffrage.
+  - In class today, the students learned about the men and women who led the suffrage movement so every vote could be counted.
+  - When you cast your vote, you exercise your privilege of suffrage.
+  - The school’s mock election is designed to allow students to become voters so they can use their rights of suffrage.
+
+* [[https://wordsinasentence.com/sully-in-a-sentence/][Sully]]
+
+  =to ruin or damage=
+
+  - The accusation of child abuse is sure to sully the teacher’s reputation and cause him his job.
+  - If the chemical plant is built near the resort, it will probably sully the clean air in the area.
+  - The drug recall will temporarily sully the drug manufacturer’s name and result in a decrease in sales.
+  - Because my ex-husband’s wife tried to sully my relationship with my children, I find it difficult to speak to her in a kind manner.
+
+
+* [[https://wordsinasentence.com/sultry-in-a-sentence/][Sultry]]
+
+  =hot and humid weather=
+
+  - The hot sun and humid air of Florida made for one sultry day.
+  - The sultry heat of the city in the summer can be difficult to deal with.
+  - With a broken air conditioner, the house was too sultry to stay in.
+  - The sultry environment of the greenhouse helped the plants to grow.
+  - As a survival expert, he warned his students that shelter could be just as important as water in an unforgiving, sultry environment.
+  - He did not enjoy the steam room because he found the sultry temperatures to be quite uncomfortable.
+  - Running the oven all day made the air stiff, the house feeling sultry compared to outside.
+
+* [[https://wordsinasentence.com/sumptuous-in-a-sentence/][Sumptuous]]
+
+  =splendid; of the best quality=
+
+  - My eyes grew large when I saw the sumptuous wedding feast.
+  - Since the filmmaker only spent a few hours on the movie, he was not surprised to have a finished project that was far from sumptuous.
+  - The sumptuous leather coat is sure to cost a great deal of money.
+  - Even though the hotel furnishings were quite sumptuous, the décor did not make up for the fact the hotel had not been properly cleaned.
+  - Mary had to remember her diet each time she looked at the sumptuous banquets on the cruise ship.
+  - Because I love a great breakfast, I was happy I had booked my vacation in a bed-and-breakfast that provided a sumptuous spread each morning.
+  - The hotel chef prepared a sumptuous picnic lunch for the newly married couple.
+
+* [[https://wordsinasentence.com/supercilious-in-a-sentence/][Supercilious]]
+
+  =behaving in a way that suggests you think that you are superior to others=
+
+  - Lynda is so supercilious that she refuses to friend anyone outside her race.
+  - The supercilious, stuck-up woman demands special treatment for being pretty.
+  - Even though he was just as poor as the others, the supercilious man he was superior.
+  - The supercilious queen was known as “snobby” because of the way she treated her citizens.
+  - His supercilious choice of words undermined everyone else's opinion.
+  - You are being supercilious by boasting about your generous salary.
+  - The supercilious woman bragged about living in a mansion to everyone at the banquet.
+
+* [[https://wordsinasentence.com/supplant-in-a-sentence/][Supplant]]
+
+  =to kick out or replace in a rough manner=
+
+  - If my stepmother thinks she can supplant my real mother, then she has a rude awakening in her future!
+  - A text message cannot supplant an actual phone call because it is incapable of expressing emotion.
+  - Because the dictator was afraid his enemies might supplant him, he decided to kill all of his rivals.
+  - The army is here to support the local police not to supplant its position as a body of authority.
+  - Since I spent all of my bill money, I need to locate funds to supplant those I've wasted.
+  - The new iPhone will soon supplant last year’s model and become the most popular mobile device.
+  - Because Jackson wants to become head coach, he is doing everything in his power to supplant Max from the position.
+
+* [[https://wordsinasentence.com/supple-in-a-sentence/][Supple]]
+
+  =flexible, easy to bend=
+
+  - Regular yoga will help you to keep a supple form.
+  - A good massage will leave you with supple muscles afterwards.
+  - It is important to stretch before exercise to keep a supple form.
+  - Clay starts out supple, but once it is allowed to dry it becomes hard.
+  - Her supple form inspired thoughts in the boy that he did not care to share.
+  - Play-Doh is supple and easy for young kids to mold into many different shapes.
+  - If you stay supple during exercise it will help you to avoid injury.
+
+* [[https://wordsinasentence.com/suppliant-in-a-sentence/][Suppliant]]
+
+  =pleading, begging=
+
+  - After watching Tucker fail miserably because he had made bold demands, I decided to take a more suppliant tactic in asking for a raise.
+  - Meek and suppliant, the best man admitted he had forgotten the ring and begged the bride and groom for forgiveness.
+  - In the movie Forrest Gump, Forrest’s mother refuses to be suppliant when she demands what is best for her son, but she does agree to some incentives.
+  - The farmers and other members of the community gathered in the church and knelt together to say a suppliant prayer for rain.
+  - On Good Friday, many religious pilgrims come to this mountain to make a suppliant climb on their knees to pray at the foot of the cross.
+  - Abel approached Rebecca’s father in a courteous, suppliant way to ask for her hand in marriage.
+  - Because she was in the mood for lobster, Barbara made a suppliant request for her date to order it for her.
+
+* [[https://wordsinasentence.com/surly-in-a-sentence/][Surly]]
+
+  =ill-tempered and irritable=
+
+  - The surly man was yelling at the waitress because he didn’t get the right order from the restaurant.
+  - Your usually cheerful dog may act surly if it has a splinter in its paw.
+  - Most people tend to act surly in the morning if they aren’t used to waking up early.
+  - Someone with a headache may have surly attitude if everyone around them is too loud.
+
+
+* [[https://wordsinasentence.com/surmount-in-a-sentence/][Surmount]]
+
+  =to conquer a problem or obstacle=
+
+  - Good teachers encourage students to surmount their challenges.
+  - By taking a course in French, I hope to be able to surmount the language barrier when I move to Paris.
+  - The motivational speaker led Jim to believe he could surmount any personal issues.
+  - To become healthy, Ann will need to surmount her poor eating habits.
+  - One of Janet’s goals is to surmount her fear of flying so she can finally go to Australia.
+  - After being shot in the back, the police officer will have to surmount many difficulties before he can walk again.
+  - Because of her mental disability, Cathy had to surmount many challenges to earn her high school diploma.
+
+* [[https://wordsinasentence.com/surreptitious-in-a-sentence/][Surreptitious]]
+
+  =kept secret and marked by quiet and caution=
+
+  - The dog has his surreptitious ways of stealing table scraps behind my back.
+  - After hitting the lottery, the private family hoped to keep their surreptitious winnings to themselves.
+  - Your surreptitious drug habits will not stay unknown for long.
+  - The team began a surreptitious search for the suspect but did not tell the media.
+  - Throwing me a surprise birthday party was a surreptitious thing to do!
+  - Even though I was careful with the surreptitious information, the media found out about it.
+  - Rod Blagojevich had a surreptitious plan to sell the senate seat but was caught and sentenced for doing so.
+
+* [[https://wordsinasentence.com/surrogate-in-a-sentence/][Surrogate]]
+
+  =a substitute (usually of a person, position or role)=
+
+  - Because the couple was unable to conceive, they decided to have a surrogate carry their child.
+  - When the juror fell ill, a surrogate was put in his place.
+  - The degree given during commencement was a surrogate for the real document.
+  - A surrogate caregiver was available when our usual babysitter was not.
+
+* [[https://wordsinasentence.com/sustain-in-a-sentence/][Sustain]]
+
+  =to keep up or support=
+
+  - In order to sustain food supplies throughout the harsh winter, the settlers had to reduce the size of food portions.
+  - The loan officer’s plan would allow the farmer to sustain a decent living while paying back the bank.
+  - While on the diet, you will realize you can sustain yourself by eating less.
+  - Ted cannot sustain his speed in the marathon because he is experiencing severe cramping.
+
+* [[https://wordsinasentence.com/sycophant-in-a-sentence/][Sycophant]]
+
+  =a person who tries to get what they want by excessively praising or complimenting someone in order to make them feel attractive or important=
+
+  - Because she always kisses up to the teacher, Janice is considered the sycophant in first period.
+  - My sister is a shallow sycophant who will flatter anyone for a free designer handbag.
+  - While it helps to be a sycophant if you want to excel in politics, you can also go far simply by being straightforward with people.
+  -  The rapper’s assistant was a sycophant who offered his boss compliments at every turn.
+  - Although you are definitely not a sycophant, you do tend to pay a lot of compliments to people in authority.
+  - My greedy brother is a sycophant who will admire anything as long as he gets something for his time.
+  - When he learned his candidate was predicted to lose the election, the sycophant quickly switched his favor to the predicted campaign winner.
+
+* [[https://wordsinasentence.com/symbiosis-in-a-sentence/][Symbiosis]]
+
+  =relationship of mutual benefit=
+
+  -  The trade that peacefully occurs between the two warring tribes is viewed as an example of symbiosis.
+  - At the nursing home, we witnessed an extraordinary symbiosis between young children and senior citizens with each group nurturing each other.
+  - The unique voice of each choir member came together in symbiosis to make what sounded like a perfect note to the audience.
+  - Because the symbiosis that existed between country record labels and radio stations is not as strong as it once was, we do not hear a lot of country music on the radio today.
+  - The symbiosis between the two comedians allowed them to entertain the audience as a solo act instead of as competing performers.
+  -  During the long war, the two small nations engaged in a symbiosis that afforded them the strength to beat a much larger foe.
+  - Everyone predicts the symbiosis between the candidate and his running mate will allow the two underdogs to carry the election.
+
+
+* [[https://wordsinasentence.com/sacrament-in-a-sentence/][Sacrament]]
+
+  =a formal religious rite or ceremony=
+
+  - According to the church, April can’t receive the communion sacrament because she is a divorced woman.
+  - We stood in front of our families and friends and took the sacrament of marriage.
+  - When we knew my mother was about to die, we called the priest to bless her with a sacrament.
+  - The baptismal sacrament is a very special event for parents and their newborn children.
+
+* [[https://wordsinasentence.com/sacrilege-in-a-sentence/][Sacrilege]]
+
+  =the corruption of something considered holy=
+
+  - It is considered an act of sacrilege for anyone to touch the sacred statue.
+  - Under the old system of punishment, the church leaders would have stoned Ben for his sacrilege.
+  - Hank offended everyone in the village when he committed sacrilege by killing the holy cow.
+  - According to the scripture, wearing a hat inside the temple is an act of sacrilege.
+  - The housing developer committed sacrilege when he uprooted the Indian burial ground.
+  - While Jason and I have different spiritual beliefs, we both believe vandalizing a religious building is a type of sacrilege.
+  - The filmmaker who made the X-rated movie about Christ has been criticized for sacrilege.
+
+* [[https://wordsinasentence.com/saddle-in-a-sentence/][Saddle]]
+
+  =a leather covered seat used to ride an animal=
+
+  - Placing a saddle on the horses back, the cowboy prepared for his long journey.
+  - The rough ride caused the equestrian to slip from the back of the saddle.
+  - As the rider swung into the saddle, the horse sidestepped.
+  - It took the expert rider less than ten minutes to put the saddle on the horse.
+
+* [[https://wordsinasentence.com/sag-in-a-sentence/][Sag]]
+
+  =to droop down to a lower level=
+
+  - The sandcastle began to sag in the middle as water filled the top of the construction.
+  - The tired worker drifted off to sleep and his eyelids began to droop and sag down low.
+  - As the holiday season passed, the store’s sales started to sag.
+  - Powerful rain caused the tent to sag down, almost to the point of collapsing.
+
+* [[https://wordsinasentence.com/salve-in-a-sentence/][Salve]]
+
+  =a cream or liniment that is used to moisturize and soothe the skin=
+
+  - Models for the cosmetic company were required to use a salve in order to have flawless skin for the commercials.
+  - Almost every day in winter I would need to use salve on my dry, crackling skin so that it would be moisturized.
+  - Compared to lotion, the salve contained a higher concentration of oil and wax instead of water.
+  - The Miracles Salve Corporation swore that their product would cure any skin condition like psoriasis and eczema.
+
+* [[https://wordsinasentence.com/sangfroid-in-a-sentence/][Sangfroid]]
+
+  =composure that is maintained even under great stress=
+
+  - Even as the building fell around him, the fireman maintained his sangfroid and rescued the little girl.
+  - The surgeon knew he had to keep his sangfroid during the complicated surgery.
+  - Although Jane was nervous standing in front of the judge, she held on to her sangfroid and did not let her nerves get the best of her.
+  - The police officer showed incredible sangfroid when he calmly took on the biker gang without any assistance.
+  - At eight, my little girl is already a skilled liar who can keep her sangfroid without blinking during parental interrogation.
+  - Jake’s sangfroid led his principal to believe he was not concerned about his suspension.
+  - Since the thief had been stealing from art museums for over twenty years, he never lost his sangfroid, not even when he accidentally set off an alarm.
+
+* [[https://wordsinasentence.com/sanity-in-a-sentence/][Sanity]]
+
+  =the condition of being mentally sound=
+
+  - Because the children were eager to get their inheritance, they challenged their elderly mother’s sanity in court.
+  - How can I retain my sanity when I have eight small children running around my house making me feel insane?
+  - John’s weird behavior is making people question his sanity.
+  - Without the psychiatric drugs, I sometimes question my sanity.
+
+* [[https://wordsinasentence.com/sardonic-in-a-sentence/][Sardonic]]
+
+  =displaying disrespect in a scornful way=
+
+  - Jim’s sardonic laugh made his parents angry enough to stop paying his cellphone bill.
+  - After Rick was fired from the restaurant, he wrote a sardonic review of the eatery.
+  - Female readers were turned off by the newspaper editor’s sardonic column that described violence as the best way to teach a woman.
+  - Because Jack spoke to his principal in a sardonic manner, he received a three-day suspension for being disrespectful.
+  - The judge responded to the defendant’s sardonic smirk by having him removed from the courtroom.
+  - Although my sister spoke in a sardonic voice, I knew she meant no disrespect to me.
+  - The comedian was known for his sardonic remarks about his ex-wife.
+
+* [[https://wordsinasentence.com/sartorial-in-a-sentence/][Sartorial]]
+
+  =relating to clothing, fashion or dressing=
+
+  - Those with a developed sartorial sense can tell a cheap suit from an expensive one.
+  - He was raised by a tailor, which gave him a sartorial sense for clothing.
+  - The emperor had the most splendorous sartorial look no matter what he wore.
+  - He always took pride in his clothing, showing a certain sartorial elegance no matter what the occasion.
+  - Knitting and sewing are both sartorial skills.
+  - As a tailor, he could not help but look at every article of clothing with a sartorial eye.
+  - His sartorial sense was unmatched, which allowed him to tell someone’s shirt size with a glance.
+
+
+* [[https://wordsinasentence.com/sate-in-a-sentence/][Sate]]
+
+  =to satisfy; fill up=
+
+  - My family’s huge get-togethers are filled with so much food, they can sate the hungriest person.
+  - I need a glass of ice water to sate my thirst.
+  - I couldn’t decide on a meal, so I ordered the tasting menu which was sure to sate my appetite.
+  - Because he is always hungry, I will never be able to give my dog enough food to sate him.
+
+* [[https://wordsinasentence.com/saucy-in-a-sentence/][Saucy]]
+
+  =rude and cocky, usually in a lively way=
+
+  - With a saucy attitude, the waitress was able to engage and irritate customers at the same time.
+  - The comedian’s saucy one-liners came off as rude to some and entertaining to others.
+  - Saucy and sharp-tongued, the feisty girl used her quick wit and temper to protect her heart from others.
+  - The once sweet child was now saucy, with a sassy and cheeky response to every question she is asked.
+
+
+* [[https://wordsinasentence.com/savvy-in-a-sentence/][Savvy]]
+
+  =sharp; perceptive=
+
+  - Your help desk agent should be savvy about all the features of your company’s software.
+  - When the savvy investor sold his stock before its value dropped, he made a very profitable transaction.
+  - Savvy residents of the city know where to buy the best fruits and vegetables.
+  - If your marketing expert is not savvy enough to take advantage of social media advertising, then you need to hire another marketer.
+
+* [[https://wordsinasentence.com/scabrous-in-a-sentence/][Scabrous]]
+
+  =lewd and obscene=
+
+  - The scabrous magazine was regarded as a lecherous and vulgar publication.
+  - After a few scabrous jokes, the appalled couple walked out of the offensive comedy show.
+  - Some readers found the crude material too scabrous for their taste while others thought the writing was interesting.
+  - Indecent drawings filled the scabrous gallery and made even the most open minded viewer blush from embarrassment.
+
+
+* [[https://wordsinasentence.com/scald-in-a-sentence/][Scald]]
+
+  =to be hurt by a scorching fluid=
+
+  - Even the smallest splash of hot oil on my skin would scald it causing severe burns.
+  - Tricia turned the shower’s hot water knob full blast which could scald her scalp.
+  - Cooking the meat for twenty minutes longer than the recipe called for would scald it and dry it out.
+  - Big spoonfuls of steaming, hot oatmeal scald my tongue and blistered it.
+
+* [[https://wordsinasentence.com/scamp-in-a-sentence/][Scamp]]
+
+  =A playfully mischievous child=
+
+  - While his parents were sleeping, the little scamp snuck into the cabinet and ate all of the cookies.
+  - The little scamp was notorious for playing practical jokes on all of his classmates.
+  - Hiding in the barn, the little scamp had his father worried sick about his whereabouts.
+  - The family’s oldest son was serious, but their youngest child was a fun-loving scamp with a playful personality.
+
+
+* [[https://wordsinasentence.com/scamper-in-a-sentence/][Scamper]]
+
+  =to move quickly with light steps=
+
+  - Watching the squirrel scamper up the sidewalk was the highlight of the toddler’s day.
+  - After eating his lunch, the boy couldn’t wait to scamper outside to play.
+  - The puppy tried to scamper over the pile of leaves but ended up making a huge mess in the yard.
+  - The runaway was able to scamper a few miles through the woods before she was discovered by the search party.
+
+* [[https://wordsinasentence.com/scintillating-in-a-sentence/][Scintillating]]
+
+  =remarkably witty=
+
+  - The host’s scintillating conversations with celebrities have earned her numerous awards.
+  - During the interview, the clever comedian came up with one scintillating response after another.
+  - The professor’s lecture on genetic mutation was far from scintillating and put most of the class to sleep.
+  - After the critic saw the play, he described it as a scintillating masterpiece that captivates with each line of witty dialogue.
+  - The drunks at the bar are impressed by their own scintillating chatter.
+  - During the comedic roast, the entertainer was amused by his friends’ scintillating comments about his personal life.
+  - The comedy show’s ratings have dropped because the sketches are not as scintillating as they once were.
+
+* [[https://wordsinasentence.com/scowl-in-a-sentence/][Scowl]]
+
+  =a frown of anger or displeasure=
+
+  - Whenever my husband looks at our noisy neighbors, he has a scowl on his face.
+  - The teacher’s scowl was a warning to the misbehaving students.
+  - As soon as I saw the scowl on the policeman’s face, I knew I was in a great deal of trouble.
+  - It was obvious from the scowl on Heather’s face she was quite angry.
+  - If Cathy thought her scowl would scare her admirer, she was wrong because the man found her grimace very attractive.
+  - An offer of a free meal turned the unhappy customer’s scowl into a smile.
+  - Although the mean judge always has a scowl on his face, he enjoys his work and takes pride in discovering talented singers.
+
+
+
+* [[https://wordsinasentence.com/scribble-in-a-sentence/][Scribble]]
+
+  =to write or draw something quickly or without much focus=
+
+  - I was bored in class, so I drew a little scribble on the back of my worksheet to pass the time, though I can’t remember what I drew.
+  - A toddler may draw with a crayon or chalk, but considering their lack of focus they usually do little more than scribble.
+  - I was paying attention to my professor’s lecture, but I nevertheless chose to scribble a few doodles in my notebook to keep me entertained.
+  - In his haste, he could only scribble the number his friend told him to remember in a quick, messy note on a napkin.
+
+* [[https://wordsinasentence.com/scrumptious-in-a-sentence/][Scrumptious]]
+
+  =delicious; mouthwatering=
+
+  - Placing her nose up to the apple pie, the pastry chef got a whiff of the scrumptious smelling tart.
+  - The picky eater was surprised at how tastily scrumptious the delectable danish was.
+  - Even though I love my mother’s scrumptious macaroni and cheese, my low-carb diet makes it off limits.
+  - James finds octopus a scrumptious delicacy, while his wife thinks eating the eight-legged creature is disgusting.
+
+
+
+
+* [[https://wordsinasentence.com/scurry-in-a-sentence/][Scurry]]
+
+  =to move rapidly using small steps=
+
+  - The mouse tried to scurry under the door.
+  - When the bank robber was shot, he could only scurry to his getaway car.
+  - It is fun to watch the penguins scurry on the ice blocks.
+  - Whenever the doorbell rings, the elderly butler will scurry to the front door.
+
+* [[https://wordsinasentence.com/scurvy-in-a-sentence/][Scurvy]]
+
+  =deficiency of vitamin C=
+
+  - Many sailors died of scurvy due to lack of access to nutritional food.
+  - Once the doctor looked at the patient’s bleeding gums and missing teeth, he knew the patient had scurvy.
+  - Eating citrus fruits is a good way to prevent scurvy.
+  - After the period of famine, many citizens of the country developed scurvy.
+
+* [[https://wordsinasentence.com/scuttle-in-a-sentence/][Scuttle]]
+
+  =to scamper or dash=
+
+  - Because I was running late, I had to scuttle through the airport parking lot.
+  - Cara prepared to mop her kitchen floor as she heard the children scuttle in from the downpour.
+  - When the cook turned on the light in the kitchen, he saw a mouse scuttle under the refrigerator.
+  - As soon as the whistle is blown, the children will scuttle across the park in search of Easter eggs.
+
+
+* [[https://wordsinasentence.com/seafaring-in-a-sentence/][Seafaring]]
+
+  =sailing through waters on a regular basis=
+
+  - Seafaring merchants during the Renaissance would often travel throughout Europe and Asia to bring new inaccessible products to foreign customers.
+  - Located on the coast of the Mediterranean Sea, Phoenicians were known as a shipbuilding civilization during this seafaring time.
+  - The Gold Rush of 1849 convinced many immigrants to travel by a seafaring way to California around South America.
+  - Seafaring jobs are in high demand for those who enjoy working with marine life or navigating yachts.
+
+* [[https://wordsinasentence.com/seam-in-a-sentence/][Seam]]
+
+  =the edge where two pieces of material are stitched together=
+
+  - A seam of the undershirt was quite noticeable through the thin flimsy silk blouse.
+  - Once the seamstress unstitched the last seam of the dress pants, she used it as a pattern to create another pair of dress pants.
+  - Taking the suit’s jacket to the sewing machine, the taylor sewed the back of the jacket to the side piece of fabric at the seam.
+  - Bobby was such a playful young boy that his mother was always repairing the torn seam on his pants on a daily basis.
+
+
+* [[https://wordsinasentence.com/sear-in-a-sentence/][Sear]]
+
+  =to char, scorch, or burn the surface of something with quick heat=
+
+  - The chef placed the steak in the hot pan to sear the outside.
+  - The man needed to wear protective clothing and glasses so that the heat from soldering would not sear his skin and eyes.
+  - She threw the envelope into the fire in order to sear it beyond recognition.
+  - The fire from the grill burst into flame, causing his eyebrows to sear.
+
+* [[https://wordsinasentence.com/secretive-in-a-sentence/][Secretive]]
+
+  =describes someone who hides their intentions, thoughts, and actions from other people=
+
+  - Secretive sorority sisters whispered in the hallway about new pledges and upcoming events.
+  - Although his sister shared her feelings openly, the man was quite secretive about his plans for spring break.
+  - A secretive group of mobsters were doing the dirty work while the boss got all of the credit.
+  - A breakout news article threatened to expose the secretive motives of the mayor and her husband.
+
+* [[https://wordsinasentence.com/seep-in-a-sentence/][Seep]]
+
+  =to slowly flow through a small opening=
+
+  - After hitting the bump in the road, oil began to seep out of my car’s radiator.
+  - Water began to seep out of the bottom of the trash bag and all over the kitchen floor.
+  - With no holes at the bottom of the flower pot, there was no way for all of the rain water to seep out.
+  - A manufacturing flaw in the engine caused fluid to seep out of the correct compartment.
+
+
+* [[https://wordsinasentence.com/senile-in-a-sentence/][Senile]]
+
+  =confused or memory loss as a result of old age=
+
+  - I think my Grandma is going senile because she keeps forgetting her daughter's name.
+  - It was clear that Agatha had gone senile after trying to put her cat in the microwave.
+  - Because memory loss and confusion runs in her family history, Linda worries that she may also become senile in old age.
+  - Keep your aging brain engaged so you stay sharp and reduce the chances of becoming senile.
+
+* [[https://wordsinasentence.com/sententious-in-a-sentence/][Sententious]]
+
+  =using few words, often in a preachy manner=
+
+  - Because the minister was in a hurry to get home to watch the football game, he gave a sententious sermon about the importance of valuing time.
+  - The talk show host offended many audience members when he made sententious comments criticizing their beliefs.
+  - Since Cara believes she is better than everyone else, she frequently makes sententious statements that describe the faults of others.
+  - The angry politician responded to the media’s question with a sententious remark that made him come across as a jerk.
+  - Because Alan hates to speak in public, he normally makes his speeches sententious and to the point.
+  - The professor’s sententious lecture was so short that students left the classroom complaining about their lack of knowledge.
+  - Although my sister is only a year older than me, she often speaks in a sententious tone to imply she is much older than she is.
+
+* [[https://wordsinasentence.com/sequacious-in-a-sentence/][Sequacious]]
+
+  =tending to follow; missing original thoughts or independence=
+
+  - Because the girl was sequacious, she usually went along with the other students and never voiced a conflicting opinion.
+  - My father always does what my mother says so I see him as having a sequacious nature.
+  - When will you stop being a sheep and become sequacious enough to choose your own path?
+  - The sequacious boy kept his opinion to himself as the members of his group decided on a research topic.
+
+
+* [[https://wordsinasentence.com/sere-in-a-sentence/][Sere]]
+
+  =dry and withered=
+
+  - The sere leaves that covered the ground were once healthy, but are now dry and brittle.
+  - A far cry from the healthy yield he expected, the farmer was shocked by the sere and withered grains occupying his field.
+  - Field after field were full of sere grain that was scorched by the excruciating heat.
+  - Juicy grapes withered into the sere but useful raisins that Grandmother used to make her delicious pie.
+
+* [[https://wordsinasentence.com/serenade-in-a-sentence/][Serenade]]
+
+  =to perform a song for a special person=
+
+  - More than anything my mother wants my father to serenade her by singing her favorite song at their anniversary dinner.
+  - The singer will serenade one special fan during the concert.
+  - Before Ted decides to serenade his blind date, he should know she is deaf and will probably not appreciate his gesture.
+  - The band will serenade the birthday girl after the waitress brings her cake.
+
+* [[https://wordsinasentence.com/serpentine-in-a-sentence/][Serpentine]]
+
+  =marked by a twisting appearance, like the form of a serpent=
+
+  - The serpentine lake twists through the region providing the entire area with water.
+  - Because the road is quite serpentine and winding, some people feel lightheaded when riding on it.
+  - The stake was made in a serpentine fashion with a coil design so it could be firmly implanted in the ground.
+  - I started to scream as soon as I saw the serpentine creature that was shaped like a snake.
+
+* [[https://wordsinasentence.com/serried-in-a-sentence/][Serried]]
+
+  =rows of people or objects grouped together=
+
+  - Grandfather’s garden is serried in five rows, but it is too overgrown to notice.
+  - The collector kept his assortments serried alphabetically so he’d always know where everything was.
+  - The soldiers stood in serried ranks as they waited for their commanding officers.
+  - The classroom was serried, with the students’ desks aligned neatly in rows.
+
+* [[https://wordsinasentence.com/sever-in-a-sentence/][Sever]]
+
+  =to detach by cutting figuratively or literally=
+
+  - National leaders may sever ties with other countries who do not properly negotiate trade with them.
+  - Sever your unhealthy ways by removing them out of your life one bad habit at a time.
+  - Predators have teeth designed to sever their prey when they need food to eat.
+  - With winter looming, the homeowner decided to sever a tree and use it for firewood.
+
+* [[https://wordsinasentence.com/shambled-in-a-sentence/][Shambled]]
+
+  =to move with a slow, shuffling, awkward gait=
+
+  - Moving at a slow and steady pace, the man shambled up the stairs to the guest bedroom.
+  - As he shambled into the dark alley, the man seemed to be moving more sluggishly than ever.
+  - After his accident, the man shambled and shuffled instead of walking.
+  - With his awkward stride, the cowboy shambled through the gate to the field.
+
+* [[https://wordsinasentence.com/sheen-in-a-sentence/][Sheen]]
+
+  =a quality of things with a smooth and shiny surface=
+
+  - I didn’t want the counter to have a shiny look, so I covered it with a paint with less sheen.
+  - Selecting lustrous gloss instead of a matte lipstick will add more sheen to your look.
+  - Spraying extra oil on the hair added extra sheen to her already radiant locks.
+  - As the plant stems began to die off, they lost their sheen and turned from shiny to dull and brittle.
+
+
+* [[https://wordsinasentence.com/shilly-shally-in-a-sentence/][Shilly shally]]
+
+  =in an uncertain or wavering way=
+
+  - When the teacher stumped the student with a difficult question, she spoke shilly shally since she didn’t know the answer.
+  - Afraid to approach the attacking bear, the park ranger walked shilly shally up to the situation by taking very small steps.
+  - Police officers will approach shilly shally to the suspect’s car by slowly and cautiously observing the driver.
+  - Since the woman didn’t want to tell her sensitive friend about the toilet paper stuck to the back of her pants, she spoke shilly shally without really knowing what to say.
+
+* [[https://wordsinasentence.com/shoddy-in-a-sentence/][Shoddy]]
+
+  =not done or made well=
+
+  - The shoddy porch collapsed one day after it was built.
+  - As soon as the judges heard the young woman’s shoddy performance, they voted her out of the competition.
+  - The shoddy toy was broken when it arrived in the mail.
+  - Because of shoddy accounting practices, our firm is being audited.
+
+* [[https://wordsinasentence.com/shove-in-a-sentence/][Shove]]
+
+  =to roughly push=
+
+  - When he’s packing for a trip, the disorganized man tries to shove all of his clothes into one suitcase.
+  - Neglecting their chores all day, the children only had a few minutes to shove their laundry into the hamper and pick up the trash before mother returned.
+  - The siblings began to playfully push and shove as they played in the thick snow.
+  - The bully tried to shove me out of the way at the water fountain, but the teacher noticed and took his recess away.
+
+* [[https://wordsinasentence.com/shriek-in-a-sentence/][Shriek]]
+
+  =to issue a piercing yelp or call=
+
+  - When the pop idol walked on the stage, the girls started to shriek in excitement.
+  - The baby will shriek with delight as soon as he sees his father.
+  - Because I’m afraid of snakes, I usually shriek when I come across one.
+  - The monkeys in the tropical forest shriek noisily when they are approached by humans.
+
+
+* [[https://wordsinasentence.com/shudder-in-a-sentence/][Shudder]]
+
+  =to tremble suddenly=
+
+  - A cool breeze moved through the garden, causing the princess’s body to shudder from the chill.
+  - The sound of nails down the chalkboard caused the child to shudder and shake.
+  - Sending a shockwave down the warrior’s spine, the ghost’s appearance on the battlefield made even the bravest soldier shudder.
+  - Even the thought of having to spend one night in the haunted tavern made my body shudder with fear.
+
+* [[https://wordsinasentence.com/siege-in-a-sentence/][Siege]]
+
+  =a circumstance in which a group, usually a military or law enforcement agency, surrounds an area or building in an attempt to take it over=
+
+  - During the siege of the village, the villagers were forced to give up their property.
+  - Soldiers killed hundreds of people while the town was under siege.
+  - On Black Friday, it looked as though the department store was under siege by eager customers.
+  - We felt as though our neighborhood was under siege while law enforcement searched the area for an escaped inmate.
+  - Once the siege was over, the soldiers placed their flag on top of the tallest building and left town.
+  - The policemen found themselves under siege when angry protestors surrounded their cruiser.
+  - With enemies approaching from the left and the right, it was apparent the castle was under siege.
+
+
+* [[https://wordsinasentence.com/simper-in-a-sentence/][Simper]]
+
+  =a silly or shy grin=
+
+  - The simper on Kate’s face causes me to think she gets nervous whenever she talks to a boy.
+  - Even though I was angry with Rick, his goofy simper covered his face and melted my heart.
+  - Ann’s simper and reddish cheeks let everyone know she was embarrassed by her fall.
+  - Although Jake was being reprimanded, his face bore a simper that irritated his principal.
+
+
+* [[https://wordsinasentence.com/singe-in-a-sentence/][Singe]]
+
+  =to burn something in a superficial way=
+
+  - The spicy food began to singe my mouth as soon as I took a bite.
+  - Hazardous materials may singe or sear your hands if they are not handled carefully.
+  - After several hours at the beach without sunscreen, the strong rays began to singe my skin.
+  - Playing too close to the fire pit caused the camper to singe the edge of his jacket.
+
+* [[https://wordsinasentence.com/skim-in-a-sentence/][Skim]]
+
+  =to go over something quickly=
+
+  - Not having enough time to read all of the assigned chapters, I decided to skim through the pages and home for the best.
+  - The boat shot down the lake, beginning to skim over the water as if it was floating on air.
+  - I regret my decision to skim over the contract instead of reading it fully since there was important information that I missed.
+  - Internet surfers often skim over articles and never fully read anything.
+
+* [[https://wordsinasentence.com/skirt-in-a-sentence/][Skirt]]
+
+  =skirt is to go around something instead of directly through it=
+
+  - Do not skirt around the truth about this issue, tell me exactly what happened and when.
+  - At cross country track practice, the runners chose to skirt around the intended course and cut some distance off the anticipated path to the finish line.
+  - We had to skirt around the subject because we could not deal with any more hostility over it.
+  - The couple mingled socially at the party and managed to skirt around Mallory the entire night.
+
+* [[https://wordsinasentence.com/skittish-in-a-sentence/][Skittish]]
+
+  =scared by even the smallest of things=
+
+  - The skittish horse stood on his hind legs when the rabbit rushed by him.
+  - Since the toddler is very skittish, she jumps at the slightest noise.
+  - My skittish little brother ran to my parents’ room when he heard the fireworks.
+  - Around her boyfriend, Karen appears skittish as though she is waiting to be hit.
+
+* [[https://wordsinasentence.com/skulduggery-in-a-sentence/][Skulduggery]]
+
+  =behavior characterized by tricking someone into something or cheating them through lies or misinformation=
+
+  - The insurance company was investigated by the FBI after claims of skulduggery and cheating customers was reported.
+  - The local gas station was known for its skulduggery, but it wasn't until they were shut down for overcharging customers that they realized how dishonest the company truly was.
+  - Marcus always knew about his brother’s skulduggery towards others but he never expected him to lie to his face.
+  - Bianca used her charm and beauty for skulduggery and tricked many wealthy men to give her thousands of dollars.
+
+* [[https://wordsinasentence.com/slack-in-a-sentence/][Slack]]
+
+  =slack means loose, not tight=
+
+  - I took my new dress to the seamstress because it needed slack added to the waist.
+  - Add some slack to the rope so that I can descend from the rock slowly.
+  - There was too much slack in the shoestrings, making my shoes feel loose the entire hike.
+  - The pants had plenty of slack and were not too tight to wear in public.
+
+* [[https://wordsinasentence.com/slake-in-a-sentence/][Slake]]
+
+  =slake means to quench or satisfy one’s thirst=
+
+  - This electrolyte water should help slake the runners’ thirst during the marathon.
+  - To slake dehydration, the athletes drank sports drink before, during, and after the triathlon.
+  - Parched by unpredictable exertion climbing the mountain, the hikers had to stop and slake their dry mouths with bottled water and fruit.
+  - You can slake your craving for coffee during pregnancy with other warm beverages such as decaffeinated herbal tea and hot carob.
+
+* [[https://wordsinasentence.com/slander-in-a-sentence/][Slander]]
+
+  =to make a statement that cannot be proven in order to injure someone’s reputation=
+
+  - To win the election for homecoming queen, Jill resorted to slander to ruin her competitors’ reputations.
+  - The magazine is known for its habit of creating false articles that slander celebrities in order to increase sales.
+  - Because Gail wanted Heather’s job, she tried to slander her at work by spreading rumors about Heather’s past drug issues.
+  - The politician’s attempts to slander his rival with lies backfired and cost him the election.
+
+* [[https://wordsinasentence.com/slant-in-a-sentence/][Slant]]
+
+  =a slant is a lean, bend, or slope=
+
+  - The slant of the mountain side made a much easier track for the mountain climbers than the strictly vertical path.
+  - The slant of the handwriting made her words more difficult to read because they leaned too heavily to the right.
+  - She felt that keeping her books arranged with a slight slant made the shelf look more organized than if the books were straight.
+  - Before she fainted as a result of low blood sugar, her body appeared to be in a slant position.
+
+* [[https://wordsinasentence.com/slay-in-a-sentence/][Slay]]
+
+  =to kill something in a violent way=
+
+  - Determined to slay the dragon, the knight raised his sword to deliver a strike.
+  - The people were shocked that small David was able to slay Goliath the giant with a single shot to the head.
+  - Hitler’s men killed most of the Jews in gas chambers, but some did slay their victims violently.
+  - Militaries no longer need to slay their enemies with swords and guns since weapons of mass destruction are available.
+
+
+* [[https://wordsinasentence.com/sleight-in-a-sentence/][Sleight]]
+
+  =the manipulation of cunning or skill, particularly as a means of deception=
+
+  - The card cheat used a sleight of hand trick to ensure he won the biggest pot of the night.
+  - Using sleight of mind skills, the pretend psychic is able to infer details about a stranger’s life.
+  - With a sleight of hand ruse, the dealer fooled the players into thinking she switched decks.
+  - What sleight did you use to convince the old man to buy your worthless insurance policy?
+
+* [[https://wordsinasentence.com/slew-in-a-sentence/][Slew]]
+
+  =to have killed something/someone=
+
+  - Zeus slew many of his enemies by literally striking them down with bolts of lightning.
+  - Mongols slew thousands of men through skilled archery and smart battle strategy.
+  - The knight slew the fire-breathing dragon by finding a weakness in its scales.
+  - The gladiator slew his competition with a thrust of his sword.
+
+* [[https://wordsinasentence.com/slick-in-a-sentence/][Slick]]
+
+  =smooth and glossy (usually of a surface)=
+
+  - Rain caused the road to become wet and many cars to skid across the slick surface.
+  - Brushing cream into her hair, the ballerina made her bun slick and glossy for her performance.
+  - It’s easy to slip on a slick surface, so walk carefully on the tile floor.
+  - The bowling ball slid down the slick lane, crashing into the pins at the end.
+
+* [[https://wordsinasentence.com/slog-in-a-sentence/][Slog]]
+
+  =to work extremely hard over a period of time=
+
+  - The road workers were forced to slog it out and continue the construction even through the holidays.
+  - As they continued to slog in the field, the farmers dreamed of a day they wouldn’t have to work so hard.
+  - A twelve-hour shift is the minimum for workers who slog in the sweat shops day in and day out.
+  - The players tried to slog their way to victory, refusing to stop even though they were down by several points.
+
+
+* [[https://wordsinasentence.com/sloppily-in-a-sentence/][Sloppily]]
+
+  =messy, dirty, disheveled=
+
+  - He showed up to the interview so sloppily dressed that they turned him away at the door.
+  - The pastry chef decorated the cake so sloppily that the cake tilted and frosting spilled out from the sides.
+  - The essay was written so sloppily that the teacher could not tell where one sentence ended and another began.
+  - She wished her mother wouldn't dress so sloppily when she picked her up from school.
+
+* [[https://wordsinasentence.com/slosh-in-a-sentence/][Slosh]]
+
+  =the sound of splashing=
+
+  - The distant slosh of the waves on the sandy beach was a relaxing sound as I attempted to take a nap.
+  - I could hear the slosh of the water in the bucket as I carried it through the hallway, which was rather irritating.
+  - Nothing is more annoying than the slosh of water in a container that is moving around a bunch.
+  - When you step out of the bath tub after finishing, you will probably hear the slosh of the water waving back and forth.
+
+
+* [[https://wordsinasentence.com/slovenly-in-a-sentence/][Slovenly]]
+
+  =having a dirty appearance=
+
+  - The man’s slovenly dress was a result of him being homeless for a month.
+  - Because Jan is a pet hoarder, with over twenty cats, it is not surprising that she lives in a slovenly home.
+  - In the animated series, the slovenly dark-skinned child always has a puff of dirt following him.
+  - Although Warren is very wealthy, he still lives in the slovenly neighborhood where he grew up as an underprivileged youth.
+  - Since Bridgett spends most of her time in class, she rarely cleans her slovenly dorm room.
+  - The inmates have written the governor a letter complaining about the slovenly and unsanitary prison conditions.
+  - After a night of wild partying, a slovenly-looking Carl came in to work wearing yesterday’s clothes.
+
+
+
+* [[https://wordsinasentence.com/slump-in-a-sentence/][Slump]]
+
+  =to fall suddenly of prices, values, and sales=
+
+  - After a successful mowing season, winter caused service calls to slump.
+  - Sales of the phone began to slump after several caught on fire and burnt their owners.
+  - After playing for a while, the player’s energy began to slump.
+  - The slump cut new car sales by a third and cost the dealership a great deal of money.
+
+
+* [[https://wordsinasentence.com/sly-in-a-sentence/][Sly]]
+
+  =having or showing cleverness in a cunning or deceitful manner=
+
+  - Instead of a ‘yes’ or ‘no’ answer, he gave a sly smile as a response.
+  - The young suspect was very sly during the investigation.
+  - The author of the book was very sly at introducing hints as to who the murderer was.
+  - During the office party, the young lovers kept stealing sly glances at one another.
+
+* [[https://wordsinasentence.com/smear-in-a-sentence/][Smear]]
+
+  =to spread a substance messily=
+
+  - The baby used her fingers to smear paint all across the paper.
+  - Using a knife, Ava tried to smear peanut butter over every inch of her sandwich bread.
+  - Unless you smear glue on the back of the poster, it won’t stick to the surface.
+  - The painter was careful not to smear the blue wall paint on the kitchen’s white baseboards.
+
+
+* [[https://wordsinasentence.com/smirk-in-a-sentence/][Smirk]]
+
+  =a confident and often gloating smile=
+
+  - The smirk on his face told her that he was being sneaky.
+  - Bryan started to smirk when his little brother got in trouble for causing the mess he made.
+  - Bruce shot his sister as smirk as he stole the last piece of birthday cake right out of her hands.
+  - Lexy couldn't help but smirk as they called her name for prom queen.
+
+
+* [[https://wordsinasentence.com/smudge-in-a-sentence/][Smudge]]
+
+  =a smeared mark on the surface of something=
+
+  - Wiping her eyes while crying, the bride tried hard not to leave a smudge from her makeup.
+  - The robber made a mistake and left a small smudge of a fingerprint that identified him.
+  - Wiping each smudge off of the window, the housewife tried to get her area perfectly clean.
+  - The model was so upset to see a dark smudge on the bottom of her white skirt.
+
+
+* [[https://wordsinasentence.com/snare-in-a-sentence/][Snare]]
+
+  =a trap=
+
+  - Finding himself in the middle of a bureaucratic snare, the politician wished that he had never trusted his fellow cabinet members.
+  - A snare was set to trap the critters who were eating all of the garden vegetables at night.
+  - With a snare in place, the hunter had nothing to do but wait for the first rabbit to approach.
+  - A victim of the queen’s evil snare, the princess had to come up with a way to escape her dungeon.
+
+
+* [[https://wordsinasentence.com/snarl-in-a-sentence/][Snarl]]
+
+  =growl=
+
+  - Cowering in fear, Pete and Jerry heard the snarl of an unknown animal while walking in the haunted forest.
+  - The snarl of the vicious dogs made the neighbors aware that they were not friendly.
+  - As the patrons would pass the exhibit at the San Diego Zoo, the tigers would snarl in their direction.
+  - At first the wolf’s upper lip would raise and expose its sharp teeth, and then the sound of its snarl would signal danger.
+
+* [[https://wordsinasentence.com/snatch-in-a-sentence/][Snatch]]
+
+  =to grab something quickly=
+
+  - I tried to snatch up my most precious belongings before I ran to safety, but the smoke from the fire proved too much for my lungs.
+  - The only way to get the sleeping teenager out of bed in the morning is to snatch his comforter off.
+  - Irritated by the chore list her mother had left, the grumpy girl proceeded to snatch the paper from the counter and storm out of the room.
+  - A kidnapper tried to snatch an infant from a local hospital, but safety protocols botched the attempt.
+
+* [[https://wordsinasentence.com/sneer-in-a-sentence/][Sneer]]
+
+  =to speak or smile in an unkind way=
+
+  - Mark gave Ted a condescending sneer when he walked into the meeting.
+  - There is no way you will get the job if you sit at the interview with a sneer on your face.
+  - With a disrespectful sneer, Gertrude mocked her slaves for their slow work pace.
+  - With a sneer on his face, Bob ripped the contract into shreds, insisting that he would never do business with such unimportant people.
+
+* [[https://wordsinasentence.com/snicker-in-a-sentence/][Snicker]]
+
+  =to let out a half-suppressed laugh in a disrespectful way=
+
+  - The judges tried not to snicker at the beauty queen’s misguided rant about how world hunger affects Americans the most.
+  - Ignoring the bully who began to snicker and giggle as she walked by, the confident freshman held her head high.
+  - Opponents began to snicker and chuckle as the divisive candidate blabbed about how unifying his campaign would be.
+  - I couldn’t help but snicker at the news of the adulterer’s new wife leaving him for someone else.
+
+* [[https://wordsinasentence.com/snip-in-a-sentence/][Snip]]
+
+  =to cut something with a small, quick stroke=
+
+  - If you snip the suckers off of the bush too quickly, the blossoms will never appear.
+  - The cosmetologist was able to snip the hair so quickly that baby never noticed he was getting his hair cut.
+  - One snip of the scissors, and the long string hanging from the pillow was gone.
+  - You need to snip off the corner of the bag before you can poor the food into the bowl.
+
+* [[https://wordsinasentence.com/snitch-in-a-sentence/][Snitch]]
+
+  =a person who reports the wrongdoing of others to someone in an authority position=
+
+  - Fearing that he would be labeled a snitch, the man made sure that no one at the company knew he was filing a complaint.
+  - Gang members thought that a snitch was in their midst, and wondered who was the rat telling their business to the cops.
+  - Without a snitch to turn on the crooked cops, they continued their reign of terror over the city.
+  - The woman felt like a snitch when reporting her coworkers, but knew it was the right thing to do.
+
+
+* [[https://wordsinasentence.com/sodden-in-a-sentence/][Sodden]]
+
+  =soaked in fluid=
+
+  - My shoes were sodden after I walked a mile in the rain.
+  - When you walk on sodden ground, keep your eyes open for dangerous sinkholes.
+  - The clothes were still sodden when Greg removed them from the broken dryer.
+  - After the halftime rain, the football players found it hard to run on the sodden field.
+  - The baby cried until his sodden diaper was removed.
+  - After the marathon, Harold’s clothing was sodden with sweat.
+  - My grandmother tried to dry my sodden jeans with an iron.
+
+
+* [[https://wordsinasentence.com/somatic-in-a-sentence/][Somatic]]
+
+  =somatic means relating to the human body=
+
+  - It is difficult to link generic somatic symptoms, like an irregular heartbeat, to specific illness.
+  - The mental health system tends to ignore somatic symptoms that are related to other body parts.
+  - Somatic symptoms like headaches and fatigue generally resolve themselves quickly.
+  - With successful treatment, both psychological and somatic symptoms vanish from the body.
+
+
+* [[https://wordsinasentence.com/somnolent-in-a-sentence/][Somnolent]]
+
+  =likely to induce sleep=
+
+  - The moonlight, along with the somnolent lapping of the waves on the shore, set the perfect scene for a romantic evening.
+  - After feeding him, Kristin held her breath as she gently placed the somnolent baby in his crib.
+  - The somnolent setting makes the spa a perfect getaway for a relaxing retreat.
+  - The somnolent drone of the professor made it almost impossible for the students to stay awake during the lecture.
+  - After a day of skiing, my greatest pleasure is to spend a somnolent evening drinking a cup of hot chocolate by the fireside.
+  - When the mist parted, we were able to see a somnolent little village in the distant valley.
+  - The rainy weather went on for days, making all the citizens walk around in a somnolent daze.
+
+
+* [[https://wordsinasentence.com/sorcery-in-a-sentence/][Sorcery]]
+
+  =the utilization of magical abilities acquired from evil souls=
+
+  - The dark knight used sorcery to hypnotize the king.
+  - When the witch gave her tricks of sorcery to the murdered man, she urged him to seek revenge on his killers.
+  - The evil witchdoctor practices sorcery to control the tribespeople.
+  - If a person uses the magic of sorcery for wicked deeds, he or she may be consumed by dark souls.
+
+* [[https://wordsinasentence.com/spasmodic-in-a-sentence/][Spasmodic]]
+
+  =occurring in an erratic manner=
+
+  - Hopefully the medicine will control the number of spasmodic outbursts Henry has in class.
+  - People who have spasmodic seizures may have warning signs that alert them of the upcoming convulsions.
+  - Because Jim and I do not have a dating schedule, we consider ourselves to be sporadic daters.
+  - Days after the marathon, Kurt had spasmodic muscle contractions that occurred without warning.
+
+
+* [[https://wordsinasentence.com/spat-in-a-sentence/][Spat]]
+
+  =to quarrel or argue briefly=
+
+  - Most couples make it through their first spat just fine.
+  - It is often common for siblings to have a spat and start playing again shortly after.
+  - The police were called to the scene of a spat about barking dogs between two neighbors.
+  - Small spats can blow out of proportion quickly if there isn’t open communication between all parties involved.
+
+* [[https://wordsinasentence.com/spate-in-a-sentence/][Spate]]
+
+  =a series or large amounts of=
+
+  - A recent spate of employee changes left the company with an entirely new staff.
+  - Since the New Year, a spate of attacks on schools has left the entire country concerned.
+  - A spate of new homes has popped up in the area due to a boom in population.
+  - We hoped that the fighting would end, but a spate of new battles suggest the war won’t be over soon.
+
+
+* [[https://wordsinasentence.com/spear-in-a-sentence/][Spear]]
+
+  =to impale or pierce an object=
+
+  - The Native American used a long rod to spear the fish right out of the water.
+  - After he tried to spear and roast the hot dog several times, the hungry camper gave up and ate it raw.
+  - This time the knight succeeded in his attempt to spear the enemy with his sword.
+  - During an accidental fall, a sharp and jagged edge was able to spear the rock climber directly in his chest.
+
+
+* [[https://wordsinasentence.com/speck-in-a-sentence/][Speck]]
+
+  =a small particle=
+
+  - A speck of dirt flew in the runner’s eye, making it difficult for her to focus on finishing the race.
+  - The tiny speck of sand in my shoe was irritating enough to make me shake my shoes out.
+  - A speck of honey mustard was enough to give the sandwich a little flavor.
+  - As the star blew out, it shriveled up into a tiny speck of nothing.
+
+* [[https://wordsinasentence.com/spendthrift-in-a-sentence/][Spendthrift]]
+
+  =an individual who uses money in an irresponsible way=
+
+  - Because the lottery winner was a spendthrift, he spent his winnings in less than a year.
+  - The heiress is a spendthrift who once paid half a million dollars for a pair of shoes.
+  - Since my brother is a spendthrift, I must remind him to pay his bills before he goes shopping for clothes.
+  - My mother can’t be a spendthrift because she debates every purchase and never spends irresponsibly.
+
+* [[https://wordsinasentence.com/spew-in-a-sentence/][Spew]]
+
+  =to forcefully expel a large amount of something=
+
+  - The elephant gathered a great deal of water in its trunk so it could spew it at its offspring and help the baby clean itself.
+  - I had to spew out the water I was drinking when I took a breath at the wrong moment and nearly inhaled the liquid.
+  - The geysers in Yellowstone National Park will sporadically spew out streams of steaming water from below the surface.
+  - When a volcano erupts, it will spew out a humongous amount of lava, ash, and magma, often resulting in the destruction of any nearby settlements.
+
+* [[https://wordsinasentence.com/spiel-in-a-sentence/][Spiel]]
+
+  =a lengthy and extravagant speech or argument usually intended to persuade=
+
+  - The teacher gave his usual spiel about the importance of completing all assignments, but the students just yawned.
+  - Union protesters seemed even more enraged as the company representative gave his final spiel urging them to return to work.
+  - I listened to the car salesman's spiel but still refused to buy anything.
+  - Monotone and lengthy, the politician’s spiel did little to gain the support of the opposition.
+
+* [[https://wordsinasentence.com/spindly-in-a-sentence/][Spindly]]
+
+  =tall and thin=
+
+  - The dancer was tall and spindly, with thin legs that seemed to go up to her shoulders.
+  - Touching the spindly plant, the botanist observed its thin branches sticking out on every side.
+  - The spindly wooden chair was crafted to have long, thin legs and a tall back.
+  - Getting ready to start the race, the boy’s spindly legs looked as if they went on for miles.
+
+* [[https://wordsinasentence.com/spite-in-a-sentence/][Spite]]
+
+  =to purposefully hurt or offend someone=
+
+  - The bitter woman took her children out of the country just to spite her ex-husband for leaving her.
+  - Many congress members voted for a bill they had never read simply to spite the other party they hate so much.
+  - Convinced that her sister was hiding her clothing just to spite her, the irritated teen placed a lock on her closet door.
+  - To spite his teacher, the evil boy placed a tack in her seat and waited for her to sit down.
+
+* [[https://wordsinasentence.com/spleen-in-a-sentence/][Spleen]]
+
+  =an abdominal organ that produces lymphocytes and filters blood=
+
+  - A major part of the immune system, the abdominal spleen filters the body’s blood.
+  - Pressing under the patient’s ribcage, the doctor explained that his spleen is an organ that helps keep bodily fluid balanced.
+  - The spleen helps fight certain kinds of bacteria that cause both pneumonia and meningitis.
+  - Because the spleen is a storage for blood, the rupturing of this organ is a life-threatening emergency.
+
+
+
+
+* [[https://wordsinasentence.com/spree-in-a-sentence/][Spree]]
+
+  =a time period in which individual(s) engage in a great deal of something=
+
+  - When the crime spree ended six people were dead.
+  - The alcoholic consumed two gallons of whiskey during his last drinking spree.
+  - During my shopping spree, I visited nearly every store in the mall.
+  - Amazingly Jim sold six cars during his four hour selling spree.
+
+
+* [[https://wordsinasentence.com/squabble-in-a-sentence/][Squabble]]
+
+  =minor fight or argument=
+
+  - The old couple was known to squabble about even the most trivial things.
+  - You must not squabble about such simple things as who gets to sit in the front seat of the car.
+  - The brothers were known to squabble about who would be player one in their video game.
+  - When he became tired of her complaining, they would begin to squabble about everything.
+  - It may just seem like a squabble to you, but this argument is important to their future survival.
+  - Kids will squabble over the most ridiculous things.
+  - He always felt his wife was ready to squabble, which drove him to avoid going home on time.
+
+* [[https://wordsinasentence.com/squall-in-a-sentence/][Squall]]
+
+  =to cry or wail loudly=
+
+  - I left the house because the squall of our new born baby was grating on my nerves.
+  - The baby jumped up and let out a delightful squall when her mother walked into her room.
+  - Michael throws back his head and makes this childlike squall whenever he gets excited about something.
+  - Letting out a loud squall, the pirate swung his sword violently in every direction, terrifying his prisoners.
+
+* [[https://wordsinasentence.com/squalor-in-a-sentence/][Squalor]]
+
+  =poor and dirty conditions=
+
+  - Because the homeless man did not have running water, he was used to living in squalor.
+  - The selfish queen laughed when she learned the majority of her people lived in squalor with very little food.
+  - After the destructive hurricane, many people had no choice but to live in squalor.
+  - The man’s leg infection was made worse by the squalor of the unsanitary prison.
+  - Until the captured soldiers are rescued, they will more than likely be tortured and forced to live in squalor.
+  - The film director chose to film in black and white in order to show the squalor of the times during the economic depression.
+  - In that poverty-stricken country, over seventy-five percent of the people live in squalor and cannot afford food on a daily basis.
+
+* [[https://wordsinasentence.com/squeamish-in-a-sentence/][Squeamish]]
+
+  =easily made nauseous=
+
+  - My husband has a weak stomach and becomes squeamish whenever he sees blood.
+  - Because I am squeamish when it comes to violence, I do not watch boxing on television.
+  - My youngest daughter is extremely squeamish when she has to get a shot.
+  - When my sister was giving birth to her first child, her husband became squeamish and vomited in the delivery room.
+
+* [[https://wordsinasentence.com/squelch-in-a-sentence/][Squelch]]
+
+  =to halt, stop, eliminate=
+
+  - When Justin runs wildly around the house, it takes every ounce of my strength to squelch my urge to slap him.
+  - You must learn to squelch your fears in the army, or you will be laughed out of the brigade.
+  - The Roman general would not tolerate the uprising, and he sent his legions to squelch it with force.
+  - The mean remark made by my uncle only served to squelch my desire to offer him any further kind of assistance.
+
+* [[https://wordsinasentence.com/squint-in-a-sentence/][Squint]]
+
+  =to look with the eyes partly closed=
+
+  - Since the sun was shining bright into my eyes, I had to squint to see.
+  - When the eye doctor presented the eye chart, Kim had to squint to read the last line.
+  - If you have a tendency to squint when you read, you may need glasses.
+  - Molly will squint her eyes when she is deep in thought.
+
+* [[https://wordsinasentence.com/staid-in-a-sentence/][Staid]]
+
+  =serious, boring, or old-fashioned=
+
+  - In his business suit, my staid boyfriend looked out of place in the wild nightclub.
+  - The teenage girl thought the nursing home party sounded staid.
+  - Since my aunt is a nun, she always wears such a staid look on her face.
+  - Larry prefers the staid life of a country gentleman.
+  - If you want a lively bar and grill, then you should avoid this staid establishment that is run by a religious couple.
+  - Mike’s staid apartment is bare of furniture and completely lacking in color.
+  - When people describe my boss, they describe him as a staid man who never smiles.
+
+
+* [[https://wordsinasentence.com/stale-in-a-sentence/][Stale]]
+
+  =food that is no longer fresh and has become hard, dry, or otherwise unpleasant=
+
+  - Bread that has become hard, dry, and crusty is stale.
+  - Food items that are supposed to stay refrigerated become stale if left out for too long.
+  - Stale is a term most often used to refer to old bread that is no longer good to eat.
+  - It is obvious when bread has become stale because it is no longer soft.
+
+* [[https://wordsinasentence.com/stampede-in-a-sentence/][Stampede]]
+
+  =an unexpected movement of a group or to rush rowdily in a state of panic=
+
+  - It took over a dozen wranglers to stop the cattle stampede.
+  - When the shots rang out, there was a stampede as patrons fled the nightclub.
+  - The horses may run in a stampede if they are frightened.
+  - Since the store has only a few copies of the popular videogame, its manager is expecting a stampede when the doors are opened.
+
+* [[https://wordsinasentence.com/stanza-in-a-sentence/][Stanza]]
+
+  =a portion of a poem displayed in paragraph form=
+
+  - The first stanza of the poem introduces us to the misguided lovers.
+  - As I wrote the final stanza of the poem, I realized my words failed to deliver the message I wanted to imply.
+  - The second stanza of the poem contains rhyming lines.
+  - As a poetry teacher, my hardest task is getting students to write the first stanza because they often find it difficult to write the initial lines.
+
+* [[https://wordsinasentence.com/stature-in-a-sentence/][Stature]]
+
+  =a level of prestige earned for a deed or achievement=
+
+  - As a five-time Grammy winner, Aretha has a huge stature in the music community.
+  - Bucky enjoys the stature that comes with being the mayor of a small town.
+  - Even Sudhakar’s high stature in the company could not prevent him from losing his job.
+  - When the billionaire lost all of his money, he lost his stature in the social world.
+
+
+
+* [[https://wordsinasentence.com/staunch-in-a-sentence/][Staunch]]
+
+  =loyal, trustworthy, reliable, outstanding=
+
+  - Although Joseph considers himself to be a staunch Republican, he has not voted for a Republican candidate in over six years.
+  - Because Alice is a staunch fan of Sarah Wittier’s writing, she has read all of Wittier’s books.
+  - Since the two countries are staunch allies it is not surprising they will work together in the war to defeat their shared enemy.
+  - Laura is a staunch supporter of the pro-life movement because she feels abortions are a sin against God.
+  - The union has shown a staunch commitment to providing industrial workers with decent salaries and medical insurance.
+  - As a caring physician, Jim is a staunch believer in patient rights.
+  - The men and women who serve in our military are staunch defenders of our country.
+
+* [[https://wordsinasentence.com/steep-in-a-sentence/][Steep]]
+
+  =excessive or high=
+
+  - I can’t afford the steep rates at this hotel so I guess I’ll be sleeping in my car tonight.
+  - As soon as there was a steep decline in iPhone prices, everyone went out and purchased a new model.
+  - There is an elevator for hotel guests who can’t climb the steep stairs.
+  - Since Phil doesn’t earn a great deal of money, he should really consider whether or not he can afford such a steep car payment.
+
+* [[https://wordsinasentence.com/stench-in-a-sentence/][Stench]]
+
+  =a very unpleasant odor=
+
+  - The stench of the dead rat drove us from the house and into a hotel.
+  - Because the water from the lake has a foul stench, you shouldn’t drink it.
+  - If you’re in the chemistry lab and you smell the stench of rotten eggs, the odds are someone is using sulfur in an experiment.
+  - The stench of death was so strong the coroner had to wear a mask while examining the corpse.
+
+* [[https://wordsinasentence.com/stentorian-in-a-sentence/][Stentorian]]
+
+  =incredibly loud=
+
+  - The stentorian music was so loud it made my head hurt.
+  - During boot camp, we were often awakened by the stentorian voice of our drill sergeant.
+  - There was a stentorian noise, and the plane suddenly lost altitude.
+  - When my father speaks in a stentorian voice, I know I’m in trouble.
+
+* [[https://wordsinasentence.com/stickler-in-a-sentence/][Stickler]]
+
+  =an individual who insists a task should be completed in a certain manner=
+
+  - Because the drill sergeant is a stickler for details, he makes us check everything four times.
+  - Our company hired an efficiency expert who is a stickler for increasing productivity.
+  - A stickler for editorial rules, my aunt is a highly sought-after editor who counts several bestselling writers among her clients.
+  - If I’m placed in the blue cabin at camp, I won’t have any fun because the counselor of that cabin is a stickler for rules.
+
+* [[https://wordsinasentence.com/stiff-in-a-sentence/][Stiff]]
+
+  =physically inflexible or hard=
+
+  - By the time the criminal investigators uncovered the body it was already stiff with rigor mortis.
+  - A week after it was baked, the baguette was stiff enough to be used as a weapon.
+  - When Julie hugged her ex boyfriend, he became as stiff as a statue and refused to return her gesture.
+  - The businessman sprayed an excessive amount of starch on his collar to ensure it stayed stiff and firm throughout his important meeting.
+
+
+* [[https://wordsinasentence.com/stifling-in-a-sentence/][Stifling]]
+
+  =overpowering to the point of being suffocating or preventing progress=
+
+  - The hot temperature is so stifling it is pulling all the energy out of my body.
+  - Because of the stifling chains, the prisoner found it difficult to walk.
+  - Some medical researchers believe the reduction of animal testing will have a stifling effect on drug innovation.
+  - Since I have respiratory issues, I often find the odor of cigarette smoke to be quite stifling.
+
+* [[https://wordsinasentence.com/stoked-in-a-sentence/][Stoked]]
+
+  =thrilled and happy=
+
+  - “I was totally stoked by my doctor’s announcement that I hadn’t contracted Tuberculosis like I had once thought,” the patient said.
+  - As adrenaline junkies, surfers are always stoked to ride killer waves that are considered to be the riskiest and deadliest.
+  - After turning thirty years old, Kevin was stoked to hear that his wife was finally pregnant with their first baby.
+  - When the news came, Sarah was stoked to win the shopping spree especially since she had just lost her job.
+
+
+* [[https://wordsinasentence.com/stolid-in-a-sentence/][Stolid]]
+
+  =can't be moved to smile or show much sign of life=
+
+  - He was a stolid man who did not even show his emotions at his mother’s funeral.
+  - Although it takes a great deal to make me laugh, I would not consider myself to be a stolid person.
+  - Even though the homeless little girl appeared to be hungry, my father remained stolid and did not give her any money for food.
+  - Having seen his share of bloody crime scenes, the stolid police detective did not blink when he saw the five dead bodies.
+  - On the other hand, there are many who wish Americans were more stolid and less hot blooded.
+  - The judge was shocked by the killer’s stolid indifference to the death penalty conviction.
+  - Although the comedian told funny jokes, his audience was too stolid to appreciate his humor.
+
+* [[https://wordsinasentence.com/stoop-in-a-sentence/][Stoop]]
+
+  =a place to sit that usually is taller than a chair and does not have a back to it=
+
+  - The interior designer placed a stool at the breakfast bar in the newly remodeled kitchen.
+  - After painting the stool black, I scooted it underneath the tall table so that it could not be seen.
+  - “Grab a stool and get a soft drink,” said the friend as they gathered around the table to play trivia at the restaurant.
+  - Since seating was limited at the establishment, Sally awkwardly sat on the stool looking down at her friend sitting in the chair.
+
+* [[https://wordsinasentence.com/straggle-in-a-sentence/][Straggle]]
+
+  =to stray from the road, course or line of march=
+
+  - He was reprimanded for not staying in line, as he would often straggle through the hallway.
+  - When he visits a museum, he likes to straggle from one exhibit to another in no particular order.
+  - The cop had to stop the confused man as he continued to aimlessly straggle the streets.
+  - On the field trip, they had to wait for the rest of the class to straggle towards the meeting point.
+
+
+
+* [[https://wordsinasentence.com/strand-in-a-sentence/][Strand]]
+
+  =a single piece of something such as thread, rope, or hair=
+
+  - Since the wind caused her hair to blow in her face, a single strand of hair got caught in her left eye.
+  - Around Christmas time, we place a single strand of lights on the mantle above the fireplace.
+  - A strand of barbed wire was fastened to trees to enclose the property and keep trespassers out.
+  - To make a beaded bracelet, just add beads to a strand of beading wire and attach a clasp at the end.
+
+* [[https://wordsinasentence.com/strew-in-a-sentence/][Strew]]
+
+  =to spread or scatter things all over the place=
+
+  - During the toddler’s temper tantrum, she strew several papers all over the floor.
+  - When I finished mowing the lawn, I noticed the mower strew clumps of grass everywhere which I would have to clean up.
+  - The mother noticed that her young daughter did strew toys all over her room which explained the noise she heard that morning.
+  - Environmentalists were saddened to see people strew litter everywhere in the medians of the highways.
+
+
+* [[https://wordsinasentence.com/stricture-in-a-sentence/][Stricture]]
+
+  =a restriction or limit placed on an individual or thing=
+
+  - The military was called in to help enforce the curfew stricture ordered by the governor.
+  - In college, the students must obey the stricture forbidding alcohol on campus.
+  - The pet ownership stricture limits the number of pets that condominium owners can have.
+  - By placing a stricture on their children’s sugar intake, the parents hoped their actions would reduce dental problems.
+
+
+* [[https://wordsinasentence.com/strident-in-a-sentence/][Strident]]
+
+  =loud and harsh=
+
+  - The old man’s voice was so strident that I gritted my teeth every time he spoke to me.
+  - Even through the apartment walls, Jack was able to hear the strident argument between his neighbors.
+  - Our relationship will never go far if you continue to talk to me in such a strident tone!
+  - Since I had a headache, the bird’s chirping sounded quite strident to me.
+  - Because Jennie has a strident personality, she has few friends.
+  - The hungry baby’s cries sounded strident.
+  - In a strident voice, the police officer ordered the criminal to drop his weapon.
+
+* [[https://wordsinasentence.com/strife-in-a-sentence/][Strife]]
+
+  =struggle or conflict=
+
+  - A tactical team was sent in to end the strife between the two gangs.
+  - If the two countries do not put their strife to rest, they will cause the deaths of thousands of citizens.
+  - The priest listened calmly as the arguing couple told him about the strife in their marriage.
+  - When the political strife ended, the two parties were able to reach an agreement on the legislative bill.
+  - The strife between the coach and the quarterback negatively affected the team’s performance.
+  - As a mediator, Timothy has to come up with ways to end strife between opposing parties.
+  - The strife between the two brothers started when they fell in love with the same girl.
+
+* [[https://wordsinasentence.com/strut-in-a-sentence/][Strut]]
+
+  =a proud step or walk, with the head upright=
+
+  - The rooster would strut in the yard when trying to impress the hens.
+  - After he won the competition, he began his strut to the winner’s circle.
+  - Proud of her makeover, she would strut in front of the mirror for hours.
+  - After the boy learned to walk, he would strut about the house proudly.
+
+* [[https://wordsinasentence.com/stultify-in-a-sentence/][Stultify]]
+
+  =to cripple or weaken; deprive of strength=
+
+  - Eating pizza right before a workout will definitely work to stultify your efforts.
+  - A tranquilizer gun will effectively stultify even the most violent animals.
+  - If you accidentally drop your cell phone in water, you will effectively stultify it.
+  - By referencing actual statistics, he was able to stultify his opponent’s argument.
+  - A beautiful woman often holds the power to stultify even the most powerful man.
+  - Kryptonite is the only thing that will effectively stultify Superman.
+  - Mixing certain drugs may cause one to stultify the other, making it effectively worthless.
+
+
+* [[https://wordsinasentence.com/stunt-in-a-sentence/][Stunt]]
+
+  =a brave or clever act or deed=
+
+  - After the acrobat completed her stunt at the Barnum and Bailey Circus, everyone in the crowd applauded loudly.
+  - Killer whales are required to do a stunt together during a show at Sea World in front of a live audience.
+  - Evel Knievel performed a stunt where he rode his motorcycle through a flaming circle before landing past ten cars.
+  - When the magician was able to conduct his stunt in front of a large audience, they clapped when he was successful in making the woman disappear.
+
+* [[https://wordsinasentence.com/stupefy-in-a-sentence/][Stupefy]]
+
+  =to astonish to the point that a person's thinking ability is decreased=
+
+  - Seeing the naked woman was enough to stupefy the bus driver and cause him to drive off the road.
+  - Even my teacher did not know the answer to the trivia question that seemed to stupefy the game show contestants.
+  - Casinos offer free alcoholic drinks to stupefy patrons to the point that they are unaware of time and money spent.
+  - For a moment, it seemed as though the unusual medical condition would stupefy the inexperienced doctor.
+
+* [[https://wordsinasentence.com/stupendous-in-a-sentence/][Stupendous]]
+
+  =amazingly large=
+
+  - The store did not expect a stupendous throng of customers to line up around the building.
+  - Because the apartment fire was stupendous, four fire departments responded to the call.
+  - A stupendous smile crossed my daughter’s face when she realized her birthday present was a new car.
+  - When the singer saw the stupendous crowd at the front of the hotel, she insisted her driver take her to the back entrance.
+
+* [[https://wordsinasentence.com/stupor-in-a-sentence/][Stupor]]
+
+  =a condition in which it is difficult to think=
+
+  - In his drunken stupor, Mitch was unable to locate his car in the parking lot.
+  - The sedative was so strong it put Matt in a motionless stupor.
+  - Because Kim uses cocaine, she is often in a drug-induced stupor.
+  - Frank deals with the pain of his wife’s death by drinking himself into a stupor every night.
+  - After being hit in the head with an iron skillet, the burglar sat in a stupor until the police arrived.
+  - Jill was in a stupor for weeks when her husband died.
+  - Because Bill was in a drunken stupor, he did not notice the boy stealing his wallet.
+
+* [[https://wordsinasentence.com/sturdy-in-a-sentence/][Sturdy]]
+
+  =durable and tough=
+
+  - Kevin’s successful architectural plans were attributed to his sturdy table, steady hand and a creative brain.
+  - While shopping at the antique store, I put my hand on the sturdy table and realized it stood in place.
+  - Even a hurricane couldn’t knock down the old sturdy tree that had been planted in the center square for hundreds of years.
+  - Without breaking through, the sturdy wooden box held the fifty pounds of books while being transported from one house to another.
+
+* [[https://wordsinasentence.com/suavity-in-a-sentence/][Suavity]]
+
+  =the quality of being sweet or pleasing to the mind=
+
+  - His suavity and charm are what attracted many women.
+  - The designers wanted the lounge’s suavity to be evident in their sophisticated stylings.
+  - When they were introduced, the woman was astounded at the celebrity’s suavity and manners.
+  - My sister warned me not to be dazzled the prince’s false suavity.
+
+* [[https://wordsinasentence.com/sublimate-in-a-sentence/][Sublimate]]
+
+  =to change an objectionable expression into one that is acceptable=
+
+  - Rather than start an argument I chose to sublimate my anger by clenching my fists and walking away.
+  - The artist is known for his ability to sublimate his anger into his paintings.
+  - When Gail’s husband died, she tried to sublimate her grief by feeding the homeless.
+  - Jack learned to sublimate his anger by taking boxing lessons.
+
+* [[https://wordsinasentence.com/suborn-in-a-sentence/][Suborn]]
+
+  =successfully influence a person to commit a crime or do something wrong=
+
+  - Through her charm and evil ways, a greedy woman might suborn an innocent stranger to kill her husband in order to get her husband’s life insurance money.
+  - Due to the teen’s testimony, this evidence proved in court that the young man did suborn the teenager into committing robbery on his behalf.
+  - After the child was caught with the store’s unpaid clothing in her pocket, she became aware that her friend had suborn her into shoplifting.
+  - Even though most people thought Mary Surratt was involved in Lincoln’s assassination, some believed that others had suborn her unknowingly into the conspiracy.
+
+* [[https://wordsinasentence.com/subpoena-in-a-sentence/][Subpoena]]
+
+  =a legal document requiring an individual to appear in court=
+
+  - As soon as I received the subpoena, I knew I had to testify during the trial.
+  - Will they arrest my sister if she ignores the court's subpoena and does not take the witness stand?
+  - If you ignore the judge’s subpoena to appear in court, you will be arrested.
+  - The subpoena will force the unwilling witness to give testimony.
+
+* [[https://wordsinasentence.com/subsume-in-a-sentence/][Subsume]]
+
+  =to include or absorb something or someone into a larger group=
+
+  - Some think that Taiwan should fully subsume into China, but many of the Taiwanese are dead set on preserving their independence.
+  - Many Native Americans were able to survive the takeover of the Europeans by being willing to subsume into white culture.
+  - After years of being in a loveless marriage, the woman regretted her decision to subsume her own life into her husband’s.
+  - Mary decided to subsume her own family tree project into a much larger one that her cousin is working on.
+
+
+
+* [[https://wordsinasentence.com/subterfuge-in-a-sentence/][Subterfuge]]
+
+  =trickery or deceit used to manipulate or achieve one’s goals=
+
+  - Pinocchio’s lies and subterfuge caused his nose to grow longer and longer.
+  - The prisoners resorted to subterfuge, tricking the guards into letting them out of their cells.
+  - Full of trickery, the sly foxed used his subterfuge to sneak his way into the chicken coop.
+  - Subterfuge led by the deceitful media caused everyday people to be confused.
+  - If you don't want to be involved with the subterfuge, tell the truth.
+  - Done with the subterfuge, Kevin is going to come clean about his drug addiction.
+  - Teachers who rig tests are playing a role in the ever-growing subterfuge in the classroom.
+
+* [[https://wordsinasentence.com/sullen-in-a-sentence/][Sullen]]
+
+  =bad tempered and gloomy=
+
+  - The sullen criminal refused to follow the police officer’s instructions.
+  - When my toddler is sullen, he can usually be cheered by music.
+  - After being dumped by her boyfriend, Ellen was sullen for days.
+  - My attempts to talk to my angry son were met by his sullen silence.
+  - Everyone smiled when the clown made the sullen child laugh.
+  - In the dark room, John became sullen and withdrawn.
+  - Often Amy’s sullen personality and short temper will get her into trouble at school.
+
+* [[https://wordsinasentence.com/sunder-in-a-sentence/][Sunder]]
+
+  =split apart=
+
+  - The lumberjack will sunder the wood into pieces after he cuts the trees down.
+  - Sunder the loose leaf paper into several pieces to distribute among the members of the group.
+  - We can sever and sunder the timber to use some of it for shelves on each side of the bed.
+  - The orthopedic surgeon said that the fragmented sunder of the bone made the healing process difficult.
+
+* [[https://wordsinasentence.com/sundry-in-a-sentence/][Sundry]]
+
+  =a group of unrelated things=
+
+  - Because I was unsure of the San Francisco weather, I packed a sundry of clothing items to wear.
+  - The store at the summer camp facility will carry a number of sundry items just in case you forget something from home.
+  - Although the police department was accused of a variety of sundry charges, there was not sufficient evidence to bring a case against any of the officers.
+  - My grandmother decided to open a sundry store where people could buy an assortment of goods.
+  -  The woman’s purse held a huge quantity of sundry bits and pieces.
+  - When the business owner looked out his window, he saw a sundry lot of people holding picket signs outside of his building.
+  - Helen was surprised at how popular the sundry menu was at her international restaurant.
+
+* [[https://wordsinasentence.com/supererogatory-in-a-sentence/][Supererogatory]]
+
+  =actions that are considered good but are not strictly necessary=
+
+  - A supererogatory act includes extra credit work in class.
+  - The medic was a supererogatory hero for running back onto the battlefield to save soldiers after being ordered to withdraw.
+  - My supererogatory teacher went out of her way to print review sheets for all of us.
+  - The Medal of Honor is rarely awarded to someone that did not engage in supererogatory bravery.
+
+* [[https://wordsinasentence.com/superimpose-in-a-sentence/][Superimpose]]
+
+  =to put one image over another image so both are seen=
+
+  - When the graphic artist makes the ad, he will superimpose the company logo over the product’s image so both objects are visible.
+  - The software program makes it possible for users to superimpose their pictures into various scenes.
+  - If Bill is not careful, he will superimpose too many layers on the image and make it difficult for viewers to clearly see the icon.
+  - Since Riley continues to superimpose cruel comments on my online photos, my mother is going to call his parents.
+
+* [[https://wordsinasentence.com/superlative-in-a-sentence/][Superlative]]
+
+  =exceptionally good; excellent=
+
+  - She was a superlative student, getting nearly perfect grades on every assignment.
+  - The old sage had superlative wisdom, making him the go-to man for advice of all kinds.
+  - The winner of the Nobel Peace Prize must be a superlative person.
+  - Though his girlfriend had superlative grammar, her lack of social etiquette made her an embarrassment in social interactions.
+  - Being diagnosed with cancer, the man looked to find a doctor with a superlative record.
+  - He walked with a superlative flair, causing everyone to turn their heads as he passed by.
+  - With her experience in the field, she would be a superlative fit for the job.
+
+* [[https://wordsinasentence.com/supervise-in-a-sentence/][Supervise]]
+
+  =to watch and oversee=
+
+  - Each Sunday school teacher should supervise their class’s craft to ensure that it’s completed in time.
+  - Her husband felt the need to supervise her as she assembled the bookshelf for their son’s room.
+  - As the leader, Mr. Baker will supervise the charity dragon boat races on the bayou this Saturday.
+  - Especially careful since the installment of the new pool, he was sure to actively supervise the baby.
+
+* [[https://wordsinasentence.com/supplicate-in-a-sentence/][Supplicate]]
+
+  =to humbly plead for something=
+
+  - The homeless man was not too prideful to supplicate for change to buy food.
+  - Knowing I could not turn my paper in on time, I went to my professor to supplicate for an extension of the deadline.
+  - In his closing argument, the attorney will supplicate for his client’s freedom.
+  - Because Marcus is full of pride, he will never supplicate for financial assistance.
+  - The killer’s family came to court to supplicate for leniency for their loved one.
+  - Even though Jason has horrible grades, he still has the nerve to supplicate for a new car from his parents.
+  - The orphanage will hold a telethon to supplicate for much-needed donations.
+
+* [[https://wordsinasentence.com/surfeit-in-a-sentence/][Surfeit]]
+
+  =an overabundant supply=
+
+  - We had such a surfeit of food during the holidays that we gave a large portion of it to the family across the street.
+  - When the store manager accidently ordered a surfeit of pencils and pens, he was unable to sell the extra items and decided to donate them to a local school.
+  - Janet made use of the surfeit of holiday lights by decorating all the trees in her front yard.
+  - If you need additional towels, you will find a surfeit of them in the hall closet.
+  - The aid workers were not prepared for the surfeit of calls that came in after the hurricane.
+  - Because Katie ate a surfeit of candy bars, she now has a tummy ache.
+  - The charity would like to collect a surfeit of clothing to distribute to the homeless.
+
+* [[https://wordsinasentence.com/svelte-in-a-sentence/][Svelte]]
+
+  =slenderly graceful=
+
+  - The svelte model made her way across the runway with a graceful flare.
+  - After losing weight, the dancer appeared much more svelte and slender when moving.
+  - Because of his svelte physique, the slender runner was able to run swiftly down the track.
+  - The artists drew svelte lines down the canvas, creating slender figures throughout.
+
+* [[https://wordsinasentence.com/swagger-in-a-sentence/][Swagger]]
+
+  =a confident and usually arrogant attitude=
+
+  - Someone who is full of themselves walks around with swagger.
+  - If you walk with swagger you are probably confident in yourself.
+  - Most arrogant people talk and move with swagger because of how great they think they are.
+  - Someone with too much swagger definitely doesn’t have any self-esteem issues.
+
+* [[https://wordsinasentence.com/swank-in-a-sentence/][Swank]]
+
+  =showy and posh=
+
+  - She was showing off her new diamond engagement ring by flaunting it with arrogant swank.
+  - The model is very swank and fashionably elegant, but she can seem conceited and vain at times.
+  - With the impression that his money makes him superior, he carries himself with swank and swagger.
+  - The luxurious pair of shoes was very posh and swank, but they are too expensive for my budget.
+
+* [[https://wordsinasentence.com/swarthy-in-a-sentence/][Swarthy]]
+
+  =having a dark skin color or complexion=
+
+  - After the man had been stranded on the deserted island for nearly a year, his skin had become quite swarthy as a result of the sun’s heat.
+  - It was the first time the people in the all-white kingdom had seen anyone as swarthy as the African king.
+  - To the first American settlers, the native residents appeared swarthy in complexion.
+  - Shawna looked incredibly pale standing next to the swarthy islander.
+
+* [[https://wordsinasentence.com/swathe-in-a-sentence/][Swathe]]
+
+  =a bandage; a band=
+
+  - Wrapping the swathe around the wound, the good samaritan hoped that the bandage would hold until helped arrived.
+  - Placing a swathe around each bundle, the manufacturer took great pride in making sure the products were properly secured before shipping.
+  - Without a swathe to hold her still, the infant was unable to sleep soundly and tossed back and forth.
+  - Placing the swathe of velvet around her middle, the designer trusted that taking this risk would make her creation stand out from her rival’s design.
+
+* [[https://wordsinasentence.com/sway-in-a-sentence/][Sway]]
+
+  =control or dominion=
+
+  - Africa was under Britain’s sway for several decades during colonial times.
+  - Grunts in the military are under the sway of their commander.
+  - The CEO of a company holds sway over all of his employees.
+  - Many countries have held sway over others through occupation.
+
+* [[https://wordsinasentence.com/swelter-in-a-sentence/][Swelter]]
+
+  =to suffer terribly from intense heat=
+
+  - The beachgoers began to swelter in the afternoon sun.
+  - Without air conditioning, the family was forced to swelter in their hot house.
+  - The more the construction worker spent time in the sun, the more he would swelter beneath it.
+  - The woman packed light and airy clothing so as not to swelter on her Caribbean vacation.
+
+* [[https://wordsinasentence.com/swerve-in-a-sentence/][Swerve]]
+
+  =to change direction very suddenly=
+
+  - To avoid hitting the squirrel on the road, the car had to swerve to the left.
+  - You might have to swerve on your bike if something too big is in the way on the street.
+  - Many skaters have to swerve to avoid pedestrians on the sidewalks.
+  - The two planes that were flying at each other had to swerve at the last second during the air show.
+
+* [[https://wordsinasentence.com/swindle-in-a-sentence/][Swindle]]
+
+  =to deceive someone in order to take wealth from them=
+
+  - The con man makes his money with scams that swindle people out of their money.
+  - Scams on the internet are designed to swindle people and trick them into paying scammers money.
+  - You have to be careful when buying products on the internet, as some sellers may try to swindle you into paying more money than the product is worth.
+  - Some people pretend to be homeless or in trouble so they can swindle kind-hearted people out of their money.
+
+* [[https://wordsinasentence.com/swoop-in-a-sentence/][Swoop]]
+
+  =to rapidly dive downwards in the air=
+
+  - The falcon likes to swoop down on its prey from above to catch them off guard.
+  - A fighter jet might swoop down into a cloud to throw off an enemy.
+  - It’s probably bad if an airliner begins to swoop down out of the sky.
+  - You cannot swoop with a helicopter because a helicopter cannot dive.
+
+* [[https://wordsinasentence.com/sybaritic-in-a-sentence/][Sybaritic]]
+
+  =indulgent; luxurious=
+
+  - The sybaritic prince spared no expense, always splurging on luxurious things like camels and jewels.
+  - Though most of her family thought she was overly sybaritic, the luxury-loving heiress saw nothing wrong with living the high life.
+  - Out of all of the subarctic places I’ve visited, I had the most lavish experiences in Dubai.
+  - The sybaritic teen was robbed outside his home after flashing his jewels and fine cars all over Facebook.
+
+* [[https://wordsinasentence.com/synopsis-in-a-sentence/][Synopsis]]
+
+  =a short summary of a longer work=
+
+  - My teacher said my five-page digest of the book was entirely too long to be a synopsis.
+  - As per the teacher’s instructions, the synopsis of the film should not be more than two paragraphs long.
+  - The movie synopsis summed up the plot of the film in a single paragraph.
+  - Before I write the synopsis of the novel, I need to read the book to ensure I can write a brief review of the story.
