@@ -9,10 +9,14 @@
 #+HTML_DOCTYPE: <!DOCTYPE html>
 #+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
 #+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
- #+HTML: <div class="outline-2" id="meta">
+#+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">end</a>
+#+HTML: <a id="top"/>
 #+HTML: </div>
+
+
 
 
 * [[https://wordsinasentence.com/sagacious-in-a-sentence/][Sagacious]]
@@ -36,7 +40,7 @@
   - The salient feature on Johnny’s face is his huge nose.
   - As Janet debated which car to buy, she realized price was the most salient factor in her decision.
   - What do you believe is the author’s salient message he wants to convey in his latest novel?
-  - Even though Cheryl had been shaken up by the attack, she was still able to give the police a few salient facts about her attacker.
+  - Even though Cheryl *had been shaken up* =吓坏了= by the attack, she was still able to give the police a few salient facts about her attacker.
   - The salient feature of the getaway car was its bright orange color.
   - In my religion, the salient belief that stands as the basis of our faith is the death of Christ for our sins.
 
@@ -48,7 +52,7 @@
   - Vegetables are salubrious foods which provide essential nutrients.
   - While nuts are salubrious on a nutritional level, eating too many of them can cause you to gain unwanted weight.
   - Rumor has it that the spring waters in our community are salubrious and filled with healing oils.
-  -  Because of his religion, Hiram was a very salubrious eater who ate only vegetables and fruits.
+  - Because of his religion, Hiram was a very salubrious eater who ate only vegetables and fruits.
   - In cities where alcohol sales are prohibited, people tend to live longer and have more salubrious lives.
   - Because Elizabeth wanted to stay salubrious, she never missed her yearly physical with her doctor.
   - Although I have a small headache, I feel pretty salubrious for the most part.
@@ -170,8 +174,8 @@
   - Janet has no scruples about mistreating people who mistreat her.
   - Although Alan would like to participate in the challenge, his religious scruples will not allow him to participate in a drinking event.
   - Many individuals will ignore their scruples for the right price.
-  - Because Sylvester is a mercenary, he has no scruples about killing someone for money.
-  - Marshall’s religious scruples would not allow him to get a much-needed blood transfusion.
+  - Because Sylvester is a *mercenary*, he has no scruples about killing someone for money.
+  - Marshall’s religious scruples would not allow him to get a much-needed *blood transfusion*.
   - Since the swindler had no scruples, he was not concerned about selling the old woman a worthless life insurance policy.
   - My teenage daughter likes to joke and say her moral scruples prohibit her from doing chores.
 
@@ -192,7 +196,7 @@
   =to soothe or calm=
 
   - The shot should sedate the patient and allow him to sleep peacefully.
-  - When my baby is upset, I can usually sedate her by patting her back.
+  - When my baby is upset, I can usually sedate her by *patting her back*.
   - The only way to sedate the hostile dog was by putting him to sleep with a tranquilizer.
   - During an anxiety attack, you can sometimes sedate yourself by breathing slowly.
 
@@ -202,7 +206,7 @@
   =tempting; alluring=
 
   - Seductive plates full of scrumptious shrimp and mouthwatering steak made the guests mouth water.
-  - Seductive blobs of color drew the woman’s eyes to the most fascinating painting in the gallery.
+  - Seductive *blobs of color* drew the woman’s eyes to the most fascinating painting in the gallery.
   - Singing in a cool and seductive voice, Marilyn Monroe attracted every man in the room.
   - Low indoor lighting combined with candles and seductive music set the mood for a romantic weekend.
 
@@ -258,7 +262,7 @@
 
   =infected or contaminated with disease-causing organisms=
 
-  - After the wound became septic, it started oozing pus and turned green.
+  - After the wound became septic, it started oozing *pus* =脓= and turned green.
   - When working with a septic system, the workers wear suits to protect themselves from contaminants in the sewage.
   - You should wash and cover your wound to prevent it from becoming septic.
   - The doctor prescribed an antibiotic to cure my septic throat.
@@ -325,11 +329,11 @@
   =submissive; willing to serve others=
 
   - Some individuals are so servile that other people take advantage of their submissiveness.
-  - Because she has a servile disposition, Janet is a great nurse.
+  - Because she has a servile *disposition* =性情=, Janet is a great nurse.
   - Even though Michelle was no longer a maid, she still felt servile when she was in a room with wealthy people.
-  - Wives do not exist simply to be servile and to do their husbands’ bidding.
+  - Wives do not exist simply to be servile and to do their husbands’ *bidding* =吩咐=.
   - Since you pay me, I am willing to work for you and be servile from the hours of nine to five each day.
-  - A diehard people pleaser, Justine is servile by nature.
+  - A diehard *people pleaser* =讨好者=, Justine is servile by nature.
   - Because the billionaire’s personal assistant wants to keep her job, she always speaks to her boss in a servile tone.
 
 * [[https://wordsinasentence.com/shrivel-in-a-sentence/][Shrivel]]
@@ -339,14 +343,14 @@
   - Soaking in the bathtub for too long, the girl’s tiny fingers began to shrivel up like wrinkled sticks.
   - As they lay in the sun, the grapes began to shrivel into a raisin form.
   - Years of tanning in the sun had caused the woman’s skin to dry and shrivel.
-  - As summer turned into fall, the leaves began to shrivel and turn brown in the crisp air.
+  - As summer turned into fall, the leaves began to shrivel and turn brown in the *crisp air*.
 
 * [[https://wordsinasentence.com/shunt-in-a-sentence/][Shunt]]
 
   =to push or shove something=
 
   - It’s unfortunate that our society tends to shunt older workers to retirement before they are ready.
-  - The thirty something attempted to shunt the idea of marriage in hopes she would get a ring.
+  - The *thirty something* attempted to shunt the idea of marriage in hopes she would get a ring.
   - The car responsible for the rear-end crash shunt the other vehicle into oncoming traffic.
   - Lazy nurses tried to shunt the difficult patient’s onto assistants while they gossiped in the back.
 
@@ -363,10 +367,10 @@
 
   =slanted, crooked=
 
-  - Because we didn’t use a level when hanging it, the picture was skew on the wall.
+  - Because we didn’t use a *level* =水平仪= when hanging it, the picture was skew on the wall.
   - The peculiar man was well known for his crooked cowboy hat that sat skew on top of his head.
   - I was irritated by the skew book on the shelf that refused to stand up straight.
-  - Although I tried my best to keep all of the dominoes parallel, a skew piece called all of the others to come tumbling down.
+  - Although I tried my best to keep all of the dominoes parallel, a skew piece called all of the others to come *tumbling down*.
 
 
 * [[https://wordsinasentence.com/skinflint-in-a-sentence/][Skinflint]]
@@ -374,7 +378,7 @@
   =a person who spends as little money as possible=
 
   - The skinflint refused to spend money, even on things that are necessary.
-  - A hardnosed skinflint, the penny-pincher refused to pay full price for anything.
+  - A *hardnosed* skinflint, the penny-pincher refused to pay full price for anything.
   - The woman’s husband is a skinflint and refuses to give her money for groceries or utilities.
   - Scrooge was a skinflint who refused to spend a dime on anyone but himself.
 
@@ -385,7 +389,7 @@
   - Because the roofer performed a slipshod repair job, we had a leak in the kitchen within hours.
   - This is a very important task so please do not perform it in a slipshod manner.
   - If you turn in a slipshod project for your final assignment, you will probably not pass the class.
-  - Jim’s awful presentation of the poem revealed his slipshod preparation for poetry night.
+  - Jim’s awful presentation of the poem revealed his slipshod preparation for poetry last night.
 
 
 * [[https://wordsinasentence.com/slovenly-in-a-sentence/][Slovenly]]
@@ -393,7 +397,7 @@
   =having a dirty appearance=
 
   - The man’s slovenly dress was a result of him being homeless for a month.
-  - Because Jan is a pet hoarder, with over twenty cats, it is not surprising that she lives in a slovenly home.
+  - Because Jan is a *pet hoarder*, with over twenty cats, it is not surprising that she lives in a slovenly home.
   - In the animated series, the slovenly dark-skinned child always has a puff of dirt following him.
   - Although Warren is very wealthy, he still lives in the slovenly neighborhood where he grew up as an underprivileged youth.
   - Since Bridgett spends most of her time in class, she rarely cleans her slovenly dorm room.
@@ -416,7 +420,7 @@
   - When the camp leader decided he needed to smother the fire before going to bed, he took his booted foot and stomped it out.
   - Taking a pillow to smother the victim by holding it firmly on top of her face is one way to cause the victim to die since she can’t breathe.
   - By rubbing thick Vaseline over the tick under my skin that caused it to smother since it was trapped without oxygen.
-  - Instead of blowing out the candle, I placed a small cup over the entire wick in order to smother the flame.
+  - Instead of blowing out the candle, I placed a small cup over the entire *wick* =灯芯= in order to smother the flame.
 
 * [[https://wordsinasentence.com/smug-in-a-sentence/][Smug]]
 
@@ -432,8 +436,8 @@
   =the ignoring or brushing off of someone=
 
   - The waitress insisted that her lack of attentiveness to the table wasn’t a snub, but an accidental oversight.
-  - The ignoring of the new student was an intentional snub, as the hateful girls refused to allow anyone into their cliché.
-  - When the newlywed turned her nose up to her mother-in-law’s dinner offer, the snub offended everyone in the family.
+  - The ignoring of the new student was an intentional snub, as the hateful girls refused to allow anyone into their clique.
+  - When the newlywed *turned her nose up* =嗤之以鼻= to her mother-in-law’s dinner offer, the snub offended everyone in the family.
   - The endorsement of the unknown candidate by many local affiliates felt like a snub to the local contender.
 
 * [[https://wordsinasentence.com/snug-in-a-sentence/][Snug]]
@@ -470,7 +474,7 @@
 
   =full of anxiety and concern=
 
-  - I am going to keep a solicitous eye out for criminals in this hard-hit neighborhood.
+  - I am going to keep a solicitous eye out for criminals in this *hard-hit* =受失业问题打击严重的= neighborhood.
   - The solicitous mother did not want her young daughter going out on a date.
   - My girlfriend gets solicitous when I drink too much.
   - Nothing makes me more solicitous right now than my depressing financial situation.
@@ -503,7 +507,7 @@
 
   =able to pay all financial obligations=
 
-  - When the man realized he was not solvent and was unable to provide for his wife and kids, he killed himself.
+  - When the man realized he was not solvent and was unable to *provide for* =供养= his wife and kids, he killed himself.
   - Rick refused to sell his solvent company because it was so profitable.
   - Because the restaurant is not solvent, it will be closing in two weeks.
   - The computer company was able to remain solvent for three years before closing its doors.
@@ -526,20 +530,20 @@
 
   - Even without a microphone, the singer’s sonorous voice filled the entire room.
   - Because Hank has a sonorous pleasant-sounding voice, he is often paid to narrate television commercials.
-  - I wear earplugs so my husband’s sonorous snoring does not keep me awake at night.
+  - I wear *earplugs* so my husband’s sonorous snoring does not keep me awake at night.
   - When the doctors heard the patient’s sonorous breathing, they knew he needed oxygen immediately.
   - The lion’s sonorous rumble startled the small children in the zoo.
   - When a sonorous sound came from the volcano, the residents of the village knew it was time to evacuate the area.
-  - The town crier had a loud sonorous voice that was easily heard throughout the  town.
+  - The *town crier* =城市公告员= had a loud sonorous voice that was easily heard throughout the  town.
 
 * [[https://wordsinasentence.com/soothe-in-a-sentence/][Soothe]]
 
   =to calm or ease=
 
-  - The calming aloe vera plant is used be people all over the world to soothe burns and skin irritations.
-  - Try as I might, I could not soothe the colicky infant who continued to cry.
+  - The calming *aloe vera* =芦荟= plant is used be people all over the world to soothe burns and skin irritations.
+  - Try as I might, I could not soothe the *colicky* infant who continued to cry.
   - An apology did little to soothe the woman’s hurt feelings or mend the grudge between the feuding siblings.
-  - Alternating between heat and cool compresses is said to soothe the aching in the lower lumbar region.
+  - Alternating between heat and cool *compresses* =敷布= is said to soothe the aching in the lower *lumbar* region.
 
 * [[https://wordsinasentence.com/sophomoric-in-a-sentence/][Sophomoric]]
 
@@ -568,7 +572,7 @@
 
 * [[https://wordsinasentence.com/spartan-in-a-sentence/][Spartan]]
 
-  =reflective of vast self-denial=
+  =reflective of vast *self-denial* (克己)=
 
   - The décor in my apartment is spartan because I don’t have a lot of money for furnishings.
   - As a soldier, Mark is used to traveling with spartan supplies.
@@ -2610,3 +2614,10 @@
   - As per the teacher’s instructions, the synopsis of the film should not be more than two paragraphs long.
   - The movie synopsis summed up the plot of the film in a single paragraph.
   - Before I write the synopsis of the novel, I need to read the book to ensure I can write a brief review of the story.
+
+
+
+
+* :)
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">top</a>

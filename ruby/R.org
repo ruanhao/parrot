@@ -12,6 +12,8 @@
  #+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">end</a>
+#+HTML: <a id="top"/>
 #+HTML: </div>
 
 
@@ -2709,3 +2711,9 @@
   - When the ruthless company president refused to stop selling unsafe drugs, the government threatened to imprison him.
   - The dictator is ruthless and will kill anyone who challenges his authority.
   - In prison, the ruthless guards will abuse you if they don’t receive protection money from your family.
+
+
+
+* :)
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">top</a>
