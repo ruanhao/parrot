@@ -12,7 +12,7 @@
 #+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
-#+HTML: <a href="#bottom">end</a>
+#+HTML: <a href="#bottom">⇩</a>
 #+HTML: <a id="top"/>
 #+HTML: </div>
 
@@ -611,7 +611,7 @@
   - If we don’t manage the bushes, they'll sprawl onto our neighbor’s property.
   - The troublesome vines have started to sprawl over the fence.
   - Once finished, the huge amusement park will sprawl over more than 400 acres.
-  - My kitten will sometimes sprawl across my laptop and use it as a nap spot.
+  - My kitten will sometimes *sprawl* =伸展四肢= across my laptop and use it as a nap spot.
 
 * [[https://wordsinasentence.com/sprout-in-a-sentence/][Sprout]]
 
@@ -630,7 +630,7 @@
   - We are having guests so please spruce up before dinner.
   - As soon as the spruce man walked in the room, everyone started to comment about his stylish appearance.
   - A new coat of paint should spruce up the old church.
-  - The necklace will spruce up the black dress and give you a more sophisticated look.
+  - The necklace will *spruce up* =打扮整齐= the black dress and give you a more sophisticated look.
 
 * [[https://wordsinasentence.com/spurious-in-a-sentence/][Spurious]]
 
@@ -639,7 +639,7 @@
   - After receiving a low appraisal on my diamond ring, I realized the suspicious-looking jeweler had sold me a spurious jewel.
   - The con artist made a spurious claim about being a member of the royal family.
   - Despite the spurious statement the suspect made about his whereabouts on the night of the murder, the police had to release him because of a lack of evidence.
-  - Everyone knows Janice is trying to pass her spurious designer handbag off as the real thing.
+  - Everyone knows Janice is trying to *pass her spurious designer handbag off as* =卖假货= the real thing.
   - Recently, some weight loss drugs were taken off the market because of spurious statements made by the manufacturers.
   - The so-called historical document looked spurious to me because it was written on printer paper.
   - Because they want to attract readers, many bloggers often make up spurious headlines.
@@ -648,13 +648,13 @@
 
   =to reject; turn down=
 
-  - Mikey is such a picky eater that he will spurn everything except chicken nuggets and ice cream.
+  - Mikey is such a picky eater that he will spurn everything except *chicken nuggets* and ice cream.
   - Even after you spurn this so-called charity’s request for donations, they continue to hound you every week.
   - I’ll never understand why my cousin chose to spurn the chance to join us on our family cruise to the Bahamas.
   - During the 1960s, young people began to spurn the traditions of previous generations, and the Hippy movement was born.
   - Just because you were afraid of everything as a kid, you shouldn’t spurn the idea of taking your son to Disneyland.
-  - In spite of the fact that everyone knew that any suitor the princess decided to spurn would be sent to fight the red dragon, there was still always a line of hopeful young wooers eager to take on the challenge.
-  - The political tension in the Middle East is heightened by the current leaders’ tendencies to spurn all overtures to peace.
+  - In spite of the fact that everyone knew that any *suitor* =求婚者= the princess decided to spurn would be sent to fight the red dragon, there was still always a line of hopeful young wooers eager to take on the challenge.
+  - The political tension in the Middle East is heightened by the current leaders’ tendencies to spurn all *overtures* =友好姿态= to peace.
 
 * [[https://wordsinasentence.com/squalid-in-a-sentence/][Squalid]]
 
@@ -676,7 +676,7 @@
   - Eddie has a tendency to squander his entire allowance on comic books and action figures.
   - Since the beginning of human existence, the abundance of nature has inspired us to squander our natural resources, which is why we’re in the mess we’re in now.
   - Dina didn’t want to squander her good mood in the darkness of a movie theater, so she persuaded her friends to go dancing instead.
-  - I couldn’t believe it when I heard that the young virtuoso had decided to squander his talent as a violinist and become a game show host.
+  - I couldn’t believe it when I heard that the young *virtuoso* had decided to squander his talent as a violinist and become a game show host.
   - There are a lot of deceitful characters out there who prey on the elderly in an effort to get them to squander what little money they have from their pensions or Social Security.
   - When the head of the company decided to invest in all-new technology in every department, the Chief Financial Officer was afraid that he was about to squander all the profits.
 
@@ -687,7 +687,7 @@
   - Because John needs more money and his current salary has been stagnant for three years, he is looking for a new job.
   - Sometimes when I feel my life is stagnant and not going anywhere, I will talk to my psychologist so I can honestly reflect upon my situation.
   - Although the economy appears to be stagnant among the middle classes, it seems as though the rich are getting richer.
-  - Two days after the storm, the stagnant water puddles are still in my front yard.
+  - Two days after the storm, the stagnant *water puddles* are still in my front yard.
   - Since the legislators are focusing on their battles with each other, progress on the budget proposal has been stagnant.
   - On the hottest day of the year the air was stagnant without a breeze in sight.
   - As my mother looked at the rising food prices and her empty bank account, she noticed her paycheck had remained stagnant for years.
@@ -748,7 +748,7 @@
   =to insist upon something as a condition of an agreement=
 
   - The owners may stipulate a huge deposit as a condition of the purchase agreement.
-  - Before I agree to close the deal, I must stipulate a few requirements that must be met before I sign on the dotted line.
+  - Before I agree to close the deal, I must stipulate a few requirements that must be met before I sign on the *dotted line*.
   - The contracts of the baseball players stipulate they must attend all practices and games.
   - The software company’s policies stipulate employees must take two fifteen-minute breaks a day.
   - Carl’s probation terms stipulate he must adhere to a curfew and report to his probation officer once a week.
@@ -759,7 +759,9 @@
 
   =sturdy and solid shape usually in humans or animals=
 
-  - With a stocky frame, her blind date was rather short but it looked like he could bench press over 200 pounds.
+  =矮壮的=
+
+  - With a stocky frame, her blind date was rather short but it looked like he could *bench press* =仰卧推举= over 200 pounds.
   - Even though the stocky dog was a cute poodle, he knocked me over after jumping up on me.
   - Sam was picked for the kickball team due to his stocky body type which made his teammates believe he could kick a homerun.
   - As the stocky horse rounded the corner of the racetrack, his muscle bulged through his shiny brown fur.
@@ -1011,7 +1013,7 @@
 
   =to kick out or replace in a rough manner=
 
-  - If my stepmother thinks she can supplant my real mother, then she has a rude awakening in her future!
+  - If my stepmother thinks she can supplant my real mother, then she has a *rude awakening* =如梦初醒= in her future!
   - A text message cannot supplant an actual phone call because it is incapable of expressing emotion.
   - Because the dictator was afraid his enemies might supplant him, he decided to kill all of his rivals.
   - The army is here to support the local police not to supplant its position as a body of authority.
@@ -1035,12 +1037,12 @@
 
   =pleading, begging=
 
-  - After watching Tucker fail miserably because he had made bold demands, I decided to take a more suppliant tactic in asking for a raise.
+  - After watching Tucker fail miserably because he had made bold demands, I decided to take a more suppliant tactic in *asking for a raise* =要求加薪=.
   - Meek and suppliant, the best man admitted he had forgotten the ring and begged the bride and groom for forgiveness.
   - In the movie Forrest Gump, Forrest’s mother refuses to be suppliant when she demands what is best for her son, but she does agree to some incentives.
   - The farmers and other members of the community gathered in the church and knelt together to say a suppliant prayer for rain.
   - On Good Friday, many religious pilgrims come to this mountain to make a suppliant climb on their knees to pray at the foot of the cross.
-  - Abel approached Rebecca’s father in a courteous, suppliant way to ask for her hand in marriage.
+  - Abel approached Rebecca’s father in a courteous, suppliant way to *ask for her hand in marriage*.
   - Because she was in the mood for lobster, Barbara made a suppliant request for her date to order it for her.
 
 * [[https://wordsinasentence.com/surly-in-a-sentence/][Surly]]
@@ -1048,7 +1050,7 @@
   =ill-tempered and irritable=
 
   - The surly man was yelling at the waitress because he didn’t get the right order from the restaurant.
-  - Your usually cheerful dog may act surly if it has a splinter in its paw.
+  - Your usually cheerful dog may act surly if it has a *splinter* in its paw.
   - Most people tend to act surly in the morning if they aren’t used to waking up early.
   - Someone with a headache may have surly attitude if everyone around them is too loud.
 
@@ -1059,7 +1061,7 @@
 
   - Good teachers encourage students to surmount their challenges.
   - By taking a course in French, I hope to be able to surmount the language barrier when I move to Paris.
-  - The motivational speaker led Jim to believe he could surmount any personal issues.
+  - The *motivational speaker* =励志演说家= led Jim to believe he could surmount any personal issues.
   - To become healthy, Ann will need to surmount her poor eating habits.
   - One of Janet’s goals is to surmount her fear of flying so she can finally go to Australia.
   - After being shot in the back, the police officer will have to surmount many difficulties before he can walk again.
@@ -1069,7 +1071,7 @@
 
   =kept secret and marked by quiet and caution=
 
-  - The dog has his surreptitious ways of stealing table scraps behind my back.
+  - The dog has his surreptitious ways of stealing *table scraps* =残羹剩饭= behind my back.
   - After hitting the lottery, the private family hoped to keep their surreptitious winnings to themselves.
   - Your surreptitious drug habits will not stay unknown for long.
   - The team began a surreptitious search for the suspect but did not tell the media.
@@ -1099,7 +1101,7 @@
 
   =a person who tries to get what they want by excessively praising or complimenting someone in order to make them feel attractive or important=
 
-  - Because she always kisses up to the teacher, Janice is considered the sycophant in first period.
+  - Because she always *kisses up to* the teacher, Janice is considered the sycophant in first period.
   - My sister is a shallow sycophant who will flatter anyone for a free designer handbag.
   - While it helps to be a sycophant if you want to excel in politics, you can also go far simply by being straightforward with people.
   -  The rapper’s assistant was a sycophant who offered his boss compliments at every turn.
@@ -1111,18 +1113,18 @@
 
   =relationship of mutual benefit=
 
-  -  The trade that peacefully occurs between the two warring tribes is viewed as an example of symbiosis.
+  - The trade that peacefully occurs between the two warring tribes is viewed as an example of symbiosis.
   - At the nursing home, we witnessed an extraordinary symbiosis between young children and senior citizens with each group nurturing each other.
   - The unique voice of each choir member came together in symbiosis to make what sounded like a perfect note to the audience.
-  - Because the symbiosis that existed between country record labels and radio stations is not as strong as it once was, we do not hear a lot of country music on the radio today.
+  - Because the symbiosis that existed between country *record labels* =唱片公司= and radio stations is not as strong as it once was, we do not hear a lot of country music on the radio today.
   - The symbiosis between the two comedians allowed them to entertain the audience as a solo act instead of as competing performers.
-  -  During the long war, the two small nations engaged in a symbiosis that afforded them the strength to beat a much larger foe.
-  - Everyone predicts the symbiosis between the candidate and his running mate will allow the two underdogs to carry the election.
+  - During the long war, the two small nations engaged in a symbiosis that afforded them the strength to beat a much larger foe.
+  - Everyone predicts the symbiosis between the candidate and his *running mate* =竞选伙伴= will allow the two *underdogs* =比赛前不被看好的人= to carry the election.
 
 
 * [[https://wordsinasentence.com/sacrament-in-a-sentence/][Sacrament]]
 
-  =a formal religious rite or ceremony=
+  =a formal religious *rite* or ceremony=
 
   - According to the church, April can’t receive the communion sacrament because she is a divorced woman.
   - We stood in front of our families and friends and took the sacrament of marriage.
@@ -1155,7 +1157,7 @@
   =to droop down to a lower level=
 
   - The sandcastle began to sag in the middle as water filled the top of the construction.
-  - The tired worker drifted off to sleep and his eyelids began to droop and sag down low.
+  - The tired worker *drifted off to sleep* =不知不觉入睡= and his eyelids began to droop and sag down low.
   - As the holiday season passed, the store’s sales started to sag.
   - Powerful rain caused the tent to sag down, almost to the point of collapsing.
 
@@ -1166,7 +1168,7 @@
   - Models for the cosmetic company were required to use a salve in order to have flawless skin for the commercials.
   - Almost every day in winter I would need to use salve on my dry, crackling skin so that it would be moisturized.
   - Compared to lotion, the salve contained a higher concentration of oil and wax instead of water.
-  - The Miracles Salve Corporation swore that their product would cure any skin condition like psoriasis and eczema.
+  - The Miracles Salve Corporation swore that their product would cure any skin condition like *psoriasis* and *eczema*.
 
 * [[https://wordsinasentence.com/sangfroid-in-a-sentence/][Sangfroid]]
 
@@ -1174,7 +1176,7 @@
 
   - Even as the building fell around him, the fireman maintained his sangfroid and rescued the little girl.
   - The surgeon knew he had to keep his sangfroid during the complicated surgery.
-  - Although Jane was nervous standing in front of the judge, she held on to her sangfroid and did not let her nerves get the best of her.
+  - Although Jane was nervous standing in front of the judge, she held on to her sangfroid and did not let her nerves *get the best of her*.
   - The police officer showed incredible sangfroid when he calmly took on the biker gang without any assistance.
   - At eight, my little girl is already a skilled liar who can keep her sangfroid without blinking during parental interrogation.
   - Jake’s sangfroid led his principal to believe he was not concerned about his suspension.
@@ -1220,7 +1222,7 @@
 
   - My family’s huge get-togethers are filled with so much food, they can sate the hungriest person.
   - I need a glass of ice water to sate my thirst.
-  - I couldn’t decide on a meal, so I ordered the tasting menu which was sure to sate my appetite.
+  - I couldn’t decide on a meal, so I ordered the *tasting menu* which was sure to sate my appetite.
   - Because he is always hungry, I will never be able to give my dog enough food to sate him.
 
 * [[https://wordsinasentence.com/saucy-in-a-sentence/][Saucy]]
@@ -1230,7 +1232,7 @@
   - With a saucy attitude, the waitress was able to engage and irritate customers at the same time.
   - The comedian’s saucy one-liners came off as rude to some and entertaining to others.
   - Saucy and sharp-tongued, the feisty girl used her quick wit and temper to protect her heart from others.
-  - The once sweet child was now saucy, with a sassy and cheeky response to every question she is asked.
+  - The once sweet child was now saucy, with a *sassy* and cheeky response to every question she is asked.
 
 
 * [[https://wordsinasentence.com/savvy-in-a-sentence/][Savvy]]
@@ -1246,7 +1248,7 @@
 
   =lewd and obscene=
 
-  - The scabrous magazine was regarded as a lecherous and vulgar publication.
+  - The scabrous magazine was regarded as a *lecherous* and vulgar publication.
   - After a few scabrous jokes, the appalled couple walked out of the offensive comedy show.
   - Some readers found the crude material too scabrous for their taste while others thought the writing was interesting.
   - Indecent drawings filled the scabrous gallery and made even the most open minded viewer blush from embarrassment.
@@ -1257,9 +1259,9 @@
   =to be hurt by a scorching fluid=
 
   - Even the smallest splash of hot oil on my skin would scald it causing severe burns.
-  - Tricia turned the shower’s hot water knob full blast which could scald her scalp.
+  - Tricia turned the shower’s hot water *knob* *full blast* =全速冲刺= which could scald her scalp.
   - Cooking the meat for twenty minutes longer than the recipe called for would scald it and dry it out.
-  - Big spoonfuls of steaming, hot oatmeal scald my tongue and blistered it.
+  - Big spoonfuls of steaming, hot oatmeal scald my tongue and *blistered* it.
 
 * [[https://wordsinasentence.com/scamp-in-a-sentence/][Scamp]]
 
@@ -1290,7 +1292,7 @@
   - After the critic saw the play, he described it as a scintillating masterpiece that captivates with each line of witty dialogue.
   - The drunks at the bar are impressed by their own scintillating chatter.
   - During the comedic roast, the entertainer was amused by his friends’ scintillating comments about his personal life.
-  - The comedy show’s ratings have dropped because the sketches are not as scintillating as they once were.
+  - The comedy show’s ratings have dropped because the *sketches* =幽默短剧= are not as scintillating as they once were.
 
 * [[https://wordsinasentence.com/scowl-in-a-sentence/][Scowl]]
 
@@ -2610,6 +2612,5 @@
 
 
 
-* :)
 #+HTML: <a id="bottom"/>
-#+HTML: <a href="#top">top</a>
+#+HTML: <a href="#top">⇧</a>
