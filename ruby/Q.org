@@ -12,6 +12,8 @@
  #+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
 #+HTML: </div>
 
 
@@ -233,3 +235,7 @@
   - Compared to the process of shopping for their time share, the couple found it difficult to sit through the quotidian necessity of ironing out the details in the contract.
   - Because Arthur has a simple quotidian talent for painting, he prefers to create art for his own enjoyment rather than exhibiting it to the public.
   - Emily has an admirable enthusiasm for life, and she attacks even the most quotidian of chores with energy and passion.
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

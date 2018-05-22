@@ -12,7 +12,7 @@
  #+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
-#+HTML: <a href="#bottom">end</a>
+#+HTML: <a href="#bottom">⇩</a>
 #+HTML: <a id="top"/>
 #+HTML: </div>
 
@@ -2714,6 +2714,5 @@
 
 
 
-* :)
 #+HTML: <a id="bottom"/>
-#+HTML: <a href="#top">top</a>
+#+HTML: <a href="#top">⇧</a>

@@ -1,0 +1,1455 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>U</title>
+<!-- 2018-05-22 Tue 21:50 -->
+<meta  charset="utf-8">
+<meta  name="generator" content="Org-mode">
+<meta  name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">U</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Ubiquitous</a></li>
+<li><a href="#sec-2">2. Ulterior</a></li>
+<li><a href="#sec-3">3. Umbrage</a></li>
+<li><a href="#sec-4">4. Unbecoming</a></li>
+<li><a href="#sec-5">5. Unbridled</a></li>
+<li><a href="#sec-6">6. Uncanny</a></li>
+<li><a href="#sec-7">7. Uncharted</a></li>
+<li><a href="#sec-8">8. Unctuous</a></li>
+<li><a href="#sec-9">9. Underlie</a></li>
+<li><a href="#sec-10">10. Undermine</a></li>
+<li><a href="#sec-11">11. Understatement</a></li>
+<li><a href="#sec-12">12. Unearth</a></li>
+<li><a href="#sec-13">13. Unencumbered</a></li>
+<li><a href="#sec-14">14. Unequivocal</a></li>
+<li><a href="#sec-15">15. Unerring</a></li>
+<li><a href="#sec-16">16. Uneven</a></li>
+<li><a href="#sec-17">17. Uneventful</a></li>
+<li><a href="#sec-18">18. Unfeigned</a></li>
+<li><a href="#sec-19">19. Unfettered</a></li>
+<li><a href="#sec-20">20. Ungainly</a></li>
+<li><a href="#sec-21">21. Unimpeachable</a></li>
+<li><a href="#sec-22">22. Uninitiated</a></li>
+<li><a href="#sec-23">23. Unobtrusive</a></li>
+<li><a href="#sec-24">24. Unpretentious</a></li>
+<li><a href="#sec-25">25. Unremitting</a></li>
+<li><a href="#sec-26">26. Unscathed</a></li>
+<li><a href="#sec-27">27. Unscrupulous</a></li>
+<li><a href="#sec-28">28. Unseemly</a></li>
+<li><a href="#sec-29">29. Unstinting</a></li>
+<li><a href="#sec-30">30. Untenable</a></li>
+<li><a href="#sec-31">31. Unwieldy</a></li>
+<li><a href="#sec-32">32. Unwitting</a></li>
+<li><a href="#sec-33">33. Unwonted</a></li>
+<li><a href="#sec-34">34. Unyielding</a></li>
+<li><a href="#sec-35">35. Urbane</a></li>
+<li><a href="#sec-36">36. Unaffected</a></li>
+<li><a href="#sec-37">37. Unassuming</a></li>
+<li><a href="#sec-38">38. Unconscionable</a></li>
+<li><a href="#sec-39">39. Uncouth</a></li>
+<li><a href="#sec-40">40. Undulate</a></li>
+<li><a href="#sec-41">41. Unflappable</a></li>
+<li><a href="#sec-42">42. Unison</a></li>
+<li><a href="#sec-43">43. Unkempt</a></li>
+<li><a href="#sec-44">44. Unprepossessing</a></li>
+<li><a href="#sec-45">45. Unravel</a></li>
+<li><a href="#sec-46">46. Unrepentant</a></li>
+<li><a href="#sec-47">47. Upbraid</a></li>
+<li><a href="#sec-48">48. Upheaval</a></li>
+<li><a href="#sec-49">49. Upright</a></li>
+<li><a href="#sec-50">50. Uproar</a></li>
+<li><a href="#sec-51">51. Uproarious</a></li>
+<li><a href="#sec-52">52. Utter</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Ubiquitous</a></li>
+<li><a href="#sec-2">2. Ulterior</a></li>
+<li><a href="#sec-3">3. Umbrage</a></li>
+<li><a href="#sec-4">4. Unbecoming</a></li>
+<li><a href="#sec-5">5. Unbridled</a></li>
+<li><a href="#sec-6">6. Uncanny</a></li>
+<li><a href="#sec-7">7. Uncharted</a></li>
+<li><a href="#sec-8">8. Unctuous</a></li>
+<li><a href="#sec-9">9. Underlie</a></li>
+<li><a href="#sec-10">10. Undermine</a></li>
+<li><a href="#sec-11">11. Understatement</a></li>
+<li><a href="#sec-12">12. Unearth</a></li>
+<li><a href="#sec-13">13. Unencumbered</a></li>
+<li><a href="#sec-14">14. Unequivocal</a></li>
+<li><a href="#sec-15">15. Unerring</a></li>
+<li><a href="#sec-16">16. Uneven</a></li>
+<li><a href="#sec-17">17. Uneventful</a></li>
+<li><a href="#sec-18">18. Unfeigned</a></li>
+<li><a href="#sec-19">19. Unfettered</a></li>
+<li><a href="#sec-20">20. Ungainly</a></li>
+<li><a href="#sec-21">21. Unimpeachable</a></li>
+<li><a href="#sec-22">22. Uninitiated</a></li>
+<li><a href="#sec-23">23. Unobtrusive</a></li>
+<li><a href="#sec-24">24. Unpretentious</a></li>
+<li><a href="#sec-25">25. Unremitting</a></li>
+<li><a href="#sec-26">26. Unscathed</a></li>
+<li><a href="#sec-27">27. Unscrupulous</a></li>
+<li><a href="#sec-28">28. Unseemly</a></li>
+<li><a href="#sec-29">29. Unstinting</a></li>
+<li><a href="#sec-30">30. Untenable</a></li>
+<li><a href="#sec-31">31. Unwieldy</a></li>
+<li><a href="#sec-32">32. Unwitting</a></li>
+<li><a href="#sec-33">33. Unwonted</a></li>
+<li><a href="#sec-34">34. Unyielding</a></li>
+<li><a href="#sec-35">35. Urbane</a></li>
+<li><a href="#sec-36">36. Unaffected</a></li>
+<li><a href="#sec-37">37. Unassuming</a></li>
+<li><a href="#sec-38">38. Unconscionable</a></li>
+<li><a href="#sec-39">39. Uncouth</a></li>
+<li><a href="#sec-40">40. Undulate</a></li>
+<li><a href="#sec-41">41. Unflappable</a></li>
+<li><a href="#sec-42">42. Unison</a></li>
+<li><a href="#sec-43">43. Unkempt</a></li>
+<li><a href="#sec-44">44. Unprepossessing</a></li>
+<li><a href="#sec-45">45. Unravel</a></li>
+<li><a href="#sec-46">46. Unrepentant</a></li>
+<li><a href="#sec-47">47. Upbraid</a></li>
+<li><a href="#sec-48">48. Upheaval</a></li>
+<li><a href="#sec-49">49. Upright</a></li>
+<li><a href="#sec-50">50. Uproar</a></li>
+<li><a href="#sec-51">51. Uproarious</a></li>
+<li><a href="#sec-52">52. Utter</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Author</td>
+<td class="left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="left">Date</td>
+<td class="left">2018-05-22 21:50:39</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/ubiquitous-meaning-in-a-sentence/">Ubiquitous</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>existing or being everywhere at the same time</code>
+</p>
+
+<ul class="org-ul">
+<li>When I was a kid, I thought my parents were ubiquitous because it seemed as if they knew everything I did.
+</li>
+<li>Since my sister loves the color pink, she made sure the hue was ubiquitous during her wedding.
+</li>
+<li>Because the police presence was ubiquitous at the parade, everyone felt very safe.
+</li>
+<li>As evidenced by the increased number of shootings in this country, gun violence has become a ubiquitous epidemic.
+</li>
+<li>Constantly peering over our shoulders, our project manager was a bit too ubiquitous at work.
+</li>
+<li>A ubiquitous symbol of love found everywhere on Valentine’s Day is the heart.
+</li>
+<li>The phrase “going green” is one of the latest ubiquitous phrases being tossed around by corporations.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/ulterior-in-a-sentence/">Ulterior</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>hidden or concealed</code>
+</p>
+
+<ul class="org-ul">
+<li>Politicians often use religion as a tool to get people to believe them despite their ulterior motives.
+</li>
+<li>The salesman claimed he wanted to help the couple get a great deal, but his ulterior motive was to get rid of the clunker sitting on his lot.
+</li>
+<li>The accountant’s ulterior motives led her to stealing bank funds under the company radar.
+</li>
+<li>Because he owns a contracting company, the governor has an ulterior motive when giving out deals.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/umbrage-in-a-sentence/">Umbrage</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>to take offense; to find offensive</code>
+</p>
+
+<ul class="org-ul">
+<li>Don't take umbrage to my biblical views!
+</li>
+<li>Taking umbrage to a blonde joke, Jenna stormed out of the room.
+</li>
+<li>Please help students rather than giving them umbrage for not knowing the answer.
+</li>
+<li>I take umbrage to insults.
+</li>
+<li>Principal Buckwald resigned following a senior prank, clearly taking umbrage to the pranksters.
+</li>
+<li>You are racist for taking umbrage against people of color!
+</li>
+<li>The coach gave umbrage to his team for not winning a single game.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/unbecoming-in-a-sentence/">Unbecoming</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>not proper or appropriate</code>
+</p>
+
+<ul class="org-ul">
+<li>My grandmother still insists that pants are unbecoming of a lady going to church.
+</li>
+<li>Citizens though the political attack ads to be unbecoming, unsuitable for such an important campaign.
+</li>
+<li>The bully’s unbecoming behavior spread throughout the school and even good kids began acting mean.
+</li>
+<li>Lackluster movie choices are unbecoming of a theater that is held to such a high standard.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/unbridled-in-a-sentence/">Unbridled</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>not restrained; uncontrolled</code>
+</p>
+
+<ul class="org-ul">
+<li>The unbridled stallion was allowed to gallop wherever he pleased.
+</li>
+<li>Unbridled ambition led the man to success since there was no one to hold him back from his dreams.
+</li>
+<li>Running about with unbridled energy, the wild toddler could not be calmed down for her nap.
+</li>
+<li>The victim’s father could not be stopped from releasing his unbridled anger in court.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/uncanny-in-a-sentence/">Uncanny</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>strangely weird</code>
+</p>
+
+<ul class="org-ul">
+<li>Jeff is an uncanny man who likes to eat raw meat.
+</li>
+<li>When the psychic looked at the abandoned house, she had an uncanny sense that something bad had happened to the owner.
+</li>
+<li>My best friend Angela has the uncanny ability to know my thoughts before I speak.
+</li>
+<li>Because of the crook’s uncanny resemblance to my father, he was able to use the stolen identification and credit cards without anyone becoming suspicious.
+</li>
+<li>They say dogs have an uncanny way of sensing bad people.
+</li>
+<li>As soon as the casino realized Jesse had an uncanny knack for winning at blackjack, they banned him from the casino.
+</li>
+<li>Bill is an exceptional detective because of his uncanny aptitude for noticing small details.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/uncharted-in-a-sentence/">Uncharted</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>not surveyed, mapped, or investigated</code>
+</p>
+
+<ul class="org-ul">
+<li>Ships should not sail in uncharted waters, because they might get lost.
+</li>
+<li>Before the discovery of America, many explorers traveled through uncharted waters.
+</li>
+<li>The island was uncharted, so nobody knew what to expect there.
+</li>
+<li>Antarctica provides many uncharted regions because of its extreme temperatures.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/unctuous-in-a-sentence/">Unctuous</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>not expressing true feelings; pretending to display true feelings</code>
+</p>
+
+<ul class="org-ul">
+<li>Find me a politician without an unctuous personality, and I’ll pay you a million bucks!
+</li>
+<li>Nicky’s unctuous demeanor got on everyone’s nerves.
+</li>
+<li>Turned off by the unctuous compliments, the woman turned down the man’s offer of a drink.
+</li>
+<li>His unctuous hand gestures let everyone know he was upset about the encounter.
+</li>
+<li>His impression of the president was unctuous and poorly done.
+</li>
+<li>When Janice walked into her party, she pretended to be surprised with an unctuous performance.
+</li>
+<li>Harrison’s unctuous behavior made him seem as if he had spent every moment of his life in the theater.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/underlie-in-a-sentence/">Underlie</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>to trigger; motivate</code>
+</p>
+
+<ul class="org-ul">
+<li>I don’t understand all of the principles that underlie how a radio works, but I know a few things about sound waves.
+</li>
+<li>Emotional issues can underlie overeating and fixing these problems can help one lose weight.
+</li>
+<li>Anger and feelings of fear often underlie screaming episodes put on by toddlers.
+</li>
+<li>Feeling about race and religion often underlie or motivate political decisions.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/undermine-in-a-sentence/">Undermine</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>to weaken, hinder, sabotage</code>
+</p>
+
+<ul class="org-ul">
+<li>Chloe hoped that her allergies were not going to undermine her ability to perform in the recital.
+</li>
+<li>When engineers came to examine the cracks in the structure of the building, they discovered that years of flooding had worked to undermine the foundation.
+</li>
+<li>I had to cut down the beautiful willow tree because the roots were beginning to undermine the rock wall.
+</li>
+<li>While Abby tried to be friends with the girls in the popular group, her twin brother was always trying to undermine her efforts by embarrassing her and saying dumb things.
+</li>
+<li>During World War II, female broadcasters such as Tokyo Rose were employed by the Japanese to spread propaganda and undermine the morale of Allied troops.
+</li>
+<li>The secret organization sent beautiful women to spy on members of the military and undermine their loyalty.
+</li>
+<li>To undermine her opponent’s confidence, Vanessa started shouting a war whoop every time she served the ball.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/understatement-in-a-sentence/">Understatement</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>presenting something as being smaller or worse than it actually is</code>
+</p>
+
+<ul class="org-ul">
+<li>Saying he had gained a little weight was an understatement since he had put on thirty just last month.
+</li>
+<li>To say that getting a home loan with bad credit is a small challenge would be a huge understatement.
+</li>
+<li>Calling the affair a small mistake was an understatement the man’s wife would resent.
+</li>
+<li>An understatement of the couple’s debt made their finances look much better than what they were.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-12" class="outline-2">
+<h2 id="sec-12"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/unearth-in-a-sentence/">Unearth</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>to uncover or discover</code>
+</p>
+
+<ul class="org-ul">
+<li>At an estate sale, I was able to unearth some dresses from the 1920s that had been hidden in an old trunk.
+</li>
+<li>The scientists were able to unearth several fossils from the bottom of the river bed.
+</li>
+<li>I haven’t been able to unearth my grandmother’s recipe for pecan pie, but I did find out how she made peanut brittle.
+</li>
+<li>Only the pirates know where to dig to unearth their buried treasure.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-13" class="outline-2">
+<h2 id="sec-13"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/unencumbered-in-a-sentence/">Unencumbered</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>free of to move forward or advance</code>
+</p>
+
+<ul class="org-ul">
+<li>Because she had her official transcripts, the woman was unencumbered to move on to any college she wanted.
+</li>
+<li>The program’s funds were unencumbered and the director was able to spend the money on anything that was needed.
+</li>
+<li>After the broken-down car was moved out of the road, the street was unencumbered and other motorists could drive past.
+</li>
+<li>The inmate has been released from prison and is free to live an unencumbered lifestyle if he stays out of trouble.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-14" class="outline-2">
+<h2 id="sec-14"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/unequivocal-in-a-sentence/">Unequivocal</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>unquestionably clear</code>
+</p>
+
+<ul class="org-ul">
+<li>Since we raised over a million dollars for our charity, we considered the fundraiser to be an unequivocal success.
+</li>
+<li>The laboratory experiment must be repeated because the results are not unequivocal.
+</li>
+<li>The teacher was impressed by the gifted student’s unequivocal explanation of the complex subject.
+</li>
+<li>With the election a few weeks away, the president announced his unequivocal support for all the candidates of his political party.
+</li>
+<li>The tough gun law shows the government’s unequivocal position on unregistered firearms.
+</li>
+<li>Without unequivocal evidence, the prosecutor will not be able to prove the defendant’s guilt.
+</li>
+<li>To succeed on large class projects, students need unequivocal directions so they will not be confused by the sizable tasks.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-15" class="outline-2">
+<h2 id="sec-15"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/unerring-in-a-sentence/">Unerring</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>correct; unmistaken</code>
+</p>
+
+<ul class="org-ul">
+<li>The accountant had an unerring for spotting mistakes in bank statements.
+</li>
+<li>After years on the force, the detective had an unerring instinct that told him when someone was lying.
+</li>
+<li>The musician’s unerring talent allowed him to always sing on key.
+</li>
+<li>The photographer had an unerring eye that allowed her to capture the right moment.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-16" class="outline-2">
+<h2 id="sec-16"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/uneven-in-a-sentence/">Uneven</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>not balanced or symmetrical</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the table legs were uneven, it rocked back and forth anytime something was placed on it.
+</li>
+<li>The girl’s bangs are uneven and need to be lined up symmetrically.
+</li>
+<li>Embarrassed by his uneven teeth, the boy asked his parents for braces to make them straight.
+</li>
+<li>I tried to place my picture on my wall, but kept hanging the two nails in an uneven line.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-17" class="outline-2">
+<h2 id="sec-17"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/uneventful-in-a-sentence/">Uneventful</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>boring; ordinary</code>
+</p>
+
+<ul class="org-ul">
+<li>My uneventful weekend was filled with nothing but yawns and the flipping of channels on the T.V.
+</li>
+<li>Most nights of the police patrol were uneventful with no bad guys or high speed chases.
+</li>
+<li>The boring Super Bowl was uneventful, with only one touchdown and two field goals happening the entire game.
+</li>
+<li>Our flight seemed ordinary and uneventful until we hit a rough storm and begin to bounce around.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-18" class="outline-2">
+<h2 id="sec-18"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/unfeigned-in-a-sentence/">Unfeigned</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>real; not pretense</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the woman truly loved her husband, her sorrow was unfeigned during the funeral.
+</li>
+<li>Most reality shows are scripted and are not unfeigned.
+</li>
+<li>Since Jill is afraid of most insects, I knew her scream was unfeigned when she saw the giant spider.
+</li>
+<li>It was obvious from Phil’s unfeigned shock he had known nothing about the surprise party.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-19" class="outline-2">
+<h2 id="sec-19"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/unfettered-in-a-sentence/">Unfettered</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>not confined or restrained</code>
+</p>
+
+<ul class="org-ul">
+<li>Once the bird was unfettered and out of the cage, it flew up into the sky.
+</li>
+<li>Illegal drug sales go unfettered under the ignorant eyes of the crooked sheriff.
+</li>
+<li>When Jack’s probation is over, he will be unfettered and can move throughout the country without restrictions.
+</li>
+<li>Unfettered greed has led fuel companies to raise gasoline prices despite their abundant supplies.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-20" class="outline-2">
+<h2 id="sec-20"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/ungainly-in-a-sentence/">Ungainly</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>used to describe a person or movement that is clumsy or awkward</code>
+</p>
+
+<ul class="org-ul">
+<li>Penguins are ungainly on land, always waddling around awkwardly on the ice.
+</li>
+<li>The ungainly teenager was so awkward that he tripped over his own shoe laces daily.
+</li>
+<li>Dropping glasses and plates several times in one night, the ungainly server quickly realized that she was too clumsy to be a waitress.
+</li>
+<li>The girl’s date appeared ungainly as he stumbled over his words and awkwardly tripped over the carpet.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-21" class="outline-2">
+<h2 id="sec-21"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/unimpeachable-in-a-sentence/">Unimpeachable</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>completely trustworthy and reliable</code>
+</p>
+
+<ul class="org-ul">
+<li>Most of the voters saw the candidate as unimpeachable and completely trusted his every word.
+</li>
+<li>At first the president seemed unimpeachable, but recently there have been reports that add a shadow of doubt to his trustworthiness.
+</li>
+<li>The unimpeachable athletes appeared to be both flawless and faultless.
+</li>
+<li>Although many believe the judge to be both blameless and unimpeachable, some people think she is not as honorable as she seems.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-22" class="outline-2">
+<h2 id="sec-22"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/uninitiated-in-a-sentence/">Uninitiated</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>without specific knowledge or experience</code>
+</p>
+
+<ul class="org-ul">
+<li>The uninitiated students had trouble understanding the advanced concepts of physics.
+</li>
+<li>Because the new choir was uninitiated, they had a hard time singing the difficult song.
+</li>
+<li>For the uninitiated, the piano piece was too challenging to attempt.
+</li>
+<li>The only people who applied for the job were uninitiated workers with no background in sales.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-23" class="outline-2">
+<h2 id="sec-23"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/unobtrusive-in-a-sentence/">Unobtrusive</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>not obvious</code>
+</p>
+
+<ul class="org-ul">
+<li>The reclusive man wanted to be buried in an unobtrusive area of the cemetery so people would not walk around his grave.
+</li>
+<li>Since I do not trust my daughter, I have unobtrusive cameras in my house so I can secretly monitor her behavior when I am not home.
+</li>
+<li>Burglars will have difficulty locating the unobtrusive device that controls the home’s security system.
+</li>
+<li>Gail came close to missing her interstate exit because of the unobtrusive sign that was partially hidden by the tree branches.
+</li>
+<li>Although the famous actor hoped to remain unobtrusive in the movie theater, he was recognized by several of his fans.
+</li>
+<li>I need a covering to make the cords from my computer and printer unobtrusive so my office will look neater.
+</li>
+<li>While the celebrity travels with a security team, she usually asks her bodyguards to walk in an unobtrusive manner behind her.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-24" class="outline-2">
+<h2 id="sec-24"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/unpretentious-in-a-sentence/">Unpretentious</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>not attempting to impress others with intelligence, money, style, importance, etc; modest</code>
+</p>
+
+<ul class="org-ul">
+<li>The girl next door portrayed herself in an unpretentious way so that she was beautiful without striving for attention.
+</li>
+<li>Her unpretentious niece would wear simple clothing and she would do her own hair which made her friends jealous of her.
+</li>
+<li>As the upstanding young man entered the room, his unpretentious nature led everyone to believe that he did not take time to consider his appearance
+</li>
+<li>When the nonprofit club catered to helping the homeless, the unpretentious club donated money and time anonymously.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-25" class="outline-2">
+<h2 id="sec-25"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/unremitting-in-a-sentence/">Unremitting</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>continuing without any type of interruption or decrease in intensity</code>
+</p>
+
+<ul class="org-ul">
+<li>Jim and Edith could not agree upon a divorce settlement because of their unremitting anger towards each other.
+</li>
+<li>During the summer months, the unremitting heat always causes a massive increase in power bills.
+</li>
+<li>Several months before the election, the mayor’s political rival launched an unremitting campaign against him.
+</li>
+<li>After Barbara realized her knee pain was unremitting, she decided to have surgery to avoid suffering forever.
+</li>
+<li>Recovering from heart surgery seemed to be an unremitting struggle for my grandfather.
+</li>
+<li>The man eventually confessed during the detective’s unremitting questioning.
+</li>
+<li>Because of unremitting pressure from the city council, the police chief finally stepped down from office.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-26" class="outline-2">
+<h2 id="sec-26"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/unscathed-in-a-sentence/">Unscathed</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>untouched or not damaged</code>
+</p>
+
+<ul class="org-ul">
+<li>Despite the vase’s tumble from the shelf, it is unscathed.
+</li>
+<li>It was a miracle Jim survived the car wreck completely unscathed.
+</li>
+<li>Somehow, the lone soldier made it across enemy lines unscathed.
+</li>
+<li>It was strange how the fire destroyed most of the city but left the church unscathed.
+</li>
+<li>In the trashcan, the homeless man found unscathed cans of food that were suitable for eating.
+</li>
+<li>Jan hoped her expensive furniture would make it through the cross-country move unscathed.
+</li>
+<li>While my home remained unscathed after the hurricane, my neighbor’s house was destroyed.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-27" class="outline-2">
+<h2 id="sec-27"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/unscrupulous-in-a-sentence/">Unscrupulous</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>unconcerned about doing what is right</code>
+</p>
+
+<ul class="org-ul">
+<li>The unscrupulous teacher offered to raise her student’s grade if he gave her one hundred dollars.
+</li>
+<li>When the unscrupulous insurance salesman sold me the policy, he did not tell me it would not be active for six months.
+</li>
+<li>The unscrupulous drug company lied about the benefits of its new drug.
+</li>
+<li>During the experiment, the unscrupulous scientist conducted drug tests on monkeys.
+</li>
+<li>The unscrupulous ticket scalper sold me fake tickets.
+</li>
+<li>Last month, several unscrupulous stockbrokers used insider knowledge to make gigantic personal trades.
+</li>
+<li>My neighbor is an unscrupulous woman who pretends to be a psychic in order to con trusting people.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-28" class="outline-2">
+<h2 id="sec-28"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/unseemly-in-a-sentence/">Unseemly</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>not in good taste</code>
+</p>
+
+<ul class="org-ul">
+<li>William acted in an unseemly manner when he wore his pajamas to his mother’s funeral.
+</li>
+<li>According to psychiatrists, child predators have an unseemly interest in young people.
+</li>
+<li>It will look unseemly if you file an insurance claim on the day your husband is murdered.
+</li>
+<li>When my mother remarried two days after her divorce was finalized, everyone said her behavior was unseemly.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-29" class="outline-2">
+<h2 id="sec-29"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/unstinting-in-a-sentence/">Unstinting</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>generously giving</code>
+</p>
+
+<ul class="org-ul">
+<li>The man showed his unstinting support of the business by writing several checks during hard times.
+</li>
+<li>Michelle Obama is known for her generous and unstinting support of military families.
+</li>
+<li>Haitian hurricane survivors thanked the volunteer doctors for their unstinting commitment to the sick.
+</li>
+<li>Mother Teresa was unstinting, giving so much of her money and time to help the poor.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-30" class="outline-2">
+<h2 id="sec-30"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/untenable-in-a-sentence/">Untenable</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>not capable of being supported or maintained</code>
+</p>
+
+<ul class="org-ul">
+<li>The losing debate team had an untenable argument.
+</li>
+<li>Since Jack and Jill felt that marriage was untenable, they decided to get a divorce.
+</li>
+<li>Atheists do not believe in the idea of a God because they see no proof of the untenable theory.
+</li>
+<li>Even after family therapy, the two sisters were unable to save their untenable relationship.
+</li>
+<li>The mayor’s proposal is untenable and will not gain the support of the city council.
+</li>
+<li>After the police realized Amanda’s alibi was untenable, they arrested her for murder.
+</li>
+<li>The medical student found it impossible to maintain his untenable habit of sleeping only three hours each night.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-31" class="outline-2">
+<h2 id="sec-31"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/unwieldy-in-a-sentence/">Unwieldy</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>hard to relocate because of its size</code>
+</p>
+
+<ul class="org-ul">
+<li>The young boy found it difficult to hold the unwieldy ball because of its huge size.
+</li>
+<li>Because the office paperwork has become unwieldy, the company is hiring a couple of temporary workers to help sort through the large stacks of paper.
+</li>
+<li>The SUV is so unwieldy I cannot properly steer it on the tiny dirt road.
+</li>
+<li>Since Frank is used to flying small jets, he found the commercial airliner a bit unwieldy under his control.
+</li>
+<li>Did the stupid terrorist really think he was going to be able to take an unwieldy weapon like a bazooka through airport security?
+</li>
+<li>The scrawny teenager could not push the unwieldy lawnmower around the yard.
+</li>
+<li>Compared to the tiny mobile phones today, the original mobile phones were unwieldy and difficult to hold.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-32" class="outline-2">
+<h2 id="sec-32"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/unwitting-in-a-sentence/">Unwitting</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>ignorant or unaware</code>
+</p>
+
+<ul class="org-ul">
+<li>The unwitting buyer has no clue what her interest rate is or how long she will have to pay on the loan.
+</li>
+<li>Unwitting passengers sat clueless on the plane, never realizing that there was a problem with the engine.
+</li>
+<li>At the party, the unwitting young woman was embarrassed to admit that she did not know who the Vice President was.
+</li>
+<li>The unwitting witness was questioned several times before detectives realized that he knew nothing more about the crime.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-33" class="outline-2">
+<h2 id="sec-33"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/unwonted-in-a-sentence/">Unwonted</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>something not seen often; not ordinary</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Bill rarely came to church, even the priest was shocked by his unwonted appearance at the service.
+</li>
+<li>Elizabeth was stunned speechless when her teenage daughter gave her an unwonted kiss in public.
+</li>
+<li>Because Rick’s wife had just died, everyone was surprised by his unwonted happiness.
+</li>
+<li>The paralyzed soldier is going to receive the highest military award for displaying unwonted courage.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-34" class="outline-2">
+<h2 id="sec-34"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/unyielding-in-a-sentence/">Unyielding</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>not flexible; not easily moved or swayed</code>
+</p>
+
+<ul class="org-ul">
+<li>My unyielding father refused to increase my allowance.
+</li>
+<li>Because Jan has an unyielding commitment to the shelter, she will not stop working until we reach our fundraising goal.
+</li>
+<li>We were confident in our belief the dam would remain unyielding and not fall to the pressure of the water.
+</li>
+<li>Even the prescription drugs could not eliminate my unyielding depression.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-35" class="outline-2">
+<h2 id="sec-35"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/urbane-in-a-sentence/">Urbane</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>marked by sophistication</code>
+</p>
+
+<ul class="org-ul">
+<li>Henry is an urbane traveller who has visited over eighty countries.
+</li>
+<li>When the urbane heiress walked through the hotel, the hotel manager promptly greeted her with a bouquet of roses.
+</li>
+<li>Everyone wants to know why the urbane city people have decided to move to our small town.
+</li>
+<li>Unimpressed by urbane matters, my father yawned when my boyfriend started to talk about the price of his expensive suit.
+</li>
+<li>Brett is our best appliance salesman because his urbane personality can win over even the grouchiest female.
+</li>
+<li>When Marsha goes to bars, she often smokes fancy cigarettes to make herself appear urbane.
+</li>
+<li>Everything from the man’s tailored suit to his Italian shoes and expensive watch screamed urbane.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-36" class="outline-2">
+<h2 id="sec-36"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/unaffected-in-a-sentence/">Unaffected</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>not changed or altered</code>
+</p>
+
+<ul class="org-ul">
+<li>My sister’s home was ruined by the latest flood but my residence was unaffected.
+</li>
+<li>Some cities appear to be unaffected by the flu while others have had lots of people die from it.
+</li>
+<li>While a few companies will be unaffected by the cuts, many businesses will have to shut their doors.
+</li>
+<li>Drinking water helps some women lose pounds but my weight seems to be unaffected by it.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-37" class="outline-2">
+<h2 id="sec-37"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/unassuming-in-a-sentence/">Unassuming</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>not putting on airs; modest</code>
+</p>
+
+<ul class="org-ul">
+<li>The unassuming actor personally responds to his fan mail.
+</li>
+<li>When I walked into the unassuming restaurant, I was shocked to learn they had a world famous chef on staff.
+</li>
+<li>The supermodel turned down an arrogant football player to marry an unassuming auditor.
+</li>
+<li>While everyone expected the rap star to buy a mansion, he shocked the world by purchasing an unassuming cottage.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-38" class="outline-2">
+<h2 id="sec-38"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/unconscionable-in-a-sentence/">Unconscionable</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>not right or unreasonable</code>
+</p>
+
+<ul class="org-ul">
+<li>Allowing blind people the right to drive is not only foolish, but it is unconscionable.
+</li>
+<li>It is unconscionable that my school bus ride takes over an hour every morning, considering I live only 3 miles from school.
+</li>
+<li>The judge deemed the torture and killings of innocent people to be unconscionable.
+</li>
+<li>Spitting at the teacher is unconscionable conduct and such behavior is subject to expulsion.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-39" class="outline-2">
+<h2 id="sec-39"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/uncouth-in-a-sentence/">Uncouth</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>having a lack of acceptable manners</code>
+</p>
+
+<ul class="org-ul">
+<li>While George comes from a very wealthy family, he often behaves in an uncouth manner and acts as though he has no social skills at all.
+</li>
+<li>My mother banished my brother from the dinner table after he drank too much and started to act uncouth.
+</li>
+<li>The uncouth young man did not know which fork to use during the salad portion of the formal dinner.
+</li>
+<li>Because Sarah is well mannered and knows how to behave in social situations, she is the total opposite of her uncouth twin Lacey.
+</li>
+<li>Maria showed exactly how uncouth she was by appearing at Ann’s birthday party without an invitation.
+</li>
+<li>In my family, it is considered uncouth to question someone about the value of a gift they give you.
+</li>
+<li>Although Elaine has taken many classes on social customs, she is still uncouth and does not know how to properly greet foreign dignitaries.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-40" class="outline-2">
+<h2 id="sec-40"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/undulate-in-a-sentence/">Undulate</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>move with a smooth wavelike motion</code>
+</p>
+
+<ul class="org-ul">
+<li>The dancers’ movements were arranged so that they seemed to undulate like dolphins with the music.
+</li>
+<li>Because the ice skater had practiced her movements so much, she seemed to undulate on the ice.
+</li>
+<li>It is fun to watch the ocean waters undulate beneath our glass-bottom boat.
+</li>
+<li>Following their dance teacher’s lead, the students undulate around the room in a curvy motion.
+</li>
+<li>Because the wind was not blowing, the lake waters did not undulate a great deal.
+</li>
+<li>If you look closely, you can see the grass undulate in the breeze.
+</li>
+<li>On the cruise, I watched several sea animals undulate in the ocean.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-41" class="outline-2">
+<h2 id="sec-41"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/unflappable-in-a-sentence/">Unflappable</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>clear headed and serene during a catastrophe</code>
+</p>
+
+<ul class="org-ul">
+<li>When a deadly tornado raced across town, many residents panicked but Miles remained unflappable and calmly lead his neighbors to shelter.
+</li>
+<li>Firefighters must be unflappable during an emergency so that they can focus on putting out fires and rescuing those in danger.
+</li>
+<li>The wedding planner remained unflappable even as she was informed that the caterer failed to show up and the flowers were wilted because panicking would make things worse.
+</li>
+<li>Maya knew she had to be strong after her grandmother died, so she made phone calls, organized the funeral, and kept up an unflappable appearance even though she was crying inside.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-42" class="outline-2">
+<h2 id="sec-42"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/unison-in-a-sentence/">Unison</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>the condition of being in agreement or occurring at the same time</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the singers sung in unison, it sounded like only one person was performing.
+</li>
+<li>Pay attention and cut when I cut because if the wires are not sliced in unison the bomb will explode.
+</li>
+<li>As if they were part of a mirror image, the twin boys scratched their heads in unison.
+</li>
+<li>Twins think alike so it is not uncommon for them to respond to questions in unison.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-43" class="outline-2">
+<h2 id="sec-43"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/unkempt-in-a-sentence/">Unkempt</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>not clean or tidy</code>
+</p>
+
+<ul class="org-ul">
+<li>An unkempt appearance was the least of the homeless man’s worries.
+</li>
+<li>Since Jack has not had a hair cut in six months, he looks somewhat unkempt.
+</li>
+<li>Excessive littering has turned this once clean soccer park into an unkempt field.
+</li>
+<li>After being locked in the dungeon for two years, the prisoner looked pale and unkempt.
+</li>
+<li>The unkempt garden was filled with weeds.
+</li>
+<li>As soon as the cleaners walked into the unkempt house, they knew it would take all day to clean the residence.
+</li>
+<li>Because the neglected children had been denied food and locked in an attic for a week, they were unkempt and hungry.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-44" class="outline-2">
+<h2 id="sec-44"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/unprepossessing-in-a-sentence/">Unprepossessing</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>looking plain or ordinary</code>
+</p>
+
+<ul class="org-ul">
+<li>The unprepossessing bookshelf looked like any other bookstand, giving no hint of what lay behind its novels.
+</li>
+<li>An unprepossessing rug, shaggy and plain, hid its magic beneath its ordinary-looking tassels.
+</li>
+<li>A wardrobe makeover would help the young woman replace her outdated and unprepossessing clothing in an attractive collection.
+</li>
+<li>The gate was rusty and unprepossessing, its lack of appeal making it a bad fit for the lovely mansion it led to.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-45" class="outline-2">
+<h2 id="sec-45"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/unravel-in-a-sentence/">Unravel</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>to cause something to separate or come apart</code>
+</p>
+
+<ul class="org-ul">
+<li>The tassels on the end of the rug have started to unravel and will need to be replaced.
+</li>
+<li>After months of investigating, police finally had proof that the suspect was lying and his tale began to unravel.
+</li>
+<li>We had to unravel the rope to make it long enough to reach across the bridge.
+</li>
+<li>Clues from the crime scene may help us unravel the mystery and solve the case.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-46" class="outline-2">
+<h2 id="sec-46"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/unrepentant-in-a-sentence/">Unrepentant</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>showing no regret for one has done wrong</code>
+</p>
+
+<ul class="org-ul">
+<li>Even after being sentenced for his crimes, the smug kidnapper was unrepentant.
+</li>
+<li>My son is always unrepentant for his wrongdoing, even when he is caught red-handed.
+</li>
+<li>The unrepentant shoplifter refused to admit what she did was wrong.
+</li>
+<li>Making excuses for the affair, the unrepentant husband refused to admit the affair was his fault and not caused by his wife.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-47" class="outline-2">
+<h2 id="sec-47"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/upbraid-in-a-sentence/">Upbraid</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>to harshly criticize</code>
+</p>
+
+<ul class="org-ul">
+<li>Without a doubt, my parents are going to upbraid me for not passing any of my classes this semester.
+</li>
+<li>Jim will often upbraid his wife for spending too much money at the mall.
+</li>
+<li>Since Chad has already appeared in court twice for the same offense, he is expecting the judge to upbraid him before giving out a lengthy sentence.
+</li>
+<li>The police officer did not hesitate to upbraid the man for driving without insurance.
+</li>
+<li>When Jack failed to meet his sales quota, he knew his boss was going to upbraid him about his lack of effort.
+</li>
+<li>As long as I have a mother-in-law to point out my flaws, I never have to upbraid myself.
+</li>
+<li>Ginger is afraid of her husband so she will only upbraid his faults when he is not present.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-48" class="outline-2">
+<h2 id="sec-48"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/upheaval-in-a-sentence/">Upheaval</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>an abrupt disruption or change</code>
+</p>
+
+<ul class="org-ul">
+<li>The sudden closing of the interstate exit is going to be an upheaval for local residents.
+</li>
+<li>When the rebels tried to remove the dictator from power, their actions created an upheaval that left the country in chaos.
+</li>
+<li>The upheaval caused by the unexpected closing of the discount store left many workers without salaries to feed their families.
+</li>
+<li>While the new highway lanes are being built, the upheaval is sure to make rush hour traffic worse than it normally is.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-49" class="outline-2">
+<h2 id="sec-49"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/upright-in-a-sentence/">Upright</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>sitting or standing in a straight position</code>
+</p>
+
+<ul class="org-ul">
+<li>I can never fall asleep if I am sitting in an upright position.
+</li>
+<li>Hearing the noise in the hall way, the frightened woman quickly sat upright in her bed.
+</li>
+<li>No matter how many times we sit the flagpole upright, it always ends up slanted.
+</li>
+<li>The doctor claims that sitting with upright posture can help one avoid the back problems that come along with slumping.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-50" class="outline-2">
+<h2 id="sec-50"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/uproar-in-a-sentence/">Uproar</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>a situation in which many people are upset or angry</code>
+</p>
+
+<ul class="org-ul">
+<li>Uproar over the art piece began after it was found to be a fake.
+</li>
+<li>The president sparked an uproar when he shared top secret information with the Russians.
+</li>
+<li>Even though the uproar is over, a few people are still upset about the scam.
+</li>
+<li>The public uproar should have taught the airline company how to better handle upset customers.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-51" class="outline-2">
+<h2 id="sec-51"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/uproarious-in-a-sentence/">Uproarious</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>exceptionally funny</code>
+</p>
+
+<ul class="org-ul">
+<li>The comedian’s jokes were so uproarious I laughed until my stomach began to hurt.
+</li>
+<li>Throughout the uproarious movie, everyone in the theater was laughing.
+</li>
+<li>Even the singer could not help but chuckle when she heard the uproarious parody of her hit tune.
+</li>
+<li>The tension at the party was broken when everyone started to laugh at Rick’s uproarious dance moves.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-52" class="outline-2">
+<h2 id="sec-52"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/utter-in-a-sentence/">Utter</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>total or complete</code>
+</p>
+
+<ul class="org-ul">
+<li>The billionaire’s utter lack of arrogance makes him very approachable.
+</li>
+<li>Since my son showed an utter disregard for others by driving recklessly, he no longer has a license.
+</li>
+<li>The accident caused Tina to have an utter loss of memory.
+</li>
+<li>Because Linda is very clumsy, she is an utter failure as a waitress.
+</li>
+</ul>
+
+
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>

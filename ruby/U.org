@@ -1,0 +1,564 @@
+#+TITLE:     U
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+#+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/ubiquitous-meaning-in-a-sentence/][Ubiquitous]]
+
+  =existing or being everywhere at the same time=
+
+  - When I was a kid, I thought my parents were ubiquitous because it seemed as if they knew everything I did.
+  - Since my sister loves the color pink, she made sure the hue was ubiquitous during her wedding.
+  - Because the police presence was ubiquitous at the parade, everyone felt very safe.
+  - As evidenced by the increased number of shootings in this country, gun violence has become a ubiquitous epidemic.
+  - Constantly peering over our shoulders, our project manager was a bit too ubiquitous at work.
+  - A ubiquitous symbol of love found everywhere on Valentine’s Day is the heart.
+  - The phrase “going green” is one of the latest ubiquitous phrases being tossed around by corporations.
+
+* [[https://wordsinasentence.com/ulterior-in-a-sentence/][Ulterior]]
+
+  =hidden or concealed=
+
+  - Politicians often use religion as a tool to get people to believe them despite their ulterior motives.
+  - The salesman claimed he wanted to help the couple get a great deal, but his ulterior motive was to get rid of the clunker sitting on his lot.
+  - The accountant’s ulterior motives led her to stealing bank funds under the company radar.
+  - Because he owns a contracting company, the governor has an ulterior motive when giving out deals.
+
+* [[https://wordsinasentence.com/umbrage-in-a-sentence/][Umbrage]]
+
+  =to take offense; to find offensive=
+
+  - Don't take umbrage to my biblical views!
+  - Taking umbrage to a blonde joke, Jenna stormed out of the room.
+  - Please help students rather than giving them umbrage for not knowing the answer.
+  - I take umbrage to insults.
+  - Principal Buckwald resigned following a senior prank, clearly taking umbrage to the pranksters.
+  - You are racist for taking umbrage against people of color!
+  - The coach gave umbrage to his team for not winning a single game.
+
+* [[https://wordsinasentence.com/unbecoming-in-a-sentence/][Unbecoming]]
+
+  =not proper or appropriate=
+
+  - My grandmother still insists that pants are unbecoming of a lady going to church.
+  - Citizens though the political attack ads to be unbecoming, unsuitable for such an important campaign.
+  - The bully’s unbecoming behavior spread throughout the school and even good kids began acting mean.
+  - Lackluster movie choices are unbecoming of a theater that is held to such a high standard.
+
+* [[https://wordsinasentence.com/unbridled-in-a-sentence/][Unbridled]]
+
+  =not restrained; uncontrolled=
+
+  - The unbridled stallion was allowed to gallop wherever he pleased.
+  - Unbridled ambition led the man to success since there was no one to hold him back from his dreams.
+  - Running about with unbridled energy, the wild toddler could not be calmed down for her nap.
+  - The victim’s father could not be stopped from releasing his unbridled anger in court.
+
+
+* [[https://wordsinasentence.com/uncanny-in-a-sentence/][Uncanny]]
+
+  =strangely weird=
+
+  - Jeff is an uncanny man who likes to eat raw meat.
+  - When the psychic looked at the abandoned house, she had an uncanny sense that something bad had happened to the owner.
+  - My best friend Angela has the uncanny ability to know my thoughts before I speak.
+  - Because of the crook’s uncanny resemblance to my father, he was able to use the stolen identification and credit cards without anyone becoming suspicious.
+  - They say dogs have an uncanny way of sensing bad people.
+  - As soon as the casino realized Jesse had an uncanny knack for winning at blackjack, they banned him from the casino.
+  - Bill is an exceptional detective because of his uncanny aptitude for noticing small details.
+
+* [[https://wordsinasentence.com/uncharted-in-a-sentence/][Uncharted]]
+
+  =not surveyed, mapped, or investigated=
+
+  - Ships should not sail in uncharted waters, because they might get lost.
+  - Before the discovery of America, many explorers traveled through uncharted waters.
+  - The island was uncharted, so nobody knew what to expect there.
+  - Antarctica provides many uncharted regions because of its extreme temperatures.
+
+* [[https://wordsinasentence.com/unctuous-in-a-sentence/][Unctuous]]
+
+  =not expressing true feelings; pretending to display true feelings=
+
+  - Find me a politician without an unctuous personality, and I’ll pay you a million bucks!
+  - Nicky’s unctuous demeanor got on everyone’s nerves.
+  - Turned off by the unctuous compliments, the woman turned down the man’s offer of a drink.
+  - His unctuous hand gestures let everyone know he was upset about the encounter.
+  - His impression of the president was unctuous and poorly done.
+  - When Janice walked into her party, she pretended to be surprised with an unctuous performance.
+  - Harrison’s unctuous behavior made him seem as if he had spent every moment of his life in the theater.
+
+
+* [[https://wordsinasentence.com/underlie-in-a-sentence/][Underlie]]
+
+  =to trigger; motivate=
+
+  - I don’t understand all of the principles that underlie how a radio works, but I know a few things about sound waves.
+  - Emotional issues can underlie overeating and fixing these problems can help one lose weight.
+  - Anger and feelings of fear often underlie screaming episodes put on by toddlers.
+  - Feeling about race and religion often underlie or motivate political decisions.
+
+* [[https://wordsinasentence.com/undermine-in-a-sentence/][Undermine]]
+
+  =to weaken, hinder, sabotage=
+
+  - Chloe hoped that her allergies were not going to undermine her ability to perform in the recital.
+  - When engineers came to examine the cracks in the structure of the building, they discovered that years of flooding had worked to undermine the foundation.
+  - I had to cut down the beautiful willow tree because the roots were beginning to undermine the rock wall.
+  - While Abby tried to be friends with the girls in the popular group, her twin brother was always trying to undermine her efforts by embarrassing her and saying dumb things.
+  - During World War II, female broadcasters such as Tokyo Rose were employed by the Japanese to spread propaganda and undermine the morale of Allied troops.
+  - The secret organization sent beautiful women to spy on members of the military and undermine their loyalty.
+  - To undermine her opponent’s confidence, Vanessa started shouting a war whoop every time she served the ball.
+
+
+* [[https://wordsinasentence.com/understatement-in-a-sentence/][Understatement]]
+
+  =presenting something as being smaller or worse than it actually is=
+
+  - Saying he had gained a little weight was an understatement since he had put on thirty just last month.
+  - To say that getting a home loan with bad credit is a small challenge would be a huge understatement.
+  - Calling the affair a small mistake was an understatement the man’s wife would resent.
+  - An understatement of the couple’s debt made their finances look much better than what they were.
+
+
+
+* [[https://wordsinasentence.com/unearth-in-a-sentence/][Unearth]]
+
+  =to uncover or discover=
+
+  - At an estate sale, I was able to unearth some dresses from the 1920s that had been hidden in an old trunk.
+  - The scientists were able to unearth several fossils from the bottom of the river bed.
+  - I haven’t been able to unearth my grandmother’s recipe for pecan pie, but I did find out how she made peanut brittle.
+  - Only the pirates know where to dig to unearth their buried treasure.
+
+
+* [[https://wordsinasentence.com/unencumbered-in-a-sentence/][Unencumbered]]
+
+  =free of to move forward or advance=
+
+  - Because she had her official transcripts, the woman was unencumbered to move on to any college she wanted.
+  - The program’s funds were unencumbered and the director was able to spend the money on anything that was needed.
+  - After the broken-down car was moved out of the road, the street was unencumbered and other motorists could drive past.
+  - The inmate has been released from prison and is free to live an unencumbered lifestyle if he stays out of trouble.
+
+* [[https://wordsinasentence.com/unequivocal-in-a-sentence/][Unequivocal]]
+
+  =unquestionably clear=
+
+  - Since we raised over a million dollars for our charity, we considered the fundraiser to be an unequivocal success.
+  - The laboratory experiment must be repeated because the results are not unequivocal.
+  - The teacher was impressed by the gifted student’s unequivocal explanation of the complex subject.
+  - With the election a few weeks away, the president announced his unequivocal support for all the candidates of his political party.
+  - The tough gun law shows the government’s unequivocal position on unregistered firearms.
+  - Without unequivocal evidence, the prosecutor will not be able to prove the defendant’s guilt.
+  - To succeed on large class projects, students need unequivocal directions so they will not be confused by the sizable tasks.
+
+* [[https://wordsinasentence.com/unerring-in-a-sentence/][Unerring]]
+
+  =correct; unmistaken=
+
+  - The accountant had an unerring for spotting mistakes in bank statements.
+  - After years on the force, the detective had an unerring instinct that told him when someone was lying.
+  - The musician’s unerring talent allowed him to always sing on key.
+  - The photographer had an unerring eye that allowed her to capture the right moment.
+
+* [[https://wordsinasentence.com/uneven-in-a-sentence/][Uneven]]
+
+  =not balanced or symmetrical=
+
+  - Because the table legs were uneven, it rocked back and forth anytime something was placed on it.
+  - The girl’s bangs are uneven and need to be lined up symmetrically.
+  - Embarrassed by his uneven teeth, the boy asked his parents for braces to make them straight.
+  - I tried to place my picture on my wall, but kept hanging the two nails in an uneven line.
+
+* [[https://wordsinasentence.com/uneventful-in-a-sentence/][Uneventful]]
+
+  =boring; ordinary=
+
+  - My uneventful weekend was filled with nothing but yawns and the flipping of channels on the T.V.
+  - Most nights of the police patrol were uneventful with no bad guys or high speed chases.
+  - The boring Super Bowl was uneventful, with only one touchdown and two field goals happening the entire game.
+  - Our flight seemed ordinary and uneventful until we hit a rough storm and begin to bounce around.
+
+* [[https://wordsinasentence.com/unfeigned-in-a-sentence/][Unfeigned]]
+
+  =real; not pretense=
+
+  - Because the woman truly loved her husband, her sorrow was unfeigned during the funeral.
+  - Most reality shows are scripted and are not unfeigned.
+  - Since Jill is afraid of most insects, I knew her scream was unfeigned when she saw the giant spider.
+  - It was obvious from Phil’s unfeigned shock he had known nothing about the surprise party.
+
+* [[https://wordsinasentence.com/unfettered-in-a-sentence/][Unfettered]]
+
+  =not confined or restrained=
+
+  - Once the bird was unfettered and out of the cage, it flew up into the sky.
+  - Illegal drug sales go unfettered under the ignorant eyes of the crooked sheriff.
+  - When Jack’s probation is over, he will be unfettered and can move throughout the country without restrictions.
+  - Unfettered greed has led fuel companies to raise gasoline prices despite their abundant supplies.
+
+* [[https://wordsinasentence.com/ungainly-in-a-sentence/][Ungainly]]
+
+  =used to describe a person or movement that is clumsy or awkward=
+
+  - Penguins are ungainly on land, always waddling around awkwardly on the ice.
+  - The ungainly teenager was so awkward that he tripped over his own shoe laces daily.
+  - Dropping glasses and plates several times in one night, the ungainly server quickly realized that she was too clumsy to be a waitress.
+  - The girl’s date appeared ungainly as he stumbled over his words and awkwardly tripped over the carpet.
+
+* [[https://wordsinasentence.com/unimpeachable-in-a-sentence/][Unimpeachable]]
+
+  =completely trustworthy and reliable=
+
+  - Most of the voters saw the candidate as unimpeachable and completely trusted his every word.
+  - At first the president seemed unimpeachable, but recently there have been reports that add a shadow of doubt to his trustworthiness.
+  - The unimpeachable athletes appeared to be both flawless and faultless.
+  - Although many believe the judge to be both blameless and unimpeachable, some people think she is not as honorable as she seems.
+
+* [[https://wordsinasentence.com/uninitiated-in-a-sentence/][Uninitiated]]
+
+  =without specific knowledge or experience=
+
+  - The uninitiated students had trouble understanding the advanced concepts of physics.
+  - Because the new choir was uninitiated, they had a hard time singing the difficult song.
+  - For the uninitiated, the piano piece was too challenging to attempt.
+  - The only people who applied for the job were uninitiated workers with no background in sales.
+
+
+* [[https://wordsinasentence.com/unobtrusive-in-a-sentence/][Unobtrusive]]
+
+  =not obvious=
+
+  - The reclusive man wanted to be buried in an unobtrusive area of the cemetery so people would not walk around his grave.
+  - Since I do not trust my daughter, I have unobtrusive cameras in my house so I can secretly monitor her behavior when I am not home.
+  - Burglars will have difficulty locating the unobtrusive device that controls the home’s security system.
+  - Gail came close to missing her interstate exit because of the unobtrusive sign that was partially hidden by the tree branches.
+  - Although the famous actor hoped to remain unobtrusive in the movie theater, he was recognized by several of his fans.
+  - I need a covering to make the cords from my computer and printer unobtrusive so my office will look neater.
+  - While the celebrity travels with a security team, she usually asks her bodyguards to walk in an unobtrusive manner behind her.
+
+* [[https://wordsinasentence.com/unpretentious-in-a-sentence/][Unpretentious]]
+
+  =not attempting to impress others with intelligence, money, style, importance, etc; modest=
+
+  - The girl next door portrayed herself in an unpretentious way so that she was beautiful without striving for attention.
+  - Her unpretentious niece would wear simple clothing and she would do her own hair which made her friends jealous of her.
+  - As the upstanding young man entered the room, his unpretentious nature led everyone to believe that he did not take time to consider his appearance
+  - When the nonprofit club catered to helping the homeless, the unpretentious club donated money and time anonymously.
+
+* [[https://wordsinasentence.com/unremitting-in-a-sentence/][Unremitting]]
+
+  =continuing without any type of interruption or decrease in intensity=
+
+  - Jim and Edith could not agree upon a divorce settlement because of their unremitting anger towards each other.
+  - During the summer months, the unremitting heat always causes a massive increase in power bills.
+  - Several months before the election, the mayor’s political rival launched an unremitting campaign against him.
+  - After Barbara realized her knee pain was unremitting, she decided to have surgery to avoid suffering forever.
+  - Recovering from heart surgery seemed to be an unremitting struggle for my grandfather.
+  - The man eventually confessed during the detective’s unremitting questioning.
+  - Because of unremitting pressure from the city council, the police chief finally stepped down from office.
+
+* [[https://wordsinasentence.com/unscathed-in-a-sentence/][Unscathed]]
+
+  =untouched or not damaged=
+
+  - Despite the vase’s tumble from the shelf, it is unscathed.
+  - It was a miracle Jim survived the car wreck completely unscathed.
+  - Somehow, the lone soldier made it across enemy lines unscathed.
+  - It was strange how the fire destroyed most of the city but left the church unscathed.
+  - In the trashcan, the homeless man found unscathed cans of food that were suitable for eating.
+  - Jan hoped her expensive furniture would make it through the cross-country move unscathed.
+  - While my home remained unscathed after the hurricane, my neighbor’s house was destroyed.
+
+* [[https://wordsinasentence.com/unscrupulous-in-a-sentence/][Unscrupulous]]
+
+  =unconcerned about doing what is right=
+
+  - The unscrupulous teacher offered to raise her student’s grade if he gave her one hundred dollars.
+  - When the unscrupulous insurance salesman sold me the policy, he did not tell me it would not be active for six months.
+  - The unscrupulous drug company lied about the benefits of its new drug.
+  - During the experiment, the unscrupulous scientist conducted drug tests on monkeys.
+  - The unscrupulous ticket scalper sold me fake tickets.
+  - Last month, several unscrupulous stockbrokers used insider knowledge to make gigantic personal trades.
+  - My neighbor is an unscrupulous woman who pretends to be a psychic in order to con trusting people.
+
+* [[https://wordsinasentence.com/unseemly-in-a-sentence/][Unseemly]]
+
+  =not in good taste=
+
+  - William acted in an unseemly manner when he wore his pajamas to his mother’s funeral.
+  - According to psychiatrists, child predators have an unseemly interest in young people.
+  - It will look unseemly if you file an insurance claim on the day your husband is murdered.
+  - When my mother remarried two days after her divorce was finalized, everyone said her behavior was unseemly.
+
+* [[https://wordsinasentence.com/unstinting-in-a-sentence/][Unstinting]]
+
+  =generously giving=
+
+  - The man showed his unstinting support of the business by writing several checks during hard times.
+  - Michelle Obama is known for her generous and unstinting support of military families.
+  - Haitian hurricane survivors thanked the volunteer doctors for their unstinting commitment to the sick.
+  - Mother Teresa was unstinting, giving so much of her money and time to help the poor.
+
+
+* [[https://wordsinasentence.com/untenable-in-a-sentence/][Untenable]]
+
+  =not capable of being supported or maintained=
+
+  - The losing debate team had an untenable argument.
+  - Since Jack and Jill felt that marriage was untenable, they decided to get a divorce.
+  - Atheists do not believe in the idea of a God because they see no proof of the untenable theory.
+  - Even after family therapy, the two sisters were unable to save their untenable relationship.
+  - The mayor’s proposal is untenable and will not gain the support of the city council.
+  - After the police realized Amanda’s alibi was untenable, they arrested her for murder.
+  - The medical student found it impossible to maintain his untenable habit of sleeping only three hours each night.
+
+* [[https://wordsinasentence.com/unwieldy-in-a-sentence/][Unwieldy]]
+
+  =hard to relocate because of its size=
+
+  - The young boy found it difficult to hold the unwieldy ball because of its huge size.
+  - Because the office paperwork has become unwieldy, the company is hiring a couple of temporary workers to help sort through the large stacks of paper.
+  - The SUV is so unwieldy I cannot properly steer it on the tiny dirt road.
+  - Since Frank is used to flying small jets, he found the commercial airliner a bit unwieldy under his control.
+  - Did the stupid terrorist really think he was going to be able to take an unwieldy weapon like a bazooka through airport security?
+  - The scrawny teenager could not push the unwieldy lawnmower around the yard.
+  - Compared to the tiny mobile phones today, the original mobile phones were unwieldy and difficult to hold.
+
+* [[https://wordsinasentence.com/unwitting-in-a-sentence/][Unwitting]]
+
+  =ignorant or unaware=
+
+  - The unwitting buyer has no clue what her interest rate is or how long she will have to pay on the loan.
+  - Unwitting passengers sat clueless on the plane, never realizing that there was a problem with the engine.
+  - At the party, the unwitting young woman was embarrassed to admit that she did not know who the Vice President was.
+  - The unwitting witness was questioned several times before detectives realized that he knew nothing more about the crime.
+
+* [[https://wordsinasentence.com/unwonted-in-a-sentence/][Unwonted]]
+
+  =something not seen often; not ordinary=
+
+  - Since Bill rarely came to church, even the priest was shocked by his unwonted appearance at the service.
+  - Elizabeth was stunned speechless when her teenage daughter gave her an unwonted kiss in public.
+  - Because Rick’s wife had just died, everyone was surprised by his unwonted happiness.
+  - The paralyzed soldier is going to receive the highest military award for displaying unwonted courage.
+
+* [[https://wordsinasentence.com/unyielding-in-a-sentence/][Unyielding]]
+
+  =not flexible; not easily moved or swayed=
+
+  - My unyielding father refused to increase my allowance.
+  - Because Jan has an unyielding commitment to the shelter, she will not stop working until we reach our fundraising goal.
+  - We were confident in our belief the dam would remain unyielding and not fall to the pressure of the water.
+  - Even the prescription drugs could not eliminate my unyielding depression.
+
+
+* [[https://wordsinasentence.com/urbane-in-a-sentence/][Urbane]]
+
+  =marked by sophistication=
+
+  - Henry is an urbane traveller who has visited over eighty countries.
+  - When the urbane heiress walked through the hotel, the hotel manager promptly greeted her with a bouquet of roses.
+  - Everyone wants to know why the urbane city people have decided to move to our small town.
+  - Unimpressed by urbane matters, my father yawned when my boyfriend started to talk about the price of his expensive suit.
+  - Brett is our best appliance salesman because his urbane personality can win over even the grouchiest female.
+  - When Marsha goes to bars, she often smokes fancy cigarettes to make herself appear urbane.
+  - Everything from the man’s tailored suit to his Italian shoes and expensive watch screamed urbane.
+
+* [[https://wordsinasentence.com/unaffected-in-a-sentence/][Unaffected]]
+
+  =not changed or altered=
+
+  - My sister’s home was ruined by the latest flood but my residence was unaffected.
+  - Some cities appear to be unaffected by the flu while others have had lots of people die from it.
+  - While a few companies will be unaffected by the cuts, many businesses will have to shut their doors.
+  - Drinking water helps some women lose pounds but my weight seems to be unaffected by it.
+
+* [[https://wordsinasentence.com/unassuming-in-a-sentence/][Unassuming]]
+
+  =not putting on airs; modest=
+
+  - The unassuming actor personally responds to his fan mail.
+  - When I walked into the unassuming restaurant, I was shocked to learn they had a world famous chef on staff.
+  - The supermodel turned down an arrogant football player to marry an unassuming auditor.
+  - While everyone expected the rap star to buy a mansion, he shocked the world by purchasing an unassuming cottage.
+
+
+* [[https://wordsinasentence.com/unconscionable-in-a-sentence/][Unconscionable]]
+
+  =not right or unreasonable=
+
+  - Allowing blind people the right to drive is not only foolish, but it is unconscionable.
+  - It is unconscionable that my school bus ride takes over an hour every morning, considering I live only 3 miles from school.
+  - The judge deemed the torture and killings of innocent people to be unconscionable.
+  - Spitting at the teacher is unconscionable conduct and such behavior is subject to expulsion.
+
+* [[https://wordsinasentence.com/uncouth-in-a-sentence/][Uncouth]]
+
+  =having a lack of acceptable manners=
+
+  - While George comes from a very wealthy family, he often behaves in an uncouth manner and acts as though he has no social skills at all.
+  - My mother banished my brother from the dinner table after he drank too much and started to act uncouth.
+  - The uncouth young man did not know which fork to use during the salad portion of the formal dinner.
+  - Because Sarah is well mannered and knows how to behave in social situations, she is the total opposite of her uncouth twin Lacey.
+  - Maria showed exactly how uncouth she was by appearing at Ann’s birthday party without an invitation.
+  - In my family, it is considered uncouth to question someone about the value of a gift they give you.
+  - Although Elaine has taken many classes on social customs, she is still uncouth and does not know how to properly greet foreign dignitaries.
+
+
+
+* [[https://wordsinasentence.com/undulate-in-a-sentence/][Undulate]]
+
+  =move with a smooth wavelike motion=
+
+  - The dancers’ movements were arranged so that they seemed to undulate like dolphins with the music.
+  - Because the ice skater had practiced her movements so much, she seemed to undulate on the ice.
+  - It is fun to watch the ocean waters undulate beneath our glass-bottom boat.
+  - Following their dance teacher’s lead, the students undulate around the room in a curvy motion.
+  - Because the wind was not blowing, the lake waters did not undulate a great deal.
+  - If you look closely, you can see the grass undulate in the breeze.
+  - On the cruise, I watched several sea animals undulate in the ocean.
+
+
+* [[https://wordsinasentence.com/unflappable-in-a-sentence/][Unflappable]]
+
+  =clear headed and serene during a catastrophe=
+
+  - When a deadly tornado raced across town, many residents panicked but Miles remained unflappable and calmly lead his neighbors to shelter.
+  - Firefighters must be unflappable during an emergency so that they can focus on putting out fires and rescuing those in danger.
+  - The wedding planner remained unflappable even as she was informed that the caterer failed to show up and the flowers were wilted because panicking would make things worse.
+  - Maya knew she had to be strong after her grandmother died, so she made phone calls, organized the funeral, and kept up an unflappable appearance even though she was crying inside.
+
+* [[https://wordsinasentence.com/unison-in-a-sentence/][Unison]]
+
+  =the condition of being in agreement or occurring at the same time=
+
+  - Because the singers sung in unison, it sounded like only one person was performing.
+  - Pay attention and cut when I cut because if the wires are not sliced in unison the bomb will explode.
+  - As if they were part of a mirror image, the twin boys scratched their heads in unison.
+  - Twins think alike so it is not uncommon for them to respond to questions in unison.
+
+* [[https://wordsinasentence.com/unkempt-in-a-sentence/][Unkempt]]
+
+  =not clean or tidy=
+
+  - An unkempt appearance was the least of the homeless man’s worries.
+  - Since Jack has not had a hair cut in six months, he looks somewhat unkempt.
+  - Excessive littering has turned this once clean soccer park into an unkempt field.
+  - After being locked in the dungeon for two years, the prisoner looked pale and unkempt.
+  - The unkempt garden was filled with weeds.
+  - As soon as the cleaners walked into the unkempt house, they knew it would take all day to clean the residence.
+  - Because the neglected children had been denied food and locked in an attic for a week, they were unkempt and hungry.
+
+* [[https://wordsinasentence.com/unprepossessing-in-a-sentence/][Unprepossessing]]
+
+  =looking plain or ordinary=
+
+  - The unprepossessing bookshelf looked like any other bookstand, giving no hint of what lay behind its novels.
+  - An unprepossessing rug, shaggy and plain, hid its magic beneath its ordinary-looking tassels.
+  - A wardrobe makeover would help the young woman replace her outdated and unprepossessing clothing in an attractive collection.
+  - The gate was rusty and unprepossessing, its lack of appeal making it a bad fit for the lovely mansion it led to.
+
+* [[https://wordsinasentence.com/unravel-in-a-sentence/][Unravel]]
+
+  =to cause something to separate or come apart=
+
+  - The tassels on the end of the rug have started to unravel and will need to be replaced.
+  - After months of investigating, police finally had proof that the suspect was lying and his tale began to unravel.
+  - We had to unravel the rope to make it long enough to reach across the bridge.
+  - Clues from the crime scene may help us unravel the mystery and solve the case.
+
+
+* [[https://wordsinasentence.com/unrepentant-in-a-sentence/][Unrepentant]]
+
+  =showing no regret for one has done wrong=
+
+  - Even after being sentenced for his crimes, the smug kidnapper was unrepentant.
+  - My son is always unrepentant for his wrongdoing, even when he is caught red-handed.
+  - The unrepentant shoplifter refused to admit what she did was wrong.
+  - Making excuses for the affair, the unrepentant husband refused to admit the affair was his fault and not caused by his wife.
+
+
+
+* [[https://wordsinasentence.com/upbraid-in-a-sentence/][Upbraid]]
+
+  =to harshly criticize=
+
+  - Without a doubt, my parents are going to upbraid me for not passing any of my classes this semester.
+  - Jim will often upbraid his wife for spending too much money at the mall.
+  - Since Chad has already appeared in court twice for the same offense, he is expecting the judge to upbraid him before giving out a lengthy sentence.
+  -  The police officer did not hesitate to upbraid the man for driving without insurance.
+  - When Jack failed to meet his sales quota, he knew his boss was going to upbraid him about his lack of effort.
+  - As long as I have a mother-in-law to point out my flaws, I never have to upbraid myself.
+  - Ginger is afraid of her husband so she will only upbraid his faults when he is not present.
+
+* [[https://wordsinasentence.com/upheaval-in-a-sentence/][Upheaval]]
+
+  =an abrupt disruption or change=
+
+  - The sudden closing of the interstate exit is going to be an upheaval for local residents.
+  - When the rebels tried to remove the dictator from power, their actions created an upheaval that left the country in chaos.
+  - The upheaval caused by the unexpected closing of the discount store left many workers without salaries to feed their families.
+  - While the new highway lanes are being built, the upheaval is sure to make rush hour traffic worse than it normally is.
+
+* [[https://wordsinasentence.com/upright-in-a-sentence/][Upright]]
+
+  =sitting or standing in a straight position=
+
+  - I can never fall asleep if I am sitting in an upright position.
+  - Hearing the noise in the hall way, the frightened woman quickly sat upright in her bed.
+  - No matter how many times we sit the flagpole upright, it always ends up slanted.
+  - The doctor claims that sitting with upright posture can help one avoid the back problems that come along with slumping.
+
+* [[https://wordsinasentence.com/uproar-in-a-sentence/][Uproar]]
+
+  =a situation in which many people are upset or angry=
+
+  - Uproar over the art piece began after it was found to be a fake.
+  - The president sparked an uproar when he shared top secret information with the Russians.
+  - Even though the uproar is over, a few people are still upset about the scam.
+  - The public uproar should have taught the airline company how to better handle upset customers.
+
+* [[https://wordsinasentence.com/uproarious-in-a-sentence/][Uproarious]]
+
+  =exceptionally funny=
+
+  - The comedian’s jokes were so uproarious I laughed until my stomach began to hurt.
+  - Throughout the uproarious movie, everyone in the theater was laughing.
+  - Even the singer could not help but chuckle when she heard the uproarious parody of her hit tune.
+  - The tension at the party was broken when everyone started to laugh at Rick’s uproarious dance moves.
+
+* [[https://wordsinasentence.com/utter-in-a-sentence/][Utter]]
+
+  =total or complete=
+
+  - The billionaire’s utter lack of arrogance makes him very approachable.
+  - Since my son showed an utter disregard for others by driving recklessly, he no longer has a license.
+  - The accident caused Tina to have an utter loss of memory.
+  - Because Linda is very clumsy, she is an utter failure as a waitress.
+
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

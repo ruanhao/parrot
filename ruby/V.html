@@ -1,0 +1,2329 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>V</title>
+<!-- 2018-05-22 Tue 22:01 -->
+<meta  charset="utf-8">
+<meta  name="generator" content="Org-mode">
+<meta  name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">V</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Vacillate</a></li>
+<li><a href="#sec-2">2. Vainglorious</a></li>
+<li><a href="#sec-3">3. Vainglory</a></li>
+<li><a href="#sec-4">4. Valiant</a></li>
+<li><a href="#sec-5">5. Vanity</a></li>
+<li><a href="#sec-6">6. Veer</a></li>
+<li><a href="#sec-7">7. Vehement</a></li>
+<li><a href="#sec-8">8. Venal</a></li>
+<li><a href="#sec-9">9. Venerable</a></li>
+<li><a href="#sec-10">10. Venerate</a></li>
+<li><a href="#sec-11">11. Venial</a></li>
+<li><a href="#sec-12">12. Venomous</a></li>
+<li><a href="#sec-13">13. Vent</a></li>
+<li><a href="#sec-14">14. Venture</a></li>
+<li><a href="#sec-15">15. Venturesome</a></li>
+<li><a href="#sec-16">16. Veracious</a></li>
+<li><a href="#sec-17">17. Veracity</a></li>
+<li><a href="#sec-18">18. Verdant</a></li>
+<li><a href="#sec-19">19. Vestige</a></li>
+<li><a href="#sec-20">20. Vex</a></li>
+<li><a href="#sec-21">21. Vexation</a></li>
+<li><a href="#sec-22">22. Viable</a></li>
+<li><a href="#sec-23">23. Vicious</a></li>
+<li><a href="#sec-24">24. Vicissitude</a></li>
+<li><a href="#sec-25">25. Vigilance</a></li>
+<li><a href="#sec-26">26. Vigilant</a></li>
+<li><a href="#sec-27">27. Vilify</a></li>
+<li><a href="#sec-28">28. Vindicate</a></li>
+<li><a href="#sec-29">29. Vindictive</a></li>
+<li><a href="#sec-30">30. Viral</a></li>
+<li><a href="#sec-31">31. Virtuoso</a></li>
+<li><a href="#sec-32">32. Virulence</a></li>
+<li><a href="#sec-33">33. Viscous</a></li>
+<li><a href="#sec-34">34. Vitiate</a></li>
+<li><a href="#sec-35">35. Vitriolic</a></li>
+<li><a href="#sec-36">36. Voluble</a></li>
+<li><a href="#sec-37">37. Voluminous</a></li>
+<li><a href="#sec-38">38. Voluptuous</a></li>
+<li><a href="#sec-39">39. Vacuous</a></li>
+<li><a href="#sec-40">40. Vagary</a></li>
+<li><a href="#sec-41">41. Vagrant</a></li>
+<li><a href="#sec-42">42. Valediction</a></li>
+<li><a href="#sec-43">43. Valedictory</a></li>
+<li><a href="#sec-44">44. Vandalism</a></li>
+<li><a href="#sec-45">45. Vanquish</a></li>
+<li><a href="#sec-46">46. Vantage</a></li>
+<li><a href="#sec-47">47. Vapid</a></li>
+<li><a href="#sec-48">48. Variance</a></li>
+<li><a href="#sec-49">49. Variegated</a></li>
+<li><a href="#sec-50">50. Vendetta</a></li>
+<li><a href="#sec-51">51. Vengeance</a></li>
+<li><a href="#sec-52">52. Vengeful</a></li>
+<li><a href="#sec-53">53. Venom</a></li>
+<li><a href="#sec-54">54. Ventilate</a></li>
+<li><a href="#sec-55">55. Ventriloquist</a></li>
+<li><a href="#sec-56">56. Verbatim</a></li>
+<li><a href="#sec-57">57. Verbiage</a></li>
+<li><a href="#sec-58">58. Verboten</a></li>
+<li><a href="#sec-59">59. Verdure</a></li>
+<li><a href="#sec-60">60. Verge</a></li>
+<li><a href="#sec-61">61. Veritable</a></li>
+<li><a href="#sec-62">62. Vernal</a></li>
+<li><a href="#sec-63">63. Vertex</a></li>
+<li><a href="#sec-64">64. Vertigo</a></li>
+<li><a href="#sec-65">65. Verve</a></li>
+<li><a href="#sec-66">66. Vestment</a></li>
+<li><a href="#sec-67">67. Veto</a></li>
+<li><a href="#sec-68">68. Vicar</a></li>
+<li><a href="#sec-69">69. Vicarious</a></li>
+<li><a href="#sec-70">70. Vicinity</a></li>
+<li><a href="#sec-71">71. Vie</a></li>
+<li><a href="#sec-72">72. Vile</a></li>
+<li><a href="#sec-73">73. Vindication</a></li>
+<li><a href="#sec-74">74. Vintage</a></li>
+<li><a href="#sec-75">75. Virility</a></li>
+<li><a href="#sec-76">76. Virtuosity</a></li>
+<li><a href="#sec-77">77. Visceral</a></li>
+<li><a href="#sec-78">78. Viscid</a></li>
+<li><a href="#sec-79">79. Vista</a></li>
+<li><a href="#sec-80">80. Vituperate</a></li>
+<li><a href="#sec-81">81. Vivacious</a></li>
+<li><a href="#sec-82">82. Volition</a></li>
+<li><a href="#sec-83">83. Voracious</a></li>
+<li><a href="#sec-84">84. Voracity</a></li>
+<li><a href="#sec-85">85. Votary</a></li>
+<li><a href="#sec-86">86. Voucher</a></li>
+<li><a href="#sec-87">87. Vying</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Vacillate</a></li>
+<li><a href="#sec-2">2. Vainglorious</a></li>
+<li><a href="#sec-3">3. Vainglory</a></li>
+<li><a href="#sec-4">4. Valiant</a></li>
+<li><a href="#sec-5">5. Vanity</a></li>
+<li><a href="#sec-6">6. Veer</a></li>
+<li><a href="#sec-7">7. Vehement</a></li>
+<li><a href="#sec-8">8. Venal</a></li>
+<li><a href="#sec-9">9. Venerable</a></li>
+<li><a href="#sec-10">10. Venerate</a></li>
+<li><a href="#sec-11">11. Venial</a></li>
+<li><a href="#sec-12">12. Venomous</a></li>
+<li><a href="#sec-13">13. Vent</a></li>
+<li><a href="#sec-14">14. Venture</a></li>
+<li><a href="#sec-15">15. Venturesome</a></li>
+<li><a href="#sec-16">16. Veracious</a></li>
+<li><a href="#sec-17">17. Veracity</a></li>
+<li><a href="#sec-18">18. Verdant</a></li>
+<li><a href="#sec-19">19. Vestige</a></li>
+<li><a href="#sec-20">20. Vex</a></li>
+<li><a href="#sec-21">21. Vexation</a></li>
+<li><a href="#sec-22">22. Viable</a></li>
+<li><a href="#sec-23">23. Vicious</a></li>
+<li><a href="#sec-24">24. Vicissitude</a></li>
+<li><a href="#sec-25">25. Vigilance</a></li>
+<li><a href="#sec-26">26. Vigilant</a></li>
+<li><a href="#sec-27">27. Vilify</a></li>
+<li><a href="#sec-28">28. Vindicate</a></li>
+<li><a href="#sec-29">29. Vindictive</a></li>
+<li><a href="#sec-30">30. Viral</a></li>
+<li><a href="#sec-31">31. Virtuoso</a></li>
+<li><a href="#sec-32">32. Virulence</a></li>
+<li><a href="#sec-33">33. Viscous</a></li>
+<li><a href="#sec-34">34. Vitiate</a></li>
+<li><a href="#sec-35">35. Vitriolic</a></li>
+<li><a href="#sec-36">36. Voluble</a></li>
+<li><a href="#sec-37">37. Voluminous</a></li>
+<li><a href="#sec-38">38. Voluptuous</a></li>
+<li><a href="#sec-39">39. Vacuous</a></li>
+<li><a href="#sec-40">40. Vagary</a></li>
+<li><a href="#sec-41">41. Vagrant</a></li>
+<li><a href="#sec-42">42. Valediction</a></li>
+<li><a href="#sec-43">43. Valedictory</a></li>
+<li><a href="#sec-44">44. Vandalism</a></li>
+<li><a href="#sec-45">45. Vanquish</a></li>
+<li><a href="#sec-46">46. Vantage</a></li>
+<li><a href="#sec-47">47. Vapid</a></li>
+<li><a href="#sec-48">48. Variance</a></li>
+<li><a href="#sec-49">49. Variegated</a></li>
+<li><a href="#sec-50">50. Vendetta</a></li>
+<li><a href="#sec-51">51. Vengeance</a></li>
+<li><a href="#sec-52">52. Vengeful</a></li>
+<li><a href="#sec-53">53. Venom</a></li>
+<li><a href="#sec-54">54. Ventilate</a></li>
+<li><a href="#sec-55">55. Ventriloquist</a></li>
+<li><a href="#sec-56">56. Verbatim</a></li>
+<li><a href="#sec-57">57. Verbiage</a></li>
+<li><a href="#sec-58">58. Verboten</a></li>
+<li><a href="#sec-59">59. Verdure</a></li>
+<li><a href="#sec-60">60. Verge</a></li>
+<li><a href="#sec-61">61. Veritable</a></li>
+<li><a href="#sec-62">62. Vernal</a></li>
+<li><a href="#sec-63">63. Vertex</a></li>
+<li><a href="#sec-64">64. Vertigo</a></li>
+<li><a href="#sec-65">65. Verve</a></li>
+<li><a href="#sec-66">66. Vestment</a></li>
+<li><a href="#sec-67">67. Veto</a></li>
+<li><a href="#sec-68">68. Vicar</a></li>
+<li><a href="#sec-69">69. Vicarious</a></li>
+<li><a href="#sec-70">70. Vicinity</a></li>
+<li><a href="#sec-71">71. Vie</a></li>
+<li><a href="#sec-72">72. Vile</a></li>
+<li><a href="#sec-73">73. Vindication</a></li>
+<li><a href="#sec-74">74. Vintage</a></li>
+<li><a href="#sec-75">75. Virility</a></li>
+<li><a href="#sec-76">76. Virtuosity</a></li>
+<li><a href="#sec-77">77. Visceral</a></li>
+<li><a href="#sec-78">78. Viscid</a></li>
+<li><a href="#sec-79">79. Vista</a></li>
+<li><a href="#sec-80">80. Vituperate</a></li>
+<li><a href="#sec-81">81. Vivacious</a></li>
+<li><a href="#sec-82">82. Volition</a></li>
+<li><a href="#sec-83">83. Voracious</a></li>
+<li><a href="#sec-84">84. Voracity</a></li>
+<li><a href="#sec-85">85. Votary</a></li>
+<li><a href="#sec-86">86. Voucher</a></li>
+<li><a href="#sec-87">87. Vying</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Author</td>
+<td class="left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="left">Date</td>
+<td class="left">2018-05-22 22:01:46</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/vacillate-in-a-sentence/">Vacillate</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>to waver between different opinions or actions; be indecisive</code>
+</p>
+
+<ul class="org-ul">
+<li>If you ask Paula to choose a restaurant for lunch, she will vacillate between restaurants forever.
+</li>
+<li>While King Henry was normally a good leader, he had the tendency to vacillate when important decisions needed to be made.
+</li>
+<li>If you vacillate between two positions, there is no way you will win the debate.
+</li>
+<li>Sally is beginning to vacillate about whether or not she wants to get married on Christmas Day.
+</li>
+<li>Jack and Jill vacillate between loving and hating each other on a daily basis.
+</li>
+<li>It is not uncommon for people to vacillate when it comes to choosing lottery numbers.
+</li>
+<li>Because her opinions rarely waiver, Ann is not one to vacillate on any subject which is important to her.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/vainglorious-in-a-sentence/">Vainglorious</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>overly proud of one’s own achievements; tending to boast about personal accomplishments</code>
+</p>
+
+<ul class="org-ul">
+<li>The vainglorious trainer spent more time flexing his own muscles than he did helping build his client’s.
+</li>
+<li>Giving a vainglorious speech, the self-important CEO went and on and on about how much he had done for the company.
+</li>
+<li>Although he insisted he wasn’t bigheaded, most of Travis’s family saw his has boastfully vainglorious.
+</li>
+<li>The vainglorious mayor cared not about the city but only about his person gains.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/vainglory-in-a-sentence/">Vainglory</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>extreme pride in ones work that can be excessive and showy</code>
+</p>
+
+<ul class="org-ul">
+<li>The student was filled with such vainglory over his Harvard admission that he made several copies of his acceptance letter and sent them to all of his relatives.
+</li>
+<li>With an overwhelming sense of vainglory, the soccer player took all of the family pictures off the fireplace mantle and replaced them with his trophies.
+</li>
+<li>Peter’s mother smiled at his vainglory as he boasted about his perfect SAT score to anyone who would listen.
+</li>
+<li>In a burst of vainglory, Janet taped her straight A report card on her twin sister’s door.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/valiant-in-a-sentence/">Valiant</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>displaying determination or courage</code>
+</p>
+
+<ul class="org-ul">
+<li>The valiant police officer was willing to take on the entire gang to save the little girl.
+</li>
+<li>During the ceremony, the president will present valiant soldiers with medals of bravery.
+</li>
+<li>Firemen are valiant individuals who put their lives on the line to save others.
+</li>
+<li>When the spotlight comes on, the valiant performer will jump off the tall building without a parachute.
+</li>
+<li>The valiant rescue workers continued to search for survivors inside the unstable building.
+</li>
+<li>Although Jack made a valiant effort to win the race, he came in second behind last year’s winner.
+</li>
+<li>Sir William is a valiant knight of the kingdom who has won many battles.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/vanity-in-a-sentence/">Vanity</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>excessive pride in or admiration of one's own abilities, appearance or achievements</code>
+</p>
+
+<ul class="org-ul">
+<li>Because vanity had caused too many girls to be late for classes, all mirrors were removed from the restrooms.
+</li>
+<li>Throughout history, vanity and excess pride have led to the downfall of many great men and women.
+</li>
+<li>While her vanity prompts her to spend ridiculous amounts of money on her hair products, she cuts corners where her children’s needs are concerned.
+</li>
+<li>Although it’s admirable that Rachel graduated from an ivy league university, her constant bragging about it is nothing but vanity.
+</li>
+<li>Even though it caused a lot of problems for Snow White, she would probably have never met Prince Charming if it hadn’t been for the evil Queen’s vanity.
+</li>
+<li>I stay healthy by going to the gym and avoiding sugar, but basically, my vanity is what keeps me motivated to be good.
+</li>
+<li>My mother always told me not to stare at myself in the mirror too long because it was a sign of vanity.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/veer-in-a-sentence/">Veer</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>to swerve or change direction</code>
+</p>
+
+<ul class="org-ul">
+<li>She helplessly watched the car in front of her veer into oncoming traffic and let out a breath when they quickly navigated back into the proper lane.
+</li>
+<li>The air traffic controller panicked when the plane began to veer off course and radioed to see if anything was wrong.
+</li>
+<li>In a split second decision, the student decided to veer left and go home instead of heading to her classes.
+</li>
+<li>The captain of the Titanic attempted to veer out of the way of the iceberg but the ice sideswiped the hull and the ship began to take on water.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/vehement-in-a-sentence/">Vehement</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>deeply felt; passionate</code>
+</p>
+
+<ul class="org-ul">
+<li>I was vehement about monitoring the actions of the police as they sought my husband’s killer.
+</li>
+<li>When people learned the banks were going to be bailed out by the government, they made vehement protests across the country.
+</li>
+<li>Jack’s enemies on the school board met his proposal with vehement opposition.
+</li>
+<li>Because Amanda was disappointed in the customer service she received, she wrote a vehement letter to the manager of the restaurant.
+</li>
+<li>In hopes of changing their school menu, the students staged a vehement protest outside the cafeteria.
+</li>
+<li>The voters were vehement in their efforts to remove the crooked politician from office.
+</li>
+<li>With tears in his eyes, the victim’s husband made a vehement plea for his wife’s killer to be executed.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/venal-in-a-sentence/">Venal</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>willing to do dishonest things in return for money; willing to take bribes</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the mayor was a venal man, he had no problem accepting bribes from real estate developers.
+</li>
+<li>The venal police officer accepted the money the drug dealers gave him to look away from their illegal deals.
+</li>
+<li>While the chemical company claimed to be environmentally friendly, it was actually managed by a venal executive who refused to pay for the proper disposal of wastes.
+</li>
+<li>The venal minister lied to the members of the church when he told them donations would earn them a place in heaven.
+</li>
+<li>Since a venal con artist raised Carl, it is not surprising that Carl grew up to be a thief.
+</li>
+<li>Some venal radio stations will not play music from independent labels unless they are offered bribes to do so.
+</li>
+<li>Because we did not see Jake as a venal man, we were completely shocked when he threw the boxing match for money.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/venerable-in-a-sentence/">Venerable</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>worthy of respect because of age, position, or dignity</code>
+</p>
+
+<ul class="org-ul">
+<li>The Pope is a venerable leader who is recognized for his commitment to helping others.
+</li>
+<li>Since she had worked as a teacher in the school system for over forty years, Mrs. Jenkins was considered a venerable educator who helped shape our community.
+</li>
+<li>The title of country president should only be held by a venerable man who has earned the respect of his countrymen.
+</li>
+<li>Although I often disagree with the movie critic’s reviews, I still view him as a venerable writer with years of experience.
+</li>
+<li>Surprisingly, the venerable general was held in high regard not only by his troops but also by his enemies.
+</li>
+<li>When I die, I hope people will view me as a venerable woman who gave back to her country.
+</li>
+<li>My favorite country artist is a venerable vocalist who has inspired many up-and-coming singers.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/venerate-in-a-sentence/">Venerate</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>to respect or worship someone or something</code>
+</p>
+
+<ul class="org-ul">
+<li>The Bible says we should venerate our parents and our elders.
+</li>
+<li>Although I do believe we should venerate honest politicians, I do not believe these individuals should be paid large salaries.
+</li>
+<li>Many people attend church services to venerate God.
+</li>
+<li>To venerate Mrs. Johnson’s fifty-five years of service in the school system, the county is naming a school in her honor.
+</li>
+<li>I cannot believe some people have the nerve to venerate the terrorist as a hero!
+</li>
+<li>In some cultures, it is mandatory that wives venerate their husbands and place them on pedestals.
+</li>
+<li>I prefer not to watch television shows that venerate unwed mothers making light of their personal situations.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/venial-in-a-sentence/">Venial</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>capable of being excused</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the principal felt the boys had committed a venial offense, he only gave them a light punishment.
+</li>
+<li>We excused our son’s venial lies.
+</li>
+<li>When Rick was pulled over for his venial wrongdoing, he was only given a warning by the officer.
+</li>
+<li>The priest spent his Saturday afternoon telling people how they could be forgiven for their venial sins.
+</li>
+<li>In order to relieve overcrowding, the prison system is going to parole hundreds of prisoners convicted for venial acts.
+</li>
+<li>Generally, young children are allowed to make venial mistakes without consequence.
+</li>
+<li>The teacher did not take off points for the venial errors in my paper.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-12" class="outline-2">
+<h2 id="sec-12"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/venomous-in-a-sentence/">Venomous</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>of animals, especially snakes, or their parts secreting venom; capable of injecting venom by means of a bite or sting</code>
+</p>
+
+<ul class="org-ul">
+<li>The park ranger warned the campers to watch out for venomous snakes.
+</li>
+<li>Scorpions, rattlesnakes, and vipers are venomous creatures whose bite or sting can cause extreme pain or even death.
+</li>
+<li>The child was rushed to the emergency room after he was bitten by a venomous snake.
+</li>
+<li>Perfectly harmless spiders are often killed because they resemble the venomous black widow or brown recluse.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-13" class="outline-2">
+<h2 id="sec-13"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/vent-in-a-sentence/">Vent</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>an opening that allows air, gas, or liquid to pass out of or into a confined space</code>
+</p>
+
+<ul class="org-ul">
+<li>A vent at the top of the chimney allows smoky air to escape and fresh air to enter the home.
+</li>
+<li>The dryer had a vent that expelled lint and hot air from the house.
+</li>
+<li>Most homes have at least one air vent that releases stale air from the house and allows clean, outside air to enter.
+</li>
+<li>A volcano is a natural vent that releases pent up hot air from the Earth’s surface in the form of lava.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-14" class="outline-2">
+<h2 id="sec-14"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/venture-in-a-sentence/">Venture</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>an undertaking that has some risk attached</code>
+</p>
+
+<ul class="org-ul">
+<li>Although the venture is going to cost me a lot of money, I can easily recoup my funds in three months if the business is successful.
+</li>
+<li>The investor would not put his money into any venture that would not triple his investment.
+</li>
+<li>Even though Justin considers himself to be very smart financially, he lost over a million dollars when his last venture failed.
+</li>
+<li>More than likely, Jill’s ice cream cart will only be a profitable venture during the summer months.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-15" class="outline-2">
+<h2 id="sec-15"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/venturesome-in-a-sentence/">Venturesome</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>having the tendency to willingly take risks or dangerous adventures</code>
+</p>
+
+<ul class="org-ul">
+<li>The venturesome couple climbed decided to climb Mount Everest for their honeymoon.
+</li>
+<li>Divers who choose to swim in shark infested waters are especially venturesome.
+</li>
+<li>The venturesome skydiver shocked the world when he announced he was going to jump from the plane without a parachute.
+</li>
+<li>The venturesome girl was willing to stick her hand in a basket full of poisonous vipers for a thousand dollars.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-16" class="outline-2">
+<h2 id="sec-16"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/veracious-in-a-sentence/">Veracious</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>honest; always truthful</code>
+</p>
+
+<ul class="org-ul">
+<li>“Honest” Abraham Lincoln was known as a veracious president who stood for truth.
+</li>
+<li>Always veracious, Grandma Marlene will tell you the truth even if it might hurt your feelings.
+</li>
+<li>Pinocchio was not known for being veracious as his lying got him in lots of trouble.
+</li>
+<li>After listening to all evidence, the jury found the veracious woman to be truthful and dismissed all charges.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-17" class="outline-2">
+<h2 id="sec-17"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/veracity-in-a-sentence/">Veracity</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>the quality of being truthful</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the witness is a known enemy of the defendant, his testimony certainly needs to be evaluated for its veracity.
+</li>
+<li>The police doubted the veracity of the suspect’s alibi.
+</li>
+<li>Until James saw the pictures proving the veracity of his wife’s affair, he did not believe any of the rumors.
+</li>
+<li>The teacher doubted the student’s veracity when he turned in a paper that had obviously been written by someone else.
+</li>
+<li>Although you and I both heard the same rumor about our company closing, we should not get upset until we verify the veracity of the information.
+</li>
+<li>The judge would not admit the evidence in the trial because he doubted the veracity of the bloodstains.
+</li>
+<li>Even though my friend believed in the veracity of the fortune-teller’s prediction, I had serious doubts about the woman’s ability to see the future.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-18" class="outline-2">
+<h2 id="sec-18"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/verdant-in-a-sentence/">Verdant</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>green with grass or other rich vegetation</code>
+</p>
+
+<ul class="org-ul">
+<li>After three years of drought conditions, the farmers welcomed the spring rains and hoped they would continue long enough to restore their crops to verdant abundance.
+</li>
+<li>When she meditates, Pauline goes to a place in her mind where she is surrounded by verdant pines, blue skies, and cool breezes.
+</li>
+<li>Two years after they bought the grand old estate, they had finally restored the grounds and gardens to their original verdant grandeur.
+</li>
+<li>The travelers were astounded when they climbed to the top of the parched mountain and found themselves looking down into a lush, verdant valley.
+</li>
+<li>I love this artist’s pastoral painting of cattle grazing peacefully in a verdant pasture, but I’m afraid the price is a little steep for me.
+</li>
+<li>While my sister was on her trip, she sent me regular emails with video attachments of colorful birds and monkeys that live in the verdant jungle around her hotel.
+</li>
+<li>Curly promised Willa that he would build her a house on the top of a hill so that she could enjoy the verdant view from every angle.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-19" class="outline-2">
+<h2 id="sec-19"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/vestige-in-a-sentence/">Vestige</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>the last small part of something that existed before</code>
+</p>
+
+<ul class="org-ul">
+<li>The shameless killer did not show a vestige of emotion when the judge sentenced him to death.
+</li>
+<li>How am I supposed to enjoy my cereal with nothing but that vestige of milk you left in the carton?
+</li>
+<li>After the huge fire, only a vestige of the house remained visible among the ashes.
+</li>
+<li>My critical mother-in-law has taken everything but the vestige of my self-esteem.
+</li>
+<li>Using a cleanser, Joan removed all but a vestige of makeup from her face.
+</li>
+<li>The sole sock on the floor is the vestige of my ex-husband’s belongings.
+</li>
+<li>After digging for hours, the researchers finally found the vestige of an ancient civilization.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-20" class="outline-2">
+<h2 id="sec-20"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/vex-in-a-sentence/">Vex</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>to bring trouble, distress, or agitation to</code>
+</p>
+
+<ul class="org-ul">
+<li>I get irritated when people go out of their way to vex me with their small problems.
+</li>
+<li>If you attempt to vex the dog by pulling his tail, he is sure to bite you!
+</li>
+<li>The job of the government is to eliminate the problems which vex our country.
+</li>
+<li>Because you are having a bad day, do not assume the entire world is out to vex you.
+</li>
+<li>When I am angry, I say things simply to vex my husband.
+</li>
+<li>The sound of a fly buzzing near my ear is something that can vex me to no end.
+</li>
+<li>Although my neighbors and I normally get along well, they do on occasion vex me with their late-night parties.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-21" class="outline-2">
+<h2 id="sec-21"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/vexation-in-a-sentence/">Vexation</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>the condition of being agitated</code>
+</p>
+
+<ul class="org-ul">
+<li>In vexation, I watched the neighbor’s dog poop in my yard.
+</li>
+<li>Bill could not hide his vexation when his wife stayed out all night.
+</li>
+<li>When the driver hit my car and rode away, there were no words for my vexation.
+</li>
+<li>The director experienced a great deal of vexation when the leading actress did not appear on set.
+</li>
+<li>In vexation, Kim called the hotel front desk to complain about the broken shower.
+</li>
+<li>To avoid the vexation caused by traffic, I normally leave work really early.
+</li>
+<li>As a waitress, Gail must often hide her vexation with annoying customers.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-22" class="outline-2">
+<h2 id="sec-22"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/viable-in-a-sentence/">Viable</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>having the possibility of being achieved or developed</code>
+</p>
+
+<ul class="org-ul">
+<li>If the project is not viable, there is no reason for us to consider it.
+</li>
+<li>Once upon a time, solar power was not viewed as a viable energy source.
+</li>
+<li>Without a viable strategy, the rebels will not be able to remove the dictator from power.
+</li>
+<li>The two small bookstores see a merger as the only viable means of competing with online booksellers.
+</li>
+<li>As a single mother with two small children, I do not believe working late at night is a viable solution to my money worries.
+</li>
+<li>Today global communication is viable without a telephone because of the Internet’s social applications.
+</li>
+<li>Without water and sunlight, the seeds stand no chance of being viable.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-23" class="outline-2">
+<h2 id="sec-23"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/vicious-in-a-sentence/">Vicious</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>violent, destructive and cruel</code>
+</p>
+
+<ul class="org-ul">
+<li>Mark is a vicious person who will spends years plotting how to take revenge on people that hurt him in any way.
+</li>
+<li>A vicious rumor swirled around campus that a teacher had slayed a student after the student threatened to report him to the police.
+</li>
+<li>Andy was struck by a vicious bout of meningitis which ultimately claimed his life.
+</li>
+<li>The cops are especially vicious in the downtown, searching for anyway to arrest people.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-24" class="outline-2">
+<h2 id="sec-24"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/vicissitude-in-a-sentence/">Vicissitude</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>a change of circumstances or fortune, typically one that is unwelcome or unpleasant.</code>
+</p>
+
+<ul class="org-ul">
+<li>The parental vicissitude I currently have is trying to pay child support for six children.
+</li>
+<li>My vicissitude in college was tackling seven classes and a job.
+</li>
+<li>Though he had many vicissitudes in life, nothing would stop him from becoming an entrepreneur.
+</li>
+<li>Some say that we must go through the vicissitudes in life to become a stronger person.
+</li>
+<li>Dealing with traffic is a vicissitude of city life.
+</li>
+<li>Against all physical vicissitudes, he still won first place in the 5K run.
+</li>
+<li>One vicissitude of owning a cat is that they shed hair everywhere.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-25" class="outline-2">
+<h2 id="sec-25"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/vigilance-in-a-sentence/">Vigilance</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>the state of keeping a careful watch for danger</code>
+</p>
+
+<ul class="org-ul">
+<li>Lack of vigilance caused the Titanic to crash into an iceberg that no one saw coming.
+</li>
+<li>Because of my neighbor’s vigilance, the intruder was caught in the act.
+</li>
+<li>The police recruit has a reputation for vigilance and keeping an eye out for danger.
+</li>
+<li>It takes vigilance from people who care to stop big companies from polluting our streams.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-26" class="outline-2">
+<h2 id="sec-26"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/vigilant-in-a-sentence/">Vigilant</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>watchful, especially for danger or disorder</code>
+</p>
+
+<ul class="org-ul">
+<li>Although this highway is a beautiful drive, you have to stay vigilant for deer and other animals in the road.
+</li>
+<li>In the aftermath of the hurricane, the engineer had to stay vigilant as he looked far ahead for hazards on the track.
+</li>
+<li>As the Secretary of Defense, it is your responsibility to remain vigilant to threats against Homeland Security.
+</li>
+<li>Public opinion varies between the groups who demand that we be more vigilant about immigrants crossing our borders and those who prefer a more humanitarian approach.
+</li>
+<li>Although she hated to admit it, Teresa realized that her bills were getting out of hand and she promised herself that she would be more vigilant about her spending habits.
+</li>
+<li>That movie producer is always vigilant about new trends in entertainment so that he can take advantage of what people are interested in at the moment.
+</li>
+<li>After the third robbery, the owner of the store finally realized that he hadn’t been vigilant enough about security and installed a cutting-edge alarm system.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-27" class="outline-2">
+<h2 id="sec-27"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/vilify-in-a-sentence/">Vilify</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>to utter slanderous and abusive statements against</code>
+</p>
+
+<ul class="org-ul">
+<li>Halle’s husband tried to vilify her during their child custody battle.
+</li>
+<li>Unfortunately, the internet and social media have made it very easy for people to vilify their enemies.
+</li>
+<li>The politician wrote an article to vilify his opponent.
+</li>
+<li>Because the celebrity felt the magazine editor tried to vilify her as a bad mother, she sued him for slander.
+</li>
+<li>After Jason was dumped by Laura, he did everything he could to vilify her to their friends.
+</li>
+<li>Because I took away my daughter’s mobile phone, she decided to vilify me on Facebook.
+</li>
+<li>When we are threatened by those who do not agree with our opinions, we often choose to vilify them to others.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-28" class="outline-2">
+<h2 id="sec-28"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/vindicate-in-a-sentence/">Vindicate</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>to clear from an accusation, suspicion or criticism</code>
+</p>
+
+<ul class="org-ul">
+<li>Although the new evidence seems to vindicate the defendant of the breaking and entering charges, there is still the matter of the assault.
+</li>
+<li>Don’t even try to use your charm and good looks to vindicate your obnoxious behavior last night.
+</li>
+<li>You can vindicate your claim to this property by showing us the original deed.
+</li>
+<li>If he can vindicate his client of the charges in spite of the circumstantial evidence against him, he will be performing a miracle.
+</li>
+<li>The novel takes an unexpected turn when the reader believes the protagonist is going to present evidence to vindicate his brother and keep him out of jail, and the evidence turns out to be his own confession.
+</li>
+<li>Because returning the items you shoplifted doesn’t totally vindicate you of all charges, you will need to perform twenty hours of community service.
+</li>
+<li>Despite my promise to vindicate him with his parents, he still didn’t trust me to tell them the truth about what had happened.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-29" class="outline-2">
+<h2 id="sec-29"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/vindictive-in-a-sentence/">Vindictive</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>having or showing a desire to hurt someone who has hurt or caused problems for you</code>
+</p>
+
+<ul class="org-ul">
+<li>My aunt is a vindictive woman who once burned all my uncle’s clothes.
+</li>
+<li>Although Harry claims he is not a vindictive person, he seemed pretty happy when he heard his abusive boss was getting fired.
+</li>
+<li>Katy’s vindictive nature led her to slash the tires on her ex-husband’s car.
+</li>
+<li>When you practice “an eye for an eye”, you are being a vindictive person who retaliates in kind.
+</li>
+<li>Throwing eggs at your neighbor’s house because he drove into your flowerbed is an example of vindictive behavior.
+</li>
+<li>While I am angry with Victoria, I will not be vindictive and make up lies about her.
+</li>
+<li>The defense attorney asked the jury to ignore the vindictive testimony of the defendant’s ex-girlfriend.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-30" class="outline-2">
+<h2 id="sec-30"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/viral-in-a-sentence/">Viral</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>something (a video, image, an advertisement) that is circulating rapidly on the internet</code>
+</p>
+
+<ul class="org-ul">
+<li>The image of the cat doing the Macarena went viral, gaining ten thousand likes in just one day.
+</li>
+<li>Although the President tried to take down his confusing tweet, it had already went viral online.
+</li>
+<li>Because his heroic speech went viral on YouTube, the man became an internet sensation in his home town.
+</li>
+<li>The attention seeker tried to gain more followers by releasing crazy videos and helping them go viral with fake account shares.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-31" class="outline-2">
+<h2 id="sec-31"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/virtuoso-in-a-sentence/">Virtuoso</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>a person (esp. a musician) who does something in a very skillful way</code>
+</p>
+
+<ul class="org-ul">
+<li>We sat in amazement as the young prodigy delivered a piano performance that revealed his unstoppable future as a virtuoso.
+</li>
+<li>As Jessica’s parents watched her play with the flute as a toddler, they knew their daughter would one day be a virtuoso in the world of classical music.
+</li>
+<li>Ruben is a musical virtuoso who runs his own school of music.
+</li>
+<li>Even though the virtuoso died over two centuries ago, his piano music is still being performed on a daily basis.
+</li>
+<li>Marilyn has spent a great deal of money on singing lessons in pursuit of her goal to become a vocal virtuoso.
+</li>
+<li>Do you think our small community can come up with enough money to convince the famous virtuoso to play a concert at our auditorium?
+</li>
+<li>While Jaime is no virtuoso on the guitar, he does maneuver the instrument well enough to play simple songs.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-32" class="outline-2">
+<h2 id="sec-32"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/virulence-in-a-sentence/">Virulence</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>the ability of a microorganism or bacteria to produce disease</code>
+</p>
+
+<ul class="org-ul">
+<li>The virulence of the microbes seemed to increase with time, producing more disease with time.
+</li>
+<li>Ebola is a disease with high virulence, meaning it’s microbes can take over a host with infection extremely quickly.
+</li>
+<li>Natural flora are bacteria but rarely make us sick because they are low on the virulence scale.
+</li>
+<li>Scientists rate AIDS and Malaria high on the virulence scale since they make their hosts very sick.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-33" class="outline-2">
+<h2 id="sec-33"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/viscous-in-a-sentence/">Viscous</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>having the characteristics of being sticky and/or thick and slow to move</code>
+</p>
+
+<ul class="org-ul">
+<li>It seemed to take forever for the viscous cough medicine to come out of the bottle.
+</li>
+<li>After attempting to pour the glaze over the ham, I realized I needed a spoon to remove the viscous mixture from the bowl.
+</li>
+<li>My daughter was very sticky after she covered herself with the viscous table syrup.
+</li>
+<li>Because honey is a viscous substance, it takes a great deal of work to remove it from a jar.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-34" class="outline-2">
+<h2 id="sec-34"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/vitiate-in-a-sentence/">Vitiate</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>to spoil, make faulty; to reduce the value, quality, or effectiveness of something</code>
+</p>
+
+<ul class="org-ul">
+<li>When peers and bullies apply pressure, it can vitiate the moral character of young people and lead them down the wrong path.
+</li>
+<li>Because of the obnoxious behavior of the defendant, the judge instructed the jury not to allow their personal feelings vitiate their objectivity in the case.
+</li>
+<li>You made a good decision, so don’t vitiate it by boasting about your success.
+</li>
+<li>While some public servants are found to be corrupt, it is impossible to vitiate the integrity of the majority of law enforcement officers by offering them a bribe.
+</li>
+<li>The defendant’s attorney used the profile presented by the psychologist to vitiate the circumstantial evidence against his client.
+</li>
+<li>Even though we believe that nothing can vitiate a mother’s love, we still occasionally hear tragic stories about mothers harming their children.
+</li>
+<li>We can’t allow that corporation to vitiate the purity of our drinking water by building a factory next to the river.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-35" class="outline-2">
+<h2 id="sec-35"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/vitriolic-in-a-sentence/">Vitriolic</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>harsh or corrosive in tone</code>
+</p>
+
+<ul class="org-ul">
+<li>What was supposed to be a civil debate turned into a debate reaching vitriolic levels, ending with both participants screaming obscenities.
+</li>
+<li>Me giving her a vitriolic critique might sting, but harsh is my middle name.
+</li>
+<li>Your vitriolic comments about my dress hurt my feelings!
+</li>
+<li>World War II was one of the most vitriolic wars of all time, killing over 50 million worldwide.
+</li>
+<li>The vitriolic email saddened my mother for weeks.
+</li>
+<li>My grandmother thinks metal is the most vitriolic music to ever exist, saying that it sounds purely evil.
+</li>
+<li>The couple exchanged vitriolic words before the fight broke out.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-36" class="outline-2">
+<h2 id="sec-36"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/voluble-in-a-sentence/">Voluble</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>characterized by ready or rapid speech; fluent</code>
+</p>
+
+<ul class="org-ul">
+<li>After my grandfather drinks a few beers, he becomes voluble and will not stop talking.
+</li>
+<li>The voluble politician was never at a loss for words.
+</li>
+<li>When I left a message on Jack’s answering machine, I spoke at a voluble pace to beat the twenty-second cutoff.
+</li>
+<li>In order to break the record for the fastest speaker in the world, you must be capable of talking at an extremely voluble speed.
+</li>
+<li>Tongue twisters are designed to be spoken by voluble presenters.
+</li>
+<li>Although Julian is normally a voluble speaker, he appeared speechless when he won the award.
+</li>
+<li>Sheila was a voluble council member who never hesitated to express her opinion on any subject.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-37" class="outline-2">
+<h2 id="sec-37"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/voluminous-in-a-sentence/">Voluminous</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>spacious; roomy</code>
+</p>
+
+<ul class="org-ul">
+<li>The hospital is adding a more voluminous waiting room on to his building in order to hold more patients.
+</li>
+<li>By booking a voluminous room at the inn, the grandfather made sure he had enough space for the entire family.
+</li>
+<li>The voluminous dress seemed to swallow the tiny dancer’s petite frame.
+</li>
+<li>In their voluminous wine cellar, the couple kept hundreds of bottles of various types of alcohol.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-38" class="outline-2">
+<h2 id="sec-38"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/voluptuous-in-a-sentence/">Voluptuous</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>displaying luxury and giving pleasure to the senses</code>
+</p>
+
+<ul class="org-ul">
+<li>Every once in a while I like to treat myself to the voluptuous indulgence of a spa weekend.
+</li>
+<li>Clearly a woman of elegance, her bedroom had a voluptuous quality with its silk sheets and velvet drapes.
+</li>
+<li>Although I love to experience a voluptuous evening out at the theater and an expensive dinner, I also enjoy the simple pleasure of watching the sun rise or hearing birds sing.
+</li>
+<li>Because he was initially attracted to her voluptuous lifestyle, he had only himself to blame for the bills she was racking up at the high end department stores.
+</li>
+<li>Even though the peaches looked like they would be a voluptuous treat, they were actually dry and tasteless.
+</li>
+<li>Marcie was planning an amazing meal for her dinner party, and she needed to find a voluptuous wine that would set it off perfectly.
+</li>
+<li>Marilyn Monroe was famed for her voluptuous beauty, her kittenish voice, and her dumb blonde persona.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-39" class="outline-2">
+<h2 id="sec-39"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/vacuous-in-a-sentence/">Vacuous</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>containing lack of thought or intelligence; containing nothing; empty</code>
+</p>
+
+<ul class="org-ul">
+<li>There is no substance to her vacuous claim on the property!
+</li>
+<li>Since the election is over, let us hope for a break from all the vacuous speeches.
+</li>
+<li>Although he had never been on an airplane, the old man could not resist making vacuous remarks about airline safety.
+</li>
+<li>Looking into his vacuous eyes, you could tell the cancer-stricken man had given up hope.
+</li>
+<li>Whenever Eileen started drinking, her mind would suddenly become vacuous.
+</li>
+<li>Bored with the vacuous chatter at the party, Mitchell went home and read a book.
+</li>
+<li>To Sarah, her life was just one vacuous day after another.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-40" class="outline-2">
+<h2 id="sec-40"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/vagary-in-a-sentence/">Vagary</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>an unpredictable action or behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>When the temperature dropped to freezing conditions on a summer day, it was a vagary of the weather.
+</li>
+<li>Hank’s outburst in church was a vagary that simply came out of nowhere.
+</li>
+<li>Because Kim has a bipolar disorder, she is known to display a vagary without any warning.
+</li>
+<li>Today’s stock market vagary cost investors millions of dollars.
+</li>
+<li>Because gamblers are familiar with the vagary of the gaming tables, they know luck can change in a hand.
+</li>
+<li>Leslie’s vagary at the party made everyone wonder if she had consumed too much alcohol.
+</li>
+<li>Although the detectives had encountered lots of killers with strange habits, nothing prepared them for the vagary of their latest suspect.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-41" class="outline-2">
+<h2 id="sec-41"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/vagrant-in-a-sentence/">Vagrant</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>an individual who lacks regular work and moves around frequently</code>
+</p>
+
+<ul class="org-ul">
+<li>The vagrant does not appear to work and frequently asks tourists for money.
+</li>
+<li>Because the vagrant has not had a bath in several weeks, he smells pretty bad.
+</li>
+<li>Have you seen the vagrant who sleeps by the big oak tree in the park?
+</li>
+<li>The media was quick to publicize the story of how the penniless vagrant won a scholarship to Harvard University.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-42" class="outline-2">
+<h2 id="sec-42"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/valediction-in-a-sentence/">Valediction</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>saying goodbye with an action</code>
+</p>
+
+<ul class="org-ul">
+<li>Jane waited for his valediction, but his stormed out of house without a single word or wave goodbye.
+</li>
+<li>He left a note on her pillow as a valediction instead of waking her up to say goodbye.
+</li>
+<li>The sailor turned and waved in valediction as the ship pulled away from the dock.
+</li>
+<li>She didn’t know how to say goodbye, so her valediction was to leave him behind a dozen of his favorite cookies.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-43" class="outline-2">
+<h2 id="sec-43"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/valedictory-in-a-sentence/">Valedictory</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>a big goodbye/farewell speech/announcement</code>
+</p>
+
+<ul class="org-ul">
+<li>Before the president leaves the White House forever, he makes a valedictory that is broadcasted on all major television networks.
+</li>
+<li>During his retirement party, their former boss read a valedictory thanking everyone for 20 wonderful years of successful business.
+</li>
+<li>On the last day of school, seniors wrote a valedictory stating what they would miss about high school and read it in front of the class for their final grade.
+</li>
+<li>Stan’s valedictory speech to his family the night before he deployed filled everyone with such love that they all cried.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-44" class="outline-2">
+<h2 id="sec-44"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/vandalism-in-a-sentence/">Vandalism</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>action involving deliberate destruction of or damage to public or private property</code>
+</p>
+
+<ul class="org-ul">
+<li>The couple was charged with vandalism after carving their initials into a famous sculpture.
+</li>
+<li>Most police officers consider graffiti vandalism, but historians see it as public expression and art.
+</li>
+<li>Two teens were charged with vandalism after the spray painted curse words on their elderly neighbor’s garage.
+</li>
+<li>Using toilet paper to cover someone’s house and egging someone’s car are two common forms of vandalism.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-45" class="outline-2">
+<h2 id="sec-45"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/vanquish-in-a-sentence/">Vanquish</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>to overcome, beat, or make disappear</code>
+</p>
+
+<ul class="org-ul">
+<li>In the movies, the superheroes usually vanquish the villains.
+</li>
+<li>Our team must vanquish a ten-point deficit in order to come back and win the championship.
+</li>
+<li>In her advertisement, the ghost chaser claims she can vanquish evil spirits.
+</li>
+<li>The spiritual healer will attempt to vanquish the dark forces surrounding your aura.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-46" class="outline-2">
+<h2 id="sec-46"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/vantage-in-a-sentence/">Vantage</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>a place or position affording a good view; an advantage</code>
+</p>
+
+<ul class="org-ul">
+<li>From my vantage point on the roof I could make out the advancing troops.
+</li>
+<li>From the second floor vantage, I could watch the show with ease.
+</li>
+<li>History is often viewed from the vantage point of the winner.
+</li>
+<li>The observatory deck is a great vantage point for viewing Manhattan.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-47" class="outline-2">
+<h2 id="sec-47"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/vapid-in-a-sentence/">Vapid</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>lacking liveliness; dull</code>
+</p>
+
+<ul class="org-ul">
+<li>To me, baseball is a vapid sport that quickly puts me to sleep.
+</li>
+<li>Although the actress was nominated for several awards, she was still criticized for her vapid portrayal of the world leader.
+</li>
+<li>The vapid entertainment did not hold the children’s attention.
+</li>
+<li>Because we did nothing but sit in the hotel room, our vacation was vapid and uninteresting.
+</li>
+<li>Because Carol was heavily medicated, all of her responses were vapid.
+</li>
+<li>The vapid lecture seemed to go on for days.
+</li>
+<li>Since Bill was nervous, his first standup routine was confusing and vapid.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-48" class="outline-2">
+<h2 id="sec-48"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/variance-in-a-sentence/">Variance</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>at odds with or conflicting with</code>
+</p>
+
+<ul class="org-ul">
+<li>The girl’s confident pose was at a variance with her shaky voice.
+</li>
+<li>The country’s position on the issue with at a variance with its allies.
+</li>
+<li>Sarah was at a variance with her husband about how to raise their child.
+</li>
+<li>The variance between their political views turned the family members into bitter enemies.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-49" class="outline-2">
+<h2 id="sec-49"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/variegated-in-a-sentence/">Variegated</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>having patches, spots, or streaks of different colors from the underlying or base color</code>
+</p>
+
+<ul class="org-ul">
+<li>Calico cats have variegated patches of fur.
+</li>
+<li>Some horses have variegated coats that feature spots of brown, white, or black all over their body.
+</li>
+<li>The variegated tulips had pink outer petals with streaks of yellow and white on the inside.
+</li>
+<li>The quilt had variegated sections of blue, green, and red.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-50" class="outline-2">
+<h2 id="sec-50"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/vendetta-in-a-sentence/">Vendetta</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>a series of actions taken to get back at or harm someone</code>
+</p>
+
+<ul class="org-ul">
+<li>The candidate’s vendetta against his challenger led him to question the man’s character.
+</li>
+<li>Because Helen stole Joan’s car, Joan has waged a vendetta against her.
+</li>
+<li>Jim was arrested for acting on a vendetta against the man who killed his wife.
+</li>
+<li>When the rapper made fun of his rival in a song, he let everyone know the vendetta had not been resolved.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-51" class="outline-2">
+<h2 id="sec-51"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/vengeance-in-a-sentence/">Vengeance</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>revenge for a wrong</code>
+</p>
+
+<ul class="org-ul">
+<li>When Jim did not get the justice he thought he deserved in court, he got his own vengeance by shooting his attacker.
+</li>
+<li>The murdered girl’s parents wanted vengeance in the form of the death penalty.
+</li>
+<li>After Will was fired for no reason, he sought vengeance by vandalizing his former supervisor’s vehicle.
+</li>
+<li>Everyone who sought vengeance against the crooked politician had a motive to kill him.
+</li>
+<li>Even if the kidnapper safely returns the mob boss’s daughter, he should still expect vengeance from the crime lord.
+</li>
+<li>Evan’s desire for vengeance led him to purchase a gun.
+</li>
+<li>Once my attacker had been prosecuted and sentenced to prison, my longing for vengeance was fulfilled.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-52" class="outline-2">
+<h2 id="sec-52"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/vengeful-in-a-sentence/">Vengeful</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>someone who is consumed by or actively seeking revenge for a wrong doing</code>
+</p>
+
+<ul class="org-ul">
+<li>The Count of Monte Cristo follows a vengeful Edmond Dantes on his quest to destroy the lives of those who had him falsely imprisoned.
+</li>
+<li>She didn't mean to be vengeful, but after the pain he'd caused her she felt entitled to revenge.
+</li>
+<li>The vengeful ghost finally got her revenge when she drove her assailant insane and he had to be committed.
+</li>
+<li>Guy Fawkes Day commemorates the day when a group of vengeful vigilantes were thwarted in their plot to blow up the Parliament building in England.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-53" class="outline-2">
+<h2 id="sec-53"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/venom-in-a-sentence/">Venom</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>a poisonous substance secreted by animals such as snakes, spiders, and scorpions and typically injected into prey or aggressors by biting or stinging</code>
+</p>
+
+<ul class="org-ul">
+<li>The scorpion stores venom in its tail and releases the powerful poison when it stings.
+</li>
+<li>Although scorpion venom is usually poisonous, some life-saving medications contain this dangerous liquid.
+</li>
+<li>Some snake venom causes a painful, burning sensation, while others lead to a horrible death.
+</li>
+<li>In the ocean, the blue-ringed octopus, box jellyfish, and stonefish all contain venom that is powerful enough to kill several humans with a single sting or bite.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-54" class="outline-2">
+<h2 id="sec-54"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/ventilate-in-a-sentence/">Ventilate</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>cause air to enter and circulate freely in (a room, building, etc.</code>
+</p>
+
+<ul class="org-ul">
+<li>Maria opened the windows to ventilate the dusty, old basement.
+</li>
+<li>After starting another fire in the kitchen, the terrible chef opened a window to let out the smoke and ventilate the room with fresh air.
+</li>
+<li>Fans are used to ventilate the home by collecting warm air at the ceiling and releasing it through air vents at the top of the house.
+</li>
+<li>Bryce hoped that by rolling down his car windows to ventilate the car, the smell of rotting fast food and dirty socks would be replaced with fresh, mountain air.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-55" class="outline-2">
+<h2 id="sec-55"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/ventriloquist-in-a-sentence/">Ventriloquist</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>a person who can speak or utter sounds so that they seem to come from somewhere else, especially an entertainer who makes their voice appear to come from a dummy of a person or animal</code>
+</p>
+
+<ul class="org-ul">
+<li>The children laughed as the ventriloquist made the doll speak without moving his lips.
+</li>
+<li>A skilled ventriloquist can trick the audience into believing that the doll or animal he is controlling is actually alive.
+</li>
+<li>A ventriloquist is a master of sounds and vocal chord control who can make it seem like they're speaking without moving their lips.
+</li>
+<li>Muppets are large stuffed animals controlled by a ventriloquist who makes it appear like they're speaking.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-56" class="outline-2">
+<h2 id="sec-56"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/verbatim-in-a-sentence/">Verbatim</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>repeating the exact words that were used</code>
+</p>
+
+<ul class="org-ul">
+<li>Do you have to repeat everything I say verbatim?
+</li>
+<li>It is the court reporter’s job to capture every word spoken verbatim.
+</li>
+<li>While my hearing is not perfect, I am certain I can repeat every word of her speech verbatim.
+</li>
+<li>It was obvious the playwright included lines from the book almost verbatim in his play.
+</li>
+<li>To test my grandmother’s memory, the doctor asked her to repeat his words verbatim.
+</li>
+<li>Because he had such a great memory, Jason could recite the lyrics of a song verbatim after only hearing it once.
+</li>
+<li>While the teacher was not looking, Janice copied Mark’s test answers verbatim.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-57" class="outline-2">
+<h2 id="sec-57"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/verbiage-in-a-sentence/">Verbiage</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>speech or writing that uses too many words or excessively technical expressions</code>
+</p>
+
+<ul class="org-ul">
+<li>In an attempt to confuse the jury, the attorney used a lot of legal verbiage.
+</li>
+<li>The book’s verbiage makes it a difficult read.
+</li>
+<li>Through its verbiage, the campaign poster implies John Smith is the better candidate.
+</li>
+<li>Politicians often use verbiage to mislead voters.
+</li>
+<li>While I normally like this magazine’s articles, this month they contain an excess of verbiage which makes them boring.
+</li>
+<li>As a writing teacher, I hate having to sort through all the verbiage my students use to pad their papers.
+</li>
+<li>My minister is known for his excessive verbiage.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-58" class="outline-2">
+<h2 id="sec-58"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/verboten-in-a-sentence/">Verboten</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>forbidden, prohibited</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of past arguments, political discusses are verboten at our dinner table.
+</li>
+<li>Gemma and Kate agreed that the discussion of their favorite television show was verboten until the new season aired.
+</li>
+<li>Since threatening a witness was verboten, the man felt more at ease to testify about his dealings with the defendant.
+</li>
+<li>Although they knew it was verboten, the girls usually snuck extra snacks into the movie theater.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-59" class="outline-2">
+<h2 id="sec-59"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/verdure-in-a-sentence/">Verdure</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>a thriving condition</code>
+</p>
+
+<ul class="org-ul">
+<li>One week after a successful surgery, John was in verdure and eager to leave the hospital.
+</li>
+<li>The verdure of the fertile soil will enable the farmer to have an excellent crop this year.
+</li>
+<li>Because many of our grapevines are not in verdure, our winery may struggle financially this year.
+</li>
+<li>Gail has a green thumb and can nurture dying plants into verdure.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-60" class="outline-2">
+<h2 id="sec-60"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/verge-in-a-sentence/">Verge</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>at the edge of, border of, or between two distinct sites</code>
+</p>
+
+<ul class="org-ul">
+<li>She stood on the verge of the lake at the line where the water met the sand.
+</li>
+<li>The mountain climber balanced on the verge of the cliff and if he leaned even a little he would topple over the edge.
+</li>
+<li>She sat on the verge of the pool and dunked her feet into the water.
+</li>
+<li>Maya and her family lived in a house on the verge between Canada and Washington.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-61" class="outline-2">
+<h2 id="sec-61"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/veritable-in-a-sentence/">Veritable</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>used to highlight the realness of a person, place, or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>As I watched my brother drink beer after beer, I realized he was a veritable sponge.
+</li>
+<li>The exhausted oil drillers celebrated, as their black puddle became a veritable fountain of oil.
+</li>
+<li>When the unruly students were left unattended, they turned the classroom into a veritable circus.
+</li>
+<li>Chocolate is a veritable addiction for many women.
+</li>
+<li>For the prom, the high school gym was turned into a veritable wonderland.
+</li>
+<li>The seven-acre pumpkin field was a veritable maze.
+</li>
+<li>With half of her co-workers home ill, Jill felt as though there was a veritable epidemic sweeping the office.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-62" class="outline-2">
+<h2 id="sec-62"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/vernal-in-a-sentence/">Vernal</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>fresh or youthful or immature attributes</code>
+</p>
+
+<ul class="org-ul">
+<li>The elderly woman had not been vernal for some time, but whenever her favorite song came on she felt as young and lively as when she was a teenager.
+</li>
+<li>The young boy glowed with vernal energy as he darted through the field, searching for Easter eggs.
+</li>
+<li>Because he was vernal and immature, many kids his age refused to hang out with him.
+</li>
+<li>Although he was 50 years old, he appeared much more vernal than he actually was.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-63" class="outline-2">
+<h2 id="sec-63"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/vertex-in-a-sentence/">Vertex</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>the tapering point where two lines meet</code>
+</p>
+
+<ul class="org-ul">
+<li>Wayne had the odd habit of eating his pizza from the vertex to the crust.
+</li>
+<li>The spine of a book is a vertex where pages meet.
+</li>
+<li>She climbed the pyramid until she reached the vertex and looked out at the miles of golden sand that flowed like waves in every direction.
+</li>
+<li>The point at the top of the McDonald’s golden arch is a vertex.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-64" class="outline-2">
+<h2 id="sec-64"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/vertigo-in-a-sentence/">Vertigo</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>the feeling of spinning and being lopsided, often as a result of an inner ear problem</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Kate suffers from vertigo, it is difficult for her to walk in a straight line.
+</li>
+<li>The vertigo makes Sarah so dizzy she might have to cancel her trip.
+</li>
+<li>During my doctor’s visit, I was told my lightheadedness was caused by vertigo brought on by an ear infection.
+</li>
+<li>Phil is sleeping in the den tonight because the vertigo has made him too unsteady to walk up the stairs.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-65" class="outline-2">
+<h2 id="sec-65"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/verve-in-a-sentence/">Verve</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>a combination of passion and energy that is typically found in artistic expression</code>
+</p>
+
+<ul class="org-ul">
+<li>Johnny Depp is known for eccentric performances that burst with verve and energy.
+</li>
+<li>The singer danced across the stage with endless verve and vitality that would have tired out any normal person.
+</li>
+<li>Marius professed his love to Cosette with such verve and passion that she swooned.
+</li>
+<li>Audiences loved to watch Beethoven because he played with such intense verve and energy.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-66" class="outline-2">
+<h2 id="sec-66"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/vestment-in-a-sentence/">Vestment</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>a religious marking, clothing, etc., that is typically worn for symbolic purposes</code>
+</p>
+
+<ul class="org-ul">
+<li>Shia Muslims wear a black vestment to symbolize the sufferings of a major martyr of Islam.
+</li>
+<li>Early Judaic high priests wore a vestment that consisted of a purple robe with gold bells and red fringe, a breastplate to hold, and a belt.
+</li>
+<li>In the Roman Catholic religion, the vestment that denotes ones place in the church hierarchy is the robe.
+</li>
+<li>Orthodox monks wear a black vestment to signify their purity and devotion to their faith.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-67" class="outline-2">
+<h2 id="sec-67"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/veto-in-a-sentence/">Veto</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>to forbid something</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I am a teenager, my father is sure to veto my request to go on an overnight trip with my boyfriend.
+</li>
+<li>The president will more than likely veto the bill since it does not include any of the components of his economic proposal.
+</li>
+<li>If the board does not like the applicant’s background, it will probably veto his hiring as company president.
+</li>
+<li>Even though you are a patient, you have the rights to veto a treatment recommended by your doctor and to seek other options.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-68" class="outline-2">
+<h2 id="sec-68"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/vicar-in-a-sentence/">Vicar</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>a priest of the Church of England who oversees a particular church and the area that surrounds it</code>
+</p>
+
+<ul class="org-ul">
+<li>All the churches in the area are group together and overseen by one appointed vicar.
+</li>
+<li>The vicar was representative of the Church of England and stood in place of the Pope at the rural chapel.
+</li>
+<li>The vicar road in on his horse, meeting his parishioners at the church he oversaw just before sundown.
+</li>
+<li>Needing someone to run all of the churches in the territory, the Bishop searched for a vicar to assign to the area.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-69" class="outline-2">
+<h2 id="sec-69"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/vicarious-in-a-sentence/">Vicarious</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>experienced or felt by watching, hearing about, or reading about someone else rather than by doing something yourself</code>
+</p>
+
+<ul class="org-ul">
+<li>As my daughter was crowned the winner of the beauty pageant, I felt vicarious excitement coursing through my veins.
+</li>
+<li>My paralyzed uncle takes vicarious pride in his son’s running achievements.
+</li>
+<li>Since I have many food allergies, I tend to be a vicarious eater who enjoys food through the stories of others.
+</li>
+<li>John experienced vicarious pain as his wife gave birth to their first child.
+</li>
+<li>When my teenage daughter got in trouble for skipping school, I felt a vicarious sense of guilt.
+</li>
+<li>As a young girl, I learned many vicarious lessons about love from my boy-crazed older sister.
+</li>
+<li>Although Marty could not attend the party, he hoped to receive vicarious pleasure from the stories told by his friends.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-70" class="outline-2">
+<h2 id="sec-70"><span class="section-number-2">70</span> <a href="https://wordsinasentence.com/vicinity-in-a-sentence/">Vicinity</a></h2>
+<div class="outline-text-2" id="text-70">
+<p>
+<code>nearby area</code>
+</p>
+
+<ul class="org-ul">
+<li>As parents we were upset when we learned ten sex offenders lived within the vicinity of our subdivision.
+</li>
+<li>You will find very few liquor stores in the vicinity of the religious community.
+</li>
+<li>In the vicinity of the police station, the crime rate is very low.
+</li>
+<li>There are many beggars in the vicinity of the homeless shelter.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-71" class="outline-2">
+<h2 id="sec-71"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/vie-in-a-sentence/">Vie</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>to take part in a contest or competition</code>
+</p>
+
+<ul class="org-ul">
+<li>In the championship game, the two teams will vie for the national title.
+</li>
+<li>The competitive twins often vie for the attention of their parents.
+</li>
+<li>This year eight candidates will vie for their political party’s endorsement.
+</li>
+<li>After the semifinal matches are complete, the winning tennis players will vie for the trophy.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-72" class="outline-2">
+<h2 id="sec-72"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/vile-in-a-sentence/">Vile</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>of low morals; despicable</code>
+</p>
+
+<ul class="org-ul">
+<li>The vile banker seemed to take great pleasure in foreclosing on the homes of elderly people.
+</li>
+<li>Although the cop had been in law enforcement for over thirty years, he had never seen such vile behavior as that exhibited by the flesh-eating killer.
+</li>
+<li>A rapist is a vile person who has no morals at all.
+</li>
+<li>In the fairytale, the vile queen tried to get rid of her stepdaughter.
+</li>
+<li>Slavery was a vile practice used to obtain free labor.
+</li>
+<li>When I heard James using vile language in front of my children, I asked him to leave my home.
+</li>
+<li>The vile man fed the dog rat poison.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-73" class="outline-2">
+<h2 id="sec-73"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/vindication-in-a-sentence/">Vindication</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>to prove that someone is not guilty of wrongdoing</code>
+</p>
+
+<ul class="org-ul">
+<li>The man felt personal vindication after police admitted he was not a suspect.
+</li>
+<li>After years of false imprisonment, the prisoner looked for vindication and repayment through the court.
+</li>
+<li>The woman’s vindication finally happened after years of trying to prove that she did not kill her husband.
+</li>
+<li>When taking the monetary settlement, the company gave up his right to seek vindication or justification from the courts.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-74" class="outline-2">
+<h2 id="sec-74"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/vintage-in-a-sentence/">Vintage</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>antique; old-fashioned</code>
+</p>
+
+<ul class="org-ul">
+<li>The vintage dress had been stored in the small trunk since the early 1930s.
+</li>
+<li>Placing the vintage clock on the wall, the decorator realized that she preferred dated pieces over modern.
+</li>
+<li>Vintage bicycles sell for a lot of money, simply because they are antiques.
+</li>
+<li>Our local antique store is having a sale on vintage dishes that were produced before 1960.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-75" class="outline-2">
+<h2 id="sec-75"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/virility-in-a-sentence/">Virility</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>being manly or masculine, especially in strength</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of her virility, the girl was referred to as a “tomboy” by most of her friends.
+</li>
+<li>Displaying his strength, the virile wrester always wanted to show off his manly muscles.
+</li>
+<li>Although he tried to show virility in front of his father, the frail young boy wasn’t much on masculinity or manliness.
+</li>
+<li>Both male gorillas fought for the top spot through shows of virility and mannish behavior.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-76" class="outline-2">
+<h2 id="sec-76"><span class="section-number-2">76</span> <a href="https://wordsinasentence.com/virtuosity-in-a-sentence/">Virtuosity</a></h2>
+<div class="outline-text-2" id="text-76">
+<p>
+<code>great skill in music or another artform</code>
+</p>
+
+<ul class="org-ul">
+<li>Full of ambition and virtuosity, the young jazz musician plays as much as possible to increase her skills.
+</li>
+<li>The talented singer’s virtuosity landed her a spot at the famed Apollo Theater.
+</li>
+<li>Drum stars are usually measured by their soloing ability and virtuosity.
+</li>
+<li>The artist’s amazing virtuosity allowed her to work with many different mediums.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-77" class="outline-2">
+<h2 id="sec-77"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/visceral-in-a-sentence/">Visceral</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>based on emotional reactions rather than on reason or thought</code>
+</p>
+
+<ul class="org-ul">
+<li>His visceral reaction of punching the wall left him with a broken hand on top of his broken heart.
+</li>
+<li>The visceral descriptions in the shark story were so vivid that I actually felt a little nauseated.
+</li>
+<li>Because some of the scenes in the movie were so visceral, I’m afraid certain images will be imprinted on my mind forever.
+</li>
+<li>On my trip to Disney World, I was happy to leave the intellectual adult side of me behind while I rediscovered the purely visceral wonder of my childhood.
+</li>
+<li>Although I admit that there’s definitely a visceral power in his art, I can’t look at it for very long because I find it so disturbing.
+</li>
+<li>As a detective with an almost perfect record for solving difficult cases, he relies on his visceral sense, in other words his gut feelings, to lead him in the right direction.
+</li>
+<li>Of all the issues that drive people apart politically, the Pro-Life/Pro-Choice discussions usually provoke the most visceral responses.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-78" class="outline-2">
+<h2 id="sec-78"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/viscid-in-a-sentence/">Viscid</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>sticky; gooey</code>
+</p>
+
+<ul class="org-ul">
+<li>Creating a viscid cake with caramel, the chef enjoyed making the ooey-gooey treat.
+</li>
+<li>Because it had been stuck so long, it was hard to scrub the viscid candy off the hardwood floor.
+</li>
+<li>The baby wiped her thick and viscid snot all over my brand-new dress.
+</li>
+<li>I used Elmer’s glue and water to make a viscid slime that oozed right out of the container.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-79" class="outline-2">
+<h2 id="sec-79"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/vista-in-a-sentence/">Vista</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>a distant view or scene</code>
+</p>
+
+<ul class="org-ul">
+<li>The vacationers could see their favorite bay vista from the top of the tower.
+</li>
+<li>One tower is remaining today, giving visitors a vista of the ancient city.
+</li>
+<li>Standing on the mountain top allowed the climber a vista of the entire tristate area.
+</li>
+<li>Gazing out at the beautiful view, the artist grabbed his pencil and began to sketch the vista.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-80" class="outline-2">
+<h2 id="sec-80"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/vituperate-in-a-sentence/">Vituperate</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>to insult or verbally attack someone using abusive language</code>
+</p>
+
+<ul class="org-ul">
+<li>We are sure that the nail technicians vituperate us in their own language when they are irritated.
+</li>
+<li>The woman’s husband tends to vituperate her when he drinks, always insulting her with foul remarks.
+</li>
+<li>To vituperate someone is almost as bad as assaulting them physically.
+</li>
+<li>Because the coach continued to vituperate his team with abusive talk, he was given a warning by the college dean.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-81" class="outline-2">
+<h2 id="sec-81"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/vivacious-in-a-sentence/">Vivacious</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>to be bubbly and energetic</code>
+</p>
+
+<ul class="org-ul">
+<li>When the vivacious child came through the school’s door on her first day of kindergarten, she spoke with every student and volunteered to do every activity.
+</li>
+<li>The young man drew attention as he entered the party due to his vivacious personality while he bounced around the room.
+</li>
+<li>Vivacious actresses typically get picked for comedic roles where the characters are very active by running around.
+</li>
+<li>In order for the contestant to do the vivacious dance, she knew she would need to improve her stamina and endurance due to all of those wild dance steps.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-82" class="outline-2">
+<h2 id="sec-82"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/volition-in-a-sentence/">Volition</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>the power to make your own decisions or choices</code>
+</p>
+
+<ul class="org-ul">
+<li>Despite my parents' preference, I have decided to attend an out-of-state college on my own volition.
+</li>
+<li>Nathan pled guilty to the crime on his own volition and against his attorney’s wishes.
+</li>
+<li>When the turkey is done, its thermometer will pop up by its own volition.
+</li>
+<li>Of his own volition, Matt lowered his gun and waited for the police to arrest him.
+</li>
+<li>Once the bear realizes there is no food in the trashcan, he will leave the property of his own volition.
+</li>
+<li>You should choose the people you vote for on your own volition and not by the preferences of others.
+</li>
+<li>When the front door seemed to open of its own volition, everyone in the room ran behind the couch.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-83" class="outline-2">
+<h2 id="sec-83"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/voracious-in-a-sentence/">Voracious</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>having a large appetite; greedy</code>
+</p>
+
+<ul class="org-ul">
+<li>The football player was a voracious eater who easily consumed two chickens during one meal.
+</li>
+<li>In the jungle, there are many voracious animals that will eat anything they can catch.
+</li>
+<li>When I was pregnant, I was voracious and ate constantly.
+</li>
+<li>According to legend, vampires are voracious creatures who must consume large amounts of blood in order to survive.
+</li>
+<li>Unfortunately, teenagers have become voracious consumers of reality television.
+</li>
+<li>After being sick and unable to eat for three days, I had a voracious hunger on the fourth day.
+</li>
+<li>Because the lion has a voracious appetite, it can easily eat a baby antelope.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-84" class="outline-2">
+<h2 id="sec-84"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/voracity-in-a-sentence/">Voracity</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>extreme hunger for food or an activity that is powerful and consuming</code>
+</p>
+
+<ul class="org-ul">
+<li>Her voracity for reading was marked by her overflowing bookshelves, too much money spent at her favorite little bookshop, and the fact that she read at least one book a day.
+</li>
+<li>The pregnant woman was so consumed by a voracity for pizza with anchovies that she ordered nearly a dozen large pizzas every two weeks.
+</li>
+<li>After completing a 12 mile jog, the runner was filled with a voracity for carbs that made her stop by the grocery store and buy a dozen donuts.
+</li>
+<li>The honors student was filled with such a voracity for learning that she read textbooks for fun.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-85" class="outline-2">
+<h2 id="sec-85"><span class="section-number-2">85</span> <a href="https://wordsinasentence.com/votary-in-a-sentence/">Votary</a></h2>
+<div class="outline-text-2" id="text-85">
+<p>
+<code>A person, such as a monk or nun, who lives a religious life according to vows they have made</code>
+</p>
+
+<ul class="org-ul">
+<li>The young man decided he wanted to devote his life to his religion and became a votary.
+</li>
+<li>Dressed in a habit, the votary prayed at the altar of his Catholic church.
+</li>
+<li>It is conflicting that Sister Mary wants to live on as a votary and get married.
+</li>
+<li>Amongst the many organized religions in Asia is Buddhism which allows a votary to practice in a spiritual peaceful way.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-86" class="outline-2">
+<h2 id="sec-86"><span class="section-number-2">86</span> <a href="https://wordsinasentence.com/voucher-in-a-sentence/">Voucher</a></h2>
+<div class="outline-text-2" id="text-86">
+<p>
+<code>piece of paper that entitles the holder to a discount</code>
+</p>
+
+<ul class="org-ul">
+<li>Although she was not doing well financially, Amber was able to buy lunch with a voucher.
+</li>
+<li>The voucher for a free coffee seemed trivial at the time, but was much needed the morning Mr. Ricks left his wallet at home.
+</li>
+<li>Unaware that the voucher was no more than a scam, the naïve woman spent hundreds of dollars preparing for a trip she would never enjoy.
+</li>
+<li>Her favorite birthday gift was the voucher that entitled her to a free deep tissue massage.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-87" class="outline-2">
+<h2 id="sec-87"><span class="section-number-2">87</span> <a href="https://wordsinasentence.com/vying-in-a-sentence/">Vying</a></h2>
+<div class="outline-text-2" id="text-87">
+<p>
+<code>involved in a competition for something</code>
+</p>
+
+<ul class="org-ul">
+<li>The two boys are both crazy about the head cheerleader and are constantly vying for her attention.
+</li>
+<li>As soon as the college announced it was looking for a head coach, several high school coaches began vying for the position.
+</li>
+<li>The two teams are vying for the championship trophy.
+</li>
+<li>On the dating show, the bachelorette has many men vying for her affection.
+</li>
+</ul>
+
+
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>

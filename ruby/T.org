@@ -1,0 +1,1290 @@
+#+TITLE:     T
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+#+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/tacit-in-a-sentence/][Tacit]]
+
+  =implied but not directly stated=
+
+  - Although no words were spoken, our nods represented our tacit agreement to a cease fire.
+  - In my business, all that is needed for a tacit understanding is a handshake between men.
+  - Even though my boyfriend and I have only been dating for three months, we have a tacit understanding to not date other people.
+  - In order to take the school field trip, you will need more than your parent’s tacit consent.
+  - Although the world leaders have not signed the treaty yet, they have made a tacit pact on nuclear disarmament.
+  - The police always have the tacit understanding they can do whatever it takes to protect the lives of the public.
+  - During the minister’s speech, I found myself nodding in tacit support.
+
+* [[https://wordsinasentence.com/tactile-in-a-sentence/][Tactile]]
+
+  =in regards to the sense of touch=
+
+  - The child’s tactile response was to move her hand away from the hot stove.
+  - When I accidently touched the cactus, my tactile senses told my brain to quickly remove my fingers.
+  - I receive a tactile pleasure each time I run my hand over the plush carpet.
+  - In the aquarium, there is a tactile exhibit where students can touch exotic ocean creatures.
+  - The man who was both blind and deaf relied on his tactile senses to move safely around his house.
+  - After the surgery, the doctor attempted to get the patient to respond to tactile stimulation by hitting him gently with a reflex hammer.
+  - The blind girl used her tactile sense to read the book that was written in Braille.
+
+
+* [[https://wordsinasentence.com/tangential-in-a-sentence/][Tangential]]
+
+  =not directly related to something=
+
+  - I hardly ever learn anything in my history class because my teacher always rambles off on a tangential topic that has nothing to do with history.
+  - During the student’s presentation, she was so nervous her speech was filled with tangential thoughts that were not related to each other.
+  - Our team lost the debate because our responses were tangential and did not respond to our opponent’s position on the subject.
+  - Although Alan owned a part of the basketball team, he had only a tangential interest in the sport and rarely watched the games.
+
+* [[https://wordsinasentence.com/tangle-in-a-sentence/][Tangle]]
+
+  =to become mixed together or intertwined=
+
+  - Tara’s mother yelled as Tara was getting out of the shower, “If you don’t comb your wet hair, it may tangle.”
+  - Environmentalists argue against the manufacturing of plastic due to the fact that marine life often tangle with the plastic trash in the ocean.
+  - No matter how much I tried to keep the cords neat behind the television set, they would always tangle with each other.
+  - All the string in the basket would tangle and be difficult to unravel.
+
+* [[https://wordsinasentence.com/tantalize-in-a-sentence/][Tantalize]]
+
+  =to tease someone with a promise and then not deliver upon it=
+
+  - In an attempt to tantalize me, my personal trainer offered a piece of cake as an incentive for me to finish my three miles on the treadmill.
+  - A car salesman will often tantalize you with an expensive vehicle that is not within your budget.
+  - Because my baby sister likes to tantalize the dog, she will sometimes offer him a bone and then take it back.
+  - The purpose of a lottery commercial or radio advertisement is to tantalize people into believing they can become wealthy with the purchase of a lottery ticket.
+  - When my rival got the bike I wanted, she rode by my house just to tantalize me.
+  - The gym’s commercial strives to tantalize consumers with a low introductory rate that increases as soon as a person walks through the door.
+  - Although the strange man tried to tantalize the girl with ice cream, he still could not get her inside of his van.
+
+* [[https://wordsinasentence.com/tantamount-in-a-sentence/][Tantamount]]
+
+  =equal to something=
+
+  - Mooching off your mother at age 35 is tantamount to being a lazy bum.
+  - To leave a dog in a hot car is tantamount to torture.
+  - Some parents say that spanking is tantamount to child abuse while others believe it's effective discipline.
+  - Taking money from your mother's purse without asking her first is tantamount to stealing.
+  - While some believe IQ tests are tantamount to measuring your true intelligence, others believe these tests cannot survey your intellect.
+  - Many consider the old man's efforts of cooking for the homeless tantamount to charity.
+  - Young man, your behavior in church should be tantamount to that of a behaved gentleman!
+
+
+* [[https://wordsinasentence.com/taper-in-a-sentence/][Taper]]
+
+  =to make thinner or narrower at one end or to diminish gradually=
+
+  - The more I sketched my drawing, the more my pencil began to taper.
+  - The woman asked the artist to gradually taper her tattoo down her back.
+  - Because the uneven walls would taper, the room would be difficult to wallpaper.
+  - Her hair color tapered from brown to red.
+
+* [[https://wordsinasentence.com/tardy-in-a-sentence/][Tardy]]
+
+  =late to a specific event or delayed beyond the expected time=
+
+  - Students who do not arrive to class on time are tardy, and they often receive some sort of penalty for it.
+  - I missed my train because I was tardy in arriving to the metro, forcing me to wait for the next one.
+  - I was tardy to my own wedding, but only because there was an accident on the road that stopped traffic.
+  - Because the point of an interview is to make a good impression on a potential employer, you should never be tardy.
+
+* [[https://wordsinasentence.com/tarnish-in-a-sentence/][Tarnish]]
+
+  =a dullness of color or luster=
+
+  - The once shiny candlesticks now only had a tarnish about them, not being as pretty as they once were.
+  - Tarnish on silverware makes them less valuable than new silverware, because they are no longer shiny and reflective.
+  - If you touch silver too much you will make it tarnish, causing it to lose its luster and be less valuable.
+  - The once shiny doorknob has been touched so much that it now has only a dull and lifeless tarnish.
+
+* [[https://wordsinasentence.com/taunt-in-a-sentence/][Taunt]]
+
+  =using insults to try and trigger a response=
+
+  - As the visiting team walked on the court, the hometown fans began to taunt the players.
+  - Sometimes Billy fakes an illness so he does not have to deal with the bullies who taunt him at school.
+  - When the girl chose to taunt her enemy on social media, she did not realize other people would attack her in retaliation.
+  - The demonstrators yelled foul chants to taunt the police officers.
+
+* [[https://wordsinasentence.com/taut-in-a-sentence/][Taut]]
+
+  =stressed to the point of being nervous=
+
+  - As I waited for the results of my lab tests, I was taut with anxiety.
+  - Bill was taut with worry as he waited for the doctor to update him on his wife’s recovery status.
+  - Since I wanted to have the perfect wedding, I was taut with nerves on the day of the event.
+  - Jim’s preparation for his final exam left him taut and irritable.
+  - Although Henry has flown many times, he still gets taut every time he boards a plane and has to calm himself with a scotch and soda.
+  - It was apparent from the girl’s pale face that the idea of riding the roller coaster made her taut.
+  - As Frank moved from one stage of the competition to the next, his brain became taut from the pressure.
+
+* [[https://wordsinasentence.com/tawdry-in-a-sentence/][Tawdry]]
+
+  =cheap and poor in appearance or quality=
+
+  - Everyone is always expecting a politician to have a tawdry affair.
+  - Although Aunt Eloise had lots of money, she always wore such tawdry jewerly.
+  - Most people consider reality shows to be tawdry forms of entertainment.
+  - Have you ever read any of those tawdry stories in that gossip magazine?
+  - Despite the fact Angelina plays a tawdry woman on television, she is actually very sophisticated in real life.
+  - The white dress was thin and tawdry.
+  - Ginger’s tawdry taste in clothes totally embarrassed her teenage daughter!
+
+* [[https://wordsinasentence.com/taxing-in-a-sentence/][Taxing]]
+
+  =physically or mentally challenging/demanding=
+
+  - Working all day and raising a family can be a taxing task on any single parent.
+  - After a rough few months at work, we needed a vacation to overcome our mentally and physically taxing careers.
+  - Although he has a physically taxing job, the mechanic enjoys the challenge of his profession.
+  - Because she works all day with no break, the teacher’s taxing job often leaves her exhausted.
+
+* [[https://wordsinasentence.com/tedium-in-a-sentence/][Tedium]]
+
+  =the condition of being dull or boring for a long period=
+
+  - To ease the tedium of looking at accounting forms all day, I listen to bubbly music while I work.
+  - We went to the golf range after a day of tedium at the office.
+  - Because the tedium of the book’s plot made me drowsy, I fell asleep while reading.
+  - The yawning student walked out of class when he could no longer bear the tedium of the professor’s lecture.
+
+* [[https://wordsinasentence.com/teem-in-a-sentence/][Teem]]
+
+  =to be present or gather in a large number=
+
+  - Honeycombs teem with worker bees who work tirelessly to produce honey for their queen.
+  - After major award shows like the Grammys, paparazzi and reporters teem the red carpet.
+  - Emergency personnel teem at the scene of the accident.
+  - Suddenly the river began to teem with salmon and the hungry bears eagerly took to the water for food.
+
+* [[https://wordsinasentence.com/temperate-in-a-sentence/][Temperate]]
+
+  =to have moderate or mild weather=
+
+  - Living in a temperate climate, I sometimes had to wear my jacket in the early fall since it was cool outside.
+  - While walking through the temperate forest, the rain began to fall heavily through the leaves in the warm summer temperature.
+  - Since I live in a temperate region, I experience all of the seasons from warm summers to cold winters.
+  - As Jeff and Jen toured the country in the temperate climatic zone, they knew crops could grow here due to the heat of the sun not being too hot.
+
+* [[https://wordsinasentence.com/temporal-in-a-sentence/][Temporal]]
+
+  =associated with the real world and not the spiritual world=
+
+  - Liam's very religious aunt believes people should shun temporal pleasures and focus on being worthy of the joys of the afterlife.
+  - According to my minister, those who follow the path of Christ will not be bothered with temporal chores like eating in the spiritual world.
+  - The monk’s commitment requires him to ignore the temporal pleasures of the world.
+  - Since the atheist does not believe in a heavenly world, he focuses on enjoying the temporal amusements of life.
+  - Mark has no fear of dying and leaving the temporal world behind because he knows he will live forever in God’s kingdom.
+  - While pastors focus on the spiritual wellbeing of individuals,  cruise directors ensure guests enjoy the temporal delights of the voyage.
+  - Rachel was impatient for the church service to end so she could return to her temporal life with her online friends.
+
+
+* [[https://wordsinasentence.com/tenable-in-a-sentence/][Tenable]]
+
+  =able to be protected or maintained=
+
+  - During the battle, we were fortunate to be safe behind a tenable castle wall.
+  - Jim lost the debate because his argument was not tenable and quickly fell apart.
+  - As the game neared its end, the coach told his players to hold a tenable position so their rivals could not score a touchdown.
+  - The defense attorney knew his client would need a tenable alibi to stay out of jail.
+  - After three years of research, the scientist was able to present a tenable theory to an important scientific journal.
+  - Adam knew his claim of innocence was no longer tenable when the DNA results linked him to the crime.
+  - If you do not eat well before the race, it will be difficult to keep your energy level tenable.
+
+* [[https://wordsinasentence.com/tenacious-in-a-sentence/][Tenacious]]
+
+  =not readily letting go of or giving up=
+
+  - Even though Jackson was smaller than his other teammates, his tenacious attitude allowed him to accomplish as much as they did.
+  - Because Eva was tenacious, she rose each time she fell.
+  - Trapped in the cabin, the tenacious teenager would not quit until she found a way to escape.
+  - Although the odds were against them, the tenacious group of soldiers held on until reinforcements arrived.
+  -  Although my grandmother’s doctor told her she needed to quit smoking, she remained tenacious and would not give up her favorite habit.
+  - The tenacious match between the two wrestling champs did not end until one of them passed out in the ring.
+  - Determined to capture the killer, the police officer was tenacious in his pursuit.
+
+* [[https://wordsinasentence.com/tenacity-in-a-sentence/][Tenacity]]
+
+  =the quality of being determined to do or achieve something=
+
+  - Jake’s tenacity allowed him to excel in college while working two jobs.
+  - While Aaron is not the largest football player on the team, he has a tenacity that makes him just as productive as his biggest teammate.
+  - Unpacking all these boxes is going to require a great deal of tenacity.
+  - By sheer tenacity alone, I have made it through medical school while being a single mother.
+  - Alone on the deserted island, the man knew he would need tenacity to survive until the rescuers arrived.
+  - The male hikers were pleasantly surprised by Katie’s tenacity on the tiring journey.
+  - If it were not for the tenacity of the civil rights leaders, many people would still not be able to vote in this country.
+
+* [[https://wordsinasentence.com/tendentious-in-a-sentence/][Tendentious]]
+
+  =exhibiting a certain prejudice towards a subject=
+
+  - The president was tendentious on his plan for the company and would not listen to other options.
+  - Because my father is tendentious on the subject of interracial relationships, he will not acknowledge my black boyfriend.
+  - I left my church because of the minister’s tendentious attitude about the importance of rejecting nonmembers.
+  - As I read the tendentious book review, it was obvious the reviewer had a personal issue with the author.
+
+* [[https://wordsinasentence.com/tenet-in-a-sentence/][Tenet]]
+
+  =a belief or opinion considered valid by a group or individual=
+
+  - According to the church’s tenet, ministers are forbidden to marry so they can give their entire souls to God.
+  - Many people believe the tenet that parents should be responsible for the behaviors of their children.
+  - While I do not discourage you from drinking alcohol, my religious tenet limits my drinking to non-alcoholic substances.
+  - As a doctor, Kent strongly believes the tenet of never doing any harm.
+  - The primary tenet of our political system is the belief all people have the right to vote.
+  - Despite popular beliefs, polygamy is not a tenet of the Mormon religion.
+  - The members of the cult unconditionally accepted their prophet’s tenet about the existence of life after death.
+
+* [[https://wordsinasentence.com/tenuous-in-a-sentence/][Tenuous]]
+
+  =weak and likely to change; having little substance or strength=
+
+  - Because the evidence against her is tenuous, the accused murderer will be released from jail on bail.
+  - Since we are separated in age by eight years and have few common interests, my sister and I only share a tenuous bond of friendship.
+  - The uneducated man made a tenuous argument against the importance of obtaining a higher education.
+  - Although the frozen lake was quite tenuous and unstable, Henry still decided to cross it on foot.
+  - As long as you can only provide tenuous proof the billionaire was your father, you will never receive a portion of his estate!
+  - The judge called the defense’s argument tenuous and ruled in favor of the plaintiff.
+  - Since I am not feeling very well today, the odds of me attending the party are tenuous.
+
+* [[https://wordsinasentence.com/tepid-in-a-sentence/][Tepid]]
+
+  =displaying little interest or enthusiasm=
+
+  - The play’s premiere received tepid reviews from the disappointed critics.
+  - From Jared’s tepid response, it was obvious he did not like his Christmas gift.
+  - The president has seen his popularity grow tepid ever since he mishandled the budget crisis.
+  - After ten years of marriage, the couple’s sex life has become tepid and unexciting.
+  - My sister recently lost her government job because the state’s tepid economy has resulted in numerous cutbacks.
+  - Because of poor sales this year, the company has a tepid forecast for its profit margin.
+  - Sheila knew her husband’s passion had become tepid when he stopped kissing her each morning.
+
+
+* [[https://wordsinasentence.com/terse-in-a-sentence/][Terse]]
+
+  =a very short statement or remark=
+
+  - When Jessie is angry, she only gives terse responses.
+  - Because they had little information on the suspect, the police issued only a terse statement to the media.
+  - Her email was so terse I could only wonder if she was upset about something.
+  - Although Phillip is known for making long speeches, this speech was incredibly terse.
+  - When I asked if I could borrow his car, my father sent me away with a terse refusal.
+  - To make a long story terse, we never made it to the game that night because of the flat tire.
+  - My husband’s terse one-word reply let me know he was not pleased with me coming home late.
+
+* [[https://wordsinasentence.com/thatch-in-a-sentence/][Thatch]]
+
+  =the top part on a house made of hay, stalks, grasses or foliage=
+
+  - Wind blew away part of the thatch on the cottage causing droplets of water to pour down into the rooms.
+  - Tribal villages frequently will have a roof of thatch and stick walls so that a breeze can blow through the house on the hot days.
+  - If the thatch remains intact while in the midst of the hurricane, then just about any material could be used for the roof in this tropical area.
+  - In order to use a thatch on the roof, the roofers gathered many pieces of straw and plots of sod to weave over the frame of the house.
+
+* [[https://wordsinasentence.com/theatrical-in-a-sentence/][Theatrical]]
+
+  =pertaining to drama or the performing arts=
+
+  - Bryson Middle School’s theatrical production of Annie was being shown at the school’s auditorium for three nights.
+  - Needing someone who was skilled in theatrical make-up, the director interviewed a few candidates who had worked behind the stage of Broadway.
+  - For Halloween I went to a costume shop for a superhero costume, but all they seemed to have were theatrical costumes for period pieces.
+  - Due to Sarah’s dramatic ways of expression, her simple speech about social media turned into a theatrical presentation.
+
+* [[https://wordsinasentence.com/thematic-in-a-sentence/][Thematic]]
+
+  =pertaining to a certain topic, idea or matter=
+
+  - Ms. Taylor taught all of her subjects in her 4th grade class using a thematic unit about careers.
+  - On the thematic map depicting the agriculture grown in the U.S., the students were able to determine that rice is grown in Mississippi and grapes on the West Coast.
+  - While the scientist gathered his qualitative data, he was able to determine the pattern of rain due to his thematic analysis of the examined data.
+  - After years of study, Dr. Hodges gave his thematic perspective to the development of the elephant’s lifespan before moving on to another animal.
+
+* [[https://wordsinasentence.com/therapeutic-in-a-sentence/][Therapeutic]]
+
+  =associated with the healing of a sickness=
+
+  - The therapeutic massage relieved the pain in my back.
+  - If this medicine does not afford me any therapeutic benefits, I see no point in taking it.
+  - I use yoga as a therapeutic tool to help me relieve stress.
+  - Since the antibiotic did not provide me with any therapeutic relief, my doctor gave me a new prescription.
+
+
+
+* [[https://wordsinasentence.com/thwart-in-a-sentence/][Thwart]]
+
+  =to hinder or stop something from happening=
+
+  - Someone built this wall with broken bottles set in the top to thwart the intrusion of outsiders.
+  - After all the stress and planning, Zoey couldn’t believe that a case of chicken pox had come along to thwart her beautiful wedding.
+  - In order to thwart the advancing enemy troops, the captain ordered the explosives team to destroy the bridge.
+  - After a series of tragic school shootings, the President didn’t attempt to conceal his anger as he lashed out at the groups who were trying to thwart gun control legislation.
+  - John realized that news of the scandal was going to thwart any chances of his winning the election.
+  - The irony is that the roof keeps leaking because all these rains continue to thwart any chance of repair.
+  - Even though the climbers could see the fog rolling in, they were determined that it would not thwart their progress in reaching the peak of the mountain.
+
+* [[https://wordsinasentence.com/timorous-in-a-sentence/][Timorous]]
+
+  =frightened=
+
+  - The timorous kitten would not come out from under the bed.
+  - Since I am allergic to most insect bites, I tend to be quite timorous even when I see a tiny spider.
+  - The timorous witness refuses to testify because of the defendant’s murderous reputation.
+  - During the storm, the timorous little boy would not come out of his closet.
+  - The timorous man would not stand up to his abusive spouse.
+  - To everyone’s surprise, the tough wrestler became timorous whenever he saw a snake.
+  - Matt is an unusually timorous man who is easily scared by a fake spider.
+
+
+* [[https://wordsinasentence.com/titular-in-a-sentence/][Titular]]
+
+  =having a completely arbitrary position that is of no real power or authority=
+
+  - England has a Queen, but today her position is completely titular and she has no authority in the government whatsoever.
+  - Jim declared himself leader of our group, but his position is entirely titular because the rest of us did not elect him to that position.
+  - We gave the man a titular position so he would feel important even though he is not, and he carries no real weight in the company.
+  - We gave him the titular position of ‘Assistant President Assistant Director,’ which does not even really exist within the organization.
+
+* [[https://wordsinasentence.com/toady-in-a-sentence/][Toady]]
+
+  =an individual who compliments others for a reason=
+
+  - In order to get a promotion, Amy has been acting like the manager’s toady by agreeing with everything he says.
+  - Being the toady she is, Elaine fawns over the company president every time she sees him.
+  - April became a toady when she brought the teacher an apple.
+  - At our bank, Henry is the toady who constantly flatters the branch manager.
+
+* [[https://wordsinasentence.com/topple-in-a-sentence/][Topple]]
+
+  =to tumble over=
+
+  - Placing the bowling ball onto the flimsy table caused it to topple over onto the floor.
+  - After several whacks with the axe, the lumberjack started to make the tree topple over with a loud thud.
+  - At first, the blocks in the Jenga game only began to lean until a small wind made the block tower topple down.
+  - When the children stacked their crackers one on top of the other, it eventually would topple over for them to rebuild it.
+
+* [[https://wordsinasentence.com/torpid-in-a-sentence/][Torpid]]
+
+  =lazy or inactive=
+
+  - My torpid brother rests on the couch all day.
+  - When June is torpid, she will snuggle under her bed covers and watch television until she falls asleep.
+  - The torpid student did nothing but sleep in class each day.
+  - According to the preference settings, the laptop will go to sleep when it is has been torpid for five minutes.
+  - The bear will be in a torpid state throughout the freezing winter.
+  - Even though Jason could have earned perfect grades in school, he was torpid and rarely completed his assignments.
+  - The torpid dog will not fetch the ball.
+
+* [[https://wordsinasentence.com/torpor-in-a-sentence/][Torpor]]
+
+  =the state of being motionless or inactive=
+
+  - After overeating on Christmas, I fell into a satisfied torpor.
+  - Hopefully the stock market will rise from its torpor and reach a year-end high.
+  - If my husband does not come out of his torpor and get a job, I will divorce him.
+  - Many voters are in political torpor and rarely go to the polls.
+  - After a five-year torpor, the singer released a new album.
+  - The stimulus checks helped to bring the economy out of torpor.
+  - Before the gunshot victim came out of a coma, he was in torpor for two weeks.
+
+* [[https://wordsinasentence.com/tortuous-in-a-sentence/][Tortuous]]
+
+  =containing coils, turns and curves=
+
+  - When the tortuous snake moved across the Sahara Desert, his body made an S-shape in the sand.
+  - With the sign showing a tortuous road up ahead, we realized that we were traveling down the bends of the mountain.
+  - The tortuous large intestines could stretch out to be five feet long if they were unraveled from the human body.
+  - After being in the rain for several hours, Carolyn’s tortuous hair looked like a big frizz ball.
+
+* [[https://wordsinasentence.com/totalitarian-in-a-sentence/][Totalitarian]]
+
+  =associated with a system of governance in which the government controls everything=
+
+  - Some people feel the government is trying to take our civilian rights and turn our nation into a totalitarian state.
+  - When the author depicts a totalitarian government, he describes a ruler who makes all the decisions for people in his kingdom.
+  - Under the dictator’s totalitarian rule, the citizens of the country had no say in how their nation was governed.
+  - Religions and cultures that take away the rights of women are totalitarian in nature.
+
+
+* [[https://wordsinasentence.com/tout-in-a-sentence/][Tout]]
+
+  =to brag or flaunt=
+
+  - Listening to the basketball player tout his skill becomes boring after a while.
+  - Although Jared’s parents are extremely wealthy, he acts like a normal person and does not tout his background.
+  - Sarah wears tight blouses to tout her full bosom.
+  - As James tried to sell me a car, he went out of his way to tout the features of the most expensive vehicle on the lot.
+
+* [[https://wordsinasentence.com/tractable-in-a-sentence/][Tractable]]
+
+  =controlled or directed with ease=
+
+  - The dog was more tractable when he wore the vibrating collar.
+  - If the project becomes too large, it will no longer be tractable by a single manager.
+  - The lab technicians will have no problem conducting the tractable experiments.
+  - When the design is finished, a visually impaired person will be able to use the tractable remote control.
+  - The tractable show horse instantly obeyed his handler’s commands.
+  - Unlike his rebellious brother, Jack has a very tractable personality.
+  - The warden put prisoners who refused to be tractable in isolation.
+
+* [[https://wordsinasentence.com/trait-in-a-sentence/][Trait]]
+
+  =a critical characteristic of a person’s personality=
+
+  - Honesty is a trait that most parents greatly value in their children, as nothing is more troublesome than someone who lies to their parents.
+  - If you ever take a personality test or go to an interview, you may be asked what your most valuable trait is, and the best answer is usually something like willpower or honesty.
+  - Many intellectuals find their intelligence to be their most valuable trait, as they are more proud of that part of their character than anything else.
+  - If there is one trait that no one appreciates in a friend, it is deceitfulness, because a friend you cannot trust is no friend at all.
+
+* [[https://wordsinasentence.com/trample-in-a-sentence/][Trample]]
+
+  =to crush, disfigure, maim, etc., by walking or running over something=
+
+  - The girl walked lightly through the garden, carefully watching her feet so that she didn’t trample the beautiful flowers.
+  - The concert was quickly filled with drunken party-goers and Layla knew that if she didn't leave now they were likely to trample her.
+  - Chaos erupted as the bombs went off and in their desperation to escape, they couldn't help but to trample those who were too slow.
+  - After her boyfriend cheated on her, she wanted to trample him so she took all of his gifts and crushed them instead.
+
+* [[https://wordsinasentence.com/tranquil-in-a-sentence/][Tranquil]]
+
+  =relaxed; peaceful=
+
+  - Since we were the only ones on the beach, we enjoyed a tranquil day.
+  - The doctor says I need to be in a tranquil place so I can relax.
+  - Surrounded by a beautiful waterfall and exotic flowers, how could Hiram feel anything but tranquil on his vacation?
+  - The yoga instructor will show us the best way to reach a tranquil state.
+  - When my little baby is sleeping peacefully, he wears a tranquil expression on his face.
+  - While some people hate being around their families, I am never more tranquil than when I am surrounded by those I love.
+  - In the emergency room, the doctor gave the agitated man a sedative to help him become tranquil.
+
+* [[https://wordsinasentence.com/transcend-in-a-sentence/][Transcend]]
+
+  =to exceed the limits of something=
+
+  - The athlete hoped the increased training would allow him to transcend Olympic records.
+  - According to some religions, you will transcend the limits of this world and enter another world when you die.
+  - A good education will allow you to transcend many socioeconomic barriers.
+  - To transcend her need to sleep, the college student took caffeine pills during final exam week.
+
+* [[https://wordsinasentence.com/transcendent-in-a-sentence/][Transcendent]]
+
+  =surpassing the ordinary; exceptional=
+
+  - In order to completely identify with the plot of the science fiction movie, you must be able to consider the idea of transcendent experiences that allow people to enter the minds of others.
+  - Experts are looking into the sequence of genetic alterations that allowed the transcendent mutation scientists recently discovered.
+  - To many, a god is a transcendent being who has powers that exceed those of mere mortals.
+  - The love-struck boy grew faint and felt as though he was having a transcendent occurrence every time he encountered the girl of his dreams.
+  - When the little boy played a transcendent tune on the flute, the snake started to weave from side to side and eventually returned to its basket.
+  - Beth describes her meeting with her favorite singer as a transcendent moment that changed her life.
+  - Out of all of the people who have attended the sacred temple, half of them claim to have had transcendent experiences with heavenly creatures.
+
+* [[https://wordsinasentence.com/transcribe-in-a-sentence/][Transcribe]]
+
+  =to change a form of communication into another form=
+
+  - The medical transcriptionist will transcribe the doctor’s notes by typing them into the computer.
+  - When I finish my current project, I will transcribe all of the actor’s audiotapes and compile them into a written biography.
+  - The translator will transcribe the deaf girl’s gestures so everyone in court can understand what she is saying.
+  - Because I have sticky liquid on my hands, I will let my smartphone transcribe my vocal response into a text message.
+
+* [[https://wordsinasentence.com/transcription-in-a-sentence/][Transcription]]
+
+  =a written or printed representation of something=
+
+  - You can listen to the audio version of the podcast or wait to read the transcription.
+  - A transcription of the client’s medical records was placed inside the file once copied.
+  - The attorney requested a transcription of all of the witness’s names and addresses.
+  - Burning the transcription, the crooked banker made sure to get rid of any record of his theft.
+
+* [[https://wordsinasentence.com/transgress-in-a-sentence/][Transgress]]
+
+  =to act in violation of some law=
+
+  - People who transgress the boundaries of social etiquette will be politely turned away at the door.
+  - If all children were taught not to transgress the rules of common decency and good manners, the world would probably be a much better place for everyone.
+  - Because I am a law abiding citizen, I take great pains not to transgress the speed limit or other traffic regulations.
+  - After Luis agreed to the plan to transgress the dress code, he and his fellow rebels were suspended from school for three days.
+  - Despite a strong urge to transgress the boundaries set by his parents, Alan decided to avoid more trouble and stay in his room.
+  - He should have known better than to transgress the guidelines set down by the governing body.
+  - Although Belinda didn’t want to transgress the unwritten social code of her class, she did the right thing by reporting what was happening in the girls’ restroom.
+
+
+* [[https://wordsinasentence.com/transitory-in-a-sentence/][Transitory]]
+
+  =not permanent; temporary=
+
+  - Unfortunately, the homeless people can only stay in the transitory shelter for a short period of time.
+  - Jason is a playboy who has never had more than a transitory affection for any of his girlfriends.
+  - Before being given a permanent assignment, the soldiers will receive several transitory positions so their skills can be evaluated for final job placement.
+  - The gypsies prefer a transitory lifestyle that allows them to easily move one place to another.
+  - Although the Smiths did not lose their home during the tornado, they still had to take up transitory residence in a hotel because of the power outage in their neighborhood.
+  - Once this transitory rain is over, we can set out for our picnic.
+  - My firm is looking for a few transitory workers who do not mind working for only a week or two.
+
+* [[https://wordsinasentence.com/transmute-in-a-sentence/][Transmute]]
+
+  =to change or alter appearance or form=
+
+  - After years of therapy, the woman was able to transmute her negative thoughts into positive ones.
+  - The alien’s ability to transmute it’s body into a liquid form shocked the NASA onlookers.
+  - During the meeting, action was taken to transmute the outdated policy into a more updated plan.
+  - You can transmute energy into another form, but it cannot be created or destroyed.
+
+* [[https://wordsinasentence.com/treacherous-in-a-sentence/][Treacherous]]
+
+  =unsafe=
+
+  - Drivers are asked to stay home and avoid the treacherous icy roads.
+  - At night, the winding roads can make driving up the mountain a treacherous journey.
+  - Police officers should be paid more because working in law enforcement is a treacherous occupation.
+  - Unless you are an expert skier, you should avoid the treacherous mountain known as the Skier Slayer.
+
+* [[https://wordsinasentence.com/tread-in-a-sentence/][Tread]]
+
+  =to walk, step, or trample with your feet=
+
+  - In an effort to avoid waking her parents, the girl tread lightly through the entryway.
+  - “Tread softly, “the camper warned, “We don’t want to wake sleeping bears.”
+  - The children tried to tread on water but sunk down to the bottom over and over again.
+  - Listening at the window, the frightened boy heard footsteps as soldiers tread towards the plantation.
+
+* [[https://wordsinasentence.com/treatise-in-a-sentence/][Treatise]]
+
+  =a serious book or piece of writing about some subject=
+
+  - I read Josh’s treatise on the Civil War and found it to be very informative.
+  - The doctor’s treatise was very formal and systematic, drawing much praise.
+  - She wrote a furious treatise against all the corruption in government.
+  - Ted’s treatise on zoology was thorough and systematic.
+
+* [[https://wordsinasentence.com/trenchant-in-a-sentence/][Trenchant]]
+
+  =sharp or cutting=
+
+  - Marvin’s trenchant wit made him a popular speaker at conservative fundraisers.
+  - Although the movie’s plot is exciting, the dialogue is boring and needs to be polished until it is more trenchant.
+  - Sometimes your tone of voice is so trenchant that you come across as being a mean person.
+  - Even though Kate is a trenchant person who knows a great deal, she does not always think fast on her feet.
+  - The frustrated student wrote a trenchant essay about the inedible lunchroom food.
+  - Because the reporter made a trenchant comment on the president’s policies, he was banned from all presidential events.
+  - The short-tempered actress was known for being trenchant with her employees.
+
+* [[https://wordsinasentence.com/trepidation-in-a-sentence/][Trepidation]]
+
+  =a nervous or fearful feeling=
+
+  - Shaking with trepidation, the young man faced his fear of heights by skydiving.
+  - While everyone else in the room was scared of spiders, Robin had no sense of trepidation when the eight-legged critter crawled up the wall.
+  - As the earthquake bared down, I was overpowered with trepidation.
+  - I dread flying, so when the plane took off, my trepidation levels skyrocketed!
+  - The young woman had a good deal of trepidation of dying while the senior citizen had a joy for living.
+  - The recent neighborhood crime fills me with trepidation as my house could be targeted next.
+  - When the lights flickered off, the children screamed in vain except one particular boy who did not exhibit any trepidation whatsoever.
+
+* [[https://wordsinasentence.com/trespass-in-a-sentence/][Trespass]]
+
+  =to enter someone else's property illegally=
+
+  - Hoping no one would see him trespass, the hunter ignored the sign and headed in to the woods.
+  - Although she realized it was a crime, the girl made it a habit to trespass through the abandoned building when she was bored.
+  - Finding a way to trespass through the farmer’s rickety, wooden fence, the fox knew that dinner would come sooner than later.
+  - With her picket sign in hand, the protester decided to trespass on the plant’s property was the only way to draw attention to the cause.
+
+* [[https://wordsinasentence.com/tribulation-in-a-sentence/][Tribulation]]
+
+  =a challenging situation or experience=
+
+  - When creating his multimillion dollar software company, Mark learned from each tribulation he faced.
+  - The season-ending injury was a huge tribulation for the athlete.
+  - While we won the war, the battles were a tribulation for our soldiers.
+  - Jim is hiring an expensive attorney because he believes this person can bring an end to the tribulation he is facing.
+
+* [[https://wordsinasentence.com/tributary-in-a-sentence/][Tributary]]
+
+  =a stream of water that enters into a larger body of water=
+
+  - As it flowed into the river, the tributary provided fresh water for the village.
+  - The women often washed their clothes in the small tributary that fed into the brook.
+  - Do you think the polluted waters of the tributary will contaminate the river?
+  - If the tributary floods, it may cause the river into which it empties to overflow as well.
+
+* [[https://wordsinasentence.com/trickle-in-a-sentence/][Trickle]]
+
+  =a very thin flow=
+
+  - There was a slow trickle of water from the faucet in the bathroom.
+  - Before it began to gush, the roof leak started off as a trickle.
+  - The rain began to slowly trickle down the driver’s windshield.
+  - A trickle of spilled juice rolled off the table.
+
+* [[https://wordsinasentence.com/trilogy-in-a-sentence/][Trilogy]]
+
+  =a group of three things which are related=
+
+  - The first book in the trilogy sets the course for the other two books in the series.
+  - When the playwright wrote his trilogy of plays, he never imagined he’d be inspired to write a fourth play about the same characters.
+  - The last movie in the trilogy of three films opens tomorrow.
+  - The trilogy of novels covers the time period between the main character’s birth until his death in the third and final novel.
+
+* [[https://wordsinasentence.com/trite-in-a-sentence/][Trite]]
+
+  =unoriginal and lacking in importance=
+
+  - I did not finish the novel because the story’s plot was trite and uninspiring.
+  - At parties, I tend to avoid trite conversations because they are dull and do not reveal any new information.
+  - The senator’s response to the unemployment question was trite and unconvincing.
+  - Will you stop using those trite clichés?
+  - Since the play is trite and unoriginal, I cannot imagine many people will go to see it.
+  - The so-called ladies’ man often used trite phrases to flirt with women.
+  - Although the movie concept was unique, the character dialogue was trite and ruined the picture.
+
+* [[https://wordsinasentence.com/truce-in-a-sentence/][Truce]]
+
+  =a time period in which opposing sides agree to stop fighting=
+
+  - Hopefully the truce will last long enough for the leaders to agree to a peace treaty.
+  - If the two generals agree to the holiday truce, there will be a ceasefire on Christmas Day.
+  - Jose broke the gang truce by driving in the rival gang’s territory.
+  - When the truce ends at noon tomorrow, it will only be a matter of time before gunfire is heard again.
+
+* [[https://wordsinasentence.com/truculent-in-a-sentence/][Truculent]]
+
+  =quick to fight or argue=
+
+  - When my uncle drinks too much, he becomes very truculent and will fight anyone.
+  - Why are you in such a truculent mood that you want to argue with everyone today?
+  - On Monday, the truculent bully made the mistake of starting a fight with someone who could hit harder than him.
+  - My truculent boyfriend is in a bad mood because I did not respond to his text message last night.
+  - When you do not give Janice everything she wants, she becomes truculent and tries to argue with you.
+  - Nuns are true lovers of peace and are never truculent with others.
+  - Because the teacher did not want the truculent student to disturb others, she made him sit next to her desk.
+
+* [[https://wordsinasentence.com/turbulent-in-a-sentence/][Turbulent]]
+
+  =being in a wild or disordered state=
+
+  - Race relations in the town were quite turbulent after the white police officer was not indicted for killing the unarmed minority.
+  - Because of my turbulent history with my mother, I find it difficult to establish lasting relationships with women.
+  - The recession is going to cause turbulent times for families who are already struggling to pay their bills.
+  - After my parent’s turbulent marriage came to an end, we finally had peace in our house.
+
+* [[https://wordsinasentence.com/turmoil-in-a-sentence/][Turmoil]]
+
+  =a state of confusion or disorder=
+
+  - The mayor was not reelected to his office because of his inability to bring the city out of financial turmoil.
+  - When the inexperienced teacher realized she could not handle the turmoil in her classroom, she ran out of the door.
+  - The turmoil after the war led to the formation of rival groups who all wanted to run the small country.
+  - During the riots, there was widespread turmoil in the city.
+  - Because of the financial turmoil in our country, many people are losing their homes due to bank foreclosure.
+  - When the housing bubble burst, there was a great deal of turmoil experienced by real estate agents who depended on sales for a living.
+  - For many young adults, the teenage years are ones of turmoil in which they are often confused about who they are.
+
+
+
+
+
+* [[https://wordsinasentence.com/tyrant-in-a-sentence/][Tyrant]]
+
+  =an individual who governs unfairly and brutally=
+
+  - Growing up I considered my stepmother to be a tyrant because she punished me without cause.
+  - A majority of the country’s people have decided to rise up against the tyrant who kills anyone he views as a threat to his power.
+  - Because my tyrant of a supervisor makes me work late most nights, I am thinking about quitting my job.
+  - Our country’s military is assisting in the effort to overthrow the tyrant who is brutalizing our neighboring country.
+
+* [[https://wordsinasentence.com/taciturn-in-a-sentence/][Taciturn]]
+
+  =reserved or uncommunicative in speech; saying little=
+
+  - My shy brother is taciturn and rarely speaks in public.
+  - Although my grandfather was a taciturn man who spoke infrequently, he was a man people readily followed.
+  - By nature, Sheila is a taciturn woman who keeps her thoughts to herself.
+  - When Jack drinks, he goes from being taciturn to being very outspoken.
+  - Because I have a really bad temper, I remain taciturn during an argument so I will not say words I will later regret.
+  - Mr. Jones is my taciturn business partner who hardly ever speaks during our board meetings.
+  - If you want to be a politician, you need to be chatty not taciturn.
+
+* [[https://wordsinasentence.com/tally-in-a-sentence/][Tally]]
+
+  =a count that usually represents a score, money, number of wins, etc=
+
+  - The prisoner kept a running tally of his incarceration by marking his cell wall with a white line for each day he spent behind bars.
+  - Before there were calculators, merchant would use an abacus to tally up debts owed.
+  - It was once common practice for customers and sellers to own duplicate tally sticks where each notch in the wood represented a specific amount of money owed.
+  - After the final round, the nervous gymnasts waited impatiently for the judges to tally their scores.
+
+
+* [[https://wordsinasentence.com/tame-in-a-sentence/][Tame]]
+
+  =domesticated, gentle, behavior exhibited after loss of savage ways=
+
+  - After several weeks of training, the poorly behaved and hyperactive puppy was surprisingly tame.
+  - When David first brought the injured baby bear into his home it snarled and slashed, but after it grew accustomed to David’s presence it became gentle and tame.
+  - The wild tiger lost its fight after a few days in the cage and eventually became tame.
+  - Typically vicious animals like leopards are uncharacteristically tame when bred in captivity.
+
+
+* [[https://wordsinasentence.com/tantrum-in-a-sentence/][Tantrum]]
+
+  =a fit or outburst of extreme emotion that is often deemed childish=
+
+  - The toddler threw a temper tantrum when his mother took away his favorite toy.
+  - The soccer player had a tantrum and stomped across the field after the referee made a poor call.
+  - After his girlfriend broke up with him, he had a tantrum and tore all of their pictures to shreds.
+  - The young mother cringed every time her child had a temper tantrum in public because he usually threw himself on the floor and screamed.
+
+* [[https://wordsinasentence.com/tarry-in-a-sentence-2/][Tarry]]
+
+  =to take your time or delay in doing something=
+
+  - He decided to tarry during his trip to Georgia because he really didn’t want to go, but he was only able to stall for a short while.
+  - If you tarry while doing your work it will simply take even longer, so it is best to just get it over with and not wait.
+  - We shouldn’t tarry in these dangerous woods any longer than we have to, as we are in more danger the longer we are here.
+  - It’s a bad idea to tarry when you have important places to be, because it is always best to be punctual and arrive on time.
+
+* [[https://wordsinasentence.com/tart-in-a-sentence/][Tart]]
+
+  =acid or sharp in taste=
+
+  - The sour candy I eat is very tart and I love it, but my mom that hates sour food does not.
+  - People who prefer sweet foods usually don’t like things that are tart, such as lemons or sour candy.
+  - Cherries are very tart compared to strawberries, which is why some sweet tooth individuals don’t like them.
+  - If you want to drink something tart on a hot summer day, lemonade is your best bet.
+
+
+
+
+* [[https://wordsinasentence.com/teeter-in-a-sentence/][Teeter]]
+
+  =to be unsteady or to wobble=
+
+  - The judges held their breaths as they watched the normally skilled gymnast teeter on the edge of the balance beam.
+  - Jane was so distracted by her book that she put her coffee cup on the edge of the table and she watched it teeter for a moment before crashing to the floor.
+  - The toddler finally stood up and within seconds began to teeter on his unsteady feet.
+  - When she pulled the piece from the Jenga puzzle, its foundation began to teeter and eventually crashed into a heap of wood blocks.
+
+
+* [[https://wordsinasentence.com/temerity-in-a-sentence/][Temerity]]
+
+  =excessive confidence or boldness; audacity=
+
+  - We were shocked Ann Marie had the temerity to challenge our teacher’s authority in class.
+  - Because they feel their doctors are more educated than they are, most patients do not have the temerity to challenge their medical diagnosis.
+  - Despite being ordered to stay away from his wife by the court, Jason still had the temerity to go to her apartment.
+  - Misbehaved children have the temerity to challenge rules.
+  - All it will take for the world to change is for people to display the temerity necessary to stand up to tyranny.
+  - The teenager’s temerity led him to do dangerous things, like driving recklessly.
+  - Even though the mayor’s advisors were against his budget proposal, none of them had the temerity to admit it to him.
+
+* [[https://wordsinasentence.com/tempest-in-a-sentence/][Tempest]]
+
+  =stormy weather=
+
+  - The tempest has replaced the sunlight and caused us to move our picnic indoors.
+  - Days before the hurricane hit land, the government urged citizens to prepare for the tempest.
+  - The tempest of lightning caused the barn to burn to the ground.
+  - During the tempest, the hail came down with a powerful force and broke two of my car windows.
+
+* [[https://wordsinasentence.com/tempestuous-in-a-sentence/][Tempestuous]]
+
+  =identified by stormy or explosive conditions=
+
+  - My father’s tempestuous mood often leaves my mother in tears.
+  - Because forecasters predict tempestuous weather for tomorrow, we should delay our boat trip for another day.
+  - The clouds look rather tempestuous today and lead me to think a storm is coming.
+  - During the hurricane, the ocean waters became quite tempestuous.
+  - The tempestuous winds easily uprooted the huge tree from our yard.
+  - Although Cara and Scarlett were once friends, they now have a tempestuous relationship and rarely speak to each other.
+  - By the time the tempestuous argument was over, John had a bloody nose.
+
+* [[https://wordsinasentence.com/temporize-in-a-sentence/][Temporize]]
+
+  =to lengthen a discussion in order to have additional time to think or negotiate=
+
+  - Because we could not reach an agreement, we chose to break for refreshments in order to temporize.
+  - The hostage negotiator has no choice but to temporize with the kidnapper by offering to send in food and drinks.
+  - In hopes of moving their test to next week, the students will temporize at the beginning of class.
+  - My persistent daughter will try to temporize when we refuse to extend her curfew.
+
+* [[https://wordsinasentence.com/testy-in-a-sentence/][Testy]]
+
+  =easily ticked off or irritated=
+
+  - My husband is often testy and in a bad mood after a hard day at work.
+  - When Jared is tired and irritable, he can be quite testy about small things.
+  - Throughout the broadcast, the judge was testy and appeared easily irritated.
+  - Because the actor likes his privacy, he gets testy when reporters question him about his family.
+
+* [[https://wordsinasentence.com/thaw-in-a-sentence/][Thaw]]
+
+  =to melt or defrost=
+
+  - If you leave ice out of the freezer, it will thaw into a messy puddle of water.
+  - Frozen foods usually require them to thaw for at least twenty minutes before putting it in the oven.
+  - A small puddle of water pooled on the countertop due to my mother leaving the frozen pack of ground beef to thaw.
+  - Chef Peterman used the microwave at the restaurant to thaw a small pack of steaks so he could quickly get them on the grill.
+
+* [[https://wordsinasentence.com/thermal-in-a-sentence/][Thermal]]
+
+  =heat related=
+
+  - Venturing out into the thermal pool, the swimmer let out a sigh of relief as the hot water eased her aching back.
+  - Thermal materials were used when building the house to keep the inside of the home warm during the winter.
+  - Many of the campers wore warm thermal underwear to keep themselves from freezing on the trip.
+  - The middle schoolers designed a thermal energy project that showed how heat moves through a home.
+
+* [[https://wordsinasentence.com/thespian-in-a-sentence/][Thespian]]
+
+  =relating to drama or the theater=
+
+  - Making his thespian debut, the newbie took the stage and gave the theatrical performance of a lifetime.
+  - The woman’s thespian dreams ended the day she was booed from the stage while giving a horrible monologue.
+  - Studying all things thespian, the Broadway actress always had her nose in a book that would help her improve her craft.
+  - The thespian society was created to honor high school students who stand out in drama productions.
+
+* [[https://wordsinasentence.com/thrash-in-a-sentence/][Thrash]]
+
+  =to hit or strike continuously=
+
+  - When the pit bull dog began to bite the child’s leg, the father began to thrash the dog with a stick to get it to release its grip.
+  - Wind and rain tended to thrash against the side of the house creating a repeated smacking sound.
+  - Whenever the hot-tempered man got mad, he would thrash his body against the side of his house.
+  - Instead of kneading the dough, the baker would thrash the dough over and over again onto the counter.
+
+* [[https://wordsinasentence.com/threadbare-in-a-sentence/][Threadbare]]
+
+  =pertaining to something that is worn out or ragged=
+
+  - After living in the woods for a week without supplies, my threadbare clothing was not protecting me from the elements.
+  - The only items for sale at the terrible garage sale were broken furniture, threadbare clothes and obsolete televisions.
+  - With only a threadbare t-shirt and shorts, the girl was sent home from school to change into something that covered more.
+  - Even though the jeans looked threadbare, the used “look” was actually in fashion this season.
+
+* [[https://wordsinasentence.com/throes-in-a-sentence/][Throes]]
+
+  =intense struggle or agony=
+
+  - We decided to have our dog put down because he was in the throes of incurable pain.
+  - In the throes of adoration, Bill texted Ann at least one hundred times a day.
+  - Jack was incredibly suspicious when he was in the throes of jealousy.
+  - During the throes of the revolution, over a thousand people were killed.
+
+* [[https://wordsinasentence.com/throng-in-a-sentence/][Throng]]
+
+  =a large cluster of individuals=
+
+  - When the game ended, a throng of fans carried some of the winning players off the field.
+  - The celebrity asked his bodyguard to clear him a pathway through the throng of fans blocking the theater entrance.
+  - As soon as the store opened at 5 am, a throng of customers rushed through the doors to get the limited deals.
+  - Because the restaurant was not expecting such a throng of consumers on Saturday morning, it did not have enough biscuits on hand to meet the demand.
+  - The owner of the store was happy to see a throng of tourists inside her souvenir shop.
+  - Although the street is partially blocked by the throng of people waiting to see the president, it can easily be cleared by the two policemen on horseback.
+  - The throng of mourners filled the small church to capacity.
+
+* [[https://wordsinasentence.com/thrust-in-a-sentence/][Thrust]]
+
+  =to force something in a certain direction=
+
+  - Sometimes, the wind will be so strong that it will thrust open an unlocked door to a building or house.
+  - During an altercation, one girl began to thrust her hand into the other girl’s face to get her to stop yelling at her.
+  - “Thrust the sword into your opponent with all your strength,” the leader told the other knights.
+  - To catch a fish, the savage was taught by his tribal leader to thrust the spear at an angle down into the water.
+
+* [[https://wordsinasentence.com/thump-in-a-sentence/][Thump]]
+
+  =to tap something hard=
+
+  - Many shoppers will thump a watermelon to see if it is ripe while grocery shopping in the produce section of the store.
+  - At first a flick on the window pane did not get the attention of the girl inside, so the boy decided to thump the window with his fist.
+  - In order to insinuate that somebody was knocking at the door, the little girl decided to thump on the wooden table next to her.
+  - To get her friend’s attention, Leslie would thump her arm leaving a slight bruise behind.
+
+
+* [[https://wordsinasentence.com/tiff-in-a-sentence/][Tiff]]
+
+  =a small conflict usually between two people=
+
+  - What started as a little tiff between the two sisters turned into a fight with hair-pulling and slapping.
+  - As the two women were in a tiff about the movie they were going to go see, people in the theater’s lobby began to stare at them.
+  - Since the driver’s focus was distracted by the tiff he was having with his passenger, he got into an accident.
+  - Even though the couple were not speaking to each other following the tiff, everyone knew they would get back together.
+
+
+
+* [[https://wordsinasentence.com/tilt-in-a-sentence/][Tilt]]
+
+  =to slant or list to one side=
+
+  - If you put a heavy object onto the table, it will tilt to the right since the top of it isn’t screwed in properly.
+  - During the yoga exercise, the instructor directed her students to tilt their bodies in place without leaning against the wall.
+  - Whenever my dog doesn’t understand what I am saying or doing, she will look at me straight in the eye and tilt her head.
+  - To get the ketchup out of a glass bottle, it is recommended that you tilt the bottle at a 45-degree angle and hit the bottom of the bottle.
+
+* [[https://wordsinasentence.com/tinder-in-a-sentence/][Tinder]]
+
+  =a very flammable substance adaptable for use as kindling=
+
+  - Lighting the tinder and wood, the camper prepared for an overnight stay at the campground.
+  - As he walked through the woods, the boy always kept an eye out for tinder to collect for a fire.
+  - Although they had tinder to get the fire going, he brought lighter fluid along as well.
+  - Carrying sticks and tinder in his water-proof container, the hiker waited for the rain to pass before lighting a fire.
+
+* [[https://wordsinasentence.com/tinge-in-a-sentence/][Tinge]]
+
+  =a small but noticeable amount=
+
+  - After kissing his wife, Jim had a tinge of lipstick on his lips.
+  - The yellow tinge of Eli’s skin suggests he may have jaundice.
+  - Because I was going to miss my family, I felt a tinge of sadness as I drove to college.
+  - Reading the essay became less of a chore when I realized it contained a tinge of humor.
+
+
+* [[https://wordsinasentence.com/tirade-in-a-sentence/][Tirade]]
+
+  =a long and angry speech=
+
+  - Because Carrie is normally a laidback person, she shocked everyone with her tirade.
+  - The police arrested my Uncle Jack after he refused to end his tirade outside the courthouse.
+  - When the airline representative told me my luggage was lost, I responded to the announcement with a tirade.
+  - If my daughter does not get everything she wants for Christmas, she will launch a tirade.
+  - The fan began his tirade by burning his jersey outside the football stadium.
+  - Although the terrorist is in hiding, he recently held a press conference where he gave a tirade about his enemies.
+  - The politician’s tirade against the proposed law lasted for nearly two hours.
+
+* [[https://wordsinasentence.com/toil-in-a-sentence/][Toil]]
+
+  =to work for a long period of time=
+
+  - You should hire Justin because he is a hard worker who will toil until the job is done.
+  - Day after day, the slaves had to toil in the hot fields without payment.
+  - The actress had to toil for many years before becoming a Hollywood star.
+  - In this country, illegal aliens often toil at jobs for very long hours for little pay.
+  - People who toil in fast food kitchens often leave the workplace smelling of cooking oil and food products.
+  - Because Janice is a single mother of four, she has to toil late in the evenings to earn enough money to buy food and clothing for her entire family.
+  - My teenage daughter will not toil in the backyard if we do not offer her money for her landscaping labor.
+
+* [[https://wordsinasentence.com/toll-in-a-sentence/][Toll]]
+
+  =the number of casualties caused by an event that took lives=
+
+  - The death toll from the tsunami was catastrophically high, reaching well into the tens of thousands across the coastline.
+  - We can incur a lower death toll if we make a plan for the battle beforehand rather than charging in recklessly like a bunch of fools.
+  - World War Two has the largest death toll of any war in all of human history, with millions of deaths on both sides of the conflict.
+  - The toll for a war of any size is always higher than we think, as hundreds of thousands of people die in combat.
+
+* [[https://wordsinasentence.com/tome-in-a-sentence/][Tome]]
+
+  =a huge educational written work=
+
+  - At the exhibit of the Templeton Historical Museum, it displayed a scene of a small room including a bed, chest and tome on the small desk.
+  - A scholar referred to the tome when discussing and supporting his claim for artwork of the 1800s.
+  - Instead of carrying the tome around the library, the young medical student decided to place it on a table and look it over.
+  - At the law firm, the lawyer consulted the tome in the archives for information about his current case.
+
+
+* [[https://wordsinasentence.com/torment-in-a-sentence/][Torment]]
+
+  =to torture and cause pain=
+
+  - Every day when he got on the bus, the bully began to torment the quiet child.
+  - As the test date neared, haunting thoughts of failing her exam began to torment her mind.
+  - Seeing his shyness as a weakness, the persecutor was apt to torment him day in and day out.
+  - With the whip, the trainer set out to torment the tiger until he was tame.
+
+
+* [[https://wordsinasentence.com/torrid-in-a-sentence/][Torrid]]
+
+  =extremely sweltering and dry=
+
+  - During these torrid temperatures, it is best we stay indoors and consume lots of fluids.
+  - The firefighters had to prepare themselves physically and mentally for the torrid forest fire.
+  - In the summer, the desert’s torrid climate makes it incredibly unpleasant for most people.
+  - The torrid temperatures are sure to dry out the farmer’s crops.
+
+* [[https://wordsinasentence.com/toss-in-a-sentence/][Toss]]
+
+  =to throw something lightly or casually=
+
+  - I didn’t want to break my phone, so I decided to toss it on my bed rather than throw it.
+  - If you are playing catch with a young child, you should toss the ball at them instead of throw it do you do not hurt them if they get hit by it.
+  - The reason it is called an egg toss and not an egg throw is because you must be gentle with an egg if you do not want to break it.
+  - Your wife would be very angry if you threw your son in the air, which is why you toss them instead so they don’t go too far.
+
+* [[https://wordsinasentence.com/totter-in-a-sentence/][Totter]]
+
+  =to move with an unsteady or unsure gait or walk=
+
+  - Disoriented, I had no choice but to totter towards the edge of the skating rink to grab a hold of the wall before I fell again.
+  - Getting hit on the head by an apple, Isaac Newton would totter all the way back to his home, unable to walk in a straight line at all.
+  - If you are drunk, you will probably totter to and fro as you walk, because you are too unsteady on your feet to move properly.
+  - I was dizzy after spinning around in my swivel chair so much, and when it was time to get up I could only totter towards the door in an unsteady waltz.
+
+* [[https://wordsinasentence.com/tract-in-a-sentence/][Tract]]
+
+  =a large area or region=
+
+  - Each tract of land is being sold at the price of 1,000 dollars per acre.
+  - Part of the man’s digestive tract contained bacteria, but the rest of the area was clear.
+  - My grandpa purchased a massive tract of land and hinted at the idea of a family farm.
+  - Plans were not made for the entire tract, but some of the field will be used for a playground.
+
+* [[https://wordsinasentence.com/traduce-in-a-sentence/][Traduce]]
+
+  =to harm someone’s reputation by speaking of them in a negative manner=
+
+  - The crooked politician paid a newspaper editor to traduce his rivals.
+  - Because Gail and I are enemies, she tried to traduce me by telling my boyfriend lies.
+  - Racists often quote negative stereotypes in an effort to traduce minority groups.
+  - Since Mike wanted his parents to get back together, he went out of his way to traduce his father’s girlfriend.
+
+
+* [[https://wordsinasentence.com/traipse-in-a-sentence/][Traipse]]
+
+  =a leisurely and generally purposeless walk=
+
+  - Every Sunday the voracious reader loved to traipse down several blocks to every independent bookstore without any intention of actually buying anything.
+  - Because of her insomnia, she would often traipse around her house at night until she fell asleep or it was time to go to work.
+  - Tourists traipse through downtown New York City taking in the bright lights and jaw-dropping sights.
+  - The little girl loved to traipse around the house in her mother's high heels.
+
+* [[https://wordsinasentence.com/traitor-in-a-sentence/][Traitor]]
+
+  =someone who betrays trust, alliance, or duty=
+
+  - Judas is a notorious Biblical traitor.
+  - When Lydia’s ex betrayed her trust by telling everyone her deepest secret, she had no choice but to dump the traitor.
+  - The police apprehended the traitor to the throne and tried him for treason.
+  - Ally turned traitor when he sold important government secrets to the highest bidder.
+
+* [[https://wordsinasentence.com/tramp-in-a-sentence/][Tramp]]
+
+  =a heavy-footed walk=
+
+  - Angry children tramp noisily up the stairs, making sure to stomp out their irritation.
+  - The Girl Scout failed her badge test because she chose to tramp loudly through the woods instead of searching for firewood.
+  - The imaginative little boy loved to tramp through the house and pretend that his feet were made of cement blocks.
+  - Agile spies never tramp, they are deadly silent as they walk.
+
+* [[https://wordsinasentence.com/transfigure-in-a-sentence/][Transfigure]]
+
+  =to fully change or transform into something different than the original form=
+
+  - A group of wizards worked together to transfigure the fiery dragon into a meek mouse.
+  - At the end of the book, the ugly duckling was able to transfigure himself into a beautiful swan.
+  - The little dog was aggressive and could quickly disfigure any neat room into a nightmare.
+  - A caterpillar can transfigure into a butterfly through a process called metamorphosis.
+
+* [[https://wordsinasentence.com/transient-in-a-sentence/][Transient]]
+
+  =lasting only for a short time; impermanent=
+
+  - The snow is transient and will melt as soon as the sun appears.
+  - If you are a transient person, you never remain in one place for too long.
+  - The transient storm passed through our town rather quickly.
+  - Because Jack and his wife relocate from city to city looking for work, they are considered to be a transient couple.
+  - Unfortunately, my daughter seems to have only a transient interest in studying.
+  - Sadly, Jamie realized his tattoo of his ex-girlfriend was permanent and not transient.
+  - Fortunately the lack of water in the lake is only a transient issue.
+
+* [[https://wordsinasentence.com/trapeze-in-a-sentence/][Trapeze]]
+
+  =a gymnastic or acrobatic apparatus made of a short bar hanging high up in the air from two ropes=
+
+  - Swinging from the trapeze, the acrobat did crowd wowing tricks as she dangled on the bar.
+  - Trapeze artists are trained from childhood on how to spin and catch one another while hanging from their swing.
+  - Being able to perform from on a low-flying trapeze is one of the main requirements of the gymnastic camp.
+  - Using safety measures, the circus makes sure that acrobats swinging on the trapeze are not at risk of being injured during a fall.
+
+* [[https://wordsinasentence.com/travesty-in-a-sentence/][Travesty]]
+
+  =a false or distorted representation of something, usually of something serious=
+
+  - It would be a travesty of justice to put an innocent man in jail.
+  - Allowing students to cheat on tests is a travesty of education.
+  - The real travesty is firing a man who did his job.
+  - Kissing another person behind my back would be a travesty of our marriage!
+  - What a pathetic travesty of justice for a policeman to harass a citizen!
+  - As an accomplished singer, it would be a travesty for me to give a bad performance.
+  - To hit a vehicle and speed off is a travesty on humanity.
+
+* [[https://wordsinasentence.com/tremulous-in-a-sentence/][Tremulous]]
+
+  =shaking or quivering=
+
+  - Her voice was weak and tremulous, but the audience clapped politely when she finished the aria.
+  - For a few moments Annie wasn’t sure that her tremulous fingers would be able to open the telegram.
+  - Because her hands are too tremulous to hold a spoon steady, she has to drink soup from a cup.
+  - Despite her efforts to stay in control of her emotions, her smile was tremulous as she waited to meet her long-lost brother.
+  - Even though her knees were weak and her voice was tremulous, her message was powerful.
+  - The last leaf of autumn made a valiant effort to hold on to the branch, finally giving up its tremulous hold and fluttering to the ground.
+  - As head of the committee, I have been placed in a tremulous position to request more funding for the project.
+
+* [[https://wordsinasentence.com/tribute-in-a-sentence/][Tribute]]
+
+  =a way to honor a person=
+
+  - The concert is a tribute to the men and women of the military who protect our nation.
+  - On campus there is a statue of the school’s founder that stands as a tribute to the revered man.
+  - The singer wrote the song as a tribute to his high school vocal coach.
+  - As a tribute, Anne will fund a scholarship in her father's name.
+
+* [[https://wordsinasentence.com/trifle-in-a-sentence/][Trifle]]
+
+  =to handle with disrespect or in a discourteous manner=
+
+  - When the cat catches the mouse, it will trifle with it before ending its life.
+  - Jack was angered by his ex-wife’s attempt to trifle with him in front of their children.
+  - Because Kate is a mean older sister, she will often trifle with her younger siblings and make them cry for no reason at all.
+  - The sternly religious mother was shocked when she saw her child trifle with the Bible by writing in it.
+
+* [[https://wordsinasentence.com/trinket-in-a-sentence/][Trinket]]
+
+  =a small showy ornament or piece of jewelry=
+
+  - Before returning from vacation, I purchased a cheap trinket for my daughter Robyn.
+  - The fancy trinket glittered in Amber’s hair as she walked about in the open sun.
+  - At the museum we were shown a trinket that was once owned by Lincoln, which he used as a piece of jewelry.
+  - After the jeweler showed Grace the beautiful trinket she begged me to buy it for her.
+
+* [[https://wordsinasentence.com/trivia-in-a-sentence/][Trivia]]
+
+  =quiz game with little-known and unimportant facts=
+
+  - I love to compete in trivia contests because I know so many random facts.
+  - We whiled away our time, arguing over any meaningless trivia that caught our attention.
+  - I keep a book of useless trivia information in every bathroom of my house.
+  - Jerome likes to dazzle his friends with his vast knowledge of sports trivia from decades past.
+
+
+* [[https://wordsinasentence.com/trounce-in-a-sentence/][Trounce]]
+
+  =to severely defeat someone=
+
+  - In the contest of strength, the full grown man managed to trounce his teenaged opponent with no effort whatsoever.
+  - One army managed to easily trounce the other, being nearly ten times the size of the opposing force.
+  - In a game of basketball, our team could easily trounce you guys, because we’ve been practicing all year for this.
+  - My dad could easily trounce me in a contest of medical knowledge, but I could trounce him when it comes to literature.
+
+* [[https://wordsinasentence.com/truant-in-a-sentence/][Truant]]
+
+  =one who skips something important=
+
+  - The truant hid in the park to avoid taking his midterm exams.
+  - Since Gail is the office truant, she usually skips all of the mandatory office meetings.
+  - The soldier who left base without permission is a truant who is always trying to avoid performing his duties.
+  - Because my son was angry with his teachers, he decided he was going to be a truant and skip school all week.
+
+
+* [[https://wordsinasentence.com/trudge-in-a-sentence/][Trudge]]
+
+  =move forward slowly because of exhaustion=
+
+  - Despite three days without food or rest, the weary soldiers continue to trudge over the battlefield.
+  - Hoping to find help, the exhausted teens trudge through the woods.
+  - Long before school buses were created, students would trudge for miles to get an education.
+  - It was unsafe to drive during the ice storm so I had to trudge on foot to the store.
+
+
+
+* [[https://wordsinasentence.com/trumpery-in-a-sentence/][Trumpery]]
+
+  =something that is showy (looks good) but is really worthless=
+
+  - The coins were trumpery, looking as if they were gold but were actually worthless.
+  - The trumpery inside the trunk wasn’t valuable but it was good for decoration.
+  - Putting on the gaudy necklace, the woman hoped that the trumpery would pass for real jewels.
+  - Trumpery covered the antique shop, most of it showy and interesting looking but of no value.
+
+* [[https://wordsinasentence.com/tumble-in-a-sentence/][Tumble]]
+
+  =to fall down over and over again=
+
+  - We installed a guard rail at the top of the steps to prevent the little boy from taking a tumble down two flights of stairs.
+  - Jack began to tumble down the steep slope after he attempted to run up the side of a mountain to fetch a pail of water.
+  - When the war broke out, stock prices took a tumble out of fear that the economy would suffer.
+  - I knocked the intruder unconscious and tossed him over the railing and watched him tumble down the steps and out the front door.
+
+* [[https://wordsinasentence.com/tumult-in-a-sentence/][Tumult]]
+
+  =confusion or disorder=
+
+  - While the political candidate’s popularity rating continues to fall, his office has declined into a state of tumult.
+  - Economists are working to find solutions to the financial tumult that is ruining the lives of many Americans.
+  - Since self-help books sell, it is highly likely the popular author will make a fortune with his autobiography describing his past emotional tumult and self-destructive habits.
+  - On the brink of an internal war, the small country has never experienced such tumult in its one hundred year history.
+  - After the country’s leader was assassinated, the nation endured tumult for several months.
+  - Many refugees are seeking asylum because their native countries are being destroyed by political tumult.
+  - Because of the tumult within the company’s management structure, many projects are not being completed on time.
+
+* [[https://wordsinasentence.com/turgid-in-a-sentence/][Turgid]]
+
+  =language that is complex and hard to understand=
+
+  - The middle school student could not understand any of the facts listed in the turgid collegiate essay.
+  - Even though the scientist tried to make his report simple, it was still too turgid for the average person to comprehend.
+  - The movie’s plot was so turgid that people left the theater completely confused.
+  - When the author wrote his novel, he had no idea it would be too turgid for his target audience to understand.
+  - The uneducated man sought the services of legal aid to help him understand the turgid contract.
+  - Although the critic tried repeatedly to make it through the turgid book, he was unable to finish the complex literary work.
+  - Most of the company shareholders could not understand the turgid financial documents given out during the stockholder’s meeting.
+
+* Tusk
+  - Elephants wear the tusk down faster than they can grow it.
+  - Wildlife advocacy groups say tens of thousands of African elephants are killed for their tusks each year.
+  - Elephant tusks and ivory statues, carvings and chopsticks are still sold in Hong Kong’s antique stores.
+  - Elephants can use their tusks as defensive weapons against potential predators like the tiger or in battle against other elephants.
+
+
+* [[https://wordsinasentence.com/tweak-in-a-sentence/][Tweak]]
+
+  =to adjust something to make it better=
+
+  - Since the chef burned the brownies the last time she made them, she decided to tweak the recipe by only baking them for 20 minutes instead of 30 minutes.
+  - When my car started making weird noises, the mechanic would tweak the car engine so that my car would run properly.
+  - A greedy accountant decided to tweak the numbers in his log in order for the company to look like they made more money than it actually did.
+  - After quickly writing her paper, the young college student wanted to tweak her essay by proofreading and editing it.
+
+* [[https://wordsinasentence.com/twinge-in-a-sentence/][Twinge]]
+
+  =a sudden, sharp localized pain=
+
+  - After being tackled by several 300 pound football players, the quarterback felt a twinge in his ribs that made him think he broke a few bones.
+  - The elderly man felt a sharp twinge in his chest right before he had a heart attack.
+  - John’s terrible migraines always started with a piercing twinge in his head followed by a pounding headache.
+  - She felt a twinge in her chest every time she saw her first love and remembered all of the wonderful times they had together.
+
+* [[https://wordsinasentence.com/tyro-in-a-sentence/][Tyro]]
+
+  =a beginner=
+
+  - Julie is a good violinist, but at 13, she is a tyro and still has a lot to learn.
+  - I suggest you read this book titled "Introduction to Computers" as it's perfect for a tech tyro like yourself.
+  - Because I am a tyro at English, I often mispronounce words native speakers of English have no problem with.
+  - You may be a tyro at golf now, but with time and practice, you will master the sport.
+
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

@@ -1,0 +1,50 @@
+#+TITLE:     Y
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+#+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/yearn-in-a-sentence/][Yearn]]
+
+  =to have a deep desire for something or someone=
+
+  - When my sister was pregnant, all she did was yearn for chocolate ice cream and French fries.
+  - I yearn to travel as a senior citizen because I never went anywhere in my younger days.
+  - If you yearn to expand your taste buds, you should try food from a different culture.
+  - Sometimes, the young nun would yearn to dance to rock and roll music.
+
+* [[https://wordsinasentence.com/yank-in-a-sentence/][Yank]]
+
+  =to pull something quickly=
+
+  - The robber tried to yank the man’s briefcase from his hand, but didn’t pull hard enough.
+  - You have to yank the chain inside the toilet to stop it from running.
+  - The company tried to yank older workers into the tech world by providing them with intense computer classes.
+  - Both boys tried to yank down the balloons that were penned up in the party hall.
+
+* [[https://wordsinasentence.com/yield-in-a-sentence/][Yield]]
+
+  =to bow out=
+
+  - Since I do not know a great deal about the subject, I will yield this question to my well-informed colleague.
+  - The congressman has decided to stop speaking and will now yield the floor to the vice-president.
+  - When making a right at the light, you must yield to drivers who are in the turning lane.
+  - The debater refuses to yield the podium to his challenger.
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

@@ -1,0 +1,71 @@
+#+TITLE:     Z
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+#+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/zealot-in-a-sentence/][Zealot]]
+
+  =one who is uncompromising and fanatical in pursuit of his ideals=
+
+  - The religious zealot was willing to break the law to follow his prophet’s orders.
+  - When the zealot wrote his memoir, he wrote that he fought all of his wars for his god.
+  - The security camera caught the health zealot vandalizing the soft drink manufacturer’s office.
+  - When the fitness zealot learned a tobacco shop was moving next door to his gym, he decided to picket the shop’s corporate office.
+  - While Jacob was once a skeptic of the religion, he is now a zealot who divorced his wife so he could be reborn in the church.
+  - Some people call Peter a zealot because of the lengths he goes to in order to keep technology out of his home.
+  - During the middle of the night, a pro-life zealot bombed the abortion clinic and killed two nurses who were working late.
+
+* [[https://wordsinasentence.com/zenith-in-a-sentence/][Zenith]]
+
+  =the strongest or most successful period of time=
+
+  - Before her zenith ended, Meredith published six best-selling books.
+  - Mike’s second promotion in eleven months confirms he is at the zenith of his career.
+  - The singer reached her zenith when she sold over twelve million records in 2013.
+  - At the zenith, the two planets will fully align because of the strong magnetic pull between them.
+  - After the president brought an end to the war, his popularity hit its zenith.
+  - Marie’s academic zenith was her senior year in high school when her lowest grade was a ninety-four.
+  - Since my energy is at its zenith in the morning, I prefer to get my larger tasks completed at the start of the day.
+
+
+* [[https://wordsinasentence.com/zephyr-in-a-sentence/][Zephyr]]
+
+  =a light or delicate wind=
+
+  - By evening, the harsh wind following the storm had turned into a zephyr that did nothing more than move the leaves.
+  - Before Sarah went to bed, she opened the window to feel the zephyr as she slept.
+  - The zephyr did very little to cool us off as we sat on the hot porch.
+  - With only a zephyr in the air, it is not surprising we came in last in the sailboat race.
+  - The zephyr carried the scent of the sweet smelling flowers to Cate’s nose.
+  - When the heavy winds eased to a zephyr, I knew it was going to be a great day for a picnic.
+  - While we were prepared for fierce winds, the hurricane dissolved and gave us only the smallest zephyr.
+
+* [[https://wordsinasentence.com/zest-in-a-sentence/][Zest]]
+
+  =a great amount of enthusiasm=
+
+  - Kate's zest for running keeps her very active.
+  - Because I have a fear of heights, I do not have a zest for flying.
+  - My teacher’s zest for math makes class fun and exciting for everyone.
+  - At the age of eighty, my grandmother has a zest for life that allows her to live like a carefree teenager.
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

@@ -12,6 +12,8 @@
  #+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
 #+HTML: </div>
 
 * [[https://wordsinasentence.com/pacifist-in-a-sentence/][Pacifist]]
@@ -3790,3 +3792,7 @@
   - Putrid meat is not fit for human consumption, even if you cook it thoroughly.
   - The pandemic worked to kill the crops, leaving many farmers with putrid vegetables.
   - Judging by the putrid odor, it was not safe to swim in the lake.
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

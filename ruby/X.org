@@ -1,0 +1,34 @@
+#+TITLE:     X
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+#+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/xenophobia-in-a-sentence/][Xenophobia]]
+
+  =a dread or dislike of anything or anyone foreign, especially people from other cultures and races=
+
+  - Shane’s xenophobia prevents him from going to social events where there are people he does not know.
+  - If xenophobia did not exist, racism would not exist because people would not dislike others because of their differences.
+  - The boy’s xenophobia arose when he watched a black man kill his mother.
+  - As a foreign aid volunteer, you should not have a case of xenophobia that hinders you from socializing with people.
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

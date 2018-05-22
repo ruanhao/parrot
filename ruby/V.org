@@ -1,0 +1,926 @@
+#+TITLE:     V
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+#+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/vacillate-in-a-sentence/][Vacillate]]
+
+  =to waver between different opinions or actions; be indecisive=
+
+  - If you ask Paula to choose a restaurant for lunch, she will vacillate between restaurants forever.
+  - While King Henry was normally a good leader, he had the tendency to vacillate when important decisions needed to be made.
+  - If you vacillate between two positions, there is no way you will win the debate.
+  - Sally is beginning to vacillate about whether or not she wants to get married on Christmas Day.
+  - Jack and Jill vacillate between loving and hating each other on a daily basis.
+  - It is not uncommon for people to vacillate when it comes to choosing lottery numbers.
+  - Because her opinions rarely waiver, Ann is not one to vacillate on any subject which is important to her.
+
+* [[https://wordsinasentence.com/vainglorious-in-a-sentence/][Vainglorious]]
+
+  =overly proud of one’s own achievements; tending to boast about personal accomplishments=
+
+  - The vainglorious trainer spent more time flexing his own muscles than he did helping build his client’s.
+  - Giving a vainglorious speech, the self-important CEO went and on and on about how much he had done for the company.
+  - Although he insisted he wasn’t bigheaded, most of Travis’s family saw his has boastfully vainglorious.
+  - The vainglorious mayor cared not about the city but only about his person gains.
+
+* [[https://wordsinasentence.com/vainglory-in-a-sentence/][Vainglory]]
+
+  =extreme pride in ones work that can be excessive and showy=
+
+  - The student was filled with such vainglory over his Harvard admission that he made several copies of his acceptance letter and sent them to all of his relatives.
+  - With an overwhelming sense of vainglory, the soccer player took all of the family pictures off the fireplace mantle and replaced them with his trophies.
+  - Peter’s mother smiled at his vainglory as he boasted about his perfect SAT score to anyone who would listen.
+  - In a burst of vainglory, Janet taped her straight A report card on her twin sister’s door.
+
+* [[https://wordsinasentence.com/valiant-in-a-sentence/][Valiant]]
+
+  =displaying determination or courage=
+
+  - The valiant police officer was willing to take on the entire gang to save the little girl.
+  - During the ceremony, the president will present valiant soldiers with medals of bravery.
+  - Firemen are valiant individuals who put their lives on the line to save others.
+  - When the spotlight comes on, the valiant performer will jump off the tall building without a parachute.
+  - The valiant rescue workers continued to search for survivors inside the unstable building.
+  - Although Jack made a valiant effort to win the race, he came in second behind last year’s winner.
+  - Sir William is a valiant knight of the kingdom who has won many battles.
+
+* [[https://wordsinasentence.com/vanity-in-a-sentence/][Vanity]]
+
+  =excessive pride in or admiration of one's own abilities, appearance or achievements=
+
+  - Because vanity had caused too many girls to be late for classes, all mirrors were removed from the restrooms.
+  - Throughout history, vanity and excess pride have led to the downfall of many great men and women.
+  - While her vanity prompts her to spend ridiculous amounts of money on her hair products, she cuts corners where her children’s needs are concerned.
+  - Although it’s admirable that Rachel graduated from an ivy league university, her constant bragging about it is nothing but vanity.
+  - Even though it caused a lot of problems for Snow White, she would probably have never met Prince Charming if it hadn’t been for the evil Queen’s vanity.
+  - I stay healthy by going to the gym and avoiding sugar, but basically, my vanity is what keeps me motivated to be good.
+  - My mother always told me not to stare at myself in the mirror too long because it was a sign of vanity.
+
+* [[https://wordsinasentence.com/veer-in-a-sentence/][Veer]]
+
+  =to swerve or change direction=
+
+  - She helplessly watched the car in front of her veer into oncoming traffic and let out a breath when they quickly navigated back into the proper lane.
+  - The air traffic controller panicked when the plane began to veer off course and radioed to see if anything was wrong.
+  - In a split second decision, the student decided to veer left and go home instead of heading to her classes.
+  - The captain of the Titanic attempted to veer out of the way of the iceberg but the ice sideswiped the hull and the ship began to take on water.
+
+* [[https://wordsinasentence.com/vehement-in-a-sentence/][Vehement]]
+
+  =deeply felt; passionate=
+
+  - I was vehement about monitoring the actions of the police as they sought my husband’s killer.
+  - When people learned the banks were going to be bailed out by the government, they made vehement protests across the country.
+  - Jack’s enemies on the school board met his proposal with vehement opposition.
+  - Because Amanda was disappointed in the customer service she received, she wrote a vehement letter to the manager of the restaurant.
+  - In hopes of changing their school menu, the students staged a vehement protest outside the cafeteria.
+  - The voters were vehement in their efforts to remove the crooked politician from office.
+  - With tears in his eyes, the victim’s husband made a vehement plea for his wife’s killer to be executed.
+
+* [[https://wordsinasentence.com/venal-in-a-sentence/][Venal]]
+
+  =willing to do dishonest things in return for money; willing to take bribes=
+
+  - Because the mayor was a venal man, he had no problem accepting bribes from real estate developers.
+  - The venal police officer accepted the money the drug dealers gave him to look away from their illegal deals.
+  - While the chemical company claimed to be environmentally friendly, it was actually managed by a venal executive who refused to pay for the proper disposal of wastes.
+  - The venal minister lied to the members of the church when he told them donations would earn them a place in heaven.
+  -  Since a venal con artist raised Carl, it is not surprising that Carl grew up to be a thief.
+  - Some venal radio stations will not play music from independent labels unless they are offered bribes to do so.
+  - Because we did not see Jake as a venal man, we were completely shocked when he threw the boxing match for money.
+
+* [[https://wordsinasentence.com/venerable-in-a-sentence/][Venerable]]
+
+  =worthy of respect because of age, position, or dignity=
+
+  - The Pope is a venerable leader who is recognized for his commitment to helping others.
+  - Since she had worked as a teacher in the school system for over forty years, Mrs. Jenkins was considered a venerable educator who helped shape our community.
+  - The title of country president should only be held by a venerable man who has earned the respect of his countrymen.
+  - Although I often disagree with the movie critic’s reviews, I still view him as a venerable writer with years of experience.
+  - Surprisingly, the venerable general was held in high regard not only by his troops but also by his enemies.
+  - When I die, I hope people will view me as a venerable woman who gave back to her country.
+  - My favorite country artist is a venerable vocalist who has inspired many up-and-coming singers.
+
+* [[https://wordsinasentence.com/venerate-in-a-sentence/][Venerate]]
+
+  =to respect or worship someone or something=
+
+  - The Bible says we should venerate our parents and our elders.
+  - Although I do believe we should venerate honest politicians, I do not believe these individuals should be paid large salaries.
+  - Many people attend church services to venerate God.
+  - To venerate Mrs. Johnson’s fifty-five years of service in the school system, the county is naming a school in her honor.
+  - I cannot believe some people have the nerve to venerate the terrorist as a hero!
+  - In some cultures, it is mandatory that wives venerate their husbands and place them on pedestals.
+  - I prefer not to watch television shows that venerate unwed mothers making light of their personal situations.
+
+* [[https://wordsinasentence.com/venial-in-a-sentence/][Venial]]
+
+  =capable of being excused=
+
+  - Because the principal felt the boys had committed a venial offense, he only gave them a light punishment.
+  - We excused our son’s venial lies.
+  - When Rick was pulled over for his venial wrongdoing, he was only given a warning by the officer.
+  - The priest spent his Saturday afternoon telling people how they could be forgiven for their venial sins.
+  - In order to relieve overcrowding, the prison system is going to parole hundreds of prisoners convicted for venial acts.
+  - Generally, young children are allowed to make venial mistakes without consequence.
+  - The teacher did not take off points for the venial errors in my paper.
+
+* [[https://wordsinasentence.com/venomous-in-a-sentence/][Venomous]]
+
+  =of animals, especially snakes, or their parts secreting venom; capable of injecting venom by means of a bite or sting=
+
+  - The park ranger warned the campers to watch out for venomous snakes.
+  - Scorpions, rattlesnakes, and vipers are venomous creatures whose bite or sting can cause extreme pain or even death.
+  - The child was rushed to the emergency room after he was bitten by a venomous snake.
+  - Perfectly harmless spiders are often killed because they resemble the venomous black widow or brown recluse.
+
+* [[https://wordsinasentence.com/vent-in-a-sentence/][Vent]]
+
+  =an opening that allows air, gas, or liquid to pass out of or into a confined space=
+
+  - A vent at the top of the chimney allows smoky air to escape and fresh air to enter the home.
+  - The dryer had a vent that expelled lint and hot air from the house.
+  - Most homes have at least one air vent that releases stale air from the house and allows clean, outside air to enter.
+  - A volcano is a natural vent that releases pent up hot air from the Earth’s surface in the form of lava.
+
+* [[https://wordsinasentence.com/venture-in-a-sentence/][Venture]]
+
+  =an undertaking that has some risk attached=
+
+  - Although the venture is going to cost me a lot of money, I can easily recoup my funds in three months if the business is successful.
+  - The investor would not put his money into any venture that would not triple his investment.
+  - Even though Justin considers himself to be very smart financially, he lost over a million dollars when his last venture failed.
+  - More than likely, Jill’s ice cream cart will only be a profitable venture during the summer months.
+
+* [[https://wordsinasentence.com/venturesome-in-a-sentence/][Venturesome]]
+
+  =having the tendency to willingly take risks or dangerous adventures=
+
+  - The venturesome couple climbed decided to climb Mount Everest for their honeymoon.
+  - Divers who choose to swim in shark infested waters are especially venturesome.
+  - The venturesome skydiver shocked the world when he announced he was going to jump from the plane without a parachute.
+  - The venturesome girl was willing to stick her hand in a basket full of poisonous vipers for a thousand dollars.
+
+* [[https://wordsinasentence.com/veracious-in-a-sentence/][Veracious]]
+
+  =honest; always truthful=
+
+  - “Honest” Abraham Lincoln was known as a veracious president who stood for truth.
+  - Always veracious, Grandma Marlene will tell you the truth even if it might hurt your feelings.
+  - Pinocchio was not known for being veracious as his lying got him in lots of trouble.
+  - After listening to all evidence, the jury found the veracious woman to be truthful and dismissed all charges.
+
+* [[https://wordsinasentence.com/veracity-in-a-sentence/][Veracity]]
+
+  =the quality of being truthful=
+
+  - Since the witness is a known enemy of the defendant, his testimony certainly needs to be evaluated for its veracity.
+  - The police doubted the veracity of the suspect’s alibi.
+  - Until James saw the pictures proving the veracity of his wife’s affair, he did not believe any of the rumors.
+  - The teacher doubted the student’s veracity when he turned in a paper that had obviously been written by someone else.
+  - Although you and I both heard the same rumor about our company closing, we should not get upset until we verify the veracity of the information.
+  - The judge would not admit the evidence in the trial because he doubted the veracity of the bloodstains.
+  - Even though my friend believed in the veracity of the fortune-teller’s prediction, I had serious doubts about the woman’s ability to see the future.
+
+* [[https://wordsinasentence.com/verdant-in-a-sentence/][Verdant]]
+
+  =green with grass or other rich vegetation=
+
+  - After three years of drought conditions, the farmers welcomed the spring rains and hoped they would continue long enough to restore their crops to verdant abundance.
+  - When she meditates, Pauline goes to a place in her mind where she is surrounded by verdant pines, blue skies, and cool breezes.
+  - Two years after they bought the grand old estate, they had finally restored the grounds and gardens to their original verdant grandeur.
+  - The travelers were astounded when they climbed to the top of the parched mountain and found themselves looking down into a lush, verdant valley.
+  - I love this artist’s pastoral painting of cattle grazing peacefully in a verdant pasture, but I’m afraid the price is a little steep for me.
+  - While my sister was on her trip, she sent me regular emails with video attachments of colorful birds and monkeys that live in the verdant jungle around her hotel.
+  - Curly promised Willa that he would build her a house on the top of a hill so that she could enjoy the verdant view from every angle.
+
+* [[https://wordsinasentence.com/vestige-in-a-sentence/][Vestige]]
+
+  =the last small part of something that existed before=
+
+  - The shameless killer did not show a vestige of emotion when the judge sentenced him to death.
+  - How am I supposed to enjoy my cereal with nothing but that vestige of milk you left in the carton?
+  - After the huge fire, only a vestige of the house remained visible among the ashes.
+  - My critical mother-in-law has taken everything but the vestige of my self-esteem.
+  - Using a cleanser, Joan removed all but a vestige of makeup from her face.
+  - The sole sock on the floor is the vestige of my ex-husband’s belongings.
+  - After digging for hours, the researchers finally found the vestige of an ancient civilization.
+
+* [[https://wordsinasentence.com/vex-in-a-sentence/][Vex]]
+
+  =to bring trouble, distress, or agitation to=
+
+  - I get irritated when people go out of their way to vex me with their small problems.
+  - If you attempt to vex the dog by pulling his tail, he is sure to bite you!
+  - The job of the government is to eliminate the problems which vex our country.
+  - Because you are having a bad day, do not assume the entire world is out to vex you.
+  - When I am angry, I say things simply to vex my husband.
+  - The sound of a fly buzzing near my ear is something that can vex me to no end.
+  - Although my neighbors and I normally get along well, they do on occasion vex me with their late-night parties.
+
+* [[https://wordsinasentence.com/vexation-in-a-sentence/][Vexation]]
+
+  =the condition of being agitated=
+
+  - In vexation, I watched the neighbor’s dog poop in my yard.
+  - Bill could not hide his vexation when his wife stayed out all night.
+  - When the driver hit my car and rode away, there were no words for my vexation.
+  - The director experienced a great deal of vexation when the leading actress did not appear on set.
+  - In vexation, Kim called the hotel front desk to complain about the broken shower.
+  - To avoid the vexation caused by traffic, I normally leave work really early.
+  - As a waitress, Gail must often hide her vexation with annoying customers.
+
+* [[https://wordsinasentence.com/viable-in-a-sentence/][Viable]]
+
+  =having the possibility of being achieved or developed=
+
+  - If the project is not viable, there is no reason for us to consider it.
+  - Once upon a time, solar power was not viewed as a viable energy source.
+  - Without a viable strategy, the rebels will not be able to remove the dictator from power.
+  - The two small bookstores see a merger as the only viable means of competing with online booksellers.
+  - As a single mother with two small children, I do not believe working late at night is a viable solution to my money worries.
+  - Today global communication is viable without a telephone because of the Internet’s social applications.
+  - Without water and sunlight, the seeds stand no chance of being viable.
+
+* [[https://wordsinasentence.com/vicious-in-a-sentence/][Vicious]]
+
+  =violent, destructive and cruel=
+
+  - Mark is a vicious person who will spends years plotting how to take revenge on people that hurt him in any way.
+  - A vicious rumor swirled around campus that a teacher had slayed a student after the student threatened to report him to the police.
+  - Andy was struck by a vicious bout of meningitis which ultimately claimed his life.
+  - The cops are especially vicious in the downtown, searching for anyway to arrest people.
+
+* [[https://wordsinasentence.com/vicissitude-in-a-sentence/][Vicissitude]]
+
+  =a change of circumstances or fortune, typically one that is unwelcome or unpleasant.=
+
+  - The parental vicissitude I currently have is trying to pay child support for six children.
+  - My vicissitude in college was tackling seven classes and a job.
+  - Though he had many vicissitudes in life, nothing would stop him from becoming an entrepreneur.
+  - Some say that we must go through the vicissitudes in life to become a stronger person.
+  - Dealing with traffic is a vicissitude of city life.
+  - Against all physical vicissitudes, he still won first place in the 5K run.
+  - One vicissitude of owning a cat is that they shed hair everywhere.
+
+* [[https://wordsinasentence.com/vigilance-in-a-sentence/][Vigilance]]
+
+  =the state of keeping a careful watch for danger=
+
+  - Lack of vigilance caused the Titanic to crash into an iceberg that no one saw coming.
+  - Because of my neighbor’s vigilance, the intruder was caught in the act.
+  - The police recruit has a reputation for vigilance and keeping an eye out for danger.
+  - It takes vigilance from people who care to stop big companies from polluting our streams.
+
+* [[https://wordsinasentence.com/vigilant-in-a-sentence/][Vigilant]]
+
+  =watchful, especially for danger or disorder=
+
+  - Although this highway is a beautiful drive, you have to stay vigilant for deer and other animals in the road.
+  - In the aftermath of the hurricane, the engineer had to stay vigilant as he looked far ahead for hazards on the track.
+  - As the Secretary of Defense, it is your responsibility to remain vigilant to threats against Homeland Security.
+  - Public opinion varies between the groups who demand that we be more vigilant about immigrants crossing our borders and those who prefer a more humanitarian approach.
+  - Although she hated to admit it, Teresa realized that her bills were getting out of hand and she promised herself that she would be more vigilant about her spending habits.
+  - That movie producer is always vigilant about new trends in entertainment so that he can take advantage of what people are interested in at the moment.
+  - After the third robbery, the owner of the store finally realized that he hadn’t been vigilant enough about security and installed a cutting-edge alarm system.
+
+* [[https://wordsinasentence.com/vilify-in-a-sentence/][Vilify]]
+
+  =to utter slanderous and abusive statements against=
+
+  - Halle’s husband tried to vilify her during their child custody battle.
+  - Unfortunately, the internet and social media have made it very easy for people to vilify their enemies.
+  - The politician wrote an article to vilify his opponent.
+  - Because the celebrity felt the magazine editor tried to vilify her as a bad mother, she sued him for slander.
+  - After Jason was dumped by Laura, he did everything he could to vilify her to their friends.
+  - Because I took away my daughter’s mobile phone, she decided to vilify me on Facebook.
+  - When we are threatened by those who do not agree with our opinions, we often choose to vilify them to others.
+
+* [[https://wordsinasentence.com/vindicate-in-a-sentence/][Vindicate]]
+
+  =to clear from an accusation, suspicion or criticism=
+
+  - Although the new evidence seems to vindicate the defendant of the breaking and entering charges, there is still the matter of the assault.
+  - Don’t even try to use your charm and good looks to vindicate your obnoxious behavior last night.
+  - You can vindicate your claim to this property by showing us the original deed.
+  - If he can vindicate his client of the charges in spite of the circumstantial evidence against him, he will be performing a miracle.
+  - The novel takes an unexpected turn when the reader believes the protagonist is going to present evidence to vindicate his brother and keep him out of jail, and the evidence turns out to be his own confession.
+  - Because returning the items you shoplifted doesn’t totally vindicate you of all charges, you will need to perform twenty hours of community service.
+  - Despite my promise to vindicate him with his parents, he still didn’t trust me to tell them the truth about what had happened.
+
+* [[https://wordsinasentence.com/vindictive-in-a-sentence/][Vindictive]]
+
+  =having or showing a desire to hurt someone who has hurt or caused problems for you=
+
+  - My aunt is a vindictive woman who once burned all my uncle’s clothes.
+  - Although Harry claims he is not a vindictive person, he seemed pretty happy when he heard his abusive boss was getting fired.
+  - Katy’s vindictive nature led her to slash the tires on her ex-husband’s car.
+  - When you practice “an eye for an eye”, you are being a vindictive person who retaliates in kind.
+  - Throwing eggs at your neighbor’s house because he drove into your flowerbed is an example of vindictive behavior.
+  - While I am angry with Victoria, I will not be vindictive and make up lies about her.
+  - The defense attorney asked the jury to ignore the vindictive testimony of the defendant’s ex-girlfriend.
+
+* [[https://wordsinasentence.com/viral-in-a-sentence/][Viral]]
+
+  =something (a video, image, an advertisement) that is circulating rapidly on the internet=
+
+  - The image of the cat doing the Macarena went viral, gaining ten thousand likes in just one day.
+  - Although the President tried to take down his confusing tweet, it had already went viral online.
+  - Because his heroic speech went viral on YouTube, the man became an internet sensation in his home town.
+  - The attention seeker tried to gain more followers by releasing crazy videos and helping them go viral with fake account shares.
+
+* [[https://wordsinasentence.com/virtuoso-in-a-sentence/][Virtuoso]]
+
+  =a person (esp. a musician) who does something in a very skillful way=
+
+  - We sat in amazement as the young prodigy delivered a piano performance that revealed his unstoppable future as a virtuoso.
+  - As Jessica’s parents watched her play with the flute as a toddler, they knew their daughter would one day be a virtuoso in the world of classical music.
+  - Ruben is a musical virtuoso who runs his own school of music.
+  - Even though the virtuoso died over two centuries ago, his piano music is still being performed on a daily basis.
+  - Marilyn has spent a great deal of money on singing lessons in pursuit of her goal to become a vocal virtuoso.
+  - Do you think our small community can come up with enough money to convince the famous virtuoso to play a concert at our auditorium?
+  - While Jaime is no virtuoso on the guitar, he does maneuver the instrument well enough to play simple songs.
+
+* [[https://wordsinasentence.com/virulence-in-a-sentence/][Virulence]]
+
+  =the ability of a microorganism or bacteria to produce disease=
+
+  - The virulence of the microbes seemed to increase with time, producing more disease with time.
+  - Ebola is a disease with high virulence, meaning it’s microbes can take over a host with infection extremely quickly.
+  - Natural flora are bacteria but rarely make us sick because they are low on the virulence scale.
+  - Scientists rate AIDS and Malaria high on the virulence scale since they make their hosts very sick.
+
+* [[https://wordsinasentence.com/viscous-in-a-sentence/][Viscous]]
+
+  =having the characteristics of being sticky and/or thick and slow to move=
+
+  - It seemed to take forever for the viscous cough medicine to come out of the bottle.
+  - After attempting to pour the glaze over the ham, I realized I needed a spoon to remove the viscous mixture from the bowl.
+  - My daughter was very sticky after she covered herself with the viscous table syrup.
+  - Because honey is a viscous substance, it takes a great deal of work to remove it from a jar.
+
+* [[https://wordsinasentence.com/vitiate-in-a-sentence/][Vitiate]]
+
+  =to spoil, make faulty; to reduce the value, quality, or effectiveness of something=
+
+  - When peers and bullies apply pressure, it can vitiate the moral character of young people and lead them down the wrong path.
+  - Because of the obnoxious behavior of the defendant, the judge instructed the jury not to allow their personal feelings vitiate their objectivity in the case.
+  - You made a good decision, so don’t vitiate it by boasting about your success.
+  - While some public servants are found to be corrupt, it is impossible to vitiate the integrity of the majority of law enforcement officers by offering them a bribe.
+  - The defendant’s attorney used the profile presented by the psychologist to vitiate the circumstantial evidence against his client.
+  - Even though we believe that nothing can vitiate a mother’s love, we still occasionally hear tragic stories about mothers harming their children.
+  - We can’t allow that corporation to vitiate the purity of our drinking water by building a factory next to the river.
+
+* [[https://wordsinasentence.com/vitriolic-in-a-sentence/][Vitriolic]]
+
+  =harsh or corrosive in tone=
+
+  - What was supposed to be a civil debate turned into a debate reaching vitriolic levels, ending with both participants screaming obscenities.
+  - Me giving her a vitriolic critique might sting, but harsh is my middle name.
+  - Your vitriolic comments about my dress hurt my feelings!
+  - World War II was one of the most vitriolic wars of all time, killing over 50 million worldwide.
+  - The vitriolic email saddened my mother for weeks.
+  - My grandmother thinks metal is the most vitriolic music to ever exist, saying that it sounds purely evil.
+  - The couple exchanged vitriolic words before the fight broke out.
+
+* [[https://wordsinasentence.com/voluble-in-a-sentence/][Voluble]]
+
+  =characterized by ready or rapid speech; fluent=
+
+  - After my grandfather drinks a few beers, he becomes voluble and will not stop talking.
+  - The voluble politician was never at a loss for words.
+  - When I left a message on Jack’s answering machine, I spoke at a voluble pace to beat the twenty-second cutoff.
+  - In order to break the record for the fastest speaker in the world, you must be capable of talking at an extremely voluble speed.
+  - Tongue twisters are designed to be spoken by voluble presenters.
+  - Although Julian is normally a voluble speaker, he appeared speechless when he won the award.
+  - Sheila was a voluble council member who never hesitated to express her opinion on any subject.
+
+* [[https://wordsinasentence.com/voluminous-in-a-sentence/][Voluminous]]
+
+  =spacious; roomy=
+
+  - The hospital is adding a more voluminous waiting room on to his building in order to hold more patients.
+  - By booking a voluminous room at the inn, the grandfather made sure he had enough space for the entire family.
+  - The voluminous dress seemed to swallow the tiny dancer’s petite frame.
+  - In their voluminous wine cellar, the couple kept hundreds of bottles of various types of alcohol.
+
+* [[https://wordsinasentence.com/voluptuous-in-a-sentence/][Voluptuous]]
+
+  =displaying luxury and giving pleasure to the senses=
+
+  - Every once in a while I like to treat myself to the voluptuous indulgence of a spa weekend.
+  - Clearly a woman of elegance, her bedroom had a voluptuous quality with its silk sheets and velvet drapes.
+  - Although I love to experience a voluptuous evening out at the theater and an expensive dinner, I also enjoy the simple pleasure of watching the sun rise or hearing birds sing.
+  - Because he was initially attracted to her voluptuous lifestyle, he had only himself to blame for the bills she was racking up at the high end department stores.
+  - Even though the peaches looked like they would be a voluptuous treat, they were actually dry and tasteless.
+  - Marcie was planning an amazing meal for her dinner party, and she needed to find a voluptuous wine that would set it off perfectly.
+  - Marilyn Monroe was famed for her voluptuous beauty, her kittenish voice, and her dumb blonde persona.
+
+
+* [[https://wordsinasentence.com/vacuous-in-a-sentence/][Vacuous]]
+
+  =containing lack of thought or intelligence; containing nothing; empty=
+
+  - There is no substance to her vacuous claim on the property!
+  - Since the election is over, let us hope for a break from all the vacuous speeches.
+  - Although he had never been on an airplane, the old man could not resist making vacuous remarks about airline safety.
+  - Looking into his vacuous eyes, you could tell the cancer-stricken man had given up hope.
+  - Whenever Eileen started drinking, her mind would suddenly become vacuous.
+  - Bored with the vacuous chatter at the party, Mitchell went home and read a book.
+  - To Sarah, her life was just one vacuous day after another.
+
+* [[https://wordsinasentence.com/vagary-in-a-sentence/][Vagary]]
+
+  =an unpredictable action or behavior=
+
+  - When the temperature dropped to freezing conditions on a summer day, it was a vagary of the weather.
+  - Hank’s outburst in church was a vagary that simply came out of nowhere.
+  - Because Kim has a bipolar disorder, she is known to display a vagary without any warning.
+  - Today’s stock market vagary cost investors millions of dollars.
+  - Because gamblers are familiar with the vagary of the gaming tables, they know luck can change in a hand.
+  - Leslie’s vagary at the party made everyone wonder if she had consumed too much alcohol.
+  - Although the detectives had encountered lots of killers with strange habits, nothing prepared them for the vagary of their latest suspect.
+
+* [[https://wordsinasentence.com/vagrant-in-a-sentence/][Vagrant]]
+
+  =an individual who lacks regular work and moves around frequently=
+
+  - The vagrant does not appear to work and frequently asks tourists for money.
+  - Because the vagrant has not had a bath in several weeks, he smells pretty bad.
+  - Have you seen the vagrant who sleeps by the big oak tree in the park?
+  - The media was quick to publicize the story of how the penniless vagrant won a scholarship to Harvard University.
+
+* [[https://wordsinasentence.com/valediction-in-a-sentence/][Valediction]]
+
+  =saying goodbye with an action=
+
+  - Jane waited for his valediction, but his stormed out of house without a single word or wave goodbye.
+  - He left a note on her pillow as a valediction instead of waking her up to say goodbye.
+  - The sailor turned and waved in valediction as the ship pulled away from the dock.
+  - She didn’t know how to say goodbye, so her valediction was to leave him behind a dozen of his favorite cookies.
+
+* [[https://wordsinasentence.com/valedictory-in-a-sentence/][Valedictory]]
+
+  =a big goodbye/farewell speech/announcement=
+
+  - Before the president leaves the White House forever, he makes a valedictory that is broadcasted on all major television networks.
+  - During his retirement party, their former boss read a valedictory thanking everyone for 20 wonderful years of successful business.
+  - On the last day of school, seniors wrote a valedictory stating what they would miss about high school and read it in front of the class for their final grade.
+  - Stan’s valedictory speech to his family the night before he deployed filled everyone with such love that they all cried.
+
+* [[https://wordsinasentence.com/vandalism-in-a-sentence/][Vandalism]]
+
+  =action involving deliberate destruction of or damage to public or private property=
+
+  - The couple was charged with vandalism after carving their initials into a famous sculpture.
+  - Most police officers consider graffiti vandalism, but historians see it as public expression and art.
+  - Two teens were charged with vandalism after the spray painted curse words on their elderly neighbor’s garage.
+  - Using toilet paper to cover someone’s house and egging someone’s car are two common forms of vandalism.
+
+* [[https://wordsinasentence.com/vanquish-in-a-sentence/][Vanquish]]
+
+  =to overcome, beat, or make disappear=
+
+  - In the movies, the superheroes usually vanquish the villains.
+  - Our team must vanquish a ten-point deficit in order to come back and win the championship.
+  - In her advertisement, the ghost chaser claims she can vanquish evil spirits.
+  - The spiritual healer will attempt to vanquish the dark forces surrounding your aura.
+
+* [[https://wordsinasentence.com/vantage-in-a-sentence/][Vantage]]
+
+  =a place or position affording a good view; an advantage=
+
+  - From my vantage point on the roof I could make out the advancing troops.
+  - From the second floor vantage, I could watch the show with ease.
+  - History is often viewed from the vantage point of the winner.
+  - The observatory deck is a great vantage point for viewing Manhattan.
+
+* [[https://wordsinasentence.com/vapid-in-a-sentence/][Vapid]]
+
+  =lacking liveliness; dull=
+
+  - To me, baseball is a vapid sport that quickly puts me to sleep.
+  - Although the actress was nominated for several awards, she was still criticized for her vapid portrayal of the world leader.
+  - The vapid entertainment did not hold the children’s attention.
+  - Because we did nothing but sit in the hotel room, our vacation was vapid and uninteresting.
+  - Because Carol was heavily medicated, all of her responses were vapid.
+  - The vapid lecture seemed to go on for days.
+  - Since Bill was nervous, his first standup routine was confusing and vapid.
+
+* [[https://wordsinasentence.com/variance-in-a-sentence/][Variance]]
+
+  =at odds with or conflicting with=
+
+  - The girl’s confident pose was at a variance with her shaky voice.
+  - The country’s position on the issue with at a variance with its allies.
+  - Sarah was at a variance with her husband about how to raise their child.
+  - The variance between their political views turned the family members into bitter enemies.
+
+* [[https://wordsinasentence.com/variegated-in-a-sentence/][Variegated]]
+
+  =having patches, spots, or streaks of different colors from the underlying or base color=
+
+  - Calico cats have variegated patches of fur.
+  - Some horses have variegated coats that feature spots of brown, white, or black all over their body.
+  - The variegated tulips had pink outer petals with streaks of yellow and white on the inside.
+  - The quilt had variegated sections of blue, green, and red.
+
+* [[https://wordsinasentence.com/vendetta-in-a-sentence/][Vendetta]]
+
+  =a series of actions taken to get back at or harm someone=
+
+  - The candidate’s vendetta against his challenger led him to question the man’s character.
+  - Because Helen stole Joan’s car, Joan has waged a vendetta against her.
+  - Jim was arrested for acting on a vendetta against the man who killed his wife.
+  - When the rapper made fun of his rival in a song, he let everyone know the vendetta had not been resolved.
+
+
+* [[https://wordsinasentence.com/vengeance-in-a-sentence/][Vengeance]]
+
+  =revenge for a wrong=
+
+  - When Jim did not get the justice he thought he deserved in court, he got his own vengeance by shooting his attacker.
+  - The murdered girl’s parents wanted vengeance in the form of the death penalty.
+  - After Will was fired for no reason, he sought vengeance by vandalizing his former supervisor’s vehicle.
+  - Everyone who sought vengeance against the crooked politician had a motive to kill him.
+  - Even if the kidnapper safely returns the mob boss’s daughter, he should still expect vengeance from the crime lord.
+  - Evan’s desire for vengeance led him to purchase a gun.
+  - Once my attacker had been prosecuted and sentenced to prison, my longing for vengeance was fulfilled.
+
+* [[https://wordsinasentence.com/vengeful-in-a-sentence/][Vengeful]]
+
+  =someone who is consumed by or actively seeking revenge for a wrong doing=
+
+  - The Count of Monte Cristo follows a vengeful Edmond Dantes on his quest to destroy the lives of those who had him falsely imprisoned.
+  - She didn't mean to be vengeful, but after the pain he'd caused her she felt entitled to revenge.
+  - The vengeful ghost finally got her revenge when she drove her assailant insane and he had to be committed.
+  - Guy Fawkes Day commemorates the day when a group of vengeful vigilantes were thwarted in their plot to blow up the Parliament building in England.
+
+* [[https://wordsinasentence.com/venom-in-a-sentence/][Venom]]
+
+  =a poisonous substance secreted by animals such as snakes, spiders, and scorpions and typically injected into prey or aggressors by biting or stinging=
+
+  - The scorpion stores venom in its tail and releases the powerful poison when it stings.
+  - Although scorpion venom is usually poisonous, some life-saving medications contain this dangerous liquid.
+  - Some snake venom causes a painful, burning sensation, while others lead to a horrible death.
+  - In the ocean, the blue-ringed octopus, box jellyfish, and stonefish all contain venom that is powerful enough to kill several humans with a single sting or bite.
+
+* [[https://wordsinasentence.com/ventilate-in-a-sentence/][Ventilate]]
+
+  =cause air to enter and circulate freely in (a room, building, etc.=
+
+  - Maria opened the windows to ventilate the dusty, old basement.
+  - After starting another fire in the kitchen, the terrible chef opened a window to let out the smoke and ventilate the room with fresh air.
+  - Fans are used to ventilate the home by collecting warm air at the ceiling and releasing it through air vents at the top of the house.
+  - Bryce hoped that by rolling down his car windows to ventilate the car, the smell of rotting fast food and dirty socks would be replaced with fresh, mountain air.
+
+* [[https://wordsinasentence.com/ventriloquist-in-a-sentence/][Ventriloquist]]
+
+  =a person who can speak or utter sounds so that they seem to come from somewhere else, especially an entertainer who makes their voice appear to come from a dummy of a person or animal=
+
+  - The children laughed as the ventriloquist made the doll speak without moving his lips.
+  - A skilled ventriloquist can trick the audience into believing that the doll or animal he is controlling is actually alive.
+  - A ventriloquist is a master of sounds and vocal chord control who can make it seem like they're speaking without moving their lips.
+  - Muppets are large stuffed animals controlled by a ventriloquist who makes it appear like they're speaking.
+
+* [[https://wordsinasentence.com/verbatim-in-a-sentence/][Verbatim]]
+
+  =repeating the exact words that were used=
+
+  - Do you have to repeat everything I say verbatim?
+  - It is the court reporter’s job to capture every word spoken verbatim.
+  - While my hearing is not perfect, I am certain I can repeat every word of her speech verbatim.
+  - It was obvious the playwright included lines from the book almost verbatim in his play.
+  - To test my grandmother’s memory, the doctor asked her to repeat his words verbatim.
+  - Because he had such a great memory, Jason could recite the lyrics of a song verbatim after only hearing it once.
+  - While the teacher was not looking, Janice copied Mark’s test answers verbatim.
+
+* [[https://wordsinasentence.com/verbiage-in-a-sentence/][Verbiage]]
+
+  =speech or writing that uses too many words or excessively technical expressions=
+
+  - In an attempt to confuse the jury, the attorney used a lot of legal verbiage.
+  - The book’s verbiage makes it a difficult read.
+  - Through its verbiage, the campaign poster implies John Smith is the better candidate.
+  - Politicians often use verbiage to mislead voters.
+  - While I normally like this magazine’s articles, this month they contain an excess of verbiage which makes them boring.
+  - As a writing teacher, I hate having to sort through all the verbiage my students use to pad their papers.
+  - My minister is known for his excessive verbiage.
+
+* [[https://wordsinasentence.com/verboten-in-a-sentence/][Verboten]]
+
+  =forbidden, prohibited=
+
+  - Because of past arguments, political discusses are verboten at our dinner table.
+  - Gemma and Kate agreed that the discussion of their favorite television show was verboten until the new season aired.
+  - Since threatening a witness was verboten, the man felt more at ease to testify about his dealings with the defendant.
+  - Although they knew it was verboten, the girls usually snuck extra snacks into the movie theater.
+
+* [[https://wordsinasentence.com/verdure-in-a-sentence/][Verdure]]
+
+  =a thriving condition=
+
+  - One week after a successful surgery, John was in verdure and eager to leave the hospital.
+  - The verdure of the fertile soil will enable the farmer to have an excellent crop this year.
+  - Because many of our grapevines are not in verdure, our winery may struggle financially this year.
+  - Gail has a green thumb and can nurture dying plants into verdure.
+
+* [[https://wordsinasentence.com/verge-in-a-sentence/][Verge]]
+
+  =at the edge of, border of, or between two distinct sites=
+
+  - She stood on the verge of the lake at the line where the water met the sand.
+  - The mountain climber balanced on the verge of the cliff and if he leaned even a little he would topple over the edge.
+  - She sat on the verge of the pool and dunked her feet into the water.
+  - Maya and her family lived in a house on the verge between Canada and Washington.
+
+* [[https://wordsinasentence.com/veritable-in-a-sentence/][Veritable]]
+
+  =used to highlight the realness of a person, place, or thing=
+
+  - As I watched my brother drink beer after beer, I realized he was a veritable sponge.
+  - The exhausted oil drillers celebrated, as their black puddle became a veritable fountain of oil.
+  - When the unruly students were left unattended, they turned the classroom into a veritable circus.
+  - Chocolate is a veritable addiction for many women.
+  - For the prom, the high school gym was turned into a veritable wonderland.
+  - The seven-acre pumpkin field was a veritable maze.
+  - With half of her co-workers home ill, Jill felt as though there was a veritable epidemic sweeping the office.
+
+* [[https://wordsinasentence.com/vernal-in-a-sentence/][Vernal]]
+
+  =fresh or youthful or immature attributes=
+
+  - The elderly woman had not been vernal for some time, but whenever her favorite song came on she felt as young and lively as when she was a teenager.
+  - The young boy glowed with vernal energy as he darted through the field, searching for Easter eggs.
+  - Because he was vernal and immature, many kids his age refused to hang out with him.
+  - Although he was 50 years old, he appeared much more vernal than he actually was.
+
+* [[https://wordsinasentence.com/vertex-in-a-sentence/][Vertex]]
+
+  =the tapering point where two lines meet=
+
+  - Wayne had the odd habit of eating his pizza from the vertex to the crust.
+  - The spine of a book is a vertex where pages meet.
+  - She climbed the pyramid until she reached the vertex and looked out at the miles of golden sand that flowed like waves in every direction.
+  - The point at the top of the McDonald’s golden arch is a vertex.
+
+* [[https://wordsinasentence.com/vertigo-in-a-sentence/][Vertigo]]
+
+  =the feeling of spinning and being lopsided, often as a result of an inner ear problem=
+
+  - Because Kate suffers from vertigo, it is difficult for her to walk in a straight line.
+  - The vertigo makes Sarah so dizzy she might have to cancel her trip.
+  - During my doctor’s visit, I was told my lightheadedness was caused by vertigo brought on by an ear infection.
+  - Phil is sleeping in the den tonight because the vertigo has made him too unsteady to walk up the stairs.
+
+* [[https://wordsinasentence.com/verve-in-a-sentence/][Verve]]
+
+  =a combination of passion and energy that is typically found in artistic expression=
+
+  - Johnny Depp is known for eccentric performances that burst with verve and energy.
+  - The singer danced across the stage with endless verve and vitality that would have tired out any normal person.
+  - Marius professed his love to Cosette with such verve and passion that she swooned.
+  - Audiences loved to watch Beethoven because he played with such intense verve and energy.
+
+* [[https://wordsinasentence.com/vestment-in-a-sentence/][Vestment]]
+
+  =a religious marking, clothing, etc., that is typically worn for symbolic purposes=
+
+  - Shia Muslims wear a black vestment to symbolize the sufferings of a major martyr of Islam.
+  - Early Judaic high priests wore a vestment that consisted of a purple robe with gold bells and red fringe, a breastplate to hold, and a belt.
+  - In the Roman Catholic religion, the vestment that denotes ones place in the church hierarchy is the robe.
+  - Orthodox monks wear a black vestment to signify their purity and devotion to their faith.
+
+* [[https://wordsinasentence.com/veto-in-a-sentence/][Veto]]
+
+  =to forbid something=
+
+  - Since I am a teenager, my father is sure to veto my request to go on an overnight trip with my boyfriend.
+  - The president will more than likely veto the bill since it does not include any of the components of his economic proposal.
+  - If the board does not like the applicant’s background, it will probably veto his hiring as company president.
+  - Even though you are a patient, you have the rights to veto a treatment recommended by your doctor and to seek other options.
+
+* [[https://wordsinasentence.com/vicar-in-a-sentence/][Vicar]]
+
+  =a priest of the Church of England who oversees a particular church and the area that surrounds it=
+
+  - All the churches in the area are group together and overseen by one appointed vicar.
+  - The vicar was representative of the Church of England and stood in place of the Pope at the rural chapel.
+  - The vicar road in on his horse, meeting his parishioners at the church he oversaw just before sundown.
+  - Needing someone to run all of the churches in the territory, the Bishop searched for a vicar to assign to the area.
+
+* [[https://wordsinasentence.com/vicarious-in-a-sentence/][Vicarious]]
+
+  =experienced or felt by watching, hearing about, or reading about someone else rather than by doing something yourself=
+
+  - As my daughter was crowned the winner of the beauty pageant, I felt vicarious excitement coursing through my veins.
+  - My paralyzed uncle takes vicarious pride in his son’s running achievements.
+  - Since I have many food allergies, I tend to be a vicarious eater who enjoys food through the stories of others.
+  - John experienced vicarious pain as his wife gave birth to their first child.
+  - When my teenage daughter got in trouble for skipping school, I felt a vicarious sense of guilt.
+  - As a young girl, I learned many vicarious lessons about love from my boy-crazed older sister.
+  - Although Marty could not attend the party, he hoped to receive vicarious pleasure from the stories told by his friends.
+
+* [[https://wordsinasentence.com/vicinity-in-a-sentence/][Vicinity]]
+
+  =nearby area=
+
+  - As parents we were upset when we learned ten sex offenders lived within the vicinity of our subdivision.
+  - You will find very few liquor stores in the vicinity of the religious community.
+  - In the vicinity of the police station, the crime rate is very low.
+  - There are many beggars in the vicinity of the homeless shelter.
+
+
+
+* [[https://wordsinasentence.com/vie-in-a-sentence/][Vie]]
+
+  =to take part in a contest or competition=
+
+  - In the championship game, the two teams will vie for the national title.
+  - The competitive twins often vie for the attention of their parents.
+  - This year eight candidates will vie for their political party’s endorsement.
+  - After the semifinal matches are complete, the winning tennis players will vie for the trophy.
+
+* [[https://wordsinasentence.com/vile-in-a-sentence/][Vile]]
+
+  =of low morals; despicable=
+
+  - The vile banker seemed to take great pleasure in foreclosing on the homes of elderly people.
+  - Although the cop had been in law enforcement for over thirty years, he had never seen such vile behavior as that exhibited by the flesh-eating killer.
+  - A rapist is a vile person who has no morals at all.
+  - In the fairytale, the vile queen tried to get rid of her stepdaughter.
+  - Slavery was a vile practice used to obtain free labor.
+  - When I heard James using vile language in front of my children, I asked him to leave my home.
+  - The vile man fed the dog rat poison.
+
+
+* [[https://wordsinasentence.com/vindication-in-a-sentence/][Vindication]]
+
+  =to prove that someone is not guilty of wrongdoing=
+
+  - The man felt personal vindication after police admitted he was not a suspect.
+  - After years of false imprisonment, the prisoner looked for vindication and repayment through the court.
+  - The woman’s vindication finally happened after years of trying to prove that she did not kill her husband.
+  - When taking the monetary settlement, the company gave up his right to seek vindication or justification from the courts.
+
+* [[https://wordsinasentence.com/vintage-in-a-sentence/][Vintage]]
+
+  =antique; old-fashioned=
+
+  - The vintage dress had been stored in the small trunk since the early 1930s.
+  - Placing the vintage clock on the wall, the decorator realized that she preferred dated pieces over modern.
+  - Vintage bicycles sell for a lot of money, simply because they are antiques.
+  - Our local antique store is having a sale on vintage dishes that were produced before 1960.
+
+
+* [[https://wordsinasentence.com/virility-in-a-sentence/][Virility]]
+
+  =being manly or masculine, especially in strength=
+
+  - Because of her virility, the girl was referred to as a “tomboy” by most of her friends.
+  - Displaying his strength, the virile wrester always wanted to show off his manly muscles.
+  - Although he tried to show virility in front of his father, the frail young boy wasn’t much on masculinity or manliness.
+  - Both male gorillas fought for the top spot through shows of virility and mannish behavior.
+
+* [[https://wordsinasentence.com/virtuosity-in-a-sentence/][Virtuosity]]
+
+  =great skill in music or another artform=
+
+  - Full of ambition and virtuosity, the young jazz musician plays as much as possible to increase her skills.
+  - The talented singer’s virtuosity landed her a spot at the famed Apollo Theater.
+  - Drum stars are usually measured by their soloing ability and virtuosity.
+  - The artist’s amazing virtuosity allowed her to work with many different mediums.
+
+* [[https://wordsinasentence.com/visceral-in-a-sentence/][Visceral]]
+
+  =based on emotional reactions rather than on reason or thought=
+
+  - His visceral reaction of punching the wall left him with a broken hand on top of his broken heart.
+  - The visceral descriptions in the shark story were so vivid that I actually felt a little nauseated.
+  - Because some of the scenes in the movie were so visceral, I’m afraid certain images will be imprinted on my mind forever.
+  - On my trip to Disney World, I was happy to leave the intellectual adult side of me behind while I rediscovered the purely visceral wonder of my childhood.
+  - Although I admit that there’s definitely a visceral power in his art, I can’t look at it for very long because I find it so disturbing.
+  - As a detective with an almost perfect record for solving difficult cases, he relies on his visceral sense, in other words his gut feelings, to lead him in the right direction.
+  - Of all the issues that drive people apart politically, the Pro-Life/Pro-Choice discussions usually provoke the most visceral responses.
+
+* [[https://wordsinasentence.com/viscid-in-a-sentence/][Viscid]]
+
+  =sticky; gooey=
+
+  - Creating a viscid cake with caramel, the chef enjoyed making the ooey-gooey treat.
+  - Because it had been stuck so long, it was hard to scrub the viscid candy off the hardwood floor.
+  - The baby wiped her thick and viscid snot all over my brand-new dress.
+  - I used Elmer’s glue and water to make a viscid slime that oozed right out of the container.
+
+* [[https://wordsinasentence.com/vista-in-a-sentence/][Vista]]
+
+  =a distant view or scene=
+
+  - The vacationers could see their favorite bay vista from the top of the tower.
+  - One tower is remaining today, giving visitors a vista of the ancient city.
+  - Standing on the mountain top allowed the climber a vista of the entire tristate area.
+  - Gazing out at the beautiful view, the artist grabbed his pencil and began to sketch the vista.
+
+* [[https://wordsinasentence.com/vituperate-in-a-sentence/][Vituperate]]
+
+  =to insult or verbally attack someone using abusive language=
+
+  - We are sure that the nail technicians vituperate us in their own language when they are irritated.
+  - The woman’s husband tends to vituperate her when he drinks, always insulting her with foul remarks.
+  - To vituperate someone is almost as bad as assaulting them physically.
+  - Because the coach continued to vituperate his team with abusive talk, he was given a warning by the college dean.
+
+* [[https://wordsinasentence.com/vivacious-in-a-sentence/][Vivacious]]
+
+  =to be bubbly and energetic=
+
+  - When the vivacious child came through the school’s door on her first day of kindergarten, she spoke with every student and volunteered to do every activity.
+  - The young man drew attention as he entered the party due to his vivacious personality while he bounced around the room.
+  - Vivacious actresses typically get picked for comedic roles where the characters are very active by running around.
+  - In order for the contestant to do the vivacious dance, she knew she would need to improve her stamina and endurance due to all of those wild dance steps.
+
+* [[https://wordsinasentence.com/volition-in-a-sentence/][Volition]]
+
+  =the power to make your own decisions or choices=
+
+  - Despite my parents' preference, I have decided to attend an out-of-state college on my own volition.
+  - Nathan pled guilty to the crime on his own volition and against his attorney’s wishes.
+  - When the turkey is done, its thermometer will pop up by its own volition.
+  - Of his own volition, Matt lowered his gun and waited for the police to arrest him.
+  - Once the bear realizes there is no food in the trashcan, he will leave the property of his own volition.
+  - You should choose the people you vote for on your own volition and not by the preferences of others.
+  - When the front door seemed to open of its own volition, everyone in the room ran behind the couch.
+
+* [[https://wordsinasentence.com/voracious-in-a-sentence/][Voracious]]
+
+  =having a large appetite; greedy=
+
+  - The football player was a voracious eater who easily consumed two chickens during one meal.
+  - In the jungle, there are many voracious animals that will eat anything they can catch.
+  - When I was pregnant, I was voracious and ate constantly.
+  - According to legend, vampires are voracious creatures who must consume large amounts of blood in order to survive.
+  - Unfortunately, teenagers have become voracious consumers of reality television.
+  - After being sick and unable to eat for three days, I had a voracious hunger on the fourth day.
+  - Because the lion has a voracious appetite, it can easily eat a baby antelope.
+
+* [[https://wordsinasentence.com/voracity-in-a-sentence/][Voracity]]
+
+  =extreme hunger for food or an activity that is powerful and consuming=
+
+  - Her voracity for reading was marked by her overflowing bookshelves, too much money spent at her favorite little bookshop, and the fact that she read at least one book a day.
+  - The pregnant woman was so consumed by a voracity for pizza with anchovies that she ordered nearly a dozen large pizzas every two weeks.
+  - After completing a 12 mile jog, the runner was filled with a voracity for carbs that made her stop by the grocery store and buy a dozen donuts.
+  - The honors student was filled with such a voracity for learning that she read textbooks for fun.
+
+* [[https://wordsinasentence.com/votary-in-a-sentence/][Votary]]
+
+  =A person, such as a monk or nun, who lives a religious life according to vows they have made=
+
+  - The young man decided he wanted to devote his life to his religion and became a votary.
+  - Dressed in a habit, the votary prayed at the altar of his Catholic church.
+  - It is conflicting that Sister Mary wants to live on as a votary and get married.
+  - Amongst the many organized religions in Asia is Buddhism which allows a votary to practice in a spiritual peaceful way.
+
+* [[https://wordsinasentence.com/voucher-in-a-sentence/][Voucher]]
+
+  =piece of paper that entitles the holder to a discount=
+
+  - Although she was not doing well financially, Amber was able to buy lunch with a voucher.
+  - The voucher for a free coffee seemed trivial at the time, but was much needed the morning Mr. Ricks left his wallet at home.
+  - Unaware that the voucher was no more than a scam, the naïve woman spent hundreds of dollars preparing for a trip she would never enjoy.
+  - Her favorite birthday gift was the voucher that entitled her to a free deep tissue massage.
+
+* [[https://wordsinasentence.com/vying-in-a-sentence/][Vying]]
+
+  =involved in a competition for something=
+
+  - The two boys are both crazy about the head cheerleader and are constantly vying for her attention.
+  - As soon as the college announced it was looking for a head coach, several high school coaches began vying for the position.
+  - The two teams are vying for the championship trophy.
+  - On the dating show, the bachelorette has many men vying for her affection.
+
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
