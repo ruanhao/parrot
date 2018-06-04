@@ -1,0 +1,1038 @@
+#+TITLE:     M
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+* [[https://wordsinasentence.com/misanthrope-in-a-sentence/][Misanthrope]]
+
+  =a person who hates or distrusts humankind=
+
+  - The old man was a misanthrope who surrounded his entire yard with barbed wire to keep his neighbors at bay.
+  - Because the hermit lived far away from the village, everyone thought he was a misanthrope who hated the world.
+  - After I was kidnapped and held hostage for a week, I became a misanthrope and distrusted everyone.
+  - Living in a crime-filled city will turn anyone into a nervous misanthrope.
+  - The librarian at my school is a misanthrope who stares angrily at everyone who enters the library.
+  - Even though Larry is outgoing and sociable today, he was once a misanthrope who never left his house.
+  - Sarah’s grandmother is a misanthrope who hates everyone.
+
+
+
+* [[https://wordsinasentence.com/mischievous-in-a-sentence/][Mischievous]]
+
+  =badly behaved; naughty=
+
+  - Garry’s dog is very mischievous so don’t be thrown off by its cute smile.
+  - Everything was going well until our mischievous 6-year-old decided to stick his hand into the living room fan.
+  - The police warned us not to engage in any kind of mischievous behavior on the boardwalk.
+  - Although Martha is a serious student, she does have a mischievous side to her.
+
+
+
+* [[https://wordsinasentence.com/misnomer-in-a-sentence/][Misnomer]]
+
+  =a name or description that is incorrect or inappropriate=
+
+  - Since Fred is very skinny, calling him Fat Fred is indeed a misnomer.
+  - The foreigner found it difficult to understand the local misnomer which described a bar as a watering hole.
+  -  Because my grandmother had a habit of saying inappropriate things, it was not surprising to hear one misnomer after another coming out of her mouth.
+  - The name she chose made no sense to anyone so we could only assume it was a misnomer.
+  - No one can understand why my aunt has given her friendly dog the misnomer of Killer.
+  - Although there was a misnomer in the contract, the judge still said the terms were legal and binding.
+  - Labeling the product as low-fat is a bit of a misnomer because the item’s actual fat content is really quite high.
+
+
+
+* [[https://wordsinasentence.com/misogyny-in-a-sentence/][Misogyny]]
+
+  =an intense dislike of females=
+
+  - The boy’s misogyny hailed from the abuse he suffered from his mother.
+  - In my opinion, our professor allows his misogyny to give women lower grades than men despite the work quality.
+  - The women’s basketball team refused to work with their coach because of his misogyny and his rude behavior.
+  - According to the criminal profiler, only a person with misogyny could kill so many women so brutally.
+
+
+
+* [[https://wordsinasentence.com/mite-in-a-sentence/][Mite]]
+
+  =a little or slightly=
+
+  - The man was acting a mite suspicious, enough that the cops stopped him to find out what he was up to.
+  - If someone is driving in a manner that is a mite uncontrolled and wild, the police might pull them over to make sure they are not under the influence of alcohol.
+  - My friend is only a mite funny, but he thinks he is the most humorous among us, even though his jokes are average at best.
+  - The server that brought our food to us was a mite strange, but he was a kind person under all of that eccentricity.
+
+
+
+* [[https://wordsinasentence.com/mollify-in-a-sentence/][Mollify]]
+
+  =to soothe in temper or disposition=
+
+  - I am hoping the hot tea and crackers will mollify my husband and help him relax.
+  - If John Smith wants to win the election, he will have to mollify the voters he angered during last week’s debate.
+  - Perhaps a warm glass of milk will mollify my upset stomach.
+  - When the baby started to cry, his mother tried to mollify him with a bottle of milk.
+  - Whenever I do something wrong, I make an apology to mollify the person I offended.
+  - After breaking my favorite plate, my little boy tried to mollify me with a kiss on my cheek.
+  - When Jake forgot his wedding anniversary, he tried to mollify his wife by giving her a diamond necklace.
+
+
+
+* [[https://wordsinasentence.com/monolithic-in-a-sentence/][Monolithic]]
+
+  =large in size and challenging to alter=
+
+  -  Unfortunately there was no way to make the monolithic project smaller.
+  - It will take over a year to complete the monolithic task of rebuilding the museum.
+  - Since the changes are not monolithic, it should only take Sarah a day or two to remodel the kitchen.
+  - It will take the decoders weeks to decipher the monolithic amount of code.
+  - Because the cult leader’s brainwashing was so monolithic, it took months for the man to break free of the programming.
+  - The miners were exhausted after smashing through the monolithic cave wall.
+  - If the monolithic pillars collapse, the entire building will fall.
+
+
+* [[https://wordsinasentence.com/monotony-in-a-sentence/][Monotony]]
+
+  =repetition or lack of change that makes something boring=
+
+  - Adding seasoning to the bland stew helped break up the monotony of the dish.
+  - Our boring schedule led to monotony, with each day being exactly like the one before.
+  - After several hours of playing the same game, monotony set in and I looked for something else to do.
+  - After five years in a lackluster marriage, the dreary couple went on a fun trip to break up the monotony.
+
+
+
+* [[https://wordsinasentence.com/monumental-in-a-sentence/][Monumental]]
+
+  =important; significant=
+
+  - A monumental and historic decision was made by the Supreme Court regarding marriage rights.
+  - The company has enjoyed monumental success this year, reaching record breaking heights.
+  - Monumental change in the administration led to financial scale backs of major proportions.
+  - Although it was a monumental upset for the team, the coach encouraged the team to view the significant setback as a lesson.
+
+
+
+* [[https://wordsinasentence.com/moralistic-in-a-sentence/][Moralistic]]
+
+  =quick to judge others based on a narrow view of what is right and wrong=
+
+  - The moralistic pastor called out members of his congregation for what he saw as sinful behaviors.
+  - Being extremely moralistic, my judging neighbor always had something to say about my late night co-ed parties.
+  - The delusional man was unapologetically moralistic and felt it was his God given right to call others out on their wicked ways.
+  - The conversation took a moralistic turn as my mother began to scold me for living a lifestyle she felt to be immoral.
+
+
+
+* [[https://wordsinasentence.com/moratorium-in-a-sentence/][Moratorium]]
+
+  =the pausing of an ongoing activity=
+
+  - An avid fisherman, Billy was upset when he learned of the fishing moratorium.
+  - A large number of politicians and voters would like to see a moratorium placed on home foreclosures.
+  - Before the moratorium was passed, people were being executed practically every week in Texas.
+  - Potential business owners are angry because the county has passed a moratorium on new business licenses.
+  - When the commercial developers learned of a possible building moratorium, they immediately begin to petition the city council.
+  - The fishing moratorium will end as soon as the government has completed its radiation testing on the lake.
+  - Because of the deadly virus, many people are calling for a moratorium on flights from West Africa.
+
+
+
+* [[https://wordsinasentence.com/morbid-in-a-sentence/][Morbid]]
+
+  =associated with subjects that are unpleasant, like death=
+
+  - The boy’s morbid fascination with death led him to collect dead animals.
+  - Because Ellen has a morbid sense of humor, she often makes jokes about people dying.
+  - Tom’s morbid curiosity with death drove him to work in the coroner’s office.
+  - Although Hank didn’t know the deceased, he attended the funeral to explore his morbid interest in grieving families.
+
+
+
+* [[https://wordsinasentence.com/mordant-in-a-sentence/][Mordant]]
+
+  =having a scathing wit=
+
+  - The mordant mother often used harsh words that made her son cry.
+  - When the mordant president entered the boardroom, all of his vice-presidents readied for his sarcastic attacks.
+  - The mordant news anchor lost his job after he made racist jokes on television.
+  - Before I face my mordant mother-in-law at dinner, I must brace myself for her abrasive comments about my cooking.
+
+
+
+* [[https://wordsinasentence.com/morose-in-a-sentence/][Morose]]
+
+  =feeling sad, in a bad mood, and not wanting to talk to anyone=
+
+  - When her dog died, the little girl was morose for months.
+  - The funny movie was exactly what I needed to improve my morose mood.
+  - After their team lost the basketball game, the disappointed fans looked morose.
+  - Not surprisingly, his funeral was a morose event which left all the guests in tears.
+  - While Edgar was not a morose individual, he pretended to be so that people would keep their distance.
+  - My brother’s morose outlook on life did not even change when he won the million dollar sweepstakes.
+  - In the movie, the leading character is a morose man who will do anything to avenge his wife’s death.
+
+
+
+* [[https://wordsinasentence.com/mortify-in-a-sentence/][Mortify]]
+
+  =to put someone in the position of being embarrassed=
+
+  - If my mother picks me up from school in her pajamas, she will mortify me in front of my friends.
+  - I am certain my sister meant to mortify me when she showed my date my baby pictures!
+  - Because Janice was angry with her parents, she got drunk and tried to mortify them by dancing on the cake table at their Christmas party.
+  - I was shocked when my husband tried to mortify me by bringing his mistress to my birthday party.
+  - If Jared was trying to mortify his parents by yelling during the opera, he succeeded.
+  - How could Alan mortify Carol by asking her for a divorce at their tenth anniversary party?
+  - The class bully began to mortify the shy girl by making fun of her old clothes.
+
+
+
+* [[https://wordsinasentence.com/motif-in-a-sentence/][Motif]]
+
+  =a reappearing theme in a creative person’s work or style=
+
+  - Death is the depressing motif that appears in each of the artist’s paintings.
+  - When I decorate my house, I will beautify it with white, sandy, and blue colors to create a beach motif.
+  - Unrequited love is a frequent motif in the playwright’s works.
+  - As I walked through my aunt’s residence, my nose started to itch because of the intensity of the flower motif that covered her home.
+
+
+
+* [[https://wordsinasentence.com/motley-in-a-sentence/][Motley]]
+
+  =made up of strikingly different components=
+
+  - The motley group of job applicants included a retired teacher, a recently released convict, and a sixteen-year-old girl.
+  - When the ship’s captain looked for a crew, he found a motley gang of people with no sailing experience.
+  - What was supposed to be soup was actually a motley concoction made of every item my wife had found in the cupboard.
+  - Since the litter was a motley group, none of the puppies resembled each other.
+  - The old computer lab contains a motley collection of ancient processors from a variety of personal computer manufacturers.
+  - In the small country town, a motley troop of citizens made up the volunteer fire department.
+  - Brad’s motley assortment of miniature vehicles covered a large portion of his bedroom floor.
+
+
+
+* [[https://wordsinasentence.com/movement-in-a-sentence/][Movement]]
+
+  =the process of changing places or positions=
+
+  - Sudden movement in the back of the house sent the dogs barking and startled their sleeping owner.
+  - The ballerina’s graceful movement across the stage wowed both the audience and the other dancers.
+  - With movement of traffic coming to a complete stop, the hurried driver wished that he had taken a faster route to work.
+  - Movement of all of the storage boxes took forever since only two workers and one dolly were on hand.
+
+
+
+* [[https://wordsinasentence.com/muddle-in-a-sentence/][Muddle]]
+
+  =to mess up or make confusing=
+
+  - As the hostile driver continued to muddle the sobriety test, the police officer reached for his handcuffs.
+  - Not eating properly can muddle a person’s thought processes.
+  - Because Jane has no computer skills, she has managed to muddle our accounting records.
+  - My talkative spouse can muddle the simplest explanation and make it seem extremely complicated.
+
+
+
+* [[https://wordsinasentence.com/mundane-in-a-sentence/][Mundane]]
+
+  =Boring, dull, and uninteresting=
+
+  - The restaurant should spice up their menu and replace the dull and mundane dishes.
+  - From the exciting to the mundane, I will share all of my experiences with you.
+  - Though his friends were having a fun time at the bar, Kevin settled for a mundane evening at home.
+  - Going about his everyday routine, the man’s mundane schedule had him bored to tears.
+  - I wish we had a dishwasher to handle the mundane task of washing dishes every night.
+  - The science experiment would be more interesting if the materials weren’t so mundane.
+  - Most of the movies showing are mundane and would put viewers to sleep rather than make them last.
+
+
+
+* [[https://wordsinasentence.com/munificent-in-a-sentence/][Munificent]]
+
+  =very generous=
+
+  - The wealthy actor always gives the members of his staff munificent appreciation gifts.
+  - If you were lucky enough to buy that particular technology stock early on, then soon you will be receiving some munificent rewards.
+  - The munificent woman is a well-known philanthropist who funds many university scholarships.
+  - Even though Mr. Matthews has millions of dollars, he is not munificent and hates to give away any of his money.
+  - The munificent man gave all of his inheritance to charity.
+  - When I turned in the stolen property, I was thrilled to receive a munificent reward from the property owner.
+  - All of the employees were pleased with their munificent bonuses.
+
+
+
+* [[https://wordsinasentence.com/machination-in-a-sentence/][Machination]]
+
+  =a scheme that is usually created for bad reasons=
+
+  - After being caught running a machination against his political rival, the ruthless candidate lost the election.
+  - The con artist’s victims quickly fell for his easy money machination.
+  - Fortunately law enforcement stepped in before the crazed man could put his machination into action.
+  - Reading about the criminals’ machination to rob the casino was enthralling.
+  - In order to rob the heavily guarded mansion, the burglars knew they needed to devise a clever machination.
+  - No one realized the terrorist’s machination would cause thousands of deaths.
+  - Since Will had not studied for the test, he devised a machination by which he could get a copy of the exam before class.
+
+
+
+
+* [[https://wordsinasentence.com/magniloquent-in-a-sentence/][Magniloquent]]
+
+  =using high-sounding, boastful language=
+
+  - He spoke in a magniloquent manner, drawing attention to himself.
+  - When he relayed the story, he used a magniloquent voice to express the characters.
+  - My professor used his magniloquent gestures to keep the class engaged.
+  - The conductor’s wild motions made him seem very magniloquent.
+
+
+
+* [[https://wordsinasentence.com/malaise-in-a-sentence/][Malaise]]
+
+  =a feeling of general bodily discomfort, fatigue or unpleasantness=
+
+  - Jason knew he was getting ill because of the malaise he had been experiencing for a few days.
+  - Since Barbara felt the malaise was interfering with her daily life, she scheduled a doctor’s appointment.
+  - Many citizens who live near the contaminated lake are complaining of a malaise that keeps them bedridden.
+  - Even after the physician performed an examination, he was still unable to determine the factor causing his patient’s malaise.
+  - When our boss announced upcoming salary cuts, many people in our office complained of malaise and job dissatisfaction.
+  - Weeks before his heart attack, Jim kept mentioning how he was experiencing malaise and not feeling like his normal self.
+  - On Valentine’s Day, many single women complain of malaise and loneliness.
+
+
+
+* [[https://wordsinasentence.com/malediction-in-a-sentence/][Malediction]]
+
+  =an evil speech or curse upon someone or something=
+
+  - The witch’s malediction made the young princess fall into a deep sleep.
+  - Before the warlock was imprisoned, he placed a malediction upon his captor’s families.
+  - Sometimes my luck is so bad I believe someone has placed a malediction upon me.
+  - As long as the king is under the wizard’s malediction, he will not recall his own identity.
+  - The woman tried to kill her cheating husband by chanting a malediction.
+  - According to the malediction, darkness will reign in the kingdom for the next fifty years.
+  - Since all the women in my family suffer from depression, it appears we share a malediction.
+
+
+
+* [[https://wordsinasentence.com/malefactor-in-a-sentence/][Malefactor]]
+
+  =one who does evil=
+
+  - For several years, the detective pursued the malefactor who had brutally killed the two children.
+  - Hopefully, the hero will fatally injure the malefactor during the gunfight.
+  - The dictator was a merciless malefactor who tortured his subjects for fun.
+  - When the police questioned the malefactor about his evil deeds, they were shocked when he laughed in their faces.
+  - As the police officers led the malefactor into the courthouse, they tried to block out the sounds of the angry protestors.
+  - To get a higher divorcement settlement, Jill described her husband as a cruel malefactor who abused her on a daily basis.
+  - The malefactor tried to reform his image by performing good deeds.
+
+
+
+* [[https://wordsinasentence.com/maleficent-in-a-sentence/][Maleficent]]
+
+  =harmful or evil in intent or effect=
+
+  - The preacher said that Satan is a maleficent force that urges men to sin.
+  - I consider our President to be a maleficent type who derives happiness from harming his political opponents.
+  - Curtis warned me not to date Laura because she has a maleficent side to her in how she enjoys harming others.
+  - Bob has a maleficent look in his eyes that radiates so much evil that I fear meeting him.
+
+
+
+* [[https://wordsinasentence.com/malfeasance-in-a-sentence/][Malfeasance]]
+
+  =the performance of an illegal deed, generally by someone in the public trust=
+
+  - When the election results are tallied, surely the people will have voted out the mayor who is currently being investigated for malfeasance.
+  - A handful of police officers were arrested today for malfeasance during drug busts.
+  - Because of the company president’s malfeasance, he has been removed from his office.
+  - Once the government investigates the drug’s manufacturer’s malfeasance, many people may be charged for the woman’s drug-induced death.
+  - The school principal covered his face with his hands and did not respond to the media’s questions about his malfeasance.
+  - If the legislator is arrested for the crime, his peers will quickly vote to remove him for malfeasance and for dishonoring his office.
+  - I was shocked when my stockbroker was indicted for financial malfeasance.
+
+
+
+* [[https://wordsinasentence.com/mandate-in-a-sentence/][Mandate]]
+
+  =permission to do something=
+
+  - The marshal was given a mandate to use all resources to bring in the escaped prisoner.
+  - During the hurricane, several rescue groups received a mandate to help evacuate the city.
+  - Does the mandate allow police officers to carry their weapons aboard commercial airplanes?
+  - When my husband and I are away from home, my teenage daughter has the mandate to supervise the rest of the family.
+  - Under the safety mandate, the school principal has the authority to search student lockers for drugs and weapons.
+  - As soon as Brent signed the contract, he was given the mandate to join his team on the field.
+  - The mandate does not allow police officers to enter your home without a warrant.
+
+
+
+* [[https://wordsinasentence.com/mangle-in-a-sentence/][Mangle]]
+
+  =to make unrecognizable through violent acts of cutting, slashing, or crushing=
+
+  - The lion's razor-sharp claws mangle the terrified gazelle as he feeds.
+  - After her boyfriend broke up with her, the angry girl used a  pair of scissors to mangle and destroy every stuffed animal  he’d ever given her.
+  - Sharks mangle their prey so thoroughly that they’re hardly  recognizable through the bloody tears and gargantuan bite  marks.
+  - Head-on collisions often mangle the cars so badly that they  resemble crushed soda cans.
+
+
+
+* [[https://wordsinasentence.com/manifesto-in-a-sentence/][Manifesto]]
+
+  =a public statement reflecting the philosophy of a person or group=
+
+  - In his manifesto, the presidential candidate described himself as the only person who could make the country great again.
+  - The charity’s manifesto explains the organization’s mission.
+  - After writing a manifesto about equal rights, the civil rights leader was assassinated.
+  - The dictator wrote a manifesto defending his country’s isolation from the rest of the world.
+
+
+
+* [[https://wordsinasentence.com/mar-in-a-sentence/][Mar]]
+
+  =to ruin or spoil=
+
+  - You will mar the cake if you keep putting your fingers in the icing.
+  - If Bill is not careful, he will mar his project on the way to school.
+  - The author’s last book is so poorly written it will probably mar his legacy.
+  - Because the musical selections are not engaging, they mar the film’s appeal.
+
+
+
+* [[https://wordsinasentence.com/marauding-in-a-sentence/][Marauding]]
+
+  =moving from one location to another in order to commit crimes against society=
+
+  - The marauding thieves never stay more than a few nights in a city.
+  - Because the marauding scam artists move around a great deal, it is difficult for the police to track them.
+  - The marauding check forgers went from nursing home to nursing home preying on senior citizens.
+  - As the marauding soldiers moved about the country, they looted one village after another.
+
+
+* [[https://wordsinasentence.com/martyr-in-a-sentence/][Martyr]]
+
+  =one who surrenders something of tremendous value for a cause=
+
+  - The gay man became a martyr when he lost his job after refusing to hide his sexual preference.
+  - Since the quarterback did not want his entire team to suffer for the loss, he acted as a martyr and accepted full blame for the defeat.
+  - Joan became a martyr after she lost her life in the fight again religious persecution.
+  - When Bill was murdered after standing up to corrupt police officers, the people in his town viewed him as a martyr.
+  - The soldier became a martyr when he threw himself on the live grenade to save his squad.
+  - According to the Christian religion, Jesus is a martyr who gave his life so everyone could go to heaven.
+  - The woman was viewed as a martyr after being arrested for refusing to deny her religion.
+
+
+
+* [[https://wordsinasentence.com/marvel-in-a-sentence/][Marvel]]
+
+  =something or someone that triggers amazement=
+
+  - Many scientists view the three-year-old boy with the extremely high IQ as a marvel.
+  - When the tallest building in the world was constructed, it was referred to as an architectural marvel.
+  - My teacher praised my project and called it a marvel of creativity.
+  - Because Ellen’s sculpture was a marvel to look upon, it easily won first place in the art contest.
+
+
+
+
+* [[https://wordsinasentence.com/mast-in-a-sentence/][Mast]]
+
+  =a tall post attached to a ship that holds sails=
+
+  - The mast had a sail attached and was used to guide the boat.
+  - Flapping in the wind, the sails on the mast helped direct the boat to its destination.
+  - One of the crew member’s was tied to the ships mast and he remained on the pole until it docked.
+  - Sails were raised on the mast, inching up and up the pole until they reached the boat’s peak.
+
+
+
+* [[https://wordsinasentence.com/masticate-in-a-sentence/][Masticate]]
+
+  =to chomp with teeth; chew=
+
+  - My mother told me to never talk while I masticate my food.
+  - Because Daniel did not masticate his food well, he almost choked on a piece of chicken.
+  - It was gross watching the old man masticate his tobacco and then spit it out on the sidewalk.
+  - If we do not find my grandmother’s artificial teeth, she will not be able to masticate her sandwich.
+
+
+
+* [[https://wordsinasentence.com/materialize-in-a-sentence/][Materialize]]
+
+  =to become real or visible=
+
+  - If you want to make your dreams materialize, you must take steps to make them real.
+  - Rub the lamp, and the genie will materialize.
+  - Because Ken can’t raise enough funds, his vision of owning a restaurant may never materialize.
+  - A donation to the scholarship fund will help a person’s college dream materialize.
+
+
+
+* [[https://wordsinasentence.com/matriculate-in-a-sentence/][Matriculate]]
+
+  =to become a student at a school, especially a college or university=
+
+  - After high school, I will matriculate at a local community college.
+  - Only the best and the brightest can matriculate at Ivy League universities.
+  - Rather than matriculate right after graduation and incur debt, James would prefer to enlist in the military for two years so he can save money for school.
+  - Everyone who chooses to matriculate at Smith-Jones University will receive a free laptop computer.
+  - Anyone who can pay the tuition fees is allowed to matriculate at an online school that has not been endorsed by an academic board.
+  - Although Sarah did matriculate at Harvard for one year, she did not graduate from the famed university.
+  - Jason has received a full scholarship offer to matriculate at one of the top colleges in the country.
+
+
+
+* [[https://wordsinasentence.com/matte-in-a-sentence/][Matte]]
+
+  =describing a color that is dull and has no shine=
+
+  - This brown color is extremely matte, dull and lifeless but supposedly a good color for this piece of furniture, according to my mother.
+  - Some women prefer to wear matte makeup that is duller and a lot less glossy, though it’s really just a personal preference.
+  - My father is a rather sullen individual, so when he got to choose the color of our living room walls he chose a matte beige instead of a shinier color.
+  - Matte colors are rarely used for cars, because most people prefer to have shiny and reflective colors on their vehicle instead of dull ones.
+
+
+
+* [[https://wordsinasentence.com/maul-in-a-sentence/][Maul]]
+
+  =to wound someone by scratching or tearing them, often used in reference to animals=
+
+  - I would never go near a bear even in captivity, for fear that it would maul me with its huge teeth and claws.
+  - There is a chance that any animals with claws and teeth could maul you, but scratches and cuts are the least of your worries with a carnivore.
+  - The lion chose to maul the man we received at the hospital today, inflicting all sorts of gashes and cuts on him that we had to stitch up.
+  - Even though we usually use the word maul in reference to animals, a human could maul another person with a knife or a dagger.
+
+
+
+* [[https://wordsinasentence.com/mawkish-in-a-sentence/][Mawkish]]
+
+  =being overly sentimental to the point it comes across as fake or silly=
+
+  - The star’s mawkish poem at her mentor’s funeral was so insincere that most of the guests rolled their eyes.
+  - Since I knew how much my mother loved my father, I knew she was not being mawkish when she sang his favorite song during his wake.
+  - My unromantic husband would never do anything as mawkish as writing me a poem.
+  - To the experienced detective, the victim’s wife appeared mawkish as though she was putting on an act.
+  - I told Carl his mawkish plan to win Trisha back was so excessive she would probably laugh in his face.
+  - When April realized her husband was planning a divorce, she put together a mawkish photo album to remind him of happier days.
+  - Although Larry hated to come across as mawkish, he never hesitated to share pictures of his family with his friends.
+
+
+
+* [[https://wordsinasentence.com/meander-in-a-sentence/][Meander]]
+
+  =to move slowly without any real purpose=
+
+  - The confused old man will sometimes come into the store and meander for hours without making a purchase.
+  - During my vacation, I have no plans other than to meander through the mountains for days.
+  - Jason let his mind meander and by the time the workday was over, he had made very little progress on his accounts.
+  - Unless I nag my daughter about completing her chores, she will meander and never get anything done.
+  - Some Alzheimer’s patients are known to meander aimlessly about the hospital.
+  - On my lunch break, I often meander through the park while eating a sandwich.
+  - Without a grocery list, my grandmother will meander up and down the store aisles for hours.
+
+
+
+* [[https://wordsinasentence.com/measly-in-a-sentence/][Measly]]
+
+  =an extremely, almost laughably small amount=
+
+  - Briana hoped her mother would pay her well for babysitting her brothers but she only got a measly $5.
+  - Miranda was beyond excited when she won the Halloween costume contest but extremely disappointed by her measly prize of a free ice cream cone.
+  - The soccer team was starving because all they had to eat was a measly slice of pizza each.
+  - After paying several hundred dollars for dinner at a famous French restaurant, the businessman was disappointed when he received a measly piece of chicken and mashed potatoes.
+
+
+
+* [[https://wordsinasentence.com/meek-in-a-sentence/][Meek]]
+
+  =restrained; unwilling to speak up=
+
+  - Although the meek girl knew the answer to the teacher’s question, she was too nervous to raise her hand.
+  - The trainer suggested tips to help me transform my aggressive dog into a meek pooch.
+  - Because the doctor believed the patient was out of control, he gave him an injection to make him meek.
+  - Tim has never gotten a promotion at work because he is too meek to express his opinions.
+
+
+
+* [[https://wordsinasentence.com/meld-in-a-sentence/][Meld]]
+
+  =to blend or merge things together=
+
+  - Singing in harmony, the musicians were able to meld their voices.
+  - The team members had to find a way to meld their ideas into one solid concept.
+  - The author tried to meld both characters into one strong antagonist.
+  - As a producer, his ability to meld sounds together was unmatched.
+
+
+
+* [[https://wordsinasentence.com/mellifluous-in-a-sentence/][Mellifluous]]
+
+  =having a smooth, flowing sound=
+
+  - The actor has a mellifluous voice that could lull anyone into a deep sleep.
+  - When the snakes heard the mellifluous sounds coming from the flute, they began to crawl back into the basket.
+  - The singer with the mellifluous voice will win the talent contest.
+  - At night the stream outside our cabin makes a mellifluous sound that is very peaceful to our ears.
+  - After the judge gave Marie a standing ovation, he described her voice as mellifluous and enchanting.
+  - While Curtis enjoys the mellifluous tone of rap music, John considers that type of music to be nothing more than unpleasant noise.
+  - The mellifluous music never fails to put my newborn baby to sleep.
+
+
+
+* [[https://wordsinasentence.com/menace-in-a-sentence/][Menace]]
+
+  =an individual or situation that causes problems=
+
+  - My neighbor’s dog is a menace who seems to enjoy going potty on my porch.
+  - In the summer, ants can be a real menace in the kitchen.
+  - Identify theft is a huge menace to society.
+  - Once the baby learned to walk, he became a menace who pulled down every item he could reach.
+
+
+
+* [[https://wordsinasentence.com/mendacious-in-a-sentence/][Mendacious]]
+
+  =lying; not telling the truth=
+
+  - Chuck is mendacious about his vegetarianism because he eats chicken.
+  - Instead of giving me another mendacious story, just be honest for once.
+  - Mendacious people hide the truth.
+  - My wife is mendacious for dating another man behind my back.
+  - Please give me a promise that you can keep—not a mendacious promise.
+  - How mendacious of Joan to habitually call in sick from work when she's feeling fine!
+  - A product claiming to help you get ripped abs in a few hours is mendacious advertising.
+
+
+
+* [[https://wordsinasentence.com/mendacity-in-a-sentence/][Mendacity]]
+
+  =lack of honesty=
+
+  - Since honesty is very important to me, I was deeply offended by my ex-husband’s mendacity.
+  - You can always tell a con man by his mendacity and desire to trick you out of your money.
+  - Because Melinda was known for her mendacity, she was the first suspect the police interviewed.
+  - Jim cannot find employment at a bank because of his mendacity.
+  - As a politician, Alan tries very hard to hide his mendacity from the voters.
+  - Edward’s mendacity makes him a big winner at the poker tables.
+  - When the lawyer accused the priest of mendacity, he shocked everyone in the courtroom.
+
+
+
+* [[https://wordsinasentence.com/mendicant-in-a-sentence/][Mendicant]]
+
+  =an individual who begs for a living=
+
+  - The mendicant hoped pedestrians would drop money in his bucket.
+  - Rather than search for a job, Jimmy chooses to live as a mendicant who panhandles his way through each day.
+  - The alcoholic mendicant begged for money to buy booze.
+  - As part of my psychology thesis, I dressed like a mendicant to see how people would treat me when I looked like a beggar.
+
+
+
+* [[https://wordsinasentence.com/mesmerized-in-a-sentence/][Mesmerized]]
+
+  =captivated by something or someone=
+
+  - Because Jennifer was mesmerized by the author’s writing style, she purchased all of his books.
+  - The bright lights of the city mesmerized the girl from the small town.
+  - With its exciting plot and lovable characters, the film mesmerized children of all ages.
+  - The media sought to keep the country mesmerized by reporting on the hottest topics of the day.
+  - When the orchestra started playing, I was immediately mesmerized by the lovely tune.
+  - Jim knew it was time to get married when he found a woman who completely mesmerized him.
+  - During the show, the talented dancer mesmerized Ginger with his fancy footwork.
+
+
+
+* [[https://wordsinasentence.com/mete-in-a-sentence/][Mete]]
+
+  =to give out or distribute=
+
+  - After being caught stealing, the boy waited for his father to mete out his punishment.
+  - The judge will mete out very harsh sentences when he’s in an unpleasant mood.
+  - Since more guests arrived than we expected, we had to mete out small portions of food.
+  - The budget cuts decreased the amount each school had to mete out for supplies.
+
+
+
+* [[https://wordsinasentence.com/mettle-in-a-sentence/][Mettle]]
+
+  =strength of spirit; the ability to continue despite difficulties=
+
+  - Of all the young men in the village, Caldor was the only one with enough mettle to face the dragon in its lair.
+  - To prove his mettle and show that he was daring enough to join the club, Timmy had to spend an hour alone in the haunted house on the hill.
+  - Even though all members of the navy have high levels of fortitude and courage, candidates for Navy Seal training must exhibit far more mettle than average.
+  - Because Aaron has carried the team for most of the season, his injury will test the mettle of his teammates to see if they can win any games without him.
+  - Maxwell joined several boards of directors in order to prove his mettle as a community leader.
+  - You should be congratulated for showing your mettle and coming through such a difficult situation with your head high.
+  - When the prototype of the new spaceship was finished, the team tested its mettle by simulating a trip to Mars.
+
+
+
+* [[https://wordsinasentence.com/mien-in-a-sentence/][Mien]]
+
+  =manner or conduct especially indicating one's mood or character=
+
+  - When I saw his downcast face and gloomy mien, I knew he hadn’t gotten the promotion.
+  - Although Mary Jane usually exhibits a mild-mannered mien, she can get pretty fierce when there’s a sale at her favorite store.
+  - Reginald has a naturally dignified mien that makes him the perfect actor to play the role of the butler in this movie.
+  - The toddler had such a joyful mien that he brought smiles to the faces of everyone he came in contact with.
+  - After the inspiring Easter sunrise service, all the parishioners walked out of the church with a more reverent mien.
+  - When the doorbell rang at midnight, Brian’s mien was guarded as he peered through the peephole in the front door.
+  - Andrew displays a brash mien that tends to offend people who don’t know what a nice guy he really is.
+
+
+
+* [[https://wordsinasentence.com/miffed-in-a-sentence/][Miffed]]
+
+  =to be irritated and upset=
+
+  - When the paperboy continued to throw the newspaper into the puddle of water, the owner was miffed at the thoughtless boy.
+  - As the inconsiderate teenage boy continued to smack his gum with his mouth wide open, the ladies sitting next to him were miffed with the distracting noise.
+  - Sarah was miffed by her boyfriend’s lie about being gravely sick as soon as she found him at the movie theater with his friends.
+  - The children were always miffed when they would be forced by their parents to play with bossy Janice.
+
+
+
+* [[https://wordsinasentence.com/militia-in-a-sentence/][Militia]]
+
+  =a military force of trained and organized civilians who may be called to duty=
+
+  - The militia was assigned to assist the police until the National Guard troops arrived.
+  - To rid their country of a dictator, a group of rebels organized a militia to overthrow the tyrant.
+  - The governor has called upon the militia to assist families relocating during the hurricane evacuation.
+  - In the small town, the militia is often called in to help search for escaped prisoners.
+
+
+
+* [[https://wordsinasentence.com/mingle-in-a-sentence/][Mingle]]
+
+  =To mix or combine (people or objects)=
+
+  - The spies decided to mingle in with the crowd and see if they could find the killer.
+  - Mixing the stir-fry, the chef decided to mix in some chicken with the vegetables.
+  - Royals never mingle with the common folk but prefer to stick to their class.
+  - John was able to mingle with the other students and ended up feeling right at home at college.
+
+
+
+* [[https://wordsinasentence.com/mirth-in-a-sentence/][Mirth]]
+
+  =amusement and joy=
+
+  - It was obvious from Jacob’s mirth he found the movie to be quite funny.
+  - When my stern father gives out consequences for bad behavior, he never displays any mirth.
+  - The teacher tried to hide her mirth when she learned her worst student had been suspended for seven days.
+  - With a twinkle of mirth in his eyes, Santa Claus winked at the small child before going back up the chimney.
+
+
+
+
+* [[https://wordsinasentence.com/miscreant-in-a-sentence/][Miscreant]]
+
+  =an individual who has misbehaved=
+
+  - The principal took the miscreant out of my classroom and placed him in the in-school suspension room.
+  - Sometimes when Jim acts like a miscreant, his wife kicks him out of the house.
+  - For the computer savvy miscreant, it is a great age in which to be a hacker.
+  - How long is it going to take the police to capture the miscreant who keeps knocking down mailboxes in our neighborhood?
+  - Everyone is shocked a proper lady like April is dating a miscreant like James.
+  - Because James is a miscreant with a felony record for murder, he cannot become a police officer.
+  - The church installed cameras outside in hopes of catching the miscreant who was vandalizing the building.
+
+
+
+* [[https://wordsinasentence.com/misgiving-in-a-sentence/][Misgiving]]
+
+  =a feeling of doubt=
+
+  - When I learned my daughter’s boyfriend had just been released from prison, my misgiving about him became stronger.
+  - James overlooked his misgiving about the new job because he really needed to pay his rent.
+  - Despite the actor’s misgiving about the film, he accepted the role and won an Academy Award for his efforts.
+  - Helen had a terrible misgiving she might have rushed into her relationship with Mark too soon.
+
+
+
+* [[https://wordsinasentence.com/mistrial-in-a-sentence/][Mistrial]]
+
+  =a trial that ends through an error in the proceedings=
+
+  - Bill Cosby’s rape hearing ended in a mistrial since the jurors were deadlocked and couldn’t come to a decision.
+  - The judge declared a mistrial, ruling that the entire proceeding invalid after a juror admitted to knowing the defendant.
+  - Even though they knew that they could try the killer again, the mistrial was a disappointment to the district attorney and his staff.
+  - A mistrial was ruled when the judge felt that a problem with a witness would make it impossible for a fair decision to be reached.
+
+* [[https://wordsinasentence.com/moan-in-a-sentence/][Moan]]
+
+  =A long low sound used to express physical or mental suffering=
+
+  - Letting out a painful moan, the trapped motorist hoped someone would hear his cry.
+  - Laying all alone in his den, the lonely lion let out a deep moan.
+  - The injured player continued to moan as he gripped his hurt leg.
+  - Following the sound of the groaning animal, the vet was able to find the source of the moan and help the dog get well.
+
+
+
+* [[https://wordsinasentence.com/moat-in-a-sentence/][Moat]]
+
+  =a thin stream of water that completely surrounds right outside a large house or fortress=
+
+  - Since the dragon could not swim, he dared not cross the moat to any window or door of the castle.
+  - As the drawbridge was lowered over the moat, the soldiers and officers could safely and dryly enter the garrison from only this location.
+  - To exit the tower from the evil witch, the four children realized that they needed to swim across the moat at any point from the castle or remain at the tower.
+  - Hearing the rushing water and the hungry alligators in the moat around the castle, the stranger realized that this place was impossible to escape.
+
+
+
+* [[https://wordsinasentence.com/modicum-in-a-sentence/][Modicum]]
+
+  =a small portion=
+
+  - When Jane wore the short dress to the funeral, she proved she did not have a modicum of decency.
+  - Because the man was not sober, he did not have even a modicum of control over his car.
+  - If you want to be taken serious by the acting community, you must have more than a modicum of training.
+  - All I need is a modicum of money to pay for my basic needs.
+  - Fortunately, the baby only has to take a modicum of this unpleasant medicine every four hours.
+  - Jamie’s project was boring and did not display a modicum of creativity.
+  - If everyone would donate even a modicum of their yearly salaries, we could easily build a new city park.
+
+
+
+* [[https://wordsinasentence.com/mollify-in-a-sentence/][Mollify]]
+
+  =to soothe in temper or disposition=
+
+  - I am hoping the hot tea and crackers will mollify my husband and help him relax.
+  - If John Smith wants to win the election, he will have to mollify the voters he angered during last week’s debate.
+  - Perhaps a warm glass of milk will mollify my upset stomach.
+  - When the baby started to cry, his mother tried to mollify him with a bottle of milk.
+  - Whenever I do something wrong, I make an apology to mollify the person I offended.
+  - After breaking my favorite plate, my little boy tried to mollify me with a kiss on my cheek.
+  - When Jake forgot his wedding anniversary, he tried to mollify his wife by giving her a diamond necklace.
+
+
+
+* [[https://wordsinasentence.com/mollycoddle-in-a-sentence/][Mollycoddle]]
+
+  =to handle someone or something in a shielding or indulging way=
+
+  - Since the elderly woman only lived with her poodle, she would mollycoddle the dog by providing him with expensive dog treats and a bed fit for a king.
+  - The older sister would always mollycoddle her younger brother by never letting him out of her sight.
+  - I wanted to throw up when I saw a woman mollycoddle her boyfriend with baby talk and caress his cheek.
+  - By spoiling his wife with weekly massages and daily breakfast in bed, the man would mollycoddle his wife to make her happy.
+
+
+
+* [[https://wordsinasentence.com/monograph-in-a-sentence/][Monograph]]
+
+  =a specialist work of writing on a single subject=
+
+  - The acclaimed psychologist wrote his most famous monograph on the art of manipulation.
+  - Although the monograph was not a best-seller, it was a top read for those in the field of physics.
+  - The author’s monograph was a companion to his previous works on archeological studies.
+  - In some cases a student’s monograph can work as a thesis the writer’s research is not too narrow.
+
+
+
+
+* [[https://wordsinasentence.com/monsoon-in-a-sentence/][Monsoon]]
+
+  =a strong wind in the southern portion of Asia and the Indian Ocean that carries a large amount of rain during the summer months=
+
+  - The monsoon has flooded the small town and kept people indoors for most of the summer.
+  - Because the heavy rains of the monsoon have damaged many roads, a lot of people are stranded.
+  - The floods resulting from the monsoon have killed over two hundred people in southern Asia.
+  - In Mumbai, India, a recent monsoon brought weather conditions that drowned entire communities.
+
+
+
+* [[https://wordsinasentence.com/mope-in-a-sentence/][Mope]]
+
+  =to carry oneself in a depressed, spiritless manner=
+
+  - With her lip poked out, the young girl continued to mope around the house.
+  - The sullen man was surprised that his wife hadn’t noticed him mope.
+  - His gloomy attitude and tendency to mope caused the man to lose many friends.
+  - The teen began to sulk and mope after being told she could not go to the frat party.
+
+
+
+* [[https://wordsinasentence.com/mores-in-a-sentence/][Mores]]
+
+  =customs and traditions of community=
+
+  - Social mores of the area insisted that men and women who are courting not spend time alone before marriage.
+  - Discussions with religious leaders offered insight into the mores and ancient traditions of the faith.
+  - The tribes changing mores were affected by a new generation who believed many of the traditional customs to be barbaric.
+  - Differing from the mores of its’ neighbor Nigeria, French influenced Cameroon had contrasting values.
+
+
+
+* [[https://wordsinasentence.com/morsel-in-a-sentence/][Morsel]]
+
+  =a small piece of food=
+
+  - Devouring the last morsel of cake, the woman realized that sticking to her diet would be harder than she had anticipated.
+  - Because he had not eaten lunch, the man ate every morsel of his dinner.
+  - Letting no morsel touch the ground, the girl consumed her cupcake in less than a minute.
+  - Stuffed beyond belief, the taste tester could not eat one more morsel.
+
+
+
+* [[https://wordsinasentence.com/mortification-in-a-sentence/][Mortification]]
+
+  =extreme embarrassment and shame=
+
+  - Although Michael never laid a hand on her physically, she had to endure emotional abuse and mortification because of the way he talked to her in front of other people.
+  - When Daisy saw that she was underdressed for the fancy party, she decided to go back home rather than face the mortification of being judged by all the Beautiful People.
+  - Dylan asked his mother to drop him off at the corner so that he could avoid the mortification of being seen getting out of a minivan.
+  - To be a member of that fraternity, pledges are expected to endure all sorts of mortification and hardship to prove they are worthy.
+  - Because Steven could see his new bride’s mortification when she dropped the casserole on the floor, he embraced her reassuringly and took her out to a nice restaurant for dinner.
+  - Once you have grown out of your teenage years, you can look back on these times of mortification and wonder why you let your peers get to you.
+  - In the classic novel The Scarlet Letter, Hester Prynn wore the badge of adultery as a statement of defiance rather than mortification.
+
+
+
+* [[https://wordsinasentence.com/mote-in-a-sentence/][Mote]]
+
+  =a tiny piece of something=
+
+  - A small mote of glass entered my foot, so tiny that I wasn’t able to pull it out without tweezers.
+  - Feeling a mote of dirt in her eye, the woman rushed to the bathroom to wash the speck out.
+  - A mote of sand in the girl’s shoe irritated her until she stopped to wipe it away.
+  - Feeling anxious about the state of her home, the obsessive housewife scrubbed away every tiny mote of dust.
+
+
+
+* [[https://wordsinasentence.com/motility-in-a-sentence/][Motility]]
+
+  =the ability to move around in fluid=
+
+  - Personal lubricants can interfere with sperm motility and hinder sperm from being able to make it to the egg.
+  - Some bacteria have flagellin, which aid in motility and help the cells move through liquid.
+  - Studies have proven that marijuana use can slow down sperm motility in otherwise healthy men.
+  - Sarcoma cells have increased motility, allowing for faster spreading of these particular types of cancer.
+
+
+
+* [[https://wordsinasentence.com/muck-in-a-sentence/][Muck]]
+
+  =muck is dirt or waste=
+
+  - Our old truck was filthy since it was covered with gravel, muck, and dirt.
+  - The farm’s animal pens were filled with muck and waste from the pigs and horses.
+  - After he played in the muddy yard, the boy’s boots were covered with muck.
+  - There was a layer of grimy clay, soil, and muck on the road that lead to the hunting camp.
+
+
+
+* [[https://wordsinasentence.com/muffle-in-a-sentence/][Muffle]]
+
+  =to deaden sound by covering or wrapping=
+
+  - Example sentences for Fiduciary. Read this page and learn how to use Fiduciary in a sentence.
+  - A silencer was placed on the gun to muffle the sound of it being shot.
+  - To muffle some of the noise, placemats will be placed on the gym floor.
+  - Although living beside a highway can be a challenge, keeping your windows closed can muffle some of the street noise.
+
+
+
+* [[https://wordsinasentence.com/mull-in-a-sentence/][Mull]]
+
+  =to think about something deeply and for a long period of time=
+
+  - As she continued to mull over the long list of potential performers, the entertainment director wondered if she should just feature someone internally.
+  - The player had all summer to mull over his decision to go to college versus heading directly into the NFL.
+  - The jury needed the weekend to mull over the evidence and make a decision on the case.
+  - Taking some time to mull over your thoughts and get your emotions in check leads to better decision making.
+
+
+
+* [[https://wordsinasentence.com/mumble-in-a-sentence/][Mumble]]
+
+  =to mutter something in a low tone so that it cannot be understood=
+
+  - My little brother will mumble his grievances under his breath but never tell me when I make him angry.
+  - The irritated worker continued to grumble and mumble about his no-good boss just out of everyone’s earshot.
+  - As he continued to mumble profanity under his breath, the enraged driver laid on the horn.
+  - Shrugging her shoulders and walking away, the confused assistant mumbled a slight protest to herself.
+
+
+
+* [[https://wordsinasentence.com/muse-in-a-sentence/][Muse]]
+
+  =something or someone that inspires=
+
+  - The model was the artist’s muse for his famous sculpture.
+  - When the composer wanted inspiration for a love song, he would stare at the muse he had been married to for over thirty years.
+  - My infant daughter was the muse who inspired me to get healthy by losing weight.
+  - According to mythology, a muse is any of the nine daughters of Zeus and Mnemosyne who inspire knowledge and creativity among men.
+
+
+
+* [[https://wordsinasentence.com/mushy-in-a-sentence/][Mushy]]
+
+  =having a soggy and squashy consistency=
+
+  - After cooking the peas for too long in a crockpot, the mushy vegetable was too soft to be delicious.
+  - Due to the extensive rain showers, the mushy ground required everyone to wear boots or their shoes would sink into the mud.
+  - Since the bananas were overripe, my teeth simply sunk into the mushy fruit without really having to chew it.
+  - After beginning to walk through the dog park, my foot stepped into a mushy pile which made me realize it was loose dog poop.
+
+
+
+* [[https://wordsinasentence.com/muster-in-a-sentence/][Muster]]
+
+  =to gather collectively=
+
+  - Before the cruise ship departs, passengers are required to muster at a specified station for a safety briefing.
+  - Tomorrow the teachers will muster for their monthly staff meeting.
+  - At the sound of the trumpet, the troops muster in standard formation.
+  - The two football teams muster in their respective huddles before each play.
+  - According to legend, witches muster on Halloween night to celebrate the dark spirits.
+  - The knights muster in the great room to hear the words of their king.
+  - When my mother wants us to spring clean, she blows a whistle to let us know it is time to muster in the kitchen.
+
+
+
+* [[https://wordsinasentence.com/mutinous-in-a-sentence/][Mutinous]]
+
+  =not following orders; rebelling against authority=
+
+  - Can you believe the bodyguard was the head of the mutinous plot to kill the king?
+  - Mutinous employees are protesting low wages by not showing up for work.
+  - During the war, the mutinous soldier attacked his commanding officer.
+  - Selling classified government documents is a mutinous action.
+
+
+
+* [[https://wordsinasentence.com/mutter-in-a-sentence/][Mutter]]
+
+  =to speak under one's breath, usually in an angry way=
+
+  - As he walked away to do his chores, his mother heard him mutter under his breath.
+  - Complaining with a mutter, the man stomped out the door as he made his remarks.
+  - He huffed and puffed with a mutter, moaning about how difficult it would be to find a new carpenter at last minute.
+  - With a grumble and a mutter, the elderly woman tightened her coat and marched off to face the harsh winter weather in search for firewood.
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
