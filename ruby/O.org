@@ -1,0 +1,1043 @@
+#+TITLE:     O
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/obdurate-in-a-sentence/][Obdurate]]
+
+  =unmoved by persuasion, pity, or tender feelings; stubborn=
+
+  - With his obdurate personality and intense dislike for people, Jonathan had all the makings of a professional killer.
+  - Sometimes, you are too obdurate for your own good!
+  - Despite the defendant’s apology, the judge was obdurate and gave him a thirty-year sentence.
+  - Because Janice was obdurate, she did not shed a single tear while hearing the tragic story.
+  - Even though his fellow teammates urged him to accept the new coach, the star basketball player remained obdurate and refused to follow the coach’s directions.
+  - The protestors were obdurate and did not move even when the police arrived.
+  - Will you stop being so obdurate and at least listen to my point of view?
+
+
+* [[https://wordsinasentence.com/obfuscate-in-a-sentence/][Obfuscate]]
+
+  =to deliberately make something confusing or difficult to understand=
+
+  - The loan contract was filled with legal words meant to obfuscate trusting borrowers.
+  - Because I am a sympathetic teacher, I avoid using language which will obfuscate my students.
+  - Surprisingly, the efforts of the translator only served to obfuscate an already confusing conversation.
+  - The last thing I want to do is obfuscate the concept by trying to explain it too rapidly.
+  - If you will obfuscate the store clerk with some crazy questions, I will steal the candy.
+  - The con man hoped to obfuscate the elderly woman by using large words to describe his investment plan.
+  - Because I am honest, I never try to obfuscate my true intentions!
+
+* [[https://wordsinasentence.com/obligate-in-a-sentence/][Obligate]]
+
+  =to be required or forced=
+
+  - All citizens of the United States must obligate to vote in every election as their civic duty.
+  - Witnesses of the crime will obligate to stand before the court and state what they saw at the scene in order for the criminal to be found guilty.
+  - After years of the same Christmas customs, my family members obligate to buy presents at least for all of the children in the family.
+  - All banks obligate people to repay their loans or take the chance of their credit being ruined.
+
+* [[https://wordsinasentence.com/obligatory-in-a-sentence/][Obligatory]]
+
+  =required by law or a set of rules=
+
+  - As part of my obligatory court sentence, I must complete sixty hours of community service.
+  - New hires must attend the obligatory orientation session.
+  - Because Ray is an awesome host, he never fails to perform the obligatory duties like greeting each guest and keeping glasses full.
+  - Every cheesy spy movie has the obligatory fight scene that lasts at least fifteen minutes.
+
+* [[https://wordsinasentence.com/oblige-in-a-sentence/][Oblige]]
+
+  =perform a good deed for someone=
+
+  - Since my neighbor cuts my grass for free, I am happy to oblige him with a ride to the store.
+  - If you would like to see certain things on your tour, please tell the guide so she can oblige your requests if time permits.
+  - Sheila was happy to oblige the soldier with bus fare home.
+  - When Jack asked for a loan, his father could not oblige him because of his recent job loss.
+
+* [[https://wordsinasentence.com/obliging-in-a-sentence/][Obliging]]
+
+  =accommodating; willing to be of assistance=
+
+  - The obliging clerk was pleased to answer my numerous questions about the store.
+  - Because my waitress appeared happy to serve me, her obliging nature earned her a huge tip.
+  - Jack was very obliging at work because he wanted to earn a promotion.
+  - Out of fear of being whipped or killed, the slaves were obliging to their masters.
+
+* [[https://wordsinasentence.com/obliterate-in-a-sentence/][Obliterate]]
+
+  =to destroy=
+
+  - The dictator’s army is going to obliterate the rebel’s small village in less than five minutes.
+  - Although I spent hours building my daughter’s dollhouse, I was shocked to watch her obliterate it simply by pulling out one of the support columns.
+  - Hank’s cheating is sure to obliterate his twenty-year marriage to Helen.
+  - If a plane lands on your home, it will obliterate your property.
+  - The property developers are going to obliterate the rainforest if they keep cutting down trees and driving out wildlife.
+  - According to scientists, the nuclear weapon has the capacity to obliterate the entire city.
+  - The general’s plan is to obliterate the enemy’s military runways so their fighter planes cannot launch an aerial attack.
+
+* [[https://wordsinasentence.com/oblivious-in-a-sentence/][Oblivious]]
+
+  =unaware of what is present or occurring=
+
+  - The huge dog closed its eyes and appeared oblivious to the crawling baby.
+  - How could the rich man be oblivious to the hungry man asking him for a dollar?
+  - As Gene rapidly ate his dinner, he seemed oblivious to the taste of the burnt food.
+  - The absent-minded couple acted oblivious to the mess their child made in the restaurant.
+
+* [[https://wordsinasentence.com/obsequious-in-a-sentence/][Obsequious]]
+
+  =Excessively submissive; overly obedient=
+
+  - The princess had obsequious servants who showered her with attention.
+  - At work, the obsequious assistant complimented her manager so much that she quickly advanced up the corporate ladder.
+  - When he receives obsequious service, Lawrence always leaves a huge tip.
+  - Extremely obsequious, most puppies want nothing more than to please their masters.
+  - From his obsequious behavior, it was obvious Jackson was smitten with his wife.
+  - It infuriates me that your obsequious personality makes you agree with every word I say!
+  - Jane is the teacher’s favorite because she is so obsequious in class.
+
+* [[https://wordsinasentence.com/obsolescence-in-a-sentence/][Obsolescence]]
+
+  =becoming outdated=
+
+  - Since the granite countertops were such an obsolescence in the neighborhood homes, the builder knew he would need to upgrade to higher quality materials like marble.
+  - Due to the obsolescence of the car’s transmission, the mechanic knew he couldn’t purchase the needed transmission from any manufacturer in the world.
+  - Once cell phones became equipped with visual tools, regular cameras became an obsolescence in the technological industry.
+  - As I was cleaning out the office supply closet at work, I knew the shelf containing items of obsolescence like typewriter ribbon could be tossed out.
+
+* [[https://wordsinasentence.com/obstinacy-in-a-sentence/][Obstinacy]]
+
+  =the quality of refusing to be reasonable and change your behavior, plans, or ideas; stubborness=
+
+  - Although the detectives grilled the witness for hours, his obstinacy in sticking to his story finally convinced them that he was telling the truth.
+  - The obstinacy of both children in insisting on their own choice of movie resulted in an evening with no movie at all.
+  - Lindsey just would not let go of her obstinacy over a vacation that didn’t involve tents and latrines, so Benjamin finally put his camping gear away and agreed to talk to a travel agent.
+  - If it hadn’t been for Mason’s obstinacy and his mother’s anxiety, he probably would have been potty-trained months sooner.
+  - No matter what logic or rationale I used, nothing I came up with could break through her obstinacy.
+  - Because his obstinacy is greater than his judgment, Miles will never back down in a dispute.
+  - Nora went suicide during Rush because she had her heart set on getting into just one sorority, but her obstinacy left her out in the cold when the bids went out.
+
+* [[https://wordsinasentence.com/obstinate-in-a-sentence/][Obstinate]]
+
+  =stubbornly refusing to change one's opinion or action; very difficult to change or persuade; refusing to obey=
+
+  - Everyone described my grandfather as the most obstinate man alive!
+  - Although the little boy knew he was wrong, he was too obstinate to apologize to his parents.
+  - Obstinate and unyielding, the judge refused to give the defendant credit for time served.
+  - The obstinate protestors refused to leave the office complex.
+  - Because she is so obstinate, my niece often ends up eating dinner alone in her room.
+  - Even though Henry’s friends wanted him to join them at the arcade, he remained obstinate and went to the library to study.
+  - Cheryl was obstinate and refused to admit her marriage was over.
+
+* [[https://wordsinasentence.com/obviate-in-a-sentence/][Obviate]]
+
+  =to prevent or eliminate=
+
+  - We replaced the old mechanisms because we wanted to obviate any nervousness about potential breakdown.
+  - I tried to obviate my mother’s awkwardness with the cell phone by telling her it wasn’t necessary to hold it up to her mouth when she speaks into it.
+  - Because he wanted to obviate the strain of climbing the stairs, Dr. Johnson ordered the patient to have his bedroom furniture moved to the room on the bottom floor.
+  - Even though the government has employed many safeguards to obviate abuse of the welfare system, there are still too many people robbing the taxpayers through fraudulent claims.
+  - After his mother had fallen in the bathtub, Farley installed safety rails in order to obviate any recurrence of such a mishap.
+  - Because our mother was always inclined to obviate conflict under any circumstances, we all got our own gifts on our siblings’ birthdays.
+  - If you want to obviate the risk of skin cancer throughout your life, it’s important that you are protected from sun exposure from the time you are an infant.
+
+* [[https://wordsinasentence.com/odious-in-a-sentence/][Odious]]
+
+  =unpleasant; repulsive=
+
+  - Because Mark had an odious personality, he had very few friends.
+  - The athlete got arrested for participating in the odious sport of dog fighting.
+  - Although I normally notice unpleasant smells right away, I cannot detect the odious scent you noticed in the house.
+  - Cleaning the toilet is such an odious task.
+  - To me, all spiders are odious creatures.
+  - The milk must be old because it has an odious taste to it.
+  - Although Clara has showered five times, she still carries the odious scent of the skunk which sprayed her.
+
+* [[https://wordsinasentence.com/offhand-in-a-sentence/][Offhand]]
+
+  =impromptu and without previous thought or consideration=
+
+  - He couldn’t recall the specific amount offhand, but the accountant was sure that an unusually large deposit had appeared earlier that day.
+  - The trivia queen was able to spout off ridiculous facts offhand.
+  - Embarrassed by her sisters’ offhand comments, the woman wished that her siblings weren’t so careless with words.
+  - Even seemingly offhand camera shots of the ceremony were more focused than the planned shots.
+
+* [[https://wordsinasentence.com/oligarchy-in-a-sentence/][Oligarchy]]
+
+  =a territory or group that is controlled by only a few individuals=
+
+  - In our small religious community, the major decisions of the town are made by the oligarchy, which is composed of six wise men.
+  - The food service in the stadium is controlled by an oligarchy of four service providers.
+  - While the system of democracy allows everyone to vote, oligarchy gives the power to only a few individuals.
+  - The company’s oligarchy, consisting of the president, the vice-president, and the treasurer, makes all the key decisions.
+  - After the election, the power once held by the three members of the oligarchy will be given to all citizens in the form of voting rights.
+  - My daughter insists our family is an oligarchy since my husband and I are the only ones who make the important decisions.
+  - In the movie, the country was ruled by an oligarchy that was composed of five leaders, one from each of the nation's five factions.
+
+* [[https://wordsinasentence.com/ominous-in-a-sentence/][Ominous]]
+
+  =suggesting that something bad is going to happen in the future=
+
+  - Because of the ominous music, we knew something bad was about to happen in the movie.
+  - The warning sounds of an ominous storm made us run for cover.
+  - When I heard the front door slam, I took it as an ominous warning that my father was in a bad mood.
+  - The broken window was an ominous sign someone had broken into our home.
+  - My mother’s ominous tone let me know I was in trouble.
+  - In the horror movie, the stupid teenagers ignore the ominous warnings and go inside the mysterious house on the hill.
+  - The dark clouds gave the sky an ominous appearance.
+
+* [[https://wordsinasentence.com/onerous-in-a-sentence/][Onerous]]
+
+  =involving great effort and difficulty=
+
+  - Taking care of the puppy is an onerous task.
+  - When Jack agreed to help his father cut the grass, he did not realize the chore would be so onerous.
+  - The flight attendant was not prepared to deal with the onerous passenger.
+  - While the assignment seems simple, in reality, it is quite onerous.
+  - Even though the computer will speed up our research efforts, the project will still be onerous.
+  - Despite his rigid training, the athlete was unprepared to handle the onerous terrain.
+  - Because of overcrowding, it has become too onerous for the prison guards to keep track of all the convicts.
+
+* [[https://wordsinasentence.com/opalescent-in-a-sentence/][Opalescent]]
+
+  =multi-colored; rainbowlike=
+
+  - The opalescent star sparkled with all the amazing colors of the rainbow.
+  - Peering at the opalescent ring in the case, the young woman liked it because of its multi-colored stones.
+  - Topped with an opalescent glass covering, the table sparked with multi-colored shine.
+  - The opalescent opal shimmered with a rainbowlike glow that reflected all colors of liht.
+
+* [[https://wordsinasentence.com/operative-in-a-sentence/][Operative]]
+
+  =to become fully functional=
+
+  - You must set up a network name, router, and password for the WiFi to become fully operative.
+  - The restaurant was not operative until they passed inspection.
+  - The car was not operative until the engine was fixed.
+  - A restaurant is only fully operative with a kitchen, cook, and waiters.
+
+
+
+* [[https://wordsinasentence.com/opinionated-in-a-sentence/][Opinionated]]
+
+  =very certain of one’s views or opinions=
+
+  - Because Tessa is so opinionated, she disregards the opinions of other people in favor of her own views.
+  - The opinionated man thought he knew more than the doctor and refused to accept the diagnosis.
+  - If a team leader is too opinionated, he may alienate his team members by ignoring their viewpoints.
+  - The reporter’s opinionated version of the story was completely one-sided.
+
+
+
+* [[https://wordsinasentence.com/opportune-in-a-sentence/][Opportune]]
+
+  =at a useful or convenient moment=
+
+  - With all of the mobile applications being sold for millions of dollars, now is an opportune time to become a mobile developer.
+  - Jessie got a job at the restaurant simply by being there at the opportune moment when the manager fired another server.
+  - If someone rings my doorbell at an opportune moment, I can end this bothersome phone call with my mother-in-law.
+  - The teenager knew there would never be an opportune time to tell her parents she was pregnant.
+
+* [[https://wordsinasentence.com/oppressive-in-a-sentence/][Oppressive]]
+
+  =overwhelming; restricting=
+
+  - Because I am very sensitive to the oppressive heat, I tend to spend most of the summer indoors.
+  - Many people come to this country because the oppressive leaders in their native lands took away their freedoms.
+  - While John views himself as a spiritual individual, he believes the rules of any organized religion are too oppressive for his relaxed nature.
+  - Plans have been made to overthrow the oppressive government.
+  - When the oppressive dictator died, millions of people celebrated his death.
+  - The citizens unanimously voted to overturn the oppressive laws that had once controlled their lives.
+  - Last summer, thousands of people died from strokes relating to the oppressive temperature.
+
+
+
+* [[https://wordsinasentence.com/opprobrious-in-a-sentence/][Opprobrious]]
+
+  =conveying shame or contempt=
+
+  - Elaine was offended by her friends’ opprobrious remarks about her drunken behavior.
+  - At the party, a suspicious Kim was convinced her friends were making opprobrious comments about her appearance.
+  - The boy is sure to be kicked out of school for directing opprobrious remarks to his principal.
+  - Did you see the teacher’s shocked expression when the student called her an opprobrious word?
+
+
+
+* [[https://wordsinasentence.com/optimism-in-a-sentence/][Optimism]]
+
+  =hopefulness about things to come=
+
+  - Gail’s optimism allows her to believe anything is possible.
+  - Although I hate my coworkers, I try to get along with them because my optimism reminds me my job is only temporary.
+  - Jake’s optimism decreased when his boss told him his services were no longer needed.
+  - If a person does not have optimism, he or she will not look forward to the future.
+
+
+
+* [[https://wordsinasentence.com/opulent-in-a-sentence/][Opulent]]
+
+  =extravagant and rich=
+
+  - Because the movie star made over ten million dollars a film, she was able to maintain an opulent lifestyle.
+  - We were afraid to sit in the chairs because they looked so opulent.
+  - Although the hotel was filled with opulent designer furnishings, its room rates were surprisingly affordable.
+  - The couple spent over eighty thousand dollars on opulent kitchen appliances.
+  - Even though the evil king knew many of his people were dying of starvation, he continued to spend money decorating his opulent castle.
+  - The hotel’s opulent facilities include four gourmet restaurants, a movie theater, and an indoor tennis court.
+  - If Jackie does not get a large divorce settlement, she will not be able to maintain her opulent style of living.
+
+
+
+* [[https://wordsinasentence.com/ordeal-in-a-sentence/][Ordeal]]
+
+  =a tough experience=
+
+  - The eighteen-hour plane trip was an ordeal for my hyperactive toddler.
+  - Even the experienced wedding planner found it quite an ordeal to plan and execute a ceremony in twenty-four hours.
+  - The hostage endured a horrible ordeal under the hands of his abusive kidnappers.
+  - For my teenage daughter going without her mobile phone for a day is a real ordeal.
+
+
+
+* [[https://wordsinasentence.com/ossify-in-a-sentence/][Ossify]]
+
+  =to become firm in a certain way=
+
+  - My father’s opinion has started to ossify so I know he won’t change his mind.
+  - Because Elaine has an impulsive nature, she’ll never allow her behaviors to ossify.
+  - This type of arthritis causes the joints to ossify to the point they become immobile.
+  - After Tim joined the church, his beliefs about the afterlife started to ossify.
+
+
+
+* [[https://wordsinasentence.com/ostentatious-in-a-sentence/][Ostentatious]]
+
+  =intended to attract notice and impress others in an extreme and unnecessary way=
+
+  - I tried to tell Mary her fur coat was a bit too ostentatious to be worn at a funeral!
+  - Even though Larry has a gigantic art collection, he does not present it in an ostentatious manner to everyone who enters his home.
+  - My wealthy aunt who enjoys flaunting her wealth always wears an ostentatious diamond necklace.
+  - Although Henry was a millionaire, no one ever considered him ostentatious because of the laid-back way in which he carried himself.
+  - Everyone could tell the singer was a diva simply by looking at her brightly-colored ostentatious outfit.
+  - Because Sarah puts up at least two thousand Christmas lights each year, she always has the most ostentatious decorations in our neighborhood.
+  - The little girl’s birthday party was an ostentatious affair with live ponies, a chocolate fountain, and a six-tier cake.
+
+
+
+
+* [[https://wordsinasentence.com/ostracize-in-a-sentence/][Ostracize]]
+
+  =exclude someone=
+
+  - As a teacher, your job is not to ostracize your students but to show them support so they can become contributing members of society.
+  - Sadly, the rich children ostracize the other girl because she comes from a poor family.
+  - Although Margie was not responsible for the court’s decision in her favor, she knows the people on the other side of the courtroom will still ostracize her.
+  - Can you believe that country still has laws, which allow it to ostracize people of the Christian faith and treat them like second-class citizens?
+  - In some countries, having different beliefs may cause people to ostracize you and deny you access to certain places.
+  - Bill knew his community would ostracize him after his release from prison so he moved to another town.
+  - Unfortunately, teenagers will ostracize their peers and make them feel unwanted for the simplest reasons.
+
+* [[https://wordsinasentence.com/oust-in-a-sentence/][Oust]]
+
+  =to banish or kick out=
+
+  - Environmental specialists would prefer to oust herbicides because they can cause health problems and diseases to many people.
+  - Many citizens of Germany wanted to oust Adolf Hitler but were too scared to do anything about it.
+  - Board members realized that they would have to have at least a 2/3 vote to oust the horrible president.
+  - Since the CEO was the top man at the company, it would be almost impossible for anyone to oust him.
+
+
+
+* [[https://wordsinasentence.com/outgoing-in-a-sentence/][Outgoing]]
+
+  =sociable and friendly=
+
+  - Due to her outgoing personality, Kim made friends who always wanted to be around her.
+  - Since opposites attract, the outgoing wife always got along with her introverted husband.
+  - The saleswoman made her customers feel very welcome and comfortable since she was such an outgoing person.
+  - When no one spoke up after the teacher asked a question, the outgoing boy was willing to share his answers with the rest of the class.
+
+
+
+* [[https://wordsinasentence.com/outstrip-in-a-sentence/][Outstrip]]
+
+  =to move further=
+
+  - Being trained for the Kentucky Derby, these horses outstrip any of the other horses running down the track.
+  - “If you want to outstrip the competition, then you need to work out at the gym,” the coach told his athletes.
+  - In a race of the transportation, a train would outstrip a horse because a train has an engine.
+  - Even though the marathon runner was a senior citizen, he could outstrip the young 20-year old due to his experience in running.
+
+
+
+* [[https://wordsinasentence.com/overbearing-in-a-sentence/][Overbearing]]
+
+  =overly bossy, domineering, or arrogant=
+
+  - Debra has a tendency to act in an overbearing and domineering way which tends to turn Ted off.
+  - Sally felt that the cop acted in a very overbearing way when he yelled at her to pull off of the road.
+  - After years of living with a bossy and overbearing wife, Max decided to divorce her.
+  - Veronica prefers to avoid scents that are overbearing, opting for perfumes that are airy and light.
+
+
+* [[https://wordsinasentence.com/overcast-in-a-sentence/][Overcast]]
+
+  =cloudy; gloomy=
+
+  - The children wanted to go swimming, but the overcast day made it a little too cool to get into the pool.
+  - Overcast skies and no humidity made it the perfect day to go fishing.
+  - The dark and overcast day set a gloomy atmosphere even before the rain started.
+  - Predicting overcast skies and an overall cloudy week, the weather man suggested getting any gardening done while it is cool.
+
+
+
+* [[https://wordsinasentence.com/overdue-in-a-sentence/][Overdue]]
+
+  =late; past due=
+
+  - The overdue mother’s due date had passed a week ago and she couldn’t wait to have her baby.
+  - Placing a note on the couple’s door, the landlord insisted that they pay their overdue rent.
+  - I have several overdue books that need to be turned to the library so that I don’t owe a lot of fees.
+  - The overdue Redbox money should have been returned last night, but I wanted to watch it again.
+
+* [[https://wordsinasentence.com/override-in-a-sentence/][Override]]
+
+  =To use one’s authority to cancel or overrule the action or decision of another=
+
+  - A manager is needed to override the transaction if the clerk makes a mistake.
+  - The president has decided to override his advisors’ decision and put his own plan in place.
+  - In order to delete the purchase, an override must occur and a code must be entered.
+  - Without a way to override his boss’s decision, Paul had to make the best of the situation.
+
+
+
+* [[https://wordsinasentence.com/overt-in-a-sentence/][Overt]]
+
+  =open and not secret=
+
+  - In some countries, racial prejudice is overt and not disguised in the least.
+  - The film’s R rating is based on its content’s overt violence and sexual acts.
+  - Because of Frank’s religious beliefs, he was able to forgive his attackers for their overt hatred.
+  - It was an obvious case of overt discrimination when the newly hired Caucasian man was promoted instead of the African American worker who had been with the firm for ten years.
+  - As soon as Beverly saw the dog’s overt aggression, she stood in front of her daughter to protect her.
+  - The security guard easily noticed the shoplifter’s overt actions.
+  - Since the detective is an observant fellow, he can easily notice facts that are not overt.
+
+
+
+
+* [[https://wordsinasentence.com/overwrought-in-a-sentence/][Overwrought]]
+
+  =in a state of excessive nervousness, excitement, or anger=
+
+  - The bride was overwrought when the florist delivered the wrong flower order.
+  - An overwrought mom frantically searched the park for her missing son.
+  - The man’s wife was completely overwrought at his funeral.
+  - When she was not awarded a scholarship, the student became overwrought.
+
+
+
+
+* [[https://wordsinasentence.com/oath-in-a-sentence/][Oath]]
+
+  =a solemn promise=
+
+  - Jurors convicted the man of lying during trial while under oath.
+  - A huge crowd surrounded the court house while the newly elected officials took the oath of office.
+  - Giving an oath to love her forever, the groom was instructed to kiss the bride.
+  - Crossing his fingers while he gave an oath to protect and serve, the scoundrel smiled at his unsuspecting victims.
+
+
+
+* [[https://wordsinasentence.com/obeisance-in-a-sentence/][Obeisance]]
+
+  =a respectful obedient attitude=
+
+  - In my family, we say a prayer before each meal to show obeisance and thanks.
+  - Obeisance is not one of the rude secretary’s personality traits.
+  - Because the teenage troublemaker showed a sign of obeisance, the judge let him off with a warning.
+  - The young girl showed obeisance when she bowed before the queen.
+  - The villagers displayed their obeisance to their god by kneeling at his altar.
+  - With obeisance, Ray apologized to his parents for missing his curfew.
+  - I often open doors for senior citizens as a sign of obeisance.
+
+
+
+* [[https://wordsinasentence.com/objection-in-a-sentence/][Objection]]
+
+  =a purpose for opposing or protesting a statement or action=
+
+  - Everyone frowned when the father of the bride unjustly stated his objection to the marriage for the lovely young couple.
+  - Before suing his neighbor, Mr. Bills discussed his objection with the neighbor’s fence being installed on his property.
+  - The strictly religious woman argued her objection to her son’s school because the school’s celebration of Halloween violated her son’s religious rights.
+  - During the Vietnam War, the United States felt a division of loyalty when common citizens would voice an objection to the war.
+
+
+
+* [[https://wordsinasentence.com/oblige-in-a-sentence/][Oblige]]
+
+  =perform a good deed for someone=
+
+  - Since my neighbor cuts my grass for free, I am happy to oblige him with a ride to the store.
+  - If you would like to see certain things on your tour, please tell the guide so she can oblige your requests if time permits.
+  - Sheila was happy to oblige the soldier with bus fare home.
+  - When Jack asked for a loan, his father could not oblige him because of his recent job loss.
+
+* [[https://wordsinasentence.com/oblique-in-a-sentence/][Oblique]]
+
+  =not in a straightforward manner=
+
+  - The slight wink was Larry’s oblique way of flirting with me.
+  - Because the commercial is oblique in its sexual references, it has not been pulled from the Christian network.
+  - Putting a dead rat on a person’s doorstep is an oblique way in which the mob has been known to warn possible snitches.
+  - To avoid worrying his wife, the man made an oblique statement about the seriousness of his medical condition.
+
+* [[https://wordsinasentence.com/obloquy-in-a-sentence/][Obloquy]]
+
+  =shame from public disapproval=
+
+  - After being released from prison, Kurt lived in obloquy and rarely left his apartment.
+  - The senator’s admission of adultery brought much obloquy and ended his political career.
+  - Even though Jose knew telling the truth would bring obloquy from his gang, he refused to let his brother’s killer go free.
+  - The soccer team went home to obloquy after losing the finals because of stupid mistakes.
+  - Because Kate experienced obloquy after reporting the star quarterback for sexual assault, she changed schools.
+  - James always felt obloquy because of his father’s infamy as a serial killer.
+  - Since being arrested for associating with prostitutes, the minister has been in hiding to escape the obloquy of his actions.
+
+
+
+* [[https://wordsinasentence.com/obnoxious-in-a-sentence/][Obnoxious]]
+
+  =disagreeable in a way that disgusts other people=
+
+  - Nobody wanted to talk to the obnoxious man.
+  - As soon as I got on the plane and saw I’d be sitting next to an obnoxious child, I asked the flight attendant for another seat.
+  - The man was asked to leave the restaurant because of his obnoxious behavior.
+  - Did you notice the obnoxious person picking his nose at the dinner table?
+
+
+
+* [[https://wordsinasentence.com/observance-in-a-sentence/][Observance]]
+
+  =the act of conforming to situations and following rules=
+
+  - Good students are in observance of the classroom rules by raising their hand to answer a question, speaking politely to others and keeping their hands and feet to themselves.
+  - Their observance of silence resulted in the hush of the surrounding people until everyone was quiet in remembrance of the deceased man.
+  - When the visitors entered the foreign country, they followed every traffic rule and ordinance due to their observance of the laws.
+  - Once the exchange students become acclimated to the country’s culture, their observance of the traditions and customs will take place.
+
+
+
+* [[https://wordsinasentence.com/obsolete-in-a-sentence/][Obsolete]]
+
+  =no longer of use=
+
+  - Many people believe the Internet has made the postal service obsolete.
+  - If you look inside of most classrooms, you will not see chalkboards because they are nearly obsolete in education today.
+  - Once Frank spent all of his lottery winnings, he became obsolete to his family members.
+  - Despite what people say, I still use my VCR because it is not obsolete to me!
+
+
+
+* [[https://wordsinasentence.com/obstinate-in-a-sentence/][Obstinate]]
+
+  =stubbornly refusing to change one's opinion or action; very difficult to change or persuade; refusing to obey=
+
+  - Everyone described my grandfather as the most obstinate man alive!
+  - Although the little boy knew he was wrong, he was too obstinate to apologize to his parents.
+  - Obstinate and unyielding, the judge refused to give the defendant credit for time served.
+  - The obstinate protestors refused to leave the office complex.
+  - Because she is so obstinate, my niece often ends up eating dinner alone in her room.
+  - Even though Henry’s friends wanted him to join them at the arcade, he remained obstinate and went to the library to study.
+  - Cheryl was obstinate and refused to admit her marriage was over.
+
+
+
+* [[https://wordsinasentence.com/obstreperous-in-a-sentence/][Obstreperous]]
+
+  =noisy and difficult to control=
+
+  - Because my nephew is obstreperous, he often gets in trouble at school.
+  - The teenagers became obstreperous when their school team lost the football game.
+  - When my husband drinks too many beers, he becomes obstreperous.
+  - The football fans were obstreperous throughout the championship game.
+  - After winning the battle, the obstreperous troops had to be calmed down by their commanding officer.
+  - If you see me at a dance club with my friends, you might think I am obstreperous because I like having a fun time.
+  - When you are inside of a library, you should be quiet not obstreperous.
+
+
+
+* [[https://wordsinasentence.com/obtrude-in-a-sentence/][Obtrude]]
+
+  =to interrupt in an unpleasant manner=
+
+  - Please silence your phones so they do not obtrude upon our meeting.
+  - On our honeymoon, we put the do not disturb sign on our door so the maid would not obtrude on our privacy.
+  - Just as I was about to have my first kiss, my mother chose to obtrude upon the special moment  by walking into my room.
+  - How dare you obtrude upon my vacation by calling me with a work related issue!
+
+
+
+* [[https://wordsinasentence.com/obtuse-in-a-sentence/][Obtuse]]
+
+  =not able to think clearly or to understand what is obvious or simple=
+
+  - Are you so obtuse that you will give away all your money to a fake charity?
+  - The obtuse young man had a hard time understanding the simple instructions.
+  - If you do not pay attention in math class, you may feel obtuse during the final exam.
+  - Sometimes my youngest brother seems too obtuse to understand anything I say.
+  - After taking the strong medication, Jenny was so obtuse she could not read the newspaper.
+  - The obtuse student was not able to answer a single test question.
+  - Because the man was obtuse after a night of partying, he was unable to pass his driver’s test.
+
+
+
+* [[https://wordsinasentence.com/obverse-in-a-sentence/][Obverse]]
+
+  =the reverse or foil of a certainty or fact=
+
+  - While I thought my parents would be happy I got a job, the obverse was true when they learned I’d be working in a strip club.
+  - Sadness is the obverse or opposite of happiness.
+  - As a child, I quickly learned “no” was the disappointing obverse of “yes.”
+  - To win the debate, you will need to prove the obverse of your opponent’s argument.
+
+
+
+* [[https://wordsinasentence.com/occlude-in-a-sentence/][Occlude]]
+
+  =to close up or block off=
+
+  - The police officers have blocked off the road to occlude the bomb from the public.
+  - Although I do not want you inside of my office, I will not occlude your entry by locking the door while I am away.
+  - It is quite dangerous when blood clots occlude the flow of oxygen in the human body.
+  - Since I do not like people looking inside of my home, I use blinds to occlude my windows.
+  - It looks like the clouds are going to occlude the sun and ruin my picnic!
+  - Because my parents did not trust strangers, they did everything they could to occlude me from the outside world.
+  - During the surgery, the doctor will do everything possible to not occlude the flow of blood to the patient’s heart.
+
+* [[https://wordsinasentence.com/occult-in-a-sentence/][Occult]]
+
+  =relating to magical or supernatural abilities=
+
+  - The occult show about a group of teenage witches living together is one of the highest rated shows on television.
+  - Although the pretend psychic has no occult powers, she leads people to believe she does.
+  - It is said that on Halloween night all the occult creatures walk the Earth.
+  - Can you believe Sarah is going to take the occult arts class so she can learn how to torture her ex-husband from a distance?
+  - Surprisingly, the nonfiction author is writing a novel that centers on an old man who engages in occult science to bring his wife back from the dead.
+  - As soon as I learned the occult ritual involved killing a rabbit, I knew I wanted no part of the family’s annual tradition.
+  - Mary’s occult shop contains a variety of spell books, herbs, and magical cards and crystals.
+
+* [[https://wordsinasentence.com/ocular-in-a-sentence/][Ocular]]
+
+  =associated with vision or eyesight=
+
+  - Ocular pain forced me to call my eye doctor.
+  - When my teenaged daughter learned she needed an ocular device to improve her vision, she immediately requested contact lenses.
+  - Scientists wear goggles in the lab to prevent ocular injury.
+  - If the ocular disease remains untreated, it could cause blindness.
+
+
+
+* [[https://wordsinasentence.com/ode-in-a-sentence/][Ode]]
+
+  =a poem that praises or celebrates something=
+
+  - Phil created lyrics for the choir that were an ode to his alma mater.
+  - Mel recited a beautiful ode under his sister’s wedding canopy while softly strumming on his guitar.
+  - The poet spent years writing an ode that takes many hours to recite.
+  - I wrote an ode to the United States and asked Jeff to recite it at the parade.
+
+
+
+* [[https://wordsinasentence.com/odium-in-a-sentence/][Odium]]
+
+  =loathing for a thing or person deemed to be despicable=
+
+  - The public’s odium towards the congressman is an advantage for the candidate opposing him in the election.
+  - After getting out of prison, the child molester still had to deal with odium from his neighbors.
+  - The new abortion bill is sure to trigger odium from church leaders.
+  - Because of my odium for the politician’s views, I have no plans to vote for him.
+
+
+
+* [[https://wordsinasentence.com/odoriferous-in-a-sentence/][Odoriferous]]
+
+  =producing an unpleasant scent=
+
+  - After eating six burritos, my brother turned the bathroom into an odoriferous chamber.
+  - The rotting corpse transformed the tiny house into an odoriferous dwelling.
+  - The pregnant woman became nauseated when she smelled the scent from the odoriferous fish market.
+  - The dog’s odoriferous gassiness made everyone leave the room.
+
+
+
+* [[https://wordsinasentence.com/ogle-in-a-sentence/][Ogle]]
+
+  =to look at in a suggestive manner=
+
+  - Because the women feel the construction workers ogle them, they hate to walk by the unfinished building.
+  - The football players ogle the cheerleaders when they should be listening to their coach.
+  - While the nerdy guys ogle the pretty girls at the party, they are too shy to invite them to dance.
+  - The boys sneaked into their father’s room to ogle his adult magazines.
+
+
+
+
+* [[https://wordsinasentence.com/ointment-in-a-sentence/][Ointment]]
+
+  =a cream rubbed on the skin for medicinal purposes=
+
+  - Antibiotic ointment was applied to the wound to keep bacteria at bay.
+  - The homeopathic physician assured the depressed woman that spreading the ointment allover her body would cure her.
+  - The oily ointment was great for the player’s sore knee but ruined his clothing.
+  - Squeezing the ointment out of the tube, the boy rubbed the gooey contents onto his scraped knee.
+
+
+
+* [[https://wordsinasentence.com/oleaginous-in-a-sentence/][Oleaginous]]
+
+  =oily, greasy=
+
+  - From the excess shine and acne on her face, you can tell Olivia has an oleaginous skin problem.
+  - Even when you mix an oleaginous substance and water together they still separate.
+  - I had to dab my pizza with a napkin because it is so oleaginous.
+  - As an oleaginous land, lots of money was coming in from oil sales.
+
+
+
+* [[https://wordsinasentence.com/olfactory-in-a-sentence/][Olfactory]]
+
+  =pertaining to the smell sense=
+
+  - Because my brother has straws in his nose, his olfactory sense is not picking up the odors coming from the kitchen.
+  - The hound dog used his olfactory sense to locate the missing girl.
+  - Even though Jason is blind, he can easily find the kitchen using his strong olfactory receptors.
+  - My cold is interfering with my main olfactory nerve so I cannot smell anything.
+  - When most people think of the olfactory organ in humans, they typically think of the nose.
+  - The olfactory receptors translate information to the brain so it can recognize the source of the odor.
+  - Because my olfactory stimuli are easily irritated by pollen, I usually sneeze a lot in the spring.
+
+
+
+* [[https://wordsinasentence.com/omnipresent-in-a-sentence/][Omnipresent]]
+
+  =able to be everywhere at one time=
+
+  - The soccer coach described his star player as being omnipresent, all over the field at once.
+  - Because my mother loves carrots, she adds them as an omnipresent ingredient in every dish she makes.
+  - Our omnipresent mayor never misses a chance to get in front of a camera.
+  - When I went to college and left my omnipresent parents behind, I really began to enjoy my freedom.
+
+
+
+* [[https://wordsinasentence.com/omniscient-in-a-sentence/][Omniscient]]
+
+  =having total knowledge; all-knowing=
+
+  - Melanie felt that it was important to know what every character was thinking, so she wrote her novel from an omniscient point of view.
+  - He thinks he knows what is best for everybody, but as far I know he is not omniscient.
+  - Without an omniscient narrator, the reader is intentionally left in the dark about the motivation of the antagonist until the very end of the story.
+  - If the house had a brain, it would be omniscient because of all the cameras and communication devices in all the rooms.
+  - Unless you are omniscient, you can’t possibly predict what type of technology we’ll be relying on in twenty years.
+  - She claims to have psychic abilities, but she never said she was omniscient.
+  - If world leaders had the capability to be omniscient, there would probably be an end to all war.
+
+
+
+* [[https://wordsinasentence.com/omnivorous-in-a-sentence/][Omnivorous]]
+
+  =eating both plants and animals=
+
+  - Because my rabbit only eats plants, it is not omnivorous.
+  - Sheila is a strict vegetarian who would never become omnivorous by adding meat to her diet.
+  - Although Rick is omnivorous, he does not eat a lot of vegetables.
+  - The small animal is omnivorous and feasts upon both nuts and bugs.
+
+
+
+* [[https://wordsinasentence.com/onset-in-a-sentence/][Onset]]
+
+  =at the start of something=
+
+  - Arguments plagued the adult children about what to do with the matriarch of the family due to her onset of dementia.
+  - When Tyler’s voice cracked for the first time, his mother knew that this was the onset of puberty for her son.
+  - Being overweight and continuing to eat fatty foods resulted in Martha’s doctor preparing her for the onset of diabetes.
+  - Feeling strong contractions revealed to the pregnant woman that she was in the onset of labor.
+
+
+
+* [[https://wordsinasentence.com/onslaught-in-a-sentence/][Onslaught]]
+
+  =a fierce attack=
+
+  - After the apartment fire, there was an onslaught of frustrated people displaced from their homes.
+  - After they were told the school was closing, there was an onslaught of angry parents demanding answers.
+  - An onslaught of paintball opponents ushered towards me.
+  - The adulterer was prepared for an onslaught of negative attention.
+
+
+
+* [[https://wordsinasentence.com/onus-in-a-sentence/][Onus]]
+
+  =the responsibility for something=
+
+  - It is the onus of the applicant to completely fill out the application materials.
+  - As your mother, it is my onus to prepare you for a successful future.
+  - The onus is on the pharmacist to make sure the medications are properly dispensed.
+  - As a good teacher, I accept the onus for making sure my students learn something each day.
+  - The ability to purchase movie tickets online has eliminated the onus of having to stand at the box office window.
+  - Before the men became police officers, they had to swear to accept the onus for everyone in their communities.
+  - It is the prosecuting attorney’s onus to prove the guilt of the defendant.
+
+
+
+* [[https://wordsinasentence.com/ooze-in-a-sentence/][Ooze]]
+
+  =to trickle or seep out slowly=
+
+  - Ink seemed to ooze from the pen creating a small blue stain on my brand new pants.
+  - If the man stabs the victim, blood will most likely ooze from the wound and down the victim’s body.
+  - Slimy substances ooze from the sewer pipe into the yard confirming a leak.
+  - The chocolate pudding mixture would ooze from inside of the cupcake when someone would bite into it.
+
+
+
+* [[https://wordsinasentence.com/opine-in-a-sentence/][Opine]]
+
+  =to give an opinion=
+
+  - Rather than disagree with my husband in public, I waited until we got home to opine my thoughts on the subject.
+  - Dentists opine flossing is essential for maintaining good dental health.
+  - While one referee felt the kick was good, the other referee chose to opine a different outlook on the play.
+  - Many religious groups opine cloning is an act that attempts to mimic God’s power.
+
+
+
+* [[https://wordsinasentence.com/oracular-in-a-sentence/][Oracular]]
+
+  =prophetic; predictive=
+
+  - Oracular predictions proved to be true as the medium knew that Donald Trump would be elected president.
+  - Gazing into her crystal ball, the clairvoyant uttered an oracular tale of what the woman’s life would be like.
+  - The soothsayer’s oracular responses were trusted by the tribe since most of his prophecies had at least a hint of truth.
+  - Pretending to offer oracular readings, the sham psychic lined her pockets with money from the gullible.
+
+
+
+* [[https://wordsinasentence.com/orator-in-a-sentence/][Orator]]
+
+  =one who excels at speaking to an audience=
+
+  - Thad is a much-liked orator who keeps people fully engaged while he is speaking.
+  - If you want to be a successful politician, you should strive to become a great orator so you can win votes with your words.
+  - I left the room as soon as the racist orator started to spread his message of hate.
+  - Because Heather is a gifted orator, she is often called upon to host events.
+  - Katie was looking forward to hearing the guest orator speak in her economics class.
+  - Because Rick is an excellent orator who can sway people with his speech, he is an amazing lawyer.
+  - I realized Angie was a wonderful orator when I heard her deliver an amazing spoken word poem.
+
+
+
+* [[https://wordsinasentence.com/ordain-in-a-sentence/][Ordain]]
+
+  =to deliver a decree or confirm a person into a religious ministry=
+
+  - If the church decides to ordain the convicted rapist as a deacon, many people will leave the congregation.
+  - John knows the ministry will never ordain him as a priest because of his checkered past.
+  - What made the fashion gods ordain floral prints as the must-have style of the year?
+  - For the first time, our conservative church elders will ordain a woman as a minister.
+
+
+
+* [[https://wordsinasentence.com/ordinance-in-a-sentence/][Ordinance]]
+
+  =legislation or a decree=
+
+  - The county ordinance prohibits smoking inside public establishments.
+  - When the ordinance is passed, people will be fined for not keeping their front lawns neatly cut.
+  - The ordinance abolished slavery in all villages ruled by the king.
+  - When our city council passed an ordinance prohibiting Sunday alcohol sales, many citizens were upset about the restriction.
+
+
+
+* [[https://wordsinasentence.com/ornate-in-a-sentence/][Ornate]]
+
+  =extravagantly adorned or worded=
+
+  - The uneducated man could not understand the ornate speech made by the Ivy League professor.
+  - Because the wedding dress is ornate with pearls and diamonds, it is valued at nearly half a million dollars.
+  - Every bedroom in the billionaire’s mansion is ornate with luxurious furnishings and classical works of art.
+  - Since the engagement party is supposed to be a simple outdoor barbecue, we ask people to avoid dressing in an ornate manner.
+
+* [[https://wordsinasentence.com/ornery-in-a-sentence/][Ornery]]
+
+  =crotchety, rude, or mean=
+
+  - The ornery old man is always treating everyone around him very rudely, which is probably why nobody likes him.
+  - I can be very ornery if I don’t get my coffee in the morning, being mean to everyone that tries to bother me.
+  - If there is one thing that will make my mother very ornery, it is my father leaving the toilet seat up, which makes her yell a lot.
+  - An ornery person usually treats everyone around them poorly, either being mean or just cold in general.
+
+
+
+* [[https://wordsinasentence.com/orotund-in-a-sentence/][Orotund]]
+
+  =haughty in tone or style=
+
+  - The millionaire’s orotund manner made him come across as arrogant.
+  - When the president visits with the automotive workers, he tries to be one of the guys by avoiding the use of orotund dialogue.
+  - The blogger does not write in an orotund style because he wants his articles to appeal to the general public.
+  - Because the politician made an orotund speech about his wealthy upbringing, he lost favor with the middle class voters.
+
+
+
+* [[https://wordsinasentence.com/oscillate-in-a-sentence/][Oscillate]]
+
+  =to swing back and forth=
+
+  - Though you cannot see it, sound waves constantly oscillate as they travel through the air.
+  - The pendulum oscillated side to side, making it difficult for the man to focus on anything but the clock.
+  - To aide with his hypnosis, the hypnotists oscillated a pocket watch in front of his patient.
+  - As a demonstration, the science teacher placed a string on top of a speaker so his students could watch it oscillate.
+  - As a politician, it is expected that he will sometimes oscillate on his policy, changing his stance as new evidence is presented.
+  - Watching the readings from the earthquake, the scientist could easily see the intensity oscillate.
+  - The musician watched the metronome oscillate back and forth, using it to keep himself from playing too quickly.
+
+
+
+* [[https://wordsinasentence.com/osmosis-in-a-sentence/][Osmosis]]
+
+  =the capability to comprehend things without exertion=
+
+  - Because Gail never studies but always does well on exams, she must learn through osmosis.
+  - It seems as though Helen absorbs information through osmosis because she understands everything after hearing it only once.
+  - Since Matt has never taken piano lessons but plays like a professional pianist, everyone assumes he acquired the skill through osmosis.
+  - Ann must have gained her knowledge by way of osmosis because she skipped school almost every day.
+
+
+
+* [[https://wordsinasentence.com/ostensible-in-a-sentence/][Ostensible]]
+
+  =appearing as such but not necessarily so=
+
+  - Your ostensible prank has done a lot of damage, and now you must face the consequences of your actions.
+  - While Jerry is the ostensible author of this amendment, there is some question of who actually deserves credit for the idea.
+  - While the ostensible destination of our trip sounded appealing, I was dreading the long drive it would take to get there.
+  - In this neighborhood, George is the ostensible authority on native plants for landscaping.
+  - The ostensible cause of the breakdown seems to be that someone has tampered with the gas tank.
+  - As the ostensible Alpha male, Sandulf led the pack through the mountains in search of food and water.
+  - Gary’s ostensible purpose for calling his mother was to see how she was doing, but she soon figured out that he needed money again.
+
+
+
+
+* [[https://wordsinasentence.com/otiose-in-a-sentence/][Otiose]]
+
+  =not useful=
+
+  - Attempting to get Beth to change her mind is otiose because she is totally inflexible.
+  - It’s otiose to spend so much on catering when few people have responded to the invitation.
+  - While reading Hank’s column, the editor deleted the second paragraph because he found it otiose and unnecessary.
+  - It is otiose to put a tiny bandage on a wide open wound.
+
+
+
+* [[https://wordsinasentence.com/outfox-in-a-sentence/][Outfox]]
+
+  =to con or trick someone using keen and smart ways=
+
+  - Using his wit and finesse, the veteran defense attorney was able to outfox any lead witness into saying incriminating information about themselves.
+  - Usually politicians spend their careers trying to outfox their opponents with colorful stories, false promises and believable lies to get the people to vote for them.
+  - Timothy began to outfox his parents by coming home right before curfew and then escaping back out his window to rejoin his friends.
+  - Scammers will intentionally target the elderly in order to outfox them by having them send money to a fictional charity.
+
+
+
+* [[https://wordsinasentence.com/outlandish-in-a-sentence/][Outlandish]]
+
+  =very unusual=
+
+  - Jim’s outlandish plan to get money involves robbing a bank with water guns.
+  - Can you believe the outlandish rapper wants to run for president?
+  - When the boy was asked about his report, he created an outlandish story about aliens stealing his work.
+  - The male clown looked outlandish in the party dress.
+
+
+
+* [[https://wordsinasentence.com/outset-in-a-sentence/][Outset]]
+
+  =at the start of something=
+
+  - Every character at the outset of the book was fully developed so that the reader knew everything about the characters prior to the plot.
+  - At the outset of the training process, the safety rules were explicitly stated so that no one would get hurt.
+  - Since the doctor discovered the cancer during the outset of its stage, the person would fully recover.
+  - Tasks were distributed during the outset of the project so that everyone knew exactly what they had to do.
+
+
+
+
+* [[https://wordsinasentence.com/overhaul-in-a-sentence/][Overhaul]]
+
+  =to assess and replace with something better or newer=
+
+  - After the Bolsheviks assassinated the Romanovs, they began an overhaul of the Russian government and completely rewrote the laws.
+  - The baker spent several thousand dollars on the complete overhaul of all of his outdated kitchen appliances and replaced them with the latest models.
+  - When Dalia broke up with her boyfriend, she did a massive overhaul of their entire apartment and threw away everything that reminded her of her ex.
+  - After more than half of her class failed their exam, the teacher reevaluated her teaching methods and started a complete overhaul of every worksheet and assignment.
+
+
+
+* [[https://wordsinasentence.com/overture-in-a-sentence/][Overture]]
+
+  =a piece of music played at the beginning of an opera or musical play=
+
+  - When he heard the overture begin to play, the actor immediately became nervous.
+  - The conductor led the band through the overture of The Wizard of Oz.
+  - The music class was given the honor of creating an overture for the commencement ceremony.
+  - Wanting to add a new song to their repertoire, the violinist studied an overture.
+
+
+
+* [[https://wordsinasentence.com/overweening-in-a-sentence/][Overweening]]
+
+  =arrogant; conceited=
+
+  - Ever since Jim won the contest, he has been overweening and acting as though he is the smartest kid on the planet.
+  - The overweening professor laughed at his students when they asked what he felt were stupid questions.
+  - Because Al was overweening about his intelligence, he thought he could pass the test without studying.
+  - Bragging about your numerous victories makes you seem a bit overweening.
+
+
+
+* [[https://wordsinasentence.com/oxidize-in-a-sentence/][Oxidize]]
+
+  =to merge with oxygen such as in the process of rusting or burning=
+
+  - If you leave your bike in the rain, it will oxidize and begin to rust.
+  - Even if the silver tray starts to oxidize, you can use polish to cover up the blemish.
+  - Untainted potassium will oxidize rapidly when it is exposed to air.
+  - The metal roof will oxidize after a few years and turn an unpleasant shade of green.
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
