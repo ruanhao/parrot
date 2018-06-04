@@ -1,0 +1,409 @@
+#+TITLE:     N
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/naivete-in-a-sentence/][Naiveté]]
+
+  =the state of being innocent=
+
+  - Danielle’s naiveté allowed her to foolishly believe the stranger would repay the money she loaned him.
+  - If it were not for the naiveté of some senior citizens, many crooks would not earn a living.
+  - The sneaky porn producer preyed on the naiveté of young girls by promising them fame for favors.
+  - Smugglers rely on the naiveté of inexperienced travellers to get their goods through customs.
+
+
+
+* [[https://wordsinasentence.com/nebulous-in-a-sentence/][Nebulous]]
+
+  =Unclear, vague; not clearly defined=
+
+  - It was not difficult to realize her answer to the question was nebulous.
+  - Scientists are not certain why nebulous gas balls rotate around the planet.
+  - After the accident, his memories were quite nebulous.
+  - Beauty is a nebulous term until it is defined by the beholder.
+  - While the driving teacher thought his instructions were clear, the students found them to be nebulous.
+  - Before the man drifted into unconsciousness, he voiced nebulous words about a hidden treasure.
+  - In the Bible, there are many quotes about nebulous figures coming down from heaven.
+
+
+
+* [[https://wordsinasentence.com/negligent-in-a-sentence/][Negligent]]
+
+  =careless; irresponsible=
+
+  - I felt negligent for leaving Jean’s toddler alone in the car.
+  - Rick failed to keep an eye on his young daughter, and the jury found him negligent.
+  - The negligent driver swerved at the last second, avoiding a collision.
+  - By failing to lock the door, Calvin was deemed negligent.
+
+
+
+* [[https://wordsinasentence.com/negligible-in-a-sentence/][Negligible]]
+
+  =too small to be of importance=
+
+  - Since the price difference between the generic item and the brand item is negligible, I will buy the brand product.
+  - Because Jill lost only a negligible amount of weight using the diet drug, she sent the product back for a refund.
+  - While it appeared we were stuck in travel for hours, the time was negligible and only delayed our arrival by fifteen minutes.
+  - What are the odds the rip in my stocking will remain negligible and go unnoticed by my coworkers?
+  - Since Frank’s share of the company is negligible, he receives very little return on his investment.
+  - Danielle cannot expect to pass her chemistry test if she only spends a negligible amount of time studying.
+  - Because Jake’s knowledge of French is negligible, he will utilize the services of a translator during his business trip to Paris.
+
+
+
+* [[https://wordsinasentence.com/nocturnal-in-a-sentence/][Nocturnal]]
+
+  =taking place at night=
+
+  - Bats are nocturnal creatures because they tend to be more active during the night hours.
+  - Because I sleep all night, I do not consider myself to be a nocturnal person.
+  - Jim is a nocturnal hunter who prefers to do his hunting in the evening.
+  - Whenever Kate is awakened by a noise at night, she has to remember the presence of her nocturnal cat.
+  - The festival’s nocturnal activities will begin at sunset.
+  - Because Eric and Grace are having a nocturnal wedding, they will exchange vows on Saturday evening at nine o’clock.
+  - The soldiers wear night-vision goggles during nocturnal missions.
+
+
+
+* [[https://wordsinasentence.com/noisome-in-a-sentence/][Noisome]]
+
+  =disgusting in smell=
+
+  - The dog’s noisome odor is making me physically ill.
+  - As soon as the police arrived on the scene, they became aware of the noisome odor of a gas leak.
+  - Janice refuses to ride in her boyfriend’s car until he cleans it with something that will eliminate the noisome smell.
+  - When we walked into the restaurant, we were overwhelmed by the noisome odor of old fish.
+  - The student’s noisome prank was so offensive in odor that the entire school had to be evacuated.
+  - As soon as I opened the refrigerator, the noisome scent of bad meat hit my nose.
+  - The homeless man has a noisome odor because he has not showered in months.
+
+
+
+* [[https://wordsinasentence.com/nomadic-in-a-sentence/][Nomadic]]
+
+  =having the life of a drifter=
+
+  - Because my husband is a long distance truck driver, his days are very nomadic.
+  - The nomadic tribe moved their camp several times a year.
+  - When I worked on the food truck, I felt I had a nomadic existence because the truck was constantly moving.
+  - John is a nomadic blues singer who goes from bar to bar in hopes of being discovered by a music producer.
+  - Since Jason does not like to travel, he would not enjoy the nomadic lifestyle of a circus performer.
+  - The nomadic con artist moves often so the authorities will not catch him.
+  - As a substitute teacher in a large school district, Helen has a nomadic schedule that puts her at a different school every day.
+
+
+
+* [[https://wordsinasentence.com/noncommittal-in-a-sentence/][Noncommittal]]
+
+  =displaying no sign of emotion or opinion=
+
+  - Since my mother is noncommittal about buying me new sneakers, I will ask my adoring father to buy the shoes for me.
+  - The real estate agent was disappointed when the couple seemed noncommittal about buying the house.
+  - When Roger saw Rachel’s noncommittal expression to his marriage proposal, he was overcome by distress.
+  - The unfriendly desk clerk was noncommittal about when my room would be ready.
+  - Before I went to my first football game and enjoyed myself, I was noncommittal on the subject of the sport.
+  - The student was not sure how to take his teacher’s noncommittal response to his request for a homework extension.
+  - Until the test results come in, the doctor is going to remain noncommittal on his patient’s diagnosis.
+
+
+
+* [[https://wordsinasentence.com/nonconformist-in-a-sentence/][Nonconformist]]
+
+  =not conforming to established customs etc=
+
+  - The nonconformist farmer loves to wear his overalls to important meetings.
+  - My nonconformist mentality rebels against wearing a suit and tie to work.
+  - My dad grew up as a nonconformist, beating to his own drum.
+  - Gertrude’s nonconformist paintings don’t follow the trends of today.
+
+
+
+* [[https://wordsinasentence.com/nonentity-in-a-sentence/][Nonentity]]
+
+  =a person who is not important=
+
+  - The celebrity cut in front of me like I was a nonentity.
+  - While the pizza maker was once a nonentity who made pizzas in his garage, he now owns over two hundred pizza stores.
+  - Sometimes the famous actress will dress incognito so she can be a nonentity and go unnoticed at the mall.
+  - When the nonentity called the bookstore about carrying her novel, she was told the bookstore only stocked books from well-known writers.
+
+
+
+* [[https://wordsinasentence.com/nonplussed-in-a-sentence/][Nonplussed]]
+
+  =confused about how to behave or respond=
+
+  - When the politician was questioned about his position on a tough issue, he appeared nonplussed and took a long time to respond to the reporter.
+  - The embarrassed foster child was nonplussed when his classmates asked about his parents.
+  - While our host and hostess argued during dinner, my wife and I were nonplussed and not sure of whether or not to intervene.
+  - The famous actor became angry and appeared nonplussed when the interviewer questioned him about his ex-wife.
+  - When the chief of police learned he was about to be arrested, he became nonplussed and refused to answer any questions.
+  - Jane is a shy girl who always feels nonplussed at social events.
+  - Even the experienced doctor was nonplussed when he saw the patient with a chainsaw in his skull.
+
+
+
+* [[https://wordsinasentence.com/nonsensical-in-a-sentence/][Nonsensical]]
+
+  =without sense; ridiculous; foolish=
+
+  - The children were singing nonsensical songs about imaginary characters.
+  - We knew he was sleepwalking when he began speaking nonsensical sentences.
+  - The testimony was nonsensical, leading detectives to believe that the suspect was lying.
+  - My observant and silly nephew has many nonsensical ideas about how the world works.
+
+
+
+* [[https://wordsinasentence.com/notoriety-in-a-sentence/][Notoriety]]
+
+  =being known for something bad=
+
+  - The notoriety of violence in the downtown area keeps many tourists from visiting that part of the city.
+  - Because of John’s notoriety for being a mean drunk, he is rarely invited to parties where alcohol is served.
+  - The restaurant’s notoriety for its low health department score has led to a huge decline in sales.
+  - When people heard the notoriety surrounding the romance novel, they bought the book to see if it really was as naughty as rumored.
+  - Can you believe my conservative mother’s notoriety as a teenager stemmed from her involvement in a gang?
+  - Even though the politician was acquitted of all charges, his career was ended by the notoriety of the trial.
+  - The resort earned its notoriety by being the place where the president was caught in bed with his mistress.
+
+
+
+* [[https://wordsinasentence.com/nadir-in-a-sentence/][Nadir]]
+
+  =point of greatest adversity or despair; all-time low; rock-bottom=
+
+  - Even though we thought we had reached our nadir and would fail to meet the project deadline, we were still able to complete the work on time.
+  - Since the relationship between the two warring nations has reached its nadir, world leaders are greatly concerned about the risk of nuclear war.
+  - Because employees are terribly worried about losing their positions, company morale has reached a nadir.
+  - The automobile manufacturer’s nadir was reached when the group announced the recall of two million faulty vehicles.
+  - Even at the recession’s nadir, most of the lower income families were still having difficulty paying their bills.
+  - The announcement of the impeachment caused the president’s popularity to fall to its nadir.
+  - When the speaker discussed how being homeless was his nadir yet the same situation that inspired him to change his life, I too knew I could turn my lowest point into something positive.
+
+
+
+* [[https://wordsinasentence.com/nascent-in-a-sentence/][Nascent]]
+
+  =recently formed or started=
+
+  - Online dating has gone from a nascent idea to an established concept that helps millions of people find love.
+  - Although our nonprofit organization is nascent, we have already raised over a half a million dollars in four months.
+  - The obstetrician said the nascent embryo is too small to see right now.
+  - Since the nascent restaurant has only been open for two weeks, it does not have printed copies of its menu yet.
+
+
+
+* [[https://wordsinasentence.com/natal-in-a-sentence/][Natal]]
+
+  =associated with a birth=
+
+  - I consider Smithfield to be my natal home because I was born there thirty years ago.
+  - Because of recent medical advances, doctors have been able to decrease the natal death rate by saving more premature infants.
+  - Jane wants to give birth at St. Francis because she knows the hospital has one of the best natal units in the country.
+  - If the infant has poor natal health, it may stay in the hospital for up to two weeks after its birth.
+
+
+
+* [[https://wordsinasentence.com/necessitous-in-a-sentence/][Necessitous]]
+
+  =deprived and poverty-stricken=
+
+  - The necessitous circumstances surrounding the flood victims became evidence when we saw all of the destruction.
+  - Walking down the street, the necessitous puppy’s tongue hung low and his bones were showing through his skin.
+  - Appreciation was shown from the necessitous man when shelter and food was made available to him.
+  - Since the mother could not afford formula, her necessitous baby was growing thinner and thinner.
+
+
+
+* [[https://wordsinasentence.com/nefarious-in-a-sentence/][Nefarious]]
+
+  =very evil and wicked=
+
+  - How nefarious of you to fling dog crap on my car!
+  - The nefarious September 11th attacks did not weaken America.
+  - One man employed his nefarious scheme to hack into people's computers and steal bank account information.
+  - We originally thought that John was going to pull nefarious April Fool's Day pranks—but surprisingly, nothing bad happened.
+  - To call that handicapped woman names is not only mean, but it is nefarious.
+  - As vile as robbers are, no criminal is more nefarious than a killer.
+  - Nefarious best describes The Grinch.
+
+
+
+* [[https://wordsinasentence.com/nemesis-in-a-sentence/][Nemesis]]
+
+  =an enemy who is constantly causing problems=
+
+  - Kara was not happy when her nemesis won the contest.
+  - As soon as Kurt saw his nemesis, he became enraged.
+  - In the film, the superhero vowed to catch his nemesis before he wrecked havoc on the planet.
+  - My nemesis was determined to ruin my chance for promotion at work.
+
+
+
+* [[https://wordsinasentence.com/neologism-in-a-sentence/][Neologism]]
+
+  =a new term or phrase recently added to a person or group’s vocabulary=
+
+  - The neologism became so popular it was added to most dictionaries.
+  - As the teacher listened to the students chatting among themselves, she was confused by a neologism she heard repeatedly.
+  - The neologism was widely spoken after a rapper mentioned it in a hit song.
+  - After a number of months, the neologism turned into a commonly used phrase.
+
+
+
+* [[https://wordsinasentence.com/neophyte-in-a-sentence/][Neophyte]]
+
+  =someone who is just learning to do something=
+
+  - Because I have very little computer experience, I am a neophyte when it comes to working with most software programs.
+  - Since this is my daughter’s first swim lesson, she is definitely a neophyte in the sport.
+  - Because Jack had no experience with the financial markets, everyone on the trading team considered him to be a neophyte.
+  - Even the best golfer in the world was once a neophyte at the sport of golf.
+  - One could easily recognize the neophyte fisherman by all of the mistakes he was making.
+  - Although Alan was not a neophyte skier, there was still much he needed to learn.
+  - All neophyte swimmers will work on their techniques in the shallow end of the pool.
+
+
+
+* [[https://wordsinasentence.com/nettle-in-a-sentence/][Nettle]]
+
+  =to cause someone to become annoyed or angry=
+
+  - My brother will often nettle me by reading my diary.
+  - If you nettle a bee, you should be prepared to run.
+  - My employee’s habit of coming in to work late is starting to nettle me.
+  - Although Elaine tried to nettle me by describing her great date with my ex-boyfriend, I did not let her comments bother me.
+
+
+
+* [[https://wordsinasentence.com/niggle-in-a-sentence/][Niggle]]
+
+  =to cause minor but continuous irritation or anxiety=
+
+  - Something decided to niggle at me for the duration of the day, but even though it continued to bother me I couldn’t remember what it was.
+  - I had an ant bite that continued to niggle me throughout the day, but thankfully it was nothing more than a minor irritant.
+  - The high-pitched voice of the teacher never fails to niggle me, but I always tell myself that it could be worse.
+  - Something that is small and agitating will niggle you, but unless it really hurts you probably will be able to more or less ignore it.
+
+
+
+
+* [[https://wordsinasentence.com/nimble-in-a-sentence/][Nimble]]
+
+  =quick in action or comprehension=
+
+  - The overweight police officer could not catch the nimble suspect.
+  - Even though Grandma Helen is in her nineties, she still has the nimble mind of a young woman.
+  - The nimble hamster enjoyed running on his wheel.
+  - Because Amy is not nimble in math, she often goes to school early to get extra help from the teacher.
+
+
+
+* [[https://wordsinasentence.com/nominal-in-a-sentence/][Nominal]]
+
+  =incredibly small=
+
+  - The court gave me a nominal award that did not cover the cost of my car repairs.
+  - Despite his immense wealth, Frank is a selfish man who gives a nominal amount to charities each year.
+  - Jim did not get a lot of job applicants because he offered only a nominal salary to his employees.
+  - Fortunately, I have a credit card with only a nominal interest rate.
+  - There is a nominal fee added to the ticket price of all 3D movies.
+  - With my coupons, my groceries cost me a nominal amount this week.
+  - I need only a nominal amount of gasoline to start my lawnmower.
+
+
+
+* [[https://wordsinasentence.com/nonplussed-in-a-sentence/][Nonplussed]]
+
+  =confused about how to behave or respond=
+
+  - When the politician was questioned about his position on a tough issue, he appeared nonplussed and took a long time to respond to the reporter.
+  - The embarrassed foster child was nonplussed when his classmates asked about his parents.
+  - While our host and hostess argued during dinner, my wife and I were nonplussed and not sure of whether or not to intervene.
+  - The famous actor became angry and appeared nonplussed when the interviewer questioned him about his ex-wife.
+  - When the chief of police learned he was about to be arrested, he became nonplussed and refused to answer any questions.
+  - Jane is a shy girl who always feels nonplussed at social events.
+  - Even the experienced doctor was nonplussed when he saw the patient with a chainsaw in his skull.
+
+
+
+* [[https://wordsinasentence.com/nostrum-in-a-sentence/][Nostrum]]
+
+  =a plan or remedy that is unlikely to work=
+
+  - Although my sister is not a doctor, she thinks she can cure any illness and is quick to suggest a nostrum to her friends.
+  - Marie wanted to lose weight so badly she bought the diet nostrum even after reading the drug’s bad reviews.
+  - To get rid of an unsightly rash, Phil was even willing to try a nostrum recommended by his crazy uncle.
+  - Does garlic actually cure colds or is this remedy simply another nostrum?
+
+
+
+* [[https://wordsinasentence.com/noxious-in-a-sentence/][Noxious]]
+
+  =harmful=
+
+  - Besides being annoying, the mosquito is a noxious insect that can carry and transmit a number of potentially fatal diseases.
+  - When I made the mistake of asking my wife what that noxious smell was, it turned out to be dinner, which I ate with my happy face.
+  - You can avoid getting sick so often by frequently washing your hands to eliminate noxious bacteria and viruses.
+  - Although I am spending as much time as I can in my garden, I’m still having trouble keeping the noxious weeds from completely taking over.
+  - Because Alan is a dedicated couch potato, he considers any form of exercise to be a noxious activity that is harmful to his health.
+  - While Rhonda packed for her cruise, she was blissfully unaware of the noxious microbes that were attacking her immune system.
+  - Even though many snakes are not the noxious type, a lot of people are terrified of anything that slithers or hisses.
+
+
+
+* [[https://wordsinasentence.com/nugatory-in-a-sentence/][Nugatory]]
+
+  =having no worth or value; useless=
+
+  - Jim’s nugatory comments contributed nothing to the class discussion.
+  - Because my stamp collection is nugatory in value, I am not losing anything by throwing it in the trash.
+  - Buying the pass was nugatory since we still had to wait over an hour to get into the attraction.
+  - Since Janice does not have a vehicle, she knows car insurance is a nugatory investment.
+
+
+
+* [[https://wordsinasentence.com/numinous-in-a-sentence/][Numinous]]
+
+  =displaying a holy or sacred characteristics=
+
+  - After months of digging at the ancient burial site, an archaeologist uncovered a numinous artifact from the civilization’s ceremonial chamber.
+  - Speaking in tongues and worshipping for many hours, the numinous stranger walked around town praying for anyone who asked.
+  - Despite the Pope’s numinous appearance, his wealth and power over the citizens made him seem less righteous.
+  - Conducted in a church, many hymns were sung and prayers were cited during the numinous wedding ceremony.
+
+
+
+* [[https://wordsinasentence.com/numismatist-in-a-sentence/][Numismatist]]
+
+  =a professional coin or medal collector=
+
+  - To find out the true value of his coin collection, the man sought an accredited numismatist.
+  - Gold coins and bars lined the collection vault of the proud numismatist.
+  - A numismatist was hired by the museum to help with the gallery’s vast assortment of coins and medals.
+  - The rare four dollar U.S. coin was verified as legitimate by a numismatist who was familiar with various coins.
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
