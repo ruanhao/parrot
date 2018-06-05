@@ -1,0 +1,636 @@
+#+TITLE:     L
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/labile-in-a-sentence/][Labile]]
+
+  =easily or frequently changed=
+
+  - My body’s response to dairy products is labile and usually hurts worse when I exercise after consumption.
+  - Some of the tribe’s customs were labile, while others are never changed and are followed to the t.
+  - Emotionally labile patients are not given stimulants since they tend to can cause moods to shift dramatically.
+  - The labile currency can be changed out easily when visiting a different country.
+
+
+
+
+* [[https://wordsinasentence.com/laceration-in-a-sentence/][Laceration]]
+
+  =an irregular open wound caused by a blunt impact to soft tissue=
+
+  - Because the laceration was so deep and ugly, Dick was rushed to the emergency room by an ambulance.
+  - Joe suffered a laceration to his right temple when he was tossed off of his bike.
+  - After examining Jennifer’s hand from every angle, the nurse said that the laceration would heal by itself and that stitches were unnecessary.
+  - Linda’s foot laceration was the result of a fall that occurred at her place of work, which explains why she sued her employer.
+
+
+
+* [[https://wordsinasentence.com/lachrymose-in-a-sentence/][Lachrymose]]
+
+  =easily brought to tears=
+
+  - After her husband died, my aunt became a lachrymose woman who couldn’t stop crying.
+  - I do not enjoy watching sad movies with my lachrymose wife because she is way too sensitive.
+  - When I watch television shows about people dying from cancer, I become very lachrymose.
+  - The pictures of the dead children made everyone lachrymose and sad.
+  - As James watched his daughter marry the man of her dreams, he became lachrymose and had to hold in his tears.
+  - The funeral home was filled with lachrymose mourners.
+  - After my sister lost the writing contest, she was lachrymose and in need of a hug.
+
+
+
+* [[https://wordsinasentence.com/lackluster-in-a-sentence/][Lackluster]]
+
+  =lacking brilliance and shine; dull; not exceptional; not worthy of special merit, attention, or interest=
+
+  - Since she noticed that the response she was getting on the dating website was rather lackluster, Beth decided to spice up her profile and post a better photo.
+  - After having played the same role onstage for over a year, Joel had nothing new to bring to the character, and critics noted that his performance had become lackluster.
+  - In spite of heavy advertising, the new product only achieved disappointing, lackluster sales.
+  - Even though her name is Violet, she makes a very lackluster effort at keeping up with her gardening, and now there are weeds where there used to be beautiful flowers.
+  - Because Cole was such a lackluster host, we decided to leave the party and go celebrate somewhere else.
+  - It finally rained, but not until the farmers had already taken in the most lackluster harvest in decades.
+  - Compared to the profits of the previous two years, this year’s company report indicated lackluster earnings.
+
+
+
+* [[https://wordsinasentence.com/lair-in-a-sentence/][Lair]]
+
+  =a place inhabited by a wild animal, often a cave or a hole in the ground=
+
+  - After stalking a sheep and ripping it to pieces, the tiger dragged its fresh kill to its lair.
+  - Sticking her hand into a hole which she chanced upon in the wilderness, Lisa recoiled in horror when she felt the body of some reptile asleep in its lair.
+  - Stumbling across a lair teeming with wild animals, Brian froze in terror.
+  - The lion slumbered peacefully in its lair when it was suddenly awoken by the sounds of gunshots, infuriating the beast.
+
+
+
+* [[https://wordsinasentence.com/lambaste-in-a-sentence/][Lambaste]]
+
+  =to criticize someone harshly=
+
+  - Even with its success, harsh party leaders continued to lambaste the plan for healthcare reform.
+  - The rude shopper continued to lambaste the sales clerk for not moving quick enough.
+  - As if complaining wasn’t enough, the young woman’s mother-in-law made an effort to lambaste her regarding her cooking and her housecleaning skills.
+  - Trying to change his overly critical ways, the dater promised the matchmaker that he would not lambaste his date over small errors.
+
+
+
+* [[https://wordsinasentence.com/lamentable-in-a-sentence/][Lamentable]]
+
+  =worthy of criticism or regret=
+
+  - Few events are as lamentable as an attack on innocent people by terrorists.
+  - When Ana turned down Ted’s invite to the dance, her lamentable choice meant she had to sit home alone.
+  - It is lamentable that today’s youth seem to have no respect for the police.
+  - While mental health awareness has increased, the stigma that comes with having a mental disorder is still lamentable.
+
+
+  - Because Freddy posted an uncomplimentary lampoon of his boss on his Facebook page, he soon found himself looking for new employment.
+  - Sam wrote a harsh lampoon of the mayor and sent it to the newspaper, but the editor refused to publish it.
+  - Ronnie maintains a popular blog that is basically a lampoon of the week’s television shows.
+  - For the past few decades, the writers of “Saturday Night Live” have written one lampoon after another at the expense of whichever politicians happened to be in the news at the time.
+  - In that kingdom, any subject who was foolish enough to publicly lampoon the king would be punished by having his tongue cut out of his mouth.
+  - As a satirical writer for the newspaper, Jeff is always on the lookout for fresh targets to lampoon in his column.
+  - Back in the 1970s, “The Dean Martin Show” began a practice of using celebrity roasts to lampoon entertainers, and they became popular form of entertainment that continues today.
+
+
+
+* Lampoon
+
+  - Because Freddy posted an uncomplimentary lampoon of his boss on his Facebook page, he soon found himself looking for new employment.
+  - Sam wrote a harsh lampoon of the mayor and sent it to the newspaper, but the editor refused to publish it.
+  - Ronnie maintains a popular blog that is basically a lampoon of the week’s television shows.
+  - For the past few decades, the writers of “Saturday Night Live” have written one lampoon after another at the expense of whichever politicians happened to be in the news at the time.
+  - In that kingdom, any subject who was foolish enough to publicly lampoon the king would be punished by having his tongue cut out of his mouth.
+  - As a satirical writer for the newspaper, Jeff is always on the lookout for fresh targets to lampoon in his column.
+  - Back in the 1970s, “The Dean Martin Show” began a practice of using celebrity roasts to lampoon entertainers, and they became popular form of entertainment that continues today.
+
+
+
+
+* [[https://wordsinasentence.com/languid-in-a-sentence/][Languid]]
+
+  =very slow and relaxed=
+
+  - I always get my rest when I take a languid cruise vacation.
+  - After a stressful day of work, I am going to enjoy a languid walk through the quiet park.
+  - Because I enjoy a laidback pace, I enjoy living on the island which has a languid environment.
+  - The dance required the veteran ballerina to make the complex turns at a languid but seductive speed.
+  - Although Helen ate too much at dinner, she did not feel languid afterwards and was able to enjoy a quick run through the neighborhood.
+  - I took pleasure in the languid attentions of the hairdresser as she gently washed my hair.
+  - Because Jamie was too languid to leave the beach with her friends, she ended up missing her own birthday party.
+
+
+
+* [[https://wordsinasentence.com/languish-in-a-sentence/][Languish]]
+
+  =to be or become weak or dull; lose strength or vigor; fail to make progress or be successful=
+
+  - If Congress allows the budget bill to languish on the shelf, then the country will find itself in a financial crisis.
+  - While I don’t normally enjoy being out in the sun, if I have to languish somewhere hot all day, I choose Hawaii.
+  - When the judge sentences the murderer, I hope he gives him a lifetime to languish in prison.
+  - Are you going to languish in bed all Spring Break or do you plan on going outside and enjoying the sunlight?
+  - Since business is in short demand, the mortgage companies have started to wonder how much longer the housing market will continue to languish.
+  - Rather than sponsor a bill he finds objectionable, the majority leader will allow this one to languish on a pile in his office.
+  - After being dumped by her boyfriend, my daughter did nothing but languish on her bed.
+
+
+
+* [[https://wordsinasentence.com/languor-in-a-sentence/][Languor]]
+
+  =weariness or exhaustion=
+
+  - If you do not drink enough water, you will become dehydrated and fall into a state of languor.
+  - The doctor could not identify the cause of the languor that kept Bess exhausted all day.
+  - When the runner felt the languor threaten to deter her, she dug down and found the energy to complete the race.
+  - The dark circles under Pam’s eyes expressed the languor she felt.
+  - Even though the rescue workers were extremely exhausted, they ignored their languor and continued to search for bodies in the debris.
+  - Symptoms of the virus include fever, diarrhea, abdominal pain, and a feeling of languor that keeps one extremely tired.
+  - After a difficult eight-hour trek, the hikers quickly fell asleep in languor.
+
+
+
+* [[https://wordsinasentence.com/lanky-in-a-sentence/][Lanky]]
+
+  =awkwardly tall and skinny=
+
+  - Long-limbed and lanky, it was hard for the man to fit inside the compact car.
+  - His lanky appearance made him socially awkward but a beast on the basketball court.
+  - The lanky boy’s physique seemed to be all arms and legs.
+  - Lanky and lean, the girl’s parents were surprised by her height since they were both 5’6.
+
+
+
+* [[https://wordsinasentence.com/lapse-in-a-sentence/][Lapse]]
+
+  =A temporary failure; a slip=
+
+  - His lapse in judgement led him to fall behind in his studies.
+  - Without sleep, you are likely to have a lapse in reason, being unable to think clearly.
+  - If you want to quit smoking, you cannot have a lapse and return to your old habit.
+  - Even if you just commit one crime, that single lapse in character can land you in jail.
+  - Giving into temptation, he let himself lapse back into old habits.
+  - A surgeon cannot afford to have a lapse in his skills, as it could cost a patient’s life.
+  - Though he had been insured previously, his lapse in life insurance coverage meant he was uninsured at death.
+
+
+
+* [[https://wordsinasentence.com/largesse-in-a-sentence/][Largesse]]
+
+  =generous acts of giving gifts or money to a large number of people=
+
+  - Because of the millionaire’s largesse, twenty underprivileged graduates now have college scholarships.
+  - An activist for the poor, Phillip is well-known for his largesse which helps many in need.
+  - If it were not for the largesse of Diana’s charity, many people in the city would go hungry.
+  - When I was in need, I benefited from the largesse of an anonymous donor.
+  - Even before he won the lottery, Albert performed acts of largesse within the homeless community.
+  - Government largesse should not be given to greedy corporations who take advantage of consumers.
+  - Although I am glad my grandmother is a generous person, her largesse has almost put her in the poor house.
+
+
+
+
+* [[https://wordsinasentence.com/lassitude-in-a-sentence/][Lassitude]]
+
+  =tiredness and a lack of energy=
+
+  - After the long race, Jack experienced a feeling of lassitude.
+  - This morning, lassitude is preventing me from getting out of bed.
+  - When my doctor asked me to describe my symptoms, my main complaint was lassitude since I had very little energy.
+  - The stress at work and the stress in her marriage caused Liza to experience an extreme amount of lassitude which left her exhausted.
+  - Since I had been feeling exhausted for several weeks, I started taking vitamins to cure my lassitude.
+  - When Sarah’s anger left, all that remained inside of her was lassitude and the desire to fall asleep.
+  - After finishing her exams, Danielle hoped to conquer her lassitude by drinking an energy drink.
+
+
+
+* [[https://wordsinasentence.com/latent-in-a-sentence/][Latent]]
+
+  =existing or present but concealed or inactive=
+
+  - The detective asked the lab technician to search the room for latent fingerprints.
+  - If Janet is anything like her mother, she will show a latent skill for singing when she reaches her teenage years.
+  - The latent tension between the two brothers came to a head when the older brother punched his sibling in the face.
+  - Hopefully the music retreat will allow me to find the latent talents inside of me.
+  - When the builders dug into the ground, they discovered a latent source of oil.
+  - The doctor does not know why the infection remained latent in your body for so long without revealing any symptoms.
+  - With the art expert’s assistance, I was able to see the painter’s latent pattern of hiding birds in every picture.
+
+
+
+* [[https://wordsinasentence.com/lateral-in-a-sentence/][Lateral]]
+
+  =of or pertaining to the side=
+
+  - A beam runs along the top of the bridge, offering lateral support to the structure.
+  - Instead of jumping up and down, I placed a pile of books under both ends of a pole and jumped in a lateral direction.
+  - Jack threw a lateral pass in the final seconds of the fourth quarter, which made no sense because it did not advance them toward the end zone.
+  - Diane’s boss said that instead of promoting her, she would undergo a lateral repositioning, meaning that her new work would remain equivalent to the old.
+
+
+
+* [[https://wordsinasentence.com/lattice-in-a-sentence/][Lattice]]
+
+  =crisscross or diamond pattern with spaces in-between=
+
+  - I pierced through the wooden lattice, splitting the diamond pattern in two.
+  - The lattice on top of the apple pie is filled with cherries.
+  - The window is covered by a lattice composed of oak and cherry wood.
+  - Roy peeked through the lattice, widening the holes for a better view.
+
+
+
+* [[https://wordsinasentence.com/leery-in-a-sentence/][Leery]]
+
+  =suspicious or guarded=
+
+  - The dog was leery of the man with the large stick.
+  - If you are leery of going into the old house alone, you should have a male friend accompany you.
+  - In this day and age, computer viruses are everywhere so people should be leery of emails from strangers.
+  - Be leery of those too good to be true hotel offers because they are often timeshare scams.
+  - Many people are leery of selling their homes because of the poor real estate market.
+  - Because Jim is a recovering drug addict, he is leery of taking any medicine that has not been prescribed by his doctor.
+  - Heather and Pete were leery of the nanny candidate who could not provide them with real references.
+
+
+
+* [[https://wordsinasentence.com/leniency-in-a-sentence/][Leniency]]
+
+  =quality of mercy or forgiveness=
+
+  - Despite his history of violent, the judge decided to grant him leniency due to his quick admission of guilt.
+  - Because he agreed to expose his supplier, the drug dealer was granted leniency in his sentencing.
+  - Though they claim to be strict, the teachers often exercise leniency for those who normally behave.
+  - Though not known for her leniency, the principle allowed the students misconduct to go unpunished.
+  - Since he had no history of priors, the thief begged the judge for some leniency.
+  - When the judge is in a good mood, he is often known to show leniency.
+  - In spite of his friendly demeanor, the enforcer showed no leniency, punishing the offender to the fullest extent.
+
+
+
+
+
+* [[https://wordsinasentence.com/levee-in-a-sentence/][Levee]]
+
+  =an embankment built to stop a waterway from flooding=
+
+  - Rushing water broke the levee, flowing over the embankment and flooding the land that the wall was supposed to protect.
+  - A levee was created out of dirt and sandbags to keep creeping water from the Mississippi from flooding the fields.
+  - The tall levee wall served as a protector and kept the strong waves from eroding away much of the coastland.
+  - Inspecting the levee, government officials checked to see if the embankment was strong enough to hold the swelling river.
+
+
+
+* [[https://wordsinasentence.com/levy-in-a-sentence/][Levy]]
+
+  =to impose (a tax or fine)=
+
+  - All countries that I am aware of maintain that the government has a right to levy taxes on its citizens.
+  - The Presidential candidate promised to levy a tax on foreign production in an effort to stimulate American manufacturing.
+  - When the governor decided to levy additional fees on tobacco products, smokers took to the streets in protest.
+  - The cops levy additional fines on motorists that are caught speeding near public schools, because many children walk there.
+
+
+
+* [[https://wordsinasentence.com/lexicon-in-a-sentence/][Lexicon]]
+
+  =terminology geared to a particular topic or specific group of people=
+
+  - In the first year of law school, we learned a large number of words that became the basics of our legal lexicon.
+  - It is hard to understand what teenagers say because their lexicon is constantly changing.
+  - Since I am not a software engineer, I could not understand the lexicon used by the programmers who joined me at my table in the cafeteria.
+  - Rappers often create new words their fans use as lexicon in their own conversations.
+
+
+
+* [[https://wordsinasentence.com/liability-in-a-sentence/][Liability]]
+
+  =something or someone that creates a disadvantage or financial burden=
+
+  - Since my baby’s daddy is not paying his child support, the government is going to deduct the liability from his paycheck each week.
+  - Kate studied hard in high school so she would not have to deal with the liability that accompanied accepting a student loan.
+  - After losing his job, John realized he could not afford the liability that came along with buying a new car.
+  - My team member’s incompetence makes him a liability to our squad.
+
+
+
+* Libel
+  - I told Troy that I would sue him for libel if he posted that embarrassing picture of us on his Facebook page.
+  - Although no one really believes them, the things she wrote about me in her book are pure libel.
+  - If we didn’t have laws against libel, anyone could fall victim to malicious stories about them in print or on the internet.
+  - Because the character in the story was obviously not based on her, the former movie star was basically laughed out of court when the judge determined that she had no grounds for libel.
+  - As a writer for a tabloid, Frank keeps an attorney on retainer because he is always likely to libel some celebrity or politician just to sell newspapers.
+  - When her ex-husband chose to libel her name and reputation in a tell-all book, Irene decided to sue him for all he was worth.
+  - The girls wanted revenge against the volleyball coach for punishing them, so they wrote an editorial to libel her in the school newspaper.
+
+
+
+* [[https://wordsinasentence.com/liberality-in-a-sentence/][Liberality]]
+
+  =possessing the characteristics of someone who is generous and gives freely=
+
+  - J.K. Rowling shows great liberality to the poor and often donates several thousands of dollars to the charities each year.
+  - The Michaels family always showed their liberality every Sunday when they made huge donations to the church.
+  - The wealthy young man always treated his friends with liberality and gave them money whenever they needed it.
+  - With the combined liberality of his family and friends, Brandon was able to purchase his first car and start a government internship in Washington, D.C.
+
+
+
+* [[https://wordsinasentence.com/liberty-in-a-sentence/][Liberty]]
+
+  =the freedom to do and act as one pleases=
+
+  - Fighting for their liberty, the men could not wait to be free from the King of England.
+  - The slaves escaped to the north and cherished the liberty and freedom found there.
+  - Because she was at liberty to do what she wanted, the rich woman decided to nap all day long.
+  - Citizens in that country do not have the liberty to carry guns or weapons.
+
+
+
+* [[https://wordsinasentence.com/licentious-meaning-in-a-sentence/][Licentious]]
+
+  =lacking moral discipline or ignoring legal restraint, especially in sexual conduct=
+
+  - It is assumed that pagan festivals once involved many licentious activities, including a number of sexual games.
+  - After she became part of a wild crowd, the young girl engaged in licentious acts which shamed her religious family.
+  - Even before she became a prostitute, Hazel was considered a licentious woman who lacked morals.
+  - Tom is licentious and has no regard for morality or the law.
+  - After being warned about his lewd and licentious behavior, my nephew continued to misbehave and got suspended from school.
+  - As a religious institute of learning, we cannot tolerate any kind of licentious conduct.
+  - A devout Christian, Henry knew having a licentious lifestyle would not earn him a place in heaven.
+
+
+
+* [[https://wordsinasentence.com/licit-in-a-sentence/][Licit]]
+
+  =lawful; not forbidden=
+
+  - Although he did not agree with her choices, she was over 21 and he could not stop her licit drinking.
+  - The licit drug was prescribed by her pharmacist but caused several unwanted side effects.
+  - Though smoking marijuana is illegal in most of the United States, action is being taken across the country to make the drug licit and permissible to use.
+  - The licit window tint passed inspection, however; the emissions test was failed.
+
+
+* [[https://wordsinasentence.com/ligneous-in-a-sentence/][Ligneous]]
+
+  =woody; looking like wood.=
+
+  - The ligneous chest of drawers looked like it was made of solid wood but was really particle board.
+  - My father doesn’t like the look of ligneous houses, but my mother is fond of homes made out of wood.
+  - During the camping trip, the Boy Scouts looked for sticks and other ligneous matter to start a fire.
+  - The first little pig built his house out of straw while the second searched for ligneous materials in the woods.
+
+
+
+* [[https://wordsinasentence.com/limbo-in-a-sentence/][Limbo]]
+
+  =being in a lost or unknown position=
+
+  - That has created a limbo in terms of how the military deals with gender-specific policies.
+  - She is in limbo regarding the selling of her home, but she feels confident everything will go through.
+  - Stuck in limbo, I cannot decide if I want to stay home or go to a friend’s party tonight.
+  - With statewide cuts to school funding and projected low enrollment, many school districts are in limbo.
+
+
+
+* [[https://wordsinasentence.com/limn-in-a-sentence/][Limn]]
+
+  =to represent in painting or words=
+
+  - The painter is known to limn pictures of his lovers on oil canvases.
+  - Several master artisans were asked to limn detailed pictures for the fire station, but only a few masterpieces were created.
+  - The writer tried to limn his childhood events into shorts stories, but he had trouble with the plots.
+  - Through his poems, the author was able to limn his feelings about love lost.
+
+
+
+* [[https://wordsinasentence.com/liquidate-in-a-sentence/][Liquidate]]
+
+  =to pay off debts using assets=
+
+  - The judge ordered the business owner to liquidate in order to pay his liabilities.
+  - If the company decides to liquidate to settle its debts, its stock value will fall because of the ensuing decrease in assets.
+  - The studio must liquidate many of its assets to discharge obligations associated with its recent box office bomb.
+  - Because the creditors want payment on months’ old debts, they are pressuring the car manufacturer to liquidate.
+
+
+
+
+* [[https://wordsinasentence.com/lithe-in-a-sentence/][Lithe]]
+
+  =gracefully flexible, and often accompanied by being thin and long=
+
+  - While Corinne has the lithe, agile body that would be perfect for gymnastics, she is too tall to manage some of the events.
+  - In one lithe movement, he swept her into his arms and began to waltz her around the room.
+  - With a graceful bow of its lithe neck, the swan glided under the low bridge and out of sight.
+  - With lithe, quick hands, the pickpocket worked his way through the crowd collecting wallets from the unsuspecting tourists.
+  - As she waited for her music to begin, the figure skater formed her arms and legs into a lithe arrangement that resembled an opening blossom.
+  - Lithe and stealthy, the cat crept soundlessly toward the unsuspecting sparrow.
+  - Marcia sent her daughter to modeling school in the hope that she would develop a more graceful, lithe way of walking.
+
+
+
+* [[https://wordsinasentence.com/locution-in-a-sentence/][Locution]]
+
+  =a word or phrase commonly used in particular situations=
+
+  - Although “LOL” is internet slang for “laughing out loud”, it has become an actual locution among the teenage girls in our school.
+  - When we travel cross-country we love to pay attention to the changing locution of the locals.
+  - Robert’s speech is saturated with the locution of old classic movies, which have assimilated so thoroughly into his personality.
+  - Having spent three years living abroad, Kevin felt so good to be back home listening to the rhythms of the American locution.
+
+
+
+* [[https://wordsinasentence.com/loiter-in-a-sentence/][Loiter]]
+
+  =to stick around without any real purpose=
+
+  - If you loiter in the parking lot for hours, the police will ask you to leave the premises.
+  - Students will not loiter on campus if they really hate school.
+  - Since James arrived at the doctor’s office an hour early, he decided to loiter outside for a while.
+  - Fans often loiter in hotel lobbies to see if they can catch a glimpse of their favorite celebrities.
+
+
+
+* [[https://wordsinasentence.com/lope-in-a-sentence/][Lope]]
+
+  =to take a longer footstep while running or walking=
+
+  - Sprinters usually will lope in their lanes in order to ensure victory at the finish line of the race.
+  - When the man saw his injured child, he quickened his pace and decided to lope to get to her.
+  - Several horses lope down the field when a sudden loud noise startled them.
+  - Competing against her rival, Mary decided to lope around the track as opposed to taking shorter steps.
+
+
+
+* [[https://wordsinasentence.com/lopsided-in-a-sentence/][Lopsided]]
+
+  =uneven or unbalanced=
+
+  - Not realizing the table was lopsided, the patron placed his drink on it and water went everywhere!
+  - Wiggling back and forth, the lopsided chair distracted the worker from finishing her work.
+  - The lopsided lamp had a bit of charm, although it didn’t sit up straight, it still lit the room.
+  - Try as he might, the would-be carpenter could never build a table that wasn’t lopsided!
+
+
+
+* [[https://wordsinasentence.com/lore-in-a-sentence/][Lore]]
+
+  =information and wisdom gained through tradition=
+
+  - Lore was passed around the campfire in the form of old folktales.
+  - Old wives tales and other lore was used to predict the sex of the baby.
+  - Gaining a bit of lore from the elderly woman, the girl now felt she understood the situation better.
+  - The Native American tribe prided itself on protecting its traditional lore and ability to pass this knowledge down to future generations.
+
+
+
+* [[https://wordsinasentence.com/lout-in-a-sentence/][Lout]]
+
+  =an uncooperative and impolite male=
+
+  - When the neighbors witnessed his cruelty to animals, they informed the police of the actions of the lout.
+  - “Take the lout out of here!” the medieval judge ordered his men to take the criminal immediately to the gallows.
+  - Viewing the violent scene from his window, Alvin yelled at the lout to stop beating the man in the street.
+  - No punishment was severe enough to stop the lout from bullying and picking on weaker students at the school because he would always continue the brutality.
+
+
+
+* [[https://wordsinasentence.com/lubricant-in-a-sentence/][Lubricant]]
+
+  =oil applied to something to reduce friction=
+
+  - Applying excessive amounts of lubricant to the floor caused many customers to slip.
+  - Without a lubricant to reduce the rubbing, the machine gears continued to grind loudly.
+  - Lubricant added to the outside of the racetrack allowed the boy’s toy cars to move much faster.
+  - Oil is a lubricant that can be successfully used to reduce friction in many types of machinery.
+
+
+
+* [[https://wordsinasentence.com/lucre-in-a-sentence/][Lucre]]
+
+  =money or profit gained illegally or immorally=
+
+  - Hiding the lucre in many different accounts, the mobsters kept a watchful eye on their funds.
+  - Drug lucre was laundered so that the authorities could not seize it during the bust.
+  - Gangsters searched the house for hidden lucre but they only found a measly hundred dollars.
+  - Without any lucre or significant cash flow, the hustlers had no way to re-up their product.
+
+
+
+* [[https://wordsinasentence.com/lucubration-in-a-sentence/][Lucubration]]
+
+  =the process of applying oil or a similar substance to make something run more smoothly=
+
+  - The farmer applied oil to the tractor gears and explained that proper lubrication is required to keep his machine running.
+  - Lubrication of the woman’s swollen finger was the only thing that helped her slip her ring off.
+  - The sun-bather believed in lubrication and always oiled her body up with oil before relaxing in the sun.
+  - All that squeaky door needs is a little oil-based lubrication to smooth its hinges.
+
+
+
+
+* [[https://wordsinasentence.com/lukewarm-in-a-sentence/][Lukewarm]]
+
+  =moderately warm; tepid=
+
+  - Disappointed by his lukewarm chicken wings, the diner requested hot ones from the kitchen.
+  - Lukewarm water was added to the baby’s bath to cool it off.
+  - With the sun beating down, the lukewarm water felt cool again the swimmer’s skin.
+  - The chef’s detailed recipe called for lukewarm water, two parts cold and one part boiling.
+
+
+
+* [[https://wordsinasentence.com/lumber-in-a-sentence/][Lumber]]
+
+  =raw cut timber beams=
+
+  - Environmentalists protested the lumberjacks’ actions because they were chopping down all the trees for their lumber.
+  - Once the logging company finished the order, the workers would pile the lumber into a truck headed for the paper mill.
+  - After the trees were chopped down, the logs were sawed, shaped, and sanded to become pieces of lumber.
+  - The product was still considered lumber since it was a raw material, but it would become a wood product when it was transformed into a floorboard.
+
+
+
+* [[https://wordsinasentence.com/luminary-in-a-sentence/][Luminary]]
+
+  =a person who influences or motivates other people=
+
+  - Because Dr. Swanson is a luminary in the medical profession, he recently had a surgical procedure named after him.
+  - The luminary will be honored for his contributions to society at a gala next week.
+  - Since the pope is a luminary who wants to make the world a better place, he deserves to win the Nobel Peace Prize.
+  - Thousands of people have requested tickets to hear the luminary speak about serving others.
+
+
+* [[https://wordsinasentence.com/lump-in-a-sentence/][Lump]]
+
+  =a swelling under the skin, often caused by infection or disease=
+
+  - A lump on the patient’s neck meant that his cancer may have returned.
+  - After removing the lump from James’s neck, his doctor said that he would send the swollen tissue off for further testing.
+  - Angie hit her head on the dresser and a small lump began to form.
+  - Since gaining weight, the young woman hates the flabby lump that has appeared under her chin.
+
+
+
+* [[https://wordsinasentence.com/lurch-in-a-sentence/][Lurch]]
+
+  =to move around in a sneaky manner=
+
+  - The cat will lurch around the corner to spy on the sleeping dog.
+  - Thanks to the security footage, the police were able to watch the burglar lurch outside the jewelry store.
+  - The sleepy security guard did not see the mental patients lurch out of the hospital.
+  - From the van, the spies watched their cohort lurch around the building before scaling up the wall.
+
+
+
+* [[https://wordsinasentence.com/lurk-in-a-sentence/][Lurk]]
+
+  =to hide from sight until the optimal moment in order to attack=
+
+  - Hungry lions lurk in the tall grass and wait for unsuspecting gazelles to cross their path.
+  - Soldiers lurk in the darkness, waiting for any sign of moment from enemy forces.
+  - Dangers lurk in the shadows, biding their time before ambushing the unsuspecting victim.
+  - The jewel thieves lurk in the closet, waiting for the museum to close for the night before they make their move.
+
+
+
+* [[https://wordsinasentence.com/luscious-in-a-sentence/][Luscious]]
+
+  =extremely appealing in smell, taste, or appearance=
+
+  - I wanted to take a bite of the luscious apple.
+  - Because the bread smelled luscious, Tom decided to go into the bakery.
+  - Jim couldn't stop staring at the girl’s luscious lips.
+  - The banana split is making me hungry because it looks so luscious in the advertisement.
+
+
+
+* [[https://wordsinasentence.com/luster-in-a-sentence/][Luster]]
+
+  =shine, polish or sparkle=
+
+  - The luster of the holiday lights shone brightly on the freshly fallen snow.
+  - In order to restore its luster, the man rubbed the brassy finish of the old tool.
+  - The hairstylist promised that the conditioner would add luster to the client’s hair.
+  - The shopkeeper admired the luster of the fine silver in his collection.
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
