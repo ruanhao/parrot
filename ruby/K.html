@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>K</title>
+<!-- 2018-06-05 Tue 21:08 -->
+<meta  charset="utf-8">
+<meta  name="generator" content="Org-mode">
+<meta  name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">K</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Keen</a></li>
+<li><a href="#sec-2">2. Kaleidoscope</a></li>
+<li><a href="#sec-3">3. Ken</a></li>
+<li><a href="#sec-4">4. Kindle</a></li>
+<li><a href="#sec-5">5. Knack</a></li>
+<li><a href="#sec-6">6. Knead</a></li>
+<li><a href="#sec-7">7. Knit</a></li>
+<li><a href="#sec-8">8. Knotty</a></li>
+<li><a href="#sec-9">9. Kudos</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Keen</a></li>
+<li><a href="#sec-2">2. Kaleidoscope</a></li>
+<li><a href="#sec-3">3. Ken</a></li>
+<li><a href="#sec-4">4. Kindle</a></li>
+<li><a href="#sec-5">5. Knack</a></li>
+<li><a href="#sec-6">6. Knead</a></li>
+<li><a href="#sec-7">7. Knit</a></li>
+<li><a href="#sec-8">8. Knotty</a></li>
+<li><a href="#sec-9">9. Kudos</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Author</td>
+<td class="left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="left">Date</td>
+<td class="left">2018-06-05 21:08:02</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/keen-in-a-sentence/">Keen</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>strong or highly developed</code>
+</p>
+
+<ul class="org-ul">
+<li>His keen sense of observation allowed him to notice that his keys were not where he had left them.
+</li>
+<li>The keen wind felt like knives against his skin, causing him to shield his face and he moved forward.
+</li>
+<li>A dog has an extremely keen sense of smell.
+</li>
+<li>You need a keen sense of observation to do well as a private investigator.
+</li>
+<li>Her keen wits allowed her to escape from the maze in record time.
+</li>
+<li>The detectives keen senses allowed him obtain the truth from his suspect.
+</li>
+<li>The keen sentry noticed the troops trying to sneak into the city.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/kaleidoscope-in-a-sentence/">Kaleidoscope</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>changing colors, shapes, and/or patterns in a general vicinity</code>
+</p>
+
+<ul class="org-ul">
+<li>Clouds are a kaleidoscope of shapes, sizes, patterns, and colors.
+</li>
+<li>The setting sun painted a kaleidoscope of reds, purples, and oranges in broad strokes and thin spirals across the sky.
+</li>
+<li>During summer camp, the little girl learned how to make a kaleidoscope by putting confetti, scraps of paper, and glitter into a hollow tube and shaking it up to see new patterns.
+</li>
+<li>The little boy peered through the lens of the kaleidoscope  and marveled at the changing colors and patterns inside.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/ken-in-a-sentence/">Ken</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>awareness or understanding</code>
+</p>
+
+<ul class="org-ul">
+<li>After further reading the novel, the ken of the antagonist’s motive to harm the protagonist became clear.
+</li>
+<li>As toddlers’ ken of their bodies increases over time, they are able to phsycially function more freely.
+</li>
+<li>Due to the ken of her poor health, the doctor advised the woman to eat healthier foods and exercise more.
+</li>
+<li>Dan’s ken of reality was diminishing which lead the family to have him seek therapy at an institution.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/kindle-in-a-sentence/">Kindle</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>to motivate or inspire</code>
+</p>
+
+<ul class="org-ul">
+<li>The mother hoped the prison inmate's speech would kindle her son to change his rebellious ways.
+</li>
+<li>For homework, we were asked to bring in newspaper articles to kindle class discussion.
+</li>
+<li>The purpose of the technology summer camp is to kindle young people to create their own technological wonders.
+</li>
+<li>As a sociology teacher, my job is to kindle my students’ interests in the cultures of the world.
+</li>
+<li>Jeff hoped the candles and wine would kindle his wife to relax after a rough day of work.
+</li>
+<li>Because Heather’s parents want to kindle her to make better grades, they are offering to pay well for top marks.
+</li>
+<li>The teacher gave us several project examples to kindle our creativity.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/knack-in-a-sentence/">Knack</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>a natural ability</code>
+</p>
+
+<ul class="org-ul">
+<li>Cooking from scratch with no recipe was a knack for Rosie and her mother.
+</li>
+<li>Although she had never been formally trained, the beautician had a knack for styling hair.
+</li>
+<li>The matchmaker had a knack for setting up long-lasting couples.
+</li>
+<li>The woman’s knack for decorating earned her a job offer with a well-known company.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/knead-in-a-sentence/">Knead</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>to work and press into a mass, usually with the hands</code>
+</p>
+
+<ul class="org-ul">
+<li>I watched Frank knead dough as he pushed down and out, stretching the dough flatter and flatter.
+</li>
+<li>The first time I attempted to knead dough, the kitchen looked like a hurricane had hit with flour spread out all over the kitchen floor.
+</li>
+<li>Frank the baker can knead dough in his bakery at such high speeds that people line up every day to watch.
+</li>
+<li>Sally attempted to knead a large amount of dough with her hands, but after only ten minutes was completely wiped out from the strain.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/knit-in-a-sentence/">Knit</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>to closely join or combine things/people together</code>
+</p>
+
+<ul class="org-ul">
+<li>The bride and groom hope that their marriage would knit their families together and end the feud once and for all.
+</li>
+<li>Grandmother loves to knit and creates specially sewn blankets for all of her grandchildren.
+</li>
+<li>The tragedy seemed to knit the community together, making the families there closer than they were before.
+</li>
+<li>After her husband’s affair, the heartbroken wife looked for ways to knit her fractured marriage back together.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/knotty-in-a-sentence/">Knotty</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>full of knots, tangles, or lumps</code>
+</p>
+
+<ul class="org-ul">
+<li>The girl’s hair was always knotty and hard to comb out after she went swimming.
+</li>
+<li>Full of lumps, the knotty part of a beet can be used to create a special juice.
+</li>
+<li>Because her breast felt knotty, the woman made an appointment with her doctor to check out the lumps.
+</li>
+<li>When she is nervous, the singer’s stomach always feels like a knotty mass of tangled nerves.
+</li>
+</ul>
+
+
+<ul class="org-ul">
+<li>I don't have the required know-how to build a website, but I am willing to learn.
+</li>
+<li>There are millions of job openings in America, yet schools aren't graduating students with the know-how to fill them.
+</li>
+<li>His knowledge and leadership equipped him with the necessary know-how to develop new strategies for growth and improving the company culture
+</li>
+<li>Without the skill and know-how of the wine-growers and wine-makers there would be no great wines.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/kudos-in-a-sentence/">Kudos</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>praise for one’s accomplishments</code>
+</p>
+
+<ul class="org-ul">
+<li>Although the movie director received kudos from the critics, the public hated the film.
+</li>
+<li>After Jake won the race, we all gave him kudos for a job well done.
+</li>
+<li>The person who wrote that wonderful speech is worthy of kudos.
+</li>
+<li>When the football team won the state championship, they were given kudos during a celebratory pep rally.
+</li>
+</ul>
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>

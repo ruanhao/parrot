@@ -1,0 +1,134 @@
+#+TITLE:     K
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+* [[https://wordsinasentence.com/keen-in-a-sentence/][Keen]]
+
+  =strong or highly developed=
+
+  - His keen sense of observation allowed him to notice that his keys were not where he had left them.
+  - The keen wind felt like knives against his skin, causing him to shield his face and he moved forward.
+  - A dog has an extremely keen sense of smell.
+  - You need a keen sense of observation to do well as a private investigator.
+  - Her keen wits allowed her to escape from the maze in record time.
+  - The detectives keen senses allowed him obtain the truth from his suspect.
+  - The keen sentry noticed the troops trying to sneak into the city.
+
+
+
+* [[https://wordsinasentence.com/kaleidoscope-in-a-sentence/][Kaleidoscope]]
+
+  =changing colors, shapes, and/or patterns in a general vicinity=
+
+  - Clouds are a kaleidoscope of shapes, sizes, patterns, and colors.
+  - The setting sun painted a kaleidoscope of reds, purples, and oranges in broad strokes and thin spirals across the sky.
+  - During summer camp, the little girl learned how to make a kaleidoscope by putting confetti, scraps of paper, and glitter into a hollow tube and shaking it up to see new patterns.
+  - The little boy peered through the lens of the kaleidoscope  and marveled at the changing colors and patterns inside.
+
+
+
+* [[https://wordsinasentence.com/ken-in-a-sentence/][Ken]]
+
+  =awareness or understanding=
+
+  - After further reading the novel, the ken of the antagonist’s motive to harm the protagonist became clear.
+  - As toddlers’ ken of their bodies increases over time, they are able to phsycially function more freely.
+  - Due to the ken of her poor health, the doctor advised the woman to eat healthier foods and exercise more.
+  - Dan’s ken of reality was diminishing which lead the family to have him seek therapy at an institution.
+
+
+
+* [[https://wordsinasentence.com/kindle-in-a-sentence/][Kindle]]
+
+  =to motivate or inspire=
+
+  - The mother hoped the prison inmate's speech would kindle her son to change his rebellious ways.
+  - For homework, we were asked to bring in newspaper articles to kindle class discussion.
+  - The purpose of the technology summer camp is to kindle young people to create their own technological wonders.
+  - As a sociology teacher, my job is to kindle my students’ interests in the cultures of the world.
+  - Jeff hoped the candles and wine would kindle his wife to relax after a rough day of work.
+  - Because Heather’s parents want to kindle her to make better grades, they are offering to pay well for top marks.
+  - The teacher gave us several project examples to kindle our creativity.
+
+
+
+* [[https://wordsinasentence.com/knack-in-a-sentence/][Knack]]
+
+  =a natural ability=
+
+  - Cooking from scratch with no recipe was a knack for Rosie and her mother.
+  - Although she had never been formally trained, the beautician had a knack for styling hair.
+  - The matchmaker had a knack for setting up long-lasting couples.
+  - The woman’s knack for decorating earned her a job offer with a well-known company.
+
+
+
+* [[https://wordsinasentence.com/knead-in-a-sentence/][Knead]]
+
+  =to work and press into a mass, usually with the hands=
+
+  - I watched Frank knead dough as he pushed down and out, stretching the dough flatter and flatter.
+  - The first time I attempted to knead dough, the kitchen looked like a hurricane had hit with flour spread out all over the kitchen floor.
+  - Frank the baker can knead dough in his bakery at such high speeds that people line up every day to watch.
+  - Sally attempted to knead a large amount of dough with her hands, but after only ten minutes was completely wiped out from the strain.
+
+
+
+* [[https://wordsinasentence.com/knit-in-a-sentence/][Knit]]
+
+  =to closely join or combine things/people together=
+
+  - The bride and groom hope that their marriage would knit their families together and end the feud once and for all.
+  - Grandmother loves to knit and creates specially sewn blankets for all of her grandchildren.
+  - The tragedy seemed to knit the community together, making the families there closer than they were before.
+  - After her husband’s affair, the heartbroken wife looked for ways to knit her fractured marriage back together.
+
+
+
+* [[https://wordsinasentence.com/knotty-in-a-sentence/][Knotty]]
+
+  =full of knots, tangles, or lumps=
+
+  - The girl’s hair was always knotty and hard to comb out after she went swimming.
+  - Full of lumps, the knotty part of a beet can be used to create a special juice.
+  - Because her breast felt knotty, the woman made an appointment with her doctor to check out the lumps.
+  - When she is nervous, the singer’s stomach always feels like a knotty mass of tangled nerves.
+
+
+  - I don't have the required know-how to build a website, but I am willing to learn.
+  - There are millions of job openings in America, yet schools aren't graduating students with the know-how to fill them.
+  - His knowledge and leadership equipped him with the necessary know-how to develop new strategies for growth and improving the company culture
+  - Without the skill and know-how of the wine-growers and wine-makers there would be no great wines.
+
+
+
+* [[https://wordsinasentence.com/kudos-in-a-sentence/][Kudos]]
+
+  =praise for one’s accomplishments=
+
+  - Although the movie director received kudos from the critics, the public hated the film.
+  - After Jake won the race, we all gave him kudos for a job well done.
+  - The person who wrote that wonderful speech is worthy of kudos.
+  - When the football team won the state championship, they were given kudos during a celebratory pep rally.
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
