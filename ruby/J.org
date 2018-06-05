@@ -1,0 +1,388 @@
+#+TITLE:     J
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+* [[https://wordsinasentence.com/jaded-in-a-sentence/][Jaded]]
+
+  =depleted of excitement and enthusiasm, usually after having had too much of something=
+
+  - After being on an airplane for nearly twenty-four hours, Henry is a bit jaded and never wants to travel again.
+  - Ever since I started working late every night, I have become more and more jaded by the thought of becoming a manager with this company.
+  - The world is so jaded by violence that people are starting to feel unsafe outside their homes.
+  - Because I have eaten nothing but noodles for the past two weeks, my taste buds are a bit jaded.
+  - A number of people have stopped watching television because they have become jaded by the presence of reality shows on every channel.
+  - Because many children play video games regularly, they are often jaded by violence in the real world.
+  - The celebrity was jaded by the media after been in the public eye for over thirty years.
+
+
+
+* [[https://wordsinasentence.com/jeopardize-in-a-sentence/][Jeopardize]]
+
+  =to put at risk=
+
+  - Do not jeopardize your good grade by failing to turn in your assignment.
+  - Since I do not want to jeopardize my employment, I always complete my daily goals.
+  - The building of the factory near the lake might jeopardize the water’s ecosystem.
+  - When questioned about the investigation, the detective refused to say anything because he did not want to jeopardize the case.
+  - During his speech, the president vowed he would never jeopardize the country’s safety by cutting the military budget.
+  - James is going to jeopardize his job if he does not start arriving to work on time.
+  - If you do not follow the safety instructions, you will jeopardize your health.
+
+
+
+* [[https://wordsinasentence.com/jest-in-a-sentence/][Jest]]
+
+  =words that are spoken as humor=
+
+  - When confronted by the teacher, the student said his words were in jest and not meant to be taken seriously.
+  - I only spoke in jest so please forgive me for hurting your feelings.
+  - While Jim made the statement in jest, his stern boss did not welcome his inappropriate humor.
+  - My serious father did not appreciate the words I said in jest.
+  - Since we know Mark loves his wife, we take his rude remarks about her in jest.
+  - The strict judge warned the witness about making statements in jest while giving testimony.
+  - When Thad made his remark in jest, he had no idea his coworker would view the joke as sexual harassment.
+
+
+
+* [[https://wordsinasentence.com/jocular-in-a-sentence/][Jocular]]
+
+  =characterized by joking; humorous or playful=
+
+  - The jocular man is known for his funny punchlines.
+  - Her jocular personality always made the customers smile.
+  - You could tell by his serious tone of voice that he wasn't in a jocular mood.
+  - Hoping to ease up the audience, the host tried being a little more jocular by telling jokes.
+  - As jocular as you are, I'm surprised you aren't a Vegas comedian yet!
+  -  I am in a bad mood, so save your jocular 'Your Momma Jokes' for another day!
+  - Cheer up your mother by telling a jocular childhood story.
+
+
+
+* [[https://wordsinasentence.com/jolt-in-a-sentence/][Jolt]]
+
+  =to push or shake abruptly and roughly=
+
+  - We hope that the new stores opening in the downtown will help jolt the economy back to life.
+  - The sudden jolt of electricity shocked Pat back to life as she was being rushed to the hospital.
+  - The alarm sounded at five in the morning, waking me up with a jolt.
+  - Wendy felt a sudden jolt just after she made a right turn onto Brown Street, making her suspect that a tire had blown out.
+
+
+
+* [[https://wordsinasentence.com/jubilant-in-a-sentence/][Jubilant]]
+
+  =filled with joy=
+
+  - I am jubilant to learn that my sister is finally having a baby.
+  - Crissy could not control her jubilant emotions after winning the lottery.
+  - Laughing always puts me in a jubilant mood.
+  - Happy and jubilant as ever, the little boy read off his Christmas wish list to Santa Clause.
+  - Lost for hours, the girl finally made found her way back home, leaving the community cheerful and jubilant.
+  - All I could do was my jubilant dance after finding out that I don't have cancer!
+  - A horror film is suddenly not so scary when you switch in jubilant music.
+
+
+
+* [[https://wordsinasentence.com/judicious-in-a-sentence/][Judicious]]
+
+  =showing intelligence and good judgment=
+
+  - Because of the doctor’s experience, he was a judicious fellow who was well-respected by his colleagues.
+  - The experienced software engineer is judicious when it comes to finding the best way to code a software application.
+  - Without judicious planning, we will not be able to complete the project on time.
+  - Judicious investors will only put their money into stocks which will provide them with hefty profits.
+  - My brother made a judicious decision when he married my wonderful sister-in-law.
+  - In order to properly prepare the lab report, the scientist had to make judicious observations during the experiment.
+  - Running through a crowded store naked is not a good way to show you are a judicious person.
+
+
+
+* [[https://wordsinasentence.com/jumble-in-a-sentence/][Jumble]]
+
+  =a typically messy pile of things=
+
+  - Most teenage boys leave their things in a messy jumble, making their rooms look more like disaster areas than places of clean habitation.
+  - Not willing to sort through the mostly miscellaneous box, I poured its contents into a jumble on the ground so I could see what it contained more easily.
+  - The jumble of papers that fell out of my folder are not completely out of order, with worksheets from all of my classes blending together.
+  - A junkyard is really nothing more than one big jumble of random odds, ends, and garbage, and most of it even ends up in piles.
+
+
+
+* [[https://wordsinasentence.com/juncture-in-a-sentence/][Juncture]]
+
+  =an important point in a process or activity=
+
+  - At this juncture, we are unable to continue with the project because of a lack of funding.
+  - No one can predict who will win the election at this juncture.
+  - After high school, Jacob will be at an important juncture in his life where he must decide between joining the military or going to college.
+  - At what juncture will the prison guards step in and stop the fight?
+  - At this juncture, we can only hope the two countries will reach a settlement that will prevent a war.
+  - As Sarah nears the age of forty, she is reaching a juncture where she must decide whether or not she wants to have children.
+  - When John reaches that juncture where he has lost all his money gambling, he will realize he needs to seek help for his addiction.
+
+
+
+* [[https://wordsinasentence.com/juvenile-in-a-sentence/][Juvenile]]
+
+  =in a manner that is childish and unpleasant or referring to a young person=
+
+  - Cliff may be mayor now, but as a teenager, he was a juvenile delinquent who once spray-painted the police station.
+  - Because I am a vice-president of my company, there is no way I can share such a juvenile presentation with the board.
+  - My forty-year-old brother and his friends are still pulling juvenile pranks on each other.
+  - Will anyone vote for a presidential candidate who resorts to juvenile behaviors like name calling?
+
+
+
+* [[https://wordsinasentence.com/jabber-in-a-sentence/][Jabber]]
+
+  =to talk rapidly, indistinctly, or unintelligibly; to utter gibberish or nonsense=
+
+  - I get nervous when my sister begins to jabber about all the nonsense that happens in her world.
+  - After listening to the radio talk show host jabber about nonsense I switched the dial for some calming music.
+  - When the salesman began to jabber about guitars, I knew that he had no idea what he was talking about because I sold them myself.
+  - I tend to tune out when my friends begin to jabber about scientific stuff which I know they know nothing about.
+
+
+
+* [[https://wordsinasentence.com/jagged-in-a-sentence/][Jagged]]
+
+  =sharp; pointed=
+
+  - Jagged splinters sticking out of the wood stuck inside the barefoot boy’s foot when he stepped on top of the board.
+  - Peering up at the jagged peak, the mountain climber prepared himself for the uneven climb up.
+  - Poor dental care left the points of the man’s teeth rough and jagged.
+  - Rising lines on the display screen showed jagged spikes in the patient’s blood pressure.
+
+
+
+* [[https://wordsinasentence.com/jarring-in-a-sentence/][Jarring]]
+
+  =to be altered or changed usually in an irritating or unbearable way=
+
+  - When the teenager’s jarring music was blasting in the car next to me, I became aware that I would enjoy the silence once he was gone.
+  - Deadly car accidents typically create jarring experiences for the family members of the victims since they suffer such grief due to the loss of a loved one.
+  - Since the boss fired ten people in one day, this jarring action from the administration made all the other employees worry that they might lose their job.
+  - After being attacked by a bear, this jarring encounter left the man scarred and with permanent damage.
+
+
+
+* [[https://wordsinasentence.com/jaundiced-in-a-sentence/][Jaundiced]]
+
+  =tending to dislike, criticize, or resent something=
+
+  - Because she always received terrible customer service, my grandmother was jaundiced against the company.
+  - When she was arrested and falsely accused, my neighbor developed a jaundiced attitude towards the police.
+  - Many people with disabilities were jaundiced against the company because they didn’t hire people with special needs.
+  - The well-known conspiracy theorist was jaundiced against the government.
+
+
+
+* [[https://wordsinasentence.com/jaunt-in-a-sentence/][Jaunt]]
+
+  =a short journey or excursion for pleasure or refreshment=
+
+  - The short jaunt that Janice took around the mountainside resulted in a lengthy search when she failed to return.
+  - We jumped into Gregg’s old jaguar for a fun jaunt through the streets of Milan.
+  - Every evening when Patrick gets home from work, he takes his German Shepherd out for a quick jaunt around the block.
+  - After mapping out exactly where she planned to run, Jessica met up with her boyfriend for a two-mile jaunt.
+
+
+
+* [[https://wordsinasentence.com/jaunty-in-a-sentence/][Jaunty]]
+
+  =expressing cheer and self-assurance=
+
+  - Craig’s bright and jaunty tie put a smile on everyone’s face.
+  - Confident he was about to pick up several women, the playboy walked into the party in a jaunty way.
+  - The jaunty music made everyone feel cheerful.
+  - On the way to his execution, the prisoner strolled in a jaunty fashion and showed no sign of remorse.
+
+
+
+* [[https://wordsinasentence.com/jeer-in-a-sentence/][Jeer]]
+
+  =ridicule, taunt, scoff at=
+
+  - When the basketball bounced off the rim for the second time, Nolan knew that the crowd would probably jeer at him.
+  - Before the assembly, the principal told the student body that anyone who chose to jeer the speaker would be suspended for three days.
+  - If only everyone were as willing to cheer their fellow man as they are to jeer at him, the world would be a much better place.
+  - Although the two wrestlers are good friends when they’re out of the public eye, they jeer each other mercilessly when they are publicizing an upcoming match.
+  - My daughter had some twisted idea that her friends would jeer her if she joined the band, so she let her musical talent go to waste.
+  - If you continue to jeer me for trying exotic recipes now and then, you can do the cooking.
+  - After their disastrous double blind date, John and Richard headed to their favorite bar to jeer each other over a couple of beers.
+
+
+
+* [[https://wordsinasentence.com/jejune-in-a-sentence/][Jejune]]
+
+  =unsophisticated=
+
+  - The billionaire couple refused to eat the jejune dish of chicken wings and tater tots.
+  - Although Evan behaved in a jejune manner at the dinner party, he actually teaches international customs at a school for diplomats.
+  - I am very jejune and refuse to eat anything I cannot spell.
+  - While my peers laughed at my dress and called it jejune, my instructor gave my design the highest grade in the class.
+
+
+* [[https://wordsinasentence.com/jeopardy-in-a-sentence/][Jeopardy]]
+
+  =at risk of loss or harm=
+
+  - If you do not take your medicine, you will put your health in jeopardy.
+  - Do you not care that you are placing your home in jeopardy by making it a part of your gambling wager?
+  - Taking such a financial risk could put your retirement income in jeopardy.
+  - Because the athlete has been arrested twice on domestic abuse charges, his position on the team is now  in jeopardy.
+
+
+
+* [[https://wordsinasentence.com/jettison-in-a-sentence/][Jettison]]
+
+  =to eliminate something=
+
+  - In order to conserve fuel, the pilot was forced to jettison some of his passengers’ suitcases.
+  - The company president’s decision to jettison most of the workforce was made in order to save the business from bankruptcy.
+  - Because the new stroller is not selling well, the company has decided to jettison it from their product line.
+  - Keep the good memories in your heart and jettison the bad ones.
+  - Since the current conduct policy is not showing positive results, the principal has decided to jettison the plan and design a new system.
+  - The pilot will jettison the bombs as soon as the plane is over the target area.
+  - To run a successful hotel, staff members should jettison the idea of simply selling rooms and focus on creating lasting relationships with customers.
+
+
+
+* [[https://wordsinasentence.com/jibe-in-a-sentence/][Jibe]]
+
+  =to agree; harmonize=
+
+  - The findings of the court did not jibe with the testimony of the witness, angering the judge.
+  - When I interview a candidate for a position in my company, I try to find out if he or she will jibe with the others who work in the office.
+  - Our teacher’s style did not jibe well with the students, causing the parent body to request that the school find someone new.
+  - The manager stressed that customer’s perceptions of the deals offered in the store do not always jibe with reality.
+
+
+
+* [[https://wordsinasentence.com/jockey-in-a-sentence/][Jockey]]
+
+  =one who rides racehorses competitively=
+
+  - Jockeys must be brave to ride horses at high speeds in such tight quarters.
+  - The less a jockey weighs, the faster his horse can run.
+  - I cannot be a jockey because horse racing is too dangerous for me.
+  - A horse jockey’s uniform is called “silks” or “colors” and is usually designed by the horse’s owner.
+
+
+
+* [[https://wordsinasentence.com/jocund-in-a-sentence/][Jocund]]
+
+  =in high spirits; cheery=
+
+  - Because Patrick was feeling quite jocund after drinking a few beers, he could not stop smiling.
+  - The jocund song put everyone in a happy frame of mind.
+  - As soon as I walked towards the front door of the luxury hotel, a jocund doorman greeted me with a smile.
+  - The balloons changed the sick little girl’s gloomy mood to a jocund one.
+  - Since Cara always appears to have a jocund outlook on life, she surprised everyone when she mentioned her battle with depression.
+  - The soldiers were jocund as they stepped off the plane and into the arms of their waiting families.
+  - With jocund steps, the defendant exited the courthouse after being found not guilty of all charges.
+
+
+
+* [[https://wordsinasentence.com/jolt-in-a-sentence/][Jolt]]
+
+  =to push or shake abruptly and roughly=
+
+  - We hope that the new stores opening in the downtown will help jolt the economy back to life.
+  - The sudden jolt of electricity shocked Pat back to life as she was being rushed to the hospital.
+  - The alarm sounded at five in the morning, waking me up with a jolt.
+  - Wendy felt a sudden jolt just after she made a right turn onto Brown Street, making her suspect that a tire had blown out.
+
+
+
+* [[https://wordsinasentence.com/jostle-in-a-sentence/][Jostle]]
+
+  =to compete or struggle for something=
+
+  - As soon as the coach makes the announcement, the football players will start to jostle for the position of team captain.
+  - The competing banks jostle to get new customers.
+  - In the cafeteria, the students rush through the lines and jostle to get the best tables near the windows.
+  - The reality show contestants will jostle to win a million dollars.
+  - During the winter, the animals jostle for the limited food resources.
+  - On the battlefield, the knights will jostle for the affections of the king’s daughter.
+  - Whenever the famous actor dines in our restaurant, the servers jostle to see who can wait on him and earn a nice tip.
+
+
+* [[https://wordsinasentence.com/jovial-in-a-sentence/][Jovial]]
+
+  =warm and friendly=
+
+  - Stories describe Santa Claus as a jovial man who gives toys to children.
+  - During the game, the winning team’s fans were jovial and bought drinks for everyone in the bar.
+  - It is hard to make friends if you do not have a jovial personality that sends out welcoming vibes.
+  - Because Janet was not jovial at her party, many guests left early.
+  - The cruise director is a jovial woman who tries to befriend everyone on the ship.
+  - Unlike many actors, Robert is always in a jovial mood and never fails to greet his fans with a warm smile.
+  - The jovial hostess made us feel at home as soon as we walked into the restaurant.
+
+
+
+* [[https://wordsinasentence.com/judicial-review-in-a-sentence/][Judicial review]]
+
+  =a high courts review of a ruling by a lower court or actions of the legislative branch=
+
+  - During the judicial review, the judge considered all of the evidence that had been presented to the lower court judge.
+  - A judicial review was ordered so that the judge could be sure that the foreclosures were carried out legally.
+  - While a high-court judicial review is conducted, the pipeline project will be postponed.
+  - During the judicial review, former cases were cited to help the judge make a decision.
+
+
+
+* [[https://wordsinasentence.com/junction-in-a-sentence/][Junction]]
+
+  =a location where roads or lines intersect or meet=
+
+  - The city’s main interstates meet at the area known as Spaghetti Junction.
+  - In the junction box, you’ll find the interchange where the electric wires cross over each other.
+  - The red light at the junction of Fifth and Main is where the accident occurred.
+  - Since Ann believes in the supernatural, she thinks it’s possible to summon a demon at the junction between the church and the cemetery.
+
+
+
+* [[https://wordsinasentence.com/jurisdiction-in-a-sentence/][Jurisdiction]]
+
+  =the valid power to make official decisions and rulings=
+
+  - The probate court has jurisdiction over the validity of wills.
+  - Since the crime took place in China, the Chinese government has jurisdiction of the case.
+  - Our state police do not have jurisdiction to follow the criminals into another state.
+  - When the federal judge overturned the decision, he cited the lower court's lack of jurisdiction as part of his reasoning.
+
+
+
+* [[https://wordsinasentence.com/juxtaposition-in-a-sentence/][Juxtaposition]]
+
+  =the fact of two things being seen or placed closed together with contrasting effect=
+
+  - The reality clearly shows a cultural juxtaposition between rich people and poor people.
+  - What impressed me most about the song was its juxtaposition of country and classic soul.
+  - Because my husband and I have never had a dish composed of both Mexican and Italian foods, we were eager to see the juxtaposition the waitress would place in front of us.
+  - The director’s latest film deals with the juxtaposition of love and hate and how the two emotions relate to each other.
+  - Even the art critic was shocked by the juxtaposition of the two art styles in one portrait.
+  - The juxtaposition of the comic books next to the philosophical journals made Jim’s library quite unique.
+  - Although I am not a cookie lover, I am intrigued enough by the juxtaposition of the black and white icing to try a Half-Moon cookie.
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
