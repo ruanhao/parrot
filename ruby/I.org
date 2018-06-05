@@ -1,0 +1,2192 @@
+#+TITLE:     I
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+* [[https://wordsinasentence.com/igneous-in-a-sentence/][Igneous]]
+
+  =solidified from lava or magma=
+
+  - After the volcano erupted and lava covered the ground, many igneous rocks were created.
+  - Igneous rocks such as basalt are the after product of a volcanic eruption.
+  - Although all igneous rocks originally stem from volcanic lava, many morph into other types of rocks overtime.
+  - Some igneous rocks are formed from magma that cools and solidifies within the crust of the earth.
+
+* [[https://wordsinasentence.com/ignoble-in-a-sentence/][Ignoble]]
+
+  =not deserving respect; not honorable=
+
+  - Because Frank has a habit of not showing up on time, he has an ignoble reputation as someone who is not very responsible.
+  - The serial killer was buried in an ignoble grave in the back of the cemetery.
+  - As punishment for vandalizing one of the school bathrooms, George received the ignoble task of cleaning all the bathrooms for one week.
+  - Frank was a greedy man who had only ignoble motives when he helped the young heiress.
+  - During his speech, the district attorney promised to rid the city of ignoble police officers guilty of abusing their power.
+  - The ignoble accountant was convicted of stealing money from his firm.
+  - Since the criminal showed no remorse for his ignoble deeds, the judge sentenced him to life in prison.
+
+
+
+* [[https://wordsinasentence.com/ignominious-meaning-in-a-sentence/][Ignominious]]
+
+  =very embarrassing; shameful or disgraceful=
+
+  - When the boxer got knocked out in the first round, everyone knew it was the beginning of an ignominious defeat for him.
+  - Since Charles struck out at bat three times, he is credited as the reason our baseball team suffered such an ignominious loss in the state playoffs.
+  - Because he divorced his wife and later married her sister, Henry has an ignominious reputation among the townspeople.
+  - While our computer teacher was not arrested for stealing school property, she still made an ignominious departure from the building after being interviewed by the police.
+  - The basketball player’s downfall was caused by his ignominious steroid use.
+  - Once upon a time, unwed pregnant women were frowned upon and viewed as ignominious members of society.
+  - After being excommunicated from the church, the priest made an ignominious exit from the building.
+
+
+
+* [[https://wordsinasentence.com/ignominy-in-a-sentence/][Ignominy]]
+
+  =public shame or disgrace=
+
+  - After being confronted about the theft, the official left the room in ignominy.
+  - Our team has to face the ignominy of a long losing streak.
+  - Because he was given a dishonorable discharge from the military, Carl had no choice but to return home in ignominy.
+  - Once upon a time, if you were an unwed mother, you were viewed as a source of ignominy.
+  - The incriminating pictures brought ignominy to the celebrity.
+  - I cannot believe ignominy caused the man to take his own life!
+  - Caleb’s many extra-marital affairs brought ignominy to his wife.
+
+
+
+* [[https://wordsinasentence.com/imbue-in-a-sentence/][Imbue]]
+
+  =to cause to be strongly influenced by a quality or emotion=
+
+  - After the terrorist bombings, the government placed several of the country’s flags at the site of the ruins to imbue patriotism.
+  - The purpose of singing the school song is to imbue school spirit among the students and faculty.
+  - When cinnamon is added to the sweet potato batter, it will imbue the pie with a hint of spice.
+  - The addition of red paint will imbue the painting’s background with an impression of rage that symbolizes the artist’s feelings about government control.
+  - In the movie, the wizard will imbue two wayward travellers with the courage and love they need to pursue happy lives.
+  - Painting the room yellow will imbue the area with a warm and inviting air.
+  - Before the final exam, the teacher gave her students an encouraging talk to imbue them with confidence.
+
+
+
+* [[https://wordsinasentence.com/imitate-in-a-sentence/][Imitate]]
+
+  =to copy or simulate the function of something else=
+
+  - Young children will often attempt to imitate their parents, which is why you shouldn’t do anything you wouldn’t want your child to do while they’re watching.
+  - Many insects imitate more deadly animals in order to scare away predators, such as moths with wing markings reminiscent of owls.
+  - When a TV show has great success in public media, many other producers try to imitate it with a similar product to cash in.
+  - There are many musicians that have tried to imitate the unique sound of artists in the past, though they usually add their own twist as well.
+
+
+
+* [[https://wordsinasentence.com/immaculate-in-a-sentence/][Immaculate]]
+
+  =without any blemish or imperfection=
+
+  - Since I am having guests over for dinner, my house must be cleaned until it is immaculate.
+  - The gardener works seven days a week to keep my lawn immaculate.
+  - When Ginger took her bridal pictures, she looked immaculate in her wedding gown.
+  - The soldier was reprimanded for ruining his immaculate uniform.
+  - With everyone’s help, we were able to pick up all the trash and make the park immaculate.
+  - Since the hotel room was far from immaculate, I called the front desk and asked for a new room.
+  - After the tub was scrubbed for hours, it finally looked immaculate.
+
+
+
+* [[https://wordsinasentence.com/imminent-in-a-sentence/][Imminent]]
+
+  =likely to occur at any moment=
+
+  - When the Secret Service arrived, everyone knew the president’s arrival was imminent.
+  - The hurricane is imminent and has homeowners rushing to board up their windows.
+  - Despite what the scientist said, the volcano eruption is not imminent so do not be concerned!
+  - Some people thought it was funny when the media predicted the imminent death of the drug-addicted celebrity.
+  - Because the swat team just arrived on the scene, it is likely a confrontation between the robbers and the police is imminent.
+  -  Without some type of government funding, the closing of the school is imminent.
+  - Even though Sarah had been bit by a snake, she was not in imminent danger because the snake was not poisonous.
+
+
+
+* [[https://wordsinasentence.com/impair-in-a-sentence/][Impair]]
+
+  =damage or weaken something=
+
+  - Alcohol can greatly impair your judgement.
+  - Certain drugs will impair your depth perception, making it unsafe to drive.
+  - Smoking cigarettes will impair your overall level of health.
+  - A bad diet can impair your ability to perform athletically.
+  - Most sunglasses will slightly impair your depth perception, throwing off your ability to judge distances.
+  - Fear can impair your ability to react properly in an emergency.
+  - Those new pills did nothing but impair his ability to think clearly.
+
+
+
+* [[https://wordsinasentence.com/impart-in-a-sentence/][Impart]]
+
+  =to distribute a portion of something=
+
+  - A teacher’s job is to impart knowledge to her students.
+  - By adding garlic to the spaghetti, the cook hopes to impart flavor to the dish.
+  - Please sit down because the news I am about to impart to you is not pleasant.
+  - Before the current president leaves his position, he will impart many important facts to his successor.
+  - The stain will impart a beautiful brown color to the unfinished wood.
+  - With a few dashes of cumin and cinnamon, the baker will impart mouthwatering flavors to the pie.
+  - The genie will impart three wishes to the one who brings him forth from the bottle.
+
+
+
+* [[https://wordsinasentence.com/impartial-in-a-sentence/][Impartial]]
+
+  =to not offer influence to any side=
+
+  - Since the judge is related to the defendant, it is not possible for him to be impartial during the trial.
+  - The impartial moderator managed the debate and did not show favoritism to either politician.
+  - Was the city council being impartial when it decided to build the sewage plant in the poor neighborhood?
+  - When the contestant did not advance to the next round of the competition, she accused the judges of not being impartial.
+  - There is no way Allison can be an impartial critic when her daughter is performing in the talent show.
+  - As a party hostess, Jill must act impartial towards her guests and not show a preference for any one person.
+  - The impartial ruling decided neither of the parties was at fault for the accident.
+
+
+
+* [[https://wordsinasentence.com/impassive-in-a-sentence/][Impassive]]
+
+  =having, or revealing, no emotion; expressionless=
+
+  - Even though it was very exciting, Jon delivered the news in an impassive voice in the hope that everyone would stay calm.
+  - It’s so difficult to remain impassive when you’re faced with a life or death situation.
+  - The impassive report given by the officer was an extreme understatement of the horror of the accident.
+  - Although robots are well-known for being completely impassive, there are many popular movies and TV shows that depict them as adorable creatures that actually do have feelings.
+  - As the foreman of the jury delivered the verdict, the defendant kept his expression completely impassive so that no one could tell what he was feeling inside.
+  - She tried to be friendly with the newcomer, but she found his impassive stare more than a little disturbing and excused herself  to join her friends.
+  - As the guests gathered in the parlor to meet their host, the impassive housekeeper ignored their clamoring questions as she passed among them with a tray of refreshments.
+
+
+
+* [[https://wordsinasentence.com/impeccable-in-a-sentence/][Impeccable]]
+
+  =perfect in every way=
+
+  - With your impeccable English skills, writing essays should be a cinch.
+  - Your impeccable work ethic and great attention to detail are reasons enough for hiring you.
+  - Impeccable at playing the violin at home as a child, Charles would grow up to orchestrate musicals.
+  - My best friend and I arrived at the same exact time—now that is impeccable timing!
+  - 'Impeccable' is not a human quality as everyone makes mistakes.
+  - Without a scratch, this car is in impeccable condition!
+  - If you have been pulled over for speeding, then your driving record is not impeccable.
+
+
+
+* [[https://wordsinasentence.com/impecunious-in-a-sentence/][Impecunious]]
+
+  =lacking money; penniless=
+
+  - Since Janice grew up in an impecunious household, she knew a great deal about surviving on very little.
+  - Impecunious students commonly find themselves in debt after overindulging in the use of credit cards.
+  - Although Tom and Janice are an impecunious couple who earn very little, they always manage to take a short vacation during the summer.
+  - Plans are being developed to help the impecunious people in the city who are without housing.
+  - Even though the singer earned millions of dollars during her heyday, she was impecunious and homeless when she died.
+  - Although Vincent died an impecunious artist without a penny to his name, his paintings are now highly valued by art collectors.
+  - The impecunious immigrant came to America to earn money to send home to his starving family.
+
+
+
+* [[https://wordsinasentence.com/impede-in-a-sentence/][Impede]]
+
+  =to interfere with or slow the progress of=
+
+  - If you do not eat while you are sick, the lack of nutrients will impede your recovery.
+  - The purpose of the barrier is to impede entry into the museum to prevent overcrowding at the exhibits.
+  - Because I do not want to impede your efforts on this project, I will step away and let someone else handle this difficult task.
+  - The new beverage laws are designed to impede the actions of people who drive under the influence of alcohol.
+  - If we plan the event indoors, the rain will not be able to impede our activities.
+  - Wearing heavy ankle weights will impede your progress as you swim across the ocean.
+  - While economic sanctions may impede trade between the two countries, they will not force either of the nations to do business within our borders.
+
+
+
+* [[https://wordsinasentence.com/impediment-in-a-sentence/][Impediment]]
+
+  =something that interferes with a person’s ability to complete a task=
+
+  - My broken wrist is the impediment preventing me from finishing my new novel.
+  - When Sarah learned Hank’s impediment to their marriage was his current marriage, she immediately ended their relationship.
+  - The impediment that interferes with Gerald’s goal of running a successful diner is the lack of good employees.
+  - In most romantic movies, there is always some sort of impediment that temporarily stops the guy from getting his dream girl.
+
+
+
+* [[https://wordsinasentence.com/impending-in-a-sentence/][Impending]]
+
+  =going to occur; coming=
+
+  - When I refused to pay the fake fortuneteller, she warned me of impending doom in my future.
+  - Sheila hoped Frank’s impending question was not a marriage proposal because she was not in love with him.
+  - Because Jim suffers from anxiety, he frequently has fears of impending disaster.
+  - The emergency alert instructed everyone to prepare for the impending tornado.
+
+
+
+* [[https://wordsinasentence.com/imperative-in-a-sentence/][Imperative]]
+
+  =essential=
+
+  - If you’re serious about getting healthy, it’s imperative that you follow a healthy lifestyle, make the right food choices, and exercise regularly.
+  - The school district’s new policy makes it imperative for every child to be familiar with the escape routes on school buses.
+  - Self-discipline and persistence are two of the imperative qualities to have for anyone who is serious about being successful in life.
+  - The publicist commented that the imperative restrictions placed on the press would only make the public view the celebrity as a spoiled brat.
+  - I’ll tell you what happened in the committee meeting, but it’s imperative that you handle the information discreetly.
+  - If you have a blowout on the highway, it’s imperative that you reduce speed and maintain control without stomping on the brake pedal.
+  - Although it’s not imperative to dress up for the occasion, you should wear something neat and tasteful.
+
+
+
+* [[https://wordsinasentence.com/imperious-in-a-sentence/][Imperious]]
+
+  =domineering; expecting ones' orders to be followed=
+
+  - The principal is an imperious woman who expects to be obeyed.
+  - When Mark got promoted to the rank of captain, he became very imperious.
+  - In an imperious tone, the police officer ordered the driver to step out of the car.
+  - If my son thinks his imperious ways will be tolerated in my home, then he has a lot to learn!
+  - The A-list actress has an imperious air and assumes everyone will heed her every whim.
+  - Although I was sick, my imperious supervisor ordered me in to work.
+  - Because Amy is an imperious person, she has the tendency to tell everyone what to do.
+
+
+
+* [[https://wordsinasentence.com/impermanence-in-a-sentence/][Impermanence]]
+
+  =the state of being temporary=
+
+  - The impermanence of the new the car’s smell caused the woman to buy air fresheners.
+  - His job’s impermanence led the man to seek out new opportunities.
+  - Forgetting weather’s impermanence, the man became depressed after several days of rain.
+  - The impermanence of life made the woman worry about death and what was yet to come.
+
+
+
+* [[https://wordsinasentence.com/impersonal-in-a-sentence/][Impersonal]]
+
+  =having no interest in other people and lacking warmth or emotion; cold=
+
+  - Breaking up with me over text was a very impersonal way to end our relationship.
+  - Considering I was an employee for 12 years, the letter I received letting me know I was fired was impersonal.
+  - My blind date was rather impersonal as he didn’t seem interested in getting to know me.
+  - My good friends were very impersonal towards the other guests at my party, only socializing with one another.
+
+
+
+* [[https://wordsinasentence.com/impersonate-in-a-sentence/][Impersonate]]
+
+  =to deliberately act or appear like someone else=
+
+  - Most people try to impersonate Elvis Presley by wearing a sparkling jumpsuit, dark sunglasses, and jet black hair, in addition to singing one of his songs.
+  - Cassie convinced her friend to impersonate her teacher’s voice on the phone in order to fool her parents into believing that they were speaking to Cassie’s teacher about her grades in school.
+  - A strange man decided to impersonate a police officer so that he could pull over unsuspecting drivers and rob them since they would believe he was a police officer.
+  - Since I could successfully impersonate my boss’s voice over the phone, I decided to call everyone at work and tell them they had the day off as a joke.
+
+
+
+* [[https://wordsinasentence.com/impertinent-in-a-sentence/][Impertinent]]
+
+  =behaving without proper respect; rude=
+
+  - Although she thought she was just being funny, her teacher didn’t agree and sent her to the principal’s office for being impertinent.
+  - While he never intended his remark to be impertinent, he found that a lot of people had been offended by what he said.
+  - Because the young man would only give an impertinent answer to his questions, the attorney decided not to take him on as a client.
+  - While Natalie searched frantically for her mysterious present, Ely just watched from the doorway with an impertinent smirk on his face.
+  - Although Alexis had been enjoying the young man’s company, his impertinent suggestion prompted her to leave the bar.
+  - As the site’s webmaster, it is her job to monitor the online forum for impertinent comments.
+  - If Evan didn’t have such an impertinent attitude with waiters, Alyssa wouldn’t have minded going out to dinner with him.
+
+
+
+* [[https://wordsinasentence.com/imperturbable-in-a-sentence/][Imperturbable]]
+
+  =not disturbed or excited easily=
+
+  - The imperturbable actress carried on with her performance even when her costar forgot his lines.
+  - Surrounded by flames and carrying a small child, the imperturbable fireman kept his cool and found his way out of the burning apartment.
+  -  The imperturbable spy refused to give out secret information during his interrogation.
+  - During the bomb threat, the teacher was imperturbable and did not let her students know how worried she was.
+  - The beauty queen was imperturbable and wore a smile on her face even when members of the press asked about her painful childhood.
+  - During the riots, the police unit stood in a straight line and remained imperturbable throughout the protestor taunts.
+  - The fact the woman appeared imperturbable about her husband’s murder made the detectives suspicious.
+
+
+
+* [[https://wordsinasentence.com/impervious-in-a-sentence/][Impervious]]
+
+  =not allowing something to enter or pass through=
+
+  - Let us hope these thin walls are impervious to the freezing cold tonight!
+  - Since the bank installed an impervious safe, it has not been robbed.
+  - The broken window is not impervious to the rain.
+  - As evidenced by the recent bombings, not even the nation’s capital is impervious to terrorism.
+  - Does wearing the protective clothing during x-rays make your body impervious to radiation?
+  - The chemical treatment makes the fireman’s uniform impervious to flames.
+  - When John drinks too much alcohol, he is impervious to logic.
+
+
+
+* [[https://wordsinasentence.com/impetuous-in-a-sentence/][Impetuous]]
+
+  =acting without thinking—done impulsively; sudden decision=
+
+  - His impetuous behavior landed him in prison.
+  - Because James is only seventeen, he tends to be impetuous at times.
+  - Marrying someone you hardly know is an impetuous decision!
+  - While I may have been impetuous as a teenager, I have become a patient adult.
+  - Even though Warren was rumored to be impetuous, he actually put a great deal of thought into making important decisions.
+  - The author describes the heroine as an impetuous young woman who would do anything to become famous.
+  - When Constance drank too much, she made impetuous choices which often got her into trouble.
+
+
+
+* [[https://wordsinasentence.com/impiety-in-a-sentence/][Impiety]]
+
+  =lack of respect for God=
+
+  - Speaking with impiety of holy things was a crime in the city-state, but few were ever prosecuted.
+  - Admitting his transgression, the man confessed that he once showed impiety in regards to prayer.
+  - With an air of impiety, the woman scoffed at the religious texts which she considered fiction.
+  - Although he was raised in the church, the impiety of the pastor’s son showed in his use of God’s name in vain.
+
+
+
+* [[https://wordsinasentence.com/impolitic-in-a-sentence/][Impolitic]]
+
+  =foolish=
+
+  - I realized it was an impolitic idea to talk on my cell phone and walk through a curvy path in the woods since I am aware of my clumsiness and no sense of direction.
+  - An impolitic decision to text and drive a car at the same time is dangerous because texting could distract you and cause a severe accident.
+  - When the deceased’s cousin wore a bright red outfit with a bright hot pink hat to the funeral, the rest of the family didn’t get upset but figured it was just the cousin’s impolitic way of getting attention.
+  - It is not only an impolitic action to yell fire in a crowded theater, but it could also get you in trouble since it will could cause injuries.
+
+
+
+* [[https://wordsinasentence.com/imponderable-in-a-sentence/][Imponderable]]
+
+  =difficult or impossible to comprehend or evaluate=
+
+  - She wanted to enter the contest but guessing the amount of jelly beans in the barrel was imponderable.
+  - I focused on the imponderable math problem for several hours before I realized that it was unsolvable.
+  - Imponderable at best, the word problem confused even the gifted students.
+  - Asking an imponderable question, the game show host was sure that he had stumped the contestant.
+
+
+* [[https://wordsinasentence.com/imposter-in-a-sentence/][Imposter]]
+
+  =a person who pretends to be someone else in order to trick and deceive people=
+
+  - The imposter mimicked our dad’s voice to perfection.
+  - Bruce is an imposter who deceives others by claiming to be one of their relatives.
+  - I ripped off the imposter's mask, exposing him as a fraud.
+  - Jane is an imposter who always hides her identity.
+
+
+
+* [[https://wordsinasentence.com/imposture-in-a-sentence/][Imposture]]
+
+  =the act of deceiving while using a fake identity=
+
+  - The scam artist’s imposture involved convincing elderly people he could increase their retirement incomes for a small fee.
+  - If the heiress has been taken in by John’s imposture, she may be in danger of losing her fortune to a conman.
+  - William knew if he did not continue his imposture he would be executed for pretending to be the dictator’s long-lost brother.
+  - As soon as the immigration officer saw the fake passport, he knew the traveler was taking part in an imposture.
+
+
+
+* [[https://wordsinasentence.com/impound-in-a-sentence/][Impound]]
+
+  =to remove and keep property by law=
+
+  - After stopping payments on their new car, the bank would impound their car in a secured lot until the couple would pay the overdue amount.
+  - It was likely that the court would decide to impound the important documents from the troubled company after a whistleblower declared the company was lying to its stakeholders.
+  - Rental furniture companies may have to require a payment plan or impound the furniture in their store until the money is compensated.
+  - Fred’s face changed from shock to anger when he received a notice to impound his television set on the basis of a loan repayment.
+
+
+
+* [[https://wordsinasentence.com/impressionable-in-a-sentence/][Impressionable]]
+
+  =swayed easily=
+
+  - It was easy for the older boys to convince the impressionable young boy to shoplift.
+  - According to research, the terrorist organization seeks out impressionable young minds when recruiting members.
+  - Pedophiles are known to look for impressionable children they can easily manipulate.
+  - As a marketing executive, Keith knows the importance of targeting impressionable kids.
+
+
+
+* [[https://wordsinasentence.com/impromptu-in-a-sentence/][Impromptu]]
+
+  =without preparation=
+
+  - I’m not sure how many people will be able to attend the impromptu party.
+  - Because Jane had an impromptu wedding, she didn’t send out invitations.
+  - The singer was more than willing to perform an impromptu song at his friend’s concert.
+  - At the site of the deadly crash, residents have created an impromptu shrine using flowers and teddy bears.
+
+
+
+* [[https://wordsinasentence.com/impropriety-in-a-sentence/][Impropriety]]
+
+  =an inappropriate deed or action=
+
+  - The teacher was arrested for performing a sexual impropriety with a female student.
+  - Soon the committee will decide if the politician committed an impropriety when he accepted money from the lobbyist.
+  - As the head of the internal affairs unit, John was asked to investigate the police chief for an act of impropriety.
+  - Since Bill was running for president, he had to avoid any instances of impropriety that would place him in a bad light.
+  - Sadly, the senator is just the latest public official to be accused of sexual impropriety with an intern.
+  - When the judge learned his impropriety had made the news, he decided to resign from the bench.
+  - Jim’s parents kicked him out of their house when they learned about his behavioral impropriety.
+
+
+
+* [[https://wordsinasentence.com/improvident-in-a-sentence/][Improvident]]
+
+  =not preparing for the financial future; reckless=
+
+  - Jessie handles all of the household financial matters because of his wife’s improvident spending habits.
+  - Because Tom was improvident in his younger years, he now lives on a fixed income.
+  - The improvident loan officer foolishly approved loans for hundreds of applicants with poor credit histories.
+  - As an improvident young woman, Helen never thought about saving for her retirement.
+  - My improvident sister often spends her bill money on clothes and shoes.
+  - Since your income is so low, it would be improvident of you to purchase a new car right now.
+  - John’s improvident decision led him to invest in a business before performing adequate research.
+
+
+
+* [[https://wordsinasentence.com/improvise-in-a-sentence/][Improvise]]
+
+  =to create something as needed=
+
+  - Since I forgot my lines, I tried to improvise the role during the audition.
+  - The miners had to improvise a way out of the cave when the walls collapsed.
+  - When the teleprompter stopped working, the news anchor had to improvise the last portion of the broadcast.
+  - Jane did not have enough eggs for the recipe so she decided to improvise by adding another ingredient.
+
+
+
+* [[https://wordsinasentence.com/imprudent-in-a-sentence/][Imprudent]]
+
+  =quick to act without thoughts of the consequences=
+
+  - Phil’s imprudent turn on the highway caused a six-car accident.
+  - When Ann booked the wedding chapel before receiving the proposal, everyone laughed at her imprudent decision.
+  - Jackson’s imprudent attitude led him to think he could out run the police.
+  - If Danielle does not stop being imprudent, she is going to get in serious legal trouble.
+  - Patty’s imprudent choice to leave her younger sister home alone led her parents to revoke her driving privileges.
+  - Because the wealthy playboy believed his father could get him out of anything, he never worried about his imprudent actions.
+  - The company is looking for employees who carefully consider their options instead of acting in an imprudent manner.
+
+
+
+* [[https://wordsinasentence.com/impudent-in-a-sentence/][Impudent]]
+
+  =very rude; not showing respect for other people=
+
+  - If the panhandler hadn’t been so impudent, I might have given him a couple of bucks.
+  - Even though Mary needed a new vacuum cleaner, the impudent attitude of the sales clerk made her decide to leave the store.
+  - Matt is an impudent scoundrel who doesn’t seem to respect rules or people.
+  - He never admitted that he had eaten the leftover pizza, but I could tell from his impudent smirk that he was the guilty party.
+  - In spite of the incessant stream of impudent questions, Mrs. Brown managed to hold on to her composure and finish the lesson on sex education.
+  - The impudent court jester was able to get away with insulting the royal family when anyone else would have lost their head.
+  - His story was a lot of impudent nonsense, but at least it was entertaining.
+
+
+
+* [[https://wordsinasentence.com/impugn-in-a-sentence/][Impugn]]
+
+  =to attack as false or questionable=
+
+  - The mayor leaked news of the arrest to the media to impugn his opponent’s character.
+  - How dare you impugn the integrity of our local councilman simply because of a Twitter rumor!
+  - When the prosecutor tried to impugn the defendant’s character, the defense lawyer jumped to his feet and made an objection.
+  - Everyone was shocked when the student tried to impugn his lab teacher’s findings.
+  - Although I had my ticket in my hand, the annoying attendant tried to impugn my entrance into the theater.
+  - The confident politician felt no need to impugn the motives of his election challengers.
+  - Since my daughter has not passed a single math test this year, I strongly impugn her teacher’s instructional skills.
+
+
+
+* [[https://wordsinasentence.com/impunity-in-a-sentence/][Impunity]]
+
+  =free from punishment; exempt from the consequences=
+
+  - In exchange for her testimony, the accomplice received impunity from prosecution.
+  - Despite the heinous nature of the crimes they committed, the old men received impunity from the court because of their ages.
+  - Often, foreign ambassadors feel they can do whatever they want because of the impunity afforded to them by visiting governments.
+  - I am appalled by the fact the man who killed his girlfriend was allowed to walk away with impunity!
+  - Because the internet is basically a lawless civilization, many people commit crimes online with impunity.
+  - If you are religious, you probably believe God will withdraw impunity in the end and punish all the wicked in their final days.
+  - International groups such as the United Nations work hard to make sure political leaders do not receive impunity for horrible acts.
+
+
+
+* [[https://wordsinasentence.com/impute-in-a-sentence/][Impute]]
+
+  =to lay the responsibility or blame on someone else=
+
+  - It was wrong of me to impute you for the failure of the dinner party when I was the one who did not properly plan the event.
+  - Although Jake cannot impute anyone else for the robbery, he will not admit to committing the crime himself.
+  - On Monday, Ellen will impute her failure to complete the project on her malfunctioning computer.
+  - Even though my sister had broken the window, she tried to impute the damage onto me.
+  - When the singer was asked about her awful performance, she tried to impute her mistakes to nervousness.
+  - The foolish drunk driver tried to impute the accident on the bartender who made the strong drinks.
+  - When my daughter received a failing grade in her math class, she attempted to impute her instructor’s teaching skills.
+
+
+
+* [[https://wordsinasentence.com/inadvertent-in-a-sentence/][Inadvertent]]
+
+  =not intentional; not on purpose; not conscious=
+
+  - Because the principal neglected to turn off the microphone on the PA system, there was an inadvertent transmission of some very inappropriate language throughout the school.
+  - After Mark made an inadvertent disclosure of the winner of the Super Bowl, I didn’t even bother to watch the recording I had so carefully planned.
+  - I wonder how many inadvertent inventions were developed in the process of trying to discover something totally different.
+  - Probably the most horrific consequences of violence are the inadvertent injuries or deaths of innocent bystanders.
+  - Compared to all the bystanders who just stood by doing nothing, Don became an inadvertent hero by running up to the wrecked car and pulling out the frightened toddler.
+  - Dr. Black recommended that I use one of those compartmented containers for my pills to reduce the risk of taking an inadvertent overdose.
+  - After working on it for five hours, thank goodness I caught myself before I made an inadvertent deletion of the whole report.
+
+
+* [[https://wordsinasentence.com/inane-in-a-sentence/][Inane]]
+
+  =lacking sense; stupid=
+
+  - When my sisters and I get together, we tend to do inane things like dressing up as cartoon characters.
+  - Even though Cara is a math genius, she acts inane in class because she likes getting extra attention from the handsome math professor.
+  - Your idea about eating plastic fruit is totally inane.
+  - Although Jason has a college degree, he still behaves in an inane manner at times.
+  -  My teacher is really good about ignoring inane comments from the clowns in our class.
+  - Even though a lot of people think Margaret is inane, she is really extremely intelligent.
+  - Whenever my lovestruck brother looks at his girlfriend, he has an inane grin on his face.
+
+
+
+
+* [[https://wordsinasentence.com/incandescent-in-a-sentence/][Incandescent]]
+
+  =extremely bright=
+
+  - Our incandescent Christmas lights illuminate the living room.
+  - To preserve your eyesight, you should avoid looking directly at the incandescent sun.
+  - Incandescent bulbs produce light when a current heats a filament and gives off a glow.
+  - Before we put the incandescent lights in the front yard, we could barely see anything at night.
+
+
+
+* [[https://wordsinasentence.com/incendiary-in-a-sentence/][Incendiary]]
+
+  =explosive=
+
+  - Because Dad had come home in one of his incendiary moods, we kids hid in our rooms to avoid causing him to blow up.
+  - Following the attack, the survivors were rushed to the base hospital with severe burns from the incendiary weapons.
+  - If the reporter didn’t mean to cause such an uproar among the public, he shouldn’t have written such an incendiary article about the city leaders.
+  - Although the investigation indicated the arsonist must have used some kind of incendiary device to start the fire, the police could find no traces of it.
+  - When someone brought up the existence of Satan during the discussion, an incendiary argument erupted during which there were heated exchanges on both sides of the issue.
+  - At the end of the movie Easy A, Emma Stone’s character gave an incendiary performance to ignite the curiosity of the students so that they would watch her podcast.
+  - As a highly strategic politician, he is known to pepper his speeches with incendiary language to arouse his listeners’ emotions.
+
+
+
+* [[https://wordsinasentence.com/incessant-in-a-sentence/][Incessant]]
+
+  =without interruption; not letting up=
+
+  - The incessant crying of a baby drives me nuts!
+  - My sister's incessant phone conversation with her boyfriend may never end.
+  - With this incessant rainfall, we might get flooded out.
+  - End the incessant crime with a neighborhood watch program.
+  - I have hours upon hours of movies for incessant entertainment!
+  - Breathing must be incessant to stay alive.
+  - That soap opera has been on air for an incessant amount of time, but lasting shows eventually come to an end.
+
+
+
+* [[https://wordsinasentence.com/incident-in-a-sentence/][Incident]]
+
+  =a happening or event=
+
+  - The police will file a report on the incident.
+  - After the fighting incident, Rick was suspended from school.
+  - Several fraternity members were arrested after the hazing incident.
+  - Do you think the missile incident is going to trigger a war between the countries?
+
+
+* [[https://wordsinasentence.com/incidence-in-a-sentence/][Incidence]]
+
+  =the number of times something happens, usually of something bad=
+
+  - Eric’s family has a high incidence of death due to their genetic coding.
+  - Cory’s cancer is rare, with an incidence of one in 300,000 people.
+  - Overweight people tend to have a high incidence of sleep apnea.
+  - The incidence of hay fever skyrocketed, forcing the school to close its doors.
+
+
+* [[https://wordsinasentence.com/incoherent-in-a-sentence/][Incoherent]]
+
+  =not logical or easily understood=
+
+  - After drinking too much at the party, Larry became incoherent and made very little sense.
+  - The speaker spoke so rapidly that his words were incoherent to most in the audience.
+  - Because my aunt suffered a stroke, she is mostly incoherent and unable to express herself well.
+  - The workings of the government are usually incoherent to the general public.
+  - After seeing the murders, Scarlett was completely incoherent when she spoke to the police officers.
+  - During his performance, Hank was so nervous that his song was incoherent.
+  - Because Michelle had stayed awake for four days, her ramblings were somewhat incoherent.
+
+
+
+* [[https://wordsinasentence.com/inconsequential-in-a-sentence/][Inconsequential]]
+
+  =not important or significant=
+
+  - When you walk with your head down and eyes lowered, you come across as being inconsequential.
+  - At the end of the day, everything is inconsequential except for family.
+  - Worrying about inconsequential tasks will prevent you from doing projects which really matter.
+  - It was decided that Pluto was too inconsequential to be a planet.
+  - Because the suspect’s charge was inconsequential, the judge let him out on bail.
+  - Compared to the seven car pileup on the highway yesterday, my little fender bender is inconsequential.
+  - While you may consider my feelings to be inconsequential, they are very important to me.
+
+
+
+* [[https://wordsinasentence.com/inconsolable-in-a-sentence/][Inconsolable]]
+
+  =not capable of being consoled=
+
+  - The old man was inconsolable at his wife’s funeral.
+  - After our kitten died, my youngest son was inconsolable for weeks.
+  - The gymnast was inconsolable after learning she didn’t make the Olympic team.
+  - When my daughter is grieving and inconsolable, she doesn’t enjoy any of her normal activities.
+
+
+
+* [[https://wordsinasentence.com/incorporate-in-a-sentence/][Incorporate]]
+
+  =to include or mix=
+
+  - In order to provide a complete report, Henry and his staff incorporate the graphs and charts into the written text.
+  - Always incorporate both proper nouns and action verbs into a fictional story so that it will be seem more realistic.
+  - According to culinary guidelines, a chef should never incorporate cheese into a fish dish.
+  - While tutoring a foreign student, I try to incorporate as many slang words as possible so she fully understands how Americans speak.
+
+
+
+* [[https://wordsinasentence.com/incorrigible-in-a-sentence/][Incorrigible]]
+
+  =not capable of being reformed=
+
+  - Because my daughter’s behavior is incorrigible, she might be grounded for at least a year.
+  - Even after spending a year in jail, the young man remains incorrigible and unafraid of the law.
+  - Jake’s teachers described him as an incorrigible young man who was always getting into trouble.
+  - Incorrigible kids sometimes become adults in prison.
+  - Are you so incorrigible that you cannot be good for two minutes?
+  - Santa Claus never brings presents to incorrigible children.
+  - My daughter is not having a birthday party because of her incorrigible behavior.
+
+
+
+
+* [[https://wordsinasentence.com/incumbent-in-a-sentence/][Incumbent]]
+
+  =the person or group that currently has the title or position=
+
+  - After twenty years in office, the incumbent politician is finally retiring from politics.
+  - The incumbent president of the company is resigning from office so a younger person can take control of the business.
+  - If the incumbent governor dies, his lieutenant governor will take over his office.
+  - The incumbent city councilman barely retained his seat in the election.
+  - As the incumbent committee chairman, it is my responsibility to choose my replacement from among the other committee members.
+  - Because I do not have season tickets, I have to wait until the incumbent ticket holders purchase their playoff seats before I can buy my own.
+  - Since the voter turnout was low, all of the incumbent politicians will remain in office for the next two years.
+
+
+
+* [[https://wordsinasentence.com/indefatigable-in-a-sentence/][Indefatigable]]
+
+  =never showing signs of getting tired=
+
+  - The director of the homeless shelter is an indefatigable woman who works almost eighteen hours every day.
+  - If it were not for the indefatigable actions of the teacher’s union, the public schools in our city would have closed down a long time ago.
+  - After losing her son in a car accident, April became an indefatigable promoter of teen driver training.
+  - Because of Helen’s indefatigable efforts, the children’s charity was able to raise over a million dollars for a new library.
+  - Even when he was threatened, the civil rights leader still had indefatigable work ethics.
+  - Because my mother never slows down, everyone considers her to be indefatigable.
+  - In order to be a model, you need to have indefatigable patience.
+
+
+* [[https://wordsinasentence.com/indenture-in-a-sentence/][Indenture]]
+
+  =a legal and binding contract=
+
+  - The attorney had his client to sign the indenture before officially beginning work on his case.
+  - A copy of the trust indenture can be found in a file with the company’s other legal contracts.
+  - Proposing amendments to the initial contract, the CEO hoped to make the indenture more favorable towards his company.
+  - Although the couple signed the indenture before marrying, the husband hoped the prenuptial agreement would be ruled void during divorce proceedings.
+
+
+
+* [[https://wordsinasentence.com/indigenous-in-a-sentence/][Indigenous]]
+
+  =produced, living, or existing naturally=
+
+  -  The class of students enjoyed learning about unusual animals that are indigenous and found naturally in the wild in North America.
+  - Because all of the ingredients of the product are found in the walls of desert caves, the final product is considered to be indigenous to the desert.
+  - The marine scientists were confused when they found a species of fish that was not indigenous to the ocean water.
+  - Since the native tribes had no means of travelling, all of the food they ate was indigenous to their own communities.
+  - As a tourist, I make a point of visiting the first citizens of a country, the indigenous people, so I can learn about the ways of the land.
+  - Millions of miles away from other cities, the secluded town could only exist on items indigenous within its area.
+  - Before Ted went overseas, he went to the trouble of learning the indigenous customs and languages of the countries he planned to visit.
+
+
+* [[https://wordsinasentence.com/indigent-in-a-sentence/][Indigent]]
+
+  =extremely poor=
+
+  - The indigent man could not afford food or clothing.
+  - In many indigent countries, people often go days without eating.
+  - The government has a healthcare program for indigent individuals who cannot obtain their own medical plan.
+  - Because Jack works for a lot of indigent clients, he does not earn a lot of money as an attorney.
+  - Indigent people will often wait in line for hours to get food from the soup kitchens.
+  - Since Dr. Smith is more concerned about making money than caring for ill individuals, he will not see indigent patients.
+  - The indigent family was evicted from their home because they could not pay the rent.
+
+
+
+* [[https://wordsinasentence.com/inept-in-a-sentence/][Inept]]
+
+  =having or showing no skill=
+
+  - The teenager was an inept driver who could not back out of his driveway without hitting something.
+  - Although Janet had gone to cooking school for two years, she was still an inept cook.
+  - The inept detective could not see the most obvious clues.
+  - Because Marvin was an inept plumber, he rarely got paid for his services.
+  - Mrs. Smith is an inept math instructor who cannot even teach the basic principles of the subject.
+  - Since Jackie is socially inept, she does not go to many parties.
+  - The president’s rivals said his military proposal showed how inept he was at planning wartime strategy.
+
+
+
+* [[https://wordsinasentence.com/ineptitude-in-a-sentence/][Ineptitude]]
+
+  =the quality of being unfit or inept=
+
+  - Because of Bill’s ineptitude, he lost his job.
+  - Clara’s ineptitude as a teacher has left her students completely unprepared for the state exam.
+  - Since the doctor’s ineptitude led to my husband’s death, I filed a lawsuit against him.
+  - The lawyer lost the case because of his ineptitude.
+
+
+
+* [[https://wordsinasentence.com/inexorable-meaning-in-a-sentence/][Inexorable]]
+
+  =not able to be persuaded or stopped by any means; stubborn=
+
+  - Of course, the public is enraged by the inexorable rise in gas prices.
+  - Following her husband's sudden death, Elaine went into an inexorable depressive state.
+  - The inexorable truth is that Shelley is going to die within six months because she has cancer.
+  - Because James hit a police officer while driving drunk, he knows it is an inexorable fact he will serve jail time.
+  - As economists look at the gloomy statistics, they recognize an inexorable debt increase.
+  - Mary did not want to watch the movie because she knew the plot contained an inexorable tragedy.
+  - In his desire to make sure he was ready for the triathlon, Jason was inexorable when it came to following his training routine.
+
+
+
+* [[https://wordsinasentence.com/infantile-in-a-sentence/][Infantile]]
+
+  =pertaining to infants=
+
+  - Two adults began to squabble in a most infantile way, displaying behavior that was very inappropriate for their age.
+  - Her pure blue infantile eyes looked up at me from the crib, making me feel fuzzy inside.
+  - I hate listening to that morning radio show because people call in with comments that are so infantile and immature.
+  - It seems obvious to me that the infantile cry is so unnerving for the purpose of grabbing the attention of an adult.
+
+
+
+* [[https://wordsinasentence.com/infuse-in-a-sentence/][Infuse]]
+
+  =to fill with a certain quality=
+
+  - Cook the rice until you thoroughly infuse it with the taste of the herbs and spices you added.
+  - Drop the pellet in and watch the dye infuse the water with color as you stir.
+  - The subject’s hair was tested to see if the new conditioner could infuse all the way to the core.
+  - I thought eating spinach would infuse my muscles with super strength like Popeye the Sailor Man when I was a kid.
+
+
+
+* [[https://wordsinasentence.com/ingenuity-in-a-sentence/][Ingenuity]]
+
+  =the capacity to find solutions for tough problems=
+
+  - When Jack fixed the jeep, his friends were impressed with his mechanical ingenuity.
+  - With ingenuity and imagination, the builder came up with a way to build the cabin on the very top of the mountain.
+  - The wise hunter had the ingenuity to survive in the forest for three days without any camping supplies.
+  - Because we do not have a lot of money, my mom often uses her ingenuity to make a single can of meat feed a growing family of five.
+  - The doctor used his ingenuity to perform a complicated surgery while on a deserted island.
+  - When Phil and Tara were stranded in the middle of the ocean, they had to use their ingenuity to signal for help.
+  - Phone manufacturers are always looking for designers with ingenuity to create groundbreaking mobile phones.
+
+
+
+* [[https://wordsinasentence.com/ingenuous-in-a-sentence/][Ingenuous]]
+
+  =innocent; naive=
+
+  - Jessica’s ingenuous nature made her an easy target for the con man.
+  - While I do not consider myself ingenuous, I do not mind giving everyone at least one chance to do good.
+  - The little boy’s ingenuous habit of constantly telling the truth made him unpopular at school.
+  - To the defendant’s surprise, the judge found her innocent of the kidnapping charges because she was ingenuous and knew nothing about her boyfriend’s plans.
+  - Everyone was surprised when the ingenuous librarian wore a prostitute costume to the Halloween party.
+  - Although I am not usually a fan of the photographer’s work, these photographs do a fantastic job of capturing an ingenuous child during a peaceful sleep.
+  - It was refreshing to see an ingenuous teenager watching cartoons in a room full of worldly teenagers who thought they were too old to do the same.
+
+
+
+* [[https://wordsinasentence.com/ingest-in-a-sentence/][Ingest]]
+
+  =to eat or drink something by swallowing or by taking it through the skin=
+
+  - Trained assassins and military personnel used to hide cyanide pills on their back teeth so that in the event of capture, they could bite down and ingest the poison quick enough to die.
+  - Because the athlete failed to ingest enough water, he quickly became dehydrated and lethargic.
+  - If you accidentally ingest a toxic substance you should immediately call Poison Control or seek emergency assistance.
+  - Snakes are able to ingest prey twice the size of their body by paralyzing them with their bite.
+
+
+
+* [[https://wordsinasentence.com/ingrained-in-a-sentence/][Ingrained]]
+
+  =established; firmly fixed=
+
+  - Being right-handed was ingrained in me so that it was very difficult to write with my left hand.
+  - My morning routine was ingrained in me so much so that if I missed a step, it threw off my entire day.
+  - The new teacher wanted her rules and procedures ingrained in her students in order to promote a smoothly run classroom.
+  - When I learned my times table, my mother played a song to help me memorize the numbers until they were ingrained in my memory.
+
+
+
+* [[https://wordsinasentence.com/ingrate-in-a-sentence/][Ingrate]]
+
+  =an ungrateful person=
+
+  - When you do not appreciate your gifts, you are being an ingrate.
+  - The bride was an ingrate who did not send out thank-you notes for her wedding presents.
+  - As soon as James unwrapped his gift, he showed he was an ingrate by giving the item to someone else.
+  - Katy is an ingrate who refuses to acknowledge any present that costs less than five hundred dollars.
+  - After Liam won the team leader of the month award, he showed he was an ingrate by neglecting to thank his coworkers for their contributions.
+  - My friend Janice never thanks me for paying for lunch so I view her as a bit of an ingrate.
+  - Since April left the dinner party without thanking our hosts, she is considered to be an ingrate.
+
+
+
+* [[https://wordsinasentence.com/ingratiate-in-a-sentence/][Ingratiate]]
+
+  =to try to get someone's approval by doing or saying things that will please them=
+
+  - Since the new teacher failed to ingratiate herself with the students, she found it hard to maintain an orderly classroom.
+  - The con artist hoped to ingratiate himself into the wealthy widow’s life.
+  - While I do like you a great deal, I am not willing to ingratiate myself into your life by telling you a bunch of lies.
+  - Because Sarah wanted a raise, she decided to ingratiate herself with her boss by offering to work on the weekends.
+  - If you are trying to ingratiate yourself to me by offering me chocolate, it is not going to work!
+  - Although the prisoner did everything he could to ingratiate himself with the parole board, his parole was still denied.
+  - To win the business contract, the vendor had to ingratiate himself with the office manager.
+
+
+* [[https://wordsinasentence.com/inimitable-in-a-sentence/][Inimitable]]
+
+  =something so special or unique, it's impossible to copy or imitate=
+
+  - Every once in a while, a band comes along that is so unique they are completely inimitable.
+  - Though he had lost the company a large sum of money, the owner would not fire him because he knew his talent was inimitable.
+  - The basketball player knew his talents were inimitable, which caused his teammates to begin hating him.
+  - Few writers can match the inimitable talent of Earnest Hemmingway.
+  - The recipe was inimitable and even though she could taste certain ingredients she could not figure it out.
+  - Try as he might, the magician found that his competitor’s routine was inimitable, leaving him unable to duplicate the trick.
+  - Her talent was inimitable, which is why the show was canceled upon news of her death.
+
+
+
+* [[https://wordsinasentence.com/injurious-in-a-sentence/][Injurious]]
+
+  =causing injury=
+
+  - Illegal drugs are injurious to your health.
+  - The injurious stunt needed to be performed by trained professionals.
+  - The perpetrator faced serious jail time because the attack proved injurious to his victim.
+  - If you are not properly warmed up, performing any sport can become injurious.
+
+
+
+* [[https://wordsinasentence.com/innate-in-a-sentence/][Innate]]
+
+  =a quality or ability which you are born with, or which is present naturally=
+
+  - Unlike both of her sisters who adore children, Elise does not have an innate desire to raise a family.
+  - While I am naturally shy, my sister has the innate ability to charm everyone she meets.
+  - Marilyn’s innate piano talent allowed her to play complicated pieces before she was six years of age.
+  - Although some medical conditions are caused by factors outside the human body, others occur as a result of innate genetic defects.
+  - Because an innate behavior occurs naturally, it can not be unlearned as easily as a taught behavior.
+  - Few people can see the innate value of cotton until is converted into a finished product like a jacket or a blanket.
+  -  Even though humans are born with a certain amount of innate immunity to diseases, they still require preventative medical care to ward off other conditions.
+
+
+
+* [[https://wordsinasentence.com/insatiable-in-a-sentence/][Insatiable]]
+
+  =never have enough of something=
+
+  - After being lost in the desert for days, the dehydrated man figured that all the water in the world would not quench his insatiable thirst.
+  - Exploring all of the caves in the western hemisphere did not even cure the adventurer’s insatiable curiosity for the unknown.
+  - Barbara’s husband confronted his wife about her insatiable shopping habits which he knew would continue to increase their debt.
+  - A teenage boy’s insatiable hunger always makes the parents wonder how he can eat so much food and still want more.
+
+
+
+* [[https://wordsinasentence.com/insidious-in-a-sentence/][Insidious]]
+
+  =something that is slowly and secretly causing harm=
+
+  - The insidious playboy planned to con the heiress out of her fortune.
+  - While Helen may seem like a nice woman, I believe she has an insidious side to her.
+  - The car dealership used attractive insidious models to lure in buyers.
+  - Although the medicine made Gabriel feel better at first, its effect was insidious and only lasted a short time.
+  - Alcohol is an insidious beverage that convinces people to do silly things.
+  - Because I was so trusting, I did not realize the insidious man was using me to get information about the bank where I worked.
+  - The insidious witch put out cookies and candy to entrap naïve children.
+
+
+
+* Insinuate
+
+  - During the debate, the senator tried to insinuate his opponent was not qualified for office.
+  - Many dictators use propaganda to insinuate fear among the public.
+  - By searching my locker, you are trying to insinuate I stole the money!
+  - Because Lamar was quite ambitious, he did everything possible to insinuate himself into his foreman’s favor.
+  - Longing to be popular, the girl made several attempts to insinuate herself into the crowd of popular kids.
+  - It would not surprise me if my mother tried to insinuate her preferences into my brother’s wedding plans.
+  - Because my sister is a talented singer, she is often approached by agents who try to insinuate themselves into her career.
+
+* [[https://wordsinasentence.com/insipid-in-a-sentence/][Insipid]]
+
+  =dull or boring=
+
+  - When you present, please do not be an insipid speaker who makes everyone fall asleep!
+  - The soup lacks the right seasoning and tastes insipid.
+  - Unless your goal is to watch an insipid movie that will bore you to death, do not go and see Hank Wolf’s latest film.
+  - The little boy did not enjoy having to sit still during the insipid church service.
+  - As Ryan is such an outgoing young man, he shocked everyone when he announced his engagement to his insipid coworker who rarely speaks.
+  - Even the greatest actor in the world could not make this insipid role exciting!
+  - Alone in the middle of the ocean, the survivor could think of nothing that would make the insipid days seem shorter.
+
+
+
+* [[https://wordsinasentence.com/insolent-in-a-sentence/][Insolent]]
+
+  =rude or impolite=
+
+  - When the insolent young man yelled my name, I ignored him and walked towards my car.
+  - The captain put the insolent soldier on report.
+  - Because William was insolent to the principal, he got suspended from school for three days.
+  - Betsy is an insolent girl who acts as though she has no manners at all.
+  - At the party, Henry offended everyone with his insolent conduct.
+  - The school bully constantly makes insolent remarks to younger students.
+  - After I responded to the judge in an insolent voice, I was asked to leave the courtroom.
+
+
+
+* [[https://wordsinasentence.com/instigate-in-a-sentence/][Instigate]]
+
+  =to trigger something=
+
+  - Justine hoped to instigate Will and Gail's separation by spreading false rumors about Will’s late nights at work.
+  - Hopefully, the red band campaign will instigate a greater awareness of cancer prevention.
+  - The road construction will definitely instigate major traffic delays during rush hour.
+  - Because poor people often cannot afford things they need, poverty is a factor that is known to instigate crime.
+
+
+
+* [[https://wordsinasentence.com/insular-in-a-sentence/][Insular]]
+
+  =not interested in meeting anyone outside your own group or country, or not interested in learning new ideas or ways of doing things=
+
+  - Because the insular man had lived on a deserted island for several years, he was not very good at making conversation.
+  - The people who live on the mountain have insular personalities because they are not used to being around other members of society.
+  - My grandparents’ insular attitudes make them very uninterested in what is going on outside their own lives.
+  - Although I do not socialize a great deal, I do not have any insular traits as of a result of my self-imposed isolation.
+  - Because you are a world traveler, you should not have such insular views.
+  - The reclusive writer enjoyed his privacy and was content in his insular lifestyle.
+  - Since the creation of the internet, few people are able to remain completely insular.
+
+
+
+* [[https://wordsinasentence.com/intemperate-in-a-sentence/][Intemperate]]
+
+  =having problems with exercising control=
+
+  - John has intemperate mood swings he cannot seem to control.
+  - When Barbara drinks, she becomes intemperate and cannot regulate her actions.
+  - Kelly’s intemperate behavior is closely related to her incurable habit of shoplifting.
+  - Because Wayne has a mental disorder that makes him intemperate, his uncontrollable conduct is usually overlooked.
+
+
+
+* [[https://wordsinasentence.com/interpolate-in-a-sentence/][Interpolate]]
+
+  =to change something by adding material to it=
+
+  - Since the author would often interpolate the stories of others by adding his own text, the critics did not view him as a real writer.
+  - Today many singers interpolate their own words and music into classic songs in order to create new tunes.
+  - Depending on how well my novel flows, my editor may interpolate additional descriptive sentences to give the tale more imagery.
+  - With the addition of a few online quotes, Edward was able to completely interpolate his debate speech.
+
+
+
+* [[https://wordsinasentence.com/intimate-in-a-sentence/][Intimate]]
+
+  =not public; private=
+
+  - Because I am a private person, I do not like to share intimate details about my home life.
+  - My husband and I requested a secluded room in the restaurant so we could have an intimate dinner.
+  - When the candles were lit, they gave the room an intimate mood.
+  - Not only are Rick and I coworkers, but we also have an intimate relationship that we keep to ourselves.
+
+
+
+* [[https://wordsinasentence.com/intimation-in-a-sentence/][Intimation]]
+
+  =a sign or suggestion that something is likely to happen=
+
+  - Because they destroyed so many lives, the recent bombings are a brutal intimation of immortality.
+  - I hoped my girlfriend would accept the key as intimation that I wanted her to move in with me.
+  - While it was not formally announced, an intimation was made that Jeff would receive the promotion.
+  - When my friend died in a car crash, I saw it as intimation that nobody could live forever.
+  - Jasmine could not believe her husband’s intimation that she was cheating on him.
+  - Even though no statement had been released to the media, intimation has been made regarding the capture of the suspect.
+  - Nate’s first intimation of illness came when he vomited all over the kitchen floor.
+
+
+
+* [[https://wordsinasentence.com/intimidate-in-a-sentence/][Intimidate]]
+
+  =to make afraid=
+
+  - The mob tries to intimidate shop owners into paying protection fees.
+  - Because Jim often attempts to intimidate younger children, he is considered a bully.
+  - The dictator tries to intimidate his enemies with verbal threats.
+  - While in court, the defendant tried to intimidate the jury with menacing looks.
+
+
+
+* [[https://wordsinasentence.com/intransigent-in-a-sentence/][Intransigent]]
+
+  =uncompromising=
+
+  - Even though the divorce proceedings should be over, they are still dragging on because of the intransigent parties involved.
+  - People have a hard time getting along with Ben because he is such an intransigent leader.
+  - When it comes to the safety of my children, I must always take an intransigent position to protect them.
+  - Jason has an intransigent nature which makes it very hard for him to find a good restaurant.
+  - Since Harvey can make a lot of money on this deal, I do not understand why he is being so intransigent on the contract terms.
+  - Nobody wants to work in a group with Jack because he is intransigent and unwilling to be a team player.
+  - When it came to their willingness to extend my curfew, my parents were intransigent and would not budge.
+
+
+
+* [[https://wordsinasentence.com/intrepid-in-a-sentence/][Intrepid]]
+
+  =very brave=
+
+  - To be an astronaut, you must be an intrepid person who craves adventure and is not afraid of heights.
+  - The intrepid kitten walked slowly in front of the two big dogs.
+  - Even when the storm was directly over her house, the intrepid old woman did not panic.
+  - The intrepid adventurer climbed the rocky mountain without fear.
+  - Unlike her sister Mary, Sally was intrepid and had no problem going into the haunted house.
+  - Only intrepid people sign up to be on that reality show where people are stranded on a deserted island.
+  - The intrepid young boy walked through the forest alone to get his injured father medical aid.
+
+
+
+* [[https://wordsinasentence.com/introspective-in-a-sentence/][Introspective]]
+
+  =tending to examine your own feelings, thoughts, or ideas=
+
+  - If you are too introspective, you may talk yourself out of doing something wonderful.
+  - The introspective artist was always questioning his own painting skills.
+  - Because Gerry had an introspective personality, she had a hard time conversing with others.
+  - The ringing of the cellphone interrupted my introspective moment at the lake.
+  - Since I am a person who wants to know everything, I find it difficult to get along with introspective people who keep their feelings to themselves.
+  - Because the singer personally wrote all the songs on her album, she considers this record to be her most introspective release.
+  - My husband is so introspective it often seems as though he is only concerned about his own feelings.
+
+
+
+* [[https://wordsinasentence.com/inure-in-a-sentence/][Inure]]
+
+  =to become immune to unpleasant events or situations=
+
+  - Raising three dramatic daughters will inure you to temper tantrums.
+  - After a while, the guards were able to inure themselves to the voices of the prisoners begging for freedom.
+  - Even the veteran detective could not inure himself to the sight of a murdered child.
+  - Soon, the girls became inure to the cruel treatment of their kidnapper and started to think of him as their savior.
+
+
+
+* [[https://wordsinasentence.com/involuntary-in-a-sentence/][Involuntary]]
+
+  =done without thought or without planning=
+
+  - My involuntary response was to jump back from the snake.
+  - For most humans, breathing is an involuntary act.
+  - The little boy’s immediate and involuntary reaction was to move his hand away from the hot stove.
+  - When my manager announced involuntary layoffs for numerous people in our company, I became very nervous.
+
+
+
+* [[https://wordsinasentence.com/irascible-in-a-sentence/][Irascible]]
+
+  =easily made angry=
+
+  - It does not take much to aggravate my irascible neighbor who is annoyed by any little noise.
+  - Because Charles is very irascible, you have to be mindful of what you say to him.
+  - While Jill’s husband, Jack, is irascible, Jill is always calm and relaxed.
+  - Bill’s dog is irascible and has to be kept on a leash at all times.
+  - He was an irascible leader who was quick to start wars with neighboring countries.
+  - Our teacher was irascible today and kicked several students out of the classroom.
+  - Even though my father was irascible at times, he was also a very caring man.
+
+
+
+* [[https://wordsinasentence.com/irate-in-a-sentence/][Irate]]
+
+  =tremendously angry=
+
+  - Jim was irate when he found his wife in bed with another woman.
+  - Because I am irate, I am going to walk away and calm down before I speak to you.
+  - The irate judge had the unruly defendant removed from the courtroom.
+  - The irate woman vandalized her boyfriend’s car when she learned he was cheating on her.
+
+
+
+* [[https://wordsinasentence.com/iridescent-in-a-sentence/][Iridescent]]
+
+  =exhibiting a wide range of brilliant colors like a rainbow=
+
+  - The singer’s iridescent necklace glowed brightly under the spotlight.
+  - When the jeweler looked at the iridescent gems, he was made speechless by their brilliant colors.
+  - The parrot’s feathers appear even more iridescent on camera.
+  - While we were underwater, we saw iridescent organisms that looked like small balls of glitter.
+  - The iridescent makeup comes in a wide variety of colorful hues.
+  - While exploring the rainforest, I was captivated by the iridescent plants that give the area its vibrant colors.
+  - The bubbles we blew looked iridescent as they floated through the air.
+
+
+
+* [[https://wordsinasentence.com/irresolute-in-a-sentence/][Irresolute]]
+
+  =not certain about something=
+
+  - As the troubled young girl faced her school principal, she was irresolute and did not know what to expect as a consequence for her behavior.
+  - The movie’s irresolute ending left viewers wondering what happened to the heroine and her true love.
+  - Since the candidate was not prepared for his interview, his answers came across as irresolute and did not sit well with his potential employer who was looking for a confident worker.
+  - Jane was irresolute about the directions so she used a map app on her phone to make sure she did not get lost.
+  - When the debater pondered the question for a long time without speaking, he gave the impression he was irresolute about his response.
+  - The irresolute woman looked at the menu for thirty minutes before placing her order.
+  - If the puppy is irresolute about the new food, it may sniff it for a few seconds before eating.
+
+
+
+* [[https://wordsinasentence.com/irreverent-in-a-sentence/][Irreverent]]
+
+  =displaying little respect to a person, thing, or idea=
+
+  - When the knight did not bow before his queen, he acted in an irreverent manner.
+  - Purposefully dropping the country’s flag would be an irreverent act.
+  - Because the student addressed the principal in an irreverent tone, he received two days of detention.
+  - While delivering his sermon, the minister found the teens’ chatter to be very irreverent.
+  - Because the senator was unversed in foreign cultures, he made a huge mistake when he greeted an official in an irreverent way.
+  - The irreverent pop star stood on the sacred shrine.
+  - During the interview, the aggressive reporter behaved in an irreverent fashion towards the president.
+
+
+
+* [[https://wordsinasentence.com/itinerant-in-a-sentence/][Itinerant]]
+
+  =moving around from location to location=
+
+  - The documentary follows the life of an itinerant homeless man who never sleeps in a location more than once.
+  - Because Stan is an itinerant farm worker who follows the crops, he will not be in our neighborhood much longer.
+  - Jane is an itinerant teacher who travels between schools teaching special education students.
+  - Although my father is in the military, he is not an itinerant traveller because he has been stationed at the same base for twenty years.
+  - The itinerant sailor gave up his life on the ocean when he fell in love with a beautiful waitress in a small town.
+  - Because the traveling salesman hated his itinerant lifestyle, he was happy to be nearing his age of retirement.
+  - Elana’s book discusses the itinerant life she has lived as a gypsy.
+
+
+
+* [[https://wordsinasentence.com/illustrious-in-a-sentence/][Illustrious]]
+
+  =respectable because of one’s accomplishments=
+
+  - The leader of the country will recognize the illustrious scientist in a private ceremony.
+  - As a member of an illustrious family of doctors, John is considered to be one of the city’s most eligible bachelors.
+  - The Hollywood cemetery is filled with the remains of some of the entertainment world’s most illustrious celebrities.
+  - Because Sarah has never made a grade lower than an A, her teachers voted her the most illustrious member of the senior class.
+  - A number of illustrious football players have played for the prestigious university.
+  - Looking back at William’s illustrious achievements, it is not surprising he became one of our country’s presidents.
+  - The illustrious young man earned a perfect score on the college entrance exam.
+
+
+
+* [[https://wordsinasentence.com/imbecile-in-a-sentence/][Imbecile]]
+
+  =a word used to describe a person who behaves in a stupid or foolish manner=
+
+  - The teacher was reprimanded for referring to one of her students as an imbecile because he constantly asked silly questions.
+  - Because Carol’s husband is an imbecile, he is always doing stupid things like forgetting to feed their children.
+  - Why does Jim behave like an imbecile when he has such a high IQ?
+  - When Alan gets drunk, he starts to act like an imbecile.
+
+
+
+* [[https://wordsinasentence.com/imbibe-in-a-sentence/][Imbibe]]
+
+  =to drink (used frequently of alcoholic beverages)=
+
+  - Best practice dictates that anyone who intends to imbibe alcoholic beverages should make sure to have dependable transportation to get home.
+  - Despite being unable to imbibe cocktails with her friends, Mariel probably had the most fun at the wedding reception.
+  - Every morning, I like to delay the start of the work day, go outside on the terrace, and imbibe large quantities of sunshine and fresh air.
+  - If I imbibe too much soda, I find that I am troubled with extreme bouts of hiccupping.
+  - A well-planned garden ensures that all plants are located where they can have maximum opportunities to imbibe water, nutrients, and sunshine.
+  - Parents who allow their underage children to imbibe will be prosecuted In the event of alcohol-related accidents.
+  - Since you already have a DUI offense on your record, can you really afford to imbibe more than one beer tonight?
+
+
+
+* [[https://wordsinasentence.com/imbroglio-in-a-sentence/][Imbroglio]]
+
+  =a confusing situation=
+
+  - Will the treaty end this imbroglio that has kept the two countries at war for over sixty years?
+  - The hostages found themselves in an imbroglio when the two kidnappers began to fight.
+  - How can we end this imbroglio caused by the resort double booking our cabin?
+  - In the senior dormitory, the resident assistant is currently dealing with an imbroglio between two students who both claim the other is stealing her shower shoes.
+  - The romantic imbroglio began when the parents met Sarah and assumed she was their dead son’s fiancée.
+  - Hopefully the mediator can finally bring an end to the imbroglio that has delayed the couples’ divorce for five years.
+  - Perhaps the professor’s explanation will allow me to make sense of this scientific imbroglio.
+
+
+
+* [[https://wordsinasentence.com/immensity-in-a-sentence/][Immensity]]
+
+  =great size=
+
+  - While hiking on a month-long mountainous trip, Davy felt the immensity of the wilderness.
+  - After Bill stole his friend’s money, he recognized the immensity of the problem when his friend couldn’t buy food for his family.
+  - The geography teacher wanted to show the immensity of Asia by having his students draw the continent in comparison to the other continents.
+  - The immensity of the fire’s damage left the homeowners without a home, money, or their possessions.
+
+
+
+* [[https://wordsinasentence.com/immolation-in-a-sentence/][Immolation]]
+
+  =the act of killing or sacrificing somebody=
+
+  - Eating nothing but candy is a sure path towards immolation of your health.
+  - His lack of care for his fish led to their eventual immolation.
+  - His family had an intervention, warning him that he was on the path to self-immolation.
+  - With no family or friends left alive, he wished for self-immolation.
+  - His depression drove the man to self-immolation.
+  - Printing of fiat currency is a certain way for a state to head towards self-immolation.
+  - For a mother, there is no greater immolation than letting go of your child.
+
+
+
+* [[https://wordsinasentence.com/immure-in-a-sentence/][Immure]]
+
+  =to lock up behind walls=
+
+  - Caught robbing a bank, Jason knew the police would immure him in a jail cell for an extended period of time.
+  - The asylum would immure my daughter in a barred cell until she proved she was safe to herself and others.
+  - To stop my nephew from using drugs, I had to immure him in his bedroom so that he could not escape and could be rehabilitated at home.
+  - During World War II, my grandfather would become immure by the Japanese in a prisoner-of-war camp and would not be released for 3 ½ years.
+
+
+
+* [[https://wordsinasentence.com/impale-in-a-sentence/][Impale]]
+
+  =to pierce with something sharp=
+
+  - During the horror movie, the knife would impale the girl through the heart killing her instantly.
+  - When I donated blood, the nurse was so rough and impatient that she seemed to impale the needle in my arm with great force.
+  - As the car crashed through the picket fence, one of the pickets would impale the driver in the chest resulting in extreme blood loss.
+  - Using a bow and arrow, the Native Americans would impale the buffalo with an arrow through the head so the animal would die quickly.
+
+
+
+* [[https://wordsinasentence.com/impasse-in-a-sentence/][Impasse]]
+
+  =a situation that prevents advancement=
+
+  - Yesterday, the two parties did not make any progress on the contract terms because they had reached an impasse.
+  - Because of the impasse between workers and management, the factory has been closed for two weeks.
+  - The jury ended in an impasse when the members could not break a tie vote on the defendant’s guilt.
+  - Since the snow has covered the mountain and the lake has frozen over, we have reached an impasse and must sleep in our car until the weather becomes warmer.
+  - The kidnapper refused to talk to the hostage negotiator during the impasse.
+  - Since neither the husband nor the wife is willing to make a compromise, the divorce hearing is at an impasse.
+  - Even if it takes all night, we must work through the financial impasse that is preventing our teachers from returning to their classrooms.
+
+
+
+* [[https://wordsinasentence.com/impeach-in-a-sentence/][Impeach]]
+
+  =to charge a public official with a crime=
+
+  - Without sufficient evidence, you cannot hope to impeach a public official.
+  - After discovering that her employee was stealing, she went on to formally impeach the man.
+  - Believing that he had exaggerated his qualifications, the students look to impeach their professor.
+  - Before you go to impeach someone, make sure you have the evidence ready to show.
+  - He looked to impeach his boss on suspicion of embezzlement.
+  - If you want to impeach someone, you need to follow proper legal procedure.
+  - His suspicious behavior made it easy to impeach him.
+
+
+
+* [[https://wordsinasentence.com/impel-in-a-sentence/][Impel]]
+
+  =to drive an individual to perform in a certain way=
+
+  - The manufacturer hopes its commercial will impel us to purchase its new product.
+  - Unfortunately, there is nothing we can do to impel Frank to go to rehab.
+  - A mother’s maternal instinct will impel her to give her life for her child.
+  - Even though Peter is not feeling well, his hunger will soon impel him to drive to the grocery store.
+  - Everyone wanted to know what would impel the minister to kill his five children.
+  - If the weather becomes stormy, it will impel us to move our picnic indoors.
+  - On Halloween, children will try to impel strangers into giving them treats.
+
+
+
+* [[https://wordsinasentence.com/impending-in-a-sentence/][Impending]]
+
+  =going to occur; coming=
+
+  - When I refused to pay the fake fortuneteller, she warned me of impending doom in my future.
+  - Sheila hoped Frank’s impending question was not a marriage proposal because she was not in love with him.
+  - Because Jim suffers from anxiety, he frequently has fears of impending disaster.
+  - The emergency alert instructed everyone to prepare for the impending tornado.
+
+
+
+* [[https://wordsinasentence.com/impenitent-in-a-sentence/][Impenitent]]
+
+  =unapologetic; remorseless=
+
+  - Even after being sentenced to life in prison, the impenitent man was not sorry for his crimes.
+  - A smile across her face showed that the impenitent crook did not feel guilty.
+  - Although he was really impenitent, the man pretended that he regretted stealing the check.
+  - The impenitent criminal felt no shame, but admitted guilt so that he could avoid jail.
+
+
+
+* [[https://wordsinasentence.com/imperil-in-a-sentence/][Imperil]]
+
+  =to be in danger of something or someone=
+
+  - Although most people do see the threat, littering in the ocean can imperil many different marine life like dolphins due to their ingestion of plastic litter.
+  - The quick-spreading wildfires imperil the citizens of Gatlinburg since they are trapped by the fire in their homes.
+  - Guns that are kept in an unlocked container imperil the family if guns get into the hands of toddlers.
+  - Having a few hot-tempered hostages only seemed to further imperil the already drastic robbery situation with the gun-wielding captors.
+
+
+
+* [[https://wordsinasentence.com/impertinent-in-a-sentence/][Impertinent]]
+
+  =behaving without proper respect; rude=
+
+  - Although she thought she was just being funny, her teacher didn’t agree and sent her to the principal’s office for being impertinent.
+  - While he never intended his remark to be impertinent, he found that a lot of people had been offended by what he said.
+  - Because the young man would only give an impertinent answer to his questions, the attorney decided not to take him on as a client.
+  - While Natalie searched frantically for her mysterious present, Ely just watched from the doorway with an impertinent smirk on his face.
+  - Although Alexis had been enjoying the young man’s company, his impertinent suggestion prompted her to leave the bar.
+  - As the site’s webmaster, it is her job to monitor the online forum for impertinent comments.
+  - If Evan didn’t have such an impertinent attitude with waiters, Alyssa wouldn’t have minded going out to dinner with him.
+
+
+
+* [[https://wordsinasentence.com/impetus-in-a-sentence/][Impetus]]
+
+  =a force that causes something to be done or to become more active=
+
+  - The high crime rate was the impetus for the hiring of one hundred new police officers in our city.
+  - Because the new president was once a military commander, he has a great deal of experience being an impetus for change.
+  - The lack of donations is the impetus causing many non-profit agencies to reduce services offered to the public.
+  - While my daughter normally hates to do her chores, her desire to earn extra money for a cellphone has become her impetus to be more helpful around the house.
+  - In the film, the leading character’s need to rescue his son is the impetus that drives the movie’s plot.
+  - My doctor’s announcement that I had high blood pressure was the impetus that caused me to join a gym.
+  - After the hurricane, the city managers viewed the devastating damage as an impetus to improve barriers between the ocean and the land.
+
+
+
+* [[https://wordsinasentence.com/impinge-in-a-sentence/][Impinge]]
+
+  =to produce an effect, usually an unwanted one=
+
+  - Hopefully the bad weather will move in a different direction and not impinge upon our plans for an outdoor reception.
+  - You are free to pursue all the things that make you happy as long as you do not impinge on the freedoms of others during your pursuit.
+  - If the forest fire is not put out within a couple of days, it could impinge upon the town of Las Calbos and destroy hundreds of homes.
+  - Jack’s excessive gambling has started to impinge upon his ability to pay bills.
+
+
+
+* [[https://wordsinasentence.com/implant-sentence/][Implant]]
+
+  =to embed or establish something in a fixed position=
+
+  - When the stubborn child would get upset with his mother for not getting his wish, he would implant his foot firmly on the rug with a scowl on his face.
+  - As a busy student with little free time, Sylvia’s way of cramming for an exam would be to implant as much information in her brain right before the test.
+  - The teenager did not know what to do but to implant the telephone number into her head since her cell phone had gone missing.
+  - Blocking the door with my foot was not going to be enough to keep the intruder out of the room, so I decided to implant the heaviest piece of furniture next to the door.
+
+
+
+* [[https://wordsinasentence.com/implicate-in-a-sentence/][Implicate]]
+
+  =to hint a person or object is responsible for something, often an illegal deed=
+
+  - If the evidence is found, it will implicate the person behind the brutal act.
+  - The lab results implicate a high amount of cholesterol as the cause of my uncle’s heart problem.
+  - When my best friend tried to implicate me in the robbery in order to save herself, I knew we were no longer friends.
+  - The police did not arrest the suspect because they had nothing that could implicate him in the crime.
+  - Because Hank knew the knife would implicate him as the killer, he threw the weapon into the lake.
+  - The large pool of blood on the floor seems to implicate a violent altercation took place here.
+  - As a loving sister, Karen chose to take responsibility for the broken vase rather than implicate her younger brother.
+
+
+
+* [[https://wordsinasentence.com/implode-in-a-sentence/][Implode]]
+
+  =to explode inward=
+
+  - Everyone was shocked to see the loving couple’s relationship implode and end in divorce.
+  - It seemed that the angry team would implode, exploding into a million different pieces that would leave us without an NFL squad.
+  - Many people though the earth would implode at the end of 1999 and were shocked to wake up the next day.
+  - Arguments on the inside caused the black market to implode and crumble.
+
+
+
+* [[https://wordsinasentence.com/implored-in-a-sentence/][Implored]]
+
+  =sincerely begged=
+
+  - The little boy implored his kidnapper to let him go.
+  - When Beth could not pay her utility bill in full, she implored the company to allow her to set up a payment plan.
+  - Jim refused to take his medicine even after the doctor implored him to do so.
+  - While the president addressed the country, he implored the people to wait for justice to do its work.
+  - The famous actress implored the media to not harass her children when they were out in public.
+  - When Helen remarried, she implored her children to be nice to their stepfather.
+  - The bus driver implored the students to take their seats.
+
+
+
+* [[https://wordsinasentence.com/importune-in-a-sentence/][Importune]]
+
+  =to request (someone) pressingly and persistently for or to do something=
+
+  - Even after I had politely declined and shut the door, I could hear the salesman continuing to importune me to let him demonstrate the expensive vacuum cleaner.
+  - Realizing that the boss was in one of his rare good moods, I seized the opportunity to importune him for a raise.
+  - Sometimes fundraisers will appeal to your emotions to importune for donations.
+  - Most politicians importune voters for money as well as support.
+  - Demetri jumped at the opportunity to importune his neighbors to pitch in and build a playground for the children.
+  - We will continue to importune City Council to put a stop sign on the corner; hopefully, it will be taken care of before something tragic occurs.
+  - Every Christmas, malls are crowded with children who importune Santa for their heart’s desire as they try to convince him that they have been good all year.
+
+
+
+* [[https://wordsinasentence.com/imprecation-in-a-sentence/][Imprecation]]
+
+  =a stated curse that bears a person ill-will=
+
+  - The witch muttered an imprecation at the man who mistreated her.
+  - Before the woman was burned at the stake, she uttered an imprecation against her accusers.
+  - The woman screamed an imprecation at the police officer who tossed her to the ground.
+  - Since I don’t believe in magic, the wizard’s imprecation didn’t scare me.
+
+
+
+* [[https://wordsinasentence.com/imprint-in-a-sentence/][Imprint]]
+
+  =to mark or stamp something using pressure=
+
+  - Wedding planners were able to imprint the address on all of the invitations.
+  - The horse tried to run when the hot branding iron began to imprint into its hide.
+  - Without a way to imprint the logo on the bags, the team began to brainstorm other marketing ideas.
+  - The worker’s job was to imprint the company emblem onto the back of all pottery.
+
+
+
+* [[https://wordsinasentence.com/incarcerate-in-a-sentence/][Incarcerate]]
+
+  =to lock a person up as a consequence for his or her actions=
+
+  - The police are going to incarcerate the teen who keeps committing acts of violence.
+  - If Jim doesn’t stop drinking and driving, the judge will have to incarcerate him.
+  - The detective promised the Smiths she would incarcerate their daughter’s killer.
+  - Because the king is opposed to executions, he’ll incarcerate the traitor for life.
+
+
+
+* [[https://wordsinasentence.com/incinerate-in-a-sentence/][Incinerate]]
+
+  =destroy by burning=
+
+  - If an atom bomb was dropped over Manhattan, the whole city would incinerate in a flash.
+  - The thieves decided to incinerate the building after leaving fingerprints on the wall.
+  - In the news today, two California wildfires incinerate 400 homes and displace 15,000 residents.
+  - The plan was to incinerate Tyler’s garage, and reduce it to rubble.
+
+
+
+* [[https://wordsinasentence.com/incite-in-a-sentence/][Incite]]
+
+  =to stir up or excite=
+
+  - The racist man tried to incite hatred in his children by telling them falsehoods about minority groups.
+  - During the pep rally, the cheerleaders worked hard to incite school spirit.
+  - The Christian network will not air any programs that incite violence or hate.
+  - Did you know you could be arrested for trying to incite an uprising against the government?
+  - The dictator’s lavish party only served to incite the hatred of the starving people.
+  - Since I was angry with my husband, I went out of my way to incite an argument with him.
+  - The purpose of the terror alerts is not to incite panic but rather to make people more cautious.
+
+
+
+* [[https://wordsinasentence.com/inclement-in-a-sentence/][Inclement]]
+
+  =unpleasant weather in being stormy, rainy, or snowy=
+
+  - Inclement weather is causing us to postpone our picnic.
+  - During hurricane season, cruises are often cancelled because of inclement conditions.
+  - Jason and Heather have no plans to let inclement weather affect their outdoor wedding ceremony.
+  - If you are concerned about inclement weather on your trip, please take a small umbrella in your suitcase.
+  - Unaware the weather would soon turn inclement, Harry left home without a raincoat or umbrella.
+  - Ron loves baseball so much he is willing to remain in the stands and cheer for his favorite team even during inclement weather.
+  - Because of today’s inclement conditions, the children were not allowed to go outside during recess.
+
+
+
+* [[https://wordsinasentence.com/incriminate-in-a-sentence/][Incriminate]]
+
+  =to suggest an individual has done something inappropriate or illegal=
+
+  - The man refused to talk because he did not want to incriminate himself in court.
+  - Before I can incriminate my rival as the school vandal, I need to put the spray cans in her car.
+  - My dishonest boss tried to incriminate me for his thievery.
+  - As long as the mobster never told his wife about his illegal deeds, he knew she could never incriminate him.
+
+
+
+* [[https://wordsinasentence.com/incubus-in-a-sentence/][Incubus]]
+
+  =a demon or evil spirit supposed to descend upon sleeping women in order to have sex with them=
+
+  - In the myth, the incubus surprised sleeping women with sexual advances.
+  - Incubus is a mythological creature that’s sole goal is to rape women who are resting.
+  - After having sex with the evil incubus several times, the woman eventually succumbed to a painful death.
+  - In ancient texts, a demon called an incubus would sleep with women and sometimes impregnate them.
+
+
+
+* [[https://wordsinasentence.com/inculcate-in-a-sentence/][Inculcate]]
+
+  =to frequently instill an idea or belief firmly in someone's mind=
+
+  - In order to inculcate a love of reading, the teacher encourages her students to read different types of literature.
+  - My father spent most of his life trying to inculcate me with his values!
+  - When my puppy chewed up my slippers, I realized how difficult it was to inculcate obedience in a young dog.
+  - Do you feel our professors should inculcate us with their political views?
+  - The goal of the cult leader was to inculcate millions of followers with his teachings.
+  - In order to inculcate patriotism, the president held ten press conferences last month.
+  - Although Pat had no interest in playing the piano, her mother still sought to inculcate her on the proper playing technique.
+
+
+
+* [[https://wordsinasentence.com/inculpate-in-a-sentence/][Inculpate]]
+
+  =to incriminate or accuse someone of doing something=
+
+  - Evidence was used to inculpate the suspects and lead to their eventual conviction.
+  - The defense attorney has criticized the investigation, insisting that any findings have failed to inculpate his client.
+  - Invoking his 5th amendment right during trial, the defendant did not have to give testimony that my inculpate himself.
+  - A faint print in the mud was a match to the suspect’s shoe pattern and enough to inculpate him of the crime.
+
+
+
+* [[https://wordsinasentence.com/incur-in-a-sentence/][Incur]]
+
+  =acquire=
+
+  - It was impossible to incur any debt after a year of being unemployed.
+  - Because she did not pay her taxes on time, the business owner will incur a penalty this tax year.
+  - The retiree was able to pull out his funds early, but he did incur a fee when doing so.
+  - Purchasing an older vehicle may save money initially but can cause the buyer to incur higher than average repair costs.
+
+
+
+* [[https://wordsinasentence.com/indemnify-in-a-sentence/][Indemnify]]
+
+  =to provide with a payment for damage or loss=
+
+  - Since Kurt was driving drunk, the insurance company will not indemnify him from the property damage he caused.
+  - The trucking company will indemnify the victim of the car accident caused by the sleeping trucker.
+  - Do you think the airline is going to indemnify the expense I incurred from missing my connecting flight?
+  - The construction company is going to indemnify the worker who lost his arm because of another employee’s negligence.
+
+
+
+* [[https://wordsinasentence.com/indignant-in-a-sentence/][Indignant]]
+
+  =angry because of an unfair situation or someone's unfair behavior=
+
+  - If I’m indignant, it’s because you threw that book at me!
+  - The woman was indignant about the way she had been treated by the rude clerk.
+  - Because the teacher accused him of cheating, the boy became indignant and walked out of the classroom.
+  - Indignant at the waste of the company’s resources, the financial director cut the supply budget by sixty percent.
+  - The protesters were so indignant that they began to throw stones at the police officers.
+  - Many teachers become indignant when their students question their authority.
+  - While I’m quite indignant the boy broke my window, I am pleased he took responsibility for his actions.
+
+
+
+* [[https://wordsinasentence.com/indignity-in-a-sentence/][Indignity]]
+
+  =a situation or event that makes an individual feel embarrassment=
+
+  - I felt as though I suffered a huge indignity when my ex husband brought his young girlfriend to my birthday party.
+  - During the game-making play, the star quarterback suffered the indignity of being sacked.
+  - The warrior couldn’t bear the indignity of losing so he took his own life.
+  - When I was ill, I experienced an indignity each time the aide walked away with my bed pan.
+
+
+
+* [[https://wordsinasentence.com/induction-in-a-sentence/][Induction]]
+
+  =a formal ceremony in which a person is appointed to an office or into military service=
+
+  - The Girl Scout Induction Ceremony was taking place at the local meeting hall.
+  - We watched the Presidential induction during history class.
+  - The singer’s induction into the Hall of Fame was an extravagant affair.
+  - At the end of the school year, the high school plans an induction of the incoming senior class.
+
+
+
+* [[https://wordsinasentence.com/inebriated-in-a-sentence/][Inebriated]]
+
+  =behaving as though affected by alcohol; drunk=
+
+  - After leaving the restaurant, the police officer cornered the patron to see if he was inebriated.
+  - An inebriated individual had to walk the chalk line after he was pulled over by the police.
+  - The defendant was questioned by the prosecutor about the night in which he drove in an inebriated condition.
+  - After attending the wine party, it was unexpected to see so many inebriated women staggering around.
+
+
+
+* [[https://wordsinasentence.com/ineluctable-in-a-sentence/][Ineluctable]]
+
+  =impossible to alter=
+
+  - Perhaps there is no hope for Jerry because even after a year in rehab his drug addiction seems ineluctable.
+  - Lee has the irritating habit of arguing his opinions as ineluctable facts.
+  - As I listened to the paralyzed soldier speak, I was moved by his ineluctable spirit.
+  - So many women try to fight the ineluctable aging process by having cosmetic surgery.
+  - Even though Jim promised to stop seeing other women, Ellen refused to budge from her ineluctable decision to divorce him.
+  - Always think before you speak because some words are ineluctable and cannot be taken back or changed.
+  - When the governor refused to halt the execution, the prisoner realized his fate was ineluctable.
+
+
+
+* [[https://wordsinasentence.com/inexpedient-in-a-sentence/][Inexpedient]]
+
+  =impractical or unwise=
+
+  - It would be inexpedient to go walking through the desert without several bottles of water to keep you hydrated.
+  - I consider it inexpedient to spend money on leisure and entertainment when you barely have enough money to pay your rent.
+  -  It is inexpedient to try and pack all of your things in your car when you could purchase a moving trailer or truck to carry most of it.
+  - Many people like to spend money on inexpedient vanity products that serve no real purpose, like watches and fancy suits.
+
+
+
+* [[https://wordsinasentence.com/infatuated-in-a-sentence/][Infatuated]]
+
+  =to have a strong liking for someone  or something=
+
+  - Even as a young boy, the singer was infatuated with music.
+  - Jan was immediately infatuated with her attractive blind date.
+  - Although Bruce thought he was in love with the young woman, he soon realized he was only infatuated with her.
+  - The woman was so infatuated with the basketball player that she never missed a game.
+  - After Rick realized he was no longer infatuated with his wife, he filed for divorce.
+  - The infatuated student brought his teacher a red apple every day.
+  - Even though Terry was infatuated with his coworker, he was too shy to express his feelings.
+
+
+
+* [[https://wordsinasentence.com/infelicitous-in-a-sentence/][Infelicitous]]
+
+  =not well-timed or suitable=
+
+  - Given the host’s spouse had recently died, my comment about wanting to die was infelicitous.
+  - Wilma’s see-through dress stood out as infelicitous at her father’s funeral.
+  - How dare you make an infelicitous comment about the pregnant woman’s weight?
+  - The public was outraged when the rapper made an infelicitous remark about the pope.
+
+
+
+* [[https://wordsinasentence.com/influx-in-a-sentence/][Influx]]
+
+  =the arrival of a large flow of people, things, or emotions=
+
+  - I was unprepared for the influx of joy I felt when my boyfriend proposed.
+  - Since the border patrol is ill prepared to deal with the influx of people arriving at the border, many immigrants are entering the country illegally.
+  - The influx of customers sent the manager running to the storeroom for additional promotional items.
+  - With the influx of families moving into the city, the prices of single-family homes have reached an all-time high.
+
+
+
+* [[https://wordsinasentence.com/infraction-in-a-sentence/][Infraction]]
+
+  =a violation of the rules=
+
+  - One more infraction and Jason will be suspended from school.
+  - My mother became angry when my sister refused to apologize for her infraction.
+  - Although Susan is now a nun, in her younger days she was once arrested for a minor infraction.
+  - The police ignored Jill’s minor infraction because it was her first violation of the law.
+  - Since we all know Fred as the teacher’s pet, we were shocked when he received detention for a minor infraction.
+  - The judge warned Carl that if he committed another driving infraction he would lose his license.
+  - As soon as the referee saw the infraction, he threw a yellow flag on the field.
+
+
+
+* [[https://wordsinasentence.com/infringe-in-a-sentence/][Infringe]]
+
+  =to trespass upon something=
+
+  - Having that much work to do at home will only infringe upon my time with my family.
+  - Jack did not want any children because he knew their needs would infringe on his social life.
+  - Does Cara infringe upon her children’s privacy by checking their emails?
+  - Conspiracy groups believe the government is constantly passing laws that infringe on the rights of the people.
+  - When Joan wrote her essay, she went out of her way to make sure she did not infringe upon another writer’s ideas.
+  - The judge ruled the policeman’s entry into my home without a warrant did infringe upon my rights as a citizen.
+  - As I looked at my competitor’s product, I realized my rival had chosen to infringe upon my patent with an item almost identical to my own.
+
+
+
+
+* [[https://wordsinasentence.com/ingress-in-a-sentence/][Ingress]]
+
+  =a means of entry or the action of going into an area=
+
+  - The glass doors on the hotel’s second floor provide ingress into the mall.
+  - Since the passenger doors of my jeep don’t work, my children sometimes use the trunk door as a means of ingress.
+  - If you sit in front of the doorway, you are creating  a safety hazard by blocking the path of ingress into the hospital.
+  - According to federal law, any airline passenger who attempts forceful ingress into a cockpit will be prosecuted.
+
+
+
+* [[https://wordsinasentence.com/iniquity-in-a-sentence/][Iniquity]]
+
+  =extremely immoral or unfair behavior=
+
+  - When I went to my brother’s college dorm, I saw drunken boys exhibiting iniquity towards girls.
+  - My grandmother, who grew up in a small town where people never locked their doors, saw big cities as dens of iniquity because of their crime rates.
+  - Because the dictator killed all his enemies, he was seen as a symbol of iniquity.
+  - Those who are quick to criticize the bad deeds of others should first look at their own acts of iniquity.
+  - As a result of being scarred by the iniquity of others, Henry grew up to become a very mean man.
+  - Peter abandoned a life of iniquity and became a contributing member of his local church.
+  - While Megan wanted to do volunteer work every Saturday, her husband chose to stay home and watch movies about sin and iniquity.
+
+
+
+* [[https://wordsinasentence.com/inkling-in-a-sentence/][Inkling]]
+
+  =an idea, thought, or suggestion=
+
+  - Even after Phil watched the teacher perform sample problems, he still had no inkling of how to complete the assignment.
+  - I had an inkling the housekeeper was the killer after watching the show for only five minutes.
+  - As Jill spoke to the police, she realized she had no inkling of who her mysterious boyfriend was.
+  - The detective had an inkling the witness was lying because she kept avoiding his eye contact.
+
+
+
+* [[https://wordsinasentence.com/innuendo-in-a-sentence/][Innuendo]]
+
+  =a statement that indirectly suggests someone has done something immoral, improper, etc.=
+
+  - Although the dialogue in the book is not sexually explicit, the writer makes great use of innuendo to convey his message.
+  - The top advertisers frequently use a form of innuendo to sell their products.
+  - Instead of being blunt with Henry about his drug problem, I tried using an innuendo to catch his attention.
+  - Jason used an innuendo to spread negative rumors about his ex-wife.
+  - After I heard my mother-in-law made an innuendo about me, I banned her from my home.
+  - The company president refused to respond to the innuendo about fraud charges.
+  - If you respond to Kelly’s innuendo, people will consider her false statement true.
+
+
+
+* [[https://wordsinasentence.com/inscribe-in-a-sentence/][Inscribe]]
+
+  =to write on an object=
+
+  - Jake asked the jeweler to inscribe a beautiful message on the engagement ring.
+  - Using a knife, the boy tried to inscribe his name onto the metal table.
+  - It will take the machine only a few minutes to inscribe the words on the plaque.
+  - When Bill retires after fifty years, the firm will buy him a gold watch and inscribe his years of service on it.
+
+
+
+* [[https://wordsinasentence.com/inscrutable-in-a-sentence/][Inscrutable]]
+
+  =incapable of being investigated or understood=
+
+  - When Larry wrote the letter, he was so tired the writing was nearly inscrutable.
+  - Not even the leading experts in criminology could understand the killer’s inscrutable motives.
+  - In situations where evidence is lacking, some murder cases remain inscrutable forever.
+  - Because my father normally had an inscrutable look on his face, I rarely knew what he was thinking.
+  - My professor spoke so rapidly that his lectures were inscrutable to everyone in the auditorium.
+  - Because of the discolored paint, the signature on the painting is inscrutable.
+  - Although I tried to guess my fate by looking directly at the judge, my effort was futile because his face was inscrutable.
+
+
+
+* [[https://wordsinasentence.com/insignia-in-a-sentence/][Insignia]]
+
+  =a patch or badge that indicates a person's official or military rank, or which group or organization they belong to=
+
+  - Because Rita is a Chicago Cubs fan, she wears the team logo as her insignia.
+  - Every insignia that could be earned in the military was displayed in the case.
+  - When I opened the door to the Corporal Institute, the insignia representing the school was displayed for everyone to see.
+  - On the cover of the training manual was an insignia representing the dedication and determination needed to succeed in the elite program.
+
+
+
+* [[https://wordsinasentence.com/insouciant-in-a-sentence/][Insouciant]]
+
+  =not concerned about anything; carefree=
+
+  - The insouciant mother did not blink an eye when her son complained of a tummy ache.
+  - Because Bill is insouciant  and not concerned about his retirement, he does not worry about saving money.
+  - Since Jane is insouciant about her health, she does not bother to take her medication.
+  - The insouciant waitress did not seem to care that Matt had to wait over an hour for his food.
+  - When the lion trainer walked into the lion’s cage in an insouciant manner, he let the animal know he was not threatened in any way.
+  - Instead of Will being angry when he caught his wife cheating, he was insouciant and laughed off the affair.
+  - Because Lily was well prepared for the test, she was insouciant about earning a passing grade.
+
+
+
+* [[https://wordsinasentence.com/instill-in-a-sentence/][Instill]]
+
+  =to slowly cause a person to develop a feeling or attitude=
+
+  - The detective tried to instill fear in the suspect by telling him about the dangers of prison.
+  - As a teacher, I am always eager to find ways to instill a love of learning in my students.
+  - The leader hopes to instill voters with a passion for reorganizing the government.
+  - In a relationship, you have to be reliable in order to instill trust in your partner.
+
+
+
+* [[https://wordsinasentence.com/insuperable-in-a-sentence/][Insuperable]]
+
+  =not possible to achieve=
+
+  - No matter how hard the kitten tried, it could not face the insuperable challenge of climbing back down the tree.
+  - Charles is a foolish dreamer who comes up with insuperable plans that he never achieves.
+  - Just when it seemed as though victory was insuperable, our football team was able to make a winning play that earned us a spot in the state championship.
+  - Despite what doctors described as insuperable odds, the wounded man survived his ordeal.
+  - Due to a bad case of writer’s block, the deadline set by my publisher has become insuperable.
+  - Since the two countries have been at war for centuries, it is obvious the construction of a peace agreement is insuperable.
+  - During the Special Olympics, thousands of men and women display their abilities to win insuperable challenges.
+
+
+
+* [[https://wordsinasentence.com/insurrection-in-a-sentence/][Insurrection]]
+
+  =an organized uprising against an authoritative body=
+
+  - During the insurrection, several convicts held a prison doctor hostage.
+  - By way of an insurrection, the lower class overthrew the selfish aristocrats during the French Revolution.
+  - If the insurrection against the tyrant fails, many innocent people will continue to be killed on a daily basis.
+  - Fortunately a government agency discovered the group’s plan for insurrection before the highest politicians in the nation were murdered.
+
+
+
+* [[https://wordsinasentence.com/intercede-in-a-sentence/][Intercede]]
+
+  =to try to help settle an argument or disagreement between two or more people or groups=
+
+  - Even though a mother-in-law may have good intentions, I do not believe she should ever intercede in an argument between a husband and a wife.
+  - The lawyer will intercede for his client in the court proceedings.
+  - If necessary, the police force was ready to intercede between the protestors and the company security team.
+  - Your union representative will intercede with management on your behalf.
+  - As a judge, Frank has to intercede on disagreements between individuals on a daily basis.
+  - One of the religious leader’s duties is to intercede with God on behalf of the people.
+  - If the debate becomes too heated, the moderator will intercede to break up the argument.
+
+
+
+* [[https://wordsinasentence.com/interloper-in-a-sentence/][Interloper]]
+
+  =someone who intrudes on the privacy or property of another without permission=
+
+  - Since she has never been able to let her son go, my mother-in-law is an interloper in my marriage.
+  - Because I am not an actor, I feel like an interloper in this acting class.
+  - Although he was an atheist, Jason did not feel as though he was an interloper when he attended his friend’s church wedding.
+  - To make sure no one felt like an interloper, William walked around the room and talked to everyone at the party.
+  - When the new guy moved into our dormitory, it took a long time for us to see him as anything other than an interloper.
+  - We called the police on the interloper we caught peeking through our bedroom window.
+  - Although she was nice to him, Henry still viewed his stepmother as an interloper.
+
+
+
+* [[https://wordsinasentence.com/interlude-in-a-sentence/][Interlude]]
+
+  =a short period of time that comes in the middle of an event or situation=
+
+  - We exited the theater during the short interlude to purchase something to eat.
+  - After sitting in court for five hours, the judge finally announced that they would stop for a twenty-minute interlude.
+  - The show paused for a musical interlude which gave us some time to stand up and stretch.
+  - During the short interlude, the presidential contestant walked off of the stage and began to mingle with the audience.
+
+
+
+* [[https://wordsinasentence.com/intermission-in-a-sentence/][Intermission]]
+
+  =a scheduled break of about 10 to 15 minutes in the middle of a play, movie or concert=
+
+  - The woman quickly consumed the candy and drink during the play’s intermission because she could not take it back in the theater.
+  - When the movie came back on, we knew the intermission was over and we had to stop stretching our legs.
+  - The small child’s mother couldn’t wait until the intermission since her son began to squirm in his seat after two hours of the play.
+  - Lights in the theater flickered indicating that the intermission was over and the play would continue in a few minutes.
+
+
+
+* [[https://wordsinasentence.com/intermittent-in-a-sentence/][Intermittent]]
+
+  =displaying in a random pattern; not consistent=
+
+  - When the cops arrived, the loud intermittent noise had stopped.
+  - The baby’s crying is intermittent and can occur at anytime.
+  - Since the power outages are intermittent, I am not sure If you have enough time to cook your dinner.
+  - The holiday lights are intermittent and flicker on and off constantly.
+  - Because my spasms are intermittent and occur randomly, it is hard for the doctor to diagnose my condition.
+  - The reason I broke up with my boyfriend was because of his intermittent verbal assaults that often happened without warning.
+  - While Jeremy was ill, he had an intermittent fever that came and went for three days.
+
+
+
+* [[https://wordsinasentence.com/interpose-in-a-sentence/][Interpose]]
+
+  =to involve oneself or to insert=
+
+  - It can be dangerous to interpose yourself between a cat fight.
+  - The mediator looked for the opening to interpose himself and break up the debate.
+  - He hoped to interpose the container to keep both ingredients separate.
+  - As if an afterthought, the senator decided to interpose an entirely new position in his platform.
+  - If you interpose in a marital argument, be prepared to be yelled at by both parties.
+  - Though he was not invited, he felt he should interpose his point of view.
+  - The politician tried to interpose his unusual stance into the debate to throw off his opponents.
+
+
+
+* [[https://wordsinasentence.com/interrogate-in-a-sentence/][Interrogate]]
+
+  =to question someone in a commanding manner=
+
+  - If Jill brings a boy home, she knows her father is going to interrogate him by asking hundreds of questions.
+  - The prosecutor will interrogate the defendant during the trial.
+  - Because I came home late last night, I know my parents are going to interrogate me over breakfast.
+  - Does the government have the right to interrogate suspected terrorists without their attorneys present?
+
+
+
+* [[https://wordsinasentence.com/inundate-in-a-sentence/][Inundate]]
+
+  =overwhelm with things or people=
+
+  - My boss is the type of person who likes to inundate others with projects.
+  - As a teacher, you can expect to have a room full of students who will inundate you with questions.
+  - The natural force of the hurricane will soon inundate the state with water.
+  - Because of the poor economy, unemployed workers will more than likely inundate the government with requests for financial assistance.
+  - Since James is very sensitive to odors, he will not spray any fragrance in his house that will inundate his sinuses.
+  - I hope the excited fans will not inundate the shy celebrity when she walks into the theater.
+  - If dogs and cats are not spayed and neutered, they can overpopulate and inundate the planet.
+
+
+
+* [[https://wordsinasentence.com/invective-in-a-sentence/][Invective]]
+
+  =abusive language used to criticize=
+
+  - The newspaper’s invective of the novel really made the author angry.
+  - Because your invective hurt my feelings, I am going to stay away from you for a while.
+  -  The politician’s invective about his opponent caused him many votes in the election.
+  - When my ex-husband tried to start a fight with me by using an invective, I simply walked away from him.
+  - Words of encouragement are much better than the harsh words of an invective.
+  - After the first speaker began the debate with an invective towards his opponent, it was impossible for any meaningful conversation to occur between the two men.
+  - From across the room, my rival tried to taunt me with an invective.
+
+
+
+* [[https://wordsinasentence.com/inveigh-in-a-sentence/][Inveigh]]
+
+  =to criticize someone or something very strongly=
+
+  - Because one politician chose to inveigh on the subject of immigration for an hour, the debate went on all afternoon.
+  - No matter how angry I get, I will not inveigh my feelings using social media.
+  - The entire purpose of the article was to inveigh on the topic of gun control.
+  - Too often, bloggers inveigh on political topics when they know very little about politics.
+  - There are not enough words for me to inveigh how angry I am right now!
+  - During the trial, the prosecutor took every opportunity to inveigh his feelings about the defendant.
+  - When approached by the reporter, it was not difficult at all for the victim’s mother to inveigh her thoughts on her daughter’s attacker.
+
+
+
+* [[https://wordsinasentence.com/inveigle-in-a-sentence/][Inveigle]]
+
+  =to persuade someone to do something by means of deception or flattery=
+
+  - Speechless I stood by as June was able to inveigle her way into the private club by flirting with the security guard.
+  - The detective could inveigle information out of the quietest suspects.
+  - Although the salesman thought it would be easy for him to inveigle my grandmother into buying a vacuum she did not need, he soon realized my grandmother was not easily fooled.
+  - Tracy had no problem showing off her feminine assets to inveigle her way backstage to meet her favorite singer.
+  - During the trial, the witnesses described how the defendant used deception to inveigle his clients into investing in his scam.
+  - My lazy brother is going to try and inveigle our mother into paying for his spring trip to the beach.
+  - Although Karen is a lousy secretary, she is very attractive and recently received a pay raise because of her ability to inveigle her boss by constantly referring to his good looks.
+
+
+
+* [[https://wordsinasentence.com/inveterate-in-a-sentence/][Inveterate]]
+
+  =have a particular interest or habit that is unlikely to change=
+
+  - Because Janet was an inveterate traveler, it seemed as though she lived at the airport.
+  - Mark is an inveterate liar who could not tell the truth even if you paid him.
+  - Although Hank was an inveterate peacemaker, he did not function well in his job as a mediator.
+  - Ginger is an inveterate reader who always has a book in her hands.
+  - Since I am an inveterate skeptic, there is very little I will believe without proof.
+  - The inveterate inventor has made millions of dollars by selling numerous product designs.
+  - Although Mark is twenty-eight years old, he is an inveterate slacker who has no wish other than to watch wrestling on television.
+
+
+
+* [[https://wordsinasentence.com/invidious-in-a-sentence/][Invidious]]
+
+  =unpleasant and likely to cause bad feelings in other people=
+
+  - The dictator’s invidious acts caused the people to rise up against him.
+  - In Jeremy’s opinion, the death penalty is an invidious part of the legal system that should be considered a crime against humanity.
+  - Nathan’s invidious behavior disturbed others and got him kicked out of the movie theater.
+  - When Sally drinks alcohol, she starts to display invidious behavior that makes everyone feel uncomfortable.
+  - Many people believe the habit of giving out trophies to only a few student competitors is invidious and likely to promote ill will between peers.
+  - When you compare someone to a wild animal, you are making an invidious association that does not compliment the person.
+  - The judge knew his decision to release the killer would be considered invidious by the victim’s family.
+
+
+
+* [[https://wordsinasentence.com/invoke-in-a-sentence/][Invoke]]
+
+  =to request aid, usually from a deity=
+
+  - During the baptism, the priest will invoke a lifetime of blessings for the infant.
+  - The celebrity will invoke assistance from the police to keep stalkers away from his property.
+  - To defeat her opponents, the superhero had to invoke Mother Nature’s power to create a tornado.
+  - The members of the tribe will invoke water from the gods by performing a rain dance.
+
+
+
+* [[https://wordsinasentence.com/iota-in-a-sentence/][Iota]]
+
+  =a tiny amount=
+
+  - If there is even one iota of doubt, the jury should not find the defendant guilty.
+  - My father says his love for my mother has not decreased one iota in their thirty years of marriage.
+  - Although the suspect said he was out of town at the time of the murder, there was not one iota of proof to support his claim.
+  - As a starving writer, all I need is for one publisher to have an iota of faith in my novel.
+
+
+
+* [[https://wordsinasentence.com/ire-in-a-sentence/][Ire]]
+
+  =hostility triggered by a grievance or insult=
+
+  - My ire stems from the salesperson ignoring me while she talked on the telephone.
+  - When the celebrity wore the fur coat on the red carpet, she drew the ire of many animal rights activists.
+  - The victim’s spouse felt a great deal of ire towards the suspect.
+  - If my neighbor continues to let his dog poop in my front yard, he is going to feel the full force of my ire when I toss the canine waste on his porch.
+
+
+
+
+* [[https://wordsinasentence.com/irk-in-a-sentence/][Irk]]
+
+  =annoy; irritate=
+
+  - Harry likes to irk us with his irrelevant questions.
+  - It must irk Fred when Anna starts complaining.
+  - The baby’s nonstop crying began to irk me.
+  - Bella’s car makes creaking noises that irk her.
+
+
+
+* [[https://wordsinasentence.com/irksome-in-a-sentence/][Irksome]]
+
+  =irritatingly bothersome=
+
+  - Hank's fellow employees try to avoid him because of his irksome behavior.
+  - To avoid the irksome security lines at the airport, Rick has applied for a screening pass that will allow him to reach his gate more quickly.
+  - My irksome mother-in-law is constantly complaining about the way I clean my home.
+  - Because Gina did not think of others, she could not imagine her neighbors would find her loud music irksome.
+  - Even the offer of a bonus did not motivate any of the real estate agents to work with the irksome woman.
+  - The police officer told the irksome beggar to stop bothering pedestrians.
+  - On the plane, I sat next to a woman with an irksome toddler who whined throughout the six-hour flight.
+
+
+
+* [[https://wordsinasentence.com/irremediable-in-a-sentence/][Irremediable]]
+
+  =unable to be remedied, cured, corrected or repaired=
+
+  - Bursting into tears, the young mother was appalled when she heard her baby had an irremediable disease which would cause severe pain for the rest of her life.
+  - Once the spoiled girl reached her teenage years, the family knew it would be impossible to try to humble the irremediable girl.
+  - With only two weeks until the end of the term, the college student decided to register again for the math class because he knew it was too late for his irremediable grade.
+  - Since the home team was down 56 to 8, it was irremediable to try and stage a comeback now.
+
+
+
+* [[https://wordsinasentence.com/itinerary-in-a-sentence/][Itinerary]]
+
+  =a detailed schedule usually for a trip=
+
+  - With his itinerary in hand, the tourist began his first day in Ireland by walking to each place on his list so he could see every attraction.
+  - The teacher had to submit an itinerary for her field trip to Disneyworld listing every stop they would make at each hour of the day.
+  - When the itinerary was given out daily to the passengers on the cruise, they could decide which activities they wanted to do and at which time the activities were being offered.
+  - In order to be on time for their event, each Olympic athlete consulted their itinerary to determine the location and time for their event.
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

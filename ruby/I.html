@@ -1,0 +1,4875 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>I</title>
+<!-- 2018-06-05 Tue 21:32 -->
+<meta  charset="utf-8">
+<meta  name="generator" content="Org-mode">
+<meta  name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">I</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Igneous</a></li>
+<li><a href="#sec-2">2. Ignoble</a></li>
+<li><a href="#sec-3">3. Ignominious</a></li>
+<li><a href="#sec-4">4. Ignominy</a></li>
+<li><a href="#sec-5">5. Imbue</a></li>
+<li><a href="#sec-6">6. Imitate</a></li>
+<li><a href="#sec-7">7. Immaculate</a></li>
+<li><a href="#sec-8">8. Imminent</a></li>
+<li><a href="#sec-9">9. Impair</a></li>
+<li><a href="#sec-10">10. Impart</a></li>
+<li><a href="#sec-11">11. Impartial</a></li>
+<li><a href="#sec-12">12. Impassive</a></li>
+<li><a href="#sec-13">13. Impeccable</a></li>
+<li><a href="#sec-14">14. Impecunious</a></li>
+<li><a href="#sec-15">15. Impede</a></li>
+<li><a href="#sec-16">16. Impediment</a></li>
+<li><a href="#sec-17">17. Impending</a></li>
+<li><a href="#sec-18">18. Imperative</a></li>
+<li><a href="#sec-19">19. Imperious</a></li>
+<li><a href="#sec-20">20. Impermanence</a></li>
+<li><a href="#sec-21">21. Impersonal</a></li>
+<li><a href="#sec-22">22. Impersonate</a></li>
+<li><a href="#sec-23">23. Impertinent</a></li>
+<li><a href="#sec-24">24. Imperturbable</a></li>
+<li><a href="#sec-25">25. Impervious</a></li>
+<li><a href="#sec-26">26. Impetuous</a></li>
+<li><a href="#sec-27">27. Impiety</a></li>
+<li><a href="#sec-28">28. Impolitic</a></li>
+<li><a href="#sec-29">29. Imponderable</a></li>
+<li><a href="#sec-30">30. Imposter</a></li>
+<li><a href="#sec-31">31. Imposture</a></li>
+<li><a href="#sec-32">32. Impound</a></li>
+<li><a href="#sec-33">33. Impressionable</a></li>
+<li><a href="#sec-34">34. Impromptu</a></li>
+<li><a href="#sec-35">35. Impropriety</a></li>
+<li><a href="#sec-36">36. Improvident</a></li>
+<li><a href="#sec-37">37. Improvise</a></li>
+<li><a href="#sec-38">38. Imprudent</a></li>
+<li><a href="#sec-39">39. Impudent</a></li>
+<li><a href="#sec-40">40. Impugn</a></li>
+<li><a href="#sec-41">41. Impunity</a></li>
+<li><a href="#sec-42">42. Impute</a></li>
+<li><a href="#sec-43">43. Inadvertent</a></li>
+<li><a href="#sec-44">44. Inane</a></li>
+<li><a href="#sec-45">45. Incandescent</a></li>
+<li><a href="#sec-46">46. Incendiary</a></li>
+<li><a href="#sec-47">47. Incessant</a></li>
+<li><a href="#sec-48">48. Incident</a></li>
+<li><a href="#sec-49">49. Incidence</a></li>
+<li><a href="#sec-50">50. Incoherent</a></li>
+<li><a href="#sec-51">51. Inconsequential</a></li>
+<li><a href="#sec-52">52. Inconsolable</a></li>
+<li><a href="#sec-53">53. Incorporate</a></li>
+<li><a href="#sec-54">54. Incorrigible</a></li>
+<li><a href="#sec-55">55. Incumbent</a></li>
+<li><a href="#sec-56">56. Indefatigable</a></li>
+<li><a href="#sec-57">57. Indenture</a></li>
+<li><a href="#sec-58">58. Indigenous</a></li>
+<li><a href="#sec-59">59. Indigent</a></li>
+<li><a href="#sec-60">60. Inept</a></li>
+<li><a href="#sec-61">61. Ineptitude</a></li>
+<li><a href="#sec-62">62. Inexorable</a></li>
+<li><a href="#sec-63">63. Infantile</a></li>
+<li><a href="#sec-64">64. Infuse</a></li>
+<li><a href="#sec-65">65. Ingenuity</a></li>
+<li><a href="#sec-66">66. Ingenuous</a></li>
+<li><a href="#sec-67">67. Ingest</a></li>
+<li><a href="#sec-68">68. Ingrained</a></li>
+<li><a href="#sec-69">69. Ingrate</a></li>
+<li><a href="#sec-70">70. Ingratiate</a></li>
+<li><a href="#sec-71">71. Inimitable</a></li>
+<li><a href="#sec-72">72. Injurious</a></li>
+<li><a href="#sec-73">73. Innate</a></li>
+<li><a href="#sec-74">74. Insatiable</a></li>
+<li><a href="#sec-75">75. Insidious</a></li>
+<li><a href="#sec-76">76. Insinuate</a></li>
+<li><a href="#sec-77">77. Insipid</a></li>
+<li><a href="#sec-78">78. Insolent</a></li>
+<li><a href="#sec-79">79. Instigate</a></li>
+<li><a href="#sec-80">80. Insular</a></li>
+<li><a href="#sec-81">81. Intemperate</a></li>
+<li><a href="#sec-82">82. Interpolate</a></li>
+<li><a href="#sec-83">83. Intimate</a></li>
+<li><a href="#sec-84">84. Intimation</a></li>
+<li><a href="#sec-85">85. Intimidate</a></li>
+<li><a href="#sec-86">86. Intransigent</a></li>
+<li><a href="#sec-87">87. Intrepid</a></li>
+<li><a href="#sec-88">88. Introspective</a></li>
+<li><a href="#sec-89">89. Inure</a></li>
+<li><a href="#sec-90">90. Involuntary</a></li>
+<li><a href="#sec-91">91. Irascible</a></li>
+<li><a href="#sec-92">92. Irate</a></li>
+<li><a href="#sec-93">93. Iridescent</a></li>
+<li><a href="#sec-94">94. Irresolute</a></li>
+<li><a href="#sec-95">95. Irreverent</a></li>
+<li><a href="#sec-96">96. Itinerant</a></li>
+<li><a href="#sec-97">97. Illustrious</a></li>
+<li><a href="#sec-98">98. Imbecile</a></li>
+<li><a href="#sec-99">99. Imbibe</a></li>
+<li><a href="#sec-100">100. Imbroglio</a></li>
+<li><a href="#sec-101">101. Immensity</a></li>
+<li><a href="#sec-102">102. Immolation</a></li>
+<li><a href="#sec-103">103. Immure</a></li>
+<li><a href="#sec-104">104. Impale</a></li>
+<li><a href="#sec-105">105. Impasse</a></li>
+<li><a href="#sec-106">106. Impeach</a></li>
+<li><a href="#sec-107">107. Impel</a></li>
+<li><a href="#sec-108">108. Impending</a></li>
+<li><a href="#sec-109">109. Impenitent</a></li>
+<li><a href="#sec-110">110. Imperil</a></li>
+<li><a href="#sec-111">111. Impertinent</a></li>
+<li><a href="#sec-112">112. Impetus</a></li>
+<li><a href="#sec-113">113. Impinge</a></li>
+<li><a href="#sec-114">114. Implant</a></li>
+<li><a href="#sec-115">115. Implicate</a></li>
+<li><a href="#sec-116">116. Implode</a></li>
+<li><a href="#sec-117">117. Implored</a></li>
+<li><a href="#sec-118">118. Importune</a></li>
+<li><a href="#sec-119">119. Imprecation</a></li>
+<li><a href="#sec-120">120. Imprint</a></li>
+<li><a href="#sec-121">121. Incarcerate</a></li>
+<li><a href="#sec-122">122. Incinerate</a></li>
+<li><a href="#sec-123">123. Incite</a></li>
+<li><a href="#sec-124">124. Inclement</a></li>
+<li><a href="#sec-125">125. Incriminate</a></li>
+<li><a href="#sec-126">126. Incubus</a></li>
+<li><a href="#sec-127">127. Inculcate</a></li>
+<li><a href="#sec-128">128. Inculpate</a></li>
+<li><a href="#sec-129">129. Incur</a></li>
+<li><a href="#sec-130">130. Indemnify</a></li>
+<li><a href="#sec-131">131. Indignant</a></li>
+<li><a href="#sec-132">132. Indignity</a></li>
+<li><a href="#sec-133">133. Induction</a></li>
+<li><a href="#sec-134">134. Inebriated</a></li>
+<li><a href="#sec-135">135. Ineluctable</a></li>
+<li><a href="#sec-136">136. Inexpedient</a></li>
+<li><a href="#sec-137">137. Infatuated</a></li>
+<li><a href="#sec-138">138. Infelicitous</a></li>
+<li><a href="#sec-139">139. Influx</a></li>
+<li><a href="#sec-140">140. Infraction</a></li>
+<li><a href="#sec-141">141. Infringe</a></li>
+<li><a href="#sec-142">142. Ingress</a></li>
+<li><a href="#sec-143">143. Iniquity</a></li>
+<li><a href="#sec-144">144. Inkling</a></li>
+<li><a href="#sec-145">145. Innuendo</a></li>
+<li><a href="#sec-146">146. Inscribe</a></li>
+<li><a href="#sec-147">147. Inscrutable</a></li>
+<li><a href="#sec-148">148. Insignia</a></li>
+<li><a href="#sec-149">149. Insouciant</a></li>
+<li><a href="#sec-150">150. Instill</a></li>
+<li><a href="#sec-151">151. Insuperable</a></li>
+<li><a href="#sec-152">152. Insurrection</a></li>
+<li><a href="#sec-153">153. Intercede</a></li>
+<li><a href="#sec-154">154. Interloper</a></li>
+<li><a href="#sec-155">155. Interlude</a></li>
+<li><a href="#sec-156">156. Intermission</a></li>
+<li><a href="#sec-157">157. Intermittent</a></li>
+<li><a href="#sec-158">158. Interpose</a></li>
+<li><a href="#sec-159">159. Interrogate</a></li>
+<li><a href="#sec-160">160. Inundate</a></li>
+<li><a href="#sec-161">161. Invective</a></li>
+<li><a href="#sec-162">162. Inveigh</a></li>
+<li><a href="#sec-163">163. Inveigle</a></li>
+<li><a href="#sec-164">164. Inveterate</a></li>
+<li><a href="#sec-165">165. Invidious</a></li>
+<li><a href="#sec-166">166. Invoke</a></li>
+<li><a href="#sec-167">167. Iota</a></li>
+<li><a href="#sec-168">168. Ire</a></li>
+<li><a href="#sec-169">169. Irk</a></li>
+<li><a href="#sec-170">170. Irksome</a></li>
+<li><a href="#sec-171">171. Irremediable</a></li>
+<li><a href="#sec-172">172. Itinerary</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Igneous</a></li>
+<li><a href="#sec-2">2. Ignoble</a></li>
+<li><a href="#sec-3">3. Ignominious</a></li>
+<li><a href="#sec-4">4. Ignominy</a></li>
+<li><a href="#sec-5">5. Imbue</a></li>
+<li><a href="#sec-6">6. Imitate</a></li>
+<li><a href="#sec-7">7. Immaculate</a></li>
+<li><a href="#sec-8">8. Imminent</a></li>
+<li><a href="#sec-9">9. Impair</a></li>
+<li><a href="#sec-10">10. Impart</a></li>
+<li><a href="#sec-11">11. Impartial</a></li>
+<li><a href="#sec-12">12. Impassive</a></li>
+<li><a href="#sec-13">13. Impeccable</a></li>
+<li><a href="#sec-14">14. Impecunious</a></li>
+<li><a href="#sec-15">15. Impede</a></li>
+<li><a href="#sec-16">16. Impediment</a></li>
+<li><a href="#sec-17">17. Impending</a></li>
+<li><a href="#sec-18">18. Imperative</a></li>
+<li><a href="#sec-19">19. Imperious</a></li>
+<li><a href="#sec-20">20. Impermanence</a></li>
+<li><a href="#sec-21">21. Impersonal</a></li>
+<li><a href="#sec-22">22. Impersonate</a></li>
+<li><a href="#sec-23">23. Impertinent</a></li>
+<li><a href="#sec-24">24. Imperturbable</a></li>
+<li><a href="#sec-25">25. Impervious</a></li>
+<li><a href="#sec-26">26. Impetuous</a></li>
+<li><a href="#sec-27">27. Impiety</a></li>
+<li><a href="#sec-28">28. Impolitic</a></li>
+<li><a href="#sec-29">29. Imponderable</a></li>
+<li><a href="#sec-30">30. Imposter</a></li>
+<li><a href="#sec-31">31. Imposture</a></li>
+<li><a href="#sec-32">32. Impound</a></li>
+<li><a href="#sec-33">33. Impressionable</a></li>
+<li><a href="#sec-34">34. Impromptu</a></li>
+<li><a href="#sec-35">35. Impropriety</a></li>
+<li><a href="#sec-36">36. Improvident</a></li>
+<li><a href="#sec-37">37. Improvise</a></li>
+<li><a href="#sec-38">38. Imprudent</a></li>
+<li><a href="#sec-39">39. Impudent</a></li>
+<li><a href="#sec-40">40. Impugn</a></li>
+<li><a href="#sec-41">41. Impunity</a></li>
+<li><a href="#sec-42">42. Impute</a></li>
+<li><a href="#sec-43">43. Inadvertent</a></li>
+<li><a href="#sec-44">44. Inane</a></li>
+<li><a href="#sec-45">45. Incandescent</a></li>
+<li><a href="#sec-46">46. Incendiary</a></li>
+<li><a href="#sec-47">47. Incessant</a></li>
+<li><a href="#sec-48">48. Incident</a></li>
+<li><a href="#sec-49">49. Incidence</a></li>
+<li><a href="#sec-50">50. Incoherent</a></li>
+<li><a href="#sec-51">51. Inconsequential</a></li>
+<li><a href="#sec-52">52. Inconsolable</a></li>
+<li><a href="#sec-53">53. Incorporate</a></li>
+<li><a href="#sec-54">54. Incorrigible</a></li>
+<li><a href="#sec-55">55. Incumbent</a></li>
+<li><a href="#sec-56">56. Indefatigable</a></li>
+<li><a href="#sec-57">57. Indenture</a></li>
+<li><a href="#sec-58">58. Indigenous</a></li>
+<li><a href="#sec-59">59. Indigent</a></li>
+<li><a href="#sec-60">60. Inept</a></li>
+<li><a href="#sec-61">61. Ineptitude</a></li>
+<li><a href="#sec-62">62. Inexorable</a></li>
+<li><a href="#sec-63">63. Infantile</a></li>
+<li><a href="#sec-64">64. Infuse</a></li>
+<li><a href="#sec-65">65. Ingenuity</a></li>
+<li><a href="#sec-66">66. Ingenuous</a></li>
+<li><a href="#sec-67">67. Ingest</a></li>
+<li><a href="#sec-68">68. Ingrained</a></li>
+<li><a href="#sec-69">69. Ingrate</a></li>
+<li><a href="#sec-70">70. Ingratiate</a></li>
+<li><a href="#sec-71">71. Inimitable</a></li>
+<li><a href="#sec-72">72. Injurious</a></li>
+<li><a href="#sec-73">73. Innate</a></li>
+<li><a href="#sec-74">74. Insatiable</a></li>
+<li><a href="#sec-75">75. Insidious</a></li>
+<li><a href="#sec-76">76. Insinuate</a></li>
+<li><a href="#sec-77">77. Insipid</a></li>
+<li><a href="#sec-78">78. Insolent</a></li>
+<li><a href="#sec-79">79. Instigate</a></li>
+<li><a href="#sec-80">80. Insular</a></li>
+<li><a href="#sec-81">81. Intemperate</a></li>
+<li><a href="#sec-82">82. Interpolate</a></li>
+<li><a href="#sec-83">83. Intimate</a></li>
+<li><a href="#sec-84">84. Intimation</a></li>
+<li><a href="#sec-85">85. Intimidate</a></li>
+<li><a href="#sec-86">86. Intransigent</a></li>
+<li><a href="#sec-87">87. Intrepid</a></li>
+<li><a href="#sec-88">88. Introspective</a></li>
+<li><a href="#sec-89">89. Inure</a></li>
+<li><a href="#sec-90">90. Involuntary</a></li>
+<li><a href="#sec-91">91. Irascible</a></li>
+<li><a href="#sec-92">92. Irate</a></li>
+<li><a href="#sec-93">93. Iridescent</a></li>
+<li><a href="#sec-94">94. Irresolute</a></li>
+<li><a href="#sec-95">95. Irreverent</a></li>
+<li><a href="#sec-96">96. Itinerant</a></li>
+<li><a href="#sec-97">97. Illustrious</a></li>
+<li><a href="#sec-98">98. Imbecile</a></li>
+<li><a href="#sec-99">99. Imbibe</a></li>
+<li><a href="#sec-100">100. Imbroglio</a></li>
+<li><a href="#sec-101">101. Immensity</a></li>
+<li><a href="#sec-102">102. Immolation</a></li>
+<li><a href="#sec-103">103. Immure</a></li>
+<li><a href="#sec-104">104. Impale</a></li>
+<li><a href="#sec-105">105. Impasse</a></li>
+<li><a href="#sec-106">106. Impeach</a></li>
+<li><a href="#sec-107">107. Impel</a></li>
+<li><a href="#sec-108">108. Impending</a></li>
+<li><a href="#sec-109">109. Impenitent</a></li>
+<li><a href="#sec-110">110. Imperil</a></li>
+<li><a href="#sec-111">111. Impertinent</a></li>
+<li><a href="#sec-112">112. Impetus</a></li>
+<li><a href="#sec-113">113. Impinge</a></li>
+<li><a href="#sec-114">114. Implant</a></li>
+<li><a href="#sec-115">115. Implicate</a></li>
+<li><a href="#sec-116">116. Implode</a></li>
+<li><a href="#sec-117">117. Implored</a></li>
+<li><a href="#sec-118">118. Importune</a></li>
+<li><a href="#sec-119">119. Imprecation</a></li>
+<li><a href="#sec-120">120. Imprint</a></li>
+<li><a href="#sec-121">121. Incarcerate</a></li>
+<li><a href="#sec-122">122. Incinerate</a></li>
+<li><a href="#sec-123">123. Incite</a></li>
+<li><a href="#sec-124">124. Inclement</a></li>
+<li><a href="#sec-125">125. Incriminate</a></li>
+<li><a href="#sec-126">126. Incubus</a></li>
+<li><a href="#sec-127">127. Inculcate</a></li>
+<li><a href="#sec-128">128. Inculpate</a></li>
+<li><a href="#sec-129">129. Incur</a></li>
+<li><a href="#sec-130">130. Indemnify</a></li>
+<li><a href="#sec-131">131. Indignant</a></li>
+<li><a href="#sec-132">132. Indignity</a></li>
+<li><a href="#sec-133">133. Induction</a></li>
+<li><a href="#sec-134">134. Inebriated</a></li>
+<li><a href="#sec-135">135. Ineluctable</a></li>
+<li><a href="#sec-136">136. Inexpedient</a></li>
+<li><a href="#sec-137">137. Infatuated</a></li>
+<li><a href="#sec-138">138. Infelicitous</a></li>
+<li><a href="#sec-139">139. Influx</a></li>
+<li><a href="#sec-140">140. Infraction</a></li>
+<li><a href="#sec-141">141. Infringe</a></li>
+<li><a href="#sec-142">142. Ingress</a></li>
+<li><a href="#sec-143">143. Iniquity</a></li>
+<li><a href="#sec-144">144. Inkling</a></li>
+<li><a href="#sec-145">145. Innuendo</a></li>
+<li><a href="#sec-146">146. Inscribe</a></li>
+<li><a href="#sec-147">147. Inscrutable</a></li>
+<li><a href="#sec-148">148. Insignia</a></li>
+<li><a href="#sec-149">149. Insouciant</a></li>
+<li><a href="#sec-150">150. Instill</a></li>
+<li><a href="#sec-151">151. Insuperable</a></li>
+<li><a href="#sec-152">152. Insurrection</a></li>
+<li><a href="#sec-153">153. Intercede</a></li>
+<li><a href="#sec-154">154. Interloper</a></li>
+<li><a href="#sec-155">155. Interlude</a></li>
+<li><a href="#sec-156">156. Intermission</a></li>
+<li><a href="#sec-157">157. Intermittent</a></li>
+<li><a href="#sec-158">158. Interpose</a></li>
+<li><a href="#sec-159">159. Interrogate</a></li>
+<li><a href="#sec-160">160. Inundate</a></li>
+<li><a href="#sec-161">161. Invective</a></li>
+<li><a href="#sec-162">162. Inveigh</a></li>
+<li><a href="#sec-163">163. Inveigle</a></li>
+<li><a href="#sec-164">164. Inveterate</a></li>
+<li><a href="#sec-165">165. Invidious</a></li>
+<li><a href="#sec-166">166. Invoke</a></li>
+<li><a href="#sec-167">167. Iota</a></li>
+<li><a href="#sec-168">168. Ire</a></li>
+<li><a href="#sec-169">169. Irk</a></li>
+<li><a href="#sec-170">170. Irksome</a></li>
+<li><a href="#sec-171">171. Irremediable</a></li>
+<li><a href="#sec-172">172. Itinerary</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Author</td>
+<td class="left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="left">Date</td>
+<td class="left">2018-06-05 21:32:38</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/igneous-in-a-sentence/">Igneous</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>solidified from lava or magma</code>
+</p>
+
+<ul class="org-ul">
+<li>After the volcano erupted and lava covered the ground, many igneous rocks were created.
+</li>
+<li>Igneous rocks such as basalt are the after product of a volcanic eruption.
+</li>
+<li>Although all igneous rocks originally stem from volcanic lava, many morph into other types of rocks overtime.
+</li>
+<li>Some igneous rocks are formed from magma that cools and solidifies within the crust of the earth.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/ignoble-in-a-sentence/">Ignoble</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>not deserving respect; not honorable</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Frank has a habit of not showing up on time, he has an ignoble reputation as someone who is not very responsible.
+</li>
+<li>The serial killer was buried in an ignoble grave in the back of the cemetery.
+</li>
+<li>As punishment for vandalizing one of the school bathrooms, George received the ignoble task of cleaning all the bathrooms for one week.
+</li>
+<li>Frank was a greedy man who had only ignoble motives when he helped the young heiress.
+</li>
+<li>During his speech, the district attorney promised to rid the city of ignoble police officers guilty of abusing their power.
+</li>
+<li>The ignoble accountant was convicted of stealing money from his firm.
+</li>
+<li>Since the criminal showed no remorse for his ignoble deeds, the judge sentenced him to life in prison.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/ignominious-meaning-in-a-sentence/">Ignominious</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>very embarrassing; shameful or disgraceful</code>
+</p>
+
+<ul class="org-ul">
+<li>When the boxer got knocked out in the first round, everyone knew it was the beginning of an ignominious defeat for him.
+</li>
+<li>Since Charles struck out at bat three times, he is credited as the reason our baseball team suffered such an ignominious loss in the state playoffs.
+</li>
+<li>Because he divorced his wife and later married her sister, Henry has an ignominious reputation among the townspeople.
+</li>
+<li>While our computer teacher was not arrested for stealing school property, she still made an ignominious departure from the building after being interviewed by the police.
+</li>
+<li>The basketball player’s downfall was caused by his ignominious steroid use.
+</li>
+<li>Once upon a time, unwed pregnant women were frowned upon and viewed as ignominious members of society.
+</li>
+<li>After being excommunicated from the church, the priest made an ignominious exit from the building.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/ignominy-in-a-sentence/">Ignominy</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>public shame or disgrace</code>
+</p>
+
+<ul class="org-ul">
+<li>After being confronted about the theft, the official left the room in ignominy.
+</li>
+<li>Our team has to face the ignominy of a long losing streak.
+</li>
+<li>Because he was given a dishonorable discharge from the military, Carl had no choice but to return home in ignominy.
+</li>
+<li>Once upon a time, if you were an unwed mother, you were viewed as a source of ignominy.
+</li>
+<li>The incriminating pictures brought ignominy to the celebrity.
+</li>
+<li>I cannot believe ignominy caused the man to take his own life!
+</li>
+<li>Caleb’s many extra-marital affairs brought ignominy to his wife.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/imbue-in-a-sentence/">Imbue</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>to cause to be strongly influenced by a quality or emotion</code>
+</p>
+
+<ul class="org-ul">
+<li>After the terrorist bombings, the government placed several of the country’s flags at the site of the ruins to imbue patriotism.
+</li>
+<li>The purpose of singing the school song is to imbue school spirit among the students and faculty.
+</li>
+<li>When cinnamon is added to the sweet potato batter, it will imbue the pie with a hint of spice.
+</li>
+<li>The addition of red paint will imbue the painting’s background with an impression of rage that symbolizes the artist’s feelings about government control.
+</li>
+<li>In the movie, the wizard will imbue two wayward travellers with the courage and love they need to pursue happy lives.
+</li>
+<li>Painting the room yellow will imbue the area with a warm and inviting air.
+</li>
+<li>Before the final exam, the teacher gave her students an encouraging talk to imbue them with confidence.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/imitate-in-a-sentence/">Imitate</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>to copy or simulate the function of something else</code>
+</p>
+
+<ul class="org-ul">
+<li>Young children will often attempt to imitate their parents, which is why you shouldn’t do anything you wouldn’t want your child to do while they’re watching.
+</li>
+<li>Many insects imitate more deadly animals in order to scare away predators, such as moths with wing markings reminiscent of owls.
+</li>
+<li>When a TV show has great success in public media, many other producers try to imitate it with a similar product to cash in.
+</li>
+<li>There are many musicians that have tried to imitate the unique sound of artists in the past, though they usually add their own twist as well.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/immaculate-in-a-sentence/">Immaculate</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>without any blemish or imperfection</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I am having guests over for dinner, my house must be cleaned until it is immaculate.
+</li>
+<li>The gardener works seven days a week to keep my lawn immaculate.
+</li>
+<li>When Ginger took her bridal pictures, she looked immaculate in her wedding gown.
+</li>
+<li>The soldier was reprimanded for ruining his immaculate uniform.
+</li>
+<li>With everyone’s help, we were able to pick up all the trash and make the park immaculate.
+</li>
+<li>Since the hotel room was far from immaculate, I called the front desk and asked for a new room.
+</li>
+<li>After the tub was scrubbed for hours, it finally looked immaculate.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/imminent-in-a-sentence/">Imminent</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>likely to occur at any moment</code>
+</p>
+
+<ul class="org-ul">
+<li>When the Secret Service arrived, everyone knew the president’s arrival was imminent.
+</li>
+<li>The hurricane is imminent and has homeowners rushing to board up their windows.
+</li>
+<li>Despite what the scientist said, the volcano eruption is not imminent so do not be concerned!
+</li>
+<li>Some people thought it was funny when the media predicted the imminent death of the drug-addicted celebrity.
+</li>
+<li>Because the swat team just arrived on the scene, it is likely a confrontation between the robbers and the police is imminent.
+</li>
+<li>Without some type of government funding, the closing of the school is imminent.
+</li>
+<li>Even though Sarah had been bit by a snake, she was not in imminent danger because the snake was not poisonous.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/impair-in-a-sentence/">Impair</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>damage or weaken something</code>
+</p>
+
+<ul class="org-ul">
+<li>Alcohol can greatly impair your judgement.
+</li>
+<li>Certain drugs will impair your depth perception, making it unsafe to drive.
+</li>
+<li>Smoking cigarettes will impair your overall level of health.
+</li>
+<li>A bad diet can impair your ability to perform athletically.
+</li>
+<li>Most sunglasses will slightly impair your depth perception, throwing off your ability to judge distances.
+</li>
+<li>Fear can impair your ability to react properly in an emergency.
+</li>
+<li>Those new pills did nothing but impair his ability to think clearly.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/impart-in-a-sentence/">Impart</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>to distribute a portion of something</code>
+</p>
+
+<ul class="org-ul">
+<li>A teacher’s job is to impart knowledge to her students.
+</li>
+<li>By adding garlic to the spaghetti, the cook hopes to impart flavor to the dish.
+</li>
+<li>Please sit down because the news I am about to impart to you is not pleasant.
+</li>
+<li>Before the current president leaves his position, he will impart many important facts to his successor.
+</li>
+<li>The stain will impart a beautiful brown color to the unfinished wood.
+</li>
+<li>With a few dashes of cumin and cinnamon, the baker will impart mouthwatering flavors to the pie.
+</li>
+<li>The genie will impart three wishes to the one who brings him forth from the bottle.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/impartial-in-a-sentence/">Impartial</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>to not offer influence to any side</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the judge is related to the defendant, it is not possible for him to be impartial during the trial.
+</li>
+<li>The impartial moderator managed the debate and did not show favoritism to either politician.
+</li>
+<li>Was the city council being impartial when it decided to build the sewage plant in the poor neighborhood?
+</li>
+<li>When the contestant did not advance to the next round of the competition, she accused the judges of not being impartial.
+</li>
+<li>There is no way Allison can be an impartial critic when her daughter is performing in the talent show.
+</li>
+<li>As a party hostess, Jill must act impartial towards her guests and not show a preference for any one person.
+</li>
+<li>The impartial ruling decided neither of the parties was at fault for the accident.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-12" class="outline-2">
+<h2 id="sec-12"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/impassive-in-a-sentence/">Impassive</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>having, or revealing, no emotion; expressionless</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though it was very exciting, Jon delivered the news in an impassive voice in the hope that everyone would stay calm.
+</li>
+<li>It’s so difficult to remain impassive when you’re faced with a life or death situation.
+</li>
+<li>The impassive report given by the officer was an extreme understatement of the horror of the accident.
+</li>
+<li>Although robots are well-known for being completely impassive, there are many popular movies and TV shows that depict them as adorable creatures that actually do have feelings.
+</li>
+<li>As the foreman of the jury delivered the verdict, the defendant kept his expression completely impassive so that no one could tell what he was feeling inside.
+</li>
+<li>She tried to be friendly with the newcomer, but she found his impassive stare more than a little disturbing and excused herself  to join her friends.
+</li>
+<li>As the guests gathered in the parlor to meet their host, the impassive housekeeper ignored their clamoring questions as she passed among them with a tray of refreshments.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-13" class="outline-2">
+<h2 id="sec-13"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/impeccable-in-a-sentence/">Impeccable</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>perfect in every way</code>
+</p>
+
+<ul class="org-ul">
+<li>With your impeccable English skills, writing essays should be a cinch.
+</li>
+<li>Your impeccable work ethic and great attention to detail are reasons enough for hiring you.
+</li>
+<li>Impeccable at playing the violin at home as a child, Charles would grow up to orchestrate musicals.
+</li>
+<li>My best friend and I arrived at the same exact time—now that is impeccable timing!
+</li>
+<li>'Impeccable' is not a human quality as everyone makes mistakes.
+</li>
+<li>Without a scratch, this car is in impeccable condition!
+</li>
+<li>If you have been pulled over for speeding, then your driving record is not impeccable.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-14" class="outline-2">
+<h2 id="sec-14"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/impecunious-in-a-sentence/">Impecunious</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>lacking money; penniless</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Janice grew up in an impecunious household, she knew a great deal about surviving on very little.
+</li>
+<li>Impecunious students commonly find themselves in debt after overindulging in the use of credit cards.
+</li>
+<li>Although Tom and Janice are an impecunious couple who earn very little, they always manage to take a short vacation during the summer.
+</li>
+<li>Plans are being developed to help the impecunious people in the city who are without housing.
+</li>
+<li>Even though the singer earned millions of dollars during her heyday, she was impecunious and homeless when she died.
+</li>
+<li>Although Vincent died an impecunious artist without a penny to his name, his paintings are now highly valued by art collectors.
+</li>
+<li>The impecunious immigrant came to America to earn money to send home to his starving family.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-15" class="outline-2">
+<h2 id="sec-15"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/impede-in-a-sentence/">Impede</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>to interfere with or slow the progress of</code>
+</p>
+
+<ul class="org-ul">
+<li>If you do not eat while you are sick, the lack of nutrients will impede your recovery.
+</li>
+<li>The purpose of the barrier is to impede entry into the museum to prevent overcrowding at the exhibits.
+</li>
+<li>Because I do not want to impede your efforts on this project, I will step away and let someone else handle this difficult task.
+</li>
+<li>The new beverage laws are designed to impede the actions of people who drive under the influence of alcohol.
+</li>
+<li>If we plan the event indoors, the rain will not be able to impede our activities.
+</li>
+<li>Wearing heavy ankle weights will impede your progress as you swim across the ocean.
+</li>
+<li>While economic sanctions may impede trade between the two countries, they will not force either of the nations to do business within our borders.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-16" class="outline-2">
+<h2 id="sec-16"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/impediment-in-a-sentence/">Impediment</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>something that interferes with a person’s ability to complete a task</code>
+</p>
+
+<ul class="org-ul">
+<li>My broken wrist is the impediment preventing me from finishing my new novel.
+</li>
+<li>When Sarah learned Hank’s impediment to their marriage was his current marriage, she immediately ended their relationship.
+</li>
+<li>The impediment that interferes with Gerald’s goal of running a successful diner is the lack of good employees.
+</li>
+<li>In most romantic movies, there is always some sort of impediment that temporarily stops the guy from getting his dream girl.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-17" class="outline-2">
+<h2 id="sec-17"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/impending-in-a-sentence/">Impending</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>going to occur; coming</code>
+</p>
+
+<ul class="org-ul">
+<li>When I refused to pay the fake fortuneteller, she warned me of impending doom in my future.
+</li>
+<li>Sheila hoped Frank’s impending question was not a marriage proposal because she was not in love with him.
+</li>
+<li>Because Jim suffers from anxiety, he frequently has fears of impending disaster.
+</li>
+<li>The emergency alert instructed everyone to prepare for the impending tornado.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-18" class="outline-2">
+<h2 id="sec-18"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/imperative-in-a-sentence/">Imperative</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>essential</code>
+</p>
+
+<ul class="org-ul">
+<li>If you’re serious about getting healthy, it’s imperative that you follow a healthy lifestyle, make the right food choices, and exercise regularly.
+</li>
+<li>The school district’s new policy makes it imperative for every child to be familiar with the escape routes on school buses.
+</li>
+<li>Self-discipline and persistence are two of the imperative qualities to have for anyone who is serious about being successful in life.
+</li>
+<li>The publicist commented that the imperative restrictions placed on the press would only make the public view the celebrity as a spoiled brat.
+</li>
+<li>I’ll tell you what happened in the committee meeting, but it’s imperative that you handle the information discreetly.
+</li>
+<li>If you have a blowout on the highway, it’s imperative that you reduce speed and maintain control without stomping on the brake pedal.
+</li>
+<li>Although it’s not imperative to dress up for the occasion, you should wear something neat and tasteful.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-19" class="outline-2">
+<h2 id="sec-19"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/imperious-in-a-sentence/">Imperious</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>domineering; expecting ones' orders to be followed</code>
+</p>
+
+<ul class="org-ul">
+<li>The principal is an imperious woman who expects to be obeyed.
+</li>
+<li>When Mark got promoted to the rank of captain, he became very imperious.
+</li>
+<li>In an imperious tone, the police officer ordered the driver to step out of the car.
+</li>
+<li>If my son thinks his imperious ways will be tolerated in my home, then he has a lot to learn!
+</li>
+<li>The A-list actress has an imperious air and assumes everyone will heed her every whim.
+</li>
+<li>Although I was sick, my imperious supervisor ordered me in to work.
+</li>
+<li>Because Amy is an imperious person, she has the tendency to tell everyone what to do.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-20" class="outline-2">
+<h2 id="sec-20"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/impermanence-in-a-sentence/">Impermanence</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>the state of being temporary</code>
+</p>
+
+<ul class="org-ul">
+<li>The impermanence of the new the car’s smell caused the woman to buy air fresheners.
+</li>
+<li>His job’s impermanence led the man to seek out new opportunities.
+</li>
+<li>Forgetting weather’s impermanence, the man became depressed after several days of rain.
+</li>
+<li>The impermanence of life made the woman worry about death and what was yet to come.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-21" class="outline-2">
+<h2 id="sec-21"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/impersonal-in-a-sentence/">Impersonal</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>having no interest in other people and lacking warmth or emotion; cold</code>
+</p>
+
+<ul class="org-ul">
+<li>Breaking up with me over text was a very impersonal way to end our relationship.
+</li>
+<li>Considering I was an employee for 12 years, the letter I received letting me know I was fired was impersonal.
+</li>
+<li>My blind date was rather impersonal as he didn’t seem interested in getting to know me.
+</li>
+<li>My good friends were very impersonal towards the other guests at my party, only socializing with one another.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-22" class="outline-2">
+<h2 id="sec-22"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/impersonate-in-a-sentence/">Impersonate</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>to deliberately act or appear like someone else</code>
+</p>
+
+<ul class="org-ul">
+<li>Most people try to impersonate Elvis Presley by wearing a sparkling jumpsuit, dark sunglasses, and jet black hair, in addition to singing one of his songs.
+</li>
+<li>Cassie convinced her friend to impersonate her teacher’s voice on the phone in order to fool her parents into believing that they were speaking to Cassie’s teacher about her grades in school.
+</li>
+<li>A strange man decided to impersonate a police officer so that he could pull over unsuspecting drivers and rob them since they would believe he was a police officer.
+</li>
+<li>Since I could successfully impersonate my boss’s voice over the phone, I decided to call everyone at work and tell them they had the day off as a joke.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-23" class="outline-2">
+<h2 id="sec-23"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/impertinent-in-a-sentence/">Impertinent</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>behaving without proper respect; rude</code>
+</p>
+
+<ul class="org-ul">
+<li>Although she thought she was just being funny, her teacher didn’t agree and sent her to the principal’s office for being impertinent.
+</li>
+<li>While he never intended his remark to be impertinent, he found that a lot of people had been offended by what he said.
+</li>
+<li>Because the young man would only give an impertinent answer to his questions, the attorney decided not to take him on as a client.
+</li>
+<li>While Natalie searched frantically for her mysterious present, Ely just watched from the doorway with an impertinent smirk on his face.
+</li>
+<li>Although Alexis had been enjoying the young man’s company, his impertinent suggestion prompted her to leave the bar.
+</li>
+<li>As the site’s webmaster, it is her job to monitor the online forum for impertinent comments.
+</li>
+<li>If Evan didn’t have such an impertinent attitude with waiters, Alyssa wouldn’t have minded going out to dinner with him.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-24" class="outline-2">
+<h2 id="sec-24"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/imperturbable-in-a-sentence/">Imperturbable</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>not disturbed or excited easily</code>
+</p>
+
+<ul class="org-ul">
+<li>The imperturbable actress carried on with her performance even when her costar forgot his lines.
+</li>
+<li>Surrounded by flames and carrying a small child, the imperturbable fireman kept his cool and found his way out of the burning apartment.
+</li>
+<li>The imperturbable spy refused to give out secret information during his interrogation.
+</li>
+<li>During the bomb threat, the teacher was imperturbable and did not let her students know how worried she was.
+</li>
+<li>The beauty queen was imperturbable and wore a smile on her face even when members of the press asked about her painful childhood.
+</li>
+<li>During the riots, the police unit stood in a straight line and remained imperturbable throughout the protestor taunts.
+</li>
+<li>The fact the woman appeared imperturbable about her husband’s murder made the detectives suspicious.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-25" class="outline-2">
+<h2 id="sec-25"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/impervious-in-a-sentence/">Impervious</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>not allowing something to enter or pass through</code>
+</p>
+
+<ul class="org-ul">
+<li>Let us hope these thin walls are impervious to the freezing cold tonight!
+</li>
+<li>Since the bank installed an impervious safe, it has not been robbed.
+</li>
+<li>The broken window is not impervious to the rain.
+</li>
+<li>As evidenced by the recent bombings, not even the nation’s capital is impervious to terrorism.
+</li>
+<li>Does wearing the protective clothing during x-rays make your body impervious to radiation?
+</li>
+<li>The chemical treatment makes the fireman’s uniform impervious to flames.
+</li>
+<li>When John drinks too much alcohol, he is impervious to logic.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-26" class="outline-2">
+<h2 id="sec-26"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/impetuous-in-a-sentence/">Impetuous</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>acting without thinking—done impulsively; sudden decision</code>
+</p>
+
+<ul class="org-ul">
+<li>His impetuous behavior landed him in prison.
+</li>
+<li>Because James is only seventeen, he tends to be impetuous at times.
+</li>
+<li>Marrying someone you hardly know is an impetuous decision!
+</li>
+<li>While I may have been impetuous as a teenager, I have become a patient adult.
+</li>
+<li>Even though Warren was rumored to be impetuous, he actually put a great deal of thought into making important decisions.
+</li>
+<li>The author describes the heroine as an impetuous young woman who would do anything to become famous.
+</li>
+<li>When Constance drank too much, she made impetuous choices which often got her into trouble.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-27" class="outline-2">
+<h2 id="sec-27"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/impiety-in-a-sentence/">Impiety</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>lack of respect for God</code>
+</p>
+
+<ul class="org-ul">
+<li>Speaking with impiety of holy things was a crime in the city-state, but few were ever prosecuted.
+</li>
+<li>Admitting his transgression, the man confessed that he once showed impiety in regards to prayer.
+</li>
+<li>With an air of impiety, the woman scoffed at the religious texts which she considered fiction.
+</li>
+<li>Although he was raised in the church, the impiety of the pastor’s son showed in his use of God’s name in vain.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-28" class="outline-2">
+<h2 id="sec-28"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/impolitic-in-a-sentence/">Impolitic</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>foolish</code>
+</p>
+
+<ul class="org-ul">
+<li>I realized it was an impolitic idea to talk on my cell phone and walk through a curvy path in the woods since I am aware of my clumsiness and no sense of direction.
+</li>
+<li>An impolitic decision to text and drive a car at the same time is dangerous because texting could distract you and cause a severe accident.
+</li>
+<li>When the deceased’s cousin wore a bright red outfit with a bright hot pink hat to the funeral, the rest of the family didn’t get upset but figured it was just the cousin’s impolitic way of getting attention.
+</li>
+<li>It is not only an impolitic action to yell fire in a crowded theater, but it could also get you in trouble since it will could cause injuries.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-29" class="outline-2">
+<h2 id="sec-29"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/imponderable-in-a-sentence/">Imponderable</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>difficult or impossible to comprehend or evaluate</code>
+</p>
+
+<ul class="org-ul">
+<li>She wanted to enter the contest but guessing the amount of jelly beans in the barrel was imponderable.
+</li>
+<li>I focused on the imponderable math problem for several hours before I realized that it was unsolvable.
+</li>
+<li>Imponderable at best, the word problem confused even the gifted students.
+</li>
+<li>Asking an imponderable question, the game show host was sure that he had stumped the contestant.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-30" class="outline-2">
+<h2 id="sec-30"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/imposter-in-a-sentence/">Imposter</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>a person who pretends to be someone else in order to trick and deceive people</code>
+</p>
+
+<ul class="org-ul">
+<li>The imposter mimicked our dad’s voice to perfection.
+</li>
+<li>Bruce is an imposter who deceives others by claiming to be one of their relatives.
+</li>
+<li>I ripped off the imposter's mask, exposing him as a fraud.
+</li>
+<li>Jane is an imposter who always hides her identity.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-31" class="outline-2">
+<h2 id="sec-31"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/imposture-in-a-sentence/">Imposture</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>the act of deceiving while using a fake identity</code>
+</p>
+
+<ul class="org-ul">
+<li>The scam artist’s imposture involved convincing elderly people he could increase their retirement incomes for a small fee.
+</li>
+<li>If the heiress has been taken in by John’s imposture, she may be in danger of losing her fortune to a conman.
+</li>
+<li>William knew if he did not continue his imposture he would be executed for pretending to be the dictator’s long-lost brother.
+</li>
+<li>As soon as the immigration officer saw the fake passport, he knew the traveler was taking part in an imposture.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-32" class="outline-2">
+<h2 id="sec-32"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/impound-in-a-sentence/">Impound</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>to remove and keep property by law</code>
+</p>
+
+<ul class="org-ul">
+<li>After stopping payments on their new car, the bank would impound their car in a secured lot until the couple would pay the overdue amount.
+</li>
+<li>It was likely that the court would decide to impound the important documents from the troubled company after a whistleblower declared the company was lying to its stakeholders.
+</li>
+<li>Rental furniture companies may have to require a payment plan or impound the furniture in their store until the money is compensated.
+</li>
+<li>Fred’s face changed from shock to anger when he received a notice to impound his television set on the basis of a loan repayment.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-33" class="outline-2">
+<h2 id="sec-33"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/impressionable-in-a-sentence/">Impressionable</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>swayed easily</code>
+</p>
+
+<ul class="org-ul">
+<li>It was easy for the older boys to convince the impressionable young boy to shoplift.
+</li>
+<li>According to research, the terrorist organization seeks out impressionable young minds when recruiting members.
+</li>
+<li>Pedophiles are known to look for impressionable children they can easily manipulate.
+</li>
+<li>As a marketing executive, Keith knows the importance of targeting impressionable kids.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-34" class="outline-2">
+<h2 id="sec-34"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/impromptu-in-a-sentence/">Impromptu</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>without preparation</code>
+</p>
+
+<ul class="org-ul">
+<li>I’m not sure how many people will be able to attend the impromptu party.
+</li>
+<li>Because Jane had an impromptu wedding, she didn’t send out invitations.
+</li>
+<li>The singer was more than willing to perform an impromptu song at his friend’s concert.
+</li>
+<li>At the site of the deadly crash, residents have created an impromptu shrine using flowers and teddy bears.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-35" class="outline-2">
+<h2 id="sec-35"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/impropriety-in-a-sentence/">Impropriety</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>an inappropriate deed or action</code>
+</p>
+
+<ul class="org-ul">
+<li>The teacher was arrested for performing a sexual impropriety with a female student.
+</li>
+<li>Soon the committee will decide if the politician committed an impropriety when he accepted money from the lobbyist.
+</li>
+<li>As the head of the internal affairs unit, John was asked to investigate the police chief for an act of impropriety.
+</li>
+<li>Since Bill was running for president, he had to avoid any instances of impropriety that would place him in a bad light.
+</li>
+<li>Sadly, the senator is just the latest public official to be accused of sexual impropriety with an intern.
+</li>
+<li>When the judge learned his impropriety had made the news, he decided to resign from the bench.
+</li>
+<li>Jim’s parents kicked him out of their house when they learned about his behavioral impropriety.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-36" class="outline-2">
+<h2 id="sec-36"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/improvident-in-a-sentence/">Improvident</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>not preparing for the financial future; reckless</code>
+</p>
+
+<ul class="org-ul">
+<li>Jessie handles all of the household financial matters because of his wife’s improvident spending habits.
+</li>
+<li>Because Tom was improvident in his younger years, he now lives on a fixed income.
+</li>
+<li>The improvident loan officer foolishly approved loans for hundreds of applicants with poor credit histories.
+</li>
+<li>As an improvident young woman, Helen never thought about saving for her retirement.
+</li>
+<li>My improvident sister often spends her bill money on clothes and shoes.
+</li>
+<li>Since your income is so low, it would be improvident of you to purchase a new car right now.
+</li>
+<li>John’s improvident decision led him to invest in a business before performing adequate research.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-37" class="outline-2">
+<h2 id="sec-37"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/improvise-in-a-sentence/">Improvise</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>to create something as needed</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I forgot my lines, I tried to improvise the role during the audition.
+</li>
+<li>The miners had to improvise a way out of the cave when the walls collapsed.
+</li>
+<li>When the teleprompter stopped working, the news anchor had to improvise the last portion of the broadcast.
+</li>
+<li>Jane did not have enough eggs for the recipe so she decided to improvise by adding another ingredient.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-38" class="outline-2">
+<h2 id="sec-38"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/imprudent-in-a-sentence/">Imprudent</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>quick to act without thoughts of the consequences</code>
+</p>
+
+<ul class="org-ul">
+<li>Phil’s imprudent turn on the highway caused a six-car accident.
+</li>
+<li>When Ann booked the wedding chapel before receiving the proposal, everyone laughed at her imprudent decision.
+</li>
+<li>Jackson’s imprudent attitude led him to think he could out run the police.
+</li>
+<li>If Danielle does not stop being imprudent, she is going to get in serious legal trouble.
+</li>
+<li>Patty’s imprudent choice to leave her younger sister home alone led her parents to revoke her driving privileges.
+</li>
+<li>Because the wealthy playboy believed his father could get him out of anything, he never worried about his imprudent actions.
+</li>
+<li>The company is looking for employees who carefully consider their options instead of acting in an imprudent manner.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-39" class="outline-2">
+<h2 id="sec-39"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/impudent-in-a-sentence/">Impudent</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>very rude; not showing respect for other people</code>
+</p>
+
+<ul class="org-ul">
+<li>If the panhandler hadn’t been so impudent, I might have given him a couple of bucks.
+</li>
+<li>Even though Mary needed a new vacuum cleaner, the impudent attitude of the sales clerk made her decide to leave the store.
+</li>
+<li>Matt is an impudent scoundrel who doesn’t seem to respect rules or people.
+</li>
+<li>He never admitted that he had eaten the leftover pizza, but I could tell from his impudent smirk that he was the guilty party.
+</li>
+<li>In spite of the incessant stream of impudent questions, Mrs. Brown managed to hold on to her composure and finish the lesson on sex education.
+</li>
+<li>The impudent court jester was able to get away with insulting the royal family when anyone else would have lost their head.
+</li>
+<li>His story was a lot of impudent nonsense, but at least it was entertaining.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-40" class="outline-2">
+<h2 id="sec-40"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/impugn-in-a-sentence/">Impugn</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>to attack as false or questionable</code>
+</p>
+
+<ul class="org-ul">
+<li>The mayor leaked news of the arrest to the media to impugn his opponent’s character.
+</li>
+<li>How dare you impugn the integrity of our local councilman simply because of a Twitter rumor!
+</li>
+<li>When the prosecutor tried to impugn the defendant’s character, the defense lawyer jumped to his feet and made an objection.
+</li>
+<li>Everyone was shocked when the student tried to impugn his lab teacher’s findings.
+</li>
+<li>Although I had my ticket in my hand, the annoying attendant tried to impugn my entrance into the theater.
+</li>
+<li>The confident politician felt no need to impugn the motives of his election challengers.
+</li>
+<li>Since my daughter has not passed a single math test this year, I strongly impugn her teacher’s instructional skills.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-41" class="outline-2">
+<h2 id="sec-41"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/impunity-in-a-sentence/">Impunity</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>free from punishment; exempt from the consequences</code>
+</p>
+
+<ul class="org-ul">
+<li>In exchange for her testimony, the accomplice received impunity from prosecution.
+</li>
+<li>Despite the heinous nature of the crimes they committed, the old men received impunity from the court because of their ages.
+</li>
+<li>Often, foreign ambassadors feel they can do whatever they want because of the impunity afforded to them by visiting governments.
+</li>
+<li>I am appalled by the fact the man who killed his girlfriend was allowed to walk away with impunity!
+</li>
+<li>Because the internet is basically a lawless civilization, many people commit crimes online with impunity.
+</li>
+<li>If you are religious, you probably believe God will withdraw impunity in the end and punish all the wicked in their final days.
+</li>
+<li>International groups such as the United Nations work hard to make sure political leaders do not receive impunity for horrible acts.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-42" class="outline-2">
+<h2 id="sec-42"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/impute-in-a-sentence/">Impute</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>to lay the responsibility or blame on someone else</code>
+</p>
+
+<ul class="org-ul">
+<li>It was wrong of me to impute you for the failure of the dinner party when I was the one who did not properly plan the event.
+</li>
+<li>Although Jake cannot impute anyone else for the robbery, he will not admit to committing the crime himself.
+</li>
+<li>On Monday, Ellen will impute her failure to complete the project on her malfunctioning computer.
+</li>
+<li>Even though my sister had broken the window, she tried to impute the damage onto me.
+</li>
+<li>When the singer was asked about her awful performance, she tried to impute her mistakes to nervousness.
+</li>
+<li>The foolish drunk driver tried to impute the accident on the bartender who made the strong drinks.
+</li>
+<li>When my daughter received a failing grade in her math class, she attempted to impute her instructor’s teaching skills.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-43" class="outline-2">
+<h2 id="sec-43"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/inadvertent-in-a-sentence/">Inadvertent</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>not intentional; not on purpose; not conscious</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the principal neglected to turn off the microphone on the PA system, there was an inadvertent transmission of some very inappropriate language throughout the school.
+</li>
+<li>After Mark made an inadvertent disclosure of the winner of the Super Bowl, I didn’t even bother to watch the recording I had so carefully planned.
+</li>
+<li>I wonder how many inadvertent inventions were developed in the process of trying to discover something totally different.
+</li>
+<li>Probably the most horrific consequences of violence are the inadvertent injuries or deaths of innocent bystanders.
+</li>
+<li>Compared to all the bystanders who just stood by doing nothing, Don became an inadvertent hero by running up to the wrecked car and pulling out the frightened toddler.
+</li>
+<li>Dr. Black recommended that I use one of those compartmented containers for my pills to reduce the risk of taking an inadvertent overdose.
+</li>
+<li>After working on it for five hours, thank goodness I caught myself before I made an inadvertent deletion of the whole report.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-44" class="outline-2">
+<h2 id="sec-44"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/inane-in-a-sentence/">Inane</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>lacking sense; stupid</code>
+</p>
+
+<ul class="org-ul">
+<li>When my sisters and I get together, we tend to do inane things like dressing up as cartoon characters.
+</li>
+<li>Even though Cara is a math genius, she acts inane in class because she likes getting extra attention from the handsome math professor.
+</li>
+<li>Your idea about eating plastic fruit is totally inane.
+</li>
+<li>Although Jason has a college degree, he still behaves in an inane manner at times.
+</li>
+<li>My teacher is really good about ignoring inane comments from the clowns in our class.
+</li>
+<li>Even though a lot of people think Margaret is inane, she is really extremely intelligent.
+</li>
+<li>Whenever my lovestruck brother looks at his girlfriend, he has an inane grin on his face.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-sec-45" class="outline-2">
+<h2 id="sec-45"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/incandescent-in-a-sentence/">Incandescent</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>extremely bright</code>
+</p>
+
+<ul class="org-ul">
+<li>Our incandescent Christmas lights illuminate the living room.
+</li>
+<li>To preserve your eyesight, you should avoid looking directly at the incandescent sun.
+</li>
+<li>Incandescent bulbs produce light when a current heats a filament and gives off a glow.
+</li>
+<li>Before we put the incandescent lights in the front yard, we could barely see anything at night.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-46" class="outline-2">
+<h2 id="sec-46"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/incendiary-in-a-sentence/">Incendiary</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>explosive</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Dad had come home in one of his incendiary moods, we kids hid in our rooms to avoid causing him to blow up.
+</li>
+<li>Following the attack, the survivors were rushed to the base hospital with severe burns from the incendiary weapons.
+</li>
+<li>If the reporter didn’t mean to cause such an uproar among the public, he shouldn’t have written such an incendiary article about the city leaders.
+</li>
+<li>Although the investigation indicated the arsonist must have used some kind of incendiary device to start the fire, the police could find no traces of it.
+</li>
+<li>When someone brought up the existence of Satan during the discussion, an incendiary argument erupted during which there were heated exchanges on both sides of the issue.
+</li>
+<li>At the end of the movie Easy A, Emma Stone’s character gave an incendiary performance to ignite the curiosity of the students so that they would watch her podcast.
+</li>
+<li>As a highly strategic politician, he is known to pepper his speeches with incendiary language to arouse his listeners’ emotions.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-47" class="outline-2">
+<h2 id="sec-47"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/incessant-in-a-sentence/">Incessant</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>without interruption; not letting up</code>
+</p>
+
+<ul class="org-ul">
+<li>The incessant crying of a baby drives me nuts!
+</li>
+<li>My sister's incessant phone conversation with her boyfriend may never end.
+</li>
+<li>With this incessant rainfall, we might get flooded out.
+</li>
+<li>End the incessant crime with a neighborhood watch program.
+</li>
+<li>I have hours upon hours of movies for incessant entertainment!
+</li>
+<li>Breathing must be incessant to stay alive.
+</li>
+<li>That soap opera has been on air for an incessant amount of time, but lasting shows eventually come to an end.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-48" class="outline-2">
+<h2 id="sec-48"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/incident-in-a-sentence/">Incident</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>a happening or event</code>
+</p>
+
+<ul class="org-ul">
+<li>The police will file a report on the incident.
+</li>
+<li>After the fighting incident, Rick was suspended from school.
+</li>
+<li>Several fraternity members were arrested after the hazing incident.
+</li>
+<li>Do you think the missile incident is going to trigger a war between the countries?
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-49" class="outline-2">
+<h2 id="sec-49"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/incidence-in-a-sentence/">Incidence</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>the number of times something happens, usually of something bad</code>
+</p>
+
+<ul class="org-ul">
+<li>Eric’s family has a high incidence of death due to their genetic coding.
+</li>
+<li>Cory’s cancer is rare, with an incidence of one in 300,000 people.
+</li>
+<li>Overweight people tend to have a high incidence of sleep apnea.
+</li>
+<li>The incidence of hay fever skyrocketed, forcing the school to close its doors.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-50" class="outline-2">
+<h2 id="sec-50"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/incoherent-in-a-sentence/">Incoherent</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>not logical or easily understood</code>
+</p>
+
+<ul class="org-ul">
+<li>After drinking too much at the party, Larry became incoherent and made very little sense.
+</li>
+<li>The speaker spoke so rapidly that his words were incoherent to most in the audience.
+</li>
+<li>Because my aunt suffered a stroke, she is mostly incoherent and unable to express herself well.
+</li>
+<li>The workings of the government are usually incoherent to the general public.
+</li>
+<li>After seeing the murders, Scarlett was completely incoherent when she spoke to the police officers.
+</li>
+<li>During his performance, Hank was so nervous that his song was incoherent.
+</li>
+<li>Because Michelle had stayed awake for four days, her ramblings were somewhat incoherent.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-51" class="outline-2">
+<h2 id="sec-51"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/inconsequential-in-a-sentence/">Inconsequential</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>not important or significant</code>
+</p>
+
+<ul class="org-ul">
+<li>When you walk with your head down and eyes lowered, you come across as being inconsequential.
+</li>
+<li>At the end of the day, everything is inconsequential except for family.
+</li>
+<li>Worrying about inconsequential tasks will prevent you from doing projects which really matter.
+</li>
+<li>It was decided that Pluto was too inconsequential to be a planet.
+</li>
+<li>Because the suspect’s charge was inconsequential, the judge let him out on bail.
+</li>
+<li>Compared to the seven car pileup on the highway yesterday, my little fender bender is inconsequential.
+</li>
+<li>While you may consider my feelings to be inconsequential, they are very important to me.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-52" class="outline-2">
+<h2 id="sec-52"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/inconsolable-in-a-sentence/">Inconsolable</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>not capable of being consoled</code>
+</p>
+
+<ul class="org-ul">
+<li>The old man was inconsolable at his wife’s funeral.
+</li>
+<li>After our kitten died, my youngest son was inconsolable for weeks.
+</li>
+<li>The gymnast was inconsolable after learning she didn’t make the Olympic team.
+</li>
+<li>When my daughter is grieving and inconsolable, she doesn’t enjoy any of her normal activities.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-53" class="outline-2">
+<h2 id="sec-53"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/incorporate-in-a-sentence/">Incorporate</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>to include or mix</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to provide a complete report, Henry and his staff incorporate the graphs and charts into the written text.
+</li>
+<li>Always incorporate both proper nouns and action verbs into a fictional story so that it will be seem more realistic.
+</li>
+<li>According to culinary guidelines, a chef should never incorporate cheese into a fish dish.
+</li>
+<li>While tutoring a foreign student, I try to incorporate as many slang words as possible so she fully understands how Americans speak.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-54" class="outline-2">
+<h2 id="sec-54"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/incorrigible-in-a-sentence/">Incorrigible</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>not capable of being reformed</code>
+</p>
+
+<ul class="org-ul">
+<li>Because my daughter’s behavior is incorrigible, she might be grounded for at least a year.
+</li>
+<li>Even after spending a year in jail, the young man remains incorrigible and unafraid of the law.
+</li>
+<li>Jake’s teachers described him as an incorrigible young man who was always getting into trouble.
+</li>
+<li>Incorrigible kids sometimes become adults in prison.
+</li>
+<li>Are you so incorrigible that you cannot be good for two minutes?
+</li>
+<li>Santa Claus never brings presents to incorrigible children.
+</li>
+<li>My daughter is not having a birthday party because of her incorrigible behavior.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-sec-55" class="outline-2">
+<h2 id="sec-55"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/incumbent-in-a-sentence/">Incumbent</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>the person or group that currently has the title or position</code>
+</p>
+
+<ul class="org-ul">
+<li>After twenty years in office, the incumbent politician is finally retiring from politics.
+</li>
+<li>The incumbent president of the company is resigning from office so a younger person can take control of the business.
+</li>
+<li>If the incumbent governor dies, his lieutenant governor will take over his office.
+</li>
+<li>The incumbent city councilman barely retained his seat in the election.
+</li>
+<li>As the incumbent committee chairman, it is my responsibility to choose my replacement from among the other committee members.
+</li>
+<li>Because I do not have season tickets, I have to wait until the incumbent ticket holders purchase their playoff seats before I can buy my own.
+</li>
+<li>Since the voter turnout was low, all of the incumbent politicians will remain in office for the next two years.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-56" class="outline-2">
+<h2 id="sec-56"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/indefatigable-in-a-sentence/">Indefatigable</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>never showing signs of getting tired</code>
+</p>
+
+<ul class="org-ul">
+<li>The director of the homeless shelter is an indefatigable woman who works almost eighteen hours every day.
+</li>
+<li>If it were not for the indefatigable actions of the teacher’s union, the public schools in our city would have closed down a long time ago.
+</li>
+<li>After losing her son in a car accident, April became an indefatigable promoter of teen driver training.
+</li>
+<li>Because of Helen’s indefatigable efforts, the children’s charity was able to raise over a million dollars for a new library.
+</li>
+<li>Even when he was threatened, the civil rights leader still had indefatigable work ethics.
+</li>
+<li>Because my mother never slows down, everyone considers her to be indefatigable.
+</li>
+<li>In order to be a model, you need to have indefatigable patience.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-57" class="outline-2">
+<h2 id="sec-57"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/indenture-in-a-sentence/">Indenture</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>a legal and binding contract</code>
+</p>
+
+<ul class="org-ul">
+<li>The attorney had his client to sign the indenture before officially beginning work on his case.
+</li>
+<li>A copy of the trust indenture can be found in a file with the company’s other legal contracts.
+</li>
+<li>Proposing amendments to the initial contract, the CEO hoped to make the indenture more favorable towards his company.
+</li>
+<li>Although the couple signed the indenture before marrying, the husband hoped the prenuptial agreement would be ruled void during divorce proceedings.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-58" class="outline-2">
+<h2 id="sec-58"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/indigenous-in-a-sentence/">Indigenous</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>produced, living, or existing naturally</code>
+</p>
+
+<ul class="org-ul">
+<li>The class of students enjoyed learning about unusual animals that are indigenous and found naturally in the wild in North America.
+</li>
+<li>Because all of the ingredients of the product are found in the walls of desert caves, the final product is considered to be indigenous to the desert.
+</li>
+<li>The marine scientists were confused when they found a species of fish that was not indigenous to the ocean water.
+</li>
+<li>Since the native tribes had no means of travelling, all of the food they ate was indigenous to their own communities.
+</li>
+<li>As a tourist, I make a point of visiting the first citizens of a country, the indigenous people, so I can learn about the ways of the land.
+</li>
+<li>Millions of miles away from other cities, the secluded town could only exist on items indigenous within its area.
+</li>
+<li>Before Ted went overseas, he went to the trouble of learning the indigenous customs and languages of the countries he planned to visit.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-59" class="outline-2">
+<h2 id="sec-59"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/indigent-in-a-sentence/">Indigent</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>extremely poor</code>
+</p>
+
+<ul class="org-ul">
+<li>The indigent man could not afford food or clothing.
+</li>
+<li>In many indigent countries, people often go days without eating.
+</li>
+<li>The government has a healthcare program for indigent individuals who cannot obtain their own medical plan.
+</li>
+<li>Because Jack works for a lot of indigent clients, he does not earn a lot of money as an attorney.
+</li>
+<li>Indigent people will often wait in line for hours to get food from the soup kitchens.
+</li>
+<li>Since Dr. Smith is more concerned about making money than caring for ill individuals, he will not see indigent patients.
+</li>
+<li>The indigent family was evicted from their home because they could not pay the rent.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-60" class="outline-2">
+<h2 id="sec-60"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/inept-in-a-sentence/">Inept</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>having or showing no skill</code>
+</p>
+
+<ul class="org-ul">
+<li>The teenager was an inept driver who could not back out of his driveway without hitting something.
+</li>
+<li>Although Janet had gone to cooking school for two years, she was still an inept cook.
+</li>
+<li>The inept detective could not see the most obvious clues.
+</li>
+<li>Because Marvin was an inept plumber, he rarely got paid for his services.
+</li>
+<li>Mrs. Smith is an inept math instructor who cannot even teach the basic principles of the subject.
+</li>
+<li>Since Jackie is socially inept, she does not go to many parties.
+</li>
+<li>The president’s rivals said his military proposal showed how inept he was at planning wartime strategy.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-61" class="outline-2">
+<h2 id="sec-61"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/ineptitude-in-a-sentence/">Ineptitude</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>the quality of being unfit or inept</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of Bill’s ineptitude, he lost his job.
+</li>
+<li>Clara’s ineptitude as a teacher has left her students completely unprepared for the state exam.
+</li>
+<li>Since the doctor’s ineptitude led to my husband’s death, I filed a lawsuit against him.
+</li>
+<li>The lawyer lost the case because of his ineptitude.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-62" class="outline-2">
+<h2 id="sec-62"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/inexorable-meaning-in-a-sentence/">Inexorable</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>not able to be persuaded or stopped by any means; stubborn</code>
+</p>
+
+<ul class="org-ul">
+<li>Of course, the public is enraged by the inexorable rise in gas prices.
+</li>
+<li>Following her husband's sudden death, Elaine went into an inexorable depressive state.
+</li>
+<li>The inexorable truth is that Shelley is going to die within six months because she has cancer.
+</li>
+<li>Because James hit a police officer while driving drunk, he knows it is an inexorable fact he will serve jail time.
+</li>
+<li>As economists look at the gloomy statistics, they recognize an inexorable debt increase.
+</li>
+<li>Mary did not want to watch the movie because she knew the plot contained an inexorable tragedy.
+</li>
+<li>In his desire to make sure he was ready for the triathlon, Jason was inexorable when it came to following his training routine.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-63" class="outline-2">
+<h2 id="sec-63"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/infantile-in-a-sentence/">Infantile</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>pertaining to infants</code>
+</p>
+
+<ul class="org-ul">
+<li>Two adults began to squabble in a most infantile way, displaying behavior that was very inappropriate for their age.
+</li>
+<li>Her pure blue infantile eyes looked up at me from the crib, making me feel fuzzy inside.
+</li>
+<li>I hate listening to that morning radio show because people call in with comments that are so infantile and immature.
+</li>
+<li>It seems obvious to me that the infantile cry is so unnerving for the purpose of grabbing the attention of an adult.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-64" class="outline-2">
+<h2 id="sec-64"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/infuse-in-a-sentence/">Infuse</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>to fill with a certain quality</code>
+</p>
+
+<ul class="org-ul">
+<li>Cook the rice until you thoroughly infuse it with the taste of the herbs and spices you added.
+</li>
+<li>Drop the pellet in and watch the dye infuse the water with color as you stir.
+</li>
+<li>The subject’s hair was tested to see if the new conditioner could infuse all the way to the core.
+</li>
+<li>I thought eating spinach would infuse my muscles with super strength like Popeye the Sailor Man when I was a kid.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-65" class="outline-2">
+<h2 id="sec-65"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/ingenuity-in-a-sentence/">Ingenuity</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>the capacity to find solutions for tough problems</code>
+</p>
+
+<ul class="org-ul">
+<li>When Jack fixed the jeep, his friends were impressed with his mechanical ingenuity.
+</li>
+<li>With ingenuity and imagination, the builder came up with a way to build the cabin on the very top of the mountain.
+</li>
+<li>The wise hunter had the ingenuity to survive in the forest for three days without any camping supplies.
+</li>
+<li>Because we do not have a lot of money, my mom often uses her ingenuity to make a single can of meat feed a growing family of five.
+</li>
+<li>The doctor used his ingenuity to perform a complicated surgery while on a deserted island.
+</li>
+<li>When Phil and Tara were stranded in the middle of the ocean, they had to use their ingenuity to signal for help.
+</li>
+<li>Phone manufacturers are always looking for designers with ingenuity to create groundbreaking mobile phones.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-66" class="outline-2">
+<h2 id="sec-66"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/ingenuous-in-a-sentence/">Ingenuous</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>innocent; naive</code>
+</p>
+
+<ul class="org-ul">
+<li>Jessica’s ingenuous nature made her an easy target for the con man.
+</li>
+<li>While I do not consider myself ingenuous, I do not mind giving everyone at least one chance to do good.
+</li>
+<li>The little boy’s ingenuous habit of constantly telling the truth made him unpopular at school.
+</li>
+<li>To the defendant’s surprise, the judge found her innocent of the kidnapping charges because she was ingenuous and knew nothing about her boyfriend’s plans.
+</li>
+<li>Everyone was surprised when the ingenuous librarian wore a prostitute costume to the Halloween party.
+</li>
+<li>Although I am not usually a fan of the photographer’s work, these photographs do a fantastic job of capturing an ingenuous child during a peaceful sleep.
+</li>
+<li>It was refreshing to see an ingenuous teenager watching cartoons in a room full of worldly teenagers who thought they were too old to do the same.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-67" class="outline-2">
+<h2 id="sec-67"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/ingest-in-a-sentence/">Ingest</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>to eat or drink something by swallowing or by taking it through the skin</code>
+</p>
+
+<ul class="org-ul">
+<li>Trained assassins and military personnel used to hide cyanide pills on their back teeth so that in the event of capture, they could bite down and ingest the poison quick enough to die.
+</li>
+<li>Because the athlete failed to ingest enough water, he quickly became dehydrated and lethargic.
+</li>
+<li>If you accidentally ingest a toxic substance you should immediately call Poison Control or seek emergency assistance.
+</li>
+<li>Snakes are able to ingest prey twice the size of their body by paralyzing them with their bite.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-68" class="outline-2">
+<h2 id="sec-68"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/ingrained-in-a-sentence/">Ingrained</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>established; firmly fixed</code>
+</p>
+
+<ul class="org-ul">
+<li>Being right-handed was ingrained in me so that it was very difficult to write with my left hand.
+</li>
+<li>My morning routine was ingrained in me so much so that if I missed a step, it threw off my entire day.
+</li>
+<li>The new teacher wanted her rules and procedures ingrained in her students in order to promote a smoothly run classroom.
+</li>
+<li>When I learned my times table, my mother played a song to help me memorize the numbers until they were ingrained in my memory.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-69" class="outline-2">
+<h2 id="sec-69"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/ingrate-in-a-sentence/">Ingrate</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>an ungrateful person</code>
+</p>
+
+<ul class="org-ul">
+<li>When you do not appreciate your gifts, you are being an ingrate.
+</li>
+<li>The bride was an ingrate who did not send out thank-you notes for her wedding presents.
+</li>
+<li>As soon as James unwrapped his gift, he showed he was an ingrate by giving the item to someone else.
+</li>
+<li>Katy is an ingrate who refuses to acknowledge any present that costs less than five hundred dollars.
+</li>
+<li>After Liam won the team leader of the month award, he showed he was an ingrate by neglecting to thank his coworkers for their contributions.
+</li>
+<li>My friend Janice never thanks me for paying for lunch so I view her as a bit of an ingrate.
+</li>
+<li>Since April left the dinner party without thanking our hosts, she is considered to be an ingrate.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-70" class="outline-2">
+<h2 id="sec-70"><span class="section-number-2">70</span> <a href="https://wordsinasentence.com/ingratiate-in-a-sentence/">Ingratiate</a></h2>
+<div class="outline-text-2" id="text-70">
+<p>
+<code>to try to get someone's approval by doing or saying things that will please them</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the new teacher failed to ingratiate herself with the students, she found it hard to maintain an orderly classroom.
+</li>
+<li>The con artist hoped to ingratiate himself into the wealthy widow’s life.
+</li>
+<li>While I do like you a great deal, I am not willing to ingratiate myself into your life by telling you a bunch of lies.
+</li>
+<li>Because Sarah wanted a raise, she decided to ingratiate herself with her boss by offering to work on the weekends.
+</li>
+<li>If you are trying to ingratiate yourself to me by offering me chocolate, it is not going to work!
+</li>
+<li>Although the prisoner did everything he could to ingratiate himself with the parole board, his parole was still denied.
+</li>
+<li>To win the business contract, the vendor had to ingratiate himself with the office manager.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-71" class="outline-2">
+<h2 id="sec-71"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/inimitable-in-a-sentence/">Inimitable</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>something so special or unique, it's impossible to copy or imitate</code>
+</p>
+
+<ul class="org-ul">
+<li>Every once in a while, a band comes along that is so unique they are completely inimitable.
+</li>
+<li>Though he had lost the company a large sum of money, the owner would not fire him because he knew his talent was inimitable.
+</li>
+<li>The basketball player knew his talents were inimitable, which caused his teammates to begin hating him.
+</li>
+<li>Few writers can match the inimitable talent of Earnest Hemmingway.
+</li>
+<li>The recipe was inimitable and even though she could taste certain ingredients she could not figure it out.
+</li>
+<li>Try as he might, the magician found that his competitor’s routine was inimitable, leaving him unable to duplicate the trick.
+</li>
+<li>Her talent was inimitable, which is why the show was canceled upon news of her death.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-72" class="outline-2">
+<h2 id="sec-72"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/injurious-in-a-sentence/">Injurious</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>causing injury</code>
+</p>
+
+<ul class="org-ul">
+<li>Illegal drugs are injurious to your health.
+</li>
+<li>The injurious stunt needed to be performed by trained professionals.
+</li>
+<li>The perpetrator faced serious jail time because the attack proved injurious to his victim.
+</li>
+<li>If you are not properly warmed up, performing any sport can become injurious.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-73" class="outline-2">
+<h2 id="sec-73"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/innate-in-a-sentence/">Innate</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>a quality or ability which you are born with, or which is present naturally</code>
+</p>
+
+<ul class="org-ul">
+<li>Unlike both of her sisters who adore children, Elise does not have an innate desire to raise a family.
+</li>
+<li>While I am naturally shy, my sister has the innate ability to charm everyone she meets.
+</li>
+<li>Marilyn’s innate piano talent allowed her to play complicated pieces before she was six years of age.
+</li>
+<li>Although some medical conditions are caused by factors outside the human body, others occur as a result of innate genetic defects.
+</li>
+<li>Because an innate behavior occurs naturally, it can not be unlearned as easily as a taught behavior.
+</li>
+<li>Few people can see the innate value of cotton until is converted into a finished product like a jacket or a blanket.
+</li>
+<li>Even though humans are born with a certain amount of innate immunity to diseases, they still require preventative medical care to ward off other conditions.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-74" class="outline-2">
+<h2 id="sec-74"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/insatiable-in-a-sentence/">Insatiable</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>never have enough of something</code>
+</p>
+
+<ul class="org-ul">
+<li>After being lost in the desert for days, the dehydrated man figured that all the water in the world would not quench his insatiable thirst.
+</li>
+<li>Exploring all of the caves in the western hemisphere did not even cure the adventurer’s insatiable curiosity for the unknown.
+</li>
+<li>Barbara’s husband confronted his wife about her insatiable shopping habits which he knew would continue to increase their debt.
+</li>
+<li>A teenage boy’s insatiable hunger always makes the parents wonder how he can eat so much food and still want more.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-75" class="outline-2">
+<h2 id="sec-75"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/insidious-in-a-sentence/">Insidious</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>something that is slowly and secretly causing harm</code>
+</p>
+
+<ul class="org-ul">
+<li>The insidious playboy planned to con the heiress out of her fortune.
+</li>
+<li>While Helen may seem like a nice woman, I believe she has an insidious side to her.
+</li>
+<li>The car dealership used attractive insidious models to lure in buyers.
+</li>
+<li>Although the medicine made Gabriel feel better at first, its effect was insidious and only lasted a short time.
+</li>
+<li>Alcohol is an insidious beverage that convinces people to do silly things.
+</li>
+<li>Because I was so trusting, I did not realize the insidious man was using me to get information about the bank where I worked.
+</li>
+<li>The insidious witch put out cookies and candy to entrap naïve children.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-76" class="outline-2">
+<h2 id="sec-76"><span class="section-number-2">76</span> Insinuate</h2>
+<div class="outline-text-2" id="text-76">
+<ul class="org-ul">
+<li>During the debate, the senator tried to insinuate his opponent was not qualified for office.
+</li>
+<li>Many dictators use propaganda to insinuate fear among the public.
+</li>
+<li>By searching my locker, you are trying to insinuate I stole the money!
+</li>
+<li>Because Lamar was quite ambitious, he did everything possible to insinuate himself into his foreman’s favor.
+</li>
+<li>Longing to be popular, the girl made several attempts to insinuate herself into the crowd of popular kids.
+</li>
+<li>It would not surprise me if my mother tried to insinuate her preferences into my brother’s wedding plans.
+</li>
+<li>Because my sister is a talented singer, she is often approached by agents who try to insinuate themselves into her career.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-77" class="outline-2">
+<h2 id="sec-77"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/insipid-in-a-sentence/">Insipid</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>dull or boring</code>
+</p>
+
+<ul class="org-ul">
+<li>When you present, please do not be an insipid speaker who makes everyone fall asleep!
+</li>
+<li>The soup lacks the right seasoning and tastes insipid.
+</li>
+<li>Unless your goal is to watch an insipid movie that will bore you to death, do not go and see Hank Wolf’s latest film.
+</li>
+<li>The little boy did not enjoy having to sit still during the insipid church service.
+</li>
+<li>As Ryan is such an outgoing young man, he shocked everyone when he announced his engagement to his insipid coworker who rarely speaks.
+</li>
+<li>Even the greatest actor in the world could not make this insipid role exciting!
+</li>
+<li>Alone in the middle of the ocean, the survivor could think of nothing that would make the insipid days seem shorter.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-78" class="outline-2">
+<h2 id="sec-78"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/insolent-in-a-sentence/">Insolent</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>rude or impolite</code>
+</p>
+
+<ul class="org-ul">
+<li>When the insolent young man yelled my name, I ignored him and walked towards my car.
+</li>
+<li>The captain put the insolent soldier on report.
+</li>
+<li>Because William was insolent to the principal, he got suspended from school for three days.
+</li>
+<li>Betsy is an insolent girl who acts as though she has no manners at all.
+</li>
+<li>At the party, Henry offended everyone with his insolent conduct.
+</li>
+<li>The school bully constantly makes insolent remarks to younger students.
+</li>
+<li>After I responded to the judge in an insolent voice, I was asked to leave the courtroom.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-79" class="outline-2">
+<h2 id="sec-79"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/instigate-in-a-sentence/">Instigate</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>to trigger something</code>
+</p>
+
+<ul class="org-ul">
+<li>Justine hoped to instigate Will and Gail's separation by spreading false rumors about Will’s late nights at work.
+</li>
+<li>Hopefully, the red band campaign will instigate a greater awareness of cancer prevention.
+</li>
+<li>The road construction will definitely instigate major traffic delays during rush hour.
+</li>
+<li>Because poor people often cannot afford things they need, poverty is a factor that is known to instigate crime.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-80" class="outline-2">
+<h2 id="sec-80"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/insular-in-a-sentence/">Insular</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>not interested in meeting anyone outside your own group or country, or not interested in learning new ideas or ways of doing things</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the insular man had lived on a deserted island for several years, he was not very good at making conversation.
+</li>
+<li>The people who live on the mountain have insular personalities because they are not used to being around other members of society.
+</li>
+<li>My grandparents’ insular attitudes make them very uninterested in what is going on outside their own lives.
+</li>
+<li>Although I do not socialize a great deal, I do not have any insular traits as of a result of my self-imposed isolation.
+</li>
+<li>Because you are a world traveler, you should not have such insular views.
+</li>
+<li>The reclusive writer enjoyed his privacy and was content in his insular lifestyle.
+</li>
+<li>Since the creation of the internet, few people are able to remain completely insular.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-81" class="outline-2">
+<h2 id="sec-81"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/intemperate-in-a-sentence/">Intemperate</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>having problems with exercising control</code>
+</p>
+
+<ul class="org-ul">
+<li>John has intemperate mood swings he cannot seem to control.
+</li>
+<li>When Barbara drinks, she becomes intemperate and cannot regulate her actions.
+</li>
+<li>Kelly’s intemperate behavior is closely related to her incurable habit of shoplifting.
+</li>
+<li>Because Wayne has a mental disorder that makes him intemperate, his uncontrollable conduct is usually overlooked.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-82" class="outline-2">
+<h2 id="sec-82"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/interpolate-in-a-sentence/">Interpolate</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>to change something by adding material to it</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the author would often interpolate the stories of others by adding his own text, the critics did not view him as a real writer.
+</li>
+<li>Today many singers interpolate their own words and music into classic songs in order to create new tunes.
+</li>
+<li>Depending on how well my novel flows, my editor may interpolate additional descriptive sentences to give the tale more imagery.
+</li>
+<li>With the addition of a few online quotes, Edward was able to completely interpolate his debate speech.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-83" class="outline-2">
+<h2 id="sec-83"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/intimate-in-a-sentence/">Intimate</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>not public; private</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I am a private person, I do not like to share intimate details about my home life.
+</li>
+<li>My husband and I requested a secluded room in the restaurant so we could have an intimate dinner.
+</li>
+<li>When the candles were lit, they gave the room an intimate mood.
+</li>
+<li>Not only are Rick and I coworkers, but we also have an intimate relationship that we keep to ourselves.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-84" class="outline-2">
+<h2 id="sec-84"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/intimation-in-a-sentence/">Intimation</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>a sign or suggestion that something is likely to happen</code>
+</p>
+
+<ul class="org-ul">
+<li>Because they destroyed so many lives, the recent bombings are a brutal intimation of immortality.
+</li>
+<li>I hoped my girlfriend would accept the key as intimation that I wanted her to move in with me.
+</li>
+<li>While it was not formally announced, an intimation was made that Jeff would receive the promotion.
+</li>
+<li>When my friend died in a car crash, I saw it as intimation that nobody could live forever.
+</li>
+<li>Jasmine could not believe her husband’s intimation that she was cheating on him.
+</li>
+<li>Even though no statement had been released to the media, intimation has been made regarding the capture of the suspect.
+</li>
+<li>Nate’s first intimation of illness came when he vomited all over the kitchen floor.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-85" class="outline-2">
+<h2 id="sec-85"><span class="section-number-2">85</span> <a href="https://wordsinasentence.com/intimidate-in-a-sentence/">Intimidate</a></h2>
+<div class="outline-text-2" id="text-85">
+<p>
+<code>to make afraid</code>
+</p>
+
+<ul class="org-ul">
+<li>The mob tries to intimidate shop owners into paying protection fees.
+</li>
+<li>Because Jim often attempts to intimidate younger children, he is considered a bully.
+</li>
+<li>The dictator tries to intimidate his enemies with verbal threats.
+</li>
+<li>While in court, the defendant tried to intimidate the jury with menacing looks.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-86" class="outline-2">
+<h2 id="sec-86"><span class="section-number-2">86</span> <a href="https://wordsinasentence.com/intransigent-in-a-sentence/">Intransigent</a></h2>
+<div class="outline-text-2" id="text-86">
+<p>
+<code>uncompromising</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though the divorce proceedings should be over, they are still dragging on because of the intransigent parties involved.
+</li>
+<li>People have a hard time getting along with Ben because he is such an intransigent leader.
+</li>
+<li>When it comes to the safety of my children, I must always take an intransigent position to protect them.
+</li>
+<li>Jason has an intransigent nature which makes it very hard for him to find a good restaurant.
+</li>
+<li>Since Harvey can make a lot of money on this deal, I do not understand why he is being so intransigent on the contract terms.
+</li>
+<li>Nobody wants to work in a group with Jack because he is intransigent and unwilling to be a team player.
+</li>
+<li>When it came to their willingness to extend my curfew, my parents were intransigent and would not budge.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-87" class="outline-2">
+<h2 id="sec-87"><span class="section-number-2">87</span> <a href="https://wordsinasentence.com/intrepid-in-a-sentence/">Intrepid</a></h2>
+<div class="outline-text-2" id="text-87">
+<p>
+<code>very brave</code>
+</p>
+
+<ul class="org-ul">
+<li>To be an astronaut, you must be an intrepid person who craves adventure and is not afraid of heights.
+</li>
+<li>The intrepid kitten walked slowly in front of the two big dogs.
+</li>
+<li>Even when the storm was directly over her house, the intrepid old woman did not panic.
+</li>
+<li>The intrepid adventurer climbed the rocky mountain without fear.
+</li>
+<li>Unlike her sister Mary, Sally was intrepid and had no problem going into the haunted house.
+</li>
+<li>Only intrepid people sign up to be on that reality show where people are stranded on a deserted island.
+</li>
+<li>The intrepid young boy walked through the forest alone to get his injured father medical aid.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-88" class="outline-2">
+<h2 id="sec-88"><span class="section-number-2">88</span> <a href="https://wordsinasentence.com/introspective-in-a-sentence/">Introspective</a></h2>
+<div class="outline-text-2" id="text-88">
+<p>
+<code>tending to examine your own feelings, thoughts, or ideas</code>
+</p>
+
+<ul class="org-ul">
+<li>If you are too introspective, you may talk yourself out of doing something wonderful.
+</li>
+<li>The introspective artist was always questioning his own painting skills.
+</li>
+<li>Because Gerry had an introspective personality, she had a hard time conversing with others.
+</li>
+<li>The ringing of the cellphone interrupted my introspective moment at the lake.
+</li>
+<li>Since I am a person who wants to know everything, I find it difficult to get along with introspective people who keep their feelings to themselves.
+</li>
+<li>Because the singer personally wrote all the songs on her album, she considers this record to be her most introspective release.
+</li>
+<li>My husband is so introspective it often seems as though he is only concerned about his own feelings.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-89" class="outline-2">
+<h2 id="sec-89"><span class="section-number-2">89</span> <a href="https://wordsinasentence.com/inure-in-a-sentence/">Inure</a></h2>
+<div class="outline-text-2" id="text-89">
+<p>
+<code>to become immune to unpleasant events or situations</code>
+</p>
+
+<ul class="org-ul">
+<li>Raising three dramatic daughters will inure you to temper tantrums.
+</li>
+<li>After a while, the guards were able to inure themselves to the voices of the prisoners begging for freedom.
+</li>
+<li>Even the veteran detective could not inure himself to the sight of a murdered child.
+</li>
+<li>Soon, the girls became inure to the cruel treatment of their kidnapper and started to think of him as their savior.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-90" class="outline-2">
+<h2 id="sec-90"><span class="section-number-2">90</span> <a href="https://wordsinasentence.com/involuntary-in-a-sentence/">Involuntary</a></h2>
+<div class="outline-text-2" id="text-90">
+<p>
+<code>done without thought or without planning</code>
+</p>
+
+<ul class="org-ul">
+<li>My involuntary response was to jump back from the snake.
+</li>
+<li>For most humans, breathing is an involuntary act.
+</li>
+<li>The little boy’s immediate and involuntary reaction was to move his hand away from the hot stove.
+</li>
+<li>When my manager announced involuntary layoffs for numerous people in our company, I became very nervous.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-91" class="outline-2">
+<h2 id="sec-91"><span class="section-number-2">91</span> <a href="https://wordsinasentence.com/irascible-in-a-sentence/">Irascible</a></h2>
+<div class="outline-text-2" id="text-91">
+<p>
+<code>easily made angry</code>
+</p>
+
+<ul class="org-ul">
+<li>It does not take much to aggravate my irascible neighbor who is annoyed by any little noise.
+</li>
+<li>Because Charles is very irascible, you have to be mindful of what you say to him.
+</li>
+<li>While Jill’s husband, Jack, is irascible, Jill is always calm and relaxed.
+</li>
+<li>Bill’s dog is irascible and has to be kept on a leash at all times.
+</li>
+<li>He was an irascible leader who was quick to start wars with neighboring countries.
+</li>
+<li>Our teacher was irascible today and kicked several students out of the classroom.
+</li>
+<li>Even though my father was irascible at times, he was also a very caring man.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-92" class="outline-2">
+<h2 id="sec-92"><span class="section-number-2">92</span> <a href="https://wordsinasentence.com/irate-in-a-sentence/">Irate</a></h2>
+<div class="outline-text-2" id="text-92">
+<p>
+<code>tremendously angry</code>
+</p>
+
+<ul class="org-ul">
+<li>Jim was irate when he found his wife in bed with another woman.
+</li>
+<li>Because I am irate, I am going to walk away and calm down before I speak to you.
+</li>
+<li>The irate judge had the unruly defendant removed from the courtroom.
+</li>
+<li>The irate woman vandalized her boyfriend’s car when she learned he was cheating on her.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-93" class="outline-2">
+<h2 id="sec-93"><span class="section-number-2">93</span> <a href="https://wordsinasentence.com/iridescent-in-a-sentence/">Iridescent</a></h2>
+<div class="outline-text-2" id="text-93">
+<p>
+<code>exhibiting a wide range of brilliant colors like a rainbow</code>
+</p>
+
+<ul class="org-ul">
+<li>The singer’s iridescent necklace glowed brightly under the spotlight.
+</li>
+<li>When the jeweler looked at the iridescent gems, he was made speechless by their brilliant colors.
+</li>
+<li>The parrot’s feathers appear even more iridescent on camera.
+</li>
+<li>While we were underwater, we saw iridescent organisms that looked like small balls of glitter.
+</li>
+<li>The iridescent makeup comes in a wide variety of colorful hues.
+</li>
+<li>While exploring the rainforest, I was captivated by the iridescent plants that give the area its vibrant colors.
+</li>
+<li>The bubbles we blew looked iridescent as they floated through the air.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-94" class="outline-2">
+<h2 id="sec-94"><span class="section-number-2">94</span> <a href="https://wordsinasentence.com/irresolute-in-a-sentence/">Irresolute</a></h2>
+<div class="outline-text-2" id="text-94">
+<p>
+<code>not certain about something</code>
+</p>
+
+<ul class="org-ul">
+<li>As the troubled young girl faced her school principal, she was irresolute and did not know what to expect as a consequence for her behavior.
+</li>
+<li>The movie’s irresolute ending left viewers wondering what happened to the heroine and her true love.
+</li>
+<li>Since the candidate was not prepared for his interview, his answers came across as irresolute and did not sit well with his potential employer who was looking for a confident worker.
+</li>
+<li>Jane was irresolute about the directions so she used a map app on her phone to make sure she did not get lost.
+</li>
+<li>When the debater pondered the question for a long time without speaking, he gave the impression he was irresolute about his response.
+</li>
+<li>The irresolute woman looked at the menu for thirty minutes before placing her order.
+</li>
+<li>If the puppy is irresolute about the new food, it may sniff it for a few seconds before eating.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-95" class="outline-2">
+<h2 id="sec-95"><span class="section-number-2">95</span> <a href="https://wordsinasentence.com/irreverent-in-a-sentence/">Irreverent</a></h2>
+<div class="outline-text-2" id="text-95">
+<p>
+<code>displaying little respect to a person, thing, or idea</code>
+</p>
+
+<ul class="org-ul">
+<li>When the knight did not bow before his queen, he acted in an irreverent manner.
+</li>
+<li>Purposefully dropping the country’s flag would be an irreverent act.
+</li>
+<li>Because the student addressed the principal in an irreverent tone, he received two days of detention.
+</li>
+<li>While delivering his sermon, the minister found the teens’ chatter to be very irreverent.
+</li>
+<li>Because the senator was unversed in foreign cultures, he made a huge mistake when he greeted an official in an irreverent way.
+</li>
+<li>The irreverent pop star stood on the sacred shrine.
+</li>
+<li>During the interview, the aggressive reporter behaved in an irreverent fashion towards the president.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-96" class="outline-2">
+<h2 id="sec-96"><span class="section-number-2">96</span> <a href="https://wordsinasentence.com/itinerant-in-a-sentence/">Itinerant</a></h2>
+<div class="outline-text-2" id="text-96">
+<p>
+<code>moving around from location to location</code>
+</p>
+
+<ul class="org-ul">
+<li>The documentary follows the life of an itinerant homeless man who never sleeps in a location more than once.
+</li>
+<li>Because Stan is an itinerant farm worker who follows the crops, he will not be in our neighborhood much longer.
+</li>
+<li>Jane is an itinerant teacher who travels between schools teaching special education students.
+</li>
+<li>Although my father is in the military, he is not an itinerant traveller because he has been stationed at the same base for twenty years.
+</li>
+<li>The itinerant sailor gave up his life on the ocean when he fell in love with a beautiful waitress in a small town.
+</li>
+<li>Because the traveling salesman hated his itinerant lifestyle, he was happy to be nearing his age of retirement.
+</li>
+<li>Elana’s book discusses the itinerant life she has lived as a gypsy.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-97" class="outline-2">
+<h2 id="sec-97"><span class="section-number-2">97</span> <a href="https://wordsinasentence.com/illustrious-in-a-sentence/">Illustrious</a></h2>
+<div class="outline-text-2" id="text-97">
+<p>
+<code>respectable because of one’s accomplishments</code>
+</p>
+
+<ul class="org-ul">
+<li>The leader of the country will recognize the illustrious scientist in a private ceremony.
+</li>
+<li>As a member of an illustrious family of doctors, John is considered to be one of the city’s most eligible bachelors.
+</li>
+<li>The Hollywood cemetery is filled with the remains of some of the entertainment world’s most illustrious celebrities.
+</li>
+<li>Because Sarah has never made a grade lower than an A, her teachers voted her the most illustrious member of the senior class.
+</li>
+<li>A number of illustrious football players have played for the prestigious university.
+</li>
+<li>Looking back at William’s illustrious achievements, it is not surprising he became one of our country’s presidents.
+</li>
+<li>The illustrious young man earned a perfect score on the college entrance exam.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-98" class="outline-2">
+<h2 id="sec-98"><span class="section-number-2">98</span> <a href="https://wordsinasentence.com/imbecile-in-a-sentence/">Imbecile</a></h2>
+<div class="outline-text-2" id="text-98">
+<p>
+<code>a word used to describe a person who behaves in a stupid or foolish manner</code>
+</p>
+
+<ul class="org-ul">
+<li>The teacher was reprimanded for referring to one of her students as an imbecile because he constantly asked silly questions.
+</li>
+<li>Because Carol’s husband is an imbecile, he is always doing stupid things like forgetting to feed their children.
+</li>
+<li>Why does Jim behave like an imbecile when he has such a high IQ?
+</li>
+<li>When Alan gets drunk, he starts to act like an imbecile.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-99" class="outline-2">
+<h2 id="sec-99"><span class="section-number-2">99</span> <a href="https://wordsinasentence.com/imbibe-in-a-sentence/">Imbibe</a></h2>
+<div class="outline-text-2" id="text-99">
+<p>
+<code>to drink (used frequently of alcoholic beverages)</code>
+</p>
+
+<ul class="org-ul">
+<li>Best practice dictates that anyone who intends to imbibe alcoholic beverages should make sure to have dependable transportation to get home.
+</li>
+<li>Despite being unable to imbibe cocktails with her friends, Mariel probably had the most fun at the wedding reception.
+</li>
+<li>Every morning, I like to delay the start of the work day, go outside on the terrace, and imbibe large quantities of sunshine and fresh air.
+</li>
+<li>If I imbibe too much soda, I find that I am troubled with extreme bouts of hiccupping.
+</li>
+<li>A well-planned garden ensures that all plants are located where they can have maximum opportunities to imbibe water, nutrients, and sunshine.
+</li>
+<li>Parents who allow their underage children to imbibe will be prosecuted In the event of alcohol-related accidents.
+</li>
+<li>Since you already have a DUI offense on your record, can you really afford to imbibe more than one beer tonight?
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-100" class="outline-2">
+<h2 id="sec-100"><span class="section-number-2">100</span> <a href="https://wordsinasentence.com/imbroglio-in-a-sentence/">Imbroglio</a></h2>
+<div class="outline-text-2" id="text-100">
+<p>
+<code>a confusing situation</code>
+</p>
+
+<ul class="org-ul">
+<li>Will the treaty end this imbroglio that has kept the two countries at war for over sixty years?
+</li>
+<li>The hostages found themselves in an imbroglio when the two kidnappers began to fight.
+</li>
+<li>How can we end this imbroglio caused by the resort double booking our cabin?
+</li>
+<li>In the senior dormitory, the resident assistant is currently dealing with an imbroglio between two students who both claim the other is stealing her shower shoes.
+</li>
+<li>The romantic imbroglio began when the parents met Sarah and assumed she was their dead son’s fiancée.
+</li>
+<li>Hopefully the mediator can finally bring an end to the imbroglio that has delayed the couples’ divorce for five years.
+</li>
+<li>Perhaps the professor’s explanation will allow me to make sense of this scientific imbroglio.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-101" class="outline-2">
+<h2 id="sec-101"><span class="section-number-2">101</span> <a href="https://wordsinasentence.com/immensity-in-a-sentence/">Immensity</a></h2>
+<div class="outline-text-2" id="text-101">
+<p>
+<code>great size</code>
+</p>
+
+<ul class="org-ul">
+<li>While hiking on a month-long mountainous trip, Davy felt the immensity of the wilderness.
+</li>
+<li>After Bill stole his friend’s money, he recognized the immensity of the problem when his friend couldn’t buy food for his family.
+</li>
+<li>The geography teacher wanted to show the immensity of Asia by having his students draw the continent in comparison to the other continents.
+</li>
+<li>The immensity of the fire’s damage left the homeowners without a home, money, or their possessions.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-102" class="outline-2">
+<h2 id="sec-102"><span class="section-number-2">102</span> <a href="https://wordsinasentence.com/immolation-in-a-sentence/">Immolation</a></h2>
+<div class="outline-text-2" id="text-102">
+<p>
+<code>the act of killing or sacrificing somebody</code>
+</p>
+
+<ul class="org-ul">
+<li>Eating nothing but candy is a sure path towards immolation of your health.
+</li>
+<li>His lack of care for his fish led to their eventual immolation.
+</li>
+<li>His family had an intervention, warning him that he was on the path to self-immolation.
+</li>
+<li>With no family or friends left alive, he wished for self-immolation.
+</li>
+<li>His depression drove the man to self-immolation.
+</li>
+<li>Printing of fiat currency is a certain way for a state to head towards self-immolation.
+</li>
+<li>For a mother, there is no greater immolation than letting go of your child.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-103" class="outline-2">
+<h2 id="sec-103"><span class="section-number-2">103</span> <a href="https://wordsinasentence.com/immure-in-a-sentence/">Immure</a></h2>
+<div class="outline-text-2" id="text-103">
+<p>
+<code>to lock up behind walls</code>
+</p>
+
+<ul class="org-ul">
+<li>Caught robbing a bank, Jason knew the police would immure him in a jail cell for an extended period of time.
+</li>
+<li>The asylum would immure my daughter in a barred cell until she proved she was safe to herself and others.
+</li>
+<li>To stop my nephew from using drugs, I had to immure him in his bedroom so that he could not escape and could be rehabilitated at home.
+</li>
+<li>During World War II, my grandfather would become immure by the Japanese in a prisoner-of-war camp and would not be released for 3 ½ years.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-104" class="outline-2">
+<h2 id="sec-104"><span class="section-number-2">104</span> <a href="https://wordsinasentence.com/impale-in-a-sentence/">Impale</a></h2>
+<div class="outline-text-2" id="text-104">
+<p>
+<code>to pierce with something sharp</code>
+</p>
+
+<ul class="org-ul">
+<li>During the horror movie, the knife would impale the girl through the heart killing her instantly.
+</li>
+<li>When I donated blood, the nurse was so rough and impatient that she seemed to impale the needle in my arm with great force.
+</li>
+<li>As the car crashed through the picket fence, one of the pickets would impale the driver in the chest resulting in extreme blood loss.
+</li>
+<li>Using a bow and arrow, the Native Americans would impale the buffalo with an arrow through the head so the animal would die quickly.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-105" class="outline-2">
+<h2 id="sec-105"><span class="section-number-2">105</span> <a href="https://wordsinasentence.com/impasse-in-a-sentence/">Impasse</a></h2>
+<div class="outline-text-2" id="text-105">
+<p>
+<code>a situation that prevents advancement</code>
+</p>
+
+<ul class="org-ul">
+<li>Yesterday, the two parties did not make any progress on the contract terms because they had reached an impasse.
+</li>
+<li>Because of the impasse between workers and management, the factory has been closed for two weeks.
+</li>
+<li>The jury ended in an impasse when the members could not break a tie vote on the defendant’s guilt.
+</li>
+<li>Since the snow has covered the mountain and the lake has frozen over, we have reached an impasse and must sleep in our car until the weather becomes warmer.
+</li>
+<li>The kidnapper refused to talk to the hostage negotiator during the impasse.
+</li>
+<li>Since neither the husband nor the wife is willing to make a compromise, the divorce hearing is at an impasse.
+</li>
+<li>Even if it takes all night, we must work through the financial impasse that is preventing our teachers from returning to their classrooms.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-106" class="outline-2">
+<h2 id="sec-106"><span class="section-number-2">106</span> <a href="https://wordsinasentence.com/impeach-in-a-sentence/">Impeach</a></h2>
+<div class="outline-text-2" id="text-106">
+<p>
+<code>to charge a public official with a crime</code>
+</p>
+
+<ul class="org-ul">
+<li>Without sufficient evidence, you cannot hope to impeach a public official.
+</li>
+<li>After discovering that her employee was stealing, she went on to formally impeach the man.
+</li>
+<li>Believing that he had exaggerated his qualifications, the students look to impeach their professor.
+</li>
+<li>Before you go to impeach someone, make sure you have the evidence ready to show.
+</li>
+<li>He looked to impeach his boss on suspicion of embezzlement.
+</li>
+<li>If you want to impeach someone, you need to follow proper legal procedure.
+</li>
+<li>His suspicious behavior made it easy to impeach him.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-107" class="outline-2">
+<h2 id="sec-107"><span class="section-number-2">107</span> <a href="https://wordsinasentence.com/impel-in-a-sentence/">Impel</a></h2>
+<div class="outline-text-2" id="text-107">
+<p>
+<code>to drive an individual to perform in a certain way</code>
+</p>
+
+<ul class="org-ul">
+<li>The manufacturer hopes its commercial will impel us to purchase its new product.
+</li>
+<li>Unfortunately, there is nothing we can do to impel Frank to go to rehab.
+</li>
+<li>A mother’s maternal instinct will impel her to give her life for her child.
+</li>
+<li>Even though Peter is not feeling well, his hunger will soon impel him to drive to the grocery store.
+</li>
+<li>Everyone wanted to know what would impel the minister to kill his five children.
+</li>
+<li>If the weather becomes stormy, it will impel us to move our picnic indoors.
+</li>
+<li>On Halloween, children will try to impel strangers into giving them treats.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-108" class="outline-2">
+<h2 id="sec-108"><span class="section-number-2">108</span> <a href="https://wordsinasentence.com/impending-in-a-sentence/">Impending</a></h2>
+<div class="outline-text-2" id="text-108">
+<p>
+<code>going to occur; coming</code>
+</p>
+
+<ul class="org-ul">
+<li>When I refused to pay the fake fortuneteller, she warned me of impending doom in my future.
+</li>
+<li>Sheila hoped Frank’s impending question was not a marriage proposal because she was not in love with him.
+</li>
+<li>Because Jim suffers from anxiety, he frequently has fears of impending disaster.
+</li>
+<li>The emergency alert instructed everyone to prepare for the impending tornado.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-109" class="outline-2">
+<h2 id="sec-109"><span class="section-number-2">109</span> <a href="https://wordsinasentence.com/impenitent-in-a-sentence/">Impenitent</a></h2>
+<div class="outline-text-2" id="text-109">
+<p>
+<code>unapologetic; remorseless</code>
+</p>
+
+<ul class="org-ul">
+<li>Even after being sentenced to life in prison, the impenitent man was not sorry for his crimes.
+</li>
+<li>A smile across her face showed that the impenitent crook did not feel guilty.
+</li>
+<li>Although he was really impenitent, the man pretended that he regretted stealing the check.
+</li>
+<li>The impenitent criminal felt no shame, but admitted guilt so that he could avoid jail.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-110" class="outline-2">
+<h2 id="sec-110"><span class="section-number-2">110</span> <a href="https://wordsinasentence.com/imperil-in-a-sentence/">Imperil</a></h2>
+<div class="outline-text-2" id="text-110">
+<p>
+<code>to be in danger of something or someone</code>
+</p>
+
+<ul class="org-ul">
+<li>Although most people do see the threat, littering in the ocean can imperil many different marine life like dolphins due to their ingestion of plastic litter.
+</li>
+<li>The quick-spreading wildfires imperil the citizens of Gatlinburg since they are trapped by the fire in their homes.
+</li>
+<li>Guns that are kept in an unlocked container imperil the family if guns get into the hands of toddlers.
+</li>
+<li>Having a few hot-tempered hostages only seemed to further imperil the already drastic robbery situation with the gun-wielding captors.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-111" class="outline-2">
+<h2 id="sec-111"><span class="section-number-2">111</span> <a href="https://wordsinasentence.com/impertinent-in-a-sentence/">Impertinent</a></h2>
+<div class="outline-text-2" id="text-111">
+<p>
+<code>behaving without proper respect; rude</code>
+</p>
+
+<ul class="org-ul">
+<li>Although she thought she was just being funny, her teacher didn’t agree and sent her to the principal’s office for being impertinent.
+</li>
+<li>While he never intended his remark to be impertinent, he found that a lot of people had been offended by what he said.
+</li>
+<li>Because the young man would only give an impertinent answer to his questions, the attorney decided not to take him on as a client.
+</li>
+<li>While Natalie searched frantically for her mysterious present, Ely just watched from the doorway with an impertinent smirk on his face.
+</li>
+<li>Although Alexis had been enjoying the young man’s company, his impertinent suggestion prompted her to leave the bar.
+</li>
+<li>As the site’s webmaster, it is her job to monitor the online forum for impertinent comments.
+</li>
+<li>If Evan didn’t have such an impertinent attitude with waiters, Alyssa wouldn’t have minded going out to dinner with him.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-112" class="outline-2">
+<h2 id="sec-112"><span class="section-number-2">112</span> <a href="https://wordsinasentence.com/impetus-in-a-sentence/">Impetus</a></h2>
+<div class="outline-text-2" id="text-112">
+<p>
+<code>a force that causes something to be done or to become more active</code>
+</p>
+
+<ul class="org-ul">
+<li>The high crime rate was the impetus for the hiring of one hundred new police officers in our city.
+</li>
+<li>Because the new president was once a military commander, he has a great deal of experience being an impetus for change.
+</li>
+<li>The lack of donations is the impetus causing many non-profit agencies to reduce services offered to the public.
+</li>
+<li>While my daughter normally hates to do her chores, her desire to earn extra money for a cellphone has become her impetus to be more helpful around the house.
+</li>
+<li>In the film, the leading character’s need to rescue his son is the impetus that drives the movie’s plot.
+</li>
+<li>My doctor’s announcement that I had high blood pressure was the impetus that caused me to join a gym.
+</li>
+<li>After the hurricane, the city managers viewed the devastating damage as an impetus to improve barriers between the ocean and the land.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-113" class="outline-2">
+<h2 id="sec-113"><span class="section-number-2">113</span> <a href="https://wordsinasentence.com/impinge-in-a-sentence/">Impinge</a></h2>
+<div class="outline-text-2" id="text-113">
+<p>
+<code>to produce an effect, usually an unwanted one</code>
+</p>
+
+<ul class="org-ul">
+<li>Hopefully the bad weather will move in a different direction and not impinge upon our plans for an outdoor reception.
+</li>
+<li>You are free to pursue all the things that make you happy as long as you do not impinge on the freedoms of others during your pursuit.
+</li>
+<li>If the forest fire is not put out within a couple of days, it could impinge upon the town of Las Calbos and destroy hundreds of homes.
+</li>
+<li>Jack’s excessive gambling has started to impinge upon his ability to pay bills.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-114" class="outline-2">
+<h2 id="sec-114"><span class="section-number-2">114</span> <a href="https://wordsinasentence.com/implant-sentence/">Implant</a></h2>
+<div class="outline-text-2" id="text-114">
+<p>
+<code>to embed or establish something in a fixed position</code>
+</p>
+
+<ul class="org-ul">
+<li>When the stubborn child would get upset with his mother for not getting his wish, he would implant his foot firmly on the rug with a scowl on his face.
+</li>
+<li>As a busy student with little free time, Sylvia’s way of cramming for an exam would be to implant as much information in her brain right before the test.
+</li>
+<li>The teenager did not know what to do but to implant the telephone number into her head since her cell phone had gone missing.
+</li>
+<li>Blocking the door with my foot was not going to be enough to keep the intruder out of the room, so I decided to implant the heaviest piece of furniture next to the door.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-115" class="outline-2">
+<h2 id="sec-115"><span class="section-number-2">115</span> <a href="https://wordsinasentence.com/implicate-in-a-sentence/">Implicate</a></h2>
+<div class="outline-text-2" id="text-115">
+<p>
+<code>to hint a person or object is responsible for something, often an illegal deed</code>
+</p>
+
+<ul class="org-ul">
+<li>If the evidence is found, it will implicate the person behind the brutal act.
+</li>
+<li>The lab results implicate a high amount of cholesterol as the cause of my uncle’s heart problem.
+</li>
+<li>When my best friend tried to implicate me in the robbery in order to save herself, I knew we were no longer friends.
+</li>
+<li>The police did not arrest the suspect because they had nothing that could implicate him in the crime.
+</li>
+<li>Because Hank knew the knife would implicate him as the killer, he threw the weapon into the lake.
+</li>
+<li>The large pool of blood on the floor seems to implicate a violent altercation took place here.
+</li>
+<li>As a loving sister, Karen chose to take responsibility for the broken vase rather than implicate her younger brother.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-116" class="outline-2">
+<h2 id="sec-116"><span class="section-number-2">116</span> <a href="https://wordsinasentence.com/implode-in-a-sentence/">Implode</a></h2>
+<div class="outline-text-2" id="text-116">
+<p>
+<code>to explode inward</code>
+</p>
+
+<ul class="org-ul">
+<li>Everyone was shocked to see the loving couple’s relationship implode and end in divorce.
+</li>
+<li>It seemed that the angry team would implode, exploding into a million different pieces that would leave us without an NFL squad.
+</li>
+<li>Many people though the earth would implode at the end of 1999 and were shocked to wake up the next day.
+</li>
+<li>Arguments on the inside caused the black market to implode and crumble.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-117" class="outline-2">
+<h2 id="sec-117"><span class="section-number-2">117</span> <a href="https://wordsinasentence.com/implored-in-a-sentence/">Implored</a></h2>
+<div class="outline-text-2" id="text-117">
+<p>
+<code>sincerely begged</code>
+</p>
+
+<ul class="org-ul">
+<li>The little boy implored his kidnapper to let him go.
+</li>
+<li>When Beth could not pay her utility bill in full, she implored the company to allow her to set up a payment plan.
+</li>
+<li>Jim refused to take his medicine even after the doctor implored him to do so.
+</li>
+<li>While the president addressed the country, he implored the people to wait for justice to do its work.
+</li>
+<li>The famous actress implored the media to not harass her children when they were out in public.
+</li>
+<li>When Helen remarried, she implored her children to be nice to their stepfather.
+</li>
+<li>The bus driver implored the students to take their seats.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-118" class="outline-2">
+<h2 id="sec-118"><span class="section-number-2">118</span> <a href="https://wordsinasentence.com/importune-in-a-sentence/">Importune</a></h2>
+<div class="outline-text-2" id="text-118">
+<p>
+<code>to request (someone) pressingly and persistently for or to do something</code>
+</p>
+
+<ul class="org-ul">
+<li>Even after I had politely declined and shut the door, I could hear the salesman continuing to importune me to let him demonstrate the expensive vacuum cleaner.
+</li>
+<li>Realizing that the boss was in one of his rare good moods, I seized the opportunity to importune him for a raise.
+</li>
+<li>Sometimes fundraisers will appeal to your emotions to importune for donations.
+</li>
+<li>Most politicians importune voters for money as well as support.
+</li>
+<li>Demetri jumped at the opportunity to importune his neighbors to pitch in and build a playground for the children.
+</li>
+<li>We will continue to importune City Council to put a stop sign on the corner; hopefully, it will be taken care of before something tragic occurs.
+</li>
+<li>Every Christmas, malls are crowded with children who importune Santa for their heart’s desire as they try to convince him that they have been good all year.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-119" class="outline-2">
+<h2 id="sec-119"><span class="section-number-2">119</span> <a href="https://wordsinasentence.com/imprecation-in-a-sentence/">Imprecation</a></h2>
+<div class="outline-text-2" id="text-119">
+<p>
+<code>a stated curse that bears a person ill-will</code>
+</p>
+
+<ul class="org-ul">
+<li>The witch muttered an imprecation at the man who mistreated her.
+</li>
+<li>Before the woman was burned at the stake, she uttered an imprecation against her accusers.
+</li>
+<li>The woman screamed an imprecation at the police officer who tossed her to the ground.
+</li>
+<li>Since I don’t believe in magic, the wizard’s imprecation didn’t scare me.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-120" class="outline-2">
+<h2 id="sec-120"><span class="section-number-2">120</span> <a href="https://wordsinasentence.com/imprint-in-a-sentence/">Imprint</a></h2>
+<div class="outline-text-2" id="text-120">
+<p>
+<code>to mark or stamp something using pressure</code>
+</p>
+
+<ul class="org-ul">
+<li>Wedding planners were able to imprint the address on all of the invitations.
+</li>
+<li>The horse tried to run when the hot branding iron began to imprint into its hide.
+</li>
+<li>Without a way to imprint the logo on the bags, the team began to brainstorm other marketing ideas.
+</li>
+<li>The worker’s job was to imprint the company emblem onto the back of all pottery.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-121" class="outline-2">
+<h2 id="sec-121"><span class="section-number-2">121</span> <a href="https://wordsinasentence.com/incarcerate-in-a-sentence/">Incarcerate</a></h2>
+<div class="outline-text-2" id="text-121">
+<p>
+<code>to lock a person up as a consequence for his or her actions</code>
+</p>
+
+<ul class="org-ul">
+<li>The police are going to incarcerate the teen who keeps committing acts of violence.
+</li>
+<li>If Jim doesn’t stop drinking and driving, the judge will have to incarcerate him.
+</li>
+<li>The detective promised the Smiths she would incarcerate their daughter’s killer.
+</li>
+<li>Because the king is opposed to executions, he’ll incarcerate the traitor for life.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-122" class="outline-2">
+<h2 id="sec-122"><span class="section-number-2">122</span> <a href="https://wordsinasentence.com/incinerate-in-a-sentence/">Incinerate</a></h2>
+<div class="outline-text-2" id="text-122">
+<p>
+<code>destroy by burning</code>
+</p>
+
+<ul class="org-ul">
+<li>If an atom bomb was dropped over Manhattan, the whole city would incinerate in a flash.
+</li>
+<li>The thieves decided to incinerate the building after leaving fingerprints on the wall.
+</li>
+<li>In the news today, two California wildfires incinerate 400 homes and displace 15,000 residents.
+</li>
+<li>The plan was to incinerate Tyler’s garage, and reduce it to rubble.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-123" class="outline-2">
+<h2 id="sec-123"><span class="section-number-2">123</span> <a href="https://wordsinasentence.com/incite-in-a-sentence/">Incite</a></h2>
+<div class="outline-text-2" id="text-123">
+<p>
+<code>to stir up or excite</code>
+</p>
+
+<ul class="org-ul">
+<li>The racist man tried to incite hatred in his children by telling them falsehoods about minority groups.
+</li>
+<li>During the pep rally, the cheerleaders worked hard to incite school spirit.
+</li>
+<li>The Christian network will not air any programs that incite violence or hate.
+</li>
+<li>Did you know you could be arrested for trying to incite an uprising against the government?
+</li>
+<li>The dictator’s lavish party only served to incite the hatred of the starving people.
+</li>
+<li>Since I was angry with my husband, I went out of my way to incite an argument with him.
+</li>
+<li>The purpose of the terror alerts is not to incite panic but rather to make people more cautious.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-124" class="outline-2">
+<h2 id="sec-124"><span class="section-number-2">124</span> <a href="https://wordsinasentence.com/inclement-in-a-sentence/">Inclement</a></h2>
+<div class="outline-text-2" id="text-124">
+<p>
+<code>unpleasant weather in being stormy, rainy, or snowy</code>
+</p>
+
+<ul class="org-ul">
+<li>Inclement weather is causing us to postpone our picnic.
+</li>
+<li>During hurricane season, cruises are often cancelled because of inclement conditions.
+</li>
+<li>Jason and Heather have no plans to let inclement weather affect their outdoor wedding ceremony.
+</li>
+<li>If you are concerned about inclement weather on your trip, please take a small umbrella in your suitcase.
+</li>
+<li>Unaware the weather would soon turn inclement, Harry left home without a raincoat or umbrella.
+</li>
+<li>Ron loves baseball so much he is willing to remain in the stands and cheer for his favorite team even during inclement weather.
+</li>
+<li>Because of today’s inclement conditions, the children were not allowed to go outside during recess.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-125" class="outline-2">
+<h2 id="sec-125"><span class="section-number-2">125</span> <a href="https://wordsinasentence.com/incriminate-in-a-sentence/">Incriminate</a></h2>
+<div class="outline-text-2" id="text-125">
+<p>
+<code>to suggest an individual has done something inappropriate or illegal</code>
+</p>
+
+<ul class="org-ul">
+<li>The man refused to talk because he did not want to incriminate himself in court.
+</li>
+<li>Before I can incriminate my rival as the school vandal, I need to put the spray cans in her car.
+</li>
+<li>My dishonest boss tried to incriminate me for his thievery.
+</li>
+<li>As long as the mobster never told his wife about his illegal deeds, he knew she could never incriminate him.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-126" class="outline-2">
+<h2 id="sec-126"><span class="section-number-2">126</span> <a href="https://wordsinasentence.com/incubus-in-a-sentence/">Incubus</a></h2>
+<div class="outline-text-2" id="text-126">
+<p>
+<code>a demon or evil spirit supposed to descend upon sleeping women in order to have sex with them</code>
+</p>
+
+<ul class="org-ul">
+<li>In the myth, the incubus surprised sleeping women with sexual advances.
+</li>
+<li>Incubus is a mythological creature that’s sole goal is to rape women who are resting.
+</li>
+<li>After having sex with the evil incubus several times, the woman eventually succumbed to a painful death.
+</li>
+<li>In ancient texts, a demon called an incubus would sleep with women and sometimes impregnate them.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-127" class="outline-2">
+<h2 id="sec-127"><span class="section-number-2">127</span> <a href="https://wordsinasentence.com/inculcate-in-a-sentence/">Inculcate</a></h2>
+<div class="outline-text-2" id="text-127">
+<p>
+<code>to frequently instill an idea or belief firmly in someone's mind</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to inculcate a love of reading, the teacher encourages her students to read different types of literature.
+</li>
+<li>My father spent most of his life trying to inculcate me with his values!
+</li>
+<li>When my puppy chewed up my slippers, I realized how difficult it was to inculcate obedience in a young dog.
+</li>
+<li>Do you feel our professors should inculcate us with their political views?
+</li>
+<li>The goal of the cult leader was to inculcate millions of followers with his teachings.
+</li>
+<li>In order to inculcate patriotism, the president held ten press conferences last month.
+</li>
+<li>Although Pat had no interest in playing the piano, her mother still sought to inculcate her on the proper playing technique.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-128" class="outline-2">
+<h2 id="sec-128"><span class="section-number-2">128</span> <a href="https://wordsinasentence.com/inculpate-in-a-sentence/">Inculpate</a></h2>
+<div class="outline-text-2" id="text-128">
+<p>
+<code>to incriminate or accuse someone of doing something</code>
+</p>
+
+<ul class="org-ul">
+<li>Evidence was used to inculpate the suspects and lead to their eventual conviction.
+</li>
+<li>The defense attorney has criticized the investigation, insisting that any findings have failed to inculpate his client.
+</li>
+<li>Invoking his 5th amendment right during trial, the defendant did not have to give testimony that my inculpate himself.
+</li>
+<li>A faint print in the mud was a match to the suspect’s shoe pattern and enough to inculpate him of the crime.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-129" class="outline-2">
+<h2 id="sec-129"><span class="section-number-2">129</span> <a href="https://wordsinasentence.com/incur-in-a-sentence/">Incur</a></h2>
+<div class="outline-text-2" id="text-129">
+<p>
+<code>acquire</code>
+</p>
+
+<ul class="org-ul">
+<li>It was impossible to incur any debt after a year of being unemployed.
+</li>
+<li>Because she did not pay her taxes on time, the business owner will incur a penalty this tax year.
+</li>
+<li>The retiree was able to pull out his funds early, but he did incur a fee when doing so.
+</li>
+<li>Purchasing an older vehicle may save money initially but can cause the buyer to incur higher than average repair costs.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-130" class="outline-2">
+<h2 id="sec-130"><span class="section-number-2">130</span> <a href="https://wordsinasentence.com/indemnify-in-a-sentence/">Indemnify</a></h2>
+<div class="outline-text-2" id="text-130">
+<p>
+<code>to provide with a payment for damage or loss</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Kurt was driving drunk, the insurance company will not indemnify him from the property damage he caused.
+</li>
+<li>The trucking company will indemnify the victim of the car accident caused by the sleeping trucker.
+</li>
+<li>Do you think the airline is going to indemnify the expense I incurred from missing my connecting flight?
+</li>
+<li>The construction company is going to indemnify the worker who lost his arm because of another employee’s negligence.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-131" class="outline-2">
+<h2 id="sec-131"><span class="section-number-2">131</span> <a href="https://wordsinasentence.com/indignant-in-a-sentence/">Indignant</a></h2>
+<div class="outline-text-2" id="text-131">
+<p>
+<code>angry because of an unfair situation or someone's unfair behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>If I’m indignant, it’s because you threw that book at me!
+</li>
+<li>The woman was indignant about the way she had been treated by the rude clerk.
+</li>
+<li>Because the teacher accused him of cheating, the boy became indignant and walked out of the classroom.
+</li>
+<li>Indignant at the waste of the company’s resources, the financial director cut the supply budget by sixty percent.
+</li>
+<li>The protesters were so indignant that they began to throw stones at the police officers.
+</li>
+<li>Many teachers become indignant when their students question their authority.
+</li>
+<li>While I’m quite indignant the boy broke my window, I am pleased he took responsibility for his actions.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-132" class="outline-2">
+<h2 id="sec-132"><span class="section-number-2">132</span> <a href="https://wordsinasentence.com/indignity-in-a-sentence/">Indignity</a></h2>
+<div class="outline-text-2" id="text-132">
+<p>
+<code>a situation or event that makes an individual feel embarrassment</code>
+</p>
+
+<ul class="org-ul">
+<li>I felt as though I suffered a huge indignity when my ex husband brought his young girlfriend to my birthday party.
+</li>
+<li>During the game-making play, the star quarterback suffered the indignity of being sacked.
+</li>
+<li>The warrior couldn’t bear the indignity of losing so he took his own life.
+</li>
+<li>When I was ill, I experienced an indignity each time the aide walked away with my bed pan.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-133" class="outline-2">
+<h2 id="sec-133"><span class="section-number-2">133</span> <a href="https://wordsinasentence.com/induction-in-a-sentence/">Induction</a></h2>
+<div class="outline-text-2" id="text-133">
+<p>
+<code>a formal ceremony in which a person is appointed to an office or into military service</code>
+</p>
+
+<ul class="org-ul">
+<li>The Girl Scout Induction Ceremony was taking place at the local meeting hall.
+</li>
+<li>We watched the Presidential induction during history class.
+</li>
+<li>The singer’s induction into the Hall of Fame was an extravagant affair.
+</li>
+<li>At the end of the school year, the high school plans an induction of the incoming senior class.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-134" class="outline-2">
+<h2 id="sec-134"><span class="section-number-2">134</span> <a href="https://wordsinasentence.com/inebriated-in-a-sentence/">Inebriated</a></h2>
+<div class="outline-text-2" id="text-134">
+<p>
+<code>behaving as though affected by alcohol; drunk</code>
+</p>
+
+<ul class="org-ul">
+<li>After leaving the restaurant, the police officer cornered the patron to see if he was inebriated.
+</li>
+<li>An inebriated individual had to walk the chalk line after he was pulled over by the police.
+</li>
+<li>The defendant was questioned by the prosecutor about the night in which he drove in an inebriated condition.
+</li>
+<li>After attending the wine party, it was unexpected to see so many inebriated women staggering around.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-135" class="outline-2">
+<h2 id="sec-135"><span class="section-number-2">135</span> <a href="https://wordsinasentence.com/ineluctable-in-a-sentence/">Ineluctable</a></h2>
+<div class="outline-text-2" id="text-135">
+<p>
+<code>impossible to alter</code>
+</p>
+
+<ul class="org-ul">
+<li>Perhaps there is no hope for Jerry because even after a year in rehab his drug addiction seems ineluctable.
+</li>
+<li>Lee has the irritating habit of arguing his opinions as ineluctable facts.
+</li>
+<li>As I listened to the paralyzed soldier speak, I was moved by his ineluctable spirit.
+</li>
+<li>So many women try to fight the ineluctable aging process by having cosmetic surgery.
+</li>
+<li>Even though Jim promised to stop seeing other women, Ellen refused to budge from her ineluctable decision to divorce him.
+</li>
+<li>Always think before you speak because some words are ineluctable and cannot be taken back or changed.
+</li>
+<li>When the governor refused to halt the execution, the prisoner realized his fate was ineluctable.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-136" class="outline-2">
+<h2 id="sec-136"><span class="section-number-2">136</span> <a href="https://wordsinasentence.com/inexpedient-in-a-sentence/">Inexpedient</a></h2>
+<div class="outline-text-2" id="text-136">
+<p>
+<code>impractical or unwise</code>
+</p>
+
+<ul class="org-ul">
+<li>It would be inexpedient to go walking through the desert without several bottles of water to keep you hydrated.
+</li>
+<li>I consider it inexpedient to spend money on leisure and entertainment when you barely have enough money to pay your rent.
+</li>
+<li>It is inexpedient to try and pack all of your things in your car when you could purchase a moving trailer or truck to carry most of it.
+</li>
+<li>Many people like to spend money on inexpedient vanity products that serve no real purpose, like watches and fancy suits.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-137" class="outline-2">
+<h2 id="sec-137"><span class="section-number-2">137</span> <a href="https://wordsinasentence.com/infatuated-in-a-sentence/">Infatuated</a></h2>
+<div class="outline-text-2" id="text-137">
+<p>
+<code>to have a strong liking for someone  or something</code>
+</p>
+
+<ul class="org-ul">
+<li>Even as a young boy, the singer was infatuated with music.
+</li>
+<li>Jan was immediately infatuated with her attractive blind date.
+</li>
+<li>Although Bruce thought he was in love with the young woman, he soon realized he was only infatuated with her.
+</li>
+<li>The woman was so infatuated with the basketball player that she never missed a game.
+</li>
+<li>After Rick realized he was no longer infatuated with his wife, he filed for divorce.
+</li>
+<li>The infatuated student brought his teacher a red apple every day.
+</li>
+<li>Even though Terry was infatuated with his coworker, he was too shy to express his feelings.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-138" class="outline-2">
+<h2 id="sec-138"><span class="section-number-2">138</span> <a href="https://wordsinasentence.com/infelicitous-in-a-sentence/">Infelicitous</a></h2>
+<div class="outline-text-2" id="text-138">
+<p>
+<code>not well-timed or suitable</code>
+</p>
+
+<ul class="org-ul">
+<li>Given the host’s spouse had recently died, my comment about wanting to die was infelicitous.
+</li>
+<li>Wilma’s see-through dress stood out as infelicitous at her father’s funeral.
+</li>
+<li>How dare you make an infelicitous comment about the pregnant woman’s weight?
+</li>
+<li>The public was outraged when the rapper made an infelicitous remark about the pope.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-139" class="outline-2">
+<h2 id="sec-139"><span class="section-number-2">139</span> <a href="https://wordsinasentence.com/influx-in-a-sentence/">Influx</a></h2>
+<div class="outline-text-2" id="text-139">
+<p>
+<code>the arrival of a large flow of people, things, or emotions</code>
+</p>
+
+<ul class="org-ul">
+<li>I was unprepared for the influx of joy I felt when my boyfriend proposed.
+</li>
+<li>Since the border patrol is ill prepared to deal with the influx of people arriving at the border, many immigrants are entering the country illegally.
+</li>
+<li>The influx of customers sent the manager running to the storeroom for additional promotional items.
+</li>
+<li>With the influx of families moving into the city, the prices of single-family homes have reached an all-time high.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-140" class="outline-2">
+<h2 id="sec-140"><span class="section-number-2">140</span> <a href="https://wordsinasentence.com/infraction-in-a-sentence/">Infraction</a></h2>
+<div class="outline-text-2" id="text-140">
+<p>
+<code>a violation of the rules</code>
+</p>
+
+<ul class="org-ul">
+<li>One more infraction and Jason will be suspended from school.
+</li>
+<li>My mother became angry when my sister refused to apologize for her infraction.
+</li>
+<li>Although Susan is now a nun, in her younger days she was once arrested for a minor infraction.
+</li>
+<li>The police ignored Jill’s minor infraction because it was her first violation of the law.
+</li>
+<li>Since we all know Fred as the teacher’s pet, we were shocked when he received detention for a minor infraction.
+</li>
+<li>The judge warned Carl that if he committed another driving infraction he would lose his license.
+</li>
+<li>As soon as the referee saw the infraction, he threw a yellow flag on the field.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-141" class="outline-2">
+<h2 id="sec-141"><span class="section-number-2">141</span> <a href="https://wordsinasentence.com/infringe-in-a-sentence/">Infringe</a></h2>
+<div class="outline-text-2" id="text-141">
+<p>
+<code>to trespass upon something</code>
+</p>
+
+<ul class="org-ul">
+<li>Having that much work to do at home will only infringe upon my time with my family.
+</li>
+<li>Jack did not want any children because he knew their needs would infringe on his social life.
+</li>
+<li>Does Cara infringe upon her children’s privacy by checking their emails?
+</li>
+<li>Conspiracy groups believe the government is constantly passing laws that infringe on the rights of the people.
+</li>
+<li>When Joan wrote her essay, she went out of her way to make sure she did not infringe upon another writer’s ideas.
+</li>
+<li>The judge ruled the policeman’s entry into my home without a warrant did infringe upon my rights as a citizen.
+</li>
+<li>As I looked at my competitor’s product, I realized my rival had chosen to infringe upon my patent with an item almost identical to my own.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-sec-142" class="outline-2">
+<h2 id="sec-142"><span class="section-number-2">142</span> <a href="https://wordsinasentence.com/ingress-in-a-sentence/">Ingress</a></h2>
+<div class="outline-text-2" id="text-142">
+<p>
+<code>a means of entry or the action of going into an area</code>
+</p>
+
+<ul class="org-ul">
+<li>The glass doors on the hotel’s second floor provide ingress into the mall.
+</li>
+<li>Since the passenger doors of my jeep don’t work, my children sometimes use the trunk door as a means of ingress.
+</li>
+<li>If you sit in front of the doorway, you are creating  a safety hazard by blocking the path of ingress into the hospital.
+</li>
+<li>According to federal law, any airline passenger who attempts forceful ingress into a cockpit will be prosecuted.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-143" class="outline-2">
+<h2 id="sec-143"><span class="section-number-2">143</span> <a href="https://wordsinasentence.com/iniquity-in-a-sentence/">Iniquity</a></h2>
+<div class="outline-text-2" id="text-143">
+<p>
+<code>extremely immoral or unfair behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>When I went to my brother’s college dorm, I saw drunken boys exhibiting iniquity towards girls.
+</li>
+<li>My grandmother, who grew up in a small town where people never locked their doors, saw big cities as dens of iniquity because of their crime rates.
+</li>
+<li>Because the dictator killed all his enemies, he was seen as a symbol of iniquity.
+</li>
+<li>Those who are quick to criticize the bad deeds of others should first look at their own acts of iniquity.
+</li>
+<li>As a result of being scarred by the iniquity of others, Henry grew up to become a very mean man.
+</li>
+<li>Peter abandoned a life of iniquity and became a contributing member of his local church.
+</li>
+<li>While Megan wanted to do volunteer work every Saturday, her husband chose to stay home and watch movies about sin and iniquity.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-144" class="outline-2">
+<h2 id="sec-144"><span class="section-number-2">144</span> <a href="https://wordsinasentence.com/inkling-in-a-sentence/">Inkling</a></h2>
+<div class="outline-text-2" id="text-144">
+<p>
+<code>an idea, thought, or suggestion</code>
+</p>
+
+<ul class="org-ul">
+<li>Even after Phil watched the teacher perform sample problems, he still had no inkling of how to complete the assignment.
+</li>
+<li>I had an inkling the housekeeper was the killer after watching the show for only five minutes.
+</li>
+<li>As Jill spoke to the police, she realized she had no inkling of who her mysterious boyfriend was.
+</li>
+<li>The detective had an inkling the witness was lying because she kept avoiding his eye contact.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-145" class="outline-2">
+<h2 id="sec-145"><span class="section-number-2">145</span> <a href="https://wordsinasentence.com/innuendo-in-a-sentence/">Innuendo</a></h2>
+<div class="outline-text-2" id="text-145">
+<p>
+<code>a statement that indirectly suggests someone has done something immoral, improper, etc.</code>
+</p>
+
+<ul class="org-ul">
+<li>Although the dialogue in the book is not sexually explicit, the writer makes great use of innuendo to convey his message.
+</li>
+<li>The top advertisers frequently use a form of innuendo to sell their products.
+</li>
+<li>Instead of being blunt with Henry about his drug problem, I tried using an innuendo to catch his attention.
+</li>
+<li>Jason used an innuendo to spread negative rumors about his ex-wife.
+</li>
+<li>After I heard my mother-in-law made an innuendo about me, I banned her from my home.
+</li>
+<li>The company president refused to respond to the innuendo about fraud charges.
+</li>
+<li>If you respond to Kelly’s innuendo, people will consider her false statement true.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-146" class="outline-2">
+<h2 id="sec-146"><span class="section-number-2">146</span> <a href="https://wordsinasentence.com/inscribe-in-a-sentence/">Inscribe</a></h2>
+<div class="outline-text-2" id="text-146">
+<p>
+<code>to write on an object</code>
+</p>
+
+<ul class="org-ul">
+<li>Jake asked the jeweler to inscribe a beautiful message on the engagement ring.
+</li>
+<li>Using a knife, the boy tried to inscribe his name onto the metal table.
+</li>
+<li>It will take the machine only a few minutes to inscribe the words on the plaque.
+</li>
+<li>When Bill retires after fifty years, the firm will buy him a gold watch and inscribe his years of service on it.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-147" class="outline-2">
+<h2 id="sec-147"><span class="section-number-2">147</span> <a href="https://wordsinasentence.com/inscrutable-in-a-sentence/">Inscrutable</a></h2>
+<div class="outline-text-2" id="text-147">
+<p>
+<code>incapable of being investigated or understood</code>
+</p>
+
+<ul class="org-ul">
+<li>When Larry wrote the letter, he was so tired the writing was nearly inscrutable.
+</li>
+<li>Not even the leading experts in criminology could understand the killer’s inscrutable motives.
+</li>
+<li>In situations where evidence is lacking, some murder cases remain inscrutable forever.
+</li>
+<li>Because my father normally had an inscrutable look on his face, I rarely knew what he was thinking.
+</li>
+<li>My professor spoke so rapidly that his lectures were inscrutable to everyone in the auditorium.
+</li>
+<li>Because of the discolored paint, the signature on the painting is inscrutable.
+</li>
+<li>Although I tried to guess my fate by looking directly at the judge, my effort was futile because his face was inscrutable.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-148" class="outline-2">
+<h2 id="sec-148"><span class="section-number-2">148</span> <a href="https://wordsinasentence.com/insignia-in-a-sentence/">Insignia</a></h2>
+<div class="outline-text-2" id="text-148">
+<p>
+<code>a patch or badge that indicates a person's official or military rank, or which group or organization they belong to</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Rita is a Chicago Cubs fan, she wears the team logo as her insignia.
+</li>
+<li>Every insignia that could be earned in the military was displayed in the case.
+</li>
+<li>When I opened the door to the Corporal Institute, the insignia representing the school was displayed for everyone to see.
+</li>
+<li>On the cover of the training manual was an insignia representing the dedication and determination needed to succeed in the elite program.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-149" class="outline-2">
+<h2 id="sec-149"><span class="section-number-2">149</span> <a href="https://wordsinasentence.com/insouciant-in-a-sentence/">Insouciant</a></h2>
+<div class="outline-text-2" id="text-149">
+<p>
+<code>not concerned about anything; carefree</code>
+</p>
+
+<ul class="org-ul">
+<li>The insouciant mother did not blink an eye when her son complained of a tummy ache.
+</li>
+<li>Because Bill is insouciant  and not concerned about his retirement, he does not worry about saving money.
+</li>
+<li>Since Jane is insouciant about her health, she does not bother to take her medication.
+</li>
+<li>The insouciant waitress did not seem to care that Matt had to wait over an hour for his food.
+</li>
+<li>When the lion trainer walked into the lion’s cage in an insouciant manner, he let the animal know he was not threatened in any way.
+</li>
+<li>Instead of Will being angry when he caught his wife cheating, he was insouciant and laughed off the affair.
+</li>
+<li>Because Lily was well prepared for the test, she was insouciant about earning a passing grade.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-150" class="outline-2">
+<h2 id="sec-150"><span class="section-number-2">150</span> <a href="https://wordsinasentence.com/instill-in-a-sentence/">Instill</a></h2>
+<div class="outline-text-2" id="text-150">
+<p>
+<code>to slowly cause a person to develop a feeling or attitude</code>
+</p>
+
+<ul class="org-ul">
+<li>The detective tried to instill fear in the suspect by telling him about the dangers of prison.
+</li>
+<li>As a teacher, I am always eager to find ways to instill a love of learning in my students.
+</li>
+<li>The leader hopes to instill voters with a passion for reorganizing the government.
+</li>
+<li>In a relationship, you have to be reliable in order to instill trust in your partner.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-151" class="outline-2">
+<h2 id="sec-151"><span class="section-number-2">151</span> <a href="https://wordsinasentence.com/insuperable-in-a-sentence/">Insuperable</a></h2>
+<div class="outline-text-2" id="text-151">
+<p>
+<code>not possible to achieve</code>
+</p>
+
+<ul class="org-ul">
+<li>No matter how hard the kitten tried, it could not face the insuperable challenge of climbing back down the tree.
+</li>
+<li>Charles is a foolish dreamer who comes up with insuperable plans that he never achieves.
+</li>
+<li>Just when it seemed as though victory was insuperable, our football team was able to make a winning play that earned us a spot in the state championship.
+</li>
+<li>Despite what doctors described as insuperable odds, the wounded man survived his ordeal.
+</li>
+<li>Due to a bad case of writer’s block, the deadline set by my publisher has become insuperable.
+</li>
+<li>Since the two countries have been at war for centuries, it is obvious the construction of a peace agreement is insuperable.
+</li>
+<li>During the Special Olympics, thousands of men and women display their abilities to win insuperable challenges.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-152" class="outline-2">
+<h2 id="sec-152"><span class="section-number-2">152</span> <a href="https://wordsinasentence.com/insurrection-in-a-sentence/">Insurrection</a></h2>
+<div class="outline-text-2" id="text-152">
+<p>
+<code>an organized uprising against an authoritative body</code>
+</p>
+
+<ul class="org-ul">
+<li>During the insurrection, several convicts held a prison doctor hostage.
+</li>
+<li>By way of an insurrection, the lower class overthrew the selfish aristocrats during the French Revolution.
+</li>
+<li>If the insurrection against the tyrant fails, many innocent people will continue to be killed on a daily basis.
+</li>
+<li>Fortunately a government agency discovered the group’s plan for insurrection before the highest politicians in the nation were murdered.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-153" class="outline-2">
+<h2 id="sec-153"><span class="section-number-2">153</span> <a href="https://wordsinasentence.com/intercede-in-a-sentence/">Intercede</a></h2>
+<div class="outline-text-2" id="text-153">
+<p>
+<code>to try to help settle an argument or disagreement between two or more people or groups</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though a mother-in-law may have good intentions, I do not believe she should ever intercede in an argument between a husband and a wife.
+</li>
+<li>The lawyer will intercede for his client in the court proceedings.
+</li>
+<li>If necessary, the police force was ready to intercede between the protestors and the company security team.
+</li>
+<li>Your union representative will intercede with management on your behalf.
+</li>
+<li>As a judge, Frank has to intercede on disagreements between individuals on a daily basis.
+</li>
+<li>One of the religious leader’s duties is to intercede with God on behalf of the people.
+</li>
+<li>If the debate becomes too heated, the moderator will intercede to break up the argument.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-154" class="outline-2">
+<h2 id="sec-154"><span class="section-number-2">154</span> <a href="https://wordsinasentence.com/interloper-in-a-sentence/">Interloper</a></h2>
+<div class="outline-text-2" id="text-154">
+<p>
+<code>someone who intrudes on the privacy or property of another without permission</code>
+</p>
+
+<ul class="org-ul">
+<li>Since she has never been able to let her son go, my mother-in-law is an interloper in my marriage.
+</li>
+<li>Because I am not an actor, I feel like an interloper in this acting class.
+</li>
+<li>Although he was an atheist, Jason did not feel as though he was an interloper when he attended his friend’s church wedding.
+</li>
+<li>To make sure no one felt like an interloper, William walked around the room and talked to everyone at the party.
+</li>
+<li>When the new guy moved into our dormitory, it took a long time for us to see him as anything other than an interloper.
+</li>
+<li>We called the police on the interloper we caught peeking through our bedroom window.
+</li>
+<li>Although she was nice to him, Henry still viewed his stepmother as an interloper.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-155" class="outline-2">
+<h2 id="sec-155"><span class="section-number-2">155</span> <a href="https://wordsinasentence.com/interlude-in-a-sentence/">Interlude</a></h2>
+<div class="outline-text-2" id="text-155">
+<p>
+<code>a short period of time that comes in the middle of an event or situation</code>
+</p>
+
+<ul class="org-ul">
+<li>We exited the theater during the short interlude to purchase something to eat.
+</li>
+<li>After sitting in court for five hours, the judge finally announced that they would stop for a twenty-minute interlude.
+</li>
+<li>The show paused for a musical interlude which gave us some time to stand up and stretch.
+</li>
+<li>During the short interlude, the presidential contestant walked off of the stage and began to mingle with the audience.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-156" class="outline-2">
+<h2 id="sec-156"><span class="section-number-2">156</span> <a href="https://wordsinasentence.com/intermission-in-a-sentence/">Intermission</a></h2>
+<div class="outline-text-2" id="text-156">
+<p>
+<code>a scheduled break of about 10 to 15 minutes in the middle of a play, movie or concert</code>
+</p>
+
+<ul class="org-ul">
+<li>The woman quickly consumed the candy and drink during the play’s intermission because she could not take it back in the theater.
+</li>
+<li>When the movie came back on, we knew the intermission was over and we had to stop stretching our legs.
+</li>
+<li>The small child’s mother couldn’t wait until the intermission since her son began to squirm in his seat after two hours of the play.
+</li>
+<li>Lights in the theater flickered indicating that the intermission was over and the play would continue in a few minutes.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-157" class="outline-2">
+<h2 id="sec-157"><span class="section-number-2">157</span> <a href="https://wordsinasentence.com/intermittent-in-a-sentence/">Intermittent</a></h2>
+<div class="outline-text-2" id="text-157">
+<p>
+<code>displaying in a random pattern; not consistent</code>
+</p>
+
+<ul class="org-ul">
+<li>When the cops arrived, the loud intermittent noise had stopped.
+</li>
+<li>The baby’s crying is intermittent and can occur at anytime.
+</li>
+<li>Since the power outages are intermittent, I am not sure If you have enough time to cook your dinner.
+</li>
+<li>The holiday lights are intermittent and flicker on and off constantly.
+</li>
+<li>Because my spasms are intermittent and occur randomly, it is hard for the doctor to diagnose my condition.
+</li>
+<li>The reason I broke up with my boyfriend was because of his intermittent verbal assaults that often happened without warning.
+</li>
+<li>While Jeremy was ill, he had an intermittent fever that came and went for three days.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-158" class="outline-2">
+<h2 id="sec-158"><span class="section-number-2">158</span> <a href="https://wordsinasentence.com/interpose-in-a-sentence/">Interpose</a></h2>
+<div class="outline-text-2" id="text-158">
+<p>
+<code>to involve oneself or to insert</code>
+</p>
+
+<ul class="org-ul">
+<li>It can be dangerous to interpose yourself between a cat fight.
+</li>
+<li>The mediator looked for the opening to interpose himself and break up the debate.
+</li>
+<li>He hoped to interpose the container to keep both ingredients separate.
+</li>
+<li>As if an afterthought, the senator decided to interpose an entirely new position in his platform.
+</li>
+<li>If you interpose in a marital argument, be prepared to be yelled at by both parties.
+</li>
+<li>Though he was not invited, he felt he should interpose his point of view.
+</li>
+<li>The politician tried to interpose his unusual stance into the debate to throw off his opponents.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-159" class="outline-2">
+<h2 id="sec-159"><span class="section-number-2">159</span> <a href="https://wordsinasentence.com/interrogate-in-a-sentence/">Interrogate</a></h2>
+<div class="outline-text-2" id="text-159">
+<p>
+<code>to question someone in a commanding manner</code>
+</p>
+
+<ul class="org-ul">
+<li>If Jill brings a boy home, she knows her father is going to interrogate him by asking hundreds of questions.
+</li>
+<li>The prosecutor will interrogate the defendant during the trial.
+</li>
+<li>Because I came home late last night, I know my parents are going to interrogate me over breakfast.
+</li>
+<li>Does the government have the right to interrogate suspected terrorists without their attorneys present?
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-160" class="outline-2">
+<h2 id="sec-160"><span class="section-number-2">160</span> <a href="https://wordsinasentence.com/inundate-in-a-sentence/">Inundate</a></h2>
+<div class="outline-text-2" id="text-160">
+<p>
+<code>overwhelm with things or people</code>
+</p>
+
+<ul class="org-ul">
+<li>My boss is the type of person who likes to inundate others with projects.
+</li>
+<li>As a teacher, you can expect to have a room full of students who will inundate you with questions.
+</li>
+<li>The natural force of the hurricane will soon inundate the state with water.
+</li>
+<li>Because of the poor economy, unemployed workers will more than likely inundate the government with requests for financial assistance.
+</li>
+<li>Since James is very sensitive to odors, he will not spray any fragrance in his house that will inundate his sinuses.
+</li>
+<li>I hope the excited fans will not inundate the shy celebrity when she walks into the theater.
+</li>
+<li>If dogs and cats are not spayed and neutered, they can overpopulate and inundate the planet.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-161" class="outline-2">
+<h2 id="sec-161"><span class="section-number-2">161</span> <a href="https://wordsinasentence.com/invective-in-a-sentence/">Invective</a></h2>
+<div class="outline-text-2" id="text-161">
+<p>
+<code>abusive language used to criticize</code>
+</p>
+
+<ul class="org-ul">
+<li>The newspaper’s invective of the novel really made the author angry.
+</li>
+<li>Because your invective hurt my feelings, I am going to stay away from you for a while.
+</li>
+<li>The politician’s invective about his opponent caused him many votes in the election.
+</li>
+<li>When my ex-husband tried to start a fight with me by using an invective, I simply walked away from him.
+</li>
+<li>Words of encouragement are much better than the harsh words of an invective.
+</li>
+<li>After the first speaker began the debate with an invective towards his opponent, it was impossible for any meaningful conversation to occur between the two men.
+</li>
+<li>From across the room, my rival tried to taunt me with an invective.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-162" class="outline-2">
+<h2 id="sec-162"><span class="section-number-2">162</span> <a href="https://wordsinasentence.com/inveigh-in-a-sentence/">Inveigh</a></h2>
+<div class="outline-text-2" id="text-162">
+<p>
+<code>to criticize someone or something very strongly</code>
+</p>
+
+<ul class="org-ul">
+<li>Because one politician chose to inveigh on the subject of immigration for an hour, the debate went on all afternoon.
+</li>
+<li>No matter how angry I get, I will not inveigh my feelings using social media.
+</li>
+<li>The entire purpose of the article was to inveigh on the topic of gun control.
+</li>
+<li>Too often, bloggers inveigh on political topics when they know very little about politics.
+</li>
+<li>There are not enough words for me to inveigh how angry I am right now!
+</li>
+<li>During the trial, the prosecutor took every opportunity to inveigh his feelings about the defendant.
+</li>
+<li>When approached by the reporter, it was not difficult at all for the victim’s mother to inveigh her thoughts on her daughter’s attacker.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-163" class="outline-2">
+<h2 id="sec-163"><span class="section-number-2">163</span> <a href="https://wordsinasentence.com/inveigle-in-a-sentence/">Inveigle</a></h2>
+<div class="outline-text-2" id="text-163">
+<p>
+<code>to persuade someone to do something by means of deception or flattery</code>
+</p>
+
+<ul class="org-ul">
+<li>Speechless I stood by as June was able to inveigle her way into the private club by flirting with the security guard.
+</li>
+<li>The detective could inveigle information out of the quietest suspects.
+</li>
+<li>Although the salesman thought it would be easy for him to inveigle my grandmother into buying a vacuum she did not need, he soon realized my grandmother was not easily fooled.
+</li>
+<li>Tracy had no problem showing off her feminine assets to inveigle her way backstage to meet her favorite singer.
+</li>
+<li>During the trial, the witnesses described how the defendant used deception to inveigle his clients into investing in his scam.
+</li>
+<li>My lazy brother is going to try and inveigle our mother into paying for his spring trip to the beach.
+</li>
+<li>Although Karen is a lousy secretary, she is very attractive and recently received a pay raise because of her ability to inveigle her boss by constantly referring to his good looks.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-164" class="outline-2">
+<h2 id="sec-164"><span class="section-number-2">164</span> <a href="https://wordsinasentence.com/inveterate-in-a-sentence/">Inveterate</a></h2>
+<div class="outline-text-2" id="text-164">
+<p>
+<code>have a particular interest or habit that is unlikely to change</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Janet was an inveterate traveler, it seemed as though she lived at the airport.
+</li>
+<li>Mark is an inveterate liar who could not tell the truth even if you paid him.
+</li>
+<li>Although Hank was an inveterate peacemaker, he did not function well in his job as a mediator.
+</li>
+<li>Ginger is an inveterate reader who always has a book in her hands.
+</li>
+<li>Since I am an inveterate skeptic, there is very little I will believe without proof.
+</li>
+<li>The inveterate inventor has made millions of dollars by selling numerous product designs.
+</li>
+<li>Although Mark is twenty-eight years old, he is an inveterate slacker who has no wish other than to watch wrestling on television.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-165" class="outline-2">
+<h2 id="sec-165"><span class="section-number-2">165</span> <a href="https://wordsinasentence.com/invidious-in-a-sentence/">Invidious</a></h2>
+<div class="outline-text-2" id="text-165">
+<p>
+<code>unpleasant and likely to cause bad feelings in other people</code>
+</p>
+
+<ul class="org-ul">
+<li>The dictator’s invidious acts caused the people to rise up against him.
+</li>
+<li>In Jeremy’s opinion, the death penalty is an invidious part of the legal system that should be considered a crime against humanity.
+</li>
+<li>Nathan’s invidious behavior disturbed others and got him kicked out of the movie theater.
+</li>
+<li>When Sally drinks alcohol, she starts to display invidious behavior that makes everyone feel uncomfortable.
+</li>
+<li>Many people believe the habit of giving out trophies to only a few student competitors is invidious and likely to promote ill will between peers.
+</li>
+<li>When you compare someone to a wild animal, you are making an invidious association that does not compliment the person.
+</li>
+<li>The judge knew his decision to release the killer would be considered invidious by the victim’s family.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-166" class="outline-2">
+<h2 id="sec-166"><span class="section-number-2">166</span> <a href="https://wordsinasentence.com/invoke-in-a-sentence/">Invoke</a></h2>
+<div class="outline-text-2" id="text-166">
+<p>
+<code>to request aid, usually from a deity</code>
+</p>
+
+<ul class="org-ul">
+<li>During the baptism, the priest will invoke a lifetime of blessings for the infant.
+</li>
+<li>The celebrity will invoke assistance from the police to keep stalkers away from his property.
+</li>
+<li>To defeat her opponents, the superhero had to invoke Mother Nature’s power to create a tornado.
+</li>
+<li>The members of the tribe will invoke water from the gods by performing a rain dance.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-167" class="outline-2">
+<h2 id="sec-167"><span class="section-number-2">167</span> <a href="https://wordsinasentence.com/iota-in-a-sentence/">Iota</a></h2>
+<div class="outline-text-2" id="text-167">
+<p>
+<code>a tiny amount</code>
+</p>
+
+<ul class="org-ul">
+<li>If there is even one iota of doubt, the jury should not find the defendant guilty.
+</li>
+<li>My father says his love for my mother has not decreased one iota in their thirty years of marriage.
+</li>
+<li>Although the suspect said he was out of town at the time of the murder, there was not one iota of proof to support his claim.
+</li>
+<li>As a starving writer, all I need is for one publisher to have an iota of faith in my novel.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-168" class="outline-2">
+<h2 id="sec-168"><span class="section-number-2">168</span> <a href="https://wordsinasentence.com/ire-in-a-sentence/">Ire</a></h2>
+<div class="outline-text-2" id="text-168">
+<p>
+<code>hostility triggered by a grievance or insult</code>
+</p>
+
+<ul class="org-ul">
+<li>My ire stems from the salesperson ignoring me while she talked on the telephone.
+</li>
+<li>When the celebrity wore the fur coat on the red carpet, she drew the ire of many animal rights activists.
+</li>
+<li>The victim’s spouse felt a great deal of ire towards the suspect.
+</li>
+<li>If my neighbor continues to let his dog poop in my front yard, he is going to feel the full force of my ire when I toss the canine waste on his porch.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-sec-169" class="outline-2">
+<h2 id="sec-169"><span class="section-number-2">169</span> <a href="https://wordsinasentence.com/irk-in-a-sentence/">Irk</a></h2>
+<div class="outline-text-2" id="text-169">
+<p>
+<code>annoy; irritate</code>
+</p>
+
+<ul class="org-ul">
+<li>Harry likes to irk us with his irrelevant questions.
+</li>
+<li>It must irk Fred when Anna starts complaining.
+</li>
+<li>The baby’s nonstop crying began to irk me.
+</li>
+<li>Bella’s car makes creaking noises that irk her.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-170" class="outline-2">
+<h2 id="sec-170"><span class="section-number-2">170</span> <a href="https://wordsinasentence.com/irksome-in-a-sentence/">Irksome</a></h2>
+<div class="outline-text-2" id="text-170">
+<p>
+<code>irritatingly bothersome</code>
+</p>
+
+<ul class="org-ul">
+<li>Hank's fellow employees try to avoid him because of his irksome behavior.
+</li>
+<li>To avoid the irksome security lines at the airport, Rick has applied for a screening pass that will allow him to reach his gate more quickly.
+</li>
+<li>My irksome mother-in-law is constantly complaining about the way I clean my home.
+</li>
+<li>Because Gina did not think of others, she could not imagine her neighbors would find her loud music irksome.
+</li>
+<li>Even the offer of a bonus did not motivate any of the real estate agents to work with the irksome woman.
+</li>
+<li>The police officer told the irksome beggar to stop bothering pedestrians.
+</li>
+<li>On the plane, I sat next to a woman with an irksome toddler who whined throughout the six-hour flight.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-171" class="outline-2">
+<h2 id="sec-171"><span class="section-number-2">171</span> <a href="https://wordsinasentence.com/irremediable-in-a-sentence/">Irremediable</a></h2>
+<div class="outline-text-2" id="text-171">
+<p>
+<code>unable to be remedied, cured, corrected or repaired</code>
+</p>
+
+<ul class="org-ul">
+<li>Bursting into tears, the young mother was appalled when she heard her baby had an irremediable disease which would cause severe pain for the rest of her life.
+</li>
+<li>Once the spoiled girl reached her teenage years, the family knew it would be impossible to try to humble the irremediable girl.
+</li>
+<li>With only two weeks until the end of the term, the college student decided to register again for the math class because he knew it was too late for his irremediable grade.
+</li>
+<li>Since the home team was down 56 to 8, it was irremediable to try and stage a comeback now.
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-172" class="outline-2">
+<h2 id="sec-172"><span class="section-number-2">172</span> <a href="https://wordsinasentence.com/itinerary-in-a-sentence/">Itinerary</a></h2>
+<div class="outline-text-2" id="text-172">
+<p>
+<code>a detailed schedule usually for a trip</code>
+</p>
+
+<ul class="org-ul">
+<li>With his itinerary in hand, the tourist began his first day in Ireland by walking to each place on his list so he could see every attraction.
+</li>
+<li>The teacher had to submit an itinerary for her field trip to Disneyworld listing every stop they would make at each hour of the day.
+</li>
+<li>When the itinerary was given out daily to the passengers on the cruise, they could decide which activities they wanted to do and at which time the activities were being offered.
+</li>
+<li>In order to be on time for their event, each Olympic athlete consulted their itinerary to determine the location and time for their event.
+</li>
+</ul>
+
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>
