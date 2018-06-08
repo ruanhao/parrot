@@ -20,7 +20,7 @@
 
   =a person who hates or distrusts humankind=
 
-  - The old man was a misanthrope who surrounded his entire yard with barbed wire to keep his neighbors at bay.
+  - The old man was a misanthrope who surrounded his entire yard with barbed wire to keep his neighbors *at bay*.
   - Because the hermit lived far away from the village, everyone thought he was a misanthrope who hated the world.
   - After I was kidnapped and held hostage for a week, I became a misanthrope and distrusted everyone.
   - Living in a crime-filled city will turn anyone into a nervous misanthrope.
@@ -34,7 +34,7 @@
 
   =badly behaved; naughty=
 
-  - Garry’s dog is very mischievous so don’t be thrown off by its cute smile.
+  - Garry’s dog is very mischievous so don’t *be thrown off* =错觉= by its cute smile.
   - Everything was going well until our mischievous 6-year-old decided to stick his hand into the living room fan.
   - The police warned us not to engage in any kind of mischievous behavior on the boardwalk.
   - Although Martha is a serious student, she does have a mischievous side to her.
@@ -47,7 +47,7 @@
 
   - Since Fred is very skinny, calling him Fat Fred is indeed a misnomer.
   - The foreigner found it difficult to understand the local misnomer which described a bar as a watering hole.
-  -  Because my grandmother had a habit of saying inappropriate things, it was not surprising to hear one misnomer after another coming out of her mouth.
+  - Because my grandmother had a habit of saying inappropriate things, it was not surprising to hear one misnomer after another coming out of her mouth.
   - The name she chose made no sense to anyone so we could only assume it was a misnomer.
   - No one can understand why my aunt has given her friendly dog the misnomer of Killer.
   - Although there was a misnomer in the contract, the judge still said the terms were legal and binding.
@@ -59,7 +59,7 @@
 
   =an intense dislike of females=
 
-  - The boy’s misogyny hailed from the abuse he suffered from his mother.
+  - The boy’s misogyny *hailed from* =来源于= the abuse he suffered from his mother.
   - In my opinion, our professor allows his misogyny to give women lower grades than men despite the work quality.
   - The women’s basketball team refused to work with their coach because of his misogyny and his rude behavior.
   - According to the criminal profiler, only a person with misogyny could kill so many women so brutally.
@@ -95,11 +95,11 @@
 
   =large in size and challenging to alter=
 
-  -  Unfortunately there was no way to make the monolithic project smaller.
+  - Unfortunately there was no way to make the monolithic project smaller.
   - It will take over a year to complete the monolithic task of rebuilding the museum.
   - Since the changes are not monolithic, it should only take Sarah a day or two to remodel the kitchen.
   - It will take the decoders weeks to decipher the monolithic amount of code.
-  - Because the cult leader’s brainwashing was so monolithic, it took months for the man to break free of the programming.
+  - Because the cult leader’s *brainwashing* was so monolithic, it took months for the man to break free of the programming.
   - The miners were exhausted after smashing through the monolithic cave wall.
   - If the monolithic pillars collapse, the entire building will fall.
 
@@ -110,7 +110,7 @@
 
   - Adding seasoning to the bland stew helped break up the monotony of the dish.
   - Our boring schedule led to monotony, with each day being exactly like the one before.
-  - After several hours of playing the same game, monotony set in and I looked for something else to do.
+  - After several hours of playing the same game, monotony *set in* =来临= and I looked for something else to do.
   - After five years in a lackluster marriage, the dreary couple went on a fun trip to break up the monotony.
 
 
@@ -121,7 +121,7 @@
 
   - A monumental and historic decision was made by the Supreme Court regarding marriage rights.
   - The company has enjoyed monumental success this year, reaching record breaking heights.
-  - Monumental change in the administration led to financial scale backs of major proportions.
+  - Monumental change in the administration led to financial *scale backs* =相应缩减= of major proportions.
   - Although it was a monumental upset for the team, the coach encouraged the team to view the significant setback as a lesson.
 
 
@@ -131,7 +131,7 @@
   =quick to judge others based on a narrow view of what is right and wrong=
 
   - The moralistic pastor called out members of his congregation for what he saw as sinful behaviors.
-  - Being extremely moralistic, my judging neighbor always had something to say about my late night co-ed parties.
+  - Being extremely moralistic, my judging neighbor always had something to say about my late night *co-ed* =男女混合的= parties.
   - The delusional man was unapologetically moralistic and felt it was his God given right to call others out on their wicked ways.
   - The conversation took a moralistic turn as my mother began to scold me for living a lifestyle she felt to be immoral.
 
@@ -168,7 +168,7 @@
 
   - The mordant mother often used harsh words that made her son cry.
   - When the mordant president entered the boardroom, all of his vice-presidents readied for his sarcastic attacks.
-  - The mordant news anchor lost his job after he made racist jokes on television.
+  - The mordant *news anchor* =新闻主持人= lost his job after he made racist jokes on television.
   - Before I face my mordant mother-in-law at dinner, I must brace myself for her abrasive comments about my cooking.
 
 
@@ -252,7 +252,7 @@
 
   =Boring, dull, and uninteresting=
 
-  - The restaurant should spice up their menu and replace the dull and mundane dishes.
+  - The restaurant should *spice up* their menu and replace the dull and mundane dishes.
   - From the exciting to the mundane, I will share all of my experiences with you.
   - Though his friends were having a fun time at the bar, Kevin settled for a mundane evening at home.
   - Going about his everyday routine, the man’s mundane schedule had him bored to tears.
@@ -267,7 +267,7 @@
   =very generous=
 
   - The wealthy actor always gives the members of his staff munificent appreciation gifts.
-  - If you were lucky enough to buy that particular technology stock early on, then soon you will be receiving some munificent rewards.
+  - If you were lucky enough to buy that particular technology stock *early on*, then soon you will be receiving some munificent rewards.
   - The munificent woman is a well-known philanthropist who funds many university scholarships.
   - Even though Mr. Matthews has millions of dollars, he is not munificent and hates to give away any of his money.
   - The munificent man gave all of his inheritance to charity.
@@ -321,7 +321,7 @@
   =an evil speech or curse upon someone or something=
 
   - The witch’s malediction made the young princess fall into a deep sleep.
-  - Before the warlock was imprisoned, he placed a malediction upon his captor’s families.
+  - Before the *warlock* was imprisoned, he placed a malediction upon his captor’s families.
   - Sometimes my luck is so bad I believe someone has placed a malediction upon me.
   - As long as the king is under the wizard’s malediction, he will not recall his own identity.
   - The woman tried to kill her cheating husband by chanting a malediction.
@@ -388,9 +388,9 @@
   =to make unrecognizable through violent acts of cutting, slashing, or crushing=
 
   - The lion's razor-sharp claws mangle the terrified gazelle as he feeds.
-  - After her boyfriend broke up with her, the angry girl used a  pair of scissors to mangle and destroy every stuffed animal  he’d ever given her.
-  - Sharks mangle their prey so thoroughly that they’re hardly  recognizable through the bloody tears and gargantuan bite  marks.
-  - Head-on collisions often mangle the cars so badly that they  resemble crushed soda cans.
+  - After her boyfriend broke up with her, the angry girl used a  pair of scissors to mangle and destroy every stuffed animal he’d ever given her.
+  - Sharks mangle their prey so thoroughly that they’re hardly recognizable through the bloody tears and gargantuan bite marks.
+  - Head-on collisions often mangle the cars so badly that they resemble crushed soda cans.
 
 
 
@@ -457,7 +457,7 @@
   =a tall post attached to a ship that holds sails=
 
   - The mast had a sail attached and was used to guide the boat.
-  - Flapping in the wind, the sails on the mast helped direct the boat to its destination.
+  - *Flapping in the wind*, the sails on the mast helped direct the boat to its destination.
   - One of the crew member’s was tied to the ships mast and he remained on the pole until it docked.
   - Sails were raised on the mast, inching up and up the pole until they reached the boat’s peak.
 
@@ -505,7 +505,7 @@
 
   - This brown color is extremely matte, dull and lifeless but supposedly a good color for this piece of furniture, according to my mother.
   - Some women prefer to wear matte makeup that is duller and a lot less glossy, though it’s really just a personal preference.
-  - My father is a rather sullen individual, so when he got to choose the color of our living room walls he chose a matte beige instead of a shinier color.
+  - My father is a rather sullen individual, so when he got to choose the color of our living room walls he chose a matte *beige* instead of a shinier color.
   - Matte colors are rarely used for cars, because most people prefer to have shiny and reflective colors on their vehicle instead of dull ones.
 
 
@@ -516,7 +516,7 @@
 
   - I would never go near a bear even in captivity, for fear that it would maul me with its huge teeth and claws.
   - There is a chance that any animals with claws and teeth could maul you, but scratches and cuts are the least of your worries with a carnivore.
-  - The lion chose to maul the man we received at the hospital today, inflicting all sorts of gashes and cuts on him that we had to stitch up.
+  - The lion chose to maul the man we received at the hospital today, inflicting all sorts of *gashes* and cuts on him that we had to stitch up.
   - Even though we usually use the word maul in reference to animals, a human could maul another person with a knife or a dagger.
 
 
@@ -542,7 +542,7 @@
   - The confused old man will sometimes come into the store and meander for hours without making a purchase.
   - During my vacation, I have no plans other than to meander through the mountains for days.
   - Jason let his mind meander and by the time the workday was over, he had made very little progress on his accounts.
-  - Unless I nag my daughter about completing her chores, she will meander and never get anything done.
+  - Unless I *nag* my daughter about completing her chores, she will meander and never get anything done.
   - Some Alzheimer’s patients are known to meander aimlessly about the hospital.
   - On my lunch break, I often meander through the park while eating a sandwich.
   - Without a grocery list, my grandmother will meander up and down the store aisles for hours.
@@ -565,7 +565,7 @@
   =restrained; unwilling to speak up=
 
   - Although the meek girl knew the answer to the teacher’s question, she was too nervous to raise her hand.
-  - The trainer suggested tips to help me transform my aggressive dog into a meek pooch.
+  - The trainer suggested tips to help me transform my aggressive dog into a meek *pooch*.
   - Because the doctor believed the patient was out of control, he gave him an injection to make him meek.
   - Tim has never gotten a promotion at work because he is too meek to express his opinions.
 
@@ -616,7 +616,7 @@
   - Mendacious people hide the truth.
   - My wife is mendacious for dating another man behind my back.
   - Please give me a promise that you can keep—not a mendacious promise.
-  - How mendacious of Joan to habitually call in sick from work when she's feeling fine!
+  - How mendacious of Joan to habitually *call in sick from work* when she's feeling fine!
   - A product claiming to help you get ripped abs in a few hours is mendacious advertising.
 
 
@@ -675,10 +675,10 @@
 
   =strength of spirit; the ability to continue despite difficulties=
 
-  - Of all the young men in the village, Caldor was the only one with enough mettle to face the dragon in its lair.
+  - Of all the young men in the village, Caldor was the only one with enough mettle to face the dragon in its *lair*.
   - To prove his mettle and show that he was daring enough to join the club, Timmy had to spend an hour alone in the haunted house on the hill.
-  - Even though all members of the navy have high levels of fortitude and courage, candidates for Navy Seal training must exhibit far more mettle than average.
-  - Because Aaron has carried the team for most of the season, his injury will test the mettle of his teammates to see if they can win any games without him.
+  - Even though all members of the navy have high levels of *fortitude* and courage, candidates for Navy Seal training must exhibit far more mettle than average.
+  - Because Aaron has *carried the team* for most of the season, his injury will test the mettle of his teammates to see if they can win any games without him.
   - Maxwell joined several boards of directors in order to prove his mettle as a community leader.
   - You should be congratulated for showing your mettle and coming through such a difficult situation with your head high.
   - When the prototype of the new spaceship was finished, the team tested its mettle by simulating a trip to Mars.
@@ -689,13 +689,13 @@
 
   =manner or conduct especially indicating one's mood or character=
 
-  - When I saw his downcast face and gloomy mien, I knew he hadn’t gotten the promotion.
+  - When I saw his *downcast* face and gloomy mien, I knew he hadn’t gotten the promotion.
   - Although Mary Jane usually exhibits a mild-mannered mien, she can get pretty fierce when there’s a sale at her favorite store.
   - Reginald has a naturally dignified mien that makes him the perfect actor to play the role of the butler in this movie.
   - The toddler had such a joyful mien that he brought smiles to the faces of everyone he came in contact with.
   - After the inspiring Easter sunrise service, all the parishioners walked out of the church with a more reverent mien.
-  - When the doorbell rang at midnight, Brian’s mien was guarded as he peered through the peephole in the front door.
-  - Andrew displays a brash mien that tends to offend people who don’t know what a nice guy he really is.
+  - When the doorbell rang at midnight, Brian’s mien was *guarded* =谨慎的= as he peered through the peephole in the front door.
+  - Andrew displays a *brash* mien that tends to offend people who don’t know what a nice guy he really is.
 
 
 
@@ -726,7 +726,7 @@
   =To mix or combine (people or objects)=
 
   - The spies decided to mingle in with the crowd and see if they could find the killer.
-  - Mixing the stir-fry, the chef decided to mix in some chicken with the vegetables.
+  - Mixing the *stir-fry*, the chef decided to mix in some chicken with the vegetables.
   - Royals never mingle with the common folk but prefer to stick to their class.
   - John was able to mingle with the other students and ended up feeling right at home at college.
 
@@ -753,7 +753,7 @@
   - For the computer savvy miscreant, it is a great age in which to be a hacker.
   - How long is it going to take the police to capture the miscreant who keeps knocking down mailboxes in our neighborhood?
   - Everyone is shocked a proper lady like April is dating a miscreant like James.
-  - Because James is a miscreant with a felony record for murder, he cannot become a police officer.
+  - Because James is a miscreant with a *felony* record for murder, he cannot become a police officer.
   - The church installed cameras outside in hopes of catching the miscreant who was vandalizing the building.
 
 
@@ -774,7 +774,7 @@
   =a trial that ends through an error in the proceedings=
 
   - Bill Cosby’s rape hearing ended in a mistrial since the jurors were deadlocked and couldn’t come to a decision.
-  - The judge declared a mistrial, ruling that the entire proceeding invalid after a juror admitted to knowing the defendant.
+  - The judge declared a mistrial, ruling that the entire *proceeding* =诉讼= invalid after a juror admitted to knowing the defendant.
   - Even though they knew that they could try the killer again, the mistrial was a disappointment to the district attorney and his staff.
   - A mistrial was ruled when the judge felt that a problem with a witness would make it impossible for a fair decision to be reached.
 
@@ -794,7 +794,7 @@
   =a thin stream of water that completely surrounds right outside a large house or fortress=
 
   - Since the dragon could not swim, he dared not cross the moat to any window or door of the castle.
-  - As the drawbridge was lowered over the moat, the soldiers and officers could safely and dryly enter the garrison from only this location.
+  - As the *drawbridge* was lowered over the moat, the soldiers and officers could safely and dryly enter the *garrison* from only this location.
   - To exit the tower from the evil witch, the four children realized that they needed to swim across the moat at any point from the castle or remain at the tower.
   - Hearing the rushing water and the hungry alligators in the moat around the castle, the stranger realized that this place was impossible to escape.
 
@@ -813,18 +813,6 @@
   - If everyone would donate even a modicum of their yearly salaries, we could easily build a new city park.
 
 
-
-* [[https://wordsinasentence.com/mollify-in-a-sentence/][Mollify]]
-
-  =to soothe in temper or disposition=
-
-  - I am hoping the hot tea and crackers will mollify my husband and help him relax.
-  - If John Smith wants to win the election, he will have to mollify the voters he angered during last week’s debate.
-  - Perhaps a warm glass of milk will mollify my upset stomach.
-  - When the baby started to cry, his mother tried to mollify him with a bottle of milk.
-  - Whenever I do something wrong, I make an apology to mollify the person I offended.
-  - After breaking my favorite plate, my little boy tried to mollify me with a kiss on my cheek.
-  - When Jake forgot his wedding anniversary, he tried to mollify his wife by giving her a diamond necklace.
 
 
 
@@ -866,10 +854,10 @@
 
   =to carry oneself in a depressed, spiritless manner=
 
-  - With her lip poked out, the young girl continued to mope around the house.
+  - With her lip poked out, the young girl continued to *mope around* =无聊闲荡= the house.
   - The sullen man was surprised that his wife hadn’t noticed him mope.
   - His gloomy attitude and tendency to mope caused the man to lose many friends.
-  - The teen began to sulk and mope after being told she could not go to the frat party.
+  - The teen began to *sulk* and mope after being told she could not go to the frat party.
 
 
 
@@ -903,9 +891,9 @@
   - When Daisy saw that she was underdressed for the fancy party, she decided to go back home rather than face the mortification of being judged by all the Beautiful People.
   - Dylan asked his mother to drop him off at the corner so that he could avoid the mortification of being seen getting out of a minivan.
   - To be a member of that fraternity, pledges are expected to endure all sorts of mortification and hardship to prove they are worthy.
-  - Because Steven could see his new bride’s mortification when she dropped the casserole on the floor, he embraced her reassuringly and took her out to a nice restaurant for dinner.
+  - Because Steven could see his new bride’s mortification when she dropped the casserole on the floor, he embraced her *reassuringly* =令人感到踏实的= and took her out to a nice restaurant for dinner.
   - Once you have grown out of your teenage years, you can look back on these times of mortification and wonder why you let your peers get to you.
-  - In the classic novel The Scarlet Letter, Hester Prynn wore the badge of adultery as a statement of defiance rather than mortification.
+  - In the classic novel The Scarlet Letter, Hester Prynn wore the badge of *adultery* as a statement of defiance rather than mortification.
 
 
 
@@ -913,7 +901,7 @@
 
   =a tiny piece of something=
 
-  - A small mote of glass entered my foot, so tiny that I wasn’t able to pull it out without tweezers.
+  - A small mote of glass entered my foot, so tiny that I wasn’t able to pull it out without *tweezers*.
   - Feeling a mote of dirt in her eye, the woman rushed to the bathroom to wash the speck out.
   - A mote of sand in the girl’s shoe irritated her until she stopped to wipe it away.
   - Feeling anxious about the state of her home, the obsessive housewife scrubbed away every tiny mote of dust.
@@ -924,7 +912,7 @@
 
   =the ability to move around in fluid=
 
-  - Personal lubricants can interfere with sperm motility and hinder sperm from being able to make it to the egg.
+  - *Personal lubricants* can interfere with sperm motility and hinder sperm from being able to make it to the egg.
   - Some bacteria have flagellin, which aid in motility and help the cells move through liquid.
   - Studies have proven that marijuana use can slow down sperm motility in otherwise healthy men.
   - Sarcoma cells have increased motility, allowing for faster spreading of these particular types of cancer.
@@ -946,9 +934,8 @@
 
   =to deaden sound by covering or wrapping=
 
-  - Example sentences for Fiduciary. Read this page and learn how to use Fiduciary in a sentence.
   - A silencer was placed on the gun to muffle the sound of it being shot.
-  - To muffle some of the noise, placemats will be placed on the gym floor.
+  - To muffle some of the noise, *placemats* will be placed on the gym floor.
   - Although living beside a highway can be a challenge, keeping your windows closed can muffle some of the street noise.
 
 
@@ -968,7 +955,7 @@
 
   =to mutter something in a low tone so that it cannot be understood=
 
-  - My little brother will mumble his grievances under his breath but never tell me when I make him angry.
+  - My little brother will mumble his grievances *under his breath* =屏住呼吸= but never tell me when I make him angry.
   - The irritated worker continued to grumble and mumble about his no-good boss just out of everyone’s earshot.
   - As he continued to mumble profanity under his breath, the enraged driver laid on the horn.
   - Shrugging her shoulders and walking away, the confused assistant mumbled a slight protest to herself.
@@ -988,7 +975,7 @@
 
 * [[https://wordsinasentence.com/mushy-in-a-sentence/][Mushy]]
 
-  =having a soggy and squashy consistency=
+  =having a *soggy* and squashy consistency=
 
   - After cooking the peas for too long in a crockpot, the mushy vegetable was too soft to be delicious.
   - Due to the extensive rain showers, the mushy ground required everyone to wear boots or their shoes would sink into the mud.
@@ -1001,10 +988,10 @@
 
   =to gather collectively=
 
-  - Before the cruise ship departs, passengers are required to muster at a specified station for a safety briefing.
+  - Before the cruise ship departs, passengers are required to muster at a specified station for a safety *briefing* =情况通报会=.
   - Tomorrow the teachers will muster for their monthly staff meeting.
   - At the sound of the trumpet, the troops muster in standard formation.
-  - The two football teams muster in their respective huddles before each play.
+  - The two football teams muster in their respective *huddles* before each play.
   - According to legend, witches muster on Halloween night to celebrate the dark spirits.
   - The knights muster in the great room to hear the words of their king.
   - When my mother wants us to spring clean, she blows a whistle to let us know it is time to muster in the kitchen.
@@ -1027,8 +1014,8 @@
   =to speak under one's breath, usually in an angry way=
 
   - As he walked away to do his chores, his mother heard him mutter under his breath.
-  - Complaining with a mutter, the man stomped out the door as he made his remarks.
-  - He huffed and puffed with a mutter, moaning about how difficult it would be to find a new carpenter at last minute.
+  - Complaining with a mutter, the man *stomped out* the door as he made his remarks.
+  - He *huffed* and puffed with a mutter, moaning about how difficult it would be to find a new carpenter at last minute.
   - With a grumble and a mutter, the elderly woman tightened her coat and marched off to face the harsh winter weather in search for firewood.
 
 
