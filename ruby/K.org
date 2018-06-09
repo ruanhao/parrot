@@ -26,7 +26,7 @@
   - You need a keen sense of observation to do well as a private investigator.
   - Her keen wits allowed her to escape from the maze in record time.
   - The detectives keen senses allowed him obtain the truth from his suspect.
-  - The keen sentry noticed the troops trying to sneak into the city.
+  - The keen *sentry* noticed the troops trying to sneak into the city.
 
 
 
@@ -36,7 +36,7 @@
 
   - Clouds are a kaleidoscope of shapes, sizes, patterns, and colors.
   - The setting sun painted a kaleidoscope of reds, purples, and oranges in broad strokes and thin spirals across the sky.
-  - During summer camp, the little girl learned how to make a kaleidoscope by putting confetti, scraps of paper, and glitter into a hollow tube and shaking it up to see new patterns.
+  - During summer camp, the little girl learned how to make a kaleidoscope by putting *confetti*, scraps of paper, and glitter into a hollow tube and shaking it up to see new patterns.
   - The little boy peered through the lens of the kaleidoscope  and marveled at the changing colors and patterns inside.
 
 
@@ -84,7 +84,7 @@
   - I watched Frank knead dough as he pushed down and out, stretching the dough flatter and flatter.
   - The first time I attempted to knead dough, the kitchen looked like a hurricane had hit with flour spread out all over the kitchen floor.
   - Frank the baker can knead dough in his bakery at such high speeds that people line up every day to watch.
-  - Sally attempted to knead a large amount of dough with her hands, but after only ten minutes was completely wiped out from the strain.
+  - Sally attempted to knead a large amount of dough with her hands, but after only ten minutes was completely *wiped out* =筋疲力尽= from the strain.
 
 
 
@@ -107,13 +107,6 @@
   - Full of lumps, the knotty part of a beet can be used to create a special juice.
   - Because her breast felt knotty, the woman made an appointment with her doctor to check out the lumps.
   - When she is nervous, the singer’s stomach always feels like a knotty mass of tangled nerves.
-
-
-  - I don't have the required know-how to build a website, but I am willing to learn.
-  - There are millions of job openings in America, yet schools aren't graduating students with the know-how to fill them.
-  - His knowledge and leadership equipped him with the necessary know-how to develop new strategies for growth and improving the company culture
-  - Without the skill and know-how of the wine-growers and wine-makers there would be no great wines.
-
 
 
 * [[https://wordsinasentence.com/kudos-in-a-sentence/][Kudos]]
