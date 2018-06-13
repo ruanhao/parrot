@@ -8,7 +8,7 @@
 #+TOC:       headlines 3
 #+HTML_DOCTYPE: <!DOCTYPE html>
 #+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
-#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized-light/style.css" rel="stylesheet" type="text/css" />
  #+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
@@ -21,9 +21,9 @@
   =solidified from lava or magma=
 
   - After the volcano erupted and lava covered the ground, many igneous rocks were created.
-  - Igneous rocks such as basalt are the after product of a volcanic eruption.
+  - Igneous rocks such as *basalt* are the after product of a volcanic eruption.
   - Although all igneous rocks originally stem from volcanic lava, many morph into other types of rocks overtime.
-  - Some igneous rocks are formed from magma that cools and solidifies within the crust of the earth.
+  - Some igneous rocks are formed from *magma* that cools and solidifies within the crust of the earth.
 
 * [[https://wordsinasentence.com/ignoble-in-a-sentence/][Ignoble]]
 
@@ -49,7 +49,7 @@
   - While our computer teacher was not arrested for stealing school property, she still made an ignominious departure from the building after being interviewed by the police.
   - The basketball player’s downfall was caused by his ignominious steroid use.
   - Once upon a time, unwed pregnant women were frowned upon and viewed as ignominious members of society.
-  - After being excommunicated from the church, the priest made an ignominious exit from the building.
+  - After being *excommunicated* from the church, the priest made an ignominious exit from the building.
 
 
 
@@ -75,7 +75,7 @@
   - The purpose of singing the school song is to imbue school spirit among the students and faculty.
   - When cinnamon is added to the sweet potato batter, it will imbue the pie with a hint of spice.
   - The addition of red paint will imbue the painting’s background with an impression of rage that symbolizes the artist’s feelings about government control.
-  - In the movie, the wizard will imbue two wayward travellers with the courage and love they need to pursue happy lives.
+  - In the movie, the wizard will imbue two *wayward* travellers with the courage and love they need to pursue happy lives.
   - Painting the room yellow will imbue the area with a warm and inviting air.
   - Before the final exam, the teacher gave her students an encouraging talk to imbue them with confidence.
 
@@ -86,9 +86,9 @@
   =to copy or simulate the function of something else=
 
   - Young children will often attempt to imitate their parents, which is why you shouldn’t do anything you wouldn’t want your child to do while they’re watching.
-  - Many insects imitate more deadly animals in order to scare away predators, such as moths with wing markings reminiscent of owls.
-  - When a TV show has great success in public media, many other producers try to imitate it with a similar product to cash in.
-  - There are many musicians that have tried to imitate the unique sound of artists in the past, though they usually add their own twist as well.
+  - Many insects imitate more deadly animals in order to scare away predators, such as moths with wing markings *reminiscent of* owls.
+  - When a TV show has great success in public media, many other producers try to imitate it with a similar product to *cash in* =赚钱=.
+  - There are many musicians that have tried to imitate the unique sound of artists in the past, though they usually add their own *twist* as well.
 
 
 
@@ -111,7 +111,7 @@
   =likely to occur at any moment=
 
   - When the Secret Service arrived, everyone knew the president’s arrival was imminent.
-  - The hurricane is imminent and has homeowners rushing to board up their windows.
+  - The hurricane is imminent and has homeowners rushing to *board up* =用木条封闭= their windows.
   - Despite what the scientist said, the volcano eruption is not imminent so do not be concerned!
   - Some people thought it was funny when the media predicted the imminent death of the drug-addicted celebrity.
   - Because the swat team just arrived on the scene, it is likely a confrontation between the robbers and the police is imminent.
@@ -143,7 +143,7 @@
   - Please sit down because the news I am about to impart to you is not pleasant.
   - Before the current president leaves his position, he will impart many important facts to his successor.
   - The stain will impart a beautiful brown color to the unfinished wood.
-  - With a few dashes of cumin and cinnamon, the baker will impart mouthwatering flavors to the pie.
+  - With *a few dashes* of cumin and cinnamon, the baker will impart mouthwatering flavors to the pie.
   - The genie will impart three wishes to the one who brings him forth from the bottle.
 
 
@@ -171,7 +171,7 @@
   - The impassive report given by the officer was an extreme understatement of the horror of the accident.
   - Although robots are well-known for being completely impassive, there are many popular movies and TV shows that depict them as adorable creatures that actually do have feelings.
   - As the foreman of the jury delivered the verdict, the defendant kept his expression completely impassive so that no one could tell what he was feeling inside.
-  - She tried to be friendly with the newcomer, but she found his impassive stare more than a little disturbing and excused herself  to join her friends.
+  - She tried to be friendly with the newcomer, but she found his impassive stare more than a little disturbing and *excused herself to* join her friends.
   - As the guests gathered in the parlor to meet their host, the impassive housekeeper ignored their clamoring questions as she passed among them with a tray of refreshments.
 
 
@@ -180,7 +180,7 @@
 
   =perfect in every way=
 
-  - With your impeccable English skills, writing essays should be a cinch.
+  - With your impeccable English skills, writing essays should be a *cinch*.
   - Your impeccable work ethic and great attention to detail are reasons enough for hiring you.
   - Impeccable at playing the violin at home as a child, Charles would grow up to orchestrate musicals.
   - My best friend and I arrived at the same exact time—now that is impeccable timing!
@@ -198,8 +198,8 @@
   - Impecunious students commonly find themselves in debt after overindulging in the use of credit cards.
   - Although Tom and Janice are an impecunious couple who earn very little, they always manage to take a short vacation during the summer.
   - Plans are being developed to help the impecunious people in the city who are without housing.
-  - Even though the singer earned millions of dollars during her heyday, she was impecunious and homeless when she died.
-  - Although Vincent died an impecunious artist without a penny to his name, his paintings are now highly valued by art collectors.
+  - Even though the singer earned millions of dollars during her *heyday*, she was impecunious and homeless when she died.
+  - Although Vincent died an impecunious artist without a penny *to his name* =属于自己=, his paintings are now highly valued by art collectors.
   - The impecunious immigrant came to America to earn money to send home to his starving family.
 
 
@@ -249,7 +249,7 @@
   - Self-discipline and persistence are two of the imperative qualities to have for anyone who is serious about being successful in life.
   - The publicist commented that the imperative restrictions placed on the press would only make the public view the celebrity as a spoiled brat.
   - I’ll tell you what happened in the committee meeting, but it’s imperative that you handle the information discreetly.
-  - If you have a blowout on the highway, it’s imperative that you reduce speed and maintain control without stomping on the brake pedal.
+  - If you have a *blowout* =爆胎= on the highway, it’s imperative that you reduce speed and maintain control without stomping on the brake pedal.
   - Although it’s not imperative to dress up for the occasion, you should wear something neat and tasteful.
 
 
@@ -262,7 +262,7 @@
   - When Mark got promoted to the rank of captain, he became very imperious.
   - In an imperious tone, the police officer ordered the driver to step out of the car.
   - If my son thinks his imperious ways will be tolerated in my home, then he has a lot to learn!
-  - The A-list actress has an imperious air and assumes everyone will heed her every whim.
+  - The A-list actress has an imperious air and assumes everyone will *heed* her every whim.
   - Although I was sick, my imperious supervisor ordered me in to work.
   - Because Amy is an imperious person, she has the tendency to tell everyone what to do.
 
@@ -272,7 +272,7 @@
 
   =the state of being temporary=
 
-  - The impermanence of the new the car’s smell caused the woman to buy air fresheners.
+  - The impermanence of the new car’s smell caused the woman to buy air fresheners.
   - His job’s impermanence led the man to seek out new opportunities.
   - Forgetting weather’s impermanence, the man became depressed after several days of rain.
   - The impermanence of life made the woman worry about death and what was yet to come.
@@ -405,7 +405,7 @@
   =the act of deceiving while using a fake identity=
 
   - The scam artist’s imposture involved convincing elderly people he could increase their retirement incomes for a small fee.
-  - If the heiress has been taken in by John’s imposture, she may be in danger of losing her fortune to a conman.
+  - If the heiress has been *taken in* =被骗= by John’s imposture, she may be in danger of losing her fortune to a conman.
   - William knew if he did not continue his imposture he would be executed for pretending to be the dictator’s long-lost brother.
   - As soon as the immigration officer saw the fake passport, he knew the traveler was taking part in an imposture.
 
@@ -416,7 +416,7 @@
   =to remove and keep property by law=
 
   - After stopping payments on their new car, the bank would impound their car in a secured lot until the couple would pay the overdue amount.
-  - It was likely that the court would decide to impound the important documents from the troubled company after a whistleblower declared the company was lying to its stakeholders.
+  - It was likely that the court would decide to impound the important documents from the troubled company after a *whistleblower* =告密者= declared the company was lying to its stakeholders.
   - Rental furniture companies may have to require a payment plan or impound the furniture in their store until the money is compensated.
   - Fred’s face changed from shock to anger when he received a notice to impound his television set on the basis of a loan repayment.
 
@@ -610,7 +610,7 @@
 
   =without interruption; not letting up=
 
-  - The incessant crying of a baby drives me nuts!
+  - The incessant crying of a baby *drives me nuts*!
   - My sister's incessant phone conversation with her boyfriend may never end.
   - With this incessant rainfall, we might get flooded out.
   - End the incessant crime with a neighborhood watch program.
@@ -626,7 +626,7 @@
 
   - The police will file a report on the incident.
   - After the fighting incident, Rick was suspended from school.
-  - Several fraternity members were arrested after the hazing incident.
+  - Several fraternity members were arrested after the *hazing* =捉弄= incident.
   - Do you think the missile incident is going to trigger a war between the countries?
 
 
@@ -663,7 +663,7 @@
   - Worrying about inconsequential tasks will prevent you from doing projects which really matter.
   - It was decided that Pluto was too inconsequential to be a planet.
   - Because the suspect’s charge was inconsequential, the judge let him out on bail.
-  - Compared to the seven car pileup on the highway yesterday, my little fender bender is inconsequential.
+  - Compared to the seven car pileup on the highway yesterday, my little *fender bender* =小交通事故= is inconsequential.
   - While you may consider my feelings to be inconsequential, they are very important to me.
 
 
@@ -739,7 +739,7 @@
   - The attorney had his client to sign the indenture before officially beginning work on his case.
   - A copy of the trust indenture can be found in a file with the company’s other legal contracts.
   - Proposing amendments to the initial contract, the CEO hoped to make the indenture more favorable towards his company.
-  - Although the couple signed the indenture before marrying, the husband hoped the prenuptial agreement would be ruled void during divorce proceedings.
+  - Although the couple signed the indenture before marrying, the husband hoped the *prenuptial* agreement would be ruled void during divorce proceedings.
 
 
 
@@ -825,7 +825,7 @@
   =to fill with a certain quality=
 
   - Cook the rice until you thoroughly infuse it with the taste of the herbs and spices you added.
-  - Drop the pellet in and watch the dye infuse the water with color as you stir.
+  - Drop the *pellet* in and watch the dye infuse the water with color as you stir.
   - The subject’s hair was tested to see if the new conditioner could infuse all the way to the core.
   - I thought eating spinach would infuse my muscles with super strength like Popeye the Sailor Man when I was a kid.
 
@@ -863,7 +863,7 @@
 
   =to eat or drink something by swallowing or by taking it through the skin=
 
-  - Trained assassins and military personnel used to hide cyanide pills on their back teeth so that in the event of capture, they could bite down and ingest the poison quick enough to die.
+  - Trained assassins and military personnel used to hide *cyanide* pills on their back teeth so that in the event of capture, they could bite down and ingest the poison quick enough to die.
   - Because the athlete failed to ingest enough water, he quickly became dehydrated and lethargic.
   - If you accidentally ingest a toxic substance you should immediately call Poison Control or seek emergency assistance.
   - Snakes are able to ingest prey twice the size of their body by paralyzing them with their bite.
@@ -877,7 +877,7 @@
   - Being right-handed was ingrained in me so that it was very difficult to write with my left hand.
   - My morning routine was ingrained in me so much so that if I missed a step, it threw off my entire day.
   - The new teacher wanted her rules and procedures ingrained in her students in order to promote a smoothly run classroom.
-  - When I learned my times table, my mother played a song to help me memorize the numbers until they were ingrained in my memory.
+  - When I learned my *times table* =乘法表=, my mother played a song to help me memorize the numbers until they were ingrained in my memory.
 
 
 
@@ -898,6 +898,8 @@
 * [[https://wordsinasentence.com/ingratiate-in-a-sentence/][Ingratiate]]
 
   =to try to get someone's approval by doing or saying things that will please them=
+
+  =*ingratiate oneself with somebody*=
 
   - Since the new teacher failed to ingratiate herself with the students, she found it hard to maintain an orderly classroom.
   - The con artist hoped to ingratiate himself into the wealthy widow’s life.
@@ -928,7 +930,7 @@
 
   - Illegal drugs are injurious to your health.
   - The injurious stunt needed to be performed by trained professionals.
-  - The perpetrator faced serious jail time because the attack proved injurious to his victim.
+  - The *perpetrator* faced serious jail time because the attack proved injurious to his victim.
   - If you are not properly warmed up, performing any sport can become injurious.
 
 
@@ -977,7 +979,7 @@
   - During the debate, the senator tried to insinuate his opponent was not qualified for office.
   - Many dictators use propaganda to insinuate fear among the public.
   - By searching my locker, you are trying to insinuate I stole the money!
-  - Because Lamar was quite ambitious, he did everything possible to insinuate himself into his foreman’s favor.
+  - Because Lamar was quite ambitious, he did everything possible to *insinuate himself into* =巧妙获取某物= his foreman’s favor.
   - Longing to be popular, the girl made several attempts to insinuate herself into the crowd of popular kids.
   - It would not surprise me if my mother tried to insinuate her preferences into my brother’s wedding plans.
   - Because my sister is a talented singer, she is often approached by agents who try to insinuate themselves into her career.
@@ -1380,17 +1382,6 @@
 
 
 
-* [[https://wordsinasentence.com/impending-in-a-sentence/][Impending]]
-
-  =going to occur; coming=
-
-  - When I refused to pay the fake fortuneteller, she warned me of impending doom in my future.
-  - Sheila hoped Frank’s impending question was not a marriage proposal because she was not in love with him.
-  - Because Jim suffers from anxiety, he frequently has fears of impending disaster.
-  - The emergency alert instructed everyone to prepare for the impending tornado.
-
-
-
 * [[https://wordsinasentence.com/impenitent-in-a-sentence/][Impenitent]]
 
   =unapologetic; remorseless=
@@ -1410,21 +1401,6 @@
   - The quick-spreading wildfires imperil the citizens of Gatlinburg since they are trapped by the fire in their homes.
   - Guns that are kept in an unlocked container imperil the family if guns get into the hands of toddlers.
   - Having a few hot-tempered hostages only seemed to further imperil the already drastic robbery situation with the gun-wielding captors.
-
-
-
-* [[https://wordsinasentence.com/impertinent-in-a-sentence/][Impertinent]]
-
-  =behaving without proper respect; rude=
-
-  - Although she thought she was just being funny, her teacher didn’t agree and sent her to the principal’s office for being impertinent.
-  - While he never intended his remark to be impertinent, he found that a lot of people had been offended by what he said.
-  - Because the young man would only give an impertinent answer to his questions, the attorney decided not to take him on as a client.
-  - While Natalie searched frantically for her mysterious present, Ely just watched from the doorway with an impertinent smirk on his face.
-  - Although Alexis had been enjoying the young man’s company, his impertinent suggestion prompted her to leave the bar.
-  - As the site’s webmaster, it is her job to monitor the online forum for impertinent comments.
-  - If Evan didn’t have such an impertinent attitude with waiters, Alyssa wouldn’t have minded going out to dinner with him.
-
 
 
 * [[https://wordsinasentence.com/impetus-in-a-sentence/][Impetus]]
@@ -1457,7 +1433,7 @@
   =to embed or establish something in a fixed position=
 
   - When the stubborn child would get upset with his mother for not getting his wish, he would implant his foot firmly on the rug with a scowl on his face.
-  - As a busy student with little free time, Sylvia’s way of cramming for an exam would be to implant as much information in her brain right before the test.
+  - As a busy student with little free time, Sylvia’s way of *cramming* for an exam would be to implant as much information in her brain right before the test.
   - The teenager did not know what to do but to implant the telephone number into her head since her cell phone had gone missing.
   - Blocking the door with my foot was not going to be enough to keep the intruder out of the room, so I decided to implant the heaviest piece of furniture next to the door.
 
@@ -1483,7 +1459,7 @@
 
   - Everyone was shocked to see the loving couple’s relationship implode and end in divorce.
   - It seemed that the angry team would implode, exploding into a million different pieces that would leave us without an NFL squad.
-  - Many people though the earth would implode at the end of 1999 and were shocked to wake up the next day.
+  - Many people thought the earth would implode at the end of 1999 and were shocked to wake up the next day.
   - Arguments on the inside caused the black market to implode and crumble.
 
 
@@ -1510,7 +1486,7 @@
   - Realizing that the boss was in one of his rare good moods, I seized the opportunity to importune him for a raise.
   - Sometimes fundraisers will appeal to your emotions to importune for donations.
   - Most politicians importune voters for money as well as support.
-  - Demetri jumped at the opportunity to importune his neighbors to pitch in and build a playground for the children.
+  - Demetri *jumped at* =立即抓住= the opportunity to importune his neighbors to *pitch in* =加入= and build a playground for the children.
   - We will continue to importune City Council to put a stop sign on the corner; hopefully, it will be taken care of before something tragic occurs.
   - Every Christmas, malls are crowded with children who importune Santa for their heart’s desire as they try to convince him that they have been good all year.
 
@@ -1532,7 +1508,7 @@
   =to mark or stamp something using pressure=
 
   - Wedding planners were able to imprint the address on all of the invitations.
-  - The horse tried to run when the hot branding iron began to imprint into its hide.
+  - The horse tried to run when the hot branding iron began to imprint into its *hide* =兽皮=.
   - Without a way to imprint the logo on the bags, the team began to brainstorm other marketing ideas.
   - The worker’s job was to imprint the company emblem onto the back of all pottery.
 
@@ -1603,10 +1579,10 @@
 
   =a demon or evil spirit supposed to descend upon sleeping women in order to have sex with them=
 
-  - In the myth, the incubus surprised sleeping women with sexual advances.
+  - In the myth, the incubus surprised sleeping women with *sexual advances* =性骚扰=.
   - Incubus is a mythological creature that’s sole goal is to rape women who are resting.
   - After having sex with the evil incubus several times, the woman eventually succumbed to a painful death.
-  - In ancient texts, a demon called an incubus would sleep with women and sometimes impregnate them.
+  - In ancient texts, a demon called an incubus would sleep with women and sometimes *impregnate* them.
 
 
 
@@ -1630,7 +1606,7 @@
 
   - Evidence was used to inculpate the suspects and lead to their eventual conviction.
   - The defense attorney has criticized the investigation, insisting that any findings have failed to inculpate his client.
-  - Invoking his 5th amendment right during trial, the defendant did not have to give testimony that my inculpate himself.
+  - Invoking his 5th amendment right during trial, the defendant did not have to give testimony that may inculpate himself.
   - A faint print in the mud was a match to the suspect’s shoe pattern and enough to inculpate him of the crime.
 
 
@@ -1678,7 +1654,7 @@
   - I felt as though I suffered a huge indignity when my ex husband brought his young girlfriend to my birthday party.
   - During the game-making play, the star quarterback suffered the indignity of being sacked.
   - The warrior couldn’t bear the indignity of losing so he took his own life.
-  - When I was ill, I experienced an indignity each time the aide walked away with my bed pan.
+  - When I was ill, I experienced an indignity each time the aide *walked away with* =顺手拿走= my *bed pan* =夜壶=.
 
 
 
@@ -1712,7 +1688,7 @@
   - Lee has the irritating habit of arguing his opinions as ineluctable facts.
   - As I listened to the paralyzed soldier speak, I was moved by his ineluctable spirit.
   - So many women try to fight the ineluctable aging process by having cosmetic surgery.
-  - Even though Jim promised to stop seeing other women, Ellen refused to budge from her ineluctable decision to divorce him.
+  - Even though Jim promised to stop seeing other women, Ellen refused to *budge* =让步= from her ineluctable decision to divorce him.
   - Always think before you speak because some words are ineluctable and cannot be taken back or changed.
   - When the governor refused to halt the execution, the prisoner realized his fate was ineluctable.
 
@@ -1724,14 +1700,14 @@
 
   - It would be inexpedient to go walking through the desert without several bottles of water to keep you hydrated.
   - I consider it inexpedient to spend money on leisure and entertainment when you barely have enough money to pay your rent.
-  -  It is inexpedient to try and pack all of your things in your car when you could purchase a moving trailer or truck to carry most of it.
+  - It is inexpedient to try and pack all of your things in your car when you could purchase a moving trailer or truck to carry most of it.
   - Many people like to spend money on inexpedient vanity products that serve no real purpose, like watches and fancy suits.
 
 
 
 * [[https://wordsinasentence.com/infatuated-in-a-sentence/][Infatuated]]
 
-  =to have a strong liking for someone  or something=
+  =to have a strong liking for someone or something=
 
   - Even as a young boy, the singer was infatuated with music.
   - Jan was immediately infatuated with her attractive blind date.
@@ -1800,8 +1776,8 @@
 
   - The glass doors on the hotel’s second floor provide ingress into the mall.
   - Since the passenger doors of my jeep don’t work, my children sometimes use the trunk door as a means of ingress.
-  - If you sit in front of the doorway, you are creating  a safety hazard by blocking the path of ingress into the hospital.
-  - According to federal law, any airline passenger who attempts forceful ingress into a cockpit will be prosecuted.
+  - If you sit in front of the doorway, you are creating a safety hazard by blocking the path of ingress into the hospital.
+  - According to federal law, any airline passenger who attempts forceful ingress into a *cockpit* will be prosecuted.
 
 
 
@@ -1836,7 +1812,7 @@
 
   - Although the dialogue in the book is not sexually explicit, the writer makes great use of innuendo to convey his message.
   - The top advertisers frequently use a form of innuendo to sell their products.
-  - Instead of being blunt with Henry about his drug problem, I tried using an innuendo to catch his attention.
+  - Instead of being *blunt* =坦率= with Henry about his drug problem, I tried using an innuendo to catch his attention.
   - Jason used an innuendo to spread negative rumors about his ex-wife.
   - After I heard my mother-in-law made an innuendo about me, I banned her from my home.
   - The company president refused to respond to the innuendo about fraud charges.
@@ -1885,7 +1861,7 @@
   =not concerned about anything; carefree=
 
   - The insouciant mother did not blink an eye when her son complained of a tummy ache.
-  - Because Bill is insouciant  and not concerned about his retirement, he does not worry about saving money.
+  - Because Bill is insouciant and not concerned about his retirement, he does not worry about saving money.
   - Since Jane is insouciant about her health, she does not bother to take her medication.
   - The insouciant waitress did not seem to care that Matt had to wait over an hour for his food.
   - When the lion trainer walked into the lion’s cage in an insouciant manner, he let the animal know he was not threatened in any way.
@@ -1975,7 +1951,7 @@
 
   - The woman quickly consumed the candy and drink during the play’s intermission because she could not take it back in the theater.
   - When the movie came back on, we knew the intermission was over and we had to stop stretching our legs.
-  - The small child’s mother couldn’t wait until the intermission since her son began to squirm in his seat after two hours of the play.
+  - The small child’s mother couldn’t wait until the intermission since her son began to *squirm* in his seat after two hours of the play.
   - Lights in the theater flickered indicating that the intermission was over and the play would continue in a few minutes.
 
 
@@ -1986,7 +1962,7 @@
 
   - When the cops arrived, the loud intermittent noise had stopped.
   - The baby’s crying is intermittent and can occur at anytime.
-  - Since the power outages are intermittent, I am not sure If you have enough time to cook your dinner.
+  - Since the *power outages* are intermittent, I am not sure If you have enough time to cook your dinner.
   - The holiday lights are intermittent and flicker on and off constantly.
   - Because my spasms are intermittent and occur randomly, it is hard for the doctor to diagnose my condition.
   - The reason I broke up with my boyfriend was because of his intermittent verbal assaults that often happened without warning.
@@ -2029,7 +2005,7 @@
   - Because of the poor economy, unemployed workers will more than likely inundate the government with requests for financial assistance.
   - Since James is very sensitive to odors, he will not spray any fragrance in his house that will inundate his sinuses.
   - I hope the excited fans will not inundate the shy celebrity when she walks into the theater.
-  - If dogs and cats are not spayed and neutered, they can overpopulate and inundate the planet.
+  - If dogs and cats are not *spayed* and *neutered*, they can overpopulate and inundate the planet.
 
 
 
@@ -2039,7 +2015,7 @@
 
   - The newspaper’s invective of the novel really made the author angry.
   - Because your invective hurt my feelings, I am going to stay away from you for a while.
-  -  The politician’s invective about his opponent caused him many votes in the election.
+  - The politician’s invective about his opponent caused him many votes in the election.
   - When my ex-husband tried to start a fight with me by using an invective, I simply walked away from him.
   - Words of encouragement are much better than the harsh words of an invective.
   - After the first speaker began the debate with an invective towards his opponent, it was impossible for any meaningful conversation to occur between the two men.
