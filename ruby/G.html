@@ -1,0 +1,2040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2018-06-14 Thu 23:29 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>G</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">G</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org6ea6e43">1. Gainsay</a></li>
+<li><a href="#org339d3dd">2. Gall</a></li>
+<li><a href="#orgfa12f2c">3. Gallant</a></li>
+<li><a href="#org61d52e7">4. Galvanize</a></li>
+<li><a href="#org6fe6488">5. Garble</a></li>
+<li><a href="#orgcb6e291">6. Garish</a></li>
+<li><a href="#orgb422314">7. Garrulous</a></li>
+<li><a href="#orgb66aa16">8. Gaudy</a></li>
+<li><a href="#org81de86b">9. Genial</a></li>
+<li><a href="#org91af603">10. Genus</a></li>
+<li><a href="#orgd5ee0ed">11. Germinate</a></li>
+<li><a href="#org40cff6c">12. Gibe</a></li>
+<li><a href="#orgae3a878">13. Giddy</a></li>
+<li><a href="#org77a9aa1">14. Gloat</a></li>
+<li><a href="#org7b88552">15. Gloom</a></li>
+<li><a href="#orgb68e85d">16. Glutinous</a></li>
+<li><a href="#org97cea37">17. Graft</a></li>
+<li><a href="#org95e960e">18. Grandiloquent</a></li>
+<li><a href="#orga772c76">19. Grandiose</a></li>
+<li><a href="#orgd5f4a88">20. Gratify</a></li>
+<li><a href="#org0746e39">21. Gratuitous</a></li>
+<li><a href="#orgd094da1">22. Grim</a></li>
+<li><a href="#org4e70e2f">23. Grind</a></li>
+<li><a href="#org7417e1b">24. Grope</a></li>
+<li><a href="#orge17329b">25. Grudge</a></li>
+<li><a href="#org0ad26d2">26. Grumble</a></li>
+<li><a href="#org9ef5a63">27. Guile</a></li>
+<li><a href="#orgbb64959">28. Gullible</a></li>
+<li><a href="#org80632b5">29. Gush</a></li>
+<li><a href="#org144b114">30. Gabble</a></li>
+<li><a href="#org22b0add">31. Gaffe</a></li>
+<li><a href="#org496c19d">32. Gaiety</a></li>
+<li><a href="#orge86523a">33. Gambol</a></li>
+<li><a href="#org49de9bf">34. Gape</a></li>
+<li><a href="#orgcfd643b">35. Garble</a></li>
+<li><a href="#orgcb3479f">36. Gargantuan</a></li>
+<li><a href="#orga96453e">37. Gargoyle</a></li>
+<li><a href="#org151510d">38. Garner</a></li>
+<li><a href="#org53af6cd">39. Garnish</a></li>
+<li><a href="#org8d45389">40. Garrulous</a></li>
+<li><a href="#org6ea03f2">41. Gaseous</a></li>
+<li><a href="#org3d632b4">42. Gauche</a></li>
+<li><a href="#org33ec942">43. Gaunt</a></li>
+<li><a href="#org7d50c4d">44. Gawk</a></li>
+<li><a href="#orga303563">45. Genteel</a></li>
+<li><a href="#org64eebf3">46. Gesticulate</a></li>
+<li><a href="#orgf755622">47. Gild</a></li>
+<li><a href="#org10db4e5">48. Gingerly</a></li>
+<li><a href="#org0226005">49. Gist</a></li>
+<li><a href="#org80bca21">50. Glare</a></li>
+<li><a href="#org54e5a83">51. Gleam</a></li>
+<li><a href="#org8558210">52. Glean</a></li>
+<li><a href="#org4bb8791">53. Glee</a></li>
+<li><a href="#orgf3be987">54. Glib</a></li>
+<li><a href="#orgb9ef252">55. Glimmer</a></li>
+<li><a href="#org5ded891">56. Glisten</a></li>
+<li><a href="#org43ea3c7">57. Glitter</a></li>
+<li><a href="#orgc90c930">58. Gloomy</a></li>
+<li><a href="#org9c4dc94">59. Glower</a></li>
+<li><a href="#orgfd966f9">60. Gnaw</a></li>
+<li><a href="#orga53a072">61. Goad</a></li>
+<li><a href="#orgadb6d0c">62. Gobbledygook</a></li>
+<li><a href="#org3a0deae">63. Gorge</a></li>
+<li><a href="#org7bdeecf">64. Gracious</a></li>
+<li><a href="#orgdd2ed75">65. Grate</a></li>
+<li><a href="#org111cf9c">66. Grimace</a></li>
+<li><a href="#org175981d">67. Grin</a></li>
+<li><a href="#org7a006e3">68. Gripe</a></li>
+<li><a href="#org0de25e3">69. Grisly</a></li>
+<li><a href="#org6cbb5a0">70. Grit</a></li>
+<li><a href="#org3016f12">71. Groan</a></li>
+<li><a href="#orgb471950">72. Grotesque</a></li>
+<li><a href="#orgeb43170">73. Grouch</a></li>
+<li><a href="#org3c2e046">74. Grove</a></li>
+<li><a href="#orge17ff4a">75. Grovel</a></li>
+<li><a href="#orgcdca6c6">76. Growl</a></li>
+<li><a href="#org3dec587">77. Gruesome</a></li>
+<li><a href="#org84b685e">78. Gruff</a></li>
+<li><a href="#orge540571">79. Grumpy</a></li>
+<li><a href="#org7a6c6b5">80. Guileless</a></li>
+<li><a href="#org98243e1">81. Guise</a></li>
+<li><a href="#org62b2e5d">82. Gumption</a></li>
+<li><a href="#orgd3b3367">83. Gustatory</a></li>
+<li><a href="#org903f90d">84. Gyrate</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org6ea6e43">1. Gainsay</a></li>
+<li><a href="#org339d3dd">2. Gall</a></li>
+<li><a href="#orgfa12f2c">3. Gallant</a></li>
+<li><a href="#org61d52e7">4. Galvanize</a></li>
+<li><a href="#org6fe6488">5. Garble</a></li>
+<li><a href="#orgcb6e291">6. Garish</a></li>
+<li><a href="#orgb422314">7. Garrulous</a></li>
+<li><a href="#orgb66aa16">8. Gaudy</a></li>
+<li><a href="#org81de86b">9. Genial</a></li>
+<li><a href="#org91af603">10. Genus</a></li>
+<li><a href="#orgd5ee0ed">11. Germinate</a></li>
+<li><a href="#org40cff6c">12. Gibe</a></li>
+<li><a href="#orgae3a878">13. Giddy</a></li>
+<li><a href="#org77a9aa1">14. Gloat</a></li>
+<li><a href="#org7b88552">15. Gloom</a></li>
+<li><a href="#orgb68e85d">16. Glutinous</a></li>
+<li><a href="#org97cea37">17. Graft</a></li>
+<li><a href="#org95e960e">18. Grandiloquent</a></li>
+<li><a href="#orga772c76">19. Grandiose</a></li>
+<li><a href="#orgd5f4a88">20. Gratify</a></li>
+<li><a href="#org0746e39">21. Gratuitous</a></li>
+<li><a href="#orgd094da1">22. Grim</a></li>
+<li><a href="#org4e70e2f">23. Grind</a></li>
+<li><a href="#org7417e1b">24. Grope</a></li>
+<li><a href="#orge17329b">25. Grudge</a></li>
+<li><a href="#org0ad26d2">26. Grumble</a></li>
+<li><a href="#org9ef5a63">27. Guile</a></li>
+<li><a href="#orgbb64959">28. Gullible</a></li>
+<li><a href="#org80632b5">29. Gush</a></li>
+<li><a href="#org144b114">30. Gabble</a></li>
+<li><a href="#org22b0add">31. Gaffe</a></li>
+<li><a href="#org496c19d">32. Gaiety</a></li>
+<li><a href="#orge86523a">33. Gambol</a></li>
+<li><a href="#org49de9bf">34. Gape</a></li>
+<li><a href="#orgcfd643b">35. Garble</a></li>
+<li><a href="#orgcb3479f">36. Gargantuan</a></li>
+<li><a href="#orga96453e">37. Gargoyle</a></li>
+<li><a href="#org151510d">38. Garner</a></li>
+<li><a href="#org53af6cd">39. Garnish</a></li>
+<li><a href="#org8d45389">40. Garrulous</a></li>
+<li><a href="#org6ea03f2">41. Gaseous</a></li>
+<li><a href="#org3d632b4">42. Gauche</a></li>
+<li><a href="#org33ec942">43. Gaunt</a></li>
+<li><a href="#org7d50c4d">44. Gawk</a></li>
+<li><a href="#orga303563">45. Genteel</a></li>
+<li><a href="#org64eebf3">46. Gesticulate</a></li>
+<li><a href="#orgf755622">47. Gild</a></li>
+<li><a href="#org10db4e5">48. Gingerly</a></li>
+<li><a href="#org0226005">49. Gist</a></li>
+<li><a href="#org80bca21">50. Glare</a></li>
+<li><a href="#org54e5a83">51. Gleam</a></li>
+<li><a href="#org8558210">52. Glean</a></li>
+<li><a href="#org4bb8791">53. Glee</a></li>
+<li><a href="#orgf3be987">54. Glib</a></li>
+<li><a href="#orgb9ef252">55. Glimmer</a></li>
+<li><a href="#org5ded891">56. Glisten</a></li>
+<li><a href="#org43ea3c7">57. Glitter</a></li>
+<li><a href="#orgc90c930">58. Gloomy</a></li>
+<li><a href="#org9c4dc94">59. Glower</a></li>
+<li><a href="#orgfd966f9">60. Gnaw</a></li>
+<li><a href="#orga53a072">61. Goad</a></li>
+<li><a href="#orgadb6d0c">62. Gobbledygook</a></li>
+<li><a href="#org3a0deae">63. Gorge</a></li>
+<li><a href="#org7bdeecf">64. Gracious</a></li>
+<li><a href="#orgdd2ed75">65. Grate</a></li>
+<li><a href="#org111cf9c">66. Grimace</a></li>
+<li><a href="#org175981d">67. Grin</a></li>
+<li><a href="#org7a006e3">68. Gripe</a></li>
+<li><a href="#org0de25e3">69. Grisly</a></li>
+<li><a href="#org6cbb5a0">70. Grit</a></li>
+<li><a href="#org3016f12">71. Groan</a></li>
+<li><a href="#orgb471950">72. Grotesque</a></li>
+<li><a href="#orgeb43170">73. Grouch</a></li>
+<li><a href="#org3c2e046">74. Grove</a></li>
+<li><a href="#orge17ff4a">75. Grovel</a></li>
+<li><a href="#orgcdca6c6">76. Growl</a></li>
+<li><a href="#org3dec587">77. Gruesome</a></li>
+<li><a href="#org84b685e">78. Gruff</a></li>
+<li><a href="#orge540571">79. Grumpy</a></li>
+<li><a href="#org7a6c6b5">80. Guileless</a></li>
+<li><a href="#org98243e1">81. Guise</a></li>
+<li><a href="#org62b2e5d">82. Gumption</a></li>
+<li><a href="#orgd3b3367">83. Gustatory</a></li>
+<li><a href="#org903f90d">84. Gyrate</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Author</td>
+<td class="org-left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="org-left">Date</td>
+<td class="org-left">2018-06-14 23:29:59</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+
+
+<div id="outline-container-org6ea6e43" class="outline-2">
+<h2 id="org6ea6e43"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/gainsay-in-a-sentence/">Gainsay</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>to contradict or deny</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Jack told the truth on the witness stand, no one was able to gainsay his statement.</li>
+<li>It would be unwise of you to gainsay your doctor’s medical suggestions and stop taking your prescriptions.</li>
+<li>To gainsay the contributions of immigrants to our nation would be the same as denying the unique voices of our diverse population.</li>
+<li>It is impossible to gainsay the importance of a good education in today’s competitive job market.</li>
+<li>The athlete was unable to gainsay his positive drug test.</li>
+<li>How dare you gainsay the professor’s opinion when you know so little about DNA replication!</li>
+<li>After the lab experiments, the scientist could not gainsay the ineffectiveness of the drug which had not destroyed the cancer cells.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org339d3dd" class="outline-2">
+<h2 id="org339d3dd"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/gall-in-a-sentence/">Gall</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>daring conduct</code>
+</p>
+
+<ul class="org-ul">
+<li>After Paul made the mistake, he had the gall to blame me for his error.</li>
+<li>Can you believe Amber had the gall to call her parents controlling after they bailed her out of jail?</li>
+<li>Even though Janice owes us money, she still has the gall to brag about buying a ticket to the baseball game.</li>
+<li>Ted had the gall to ask his wife for a divorce after she worked tirelessly to put him through medical school.</li>
+<li>Unfortunately, John is often mistreated at work because he does not have the gall to stand up for himself.</li>
+<li>Elaine had the gall to order the most expensive meal in the restaurant because she knew I was paying.</li>
+<li>After begging to meet with the attorney, Sheila had the gall to show up an hour late.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfa12f2c" class="outline-2">
+<h2 id="orgfa12f2c"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/gallant-in-a-sentence/">Gallant</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>fearless and daring</code>
+</p>
+
+<ul class="org-ul">
+<li>Despite being outnumbered the gallant soldiers were eager for battle.</li>
+<li>The rookie fighter put on a gallant display but still lost the match to his experienced competitor.</li>
+<li>Unfortunately the fireman’s gallant effort to save the woman came too late.</li>
+<li>The gallant knight showed no fear as he raced towards the dragon.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org61d52e7" class="outline-2">
+<h2 id="org61d52e7"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/galvanize-in-a-sentence/">Galvanize</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>to inspire people to work towards change</code>
+</p>
+
+<ul class="org-ul">
+<li>Do you think the child’s death will galvanize town residents to the point they will stand up to drug dealers?</li>
+<li>By holding a rally, the politician hoped to galvanize young people to vote.</li>
+<li>The infection will galvanize your white blood cells and trigger your immune reactions.</li>
+<li>Because the charity wants to galvanize the public in support of its cause, it’s holding an open house to share its achievements and goals.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6fe6488" class="outline-2">
+<h2 id="org6fe6488"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/garble-in-a-sentence/">Garble</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>to alter the sound or meaning of something</code>
+</p>
+
+<ul class="org-ul">
+<li>The drunk man will often garble his words to the point that they are not understandable.</li>
+<li>If you do not garble the directions and confuse me, I should be able to easily find your house.</li>
+<li>The boy started to garble the poem when he could not remember the words.</li>
+<li>Because the writer believed making changes to his novel would garble his message, he decided to keep the book as it was.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcb6e291" class="outline-2">
+<h2 id="orgcb6e291"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/garish-in-a-sentence/">Garish</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>something that is elaborate, showy, striking and in bad taste</code>
+</p>
+
+<ul class="org-ul">
+<li>Because she likes showing off her money, my wealthy aunt is known for wearing garish jewelry to casual events.</li>
+<li>Rappers are known for wearing garish accessories like giant gold chains.</li>
+<li>After the renovations were completed in the old church, many considered the changes to be garish and out of place.</li>
+<li>When my sister won the lottery, she purchased a garish sports car which could not be missed on the highway.</li>
+<li>Because my friend’s outfit was so garish, the principal sent her home to change into more appropriate clothes.</li>
+<li>While Margaret decorated her home in subdued colors like tan and pale yellow, her friend Heather preferred garish colors such as bright green and orange.</li>
+<li>The football player’s wife wore a large garish ring which appeared to cover her entire hand.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb422314" class="outline-2">
+<h2 id="orgb422314"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/garrulous-in-a-sentence/">Garrulous</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>overly talkative and chatty, mostly about unimportant things</code>
+</p>
+
+<ul class="org-ul">
+<li>Desperate for peace and quiet, Amanda told the garrulous man sitting next to her to "Shut up!"</li>
+<li>The garrulous gentleman held up the checkout line as he rambled on to the cashier about his pet squirrel.</li>
+<li>Mom, who is usually loud and garrulous, was surprisingly quiet as a mouse this morning.</li>
+<li>Because Jake is garrulous, asking him to keep a secret is impossible.</li>
+<li>Garrulous people make great talk show hosts.</li>
+<li>If the garrulous car salesman prattles on with his small talk, I'll buy a car elsewhere.</li>
+<li>Though my window is closed, I can still hear my garrulous neighbors loudly gossip in the night.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb66aa16" class="outline-2">
+<h2 id="orgb66aa16"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/gaudy-in-a-sentence/">Gaudy</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>so showy that it is unattractive</code>
+</p>
+
+<ul class="org-ul">
+<li>When Crystal returned from the nail salon, she showed me her gaudy nails that were painted bright orange.</li>
+<li>The colorful performer is known for his gaudy fashion taste.</li>
+<li>As I watched the pageant, the number of little girls in inappropriate gaudy dresses and makeup shocked me.</li>
+<li>There was no way I was going to hang that gaudy painting on the wall of my new house.</li>
+<li>Last night, we drove by a house that was covered in what had to be a thousand gaudy Christmas lights.</li>
+<li>Gina did not listen when we told her dyeing her hair pink and orange would be a gaudy style move.</li>
+<li>As soon as the single man won the lottery, he purchased a huge house and decorated it with gaudy gold statues of himself.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org81de86b" class="outline-2">
+<h2 id="org81de86b"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/genial-in-a-sentence/">Genial</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>warm and welcoming</code>
+</p>
+
+<ul class="org-ul">
+<li>Santa Claus is such a genial man that children love to approach him.</li>
+<li>While I expected my elderly neighbor to be rude, he was actually genial and invited me in for tea.</li>
+<li>A glass of wine always makes me genial and approachable.</li>
+<li>How can I resist such a genial party invitation?</li>
+<li>The genial clerk warmly greeted me as soon as I walked through the hotel doors.</li>
+<li>As soon as Matt saw Sarah’s genial smile, he knew he had found the woman of his dreams.</li>
+<li>The genial atmosphere of the dinner made strangers feel like friends.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org91af603" class="outline-2">
+<h2 id="org91af603"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/genus-in-a-sentence/">Genus</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>a genus is a class or group of something, usually used in biology to classify similar animals of different species</code>
+</p>
+
+<ul class="org-ul">
+<li>Because it represents the group, the genus is the first part of an animal’s scientific name.</li>
+<li>When discussing the genus, the scientists talked about a set of closely related plants.</li>
+<li>Felidae is the genus that includes many types of cats including lions and tigers.</li>
+<li>Because no other animals are similar to a giraffe, it is the only animal classified in its genus.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd5ee0ed" class="outline-2">
+<h2 id="orgd5ee0ed"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/germinate-in-a-sentence/">Germinate</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>to mature or develop</code>
+</p>
+
+<ul class="org-ul">
+<li>Without sunlight, the seeds will not germinate.</li>
+<li>The plants need an adequate amount of water to germinate.</li>
+<li>Because the students were anxious for their plants to germinate, they would not stop looking at the pots in the window.</li>
+<li>These plants germinate quite fast so you should have a stunning garden in no time.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org40cff6c" class="outline-2">
+<h2 id="org40cff6c"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/gibe-in-a-sentence/">Gibe</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>an insulting comment</code>
+</p>
+
+<ul class="org-ul">
+<li>Jack never failed to make a gibe about his ex-boss who married his ex-wife.</li>
+<li>If you make a gibe about someone else, you should not be surprised if they make an unpleasant remark about you.</li>
+<li>I knew Vera was not my friend when she made a gibe about my weight.</li>
+<li>After the singer discovered the reporter had made a gibe about her, she refused to do additional interviews with the magazine.</li>
+<li>The little boy started to cry when he heard a classmate make a gibe about him.</li>
+<li>Because Ellen enjoys putting other people down, it is not surprising she made a gibe about the new girl’s outfit.</li>
+<li>A compliment will work much better than a gibe if you are trying to make a new friend.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgae3a878" class="outline-2">
+<h2 id="orgae3a878"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/giddy-in-a-sentence/">Giddy</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>displaying immense happiness</code>
+</p>
+
+<ul class="org-ul">
+<li>An overindulgence in alcohol made Edith feel giddy enough to dance on the dinner table.</li>
+<li>Since I love coffee, I was giddy about visiting the famous coffee bean plantation.</li>
+<li>The greedy banker became giddy when he thought about foreclosing on peoples’ homes.</li>
+<li>As soon as the dog saw the steak bone, she became giddy and started wagging her tail.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org77a9aa1" class="outline-2">
+<h2 id="org77a9aa1"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/gloat-in-a-sentence-2/">Gloat</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>to take satisfaction in something that makes another person seem inferior</code>
+</p>
+
+<ul class="org-ul">
+<li>If you are the winner of a contest, you should not gloat and make your competitors feel inferior.</li>
+<li>The winning team was polite enough to not gloat over its huge win.</li>
+<li>Since we play the championship game in two days, we do not have time to gloat over our victory.</li>
+<li>It was rude of the wealthy girl to gloat over her expensive Christmas gifts while volunteering at a homeless shelter.</li>
+<li>Although I was right about the solution, I chose not to gloat over my classmate’s wrong answer.</li>
+<li>Whenever the football player scores a touchdown, he chooses to gloat by dancing and pointing a finger at a rival player.</li>
+<li>During the game, the annoying fan did nothing but gloat about his team’s huge lead.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7b88552" class="outline-2">
+<h2 id="org7b88552"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/gloom-in-a-sentence/">Gloom</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>a poorly lit and hard to see through</code>
+</p>
+
+<ul class="org-ul">
+<li>Tommy stumbled through the gloom in his dark room and nearly tripped over his shoes.</li>
+<li>The diver swam in the gloom of the deep ocean and could not see more than a few inches in front of him.</li>
+<li>Maya could barely see the moon through the gloom of the dark night and wall of clouds.</li>
+<li>The old house was filled with gloom that was only slightly brightened by the candlelight.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb68e85d" class="outline-2">
+<h2 id="orgb68e85d"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/glutinous-in-a-sentence/">Glutinous</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>sticky or gooey</code>
+</p>
+
+<ul class="org-ul">
+<li>Wading through glutinous mud caused the hunters to get bogged down and their boots stuck.</li>
+<li>I enjoyed my mother’s brownies, but the glutinous batter was a little too gooey for my taste.</li>
+<li>During the science lab, the students created a glutinous mixture that was gooey enough to stick to the walls when thrown.</li>
+<li>A glutinous paste was applied to the back of the contact paper so that it would stick firmly to the cabinets.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org97cea37" class="outline-2">
+<h2 id="org97cea37"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/graft-in-a-sentence/">Graft</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>corruption, specifically use of a politician's authority for personal gain</code>
+</p>
+
+<ul class="org-ul">
+<li>Many people believe the president is guilty of graft since his personal businesses will indeed benefit from his political position.</li>
+<li>Convictions for graft were rare, even though politicians regularly lined their pockets with taxpayer money.</li>
+<li>Fraud and graft allegations were directed at the greedy senator who accepted bribes for his vote.</li>
+<li>Though he denied the graft allegations, a judge ruled that the politician was indeed guilty of corrupt business practices fueled by his position of power.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org95e960e" class="outline-2">
+<h2 id="org95e960e"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/grandiloquent-in-a-sentence/">Grandiloquent</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>prone to using sophisticated language in order to impress people</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though Rick did not understand the grandiloquent words, he still used them to impress his wealthy friends.</li>
+<li>The city girl’s grandiloquent talk was confusing to the people in the country town.</li>
+<li>When I heard the salesman’s grandiloquent speech, I knew he was trying to make the car deal sound better than it actually was.</li>
+<li>Jack’s use of grandiloquent terminology failed to impress the job interviewer.</li>
+<li>Because the politician made grandiloquent speeches too sophisticated for voters to understand, he did not fair well in the polls.</li>
+<li>Bill’s grandiloquent conversation made him seem out of place among the uneducated workers.</li>
+<li>When the president spoke, he talked in such grandiloquent terms the public never grasped his plans.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga772c76" class="outline-2">
+<h2 id="orga772c76"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/grandiose-in-a-sentence/">Grandiose</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>appearing to be impressive but not really possible or practical</code>
+</p>
+
+<ul class="org-ul">
+<li>The idea of throwing a party on top of the swimming pool seemed quite grandiose to everyone in the room.</li>
+<li>When the drug company announced its new weight-loss product, it made some grandiose promises about instant weight reduction.</li>
+<li>Uncle Adam is prone to making grandiose statements about his wealth when he is drunk.</li>
+<li>After hearing about the grandiose eight-bedroom house, I decided it was way too big for a family of three.</li>
+<li>Why would anyone want to build a grandiose office building in such a tiny town?</li>
+<li>Because I want the party to be a grandiose affair, I am using all of my savings to have the event catered by a famous chef.</li>
+<li>The lottery commercials appeal to consumers by leading them to believe they too can have grandiose lives filled with champagne parties and limousine rides.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd5f4a88" class="outline-2">
+<h2 id="orgd5f4a88"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/gratify-in-a-sentence/">Gratify</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>to satisfy or make content</code>
+</p>
+
+<ul class="org-ul">
+<li>Hopefully the chocolate bar will gratify my desire for something sweet.</li>
+<li>After the minister was caught trying to gratify his sexual desires with a prostitute, he was dismissed from his church leadership role.</li>
+<li>The lounge singer hoped to gratify audience members by taking requests for their favorite songs.</li>
+<li>Even though I know people often criticize my clothing choices, I only dress to gratify myself.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0746e39" class="outline-2">
+<h2 id="org0746e39"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/gratuitous-in-a-sentence/">Gratuitous</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>uncalled for; unwarranted; unnecessary</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though I had been looking forward to seeing the movie, I walked out of the theater after thirty minutes because of so much gratuitous foul language.</li>
+<li>Since her son had already served his hours of community service for the vandalism, Selena thought that the school’s additional punishment was gratuitous.</li>
+<li>He’s always looking for gratuitous attention from his classmates by pulling all sorts of reckless stunts.</li>
+<li>That director specializes in the gratuitous exploitation of people’s worst nightmares in his horror films.</li>
+<li>Despite coming in at third place, he indulged in some gratuitous self-glorification, to the dismay of all his friends.</li>
+<li>The novel contains a great deal of gratuitous speculation and opinion that make it very difficult to follow the plot.</li>
+<li>Although the candidate felt that the interview had gone in his favor, he didn’t make the cut because the committee was so irritated by his gratuitous bragging.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd094da1" class="outline-2">
+<h2 id="orgd094da1"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/grim-in-a-sentence/">Grim</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>dreary; miserable</code>
+</p>
+
+<ul class="org-ul">
+<li>The soldiers were grim after losing many of their comrades in battle.</li>
+<li>Because the weather is grim, we are staying inside our home.</li>
+<li>It was obvious from the students’ grim faces they were not happy about the pop quiz.</li>
+<li>When Heather saw the grim look on her supervisor’s face, she knew her job was in jeopardy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4e70e2f" class="outline-2">
+<h2 id="org4e70e2f"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/grind-in-a-sentence/">Grind</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>to crush something into small pieces</code>
+</p>
+
+<ul class="org-ul">
+<li>Using a machine to grind the coffee beans took a lot less time than pounding them by hand.</li>
+<li>The tenderizer was needed to grind the meat into small pieces.</li>
+<li>Without a pepper mill, the woman was unable to grind small flakes of seasoning onto her dish.</li>
+<li>He continued to wear down his teeth every time he began to grind them in his sleep.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7417e1b" class="outline-2">
+<h2 id="org7417e1b"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/grope-in-a-sentence/">Grope</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>to feel around blindly for something</code>
+</p>
+
+<ul class="org-ul">
+<li>The homeowner began to grope around in the dark in search of a flashlight or candle.</li>
+<li>It was so dark in the shadowy alley that the woman had to grope around in her purse to find her keys.</li>
+<li>Down in the dark well, the injured man continued to grope around for a way to escape.</li>
+<li>Waking from a nightmare, the anxious dreamer would constantly grope around for a monster that wasn’t real.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge17329b" class="outline-2">
+<h2 id="orge17329b"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/grudge-in-a-sentence/">Grudge</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>an intense feeling of dislike or animosity towards an individual who has treated you unfairly</code>
+</p>
+
+<ul class="org-ul">
+<li>It’s hard to not hold a grudge against the girl who bullied me for four years in high school.</li>
+<li>Because the veteran is finding it hard to get access to healthcare, he holds a grudge against his country.</li>
+<li>I think my professor has a grudge against me because he never gives me top marks on my assignments.</li>
+<li>Out of loyalty, most students of the state college hold a friendly grudge against the students of the state university.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0ad26d2" class="outline-2">
+<h2 id="org0ad26d2"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/grumble-in-a-sentence/">Grumble</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>to whine about something</code>
+</p>
+
+<ul class="org-ul">
+<li>Grandpa likes to grumble about how rude it is that children are always on their cellphones at the dinner table.</li>
+<li>The waitress tended to grumble about how she was overworked, underpaid, and had to deal with horrible people everyday.</li>
+<li>The mother didn't mean to grumble, but she was tired and her children refused to do their chores.</li>
+<li>The students began to grumble and protest when their teacher assigned them a huge project over winter break.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9ef5a63" class="outline-2">
+<h2 id="org9ef5a63"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/guile-in-a-sentence/">Guile</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>sly or cunning intelligence</code>
+</p>
+
+<ul class="org-ul">
+<li>Although Britney pretends to be sweet and innocent, she has used her guile to become one of the most popular celebrities in the world.</li>
+<li>The wealthy man used his money and guile to get into politics.</li>
+<li>If you want to win the competition, you will need to use your guile to beat the others.</li>
+<li>Vivian used guile to trick the old man into giving her his money.</li>
+<li>While Marshall has an attractive body, his guile and cruel personality make him unattractive as a person.</li>
+<li>The priest is an honest man who does not use guile to deceive others.</li>
+<li>In this military game, your guile is an asset.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbb64959" class="outline-2">
+<h2 id="orgbb64959"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/gullible-in-a-sentence/">Gullible</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>easily fooled or cheated</code>
+</p>
+
+<ul class="org-ul">
+<li>The gullible woman gave all her money to a fake charity.</li>
+<li>When the car salesman told me the price of the car was double its actual value, he obviously assumed I was a gullible idiot.</li>
+<li>Gullible people tend to believe whatever they are told.</li>
+<li>Unfortunately, the elderly woman was gullible enough to provide the con man with all of her financial information.</li>
+<li>While Mary is not a gullible person, she did once give money to an individual who was merely pretending to be homeless to earn extra cash.</li>
+<li>The stores hope to trick gullible consumers into buying expensive products that are no better in quality than their lower-priced counterparts.</li>
+<li>Even the gullible audience was not impressed by the amateur magician’s tricks.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org80632b5" class="outline-2">
+<h2 id="org80632b5"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/gush-in-a-sentence/">Gush</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>to speak with extreme enthusiasm and often praise</code>
+</p>
+
+<ul class="org-ul">
+<li>The exuberant mother loves to gush about her two children, praising them for literally everything and believing them to be incapable of wrong in any way.</li>
+<li>If you gush too much about one person everyone will think you are obsessed with them for always singing their praises.</li>
+<li>The most irritating fans of celebrities gush about them all the time, talking about them in every conversation and lauding them for simply existing.</li>
+<li>It is completely normal for a parent to gush about their child from time to time, especially when they are performing well and truly do deserve some recognition.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org144b114" class="outline-2">
+<h2 id="org144b114"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/gabble-in-a-sentence/">Gabble</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>rapid and generally unintelligible speech</code>
+</p>
+
+<ul class="org-ul">
+<li>The man’s hastily spoken words came out as little more than a gabble to the ears of both me and my spouse.</li>
+<li>If you speak too quickly people will hear your words as nothing but a completely unintelligible gabble.</li>
+<li>Many young children will attempt to speak quickly, but even slowly their words are usually unintelligible and therefore gabble.</li>
+<li>A sentence is considered gabble when it is spoken too quickly for anyone to correctly interpret what has been said.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org22b0add" class="outline-2">
+<h2 id="org22b0add"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/gaffe-in-a-sentence/">Gaffe</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>an obvious error or mistake</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of the quarterback’s gaffe, our team lost the big game.</li>
+<li>Clarice made a social gaffe when she wore jeans to a formal event.</li>
+<li>After the actress tripped over her dress, she realized millions of people had seen her gaffe.</li>
+<li>The blogger made a gaffe when he referred to the football player by another athlete's name.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org496c19d" class="outline-2">
+<h2 id="org496c19d"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/gaiety-in-a-sentence/">Gaiety</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>celebration; partying</code>
+</p>
+
+<ul class="org-ul">
+<li>The gaiety is in honor of the principal’s retirement.</li>
+<li>Because I am recovering from an illness, I do not feel like participating in the homecoming gaiety.</li>
+<li>Jane does not have a significant other so she does not appreciate the gaiety of Valentine’s Day.</li>
+<li>As an alcoholic, Tim tries to avoid the gaiety of holiday gatherings.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge86523a" class="outline-2">
+<h2 id="orge86523a"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/gambol-in-a-sentence/">Gambol</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>jump or run in a playful manner</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of the rain, students are unable to gambol on the playground during recess.</li>
+<li>My dog is always happy to gambol with the other pooches at the park.</li>
+<li>To stay in shape, my husband likes to gambol along the beach every morning.</li>
+<li>The children in my neighborhood hinder traffic when they gambol in the streets.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org49de9bf" class="outline-2">
+<h2 id="org49de9bf"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/gape-in-a-sentence/">Gape</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>to stare at someone with your mouth wide open</code>
+</p>
+
+<ul class="org-ul">
+<li>The men are sure to gape when they see Teresa in her tiny shorts.</li>
+<li>Do you think our daughter will gape in awe when she sees her birthday present?</li>
+<li>It was hard to not gape at the contrast of the gigantic dog and its stunted owner.</li>
+<li>Because we knew Jim had never been to the metropolitan area, we expected him to gape at the giant skyscrapers.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcfd643b" class="outline-2">
+<h2 id="orgcfd643b"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/garble-in-a-sentence/">Garble</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>to alter the sound or meaning of something</code>
+</p>
+
+<ul class="org-ul">
+<li>The drunk man will often garble his words to the point that they are not understandable.</li>
+<li>If you do not garble the directions and confuse me, I should be able to easily find your house.</li>
+<li>The boy started to garble the poem when he could not remember the words.</li>
+<li>Because the writer believed making changes to his novel would garble his message, he decided to keep the book as it was.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcb3479f" class="outline-2">
+<h2 id="orgcb3479f"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/gargantuan-in-a-sentence/">Gargantuan</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>of tremendous size</code>
+</p>
+
+<ul class="org-ul">
+<li>It took five men to move the gargantuan bedframe into the house.</li>
+<li>Even though Janice does not have a nickel to her name, she still has gargantuan tastes and is  not willing to settle for the small things.</li>
+<li>The small freshman found the gargantuan textbook to be exceptionally heavy.</li>
+<li>Can you believe the gargantuan amount of money reality stars make?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga96453e" class="outline-2">
+<h2 id="orga96453e"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/gargoyle-in-a-sentence/">Gargoyle</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>an unusual and unpleasant-looking animal or human shape that protrudes from a building’s roof</code>
+</p>
+
+<ul class="org-ul">
+<li>Many children are frightened by the stone gargoyle that sits on top of the roof of the building.</li>
+<li>If anything, the bust of the unattractive politician resembles an angry gargoyle trapped on a rooftop.</li>
+<li>Why did the church builders put an unwelcoming sculpture of a gargoyle on the roof of a building that is said to embody worship and welcome?</li>
+<li>When the evil wizard brought the gargoyle to life, the hideous creature flew from the roof and began to attack the approaching troops.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org151510d" class="outline-2">
+<h2 id="org151510d"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/garner-in-a-sentence/">Garner</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>to collect or accumulate</code>
+</p>
+
+<ul class="org-ul">
+<li>The teacher allowed us to put up posters to garner interest in our club fundraiser.</li>
+<li>Sadly, Jim Waters could not garner enough votes to carry the election.</li>
+<li>The actor hopes to garner interest in his film by promoting it on several talk shows.</li>
+<li>If Gail wants to garner more laughs during her stand-up comedy routine, she definitely needs to write funnier jokes.</li>
+<li>The shoplifter acted discreetly in the hope she would not garner the attention of security.</li>
+<li>During the telethon, the hospital was able to garner over ten million dollars for cancer research.</li>
+<li>My son is trying to garner all the baseball cards of his favorite players.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org53af6cd" class="outline-2">
+<h2 id="org53af6cd"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/garnish-in-a-sentence/">Garnish</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>to enhance or improve, especially food in a decorative way</code>
+</p>
+
+<ul class="org-ul">
+<li>Grated cheese and fancy pieces of tomato were used to garnish the salad bowl.</li>
+<li>The caterer worked to garnish the plates with lime wedges and other decorative staples.</li>
+<li>After dividing the meal onto six different plates, the only thing left to do was garnish the chicken with a dust of Parmesan.</li>
+<li>The five-course meal looks amazing, but it wouldn’t hurt to garnish the chicken with a scoop of gravy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8d45389" class="outline-2">
+<h2 id="org8d45389"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/garrulous-in-a-sentence/">Garrulous</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>overly talkative and chatty, mostly about unimportant things</code>
+</p>
+
+<ul class="org-ul">
+<li>Desperate for peace and quiet, Amanda told the garrulous man sitting next to her to "Shut up!"</li>
+<li>The garrulous gentleman held up the checkout line as he rambled on to the cashier about his pet squirrel.</li>
+<li>Mom, who is usually loud and garrulous, was surprisingly quiet as a mouse this morning.</li>
+<li>Because Jake is garrulous, asking him to keep a secret is impossible.</li>
+<li>Garrulous people make great talk show hosts.</li>
+<li>If the garrulous car salesman prattles on with his small talk, I'll buy a car elsewhere.</li>
+<li>Though my window is closed, I can still hear my garrulous neighbors loudly gossip in the night.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6ea03f2" class="outline-2">
+<h2 id="org6ea03f2"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/gaseous-in-a-sentence/">Gaseous</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>related to or existing as gas</code>
+</p>
+
+<ul class="org-ul">
+<li>The broken machine is leaking fuel, letting off a gaseous odor into the air.</li>
+<li>Gaseous emissions streaming from the car’s tailpipe can be dangerous and should be dealt with immediately.</li>
+<li>Although it is a gaseous area, the atmosphere around the planet has little oxygen.</li>
+<li>Because the gaseous substance has no odor, carbon monoxide can kill a family before they even know they are in danger.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3d632b4" class="outline-2">
+<h2 id="org3d632b4"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/gauche-in-a-sentence/">Gauche</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>lacking class or manners; awkward; tactless</code>
+</p>
+
+<ul class="org-ul">
+<li>His gauche table manners make me cringe, especially when he tries to talk with his mouth full.</li>
+<li>Because everyone assumed that he is just a typical gauche adolescent, no one believed he could have produced such a sophisticated work of art.</li>
+<li>Even though the comic’s act was crude and gauche, he filled the club to overflowing every night.</li>
+<li>Despite his promise that he would stay awake during the entire opera, Carl was already producing a gauche snorting sound within fifteen minutes of the overture.</li>
+<li>Many of the old families in town are horrified by the gauche upstarts who are using new money to tear down classic old homes to build modern eyesores.</li>
+<li>Most young ladies avoid going into that bar because they have a particularly gauche clientele who don’t care about following the simplest rules of etiquette.</li>
+<li>It’s simply a matter of taste whether you believe that a vacation in Las Vegas is a grand adventure or an exercise in gauche excessiveness.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org33ec942" class="outline-2">
+<h2 id="org33ec942"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/gaunt-in-a-sentence/">Gaunt</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>extremely skinny, typically because of illness or starvation</code>
+</p>
+
+<ul class="org-ul">
+<li>After being held in a dark basement for three months, the prisoner was gaunt and weak.</li>
+<li>The selfish queen who spent millions on her wardrobe felt no pity for her citizens who were gaunt from starvation.</li>
+<li>Because Taylor had become very gaunt as a result of having cancer, he found it difficult to find clothes to fit his small frame.</li>
+<li>I could not stop thinking about the extent of my supervisor’s illness when I saw how gaunt he had become.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7d50c4d" class="outline-2">
+<h2 id="org7d50c4d"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/gawk-in-a-sentence/">Gawk</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>to stare stupidly</code>
+</p>
+
+<ul class="org-ul">
+<li>People always gawk at us because we have seven children in our family.</li>
+<li>Everyone turned to gawk at me after I tripped and fell in the school hallway.</li>
+<li>I can tell my teacher doesn’t like me very much because I gawk too much at her during class.</li>
+<li>When I was trying on prom dresses, I could tell my friends didn’t like one when they would gawk at me and say nothing.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga303563" class="outline-2">
+<h2 id="orga303563"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/genteel-in-a-sentence/">Genteel</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>polite and well-mannered</code>
+</p>
+
+<ul class="org-ul">
+<li>At the formal dinner, you are expected to behave in a genteel manner.</li>
+<li>Beth’s parents sent her to a finishing school so she would learn how to become a genteel young woman.</li>
+<li>Since this is supposed to be a genteel meeting, I will refrain from calling anyone mean names.</li>
+<li>The judge was pleased by the genteel way the husband and wife treated each other during their divorce hearing.</li>
+<li>When one attends a genteel social event, he or she should always bring a gift for the host.</li>
+<li>Sarah’s genteel upbringing led her to open doors for elderly people.</li>
+<li>Although Tony may dress like a thug, he is actually a genteel man with flawless manners.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org64eebf3" class="outline-2">
+<h2 id="org64eebf3"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/gesticulate-in-a-sentence/">Gesticulate</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>to express a thought using gestures</code>
+</p>
+
+<ul class="org-ul">
+<li>When Jason got angry, he started to gesticulate his feelings with his hands.</li>
+<li>The deaf woman tried frantically to gesticulate her fears to the police interpreter.</li>
+<li>During the dance’s chase scene, the ballerina made use of her hands to gesticulate her distress.</li>
+<li>The football coach used nonverbal signals to gesticulate plays to the quarterback.</li>
+<li>While the monkey cannot respond in a verbal language understood by humans, he can gesticulate his wants and needs with physical motions.</li>
+<li>The waiter was fired when the manager caught him waving a knife to gesticulate his feelings about a guest who not left a tip.</li>
+<li>Whenever the scientist talked about his pet project, he would gesticulate his excitement by clasping and unclasping his hands.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf755622" class="outline-2">
+<h2 id="orgf755622"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/gild-in-a-sentence/">Gild</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>to make a light cover of gold or fake gold over something</code>
+</p>
+
+<ul class="org-ul">
+<li>Jewelers have a tendency to gild cheaper rings, necklaces and bracelets with the least amount of authentic gold just so they can call it gold jewelry.</li>
+<li>The painter would gild the painting of the woman’s dress on the canvas so that it would stand out with this flashy yellowish color.</li>
+<li>On the invitations for couple’s wedding anniversary, the printers decided to gild the front of the invitations since it pertained to their 50th wedding anniversary.</li>
+<li>For the golden tickets in the movie, Willie Wonka and the Chocolate Factory, someone would gild the tickets to make them appear real.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org10db4e5" class="outline-2">
+<h2 id="org10db4e5"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/gingerly-in-a-sentence/">Gingerly</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>gently</code>
+</p>
+
+<ul class="org-ul">
+<li>After falling from the horse, he gingerly tried to stand on his throbbing foot, and found that he couldn’t.</li>
+<li>After the dentist had done his work, she had to chew gingerly on that side of her mouth for a while.</li>
+<li>Travis stepped gingerly on the ice, testing to see if it would hold his weight without breaking.</li>
+<li>It was a hard hit, and the quarterback was getting up slowly and gingerly, testing for broken bones.</li>
+<li>I gingerly opened the lid of the container, unsure of just how old the leftovers were.</li>
+<li>Mara stepped gingerly over the shattered glass to get to the broom.</li>
+<li>Paul got in the final punch, and he gingerly rubbed his jaw and checked for missing teeth.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0226005" class="outline-2">
+<h2 id="org0226005"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/gist-in-a-sentence/">Gist</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>the main idea or point</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Ken told his story in a confusing way, I could not get the gist of it.</li>
+<li>The first paragraph of the report should provide readers with the gist of the paper.</li>
+<li>Since I heard the gist of my neighbors’ argument, I knew exactly why they were fighting.</li>
+<li>The gist of my father’s speech was that I was grounded and could not attend my best friend’s party.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org80bca21" class="outline-2">
+<h2 id="org80bca21"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/glare-in-a-sentence/">Glare</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>A fierce and angry stare</code>
+</p>
+
+<ul class="org-ul">
+<li>Giving off a killer stare, the icy inmate refused to let up his glare.</li>
+<li>My husband’s angry glare was my first clue that he was really upset about something.</li>
+<li>Even though I was surprised by my boss’s stern glare, I tried to avoid her stare and continue working.</li>
+<li>The frenemies continued to stare at each other at the lunch table, both refusing to give up their scowling glare.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org54e5a83" class="outline-2">
+<h2 id="org54e5a83"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/gleam-in-a-sentence/">Gleam</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>to shine brightly</code>
+</p>
+
+<ul class="org-ul">
+<li>After they were waxed, the building’s floors seemed to gleam with brightness.</li>
+<li>Anna’s eyes continued to gleam, shining brightly as she introduced her new baby to her family.</li>
+<li>The dirty ring would probably gleam a lot brighter if it was cleaned properly.</li>
+<li>Because he cleans it almost daily, the man’s truck seems to gleam with a brightness that makes it look brand new.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8558210" class="outline-2">
+<h2 id="org8558210"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/glean-in-a-sentence/">Glean</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>to gather information in pieces</code>
+</p>
+
+<ul class="org-ul">
+<li>From several library resources, Sara was able to glean enough information to write her research paper.</li>
+<li>I was not able to glean much information from my uncle’s intoxicated ramblings.</li>
+<li>During my chat with the famous educator, I was able to glean a wealth of knowledge about teaching.</li>
+<li>The researchers were able to glean a great deal of information about the medicine’s effects during the experiment.</li>
+<li>The elderly librarian cannot understand why students prefer to glean their facts from computers instead of from books.</li>
+<li>An experienced eavesdropper, Kelly was able to easily glean information about the couple seated near us at dinner.</li>
+<li>The company uses survey results to glean consumer opinions about their product line.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4bb8791" class="outline-2">
+<h2 id="org4bb8791"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/glee-in-a-sentence/">Glee</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>intense happiness or joy</code>
+</p>
+
+<ul class="org-ul">
+<li>Smiling with glee, the child unwrapped his birthday gift.</li>
+<li>The glee that he was feeling showed through his twinkling eyes and bright smile.</li>
+<li>Tasting her favorite cake brought both excitement and glee to the child’s heart.</li>
+<li>Glee and joy could be heard in each song that the carolers sang.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf3be987" class="outline-2">
+<h2 id="orgf3be987"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/glib-in-a-sentence/">Glib</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>speaking easily but without thinking carefully; speaking in a smooth, easy way that is insincere</code>
+</p>
+
+<ul class="org-ul">
+<li>How could he have been so glib about such a traumatic event?</li>
+<li>Because he is an expert at dancing around an issue with vague comments and glib one-liners, you never know when to take him seriously.</li>
+<li>Considering the way he fills all his speeches with glib promises that he never follows through on, I’m amazed that he has any supporters at all.</li>
+<li>By trying to show off and asking those glib questions, you’re just making yourself look more ignorant.</li>
+<li>Although he had an easy, confident manner when they were together, she didn’t trust his glib promises.</li>
+<li>I decided to stay home from the party because I just couldn’t suffer through another evening of glib chatter.</li>
+<li>Because she is so conceited, Linda is constantly fishing for compliments, and she takes all the glib flattery seriously.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb9ef252" class="outline-2">
+<h2 id="orgb9ef252"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/glimmer-in-a-sentence/">Glimmer</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>a faint or flickering piece of something</code>
+</p>
+
+<ul class="org-ul">
+<li>Even after several back to back losses, the boxer still had a glimmer of hope.</li>
+<li>The Vaudeville show was gaudy and boring, but a glimmer of talent in the comedian kept the crowd coming back.</li>
+<li>An unexpected check in the mail was a glimmer of good news after a long day at work.</li>
+<li>There was only one glimmer of truth in the speech full of lies.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5ded891" class="outline-2">
+<h2 id="org5ded891"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/glisten-in-a-sentence/">Glisten</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>to shine</code>
+</p>
+
+<ul class="org-ul">
+<li>Rays began to glisten off the Hudson Bay as the morning sun rose over the water.</li>
+<li>After a tough workout, sweat from his brow made the runner’s forehead glisten.</li>
+<li>Admiring how her diamond would glisten in the sunlight, the newly engaged woman could barely believe how it shined.</li>
+<li>Rain combined with the sun’s bright rays caused the mountainous trees to glisten and gleam.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org43ea3c7" class="outline-2">
+<h2 id="org43ea3c7"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/glitter-in-a-sentence/">Glitter</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>tiny pieces of reflective material that are usually used for decoration</code>
+</p>
+
+<ul class="org-ul">
+<li>Glitter lined the girl’s fancy prom dress to help it sparkle in the light.</li>
+<li>With a hint of silver glitter, the drag queen’s sparkling eyes were as bright as her personality.</li>
+<li>Gluing glitter onto the sign, the student hoped that her shimmering poster board would stand out from all the rest.</li>
+<li>Adding glitter to her client’s nails, the technician hoped the metallic flakes would spice up her boring personality.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc90c930" class="outline-2">
+<h2 id="orgc90c930"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/gloomy-in-a-sentence/">Gloomy</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>dim; dismal</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the sky looked gloomy, I took an umbrella to work.</li>
+<li>My retirement funds have decreased because of the gloomy economy.</li>
+<li>During the funeral, the widow had a gloomy expression on her face.</li>
+<li>The marathon is being cancelled because of the gloomy weather.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9c4dc94" class="outline-2">
+<h2 id="org9c4dc94"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/glower-in-a-sentence/">Glower</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>to display a hostile stare on one’s face</code>
+</p>
+
+<ul class="org-ul">
+<li>The police officers turned to glower at the suspect who had killed one of their own.</li>
+<li>When the mean wrestler stopped to glower at the baby, everyone in the audience booed.</li>
+<li>I could only glower at my rival as she tried out for my spot on the cheerleading squad.</li>
+<li>If Janet did not glower so much, people would be more likely to approach her.</li>
+<li>The security guard at the expensive jewelry store seemed to glower at me as I walked into the store wearing my ripped shirt and dirty jeans.</li>
+<li>During the award show, Tianna tried not to glower as her rival accepted an award.</li>
+<li>What did I do to make Ryan frown and glower at me all evening?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfd966f9" class="outline-2">
+<h2 id="orgfd966f9"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/gnaw-in-a-sentence/">Gnaw</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>to chew on something with persistence</code>
+</p>
+
+<ul class="org-ul">
+<li>The dog started to gnaw on his leash.</li>
+<li>When I get nervous, I sometimes gnaw on my fingernails.</li>
+<li>The pest control specialist could see where the trapped mouse had started to gnaw through the wall.</li>
+<li>Using her teeth, the hostage was able to gnaw through the rope.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga53a072" class="outline-2">
+<h2 id="orga53a072"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/goad-in-a-sentence/">Goad</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>provoke or annoy (someone) so as to stimulate some action or reaction</code>
+</p>
+
+<ul class="org-ul">
+<li>During lunch in the cafeteria today, my rival tried to goad me into a fight so I would get suspended from school.</li>
+<li>My mother is going to try and goad her dog into getting off the bed by offering him a treat.</li>
+<li>As a teacher, Joan was constantly looking for positive ways to goad her students into reading more.</li>
+<li>The mobster used a picture of the bank president’s daughter to goad the official into robbing the bank.</li>
+<li>On the ranch, dogs are used to goad the sheep into going in the right direction.</li>
+<li>Teachers should stand in the hallways during class changes to goad students into promptly going inside their classrooms.</li>
+<li>During the football game, some of the away team’s players tried to goad members of our team into fumbling the ball.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgadb6d0c" class="outline-2">
+<h2 id="orgadb6d0c"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/gobbledygook-in-a-sentence/">Gobbledygook</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>complicated or technical language that is difficult to understand</code>
+</p>
+
+<ul class="org-ul">
+<li>My geometry teacher was speaking English, but it was all gobbledygook to me.</li>
+<li>Janet filled her term paper with gobbledygook to make it meet her teacher’s required word count.</li>
+<li>American politics is just a lot of talking heads spouting a bunch of gobbledygook.</li>
+<li>A baby can turn a perfectly good adult into a blathering idiot speaking pure gobbledygook in 3.5 seconds flat.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3a0deae" class="outline-2">
+<h2 id="org3a0deae"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/gorge-in-a-sentence/">Gorge</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>to consume in huge amounts</code>
+</p>
+
+<ul class="org-ul">
+<li>On Halloween night, most children gorge on candy.</li>
+<li>My children are not allowed to gorge on sweets because they are bad for their teeth.</li>
+<li>Now that my diet is over, I am so tempted to gorge at the nearest pizza buffet.</li>
+<li>Because Anne is an excellent cook, it is easy to gorge on her food.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7bdeecf" class="outline-2">
+<h2 id="org7bdeecf"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/gracious-in-a-sentence/">Gracious</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>courteous and kind</code>
+</p>
+
+<ul class="org-ul">
+<li>The gracious hostess greeted everyone warmly.</li>
+<li>When I met the princess, she was gracious and friendly despite her twelve- hour plane ride.</li>
+<li>The gracious innkeeper greeted her guests with tea and cookies.</li>
+<li>Although Jill does not like her ex-husband’s new wife, she is always gracious to her in public.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdd2ed75" class="outline-2">
+<h2 id="orgdd2ed75"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/grate-in-a-sentence/">Grate</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>to shred a food item by moving it forcefully against a grater</code>
+</p>
+
+<ul class="org-ul">
+<li>Please grate the lettuce for the tacos.</li>
+<li>Before you put the cheese on the pizza, you should grate it so it will melt quicker.</li>
+<li>Look away as you grate the onions into strips or you might start to cry.</li>
+<li>Since the carrots are pretty large, my mom will probably grate them before putting them in the salad mix.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org111cf9c" class="outline-2">
+<h2 id="org111cf9c"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/grimace-in-a-sentence/">Grimace</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>a facial expression that usually indicates strong dislike or pain</code>
+</p>
+
+<ul class="org-ul">
+<li>Whenever I think of the time I wasted with my cheating ex-girlfriend, I cannot help but feel a grimace forming on my face.</li>
+<li>It is said that it takes more muscles to grimace than it does to smile.</li>
+<li>Although Jenna said her ankle was fine, the grimace on her face told us her injury was serious.</li>
+<li>A grimace crossed the basketball player’s face when he missed the crucial shot.</li>
+<li>I struggle to hide a grimace whenever I see my mother-in-law.</li>
+<li>After he ate my spinach casserole, my husband had a grimace of disgust on his face.</li>
+<li>When she saw her ugly blind date, Maureen was unable to hide a grimace.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org175981d" class="outline-2">
+<h2 id="org175981d"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/grin-in-a-sentence/">Grin</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>a smile</code>
+</p>
+
+<ul class="org-ul">
+<li>When he realized that he won the prize, a grin appeared on the man’s once sullen face.</li>
+<li>The ecstatic bride could not hide her grin while coming down the aisle.</li>
+<li>With a grin from ear to ear, the new mayor gave his acceptance speech.</li>
+<li>Smiling from the tree, the Cheshire Cat’s grin lit up the night sky.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7a006e3" class="outline-2">
+<h2 id="org7a006e3"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/gripe-in-a-sentence/">Gripe</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>to complain</code>
+</p>
+
+<ul class="org-ul">
+<li>The only thing the finicky patron could find to gripe about was the dull silverware.</li>
+<li>Continuing to gripe, the boy’s mother followed him around his dirty room pointing out trash.</li>
+<li>Teachers in the building would gripe about the laziness of the janitorial staff.</li>
+<li>With no one to gripe to, the irritated worker muttered and complained to himself.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0de25e3" class="outline-2">
+<h2 id="org0de25e3"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/grisly-in-a-sentence/">Grisly</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>prompting panic or horror</code>
+</p>
+
+<ul class="org-ul">
+<li>After the accident with the meat cutter, Katie refused to let anyone see her grisly face.</li>
+<li>The girl screamed when she saw the grisly spider on her foot.</li>
+<li>When the small animals heard the lion’s grisly roar, they ran and hid.</li>
+<li>It takes the makeup artist several hours to apply the cosmetics that turn the actor into a grisly monster.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6cbb5a0" class="outline-2">
+<h2 id="org6cbb5a0"><span class="section-number-2">70</span> <a href="https://wordsinasentence.com/grit-in-a-sentence/">Grit</a></h2>
+<div class="outline-text-2" id="text-70">
+<p>
+<code>bravery and mental strength</code>
+</p>
+
+<ul class="org-ul">
+<li>The young boy’s grit kept him grounded during the two days he was lost in the forest.</li>
+<li>Through grit and wits, the pioneers were able to survive the blizzard.</li>
+<li>The former slave had grit that gave her courage to free other slaves.</li>
+<li>Even though Erik sprained his ankle, his grit led him to finish the race.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3016f12" class="outline-2">
+<h2 id="org3016f12"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/groan-in-a-sentence/">Groan</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>a low, mournful sound uttered in pain or grief</code>
+</p>
+
+<ul class="org-ul">
+<li>The boy began to whimper groan about going to school, making his parents suspect that something was not right.</li>
+<li>After hearing the sound of a painful groan, the men began to dig beneath the rubble hoping to locate the source of the sound.</li>
+<li>Upon hearing that his brother would not make it through the night, Alex let out a mournful groan that brought tears to everyone’s eyes.</li>
+<li>After watching the groan worthy movie, Jack admitted that its ratings were clearly mistaken.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb471950" class="outline-2">
+<h2 id="orgb471950"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/grotesque-in-a-sentence/">Grotesque</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>extremely ugly and strange</code>
+</p>
+
+<ul class="org-ul">
+<li>Diego pressed his face against the window so that what we saw was a grotesque distortion resembled some alien life form.</li>
+<li>After Becky told him she would never live in such a grotesque house for even a minute, Simon wondered how he was going to tell her he had already put a down payment on the fixer-upper.</li>
+<li>As they chanted their spell, the three witches swayed around the fire in a grotesque dance.</li>
+<li>Blanketed by the heavy fog, the branches of the trees assumed grotesque shapes that gave me a creepy feeling.</li>
+<li>Although my mother protests strongly, Dad always gets a kick out of scaring trick-or-treaters away with his grotesque mask.</li>
+<li>It’s odd how we can find some grotesque things so fascinating.</li>
+<li>When the psychologist heard some of the grotesque details of the murder, he realized that it had to have been the work of a psychopath.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgeb43170" class="outline-2">
+<h2 id="orgeb43170"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/grouch-in-a-sentence/">Grouch</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>a moaner and complainer</code>
+</p>
+
+<ul class="org-ul">
+<li>My teenager will often become a grouch by whining when I simply ask him to clean his room.</li>
+<li>When many dissatisfied customers started sending their orders back to the chef, the grouch left the kitchen with his apron still on to yell at the customers.</li>
+<li>I realized that my cat had turned into a grouch when she endlessly cried and meowed in my ear for no reason at all.</li>
+<li>After asking the grouch sitting in the back of the classroom to answer the question, all the student did was whimper and make rude remarks.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3c2e046" class="outline-2">
+<h2 id="org3c2e046"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/grove-in-a-sentence/">Grove</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>a typically isolated small group of trees</code>
+</p>
+
+<ul class="org-ul">
+<li>While waves of grass made up the majority of the open plains, there is a small grove made up of a dozen trees or so to the west.</li>
+<li>A thousand trees is a forest, while a grove can be made up of just a handful of trees you could count on your fingers.</li>
+<li>I am unsure of the difference between a copse of trees and a grove, but both are small groups of trees compared to a forest.</li>
+<li>A grove of trees rarely has any underbrush, since the small number of trees result in less litter on the ground in the form of leaves.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge17ff4a" class="outline-2">
+<h2 id="orge17ff4a"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/grovel-in-a-sentence/">Grovel</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>to be kind to someone in order to gain something</code>
+</p>
+
+<ul class="org-ul">
+<li>The dog was willing to grovel for the biscuit.</li>
+<li>When Rick won the lottery, all of his distant relatives started to grovel for his winnings.</li>
+<li>The selfish king is amused when poor people grovel at his feet and ask for favors.</li>
+<li>Because I refuse to grovel for anyone, I did not beg the politician for a personal favor.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcdca6c6" class="outline-2">
+<h2 id="orgcdca6c6"><span class="section-number-2">76</span> <a href="https://wordsinasentence.com/growl-in-a-sentence/">Growl</a></h2>
+<div class="outline-text-2" id="text-76">
+<p>
+<code>A low, threatening sound usually made by an animal</code>
+</p>
+
+<ul class="org-ul">
+<li>Letting out a low growl, the dog let her owner know that someone was outside the door.</li>
+<li>The tiger’s growl echoed through the jungle, alerting prey that the cat was on the hunt.</li>
+<li>We heard a snarling growl in the bushes, but could figure out what animal was making the racket.</li>
+<li>Mila’s puppy will growl at her with a drawn-out yap when he’s ready for a snack.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3dec587" class="outline-2">
+<h2 id="org3dec587"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/gruesome-in-a-sentence/">Gruesome</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>triggering disgust or horror</code>
+</p>
+
+<ul class="org-ul">
+<li>The scary movie was filled with lots of gruesome scenes that made my stomach queasy.</li>
+<li>When the little boy was ill, he vomited a gruesome mess on the floor.</li>
+<li>Because of the haunted house’s gruesome special effects, the attraction is not suitable for young children.</li>
+<li>Blood and body fragments covered the walls of the gruesome crime scene.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org84b685e" class="outline-2">
+<h2 id="org84b685e"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/gruff-in-a-sentence/">Gruff</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>severe in tone or manner</code>
+</p>
+
+<ul class="org-ul">
+<li>Although the old man pretends to be gruff, he is really warm and kind.</li>
+<li>The woman’s gruff response told me she wasn’t interested in purchasing a magazine subscription.</li>
+<li>In a gruff voice, the police officer ordered the suspect out of his vehicle.</li>
+<li>Hank’s gruff manner doesn’t fool anyone who knows his friendly nature.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge540571" class="outline-2">
+<h2 id="orge540571"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/grumpy-in-a-sentence/">Grumpy</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>ill-tempered or unhappy</code>
+</p>
+
+<ul class="org-ul">
+<li>I am always grumpy in the early morning, rarely saying a word and frowning at everyone who bothers to look my way.</li>
+<li>My cat is always extremely grumpy if he isn’t fed on a regular basis, and he’ll make his displeasure known with his claws on my furniture.</li>
+<li>When asked to pick out one of the most well-known grumpy figures in literature, the young student gave the honor to Ebenezer Scrooge.</li>
+<li>My next door neighbor is a grumpy old man that never speaks to anyone, unless he’s yelling at kids to get off his lawn.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7a6c6b5" class="outline-2">
+<h2 id="org7a6c6b5"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/guileless-in-a-sentence/">Guileless</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>naïve; trusting</code>
+</p>
+
+<ul class="org-ul">
+<li>The guileless nerd really believed the prom queen had a crush on him.</li>
+<li>Because the guileless old woman trusted everyone, she gave the scam artist her life savings.</li>
+<li>The guileless man was so trusting he did not expect his girlfriend to cheat on him with his best friend.</li>
+<li>When interviewed by the tabloid journalist, the guileless young actor shared too much information and soon came to regret it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org98243e1" class="outline-2">
+<h2 id="org98243e1"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/guise-in-a-sentence/">Guise</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>the way that someone or something appears to people</code>
+</p>
+
+<ul class="org-ul">
+<li>Under the guise of a police officer, the crook walked into the bank and easily robbed the tellers.</li>
+<li>A fresh coat of paint will give our old house the guise of being brand new.</li>
+<li>Today, many surveillance cameras are made in the guise of regular household objects so they will not be noticed.</li>
+<li>Even though the store guard was dressed in the guise of a normal shopper, it was obvious he was a part of the store’s security team.</li>
+<li>The terrorist entered the airport under the guise of an airline pilot.</li>
+<li>When my rival volunteered to help me with my project, I knew her friendliness was nothing but a guise for an evil scheme.</li>
+<li>To many, hip-hop music is just rap music under the guise of a different genre.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org62b2e5d" class="outline-2">
+<h2 id="org62b2e5d"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/gumption-in-a-sentence/">Gumption</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>ability and courage to get things done</code>
+</p>
+
+<ul class="org-ul">
+<li>Building up the gumption to jump, the dare devil made his way to the edge of the cliff.</li>
+<li>Do you really have the gumption to sing in front of a million people?</li>
+<li>The boy had the admirable gumption to face his bully.</li>
+<li>The runner’s grit and gumption helped him push forward when the run got difficult.</li>
+<li>Not many of the dieters had the gumption to stick with the plan, but there were a few who didn’t quit.</li>
+<li>Marla had the gumption to speak her mind even when others stayed silent.</li>
+<li>Though his job paid well, he had the gumption to ask his penny-pinching boss for a raise.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd3b3367" class="outline-2">
+<h2 id="orgd3b3367"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/gustatory-in-a-sentence/">Gustatory</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>relating to taste</code>
+</p>
+
+<ul class="org-ul">
+<li>The dinner was a gustatory pleasure for the palate.</li>
+<li>The party included an array of gustatory desserts paired with wine.</li>
+<li>The chef was trying to teach his students about the gustatory arts.</li>
+<li>He suffered from an olfactory condition which eliminated any gustatory abilities.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org903f90d" class="outline-2">
+<h2 id="org903f90d"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/gyrate-in-a-sentence/">Gyrate</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>to move in a spiral or circular motion</code>
+</p>
+
+<ul class="org-ul">
+<li>If you want the exotic dancer to gyrate especially for you, you’ll have to pay for a private dance.</li>
+<li>The snake seemed to gyrate in the air before finally deciding to strike its prey.</li>
+<li>Did you see the nasty girl gyrate against the stranger on the dance floor?</li>
+<li>During the competition, the dancers will gyrate while twisting and turning on large satin ribbons.</li>
+</ul>
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>

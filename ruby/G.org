@@ -1,0 +1,1028 @@
+#+TITLE:     G
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+
+* [[https://wordsinasentence.com/gainsay-in-a-sentence/][Gainsay]]
+
+  =to contradict or deny=
+
+  - Since Jack told the truth on the witness stand, no one was able to gainsay his statement.
+  - It would be unwise of you to gainsay your doctor’s medical suggestions and stop taking your prescriptions.
+  - To gainsay the contributions of immigrants to our nation would be the same as denying the unique voices of our diverse population.
+  - It is impossible to gainsay the importance of a good education in today’s competitive job market.
+  - The athlete was unable to gainsay his positive drug test.
+  - How dare you gainsay the professor’s opinion when you know so little about DNA replication!
+  - After the lab experiments, the scientist could not gainsay the ineffectiveness of the drug which had not destroyed the cancer cells.
+
+
+
+* [[https://wordsinasentence.com/gall-in-a-sentence/][Gall]]
+
+  =daring conduct=
+
+  - After Paul made the mistake, he had the gall to blame me for his error.
+  - Can you believe Amber had the gall to call her parents controlling after they bailed her out of jail?
+  - Even though Janice owes us money, she still has the gall to brag about buying a ticket to the baseball game.
+  - Ted had the gall to ask his wife for a divorce after she worked tirelessly to put him through medical school.
+  - Unfortunately, John is often mistreated at work because he does not have the gall to stand up for himself.
+  - Elaine had the gall to order the most expensive meal in the restaurant because she knew I was paying.
+  - After begging to meet with the attorney, Sheila had the gall to show up an hour late.
+
+
+
+* [[https://wordsinasentence.com/gallant-in-a-sentence/][Gallant]]
+
+  =fearless and daring=
+
+  - Despite being outnumbered the gallant soldiers were eager for battle.
+  - The rookie fighter put on a gallant display but still lost the match to his experienced competitor.
+  - Unfortunately the fireman’s gallant effort to save the woman came too late.
+  - The gallant knight showed no fear as he raced towards the dragon.
+
+
+
+* [[https://wordsinasentence.com/galvanize-in-a-sentence/][Galvanize]]
+
+  =to inspire people to work towards change=
+
+  - Do you think the child’s death will galvanize town residents to the point they will stand up to drug dealers?
+  - By holding a rally, the politician hoped to galvanize young people to vote.
+  - The infection will galvanize your white blood cells and trigger your immune reactions.
+  - Because the charity wants to galvanize the public in support of its cause, it’s holding an open house to share its achievements and goals.
+
+
+
+* [[https://wordsinasentence.com/garble-in-a-sentence/][Garble]]
+
+  =to alter the sound or meaning of something=
+
+  - The drunk man will often garble his words to the point that they are not understandable.
+  - If you do not garble the directions and confuse me, I should be able to easily find your house.
+  - The boy started to garble the poem when he could not remember the words.
+  - Because the writer believed making changes to his novel would garble his message, he decided to keep the book as it was.
+
+
+
+* [[https://wordsinasentence.com/garish-in-a-sentence/][Garish]]
+
+  =something that is elaborate, showy, striking and in bad taste=
+
+  - Because she likes showing off her money, my wealthy aunt is known for wearing garish jewelry to casual events.
+  - Rappers are known for wearing garish accessories like giant gold chains.
+  - After the renovations were completed in the old church, many considered the changes to be garish and out of place.
+  - When my sister won the lottery, she purchased a garish sports car which could not be missed on the highway.
+  - Because my friend’s outfit was so garish, the principal sent her home to change into more appropriate clothes.
+  - While Margaret decorated her home in subdued colors like tan and pale yellow, her friend Heather preferred garish colors such as bright green and orange.
+  - The football player’s wife wore a large garish ring which appeared to cover her entire hand.
+
+
+
+* [[https://wordsinasentence.com/garrulous-in-a-sentence/][Garrulous]]
+
+  =overly talkative and chatty, mostly about unimportant things=
+
+  - Desperate for peace and quiet, Amanda told the garrulous man sitting next to her to "Shut up!"
+  - The garrulous gentleman held up the checkout line as he rambled on to the cashier about his pet squirrel.
+  - Mom, who is usually loud and garrulous, was surprisingly quiet as a mouse this morning.
+  - Because Jake is garrulous, asking him to keep a secret is impossible.
+  - Garrulous people make great talk show hosts.
+  - If the garrulous car salesman prattles on with his small talk, I'll buy a car elsewhere.
+  - Though my window is closed, I can still hear my garrulous neighbors loudly gossip in the night.
+
+
+
+* [[https://wordsinasentence.com/gaudy-in-a-sentence/][Gaudy]]
+
+  =so showy that it is unattractive=
+
+  - When Crystal returned from the nail salon, she showed me her gaudy nails that were painted bright orange.
+  - The colorful performer is known for his gaudy fashion taste.
+  - As I watched the pageant, the number of little girls in inappropriate gaudy dresses and makeup shocked me.
+  - There was no way I was going to hang that gaudy painting on the wall of my new house.
+  - Last night, we drove by a house that was covered in what had to be a thousand gaudy Christmas lights.
+  - Gina did not listen when we told her dyeing her hair pink and orange would be a gaudy style move.
+  - As soon as the single man won the lottery, he purchased a huge house and decorated it with gaudy gold statues of himself.
+
+
+
+* [[https://wordsinasentence.com/genial-in-a-sentence/][Genial]]
+
+  =warm and welcoming=
+
+  - Santa Claus is such a genial man that children love to approach him.
+  - While I expected my elderly neighbor to be rude, he was actually genial and invited me in for tea.
+  - A glass of wine always makes me genial and approachable.
+  - How can I resist such a genial party invitation?
+  - The genial clerk warmly greeted me as soon as I walked through the hotel doors.
+  - As soon as Matt saw Sarah’s genial smile, he knew he had found the woman of his dreams.
+  - The genial atmosphere of the dinner made strangers feel like friends.
+
+
+
+* [[https://wordsinasentence.com/genus-in-a-sentence/][Genus]]
+
+  =a genus is a class or group of something, usually used in biology to classify similar animals of different species=
+
+  - Because it represents the group, the genus is the first part of an animal’s scientific name.
+  - When discussing the genus, the scientists talked about a set of closely related plants.
+  - Felidae is the genus that includes many types of cats including lions and tigers.
+  - Because no other animals are similar to a giraffe, it is the only animal classified in its genus.
+
+
+
+* [[https://wordsinasentence.com/germinate-in-a-sentence/][Germinate]]
+
+  =to mature or develop=
+
+  - Without sunlight, the seeds will not germinate.
+  - The plants need an adequate amount of water to germinate.
+  - Because the students were anxious for their plants to germinate, they would not stop looking at the pots in the window.
+  - These plants germinate quite fast so you should have a stunning garden in no time.
+
+
+
+* [[https://wordsinasentence.com/gibe-in-a-sentence/][Gibe]]
+
+  =an insulting comment=
+
+  - Jack never failed to make a gibe about his ex-boss who married his ex-wife.
+  - If you make a gibe about someone else, you should not be surprised if they make an unpleasant remark about you.
+  - I knew Vera was not my friend when she made a gibe about my weight.
+  - After the singer discovered the reporter had made a gibe about her, she refused to do additional interviews with the magazine.
+  - The little boy started to cry when he heard a classmate make a gibe about him.
+  - Because Ellen enjoys putting other people down, it is not surprising she made a gibe about the new girl’s outfit.
+  - A compliment will work much better than a gibe if you are trying to make a new friend.
+
+
+
+* [[https://wordsinasentence.com/giddy-in-a-sentence/][Giddy]]
+
+  =displaying immense happiness=
+
+  - An overindulgence in alcohol made Edith feel giddy enough to dance on the dinner table.
+  - Since I love coffee, I was giddy about visiting the famous coffee bean plantation.
+  - The greedy banker became giddy when he thought about foreclosing on peoples’ homes.
+  - As soon as the dog saw the steak bone, she became giddy and started wagging her tail.
+
+
+
+* [[https://wordsinasentence.com/gloat-in-a-sentence-2/][Gloat]]
+
+  =to take satisfaction in something that makes another person seem inferior=
+
+  - If you are the winner of a contest, you should not gloat and make your competitors feel inferior.
+  - The winning team was polite enough to not gloat over its huge win.
+  - Since we play the championship game in two days, we do not have time to gloat over our victory.
+  - It was rude of the wealthy girl to gloat over her expensive Christmas gifts while volunteering at a homeless shelter.
+  - Although I was right about the solution, I chose not to gloat over my classmate’s wrong answer.
+  - Whenever the football player scores a touchdown, he chooses to gloat by dancing and pointing a finger at a rival player.
+  - During the game, the annoying fan did nothing but gloat about his team’s huge lead.
+
+
+
+* [[https://wordsinasentence.com/gloom-in-a-sentence/][Gloom]]
+
+  =a poorly lit and hard to see through=
+
+  - Tommy stumbled through the gloom in his dark room and nearly tripped over his shoes.
+  - The diver swam in the gloom of the deep ocean and could not see more than a few inches in front of him.
+  - Maya could barely see the moon through the gloom of the dark night and wall of clouds.
+  - The old house was filled with gloom that was only slightly brightened by the candlelight.
+
+
+
+* [[https://wordsinasentence.com/glutinous-in-a-sentence/][Glutinous]]
+
+  =sticky or gooey=
+
+  - Wading through glutinous mud caused the hunters to get bogged down and their boots stuck.
+  - I enjoyed my mother’s brownies, but the glutinous batter was a little too gooey for my taste.
+  - During the science lab, the students created a glutinous mixture that was gooey enough to stick to the walls when thrown.
+  - A glutinous paste was applied to the back of the contact paper so that it would stick firmly to the cabinets.
+
+
+
+
+* [[https://wordsinasentence.com/graft-in-a-sentence/][Graft]]
+
+  =corruption, specifically use of a politician's authority for personal gain=
+
+  - Many people believe the president is guilty of graft since his personal businesses will indeed benefit from his political position.
+  - Convictions for graft were rare, even though politicians regularly lined their pockets with taxpayer money.
+  - Fraud and graft allegations were directed at the greedy senator who accepted bribes for his vote.
+  - Though he denied the graft allegations, a judge ruled that the politician was indeed guilty of corrupt business practices fueled by his position of power.
+
+
+
+* [[https://wordsinasentence.com/grandiloquent-in-a-sentence/][Grandiloquent]]
+
+  =prone to using sophisticated language in order to impress people=
+
+  - Even though Rick did not understand the grandiloquent words, he still used them to impress his wealthy friends.
+  - The city girl’s grandiloquent talk was confusing to the people in the country town.
+  - When I heard the salesman’s grandiloquent speech, I knew he was trying to make the car deal sound better than it actually was.
+  - Jack’s use of grandiloquent terminology failed to impress the job interviewer.
+  - Because the politician made grandiloquent speeches too sophisticated for voters to understand, he did not fair well in the polls.
+  - Bill’s grandiloquent conversation made him seem out of place among the uneducated workers.
+  - When the president spoke, he talked in such grandiloquent terms the public never grasped his plans.
+
+
+
+* [[https://wordsinasentence.com/grandiose-in-a-sentence/][Grandiose]]
+
+  =appearing to be impressive but not really possible or practical=
+
+  - The idea of throwing a party on top of the swimming pool seemed quite grandiose to everyone in the room.
+  - When the drug company announced its new weight-loss product, it made some grandiose promises about instant weight reduction.
+  - Uncle Adam is prone to making grandiose statements about his wealth when he is drunk.
+  - After hearing about the grandiose eight-bedroom house, I decided it was way too big for a family of three.
+  - Why would anyone want to build a grandiose office building in such a tiny town?
+  - Because I want the party to be a grandiose affair, I am using all of my savings to have the event catered by a famous chef.
+  - The lottery commercials appeal to consumers by leading them to believe they too can have grandiose lives filled with champagne parties and limousine rides.
+
+
+
+* [[https://wordsinasentence.com/gratify-in-a-sentence/][Gratify]]
+
+  =to satisfy or make content=
+
+  - Hopefully the chocolate bar will gratify my desire for something sweet.
+  - After the minister was caught trying to gratify his sexual desires with a prostitute, he was dismissed from his church leadership role.
+  - The lounge singer hoped to gratify audience members by taking requests for their favorite songs.
+  - Even though I know people often criticize my clothing choices, I only dress to gratify myself.
+
+
+
+* [[https://wordsinasentence.com/gratuitous-in-a-sentence/][Gratuitous]]
+
+  =uncalled for; unwarranted; unnecessary=
+
+  - Even though I had been looking forward to seeing the movie, I walked out of the theater after thirty minutes because of so much gratuitous foul language.
+  - Since her son had already served his hours of community service for the vandalism, Selena thought that the school’s additional punishment was gratuitous.
+  - He’s always looking for gratuitous attention from his classmates by pulling all sorts of reckless stunts.
+  - That director specializes in the gratuitous exploitation of people’s worst nightmares in his horror films.
+  - Despite coming in at third place, he indulged in some gratuitous self-glorification, to the dismay of all his friends.
+  - The novel contains a great deal of gratuitous speculation and opinion that make it very difficult to follow the plot.
+  - Although the candidate felt that the interview had gone in his favor, he didn’t make the cut because the committee was so irritated by his gratuitous bragging.
+
+
+
+* [[https://wordsinasentence.com/grim-in-a-sentence/][Grim]]
+
+  =dreary; miserable=
+
+  - The soldiers were grim after losing many of their comrades in battle.
+  - Because the weather is grim, we are staying inside our home.
+  - It was obvious from the students’ grim faces they were not happy about the pop quiz.
+  - When Heather saw the grim look on her supervisor’s face, she knew her job was in jeopardy.
+
+
+
+* [[https://wordsinasentence.com/grind-in-a-sentence/][Grind]]
+
+  =to crush something into small pieces=
+
+  - Using a machine to grind the coffee beans took a lot less time than pounding them by hand.
+  - The tenderizer was needed to grind the meat into small pieces.
+  - Without a pepper mill, the woman was unable to grind small flakes of seasoning onto her dish.
+  - He continued to wear down his teeth every time he began to grind them in his sleep.
+
+
+
+* [[https://wordsinasentence.com/grope-in-a-sentence/][Grope]]
+
+  =to feel around blindly for something=
+
+  - The homeowner began to grope around in the dark in search of a flashlight or candle.
+  - It was so dark in the shadowy alley that the woman had to grope around in her purse to find her keys.
+  - Down in the dark well, the injured man continued to grope around for a way to escape.
+  - Waking from a nightmare, the anxious dreamer would constantly grope around for a monster that wasn’t real.
+
+
+
+* [[https://wordsinasentence.com/grudge-in-a-sentence/][Grudge]]
+
+  =an intense feeling of dislike or animosity towards an individual who has treated you unfairly=
+
+  - It’s hard to not hold a grudge against the girl who bullied me for four years in high school.
+  - Because the veteran is finding it hard to get access to healthcare, he holds a grudge against his country.
+  - I think my professor has a grudge against me because he never gives me top marks on my assignments.
+  - Out of loyalty, most students of the state college hold a friendly grudge against the students of the state university.
+
+
+
+* [[https://wordsinasentence.com/grumble-in-a-sentence/][Grumble]]
+
+  =to whine about something=
+
+  - Grandpa likes to grumble about how rude it is that children are always on their cellphones at the dinner table.
+  - The waitress tended to grumble about how she was overworked, underpaid, and had to deal with horrible people everyday.
+  - The mother didn't mean to grumble, but she was tired and her children refused to do their chores.
+  - The students began to grumble and protest when their teacher assigned them a huge project over winter break.
+
+
+
+* [[https://wordsinasentence.com/guile-in-a-sentence/][Guile]]
+
+  =sly or cunning intelligence=
+
+  - Although Britney pretends to be sweet and innocent, she has used her guile to become one of the most popular celebrities in the world.
+  -  The wealthy man used his money and guile to get into politics.
+  - If you want to win the competition, you will need to use your guile to beat the others.
+  - Vivian used guile to trick the old man into giving her his money.
+  - While Marshall has an attractive body, his guile and cruel personality make him unattractive as a person.
+  - The priest is an honest man who does not use guile to deceive others.
+  - In this military game, your guile is an asset.
+
+
+
+* [[https://wordsinasentence.com/gullible-in-a-sentence/][Gullible]]
+
+  =easily fooled or cheated=
+
+  - The gullible woman gave all her money to a fake charity.
+  - When the car salesman told me the price of the car was double its actual value, he obviously assumed I was a gullible idiot.
+  - Gullible people tend to believe whatever they are told.
+  - Unfortunately, the elderly woman was gullible enough to provide the con man with all of her financial information.
+  - While Mary is not a gullible person, she did once give money to an individual who was merely pretending to be homeless to earn extra cash.
+  - The stores hope to trick gullible consumers into buying expensive products that are no better in quality than their lower-priced counterparts.
+  - Even the gullible audience was not impressed by the amateur magician’s tricks.
+
+
+
+* [[https://wordsinasentence.com/gush-in-a-sentence/][Gush]]
+
+  =to speak with extreme enthusiasm and often praise=
+
+  - The exuberant mother loves to gush about her two children, praising them for literally everything and believing them to be incapable of wrong in any way.
+  - If you gush too much about one person everyone will think you are obsessed with them for always singing their praises.
+  - The most irritating fans of celebrities gush about them all the time, talking about them in every conversation and lauding them for simply existing.
+  - It is completely normal for a parent to gush about their child from time to time, especially when they are performing well and truly do deserve some recognition.
+
+
+
+* [[https://wordsinasentence.com/gabble-in-a-sentence/][Gabble]]
+
+  =rapid and generally unintelligible speech=
+
+  - The man’s hastily spoken words came out as little more than a gabble to the ears of both me and my spouse.
+  - If you speak too quickly people will hear your words as nothing but a completely unintelligible gabble.
+  - Many young children will attempt to speak quickly, but even slowly their words are usually unintelligible and therefore gabble.
+  - A sentence is considered gabble when it is spoken too quickly for anyone to correctly interpret what has been said.
+
+
+
+* [[https://wordsinasentence.com/gaffe-in-a-sentence/][Gaffe]]
+
+  =an obvious error or mistake=
+
+  - Because of the quarterback’s gaffe, our team lost the big game.
+  - Clarice made a social gaffe when she wore jeans to a formal event.
+  - After the actress tripped over her dress, she realized millions of people had seen her gaffe.
+  - The blogger made a gaffe when he referred to the football player by another athlete's name.
+
+
+
+* [[https://wordsinasentence.com/gaiety-in-a-sentence/][Gaiety]]
+
+  =celebration; partying=
+
+  - The gaiety is in honor of the principal’s retirement.
+  - Because I am recovering from an illness, I do not feel like participating in the homecoming gaiety.
+  - Jane does not have a significant other so she does not appreciate the gaiety of Valentine’s Day.
+  - As an alcoholic, Tim tries to avoid the gaiety of holiday gatherings.
+
+
+
+* [[https://wordsinasentence.com/gambol-in-a-sentence/][Gambol]]
+
+  =jump or run in a playful manner=
+
+  - Because of the rain, students are unable to gambol on the playground during recess.
+  - My dog is always happy to gambol with the other pooches at the park.
+  - To stay in shape, my husband likes to gambol along the beach every morning.
+  - The children in my neighborhood hinder traffic when they gambol in the streets.
+
+
+
+* [[https://wordsinasentence.com/gape-in-a-sentence/][Gape]]
+
+  =to stare at someone with your mouth wide open=
+
+  - The men are sure to gape when they see Teresa in her tiny shorts.
+  - Do you think our daughter will gape in awe when she sees her birthday present?
+  - It was hard to not gape at the contrast of the gigantic dog and its stunted owner.
+  - Because we knew Jim had never been to the metropolitan area, we expected him to gape at the giant skyscrapers.
+
+
+
+* [[https://wordsinasentence.com/garble-in-a-sentence/][Garble]]
+
+  =to alter the sound or meaning of something=
+
+  - The drunk man will often garble his words to the point that they are not understandable.
+  - If you do not garble the directions and confuse me, I should be able to easily find your house.
+  - The boy started to garble the poem when he could not remember the words.
+  - Because the writer believed making changes to his novel would garble his message, he decided to keep the book as it was.
+
+
+
+* [[https://wordsinasentence.com/gargantuan-in-a-sentence/][Gargantuan]]
+
+  =of tremendous size=
+
+  - It took five men to move the gargantuan bedframe into the house.
+  - Even though Janice does not have a nickel to her name, she still has gargantuan tastes and is  not willing to settle for the small things.
+  - The small freshman found the gargantuan textbook to be exceptionally heavy.
+  - Can you believe the gargantuan amount of money reality stars make?
+
+
+
+* [[https://wordsinasentence.com/gargoyle-in-a-sentence/][Gargoyle]]
+
+  =an unusual and unpleasant-looking animal or human shape that protrudes from a building’s roof=
+
+  - Many children are frightened by the stone gargoyle that sits on top of the roof of the building.
+  - If anything, the bust of the unattractive politician resembles an angry gargoyle trapped on a rooftop.
+  - Why did the church builders put an unwelcoming sculpture of a gargoyle on the roof of a building that is said to embody worship and welcome?
+  - When the evil wizard brought the gargoyle to life, the hideous creature flew from the roof and began to attack the approaching troops.
+
+
+
+* [[https://wordsinasentence.com/garner-in-a-sentence/][Garner]]
+
+  =to collect or accumulate=
+
+  - The teacher allowed us to put up posters to garner interest in our club fundraiser.
+  - Sadly, Jim Waters could not garner enough votes to carry the election.
+  - The actor hopes to garner interest in his film by promoting it on several talk shows.
+  - If Gail wants to garner more laughs during her stand-up comedy routine, she definitely needs to write funnier jokes.
+  - The shoplifter acted discreetly in the hope she would not garner the attention of security.
+  - During the telethon, the hospital was able to garner over ten million dollars for cancer research.
+  - My son is trying to garner all the baseball cards of his favorite players.
+
+
+
+* [[https://wordsinasentence.com/garnish-in-a-sentence/][Garnish]]
+
+  =to enhance or improve, especially food in a decorative way=
+
+  - Grated cheese and fancy pieces of tomato were used to garnish the salad bowl.
+  - The caterer worked to garnish the plates with lime wedges and other decorative staples.
+  - After dividing the meal onto six different plates, the only thing left to do was garnish the chicken with a dust of Parmesan.
+  - The five-course meal looks amazing, but it wouldn’t hurt to garnish the chicken with a scoop of gravy.
+
+
+
+* [[https://wordsinasentence.com/garrulous-in-a-sentence/][Garrulous]]
+
+  =overly talkative and chatty, mostly about unimportant things=
+
+  - Desperate for peace and quiet, Amanda told the garrulous man sitting next to her to "Shut up!"
+  - The garrulous gentleman held up the checkout line as he rambled on to the cashier about his pet squirrel.
+  - Mom, who is usually loud and garrulous, was surprisingly quiet as a mouse this morning.
+  - Because Jake is garrulous, asking him to keep a secret is impossible.
+  - Garrulous people make great talk show hosts.
+  - If the garrulous car salesman prattles on with his small talk, I'll buy a car elsewhere.
+  - Though my window is closed, I can still hear my garrulous neighbors loudly gossip in the night.
+
+
+
+* [[https://wordsinasentence.com/gaseous-in-a-sentence/][Gaseous]]
+
+  =related to or existing as gas=
+
+  - The broken machine is leaking fuel, letting off a gaseous odor into the air.
+  - Gaseous emissions streaming from the car’s tailpipe can be dangerous and should be dealt with immediately.
+  - Although it is a gaseous area, the atmosphere around the planet has little oxygen.
+  - Because the gaseous substance has no odor, carbon monoxide can kill a family before they even know they are in danger.
+
+
+
+* [[https://wordsinasentence.com/gauche-in-a-sentence/][Gauche]]
+
+  =lacking class or manners; awkward; tactless=
+
+  - His gauche table manners make me cringe, especially when he tries to talk with his mouth full.
+  - Because everyone assumed that he is just a typical gauche adolescent, no one believed he could have produced such a sophisticated work of art.
+  - Even though the comic’s act was crude and gauche, he filled the club to overflowing every night.
+  - Despite his promise that he would stay awake during the entire opera, Carl was already producing a gauche snorting sound within fifteen minutes of the overture.
+  - Many of the old families in town are horrified by the gauche upstarts who are using new money to tear down classic old homes to build modern eyesores.
+  - Most young ladies avoid going into that bar because they have a particularly gauche clientele who don’t care about following the simplest rules of etiquette.
+  - It’s simply a matter of taste whether you believe that a vacation in Las Vegas is a grand adventure or an exercise in gauche excessiveness.
+
+
+
+* [[https://wordsinasentence.com/gaunt-in-a-sentence/][Gaunt]]
+
+  =extremely skinny, typically because of illness or starvation=
+
+  - After being held in a dark basement for three months, the prisoner was gaunt and weak.
+  - The selfish queen who spent millions on her wardrobe felt no pity for her citizens who were gaunt from starvation.
+  - Because Taylor had become very gaunt as a result of having cancer, he found it difficult to find clothes to fit his small frame.
+  - I could not stop thinking about the extent of my supervisor’s illness when I saw how gaunt he had become.
+
+
+
+* [[https://wordsinasentence.com/gawk-in-a-sentence/][Gawk]]
+
+  =to stare stupidly=
+
+  - People always gawk at us because we have seven children in our family.
+  - Everyone turned to gawk at me after I tripped and fell in the school hallway.
+  - I can tell my teacher doesn’t like me very much because I gawk too much at her during class.
+  - When I was trying on prom dresses, I could tell my friends didn’t like one when they would gawk at me and say nothing.
+
+
+
+* [[https://wordsinasentence.com/genteel-in-a-sentence/][Genteel]]
+
+  =polite and well-mannered=
+
+  - At the formal dinner, you are expected to behave in a genteel manner.
+  - Beth’s parents sent her to a finishing school so she would learn how to become a genteel young woman.
+  - Since this is supposed to be a genteel meeting, I will refrain from calling anyone mean names.
+  - The judge was pleased by the genteel way the husband and wife treated each other during their divorce hearing.
+  - When one attends a genteel social event, he or she should always bring a gift for the host.
+  - Sarah’s genteel upbringing led her to open doors for elderly people.
+  - Although Tony may dress like a thug, he is actually a genteel man with flawless manners.
+
+
+
+* [[https://wordsinasentence.com/gesticulate-in-a-sentence/][Gesticulate]]
+
+  =to express a thought using gestures=
+
+  - When Jason got angry, he started to gesticulate his feelings with his hands.
+  - The deaf woman tried frantically to gesticulate her fears to the police interpreter.
+  - During the dance’s chase scene, the ballerina made use of her hands to gesticulate her distress.
+  - The football coach used nonverbal signals to gesticulate plays to the quarterback.
+  - While the monkey cannot respond in a verbal language understood by humans, he can gesticulate his wants and needs with physical motions.
+  - The waiter was fired when the manager caught him waving a knife to gesticulate his feelings about a guest who not left a tip.
+  - Whenever the scientist talked about his pet project, he would gesticulate his excitement by clasping and unclasping his hands.
+
+
+
+* [[https://wordsinasentence.com/gild-in-a-sentence/][Gild]]
+
+  =to make a light cover of gold or fake gold over something=
+
+  - Jewelers have a tendency to gild cheaper rings, necklaces and bracelets with the least amount of authentic gold just so they can call it gold jewelry.
+  - The painter would gild the painting of the woman’s dress on the canvas so that it would stand out with this flashy yellowish color.
+  - On the invitations for couple’s wedding anniversary, the printers decided to gild the front of the invitations since it pertained to their 50th wedding anniversary.
+  - For the golden tickets in the movie, Willie Wonka and the Chocolate Factory, someone would gild the tickets to make them appear real.
+
+
+
+* [[https://wordsinasentence.com/gingerly-in-a-sentence/][Gingerly]]
+
+  =gently=
+
+  - After falling from the horse, he gingerly tried to stand on his throbbing foot, and found that he couldn’t.
+  - After the dentist had done his work, she had to chew gingerly on that side of her mouth for a while.
+  - Travis stepped gingerly on the ice, testing to see if it would hold his weight without breaking.
+  - It was a hard hit, and the quarterback was getting up slowly and gingerly, testing for broken bones.
+  - I gingerly opened the lid of the container, unsure of just how old the leftovers were.
+  - Mara stepped gingerly over the shattered glass to get to the broom.
+  - Paul got in the final punch, and he gingerly rubbed his jaw and checked for missing teeth.
+
+
+
+* [[https://wordsinasentence.com/gist-in-a-sentence/][Gist]]
+
+  =the main idea or point=
+
+  - Because Ken told his story in a confusing way, I could not get the gist of it.
+  - The first paragraph of the report should provide readers with the gist of the paper.
+  - Since I heard the gist of my neighbors’ argument, I knew exactly why they were fighting.
+  - The gist of my father’s speech was that I was grounded and could not attend my best friend’s party.
+
+
+
+* [[https://wordsinasentence.com/glare-in-a-sentence/][Glare]]
+
+  =A fierce and angry stare=
+
+  - Giving off a killer stare, the icy inmate refused to let up his glare.
+  - My husband’s angry glare was my first clue that he was really upset about something.
+  - Even though I was surprised by my boss’s stern glare, I tried to avoid her stare and continue working.
+  - The frenemies continued to stare at each other at the lunch table, both refusing to give up their scowling glare.
+
+
+
+* [[https://wordsinasentence.com/gleam-in-a-sentence/][Gleam]]
+
+  =to shine brightly=
+
+  - After they were waxed, the building’s floors seemed to gleam with brightness.
+  - Anna’s eyes continued to gleam, shining brightly as she introduced her new baby to her family.
+  - The dirty ring would probably gleam a lot brighter if it was cleaned properly.
+  - Because he cleans it almost daily, the man’s truck seems to gleam with a brightness that makes it look brand new.
+
+
+
+* [[https://wordsinasentence.com/glean-in-a-sentence/][Glean]]
+
+  =to gather information in pieces=
+
+  - From several library resources, Sara was able to glean enough information to write her research paper.
+  - I was not able to glean much information from my uncle’s intoxicated ramblings.
+  - During my chat with the famous educator, I was able to glean a wealth of knowledge about teaching.
+  - The researchers were able to glean a great deal of information about the medicine’s effects during the experiment.
+  - The elderly librarian cannot understand why students prefer to glean their facts from computers instead of from books.
+  - An experienced eavesdropper, Kelly was able to easily glean information about the couple seated near us at dinner.
+  - The company uses survey results to glean consumer opinions about their product line.
+
+
+
+* [[https://wordsinasentence.com/glee-in-a-sentence/][Glee]]
+
+  =intense happiness or joy=
+
+  - Smiling with glee, the child unwrapped his birthday gift.
+  - The glee that he was feeling showed through his twinkling eyes and bright smile.
+  - Tasting her favorite cake brought both excitement and glee to the child’s heart.
+  - Glee and joy could be heard in each song that the carolers sang.
+
+
+
+* [[https://wordsinasentence.com/glib-in-a-sentence/][Glib]]
+
+  =speaking easily but without thinking carefully; speaking in a smooth, easy way that is insincere=
+
+  - How could he have been so glib about such a traumatic event?
+  - Because he is an expert at dancing around an issue with vague comments and glib one-liners, you never know when to take him seriously.
+  - Considering the way he fills all his speeches with glib promises that he never follows through on, I’m amazed that he has any supporters at all.
+  - By trying to show off and asking those glib questions, you’re just making yourself look more ignorant.
+  - Although he had an easy, confident manner when they were together, she didn’t trust his glib promises.
+  - I decided to stay home from the party because I just couldn’t suffer through another evening of glib chatter.
+  - Because she is so conceited, Linda is constantly fishing for compliments, and she takes all the glib flattery seriously.
+
+
+
+* [[https://wordsinasentence.com/glimmer-in-a-sentence/][Glimmer]]
+
+  =a faint or flickering piece of something=
+
+  - Even after several back to back losses, the boxer still had a glimmer of hope.
+  - The Vaudeville show was gaudy and boring, but a glimmer of talent in the comedian kept the crowd coming back.
+  - An unexpected check in the mail was a glimmer of good news after a long day at work.
+  - There was only one glimmer of truth in the speech full of lies.
+
+
+
+* [[https://wordsinasentence.com/glisten-in-a-sentence/][Glisten]]
+
+  =to shine=
+
+  - Rays began to glisten off the Hudson Bay as the morning sun rose over the water.
+  - After a tough workout, sweat from his brow made the runner’s forehead glisten.
+  - Admiring how her diamond would glisten in the sunlight, the newly engaged woman could barely believe how it shined.
+  - Rain combined with the sun’s bright rays caused the mountainous trees to glisten and gleam.
+
+
+
+* [[https://wordsinasentence.com/glitter-in-a-sentence/][Glitter]]
+
+  =tiny pieces of reflective material that are usually used for decoration=
+
+  - Glitter lined the girl’s fancy prom dress to help it sparkle in the light.
+  - With a hint of silver glitter, the drag queen’s sparkling eyes were as bright as her personality.
+  - Gluing glitter onto the sign, the student hoped that her shimmering poster board would stand out from all the rest.
+  - Adding glitter to her client’s nails, the technician hoped the metallic flakes would spice up her boring personality.
+
+
+
+* [[https://wordsinasentence.com/gloomy-in-a-sentence/][Gloomy]]
+
+  =dim; dismal=
+
+  - Because the sky looked gloomy, I took an umbrella to work.
+  - My retirement funds have decreased because of the gloomy economy.
+  - During the funeral, the widow had a gloomy expression on her face.
+  - The marathon is being cancelled because of the gloomy weather.
+
+
+
+* [[https://wordsinasentence.com/glower-in-a-sentence/][Glower]]
+
+  =to display a hostile stare on one’s face=
+
+  - The police officers turned to glower at the suspect who had killed one of their own.
+  - When the mean wrestler stopped to glower at the baby, everyone in the audience booed.
+  - I could only glower at my rival as she tried out for my spot on the cheerleading squad.
+  - If Janet did not glower so much, people would be more likely to approach her.
+  - The security guard at the expensive jewelry store seemed to glower at me as I walked into the store wearing my ripped shirt and dirty jeans.
+  - During the award show, Tianna tried not to glower as her rival accepted an award.
+  - What did I do to make Ryan frown and glower at me all evening?
+
+
+
+* [[https://wordsinasentence.com/gnaw-in-a-sentence/][Gnaw]]
+
+  =to chew on something with persistence=
+
+  - The dog started to gnaw on his leash.
+  - When I get nervous, I sometimes gnaw on my fingernails.
+  - The pest control specialist could see where the trapped mouse had started to gnaw through the wall.
+  - Using her teeth, the hostage was able to gnaw through the rope.
+
+
+
+* [[https://wordsinasentence.com/goad-in-a-sentence/][Goad]]
+
+  =provoke or annoy (someone) so as to stimulate some action or reaction=
+
+  - During lunch in the cafeteria today, my rival tried to goad me into a fight so I would get suspended from school.
+  - My mother is going to try and goad her dog into getting off the bed by offering him a treat.
+  - As a teacher, Joan was constantly looking for positive ways to goad her students into reading more.
+  - The mobster used a picture of the bank president’s daughter to goad the official into robbing the bank.
+  - On the ranch, dogs are used to goad the sheep into going in the right direction.
+  - Teachers should stand in the hallways during class changes to goad students into promptly going inside their classrooms.
+  - During the football game, some of the away team’s players tried to goad members of our team into fumbling the ball.
+
+
+
+* [[https://wordsinasentence.com/gobbledygook-in-a-sentence/][Gobbledygook]]
+
+  =complicated or technical language that is difficult to understand=
+
+  - My geometry teacher was speaking English, but it was all gobbledygook to me.
+  - Janet filled her term paper with gobbledygook to make it meet her teacher’s required word count.
+  - American politics is just a lot of talking heads spouting a bunch of gobbledygook.
+  - A baby can turn a perfectly good adult into a blathering idiot speaking pure gobbledygook in 3.5 seconds flat.
+
+
+
+* [[https://wordsinasentence.com/gorge-in-a-sentence/][Gorge]]
+
+  =to consume in huge amounts=
+
+  - On Halloween night, most children gorge on candy.
+  - My children are not allowed to gorge on sweets because they are bad for their teeth.
+  - Now that my diet is over, I am so tempted to gorge at the nearest pizza buffet.
+  - Because Anne is an excellent cook, it is easy to gorge on her food.
+
+
+
+* [[https://wordsinasentence.com/gracious-in-a-sentence/][Gracious]]
+
+  =courteous and kind=
+
+  - The gracious hostess greeted everyone warmly.
+  - When I met the princess, she was gracious and friendly despite her twelve- hour plane ride.
+  - The gracious innkeeper greeted her guests with tea and cookies.
+  - Although Jill does not like her ex-husband’s new wife, she is always gracious to her in public.
+
+
+
+* [[https://wordsinasentence.com/grate-in-a-sentence/][Grate]]
+
+  =to shred a food item by moving it forcefully against a grater=
+
+  - Please grate the lettuce for the tacos.
+  - Before you put the cheese on the pizza, you should grate it so it will melt quicker.
+  - Look away as you grate the onions into strips or you might start to cry.
+  - Since the carrots are pretty large, my mom will probably grate them before putting them in the salad mix.
+
+
+
+* [[https://wordsinasentence.com/grimace-in-a-sentence/][Grimace]]
+
+  =a facial expression that usually indicates strong dislike or pain=
+
+  - Whenever I think of the time I wasted with my cheating ex-girlfriend, I cannot help but feel a grimace forming on my face.
+  - It is said that it takes more muscles to grimace than it does to smile.
+  - Although Jenna said her ankle was fine, the grimace on her face told us her injury was serious.
+  - A grimace crossed the basketball player’s face when he missed the crucial shot.
+  - I struggle to hide a grimace whenever I see my mother-in-law.
+  - After he ate my spinach casserole, my husband had a grimace of disgust on his face.
+  - When she saw her ugly blind date, Maureen was unable to hide a grimace.
+
+
+
+* [[https://wordsinasentence.com/grin-in-a-sentence/][Grin]]
+
+  =a smile=
+
+  - When he realized that he won the prize, a grin appeared on the man’s once sullen face.
+  - The ecstatic bride could not hide her grin while coming down the aisle.
+  - With a grin from ear to ear, the new mayor gave his acceptance speech.
+  - Smiling from the tree, the Cheshire Cat’s grin lit up the night sky.
+
+
+
+* [[https://wordsinasentence.com/gripe-in-a-sentence/][Gripe]]
+
+  =to complain=
+
+  - The only thing the finicky patron could find to gripe about was the dull silverware.
+  - Continuing to gripe, the boy’s mother followed him around his dirty room pointing out trash.
+  - Teachers in the building would gripe about the laziness of the janitorial staff.
+  - With no one to gripe to, the irritated worker muttered and complained to himself.
+
+
+
+* [[https://wordsinasentence.com/grisly-in-a-sentence/][Grisly]]
+
+  =prompting panic or horror=
+
+  - After the accident with the meat cutter, Katie refused to let anyone see her grisly face.
+  - The girl screamed when she saw the grisly spider on her foot.
+  - When the small animals heard the lion’s grisly roar, they ran and hid.
+  - It takes the makeup artist several hours to apply the cosmetics that turn the actor into a grisly monster.
+
+
+
+* [[https://wordsinasentence.com/grit-in-a-sentence/][Grit]]
+
+  =bravery and mental strength=
+
+  - The young boy’s grit kept him grounded during the two days he was lost in the forest.
+  - Through grit and wits, the pioneers were able to survive the blizzard.
+  - The former slave had grit that gave her courage to free other slaves.
+  - Even though Erik sprained his ankle, his grit led him to finish the race.
+
+
+
+* [[https://wordsinasentence.com/groan-in-a-sentence/][Groan]]
+
+  =a low, mournful sound uttered in pain or grief=
+
+  - The boy began to whimper groan about going to school, making his parents suspect that something was not right.
+  - After hearing the sound of a painful groan, the men began to dig beneath the rubble hoping to locate the source of the sound.
+  - Upon hearing that his brother would not make it through the night, Alex let out a mournful groan that brought tears to everyone’s eyes.
+  - After watching the groan worthy movie, Jack admitted that its ratings were clearly mistaken.
+
+
+
+* [[https://wordsinasentence.com/grotesque-in-a-sentence/][Grotesque]]
+
+  =extremely ugly and strange=
+
+  - Diego pressed his face against the window so that what we saw was a grotesque distortion resembled some alien life form.
+  - After Becky told him she would never live in such a grotesque house for even a minute, Simon wondered how he was going to tell her he had already put a down payment on the fixer-upper.
+  - As they chanted their spell, the three witches swayed around the fire in a grotesque dance.
+  - Blanketed by the heavy fog, the branches of the trees assumed grotesque shapes that gave me a creepy feeling.
+  - Although my mother protests strongly, Dad always gets a kick out of scaring trick-or-treaters away with his grotesque mask.
+  - It’s odd how we can find some grotesque things so fascinating.
+  - When the psychologist heard some of the grotesque details of the murder, he realized that it had to have been the work of a psychopath.
+
+
+
+* [[https://wordsinasentence.com/grouch-in-a-sentence/][Grouch]]
+
+  =a moaner and complainer=
+
+  - My teenager will often become a grouch by whining when I simply ask him to clean his room.
+  - When many dissatisfied customers started sending their orders back to the chef, the grouch left the kitchen with his apron still on to yell at the customers.
+  - I realized that my cat had turned into a grouch when she endlessly cried and meowed in my ear for no reason at all.
+  - After asking the grouch sitting in the back of the classroom to answer the question, all the student did was whimper and make rude remarks.
+
+
+
+* [[https://wordsinasentence.com/grove-in-a-sentence/][Grove]]
+
+  =a typically isolated small group of trees=
+
+  - While waves of grass made up the majority of the open plains, there is a small grove made up of a dozen trees or so to the west.
+  - A thousand trees is a forest, while a grove can be made up of just a handful of trees you could count on your fingers.
+  - I am unsure of the difference between a copse of trees and a grove, but both are small groups of trees compared to a forest.
+  - A grove of trees rarely has any underbrush, since the small number of trees result in less litter on the ground in the form of leaves.
+
+
+
+* [[https://wordsinasentence.com/grovel-in-a-sentence/][Grovel]]
+
+  =to be kind to someone in order to gain something=
+
+  - The dog was willing to grovel for the biscuit.
+  - When Rick won the lottery, all of his distant relatives started to grovel for his winnings.
+  - The selfish king is amused when poor people grovel at his feet and ask for favors.
+  - Because I refuse to grovel for anyone, I did not beg the politician for a personal favor.
+
+
+
+* [[https://wordsinasentence.com/growl-in-a-sentence/][Growl]]
+
+  =A low, threatening sound usually made by an animal=
+
+  - Letting out a low growl, the dog let her owner know that someone was outside the door.
+  - The tiger’s growl echoed through the jungle, alerting prey that the cat was on the hunt.
+  - We heard a snarling growl in the bushes, but could figure out what animal was making the racket.
+  - Mila’s puppy will growl at her with a drawn-out yap when he’s ready for a snack.
+
+
+
+* [[https://wordsinasentence.com/gruesome-in-a-sentence/][Gruesome]]
+
+  =triggering disgust or horror=
+
+  - The scary movie was filled with lots of gruesome scenes that made my stomach queasy.
+  - When the little boy was ill, he vomited a gruesome mess on the floor.
+  - Because of the haunted house’s gruesome special effects, the attraction is not suitable for young children.
+  - Blood and body fragments covered the walls of the gruesome crime scene.
+
+
+
+* [[https://wordsinasentence.com/gruff-in-a-sentence/][Gruff]]
+
+  =severe in tone or manner=
+
+  - Although the old man pretends to be gruff, he is really warm and kind.
+  - The woman’s gruff response told me she wasn’t interested in purchasing a magazine subscription.
+  - In a gruff voice, the police officer ordered the suspect out of his vehicle.
+  - Hank’s gruff manner doesn’t fool anyone who knows his friendly nature.
+
+
+
+* [[https://wordsinasentence.com/grumpy-in-a-sentence/][Grumpy]]
+
+  =ill-tempered or unhappy=
+
+  - I am always grumpy in the early morning, rarely saying a word and frowning at everyone who bothers to look my way.
+  - My cat is always extremely grumpy if he isn’t fed on a regular basis, and he’ll make his displeasure known with his claws on my furniture.
+  - When asked to pick out one of the most well-known grumpy figures in literature, the young student gave the honor to Ebenezer Scrooge.
+  - My next door neighbor is a grumpy old man that never speaks to anyone, unless he’s yelling at kids to get off his lawn.
+
+
+
+* [[https://wordsinasentence.com/guileless-in-a-sentence/][Guileless]]
+
+  =naïve; trusting=
+
+  - The guileless nerd really believed the prom queen had a crush on him.
+  - Because the guileless old woman trusted everyone, she gave the scam artist her life savings.
+  - The guileless man was so trusting he did not expect his girlfriend to cheat on him with his best friend.
+  - When interviewed by the tabloid journalist, the guileless young actor shared too much information and soon came to regret it.
+
+
+
+* [[https://wordsinasentence.com/guise-in-a-sentence/][Guise]]
+
+  =the way that someone or something appears to people=
+
+  - Under the guise of a police officer, the crook walked into the bank and easily robbed the tellers.
+  - A fresh coat of paint will give our old house the guise of being brand new.
+  - Today, many surveillance cameras are made in the guise of regular household objects so they will not be noticed.
+  - Even though the store guard was dressed in the guise of a normal shopper, it was obvious he was a part of the store’s security team.
+  - The terrorist entered the airport under the guise of an airline pilot.
+  - When my rival volunteered to help me with my project, I knew her friendliness was nothing but a guise for an evil scheme.
+  - To many, hip-hop music is just rap music under the guise of a different genre.
+
+
+
+* [[https://wordsinasentence.com/gumption-in-a-sentence/][Gumption]]
+
+  =ability and courage to get things done=
+
+  - Building up the gumption to jump, the dare devil made his way to the edge of the cliff.
+  - Do you really have the gumption to sing in front of a million people?
+  - The boy had the admirable gumption to face his bully.
+  - The runner’s grit and gumption helped him push forward when the run got difficult.
+  - Not many of the dieters had the gumption to stick with the plan, but there were a few who didn’t quit.
+  - Marla had the gumption to speak her mind even when others stayed silent.
+  - Though his job paid well, he had the gumption to ask his penny-pinching boss for a raise.
+
+
+
+* [[https://wordsinasentence.com/gustatory-in-a-sentence/][Gustatory]]
+
+  =relating to taste=
+
+  - The dinner was a gustatory pleasure for the palate.
+  - The party included an array of gustatory desserts paired with wine.
+  - The chef was trying to teach his students about the gustatory arts.
+  - He suffered from an olfactory condition which eliminated any gustatory abilities.
+
+
+
+* [[https://wordsinasentence.com/gyrate-in-a-sentence/][Gyrate]]
+
+  =to move in a spiral or circular motion=
+
+  - If you want the exotic dancer to gyrate especially for you, you’ll have to pay for a private dance.
+  - The snake seemed to gyrate in the air before finally deciding to strike its prey.
+  - Did you see the nasty girl gyrate against the stranger on the dance floor?
+  - During the competition, the dancers will gyrate while twisting and turning on large satin ribbons.
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
