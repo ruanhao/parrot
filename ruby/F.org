@@ -1,0 +1,1412 @@
+#+TITLE:     F
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/facetious-in-a-sentence/][Facetious]]
+
+  =joking often inappropriately; not serious=
+
+  - Do you always have to be so facetious?
+  - While Aaron thought he was being funny, he did not realize his remarks came across as facetious.
+  - Because she was overbearing and often facetious, Jane had few friends.
+  - The teacher described her most troublesome student as a facetious young man.
+  - Sarah is a facetious person who never takes anything seriously.
+  - Even though the comedian told many facetious religious jokes, the church members still clapped loudly at the end of the show.
+  - Mark’s facetious remarks were inappropriate at his aunt’s funeral.
+
+
+
+* [[https://wordsinasentence.com/facile-in-a-sentence/][Facile]]
+
+  =easily performed=
+
+  - While the adults found the video game complicated, the teenagers thought it was facile and easily played.
+  - No one was surprised when the senior detective solved the facile case in less than twenty-four hours.
+  - Since Jack had studied for the exam, he earned a perfect score on the facile test.
+  - The experienced ballerina learned the facile routine in ten minutes.
+  - For a beginning pianist like myself, the complicated tune was far from facile and as such, impossible for me to play.
+  - The boy genius laughed when his teacher gave him a facile puzzle that would take him less than a minute to put together.
+  - When the young tennis player played the pro, he realized beating the older athlete was not as facile as he had foolishly believed.
+
+
+
+* [[https://wordsinasentence.com/fallow-in-a-sentence/][Fallow]]
+
+  =not being used=
+
+  - At the end of summer, the once crowded beaches become fallow as the young people return to school.
+  - During the great financial depression, millions of families lost their farms because the high price of goods left them unable to plant on their fallow land.
+  - A city meeting is being held to discuss the advantages and disadvantages of building a museum on the fallow property that sits on the corner of Main Street and State Street.
+  - For four months after my knee surgery, my dancing shoes remained fallow in the closet.
+  - In poorer communities, fertile land is often fallow because farmers cannot afford to buy seeds.
+  - If the oil workers go on strike, the refinery could be fallow for weeks and cause a huge increase in fuel prices.
+  - Until the arena can be properly repaired, it will remain fallow and unavailable for public events.
+
+
+
+* [[https://wordsinasentence.com/falsify-in-a-sentence/][Falsify]]
+
+  =to dishonestly change something in order to trick people=
+
+  - Knowing it was wrong to falsify the truth, the girl admitted to losing her assignment.
+  - The forger tried to falsify the document but could not match the signature.
+  - Greedy attorneys had their assistants falsify the files by conjuring up meetings and documenting phone calls that never occurred.
+  - IRS auditors quickly noticed that someone had tried to falsify the tax documents.
+
+
+
+* [[https://wordsinasentence.com/falter-in-a-sentence/][Falter]]
+
+  =to hesitate, stumble, or waver=
+
+  - When the bank teller noticed that the masked man began to falter slightly, she discreetly pressed the silent alarm.
+  - Because that horse has a tendency to falter at the gate, the odds that he will win the race are pretty low.
+  - Carrie had a feeling that Scott intended to kiss her, and she hoped that this time he wouldn’t falter.
+  - Even though that country has enjoyed a strong economy during the recent decades, it’s beginning to falter because of the policies of the new regime.
+  - Timmy thinks that if he stares hard enough at the opponents’ star hitter, he will falter at bat and strike out.
+  - Claire was afraid her voice would falter if she delivered the eulogy, so she persuaded her brother to do it instead.
+  - In the shootouts of the Old West, one flicker of the eye or falter of the nerves could mean certain death for an unlucky gunslinger.
+
+
+
+* [[https://wordsinasentence.com/fanatic-in-a-sentence/][Fanatic]]
+
+  =one who is extremely passionate about something, often a religion or cause=
+
+  - My husband is an exercise fanatic who runs six miles every day.
+  - Because my father is a football fanatic, he hasn’t missed any of his team’s home games in ten years.
+  - The religious fanatic was willing to kill herself for her god.
+  - An animal rights’ fanatic, Ellen volunteers at the animal shelter over forty hours a week.
+
+
+
+* [[https://wordsinasentence.com/farce-in-a-sentence/][Farce]]
+
+  =a ridiculous situation or event=
+
+  - Many argue that the government today is a mere farce of what it started out as.
+  - The trail was a complete farce, the jury obviously knowing their verdict before proceedings even began.
+  - The movie was a complete farce, showing how ridiculous the actors viewed politics.
+  - There was no character development, but the comedy did make for an entertaining farce.
+  - Sometimes, a good farce is more entertaining than a well-thought out comedy.
+  - The playwright wanted a thoughtful tragedy, but he ended up with a mere farce.
+  - The way mechanics charge for their services sometimes seems like a farce.
+
+
+
+* [[https://wordsinasentence.com/fastidious-in-a-sentence/][Fastidious]]
+
+  =concerned about accuracy and detail; hard to please=
+
+  - My mother was a fastidious woman who always had a complaint on her lips.
+  - Arrogant and fastidious, the diva made no friends on her music tour.
+  - While Henry would eat just about anything, his wife was so fastidious she barely ate anything.
+  - Constantly licking themselves, cats are fastidious creatures.
+  - My mother-in-law is the most fastidious person on this planet!
+  - Your friends will be few if you do not change your habit of being fastidious.
+  - Despite Marilyn’s high grade, the professor remained fastidious in his assessment of her academic skill.
+
+
+
+* [[https://wordsinasentence.com/feckless-in-a-sentence/][Feckless]]
+
+  =someone who is irresponsible or ineffective=
+
+  - Larry was such a feckless manager that the company was forced to declare bankruptcy.
+  - Because so many feckless parents are raising children these days, we shouldn’t be surprised at the number of irresponsible teenagers.
+  - Erin had come to accept the fact that her parents would always think that every boyfriend was a feckless loser, no matter how smart and successful he might be.
+  - Phil is probably the most feckless worker at the company, but he’s so charming and lovable he’s somehow managed to work here for fifteen years.
+  - Clarissa told her father-in-law that he would regret it if he hired her feckless brother.
+  - Mark is not just one of those feckless rich kids who lives off his family fortune and never lifts a finger; he gets in there and digs in just like any of the other employees.
+  - The feckless smuggler was easily captured when he delivered the goods to the undercover FBI agents.
+
+
+
+* [[https://wordsinasentence.com/fecund-in-a-sentence/][Fecund]]
+
+  =intellectually productive or inventive=
+
+  - The computer programmer was a fecund person who could quickly identify and solve problems.
+  - Although Jim was fecund at work and always met his daily goals, he rarely left his favorite chair at home.
+  - The airline is looking for fecund individuals who can complete many tasks in a short period of time.
+  - Because gifted students are more fecund than students of lower intelligence, they usually turn in better assignments than their peers.
+  - Even though Matt is very fecund, I seriously doubt if he can solve the puzzle in under a minute.
+  - While Janet pretends to be fecund, she has never offered a solution during our weekly problem-solving meetings.
+  - Is Linda really so fecund that she invents two projects every week or is she stealing ideas from others?
+
+
+
+* [[https://wordsinasentence.com/feign-in-a-sentence/][Feign]]
+
+  =make believe with the intention of deceiving; pretend=
+
+  - I feign sleep when Mom checks up on me after bedtime, then I go back to playing video games when she leaves.
+  - This one guy would feign yawns purely to set off a chain of contagious yawns in the room.
+  - Cleverly feign your fever and your mother might be gullible enough to let you stay home from school.
+  - He held a feign relationship with Sabrina just to score a night of sex with her.
+  - Christina would feign her laughs at lame jokes only to make the comedian feel better.
+  - If you are not happy, feign a quick smile anyway for a natural boost of happiness.
+  - The woman would feign her interest in football to impress her boyfriend, a sports fanatic.
+
+
+
+* [[https://wordsinasentence.com/ferment-in-a-sentence/][Ferment]]
+
+  =to produce excitement or unrest=
+
+  - The media tried to ferment public unrest by repeatedly publishing articles about the crooked police officer.
+  - Before the concert started, a popular comedian came out to ferment enthusiasm among the crowd.
+  - The union leader hopes to ferment dissatisfaction amid the workers to force management to increase salaries.
+  - If a non-guilty verdict is announced, hopefully the decision will not ferment protests and riots.
+
+
+
+* [[https://wordsinasentence.com/ferocity-in-a-sentence/][Ferocity]]
+
+  =the condition of being ferocious=
+
+  - Even though my Chihuahua is tiny, he snarls and barks with such ferocity that most people tend to stay away.
+  - The tornadoes blew through the town with a ferocity that turned most of the magnificent, century-old homes into matchsticks.
+  - As Joseph boasted about his participation in the fight, Mary Jane saw a look of ferocity on his face that she had never seen before.
+  - The fighters were throwing punches with such ferocity that the referee had to stop the fight in the third round.
+  - Mrs. Davis shouted with such ferocity that the startled boys immediately stopped brawling and stood still to receive their punishment.
+  - The cruelty and ferocity of Blackbeard the pirate inspired many terrifying stories of murder and mayhem on the high seas.
+  - During the 1800s, Indian warriors painted their faces with war paint before battle to give them an appearance of ferocity.
+
+
+
+* [[https://wordsinasentence.com/fervent-in-a-sentence/][Fervent]]
+
+  =exhibiting or marked by great intensity of feeling=
+
+  - The hot topic spurred a fervent debate between the two political parties.
+  - Jack’s fervent love for Kelly encouraged him to tattoo her name on his back.
+  - As your mayoral candidate, I would appreciate your fervent support at the polls!
+  - Because Mark and Katy are fervent fans of the television show, they never miss an episode of the series.
+  -  Since terrorists are fervent about their beliefs, they will do anything to achieve their goals.
+  - Many people believe fervent prayer will make their dreams come true.
+  - Although the candidate made a fervent appeal for votes, he still did not win the election.
+
+
+
+* [[https://wordsinasentence.com/fervid-in-a-sentence/][Fervid]]
+
+  =marked by great passion or zeal=
+
+  - The candidate made a fervid speech that held the audience’s attention.
+  - Because I am concerned about my daughter’s education, I am a fervid supporter of education reform.
+  - Fervid attention from crazed fans has caused many celebrities to hire bodyguards.
+  - The inventor’s fervid imagination allowed him to create many wonderful products.
+  - When the defendant heard the guilty verdict, he made a fervid plea to the judge to be lenient on him.
+  - The man’s fervid actions to save his wife were very heroic.
+  - In hopes of getting an increase in her allowance, my daughter made a fervid statement regarding her need for new clothes.
+
+
+
+* [[https://wordsinasentence.com/fervor-in-a-sentence/][Fervor]]
+
+  =intense and passionate feeling=
+
+  - The terrorist’s fervor made him believe that giving his life for his cause was his purpose in life.
+  - Although I love college football, I do not have the same fervor for the games as those fans that paint their faces with their team colors.
+  - The teacher used his religious fervor as the basis for his refusal to teach his students about the evolution of mankind.
+  - When the airlines increased their fares, passengers responded with fervor about their plans to find alternate travelling means.
+  - Car dealerships offer their salespeople incentives to ignite fervor in hopes of increasing vehicle movement.
+  - When the dead soldier’s mother was shown on national television crying outside of the White House, the action stirred a great deal of anti-patriotic fervor.
+  - The president’s enemies attack him with fervor over the smallest mistakes.
+
+
+
+* [[https://wordsinasentence.com/fetid-in-a-sentence/][Fetid]]
+
+  =having an extremely unpleasant odor=
+
+  - As soon as the detectives opened the door and smelled the fetid odor, they knew there was a dead body in the house.
+  - I refuse to use the fetid public bathroom that looks and smells as though it has not been cleaned in months.
+  - Since Matt did not follow the instructions, his chemistry experiment produced a fetid scent that led to the evacuation of the laboratory.
+  - Kurt has a sensitive stomach and will vomit when he smells anything fetid.
+
+
+
+* [[https://wordsinasentence.com/fickle-in-a-sentence/][Fickle]]
+
+  =changing one’s mind frequently=
+
+  - The fickle weather soon had me changing from my shorts into my thick slacks.
+  - Because John is such a fickle man, he will probably never settle down with one woman.
+  - The fickle little boy could not decide if he wanted the yellow sucker, the green sucker, or the red sucker.
+  - Once we arrived at the movie theater, my fickle sister could not decide which movie she wanted to see.
+  - My fickle daughter often takes two hours to choose an outfit to wear to school.
+  - According to the movers, the fickle woman had them arranging one piece of furniture for several hours.
+  - The fickle customer changed her order several times.
+
+
+
+
+* [[https://wordsinasentence.com/fictitious-in-a-sentence/][Fictitious]]
+
+  =not real; imaginary; made up=
+
+  - I always use a fictitious name when submitting comments online, to maintain my privacy.
+  - That history book is a fictitious work written by an amateur historian without any historical education.
+  - Scott created a fictitious nonprofit organization, funneling his money through it tax free.
+  - Andrew is awesome at spinning fictitious stories out of thin air, which is why he is so good at story-telling.
+
+
+
+* [[https://wordsinasentence.com/figment-in-a-sentence/][Figment]]
+
+  =something that is believed to be real but only exists in imagination=
+
+  - My young daughter claims to have a unicorn as a best friend, but such a thing is clearly a figment of her imagination.
+  - I had an imaginary friend when I was little, but that figment of my imagination left me as I got older.
+  - The crazy man in the asylum said he was playing a game of war with Napoleon Bonaparte, but all things considered that could not be anything other than a figment of his imagination.
+  - The figment I chose as my imaginary friend when I was a child was a dragon, as what young boy does not desire such a companion?
+
+
+
+* [[https://wordsinasentence.com/finicky-in-a-sentence/][Finicky]]
+
+  =overly fussy and particular in regards to taste or standards=
+
+  - The finicky toddler refuses to eat anything other than chicken strips and French fries.
+  - Because her boss is so finicky, the housekeeper makes sure that the carpets are cleaned at least twice a day.
+  - Our dog is finicky and will only eat a certain type of dog food out of his bowl.
+  - Because that type of plan is so finicky, you must make sure to water it every day and give it enough sunlight.
+
+
+
+* [[https://wordsinasentence.com/flagrant-in-a-sentence/][Flagrant]]
+
+  =noticeably bad=
+
+  - After the basketball player committed a flagrant foul, he was kicked out of the game.
+  - The driver’s flagrant disregard for the speeding laws did not escape the police officer’s notice.
+  - When John tells his wife he is working late at the office, he is telling her a flagrant lie because his office building closes at six o’clock.
+  - The bruises on the boy’s legs revealed the flagrant abuse he had suffered at home.
+  - After being punished by the principal, John showed his flagrant attempt for authority by vandalizing the school building.
+  - Phil’s flagrant violation of the team’s drug policy earned him a five game suspension.
+  - When you drive drunk, you show a flagrant disregard for the safety of others.
+
+
+
+* [[https://wordsinasentence.com/flamboyant-in-a-sentence/][Flamboyant]]
+
+  =displaying flashy or loud behavior=
+
+  - The flamboyant singer loves to wear shimmering suits while performing.
+  - When Janice showed me her ring, I realized the flamboyant diamond was bigger than her finger.
+  - Bill is a flamboyant drunk who has been known to dance naked on tables.
+  - Because the singer travels with a large entourage, she always makes a flamboyant entrance.
+  - The outrageous athlete was known for cross-dressing and wearing flamboyant outfits.
+  - Because my aunt wore a flamboyant wig to my wedding, she stood out in the crowded church.
+  - The magician’s flamboyant act included fireworks and a live tiger.
+
+
+
+* [[https://wordsinasentence.com/flaunt-in-a-sentence/][Flaunt]]
+
+  =to show off (brag)=
+
+  - Eric loves to flaunt his flashy clothes because he thinks that he is super cool.
+  - Veronica doesn’t like to flaunt her knowledge, but we all know that she is smarter than the rest of us.
+  - Donald Trump loves to flaunt his wealth and grandiose, whenever he has the chance.
+  - I hate how Maria always leaves her shirt sleeve rolled up, so she can flaunt her expensive watch.
+
+
+
+
+* [[https://wordsinasentence.com/flippant-in-a-sentence/][Flippant]]
+
+  =lacking proper respect or seriousness=
+
+  - The student’s flippant actions towards the teacher got him suspended from school.
+  - If you are flippant during your job interview, you will not be offered a position.
+  - My flippant response earned me an angry glance from my instructor.
+  - Although my apology to the judge sounded flippant, I was really sorry for my actions.
+  - Everyone was shocked when the well-behaved young man made a flippant remark to his grandmother.
+  - Did you really expect the professor to waste valuable time answering your flippant question?
+  - Even though Larry knew his mother wanted a serious answer, he still gave her a flippant response.
+
+
+
+* [[https://wordsinasentence.com/florid-in-a-sentence/][Florid]]
+
+  =to have a red or rosy complexion=
+
+  - The police officer was florid after being held up by a six-year old boy with a water pistol.
+  - Her face is florid because she just returned from a two week vacation in Miami.
+  - After being embarrassed by a marriage proposal at the basketball game, my sister had a florid face.
+  - Jane’s normally ashen face was florid because of her sunburn.
+  - When the bride learned her groom had left her at the altar, her face became florid.
+  - When my father gets florid, his face looks like a wrinkly, red tomato.
+  - Since he slept outside, the homeless man had a florid face and wore dirty clothing.
+
+
+
+* [[https://wordsinasentence.com/flounder-in-a-sentence/][Flounder]]
+
+  =to act clumsily or confused=
+
+  - The new swimmer had to flounder in the deep end until the lifeguard dragged him to safety.
+  - Unused to skating, the rookie hockey player would flounder on the ice until he learned to skate.
+  - After it hit the iceberg, the Titanic was left to flounder in the Atlantic Ocean before it finally sank.
+  - My father was afraid that I would flounder as I learned to ride a bike, so he never let go of the seat.
+
+
+
+* [[https://wordsinasentence.com/flourish-in-a-sentence/][Flourish]]
+
+  =to develop well=
+
+  - The fertile ground and ample water supply will allow the crops to flourish.
+  - With the assistance of a caring mentor, Jill was able to flourish academically and socially at her new school.
+  - The music department needs to raise money if it wants to have new instruments that allow the students to flourish.
+  - In our school, young people are able to flourish in a student-centered environment.
+  - Scientists were not surprised when the saltwater fish failed to flourish in the lake.
+  - After being held captive in a zoo for six years, the tiger did not flourish very well in the wild.
+  - The purpose of the meeting is to figure out why our company is failing to flourish in such a healthy economy.
+
+
+
+* [[https://wordsinasentence.com/flout-in-a-sentence/][Flout]]
+
+  =to intentionally disobey (a law, rule, convention)=
+
+  - People find themselves in trouble because they think they’re clever enough to flout the law without getting caught.
+  - Once you flout the regulations of the IRS, you will likely spend a long time trying to get out of the hole you dug for yourself.
+  - If you’re a person who likes to flout authority, you could land in jail, but you could also end up being very successful.
+  - Safety guidelines exist for a reason, and if you flout them, there could be serious consequences.
+  - Many Amber Alerts involve children whose parents have decided to flout the orders of divorce court and abduct their own children.
+  - Because Marcy is someone who likes to flout convention, she went to church last Sunday wearing a sequined cocktail dress.
+  - Some of these daredevils who flout danger for a living are most likely adrenaline junkies.
+
+
+
+* [[https://wordsinasentence.com/fluffy-in-a-sentence/][Fluffy]]
+
+  =to be furry or soft=
+
+  - Karen’s fluffy cat would brush up against me with her soft fur, but it would leave cat hair on my pant’s leg.
+  - Since I have children who frequently play on the floor, I knew I wanted to install fluffy carpet for comfort.
+  - When a child was admitted to the hospital, he or she would receive a fluffy stuffed animal to comfort him or her.
+  - After an exhausting day, my head sunk down into the fluffy pillow as I quickly went to sleep.
+
+
+
+* [[https://wordsinasentence.com/fluorescent-in-a-sentence/][Fluorescent]]
+
+  =very bright and easy to see=
+
+  - Attracted to the fluorescent light, a swarm of bugs congregated around the porch.
+  - In order for the aquarium to reopen, the maintenance team had to replace the existing lighting with new fluorescent lights.
+  - The newly installed fluorescent lights lit the once dark sidewalks, allowing pedestrians to stay out later than usual.
+  - The fluorescent lights shined down on her shoes, causing them to appear a dark shade of green.
+
+
+
+* [[https://wordsinasentence.com/flustered-in-a-sentence/][Flustered]]
+
+  =distressed and/or confused=
+
+  - The flustered defendant began to yell at the prosecutor.
+  - As a police officer, Bill knows the importance of not getting flustered when dealing with a rowdy suspect.
+  - The inexperienced actor became flustered when he forgot his lines during his audition.
+  - Because I hate to be the center of attention, I always become flustered when the teacher calls my name in class.
+
+
+
+* [[https://wordsinasentence.com/foible-in-a-sentence/][Foible]]
+
+  =a minor flaw or shortcoming in character or behavior=
+
+  - Smoking is the foible that prevents Jenna from being healthy.
+  - Although many people consider Bob’s impatience as a foible, I view it as a passion to get things done.
+  - Jake’s only foible is his weakness for the gambling tables.
+  - Because I only smoke when I am nervous, I do not consider my smoking habit to be a foible.
+  - I love my husband even when he is showing his worst foible and being somewhat obnoxious.
+  - While I try and be patient with everyone, dishonesty is one foible I cannot tolerate.
+  - Wallace’s habit of talking before thinking is his most unpleasant foible.
+
+
+
+* [[https://wordsinasentence.com/folly-in-a-sentence/][Folly]]
+
+  =an action where wisdom is absent=
+
+  - In the film, the elderly man’s folly was marrying a gold-digger who only wanted his money.
+  - It was obvious the city’s folly was not being properly prepared for the hurricane that nearly destroyed it.
+  - Unfortunately, the man’s act of folly in the casino caused him to lose everything he owned.
+  - Going shopping on Christmas Eve was my husband’s worst folly ever.
+  - The folly that got Jim arrested was hanging out with the gang of robbers.
+  - Who would be stupid enough to commit the folly of buying a failing business in a small town?
+  - Frank made a huge folly when he depended upon an unreliable friend to help finish his literature project.
+
+
+
+* [[https://wordsinasentence.com/forbear-in-a-sentence/][Forbear]]
+
+  =to not engage in something; to refrain=
+
+  - Since Catie did not have a date for the prom, she chose to forbear attending the event.
+  - Ted will forbear voting in the election because he does not feel any of the candidates are worthy of public office.
+  - While Helen is on a diet, she will forbear her craving for sweets.
+  - Although the joke was racially offensive, I could not forbear laughing at it.
+
+
+
+* [[https://wordsinasentence.com/foreshadow-in-a-sentence/][Foreshadow]]
+
+  =to indicate or signal beforehand that something is going to happen=
+
+  - Telling lies up front in a relationship can foreshadow serious problems down the road.
+  - A good author is able to foreshadow events that will take place later in his or her story.
+  - A collapse in the housing market will often foreshadow a general economic collapse.
+  - The physic indicated his visions were a way to foreshadow an unfortunate event.
+  - It seemed that the anti-drunk driving sticker was there to foreshadow his fate, leaving him victim of an irresponsible driver.
+  - The dissolving of peace treaties often works to foreshadow an inevitable war.
+  - He used the storm to foreshadow the death of his protagonist in a violent storm at sea.
+
+
+
+* [[https://wordsinasentence.com/forestall-in-a-sentence/][Forestall]]
+
+  =to stop something from happening=
+
+  - To forestall the bank from foreclosing on his home, Jack sold all of his personal belongings to catch up on his mortgage payments.
+  - Liquor stores are required to check identification for anyone who looks under thirty in order to forestall underage driving.
+  - Fortunately at the last minute, a mediator was able to talk to the two world leaders and forestall a war.
+  - The government is hoping the distribution of stimulus checks will be enough to forestall a severe recession.
+
+
+
+* [[https://wordsinasentence.com/forfeit-in-a-sentence/][Forfeit]]
+
+  =to lose or give up something=
+
+  - A lack of players caused the team to forfeit the game.
+  - To ensure his employees get a holiday bonus, the company president will forfeit his own surplus.
+  - James was told to forfeit all contact with convicted felons if he did not want to violate the terms of his parole.
+  - With that phone plan, Jack will have to forfeit any unused minutes because they will not rollover.
+
+
+
+* [[https://wordsinasentence.com/forlorn-in-a-sentence/][Forlorn]]
+
+  =lonely and miserable=
+
+  - The forlorn man was so sad he thought about killing himself.
+  - When we visit the nursing home, we try to spend extra time with all of the forlorn senior citizens.
+  - The forlorn widow was so unhappy she stopped eating.
+  - Since Jake works so much, he does not realize his wife is forlorn because she rarely gets to spend time with him.
+  - Jake was forlorn after his girlfriend moved out without any warning.
+  - At the bus stop, the anxious little girl cast a forlorn look at her father before stepping on the school bus for the first time.
+  - The new girl was forlorn as she sat alone in the cafeteria.
+
+
+
+* [[https://wordsinasentence.com/forsake-in-a-sentence/][Forsake]]
+
+  =to give up or abandon=
+
+  - In order to be a nun, you must forsake all things which might interfere with your ability to dedicate your life to Christ.
+  - Jane has decided to forsake her participation in basketball until she improves her grades.
+  - In the military, you are asked to forsake your own needs for the needs of your country.
+  - The mentor hoped to encourage his ward to forsake his criminal behavior.
+
+
+
+* [[https://wordsinasentence.com/forte-in-a-sentence/][Forte]]
+
+  =an area in which an individual excels=
+
+  - Although dancing was Ann’s forte, she never considered having a career in entertainment.
+  - Tom knew comedy was not his forte when he failed to get a laugh from the friendly audience.
+  - Because cooking is not Cheryl’s forte, she orders out a great deal.
+  - I have to study hard in chemistry because the subject is definitely not my forte.
+
+
+
+* [[https://wordsinasentence.com/fortify-in-a-sentence/][Fortify]]
+
+  =to strengthen=
+
+  - Storm shutters a good way to fortify your windows and prevent hurricane damage.
+  - With the enemy approaching, they worked to fortify their defenses.
+  - The stone wall was the first step, but they needed more to properly fortify the city.
+  - Modern clothing often uses nylon to fortify cotton and make it tougher.
+  - Many nutritionists actually argue that it is harmful to fortify milk with extra ingredients.
+  - He purchased Kevlar plates to fortify his vehicle against gunfire.
+  - To the religious, faith is a great way to fortify your spirit.
+
+
+
+* [[https://wordsinasentence.com/fortitude-in-a-sentence/][Fortitude]]
+
+  =strength of mind that enables a person to face challenges with courage=
+
+  - Even though the soldiers knew the odds were not in their favor, they had the fortitude to continue fighting.
+  - Most successful businessmen are not afraid to show fortitude when they face failure.
+  - Although William was dying from cancer, he still displayed great fortitude by keeping on a positive face in front of his family.
+  - The small boy’s fortitude allowed him to stand up to the school bully.
+  - Even though the little girl was frightened of the tornado, she had the fortitude to get herself and her younger brother into the safest area of their home.
+  - My Aunt Jane will need all the fortitude she possesses to deal with her newborn quadruplets.
+  - Although Mark was the smallest wrestler in the competition, his fortitude allowed him to take him the trophy.
+
+
+
+* [[https://wordsinasentence.com/fortuitous-in-a-sentence/][Fortuitous]]
+
+  =happening by accident or chance=
+
+  - Mark proved to be fortuitous by selecting all six winning lotto numbers.
+  - It was a fortuitous coincidence that led the couple to meet at a football game twenty years ago.
+  - When Ellen had given up hope her car would start, a fortuitous encounter with a neighbor got her back on the road.
+  - If not for fortuitous events which increased her bank account, Sarah would never have been able to return to college.
+  - The decrease in unemployment is not a fortuitous result.
+  - Fortuitous and life-changing, Sam’s acceptance of Christ allowed him to move on after his wife’s death.
+  - Just as the bank was about to foreclose on the Smith family home, Mr. Smith received a fortuitous job offer.
+
+
+
+* [[https://wordsinasentence.com/fractious-in-a-sentence/][Fractious]]
+
+  =hard to manage or control=
+
+  - The inexperienced teacher found the fractious students difficult to control.
+  - During the concert, police officers were on hand just in case the crowd became fractious.
+  - The fractious child would not listen to a word his mother said.
+  - As a new manager, Hank is not used to dealing with fractious employees who do not follow directions.
+  - The fractious dog would not obey its owner’s commands.
+  - When the rebels’ group leader died, the group became fractious and unable to work as a unit.
+  - The principal gave the fractious students detention for misbehaving in the cafeteria.
+
+
+
+* [[https://wordsinasentence.com/frail-in-a-sentence/][Frail]]
+
+  =weak and delicate=
+
+  - Listening to his father’s frail voice as he laid on his death bed, Victor became overwhelmed with emotion.
+  - The frail old lady was having a hard time carrying her suitcase to her room, so I offered my help.
+  - We were warned not to step out onto the frail balcony, because the storm had knocked off some of its support beams.
+  - The bridge was declared to be too frail for use after it was inspected by government officials, which is why it was demolished.
+
+
+
+* [[https://wordsinasentence.com/frantic-in-a-sentence/][Frantic]]
+
+  =in a state of panic, worry, frenzy or rush=
+
+  - The frantic squirrel ran around Sophia’s house in a state of panic after it jumped through her kitchen window.
+  - When Billy did not come home after school, his mother became frantic with worry.
+  - Frantic efforts to locate the lost child continued, despite the fact that rain was coming down in sheets.
+  - The frantic thug raced into oncoming traffic in his desperate attempt to flee from the cops.
+
+
+
+* [[https://wordsinasentence.com/fraudulent-in-a-sentence/][Fraudulent]]
+
+  =dishonest; based on fraud or deception=
+
+  - It came as a shock to us that our friendly neighbor was really a fraudulent person who had ties to the mob.
+  - The guy standing in front of me at the bank tried to cash a fraudulent check, which landed him in prison.
+  - Although many people think that George is an honest guy, I believe that he is a fraudulent person because of the deceptive look in his eyes.
+  - Rick admitted that he had filed fraudulent tax returns because he was trying to save money.
+
+
+
+* [[https://wordsinasentence.com/fraught-in-a-sentence/][Fraught]]
+
+  =full of; accompanied by=
+
+  - The treasure hunt was fraught with puzzles that had to be solved in order to find the fortune.
+  - Because Jim and Hazel’s marriage had been fraught with issues for years, it came as no surprise to anyone when Hazel filed for divorce.
+  -  The talk of war is fraught with difficult discussions about cost and manpower.
+  - Although I am not concerned about the trip through the jungle, I do know the journey will be fraught with risks.
+  - When my son did not arrive home on time, I was fraught with fear.
+  - During the riots, the streets were fraught with danger.
+  - Because AIDS is a disease which is fraught with pain and suffering, many people prefer not to think about it.
+
+
+
+* [[https://wordsinasentence.com/fray-in-a-sentence/][Fray]]
+
+  =a fight, battle, or skirmish=
+
+  - Soon the mob joined the fray, and began swinging at their opponents with clubs.
+  - As this year’s election heats up, more and more politicians are being drawn into the fray.
+  - When America was attacked at Pearl Harbor, they hurried to enter the fray.
+  - After sustaining damage to his upper lip during a boxing match, Carl got patched up and reentered the fray.
+
+
+
+* [[https://wordsinasentence.com/frenetic-in-a-sentence/][Frenetic]]
+
+  =fast, frantic, harried, or frenzied=
+
+  - After keeping up a frenetic pace trying to keep up with classes, work, and family, Marcy felt like she was on the brink of a nervous breakdown.
+  - My husband doesn’t go to a movie unless it is full of the frenetic action of car chases, mob scenes, fights, and intense special effects.
+  - Yesterday the sales floor was even more frenetic than usual because of the big clearance sale.
+  - Although most people believe that the celebrity couple maintains a frenetic lifestyle, all the stories are pure publicity schemes.
+  - When they got home, they found that the apartment had been turned upside down, as if someone had conducted a frenetic search for something valuable.
+  - This exercise program is so excellent for weight loss because the frenetic tempo of the music really helps burn the calories.
+  - Although the Emergency Room seemed no more than a hive of frenetic activity after the bus crash, every doctor and nurse was performing at top efficiency.
+
+
+
+* [[https://wordsinasentence.com/fret-in-a-sentence/][Fret]]
+
+  =worry; be anxious=
+
+  - After she lost the part in the school play, she would sit and fret about her situation.
+  - My grandma told me not to fret about dicing the potatoes the same size.
+  - When the baby would fret during service, my mother would take her out to the lobby.
+  - Known as a perfectionist, the seamstress would fret over her stitching.
+
+
+
+* [[https://wordsinasentence.com/frigid-in-a-sentence/][Frigid]]
+
+  =emotionally cold; indifferent=
+
+  - My frigid aunt did not crack a smile when she saw my adorable newborn.
+  - Since Janice grew up in a frigid household, she did not know the right way to express her emotions.
+  - Harry’s wife calls him frigid because he keeps his feelings to himself.
+  - Because I knew my frigid professor would be indifferent to my excuse, I did not bother to give a reason for my tardiness.
+
+
+
+* [[https://wordsinasentence.com/frisky-in-a-sentence/][Frisky]]
+
+  =full of playful and lively energy=
+
+  - Our frisky little terrier is always running after something in the yard.
+  - Though he is almost ninety, the frisky old-man is still as energetic as ever.
+  - Mya’s puppy sleeps all the time, but mine is frisky and likes to play.
+  - Chasing after the mouse, the frisky little liked to play as if he would capture it.
+
+
+
+* [[https://wordsinasentence.com/frivolity-in-a-sentence/][Frivolity]]
+
+  =that which is not necessary or meaningful=
+
+  - The spoiled heiress is known for her frivolity and once purchased fifty identical dresses so no one could copy her look.
+  - When the professor made us pass a beach ball around the room, I knew today’s lecture was going to be fun and filled with frivolity.
+  - Because Cheryl needed a break from the stress of her job and family, she was happy to head off to the frivolity of the costume party.
+  - To the monk, owning more than one pair of shoes was a frivolity.
+
+
+
+* [[https://wordsinasentence.com/frivolous-in-a-sentence/][Frivolous]]
+
+  =of no real worth=
+
+  - My mother often spends her monthly pension on frivolous purchases she never uses.
+  - When Jane gave me a frivolous apology, I was unimpressed by her fake sincerity.
+  - Students who consider test instructions to be frivolous often fail exams.
+  - As soon as the judge heard the details of the frivolous lawsuit, he dismissed the case.
+  - There is no way the court will listen to your frivolous appeal!
+  - Although the purchase of the abandoned pit seemed frivolous, the recent gold discovery has proven the area’s true worth.
+  - Spending money on lottery tickets when you cannot pay your bills seems a bit frivolous to me.
+
+
+
+* [[https://wordsinasentence.com/frugal-in-a-sentence/][Frugal]]
+
+  =careful in spending money=
+
+  - Stop being so frugal and just buy me a real gold necklace!
+  - Fran is a frugal person because she spends endless hours clipping coupons.
+  - I wanted front row seats, but my frugal husband wanted to save a bundle by purchasing back row seats.
+  - Because our company is frugal, we have to recycle all paper and plastic items.
+  - Buying in bulk to save a few dollars is part of my frugal lifestyle.
+  - I specifically requested the expensive brand; but no, you chose to be frugal.
+  - Brian, a frugal man, would cut his own hair to save money.
+
+
+
+* [[https://wordsinasentence.com/fulsome-in-a-sentence/][Fulsome]]
+
+  =extreme flattering to the point of excess=
+
+  - The stranger’s fulsome attention put me on edge.
+  - In an attempt to earn a promotion, Sarah offended her boss with her fulsome compliments.
+  - I can always count on my best friend to be honest with me and not fulsome when telling me how I really look.
+  - Although Cara is very pretty, she rarely goes out with her friends because she does not like men approaching her with fulsome flattery.
+  - Whenever someone gives the president fulsome compliments, he always questions their motives.
+  - Because I knew Cathy hated me, I did not believe her fulsome praise for a moment.
+  - The salesman did not realize his fulsome compliments were so excessive they actually turned off prospective customers.
+
+
+
+* [[https://wordsinasentence.com/fumigate-in-a-sentence/][Fumigate]]
+
+  =to cleanse or sterilize an area using a gas or vapor substance=
+
+  - An infestation of roaches caused a hired exterminator to demand everyone to leave the house since he would fumigate it with a hazy material.
+  - You can really only get rid of termites if you are willing to tent your house and fumigate it with a pesticide spray.
+  - At first when I noticed the fumes in the room, I thought it was a fire until I forgot that my husband needed to fumigate the house to rid it of fleas.
+  - If you have bedbugs and need to fumigate your house, you must leave since your lungs can’t handle the strong gas of the bug killer.
+
+
+
+* [[https://wordsinasentence.com/furtive-in-a-sentence/][Furtive]]
+
+  =marked by quiet, caution, and secrecy=
+
+  - Crissy walked outside in a furtive manner so that her parents would not see her.
+  - Students who cheat on tests employ their furtive tactics to avoid getting caught.
+  - Though he was furtive with his tears, I could still visibly see them.
+  - In the stakeout, investigators recorded video footage, furtive to the people of interest, to make a strong case.
+  - When the boss was not looking, the furtive employer sent text messages to friends.
+  - Timothy made furtive glances to his crush rather than making apparent eye contact.
+  - Mexican prisoners made a furtive escape by digging a tunnel, leaving police officials in disbelief in how this was secretly accomplished.
+
+
+
+* [[https://wordsinasentence.com/fussy-in-a-sentence/][Fussy]]
+
+  =hard to please=
+
+  - Refusing to be soothed, the fussy baby whined and cried all night long.
+  - My fussy sister always complains and is never satisfied with the way the beautician does her hair.
+  - Fussy freshman stuck their noses up at the cafeteria food and weren’t pleased with their course list either.
+  - My husband thinks that I am too fussy when it comes to laundry, but I think it’s good to be particular.
+
+
+
+* [[https://wordsinasentence.com/fallacy-in-a-sentence/][Fallacy]]
+
+  =an idea or belief that is false but many people think is true=
+
+  - Having money makes you happy is a fallacy because happiness has nothing to do with wealth.
+  - While the business plan sounds good on paper, it is built on the fallacy that people will pay thirty dollars to see a movie.
+  - Because that fallacy is so ridiculous, I cannot understand how you believe it!
+  - Mark’s fallacy on the workings of the stock market caused us all to lose a great deal of money.
+  - It is a fallacy to assume all poor people are uneducated.
+  - During the debate, the fallacy of John’s argument was apparent to everyone.
+  - After the patient did not feel better within three days, the doctor realized the fallacy of treating the illness with antibiotics.
+
+
+
+* [[https://wordsinasentence.com/famished-in-a-sentence/][Famished]]
+
+  =extremely hungry=
+
+  - The man had not eaten for days, so when I asked if he was hungry he responded by saying “I’m famished.”
+  - The boy looked absolutely famished, his body nothing but skin and bones.
+  - Though many people experience hunger, few ever understand what it is like to truly be famished.
+  - The homeless of the world are often left famished, happy to get even scraps of food.
+  - Since she had fasted all day yesterday, the woman was absolutely famished.
+  - Though he was likely famished from the demonstration, Gandhi starved himself during his hunger strike.
+  - He was so famished that he ate an entire tray of sandwiches.
+
+
+
+* [[https://wordsinasentence.com/fatal-in-a-sentence/][Fatal]]
+
+  =causes death or leads to a disaster=
+
+  - Dropping a fatal dose of poison into the goblet, the evil queen smiled down at her deathly elixir.
+  - Without an antidote to treat the patient, the poisonous snakebite would prove fatal.
+  - A fatal crash during the blizzard claimed the lives of two prominent senators.
+  - The dive instructors explained that although a rare occurrence, fatal shark attacks do occur during dives.
+
+
+
+* [[https://wordsinasentence.com/fathom-in-a-sentence/][Fathom]]
+
+  =to penetrate for understanding=
+
+  - Since I have always done my work, I cannot fathom why my boss just fired me.
+  - Jackson could not fathom the solution to the complex puzzle.
+  - Miriam found it difficult to fathom her husband’s unpredictable habits.
+  - As an avid lover of jazz music, I cannot fathom how anyone can listen to any other type of music.
+  - As a strict vegetarian, I am unable to fathom the concept of a meat craving.
+  - Many people find it difficult to fathom abstract works of art.
+  - Even though I have thought about it for quite a while, I still cannot fathom why the heiress is going to marry a homeless man.
+
+
+
+* [[https://wordsinasentence.com/fatuity-in-a-sentence/][Fatuity]]
+
+  =pointless foolishness and stupidity=
+
+  - Even in his 40’s, the irresponsible man spent most of his salary on video games and other fatuity.
+  - The woman tried to convince her husband that playing the lottery is senseless fatuity and would lead to nothing.
+  - Fatuity and silliness during class caused the boy to fail most of his midterms.
+  - Although he considered his pranks funny, his irritated victims saw them as childish fatuity.
+
+
+
+* [[https://wordsinasentence.com/faze-in-a-sentence/][Faze]]
+
+  =unnerve; disturb=
+
+  - Negative comments aimed at the politician did not faze his nerves of steel.
+  - Interviewers were unable to faze the relaxed applicant.
+  - Confident and self-assured, the mix-up in music did not faze the poised ballerina.
+  - Even extreme blows from his tough competitor did not faze the prize-winning fighter.
+
+
+
+* [[https://wordsinasentence.com/fealty-in-a-sentence/][Fealty]]
+
+  =an official acknowledgment of loyalty=
+
+  - When the president took his oath, he swore fealty to the nation.
+  - The knight swore fealty to the king and his kingdom.
+  - Before joining the army, Danielle will declare her fealty to her country.
+  - The soldier maintained his fealty to his country even when he was being tortured by the enemy.
+
+
+
+* [[https://wordsinasentence.com/feat-in-a-sentence/][Feat]]
+
+  =a deed of courage, endurance, skill, or cleverness=
+
+  - The man was honored when the king learned of his feat.
+  - In order to achieve the feat, the knight must slay the dragon.
+  - It is a rare feat when an archer hits the center target twenty times in a row.
+  - Winning the marathon was a feat for the one-legged athlete.
+
+
+
+* [[https://wordsinasentence.com/febrile-in-a-sentence/][Febrile]]
+
+  =associated with a fever=
+
+  - The mother gave her febrile son acetaminophen to bring down his body temperature.
+  - If you get the febrile illness, you will have a fever for several weeks.
+  - My mother touched my forehead to see if I had a febrile sickness.
+  - When I was in the hospital, the nurses checked my temperature often to assess my febrile response to the infection.
+
+
+
+* [[https://wordsinasentence.com/feeble-in-a-sentence/][Feeble]]
+
+  =lacking strength; weak=
+
+  - The injured man was so feeble he could not get off the floor.
+  - Because my eyesight is too feeble, I cannot get a driver’s license.
+  - Gary’s feeble attempt to win the race did not earn him a trophy.
+  - As the cancer worsened, Katy lost all of her energy and became extremely feeble.
+  - The nurse had to bathe the feeble old woman.
+  - Although Jack was feeble for months after his surgery, he is now healthy enough to run a marathon.
+  - The flu virus drained all of my energy and made me feeble.
+
+
+
+* [[https://wordsinasentence.com/feint-in-a-sentence/][Feint]]
+
+  =a deceptive look or act=
+
+  - The child’s feint involved pretending to be ill so he would not have to face his bullies at school.
+  - Looking at the surveillance tapes, the security chief quickly noticed the feint the man used to steal watches from the jeweler.
+  - The police watched as the drug dealer swapped duffel bags during the feint.
+  - Now the jury must decide if the plaintiff is presenting a feint to win a settlement or if he has sustained an injury caused by the defendant.
+  - The basketball player exhibited a clever feint when he pretended to pass the ball and then leaped up for the game-winning shot.
+  - Although Miss America wore a feint of joy to hide her feelings, she was upset about placing second in the Miss Universe competition.
+  - The casino was not fooled by the man’s feint of innocence when he was caught cheating at blackjack.
+
+
+
+* [[https://wordsinasentence.com/feisty-in-a-sentence/][Feisty]]
+
+  =aggressively energetic; courageous=
+
+  - Always ready for a fight, the feisty Chihuahua’s bark was much bigger than his bite.
+  - The shy sister always depended on her feisty siblings to stand up for her during difficult times.
+  - The feisty salesman’s go-getting attitude made him a shoe-in for the department promotion.
+  - A full-blooded match between the two feisty teams ended in a 1 to 0 win for the underdogs.
+
+
+
+* [[https://wordsinasentence.com/felicitate-in-a-sentence/][Felicitate]]
+
+  =to congratulate=
+
+  - Cards and gifts arrived by mail to felicitate the graduate on his academic achievements.
+  - The ornate shawl was given by the tribe to felicitate the woman on the birth of her new baby.
+  - Contestants from other states rushed to felicitate the winner of the pageant.
+  - Although he was disappointed by the loss, the defeated incumbent candidate walked over to felicitate his successor.
+
+
+
+* [[https://wordsinasentence.com/felicitous-in-a-sentence/][Felicitous]]
+
+  =pleasant or delightful=
+
+  - The felicitous music made me happy.
+  - Because my daughter is such a happy person, Holly is a felicitous name for her.
+  - Although I normally hate eating at my mother-in-law’s house, last night I enjoyed a felicitous meal there.
+  - When my girlfriends and I get together, we always enjoy felicitous conversation.
+  - Since I have plans to go to the beach today, I hope the weather is felicitous.
+  - By adding the festive decorations, you have turned this dull room into a felicitous area.
+  - Jenna could think of nothing more felicitous than spending the entire weekend with her family.
+
+
+
+* [[https://wordsinasentence.com/feline-in-a-sentence/][Feline]]
+
+  =looking or moving like a cat=
+
+  - Broadway stars for the award-winning musical quickly dressed in their feline costumes and meowed as the pounced onto the stage.
+  - Scaling the mountain like a feline, the courageous adventurer was able to climb even the most difficult portions.
+  - The feline spy crouched behind the barrels and eavesdropped on the enemy’s conversation.
+  - Moving with a feline grace, the competitor shifted through the obstacle course in record time.
+
+
+
+* [[https://wordsinasentence.com/felon-in-a-sentence/][Felon]]
+
+  =a person who has committed a felony or been convicted of a felony=
+
+  - Previously convicted for armed robbery in 1998, the dangerous felon gets five years in prison for possessing a high-powered rifle and multiple rounds of ammunition.
+
+
+
+* [[https://wordsinasentence.com/feral-in-a-sentence/][Feral]]
+
+  =unruly or wild, often related to animals=
+
+  - The feral dog would not approach humans.
+  - After living in the forest for five years, the child had become feral and no longer knew how to act like a human.
+  - The animal trainer believes he can teach the feral cat how to behave in a friendly manner.
+  - Because the horse is feral, it will be a while before it will be tame enough to be ridden.
+
+
+
+* [[https://wordsinasentence.com/fiat-in-a-sentence/][Fiat]]
+
+  =a commanding order=
+
+  - The dictator rules his country by fiat and expects everyone to obey his orders.
+  - If citizens do not monitor the government, they could be controlled by the fiat of a small group of people.
+  - The restaurant manager issued a fiat stating employees could not place their vehicles in the customer parking area.
+  - When the president issued a fiat giving a longtime friend a pardon, the public was outraged.
+
+
+
+* [[https://wordsinasentence.com/filial-in-a-sentence/][Filial]]
+
+  =pertaining to a son or daughter=
+
+  - Frank has a filial affection for the uncle who raised him.
+  - On Father’s Day, a large number of visitors entered the town cemetery to pay filial respect to the men who gave them life.
+  - Chuck believes it is his filial duty to send money home to his parents each month.
+  - In many cultures, adult children often care for their elders as part of their filial responsibility.
+  - Although Chad loved his father, he found it difficult to display filial devotion to the man who physically abused him as a child.
+  - Susan never moved out of her family home because of her filial duty to her ill mother.
+  - When Jimmy’s father deserted him at a young age, Jimmy found it impossible to have any filial affection for the man.
+
+
+
+* [[https://wordsinasentence.com/filibuster-in-a-sentence/][Filibuster]]
+
+  =a delaying tactic; a long speech given in order to delay progress or the making of a decision=
+
+  - The senator will filibuster to prevent a vote on the bill.
+  - John will filibuster, talking the gun bill to death.
+  - The filibuster took so long that everyone left the Senate.
+  - Strom Thurmond’s senate filibuster lasted over 24 hours.
+
+
+
+* [[https://wordsinasentence.com/finagle-in-a-sentence/][Finagle]]
+
+  =to acquire something by deception or scam=
+
+  - In order to finagle getting the candy from his father before dinner, the little boy explained to his dad that mom was serving dinner at a much later time.
+  - The only way for Paul to get a better grade in his math class was for him to finagle the software program into printing the wrong grade on his report card.
+  - It is sad that telemarketers will purposefully call elderly citizens to try to finagle them out of their money.
+  - Since the teenager couldn’t afford to pay for his credit card payment, he decided to finagle the company by telling them that his credit card was stolen a few weeks ago.
+
+
+
+* [[https://wordsinasentence.com/finale-in-a-sentence/][Finale]]
+
+  =the grand end of something especially a show or piece of music=
+
+  - I was on the edge of my seat last night while watching the finale of my favorite television show.
+
+
+
+* [[https://wordsinasentence.com/fiscal-in-a-sentence/][Fiscal]]
+
+  =associated with financial affairs=
+
+  - My daughter lacks a sense of fiscal duty and rarely pays her bills on time.
+  - When the fiscal expert reviewed the company’s cash flow, he realized funds were missing from several accounts.
+  - The firm’s accountant is responsible for keeping track of our fiscal matters.
+  - If the country wants to avoid an economic crisis, legislators need to rewrite the current fiscal policies.
+
+
+
+* [[https://wordsinasentence.com/fissure-in-a-sentence/][Fissure]]
+
+  =a narrow opening or crack=
+
+  - The homeowners were dismayed to discover a fissure in the foundation of their home.
+  - A fissure in the glass of the fish tank caused a slow leak.
+  - After the earthquake, a fissure lined the street outside.
+  - The doctor examined the patient, determining the diagnosis to be a skin fissure.
+
+
+
+* [[https://wordsinasentence.com/fitful-in-a-sentence/][Fitful]]
+
+  =unsteady; erratic=
+
+  - Jim was tired when he woke up after a fitful night of sleep.
+  - When I visited the doctor, he was concerned about my fitful heartbeat and ordered an EKG.
+  - The intoxicated man walked in a fitful manner to the restroom.
+  - Because the weather has been fitful lately, we are not sure if our outdoor wedding is going to take place.
+
+
+
+* [[https://wordsinasentence.com/flaccid-in-a-sentence/][Flaccid]]
+
+  =short on force or strength=
+
+  - The flaccid wind did not stir the chimes on the front porch.
+  - Because of flaccid support, the bill will not be introduced in the upcoming legislative session.
+  - The local union is a flaccid organization that lacks the power to negotiate higher wages for its members.
+  - If the flaccid principal does not enforce rules against gang activities, he will lose his school to drugs and violence.
+
+
+
+* [[https://wordsinasentence.com/flagellate-in-a-sentence/][Flagellate]]
+
+  =to punish by severely whipping for a certain purpose=
+
+  - American citizens feared the courts would flagellate them for vandalizing cars in Singapore leaving strap marks on their backs.
+  - Believed to be abuse, the parents’ use of punishment for their children was to flagellate them using a heavy belt.
+  - When Sarah’s sister refused to return her cashmere sweater, Sarah took it upon herself to flagellate her sister’s arm leaving a large red mark.
+  - During the religious ceremony, the members were required to flagellate themselves with the sacred rod as an act of devotion to their god.
+
+
+
+* [[https://wordsinasentence.com/flair-in-a-sentence/][Flair]]
+
+  =the natural capability to do something very well=
+
+  - Anna demonstrated her flair for drama by passing out when her daughter announced she was not going to college.
+  - Because Sally has a flair for culinary arts, she is often asked by her friends to cater their special events.
+  - It is obvious from David’s mumbling that he does not have a flair for public speaking.
+  - Since Rich has a flair for storytelling, it is not surprising that he is a popular children’s author.
+
+
+
+* [[https://wordsinasentence.com/flak-in-a-sentence/][Flak]]
+
+  =adverse criticism=
+
+  - The unhappy customer gave George flak for the long wait time.
+  - Afraid of the flak he would receive, Ron waited to tell his dad about the broken window.
+  - The company received a lot of flak for the product they recalled.
+  - My rowdy personality caught a lot of flak from teachers in school.
+
+
+
+* [[https://wordsinasentence.com/flinch-in-a-sentence/][Flinch]]
+
+  =to cringe or jump slightly unintentionally=
+
+  - The young boy would flinch when the bee buzzed right next to his ear causing his head to turn suddenly away from the bee.
+  - While the robber was trying to sneak into the house, he noticed the two young girls flinch at the sound of the glass breaking by their bodies’ slight movement.
+  - While shooting a gun, I would always flinch at the loud sound causing the gun to bounce upward.
+  - Detonation of the fire alarm suddenly caused the children to flinch shifting them in their seats.
+
+
+
+* [[https://wordsinasentence.com/floppy-in-a-sentence/][Floppy]]
+
+  =limp or loose=
+
+  - The rabbit’s floppy ears bounced around as it hopped through the tall grass.
+  - Walking in floppy footwear, the woman’s children laughed at the way her sandals bounced up and down.
+  - With her floppy hat drooping over her eyes, the woman sunbathed on the beach for several hours.
+  - A huge, floppy overcoat was so loose that it seemed to swallow the wearer whole.
+
+
+
+* [[https://wordsinasentence.com/fluke-in-a-sentence/][Fluke]]
+
+  =a coincidence or accident that something happened=
+
+  - Since I didn’t study or attend class on a regular basis, it was simply a fluke that I passed the exam.
+  - Knowing my strict boss never found the good in any employee, it seemed like a fluke that he would offer me a promotion.
+  - “It was just a fluke that I caught the winning touchdown,” stated the humbled football player, “because I was just in the right place at the right time."
+  - Winning the lottery is always a fluke due to buying the lucky ticket completely by chance.
+
+
+
+* [[https://wordsinasentence.com/flutter-in-a-sentence/][Flutter]]
+
+  =to wave wings back and forth quickly=
+
+  - The hummingbirds flutter their wings so quickly that a person can barely see the wings at all.
+  - Several pieces of paper flutter on the desk since the window was left open on a windy day.
+  - When the butterfly’s wings flutter, the butterfly moves upward to the nearest branch of the bush.
+  - As the boy would flutter his arms, it would create a slight breeze around him.
+
+
+
+* [[https://wordsinasentence.com/flux-in-a-sentence/][Flux]]
+
+  =continual change=
+
+  - My hotel reservations are in flux because I can’t decide where I want to stay during my vacation.
+  - Because the electricity is in flux, the hotel can’t guarantee the air conditioning will work throughout the night.
+  - Since mobile phone technology is in flux, new phones are constantly being introduced.
+  - I never know how much I'll pay for a gallon of fuel because gas prices are always in flux.
+
+
+
+* [[https://wordsinasentence.com/foist-in-a-sentence/][Foist]]
+
+  =to compel a person or group to accept something that is not wanted=
+
+  - The government has decided to foist yet another tax increase on the public.
+  - When I vote for city council members, I try to vote for those who will not foist awful mandates upon the city.
+  - Sometimes it seems as if television networks have no other desire but to foist terrible reality shows on viewers.
+  - Despite public opinion, the president chose to foist his inadequate healthcare plan on the nation.
+  - My lazy boss had the nerve to foist his assignment on me.
+  - With so many schools performing poorly, it is surprising the state is going to foist tougher graduation requirements upon students.
+  - My bossy sister is always trying to foist her opinion upon others.
+
+
+
+* [[https://wordsinasentence.com/foment-in-a-sentence/][Foment]]
+
+  =to stir up or incite=
+
+  - The publicity-hungry politician often made harsh statements about immigrants in order to foment unrest among the public.
+  - Despite popular beliefs, the police are here to keep people calm, not to foment violence.
+  - The celebrity liked to foment rumors by posting cryptic statements about her private relationships online.
+  - If the dictator thinks you’re trying to foment turmoil in order to start a rebellion, he’ll have you executed on national television.
+
+
+
+* [[https://wordsinasentence.com/foray-in-a-sentence/][Foray]]
+
+  =an initial attempt at something=
+
+  - Although we felt a little anxious about our foray into the jungle, we were still looking forward to our first big game hunt.
+  - The aging senator told the voters that this election would be his final foray into the world of politics.
+  - Before their foray into enemy territory, a scouting party was sent to observe the guard stations.
+  - During the hottest months of summer, one of my favorite escapes is a foray to the air-conditioned mall to do a little window shopping.
+  - Tired of being single, Rachel decided to try a foray into the realm of online romance.
+  - Compared to her recent foray into the fantasy land of elves, sorcerers, and handsome princes, Celia found her actual life hopelessly dull.
+  - When she took her first bite of the spicy curry, she wondered why she hadn’t made a foray into Indian cuisine a long time ago.
+
+
+
+* [[https://wordsinasentence.com/foreclosure-in-a-sentence/][Foreclosure]]
+
+  =a legal process in which a lender takes the property belonging to a borrower, who has stopped making payments to the lender=
+
+  - Before filing for foreclosure, the lender gave the debtor one last chance to settle the debt.
+  - Although the homeowner paid several missed payments, it was not enough to stop foreclosure on the estate.
+  - To stop the foreclosure on my home, I filed for bankruptcy and was able to keep my property.
+  - Hiring an attorney to stop the foreclosure, the man was able to repay his mortgage while still maintaining his residence.
+
+
+
+* [[https://wordsinasentence.com/forensic-in-a-sentence/][Forensic]]
+
+  =associated with the application of scientific processes and technologies used in crime solving=
+
+  - The crime scene investigators collected several forensic samples at the site of the murder.
+  - After the forensic data is processed, we will have leads to help us identify the killer.
+  - The lad’s interest in forensic science stems from his fascination with television crime dramas.
+  - During the trial, a forensic expert gave testimony that helped the state’s case.
+
+
+
+* [[https://wordsinasentence.com/forgo-in-a-sentence/][Forgo]]
+
+  =to go without something=
+
+  - I will forgo drinking because I am the designated driver.
+  - Because Henry does not want to put his fate in the jury’s hands, he is going to forgo his right to a trial.
+  - The actress decided to forgo the after-party and go home to her sick daughter.
+  - Until my child begins school, I will forgo my career ambitions and be a stay-at-home mom.
+
+
+
+* [[https://wordsinasentence.com/foyer-in-a-sentence/][Foyer]]
+
+  =a lobby, corridor, or waiting room, used in a hotel, theater, etc.=
+
+  - The FBI waited in the foyer of the hotel for the counterfeiter to leave his room.
+  - We rented a room in a five-star hotel that had the most magnificent chandelier hanging in the foyer.
+  - Before entering the dance floor, we congregated in the foyer to make sure that all of the guys were present.
+  - The philanthropist made us wait in the foyer of his downtown office building before admitting us into his office.
+
+
+
+* [[https://wordsinasentence.com/frenzy-in-a-sentence/][Frenzy]]
+
+  =wildly excited or out-of-control behavior=
+
+  - Distraught by the death of his wife, the man attacked in frenzy.
+  - Taking PCP will put you into a wild frenzy and likely lead to serious injury.
+  - The mental patient was known to go into frenzy if he didn’t get his snack on time.
+  - To avoid a dangerous frenzy, the placed the man in a strait jacket.
+  - The Incredible Hulk goes into a frenzy when he turns green, becoming impossibly strong.
+  - With its owner in trouble, the dog attacked in frenzy.
+  - Though he was small, the prisoner was known to frenzy when challenged, which made people stay away.
+
+
+
+* [[https://wordsinasentence.com/fringe-in-a-sentence/][Fringe]]
+
+  =a decorative edge made of loose threads, tassels, or twists (as seen on curtains, rugs, piece of clothing, etc)=
+
+  - The fringe of her jeans got caught in the escalator.
+  - My mom said that fringe was a common detail on the clothing she wore in the 1970s.
+  - Wanting to add flare to the pillows, the seamstress chose to add fringe.
+  - The costumer needed to add fringe to the cowgirl vest.
+
+
+
+* [[https://wordsinasentence.com/frisk/][Frisk]]
+
+  =to pass your hands over someone’s body in search of drugs or other weapons=
+
+  - Stop and frisk policies allow police to approach pedestrians and search them without cause.
+  - The correctional officer had to frisk the visitors before they were allowed to enter the prison.
+  - As he began to frisk the inmate, the police officer was sure he felt a knife in the suspect’s pocket.
+  - You must frisk the concert goers by running your hands over their clothing before they are allowed inside.
+
+
+* [[https://wordsinasentence.com/frolic-in-a-sentence/][Frolic]]
+
+  =to move about playfully and energetically=
+
+  - It’s fun to watch the playful goats frolic around the meadow in the afternoon.
+  - Because she is a no-nonsense kind of principal, the children know not to frolic around the gym while waiting on the bus.
+  - The girls spent their summer afternoon trying to find a waterfall to frolic under.
+  - Most toddlers were having fun playing around in the water, but Chasity was too scared to frolic in the stream.
+
+
+
+* [[https://wordsinasentence.com/fruition-in-a-sentence/][Fruition]]
+
+  =the fulfillment of a goal achieved=
+
+  - After many obstacles, our dream of owning a restaurant has finally come to fruition.
+  - The fruition of the president’s healthcare plan will ensure that every citizen has access to medical treatment.
+  - When Tom accepts a residency at the county hospital, his dream of becoming a doctor will have come to fruition.
+  - The doctors knew if they could bring the cancer cure to fruition they could save millions of lives.
+  - While many do-gooders have spoken about opening a community center, none of them have brought the project to fruition.
+  - My boss was tired of waiting and wanted to know when my project would reach fruition.
+  - Even though Gil won the election, he has not brought any of his campaign promises to fruition.
+
+
+
+* [[https://wordsinasentence.com/fulminate-in-a-sentence/][Fulminate]]
+
+  =to complain angrily or loudly=
+
+  - The disgruntled customer continued to fulminate over a price difference.
+  - My father would chastise us if we dared to fulminate because we disliked our supper.
+  - At the town hall meeting, residents began to fulminate over the proposed tax increase.
+  - The diner’s frustration caused him to fulminate because his steak was undercooked.
+
+
+
+* [[https://wordsinasentence.com/fumble-in-a-sentence/][Fumble]]
+
+  =to mishandle or let something slip accidentally from the hands=
+
+  - When the rookie football player entered the field, it would only be a matter of time before he would fumble the ball which was picked up by the opposing team.
+  - As the clumsy waitress did not see the purse in between the tables, she would fumble the tray she was carrying causing all of the glassware to crash to the ground.
+  - Since I didn’t have a grip on the pencil, it quickly would fumble through my fingers and fall to the ground.
+  - The movers fumble my couch at the top of the stairs which made it bang and smash to pieces as it fell down the stairs.
+
+
+
+* [[https://wordsinasentence.com/fume-in-a-sentence/][Fume]]
+
+  =the build up of anger that generally results in a negative reaction=
+
+  - Molly started to fume and felt the urge to punch something when she found out her boyfriend was cheating on her.
+  - Mike could not help but fume when his partner got all the credit on their project when he did all the work.
+  - The soccer player began to fume when his team lost over a bad call and tried to attack the referee.
+  - Maya started to fume when her mother accused her of lying and stormed out of the room.
+
+
+
+* [[https://wordsinasentence.com/furor-in-a-sentence/][Furor]]
+
+  =a situation that angers and upsets many people=
+
+  - Amid accusations of fraud, there was a public furor when the politician was arrested.
+  - The news that winter break was canceled caused a furor throughout the school district.
+  - Quite the furor ensued when a famous athlete was accused of cheating during a game.
+  - Protesters created a furor when they lost control during a public demonstration.
+
+
+
+* [[https://wordsinasentence.com/fury-in-a-sentence/][Fury]]
+
+  =intense anger or rage=
+
+  - With all of its fury, the volcano erupted over the mountainside and covered all life with its ferocity.
+  - The irate car salesman let out his fury by bludgeoning several new vehicles with a bat.
+  - In a fit of rage, the woman showed her intense fury by breaking all of her husband’s 50 inch flat screen.
+  - As the search for the missing children grew, so did the community’s fury and wrath for the kidnappers.
+
+
+
+* [[https://wordsinasentence.com/fuse-in-a-sentence/][Fuse]]
+
+  =to combine into one thing=
+
+  - In the cooking contest, I will fuse Mexican and French recipes to make a dish I will refer to as Frexican.
+  - Rap music came into existence when an artist decided to fuse spoken word poetry with music.
+  - If we fuse the two wires together, we should have a conductor that can carry an electrical charge.
+  - The welder will use heat to fuse the materials together.
+
+
+
+* [[https://wordsinasentence.com/fusty-in-a-sentence/][Fusty]]
+
+  =smelling stale, stuffy, or damp=
+
+  - The fusty cupboard smelled stale and damp after years of not being opened.
+  - Because his room smelled so fusty, the boy’s mother hired a maid to rid it of its stale smell.
+  - The fusty smell of the antique stop reminded me of my grandmother’s house years ago.
+  - Climbing into the fusty attic, Jan coughed and hacked while breathing in the stuffy odor.
+
+
+
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

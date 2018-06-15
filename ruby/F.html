@@ -1,0 +1,2694 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2018-06-15 Fri 23:52 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>F</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">F</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org7351cd4">1. Facetious</a></li>
+<li><a href="#org384e980">2. Facile</a></li>
+<li><a href="#org5f2bb21">3. Fallow</a></li>
+<li><a href="#org4725698">4. Falsify</a></li>
+<li><a href="#org10ce928">5. Falter</a></li>
+<li><a href="#org9e98e81">6. Fanatic</a></li>
+<li><a href="#orgccf83e4">7. Farce</a></li>
+<li><a href="#org26d2bfe">8. Fastidious</a></li>
+<li><a href="#org4ec3592">9. Feckless</a></li>
+<li><a href="#orge0ed422">10. Fecund</a></li>
+<li><a href="#org15466e8">11. Feign</a></li>
+<li><a href="#org7426bae">12. Ferment</a></li>
+<li><a href="#orga50cc2e">13. Ferocity</a></li>
+<li><a href="#org072cef9">14. Fervent</a></li>
+<li><a href="#org60dc30a">15. Fervid</a></li>
+<li><a href="#orgd7a7a63">16. Fervor</a></li>
+<li><a href="#org613b3e7">17. Fetid</a></li>
+<li><a href="#orgbe6453c">18. Fickle</a></li>
+<li><a href="#org7b306d5">19. Fictitious</a></li>
+<li><a href="#org0afaf3f">20. Figment</a></li>
+<li><a href="#org1b67b4c">21. Finicky</a></li>
+<li><a href="#orga943855">22. Flagrant</a></li>
+<li><a href="#org138f53f">23. Flamboyant</a></li>
+<li><a href="#org0daca39">24. Flaunt</a></li>
+<li><a href="#org226ae5e">25. Flippant</a></li>
+<li><a href="#org18e926c">26. Florid</a></li>
+<li><a href="#org864aa1d">27. Flounder</a></li>
+<li><a href="#org60492c2">28. Flourish</a></li>
+<li><a href="#org18e4a23">29. Flout</a></li>
+<li><a href="#org2aee3aa">30. Fluffy</a></li>
+<li><a href="#orgadfee70">31. Fluorescent</a></li>
+<li><a href="#orgeaa708e">32. Flustered</a></li>
+<li><a href="#orgb94945d">33. Foible</a></li>
+<li><a href="#orgb5a3013">34. Folly</a></li>
+<li><a href="#org854f4ef">35. Forbear</a></li>
+<li><a href="#org4bea8e4">36. Foreshadow</a></li>
+<li><a href="#org6d63496">37. Forestall</a></li>
+<li><a href="#orgce3c5af">38. Forfeit</a></li>
+<li><a href="#orgd070394">39. Forlorn</a></li>
+<li><a href="#org41af848">40. Forsake</a></li>
+<li><a href="#org60c85fc">41. Forte</a></li>
+<li><a href="#orge0c2f68">42. Fortify</a></li>
+<li><a href="#orga4ab29d">43. Fortitude</a></li>
+<li><a href="#orgcbc1348">44. Fortuitous</a></li>
+<li><a href="#org24431b4">45. Fractious</a></li>
+<li><a href="#org540454c">46. Frail</a></li>
+<li><a href="#org484fd69">47. Frantic</a></li>
+<li><a href="#orgca18ab4">48. Fraudulent</a></li>
+<li><a href="#org129a3af">49. Fraught</a></li>
+<li><a href="#orga0acef9">50. Fray</a></li>
+<li><a href="#org7da4f61">51. Frenetic</a></li>
+<li><a href="#org036e181">52. Fret</a></li>
+<li><a href="#org6e3a6d5">53. Frigid</a></li>
+<li><a href="#org273d68a">54. Frisky</a></li>
+<li><a href="#org93bda21">55. Frivolity</a></li>
+<li><a href="#orgecb1ea0">56. Frivolous</a></li>
+<li><a href="#org6863c52">57. Frugal</a></li>
+<li><a href="#orgb46dafc">58. Fulsome</a></li>
+<li><a href="#orgd34cf75">59. Fumigate</a></li>
+<li><a href="#org7932ec2">60. Furtive</a></li>
+<li><a href="#org5b8b25e">61. Fussy</a></li>
+<li><a href="#orgf634c77">62. Fallacy</a></li>
+<li><a href="#org96bd951">63. Famished</a></li>
+<li><a href="#orgf05b0d5">64. Fatal</a></li>
+<li><a href="#orgacdc161">65. Fathom</a></li>
+<li><a href="#org113bdc3">66. Fatuity</a></li>
+<li><a href="#org7833c21">67. Faze</a></li>
+<li><a href="#orgbde0137">68. Fealty</a></li>
+<li><a href="#orgcf68cec">69. Feat</a></li>
+<li><a href="#org743e10b">70. Febrile</a></li>
+<li><a href="#org15b53f1">71. Feeble</a></li>
+<li><a href="#org013a22e">72. Feint</a></li>
+<li><a href="#orgacf1166">73. Feisty</a></li>
+<li><a href="#org035eb9a">74. Felicitate</a></li>
+<li><a href="#org12279ae">75. Felicitous</a></li>
+<li><a href="#org6baaa39">76. Feline</a></li>
+<li><a href="#org059e76d">77. Felon</a></li>
+<li><a href="#org48fe106">78. Feral</a></li>
+<li><a href="#org3b097c6">79. Fiat</a></li>
+<li><a href="#org05096b7">80. Filial</a></li>
+<li><a href="#org9971a54">81. Filibuster</a></li>
+<li><a href="#org596c06f">82. Finagle</a></li>
+<li><a href="#org2a4f8b1">83. Finale</a></li>
+<li><a href="#org42da458">84. Fiscal</a></li>
+<li><a href="#orga2c0c48">85. Fissure</a></li>
+<li><a href="#org10c3b2e">86. Fitful</a></li>
+<li><a href="#org475b483">87. Flaccid</a></li>
+<li><a href="#orge4085ff">88. Flagellate</a></li>
+<li><a href="#orgc534e6e">89. Flair</a></li>
+<li><a href="#orge6109f5">90. Flak</a></li>
+<li><a href="#org3eb7071">91. Flinch</a></li>
+<li><a href="#org79cf551">92. Floppy</a></li>
+<li><a href="#org0af0ff1">93. Fluke</a></li>
+<li><a href="#org963bc4f">94. Flutter</a></li>
+<li><a href="#org49b2672">95. Flux</a></li>
+<li><a href="#orgcbcfc34">96. Foist</a></li>
+<li><a href="#orgb4e0cf0">97. Foment</a></li>
+<li><a href="#orgae85689">98. Foray</a></li>
+<li><a href="#org9a27f50">99. Foreclosure</a></li>
+<li><a href="#org8dbe832">100. Forensic</a></li>
+<li><a href="#org3fe7ace">101. Forgo</a></li>
+<li><a href="#orgaa70577">102. Foyer</a></li>
+<li><a href="#orgb600c1c">103. Frenzy</a></li>
+<li><a href="#org1d064a2">104. Fringe</a></li>
+<li><a href="#orgb15f213">105. Frisk</a></li>
+<li><a href="#org4e1e0ad">106. Frolic</a></li>
+<li><a href="#orgbac4461">107. Fruition</a></li>
+<li><a href="#org56ed009">108. Fulminate</a></li>
+<li><a href="#org23fe706">109. Fumble</a></li>
+<li><a href="#org97ecc02">110. Fume</a></li>
+<li><a href="#org2133e73">111. Furor</a></li>
+<li><a href="#org169e336">112. Fury</a></li>
+<li><a href="#org58c1dd5">113. Fuse</a></li>
+<li><a href="#org60e5da2">114. Fusty</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org7351cd4">1. Facetious</a></li>
+<li><a href="#org384e980">2. Facile</a></li>
+<li><a href="#org5f2bb21">3. Fallow</a></li>
+<li><a href="#org4725698">4. Falsify</a></li>
+<li><a href="#org10ce928">5. Falter</a></li>
+<li><a href="#org9e98e81">6. Fanatic</a></li>
+<li><a href="#orgccf83e4">7. Farce</a></li>
+<li><a href="#org26d2bfe">8. Fastidious</a></li>
+<li><a href="#org4ec3592">9. Feckless</a></li>
+<li><a href="#orge0ed422">10. Fecund</a></li>
+<li><a href="#org15466e8">11. Feign</a></li>
+<li><a href="#org7426bae">12. Ferment</a></li>
+<li><a href="#orga50cc2e">13. Ferocity</a></li>
+<li><a href="#org072cef9">14. Fervent</a></li>
+<li><a href="#org60dc30a">15. Fervid</a></li>
+<li><a href="#orgd7a7a63">16. Fervor</a></li>
+<li><a href="#org613b3e7">17. Fetid</a></li>
+<li><a href="#orgbe6453c">18. Fickle</a></li>
+<li><a href="#org7b306d5">19. Fictitious</a></li>
+<li><a href="#org0afaf3f">20. Figment</a></li>
+<li><a href="#org1b67b4c">21. Finicky</a></li>
+<li><a href="#orga943855">22. Flagrant</a></li>
+<li><a href="#org138f53f">23. Flamboyant</a></li>
+<li><a href="#org0daca39">24. Flaunt</a></li>
+<li><a href="#org226ae5e">25. Flippant</a></li>
+<li><a href="#org18e926c">26. Florid</a></li>
+<li><a href="#org864aa1d">27. Flounder</a></li>
+<li><a href="#org60492c2">28. Flourish</a></li>
+<li><a href="#org18e4a23">29. Flout</a></li>
+<li><a href="#org2aee3aa">30. Fluffy</a></li>
+<li><a href="#orgadfee70">31. Fluorescent</a></li>
+<li><a href="#orgeaa708e">32. Flustered</a></li>
+<li><a href="#orgb94945d">33. Foible</a></li>
+<li><a href="#orgb5a3013">34. Folly</a></li>
+<li><a href="#org854f4ef">35. Forbear</a></li>
+<li><a href="#org4bea8e4">36. Foreshadow</a></li>
+<li><a href="#org6d63496">37. Forestall</a></li>
+<li><a href="#orgce3c5af">38. Forfeit</a></li>
+<li><a href="#orgd070394">39. Forlorn</a></li>
+<li><a href="#org41af848">40. Forsake</a></li>
+<li><a href="#org60c85fc">41. Forte</a></li>
+<li><a href="#orge0c2f68">42. Fortify</a></li>
+<li><a href="#orga4ab29d">43. Fortitude</a></li>
+<li><a href="#orgcbc1348">44. Fortuitous</a></li>
+<li><a href="#org24431b4">45. Fractious</a></li>
+<li><a href="#org540454c">46. Frail</a></li>
+<li><a href="#org484fd69">47. Frantic</a></li>
+<li><a href="#orgca18ab4">48. Fraudulent</a></li>
+<li><a href="#org129a3af">49. Fraught</a></li>
+<li><a href="#orga0acef9">50. Fray</a></li>
+<li><a href="#org7da4f61">51. Frenetic</a></li>
+<li><a href="#org036e181">52. Fret</a></li>
+<li><a href="#org6e3a6d5">53. Frigid</a></li>
+<li><a href="#org273d68a">54. Frisky</a></li>
+<li><a href="#org93bda21">55. Frivolity</a></li>
+<li><a href="#orgecb1ea0">56. Frivolous</a></li>
+<li><a href="#org6863c52">57. Frugal</a></li>
+<li><a href="#orgb46dafc">58. Fulsome</a></li>
+<li><a href="#orgd34cf75">59. Fumigate</a></li>
+<li><a href="#org7932ec2">60. Furtive</a></li>
+<li><a href="#org5b8b25e">61. Fussy</a></li>
+<li><a href="#orgf634c77">62. Fallacy</a></li>
+<li><a href="#org96bd951">63. Famished</a></li>
+<li><a href="#orgf05b0d5">64. Fatal</a></li>
+<li><a href="#orgacdc161">65. Fathom</a></li>
+<li><a href="#org113bdc3">66. Fatuity</a></li>
+<li><a href="#org7833c21">67. Faze</a></li>
+<li><a href="#orgbde0137">68. Fealty</a></li>
+<li><a href="#orgcf68cec">69. Feat</a></li>
+<li><a href="#org743e10b">70. Febrile</a></li>
+<li><a href="#org15b53f1">71. Feeble</a></li>
+<li><a href="#org013a22e">72. Feint</a></li>
+<li><a href="#orgacf1166">73. Feisty</a></li>
+<li><a href="#org035eb9a">74. Felicitate</a></li>
+<li><a href="#org12279ae">75. Felicitous</a></li>
+<li><a href="#org6baaa39">76. Feline</a></li>
+<li><a href="#org059e76d">77. Felon</a></li>
+<li><a href="#org48fe106">78. Feral</a></li>
+<li><a href="#org3b097c6">79. Fiat</a></li>
+<li><a href="#org05096b7">80. Filial</a></li>
+<li><a href="#org9971a54">81. Filibuster</a></li>
+<li><a href="#org596c06f">82. Finagle</a></li>
+<li><a href="#org2a4f8b1">83. Finale</a></li>
+<li><a href="#org42da458">84. Fiscal</a></li>
+<li><a href="#orga2c0c48">85. Fissure</a></li>
+<li><a href="#org10c3b2e">86. Fitful</a></li>
+<li><a href="#org475b483">87. Flaccid</a></li>
+<li><a href="#orge4085ff">88. Flagellate</a></li>
+<li><a href="#orgc534e6e">89. Flair</a></li>
+<li><a href="#orge6109f5">90. Flak</a></li>
+<li><a href="#org3eb7071">91. Flinch</a></li>
+<li><a href="#org79cf551">92. Floppy</a></li>
+<li><a href="#org0af0ff1">93. Fluke</a></li>
+<li><a href="#org963bc4f">94. Flutter</a></li>
+<li><a href="#org49b2672">95. Flux</a></li>
+<li><a href="#orgcbcfc34">96. Foist</a></li>
+<li><a href="#orgb4e0cf0">97. Foment</a></li>
+<li><a href="#orgae85689">98. Foray</a></li>
+<li><a href="#org9a27f50">99. Foreclosure</a></li>
+<li><a href="#org8dbe832">100. Forensic</a></li>
+<li><a href="#org3fe7ace">101. Forgo</a></li>
+<li><a href="#orgaa70577">102. Foyer</a></li>
+<li><a href="#orgb600c1c">103. Frenzy</a></li>
+<li><a href="#org1d064a2">104. Fringe</a></li>
+<li><a href="#orgb15f213">105. Frisk</a></li>
+<li><a href="#org4e1e0ad">106. Frolic</a></li>
+<li><a href="#orgbac4461">107. Fruition</a></li>
+<li><a href="#org56ed009">108. Fulminate</a></li>
+<li><a href="#org23fe706">109. Fumble</a></li>
+<li><a href="#org97ecc02">110. Fume</a></li>
+<li><a href="#org2133e73">111. Furor</a></li>
+<li><a href="#org169e336">112. Fury</a></li>
+<li><a href="#org58c1dd5">113. Fuse</a></li>
+<li><a href="#org60e5da2">114. Fusty</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Author</td>
+<td class="org-left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="org-left">Date</td>
+<td class="org-left">2018-06-15 23:52:51</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+
+<div id="outline-container-org7351cd4" class="outline-2">
+<h2 id="org7351cd4"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/facetious-in-a-sentence/">Facetious</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>joking often inappropriately; not serious</code>
+</p>
+
+<ul class="org-ul">
+<li>Do you always have to be so facetious?</li>
+<li>While Aaron thought he was being funny, he did not realize his remarks came across as facetious.</li>
+<li>Because she was overbearing and often facetious, Jane had few friends.</li>
+<li>The teacher described her most troublesome student as a facetious young man.</li>
+<li>Sarah is a facetious person who never takes anything seriously.</li>
+<li>Even though the comedian told many facetious religious jokes, the church members still clapped loudly at the end of the show.</li>
+<li>Mark’s facetious remarks were inappropriate at his aunt’s funeral.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org384e980" class="outline-2">
+<h2 id="org384e980"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/facile-in-a-sentence/">Facile</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>easily performed</code>
+</p>
+
+<ul class="org-ul">
+<li>While the adults found the video game complicated, the teenagers thought it was facile and easily played.</li>
+<li>No one was surprised when the senior detective solved the facile case in less than twenty-four hours.</li>
+<li>Since Jack had studied for the exam, he earned a perfect score on the facile test.</li>
+<li>The experienced ballerina learned the facile routine in ten minutes.</li>
+<li>For a beginning pianist like myself, the complicated tune was far from facile and as such, impossible for me to play.</li>
+<li>The boy genius laughed when his teacher gave him a facile puzzle that would take him less than a minute to put together.</li>
+<li>When the young tennis player played the pro, he realized beating the older athlete was not as facile as he had foolishly believed.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5f2bb21" class="outline-2">
+<h2 id="org5f2bb21"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/fallow-in-a-sentence/">Fallow</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>not being used</code>
+</p>
+
+<ul class="org-ul">
+<li>At the end of summer, the once crowded beaches become fallow as the young people return to school.</li>
+<li>During the great financial depression, millions of families lost their farms because the high price of goods left them unable to plant on their fallow land.</li>
+<li>A city meeting is being held to discuss the advantages and disadvantages of building a museum on the fallow property that sits on the corner of Main Street and State Street.</li>
+<li>For four months after my knee surgery, my dancing shoes remained fallow in the closet.</li>
+<li>In poorer communities, fertile land is often fallow because farmers cannot afford to buy seeds.</li>
+<li>If the oil workers go on strike, the refinery could be fallow for weeks and cause a huge increase in fuel prices.</li>
+<li>Until the arena can be properly repaired, it will remain fallow and unavailable for public events.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4725698" class="outline-2">
+<h2 id="org4725698"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/falsify-in-a-sentence/">Falsify</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>to dishonestly change something in order to trick people</code>
+</p>
+
+<ul class="org-ul">
+<li>Knowing it was wrong to falsify the truth, the girl admitted to losing her assignment.</li>
+<li>The forger tried to falsify the document but could not match the signature.</li>
+<li>Greedy attorneys had their assistants falsify the files by conjuring up meetings and documenting phone calls that never occurred.</li>
+<li>IRS auditors quickly noticed that someone had tried to falsify the tax documents.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org10ce928" class="outline-2">
+<h2 id="org10ce928"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/falter-in-a-sentence/">Falter</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>to hesitate, stumble, or waver</code>
+</p>
+
+<ul class="org-ul">
+<li>When the bank teller noticed that the masked man began to falter slightly, she discreetly pressed the silent alarm.</li>
+<li>Because that horse has a tendency to falter at the gate, the odds that he will win the race are pretty low.</li>
+<li>Carrie had a feeling that Scott intended to kiss her, and she hoped that this time he wouldn’t falter.</li>
+<li>Even though that country has enjoyed a strong economy during the recent decades, it’s beginning to falter because of the policies of the new regime.</li>
+<li>Timmy thinks that if he stares hard enough at the opponents’ star hitter, he will falter at bat and strike out.</li>
+<li>Claire was afraid her voice would falter if she delivered the eulogy, so she persuaded her brother to do it instead.</li>
+<li>In the shootouts of the Old West, one flicker of the eye or falter of the nerves could mean certain death for an unlucky gunslinger.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9e98e81" class="outline-2">
+<h2 id="org9e98e81"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/fanatic-in-a-sentence/">Fanatic</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>one who is extremely passionate about something, often a religion or cause</code>
+</p>
+
+<ul class="org-ul">
+<li>My husband is an exercise fanatic who runs six miles every day.</li>
+<li>Because my father is a football fanatic, he hasn’t missed any of his team’s home games in ten years.</li>
+<li>The religious fanatic was willing to kill herself for her god.</li>
+<li>An animal rights’ fanatic, Ellen volunteers at the animal shelter over forty hours a week.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgccf83e4" class="outline-2">
+<h2 id="orgccf83e4"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/farce-in-a-sentence/">Farce</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>a ridiculous situation or event</code>
+</p>
+
+<ul class="org-ul">
+<li>Many argue that the government today is a mere farce of what it started out as.</li>
+<li>The trail was a complete farce, the jury obviously knowing their verdict before proceedings even began.</li>
+<li>The movie was a complete farce, showing how ridiculous the actors viewed politics.</li>
+<li>There was no character development, but the comedy did make for an entertaining farce.</li>
+<li>Sometimes, a good farce is more entertaining than a well-thought out comedy.</li>
+<li>The playwright wanted a thoughtful tragedy, but he ended up with a mere farce.</li>
+<li>The way mechanics charge for their services sometimes seems like a farce.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org26d2bfe" class="outline-2">
+<h2 id="org26d2bfe"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/fastidious-in-a-sentence/">Fastidious</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>concerned about accuracy and detail; hard to please</code>
+</p>
+
+<ul class="org-ul">
+<li>My mother was a fastidious woman who always had a complaint on her lips.</li>
+<li>Arrogant and fastidious, the diva made no friends on her music tour.</li>
+<li>While Henry would eat just about anything, his wife was so fastidious she barely ate anything.</li>
+<li>Constantly licking themselves, cats are fastidious creatures.</li>
+<li>My mother-in-law is the most fastidious person on this planet!</li>
+<li>Your friends will be few if you do not change your habit of being fastidious.</li>
+<li>Despite Marilyn’s high grade, the professor remained fastidious in his assessment of her academic skill.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4ec3592" class="outline-2">
+<h2 id="org4ec3592"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/feckless-in-a-sentence/">Feckless</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>someone who is irresponsible or ineffective</code>
+</p>
+
+<ul class="org-ul">
+<li>Larry was such a feckless manager that the company was forced to declare bankruptcy.</li>
+<li>Because so many feckless parents are raising children these days, we shouldn’t be surprised at the number of irresponsible teenagers.</li>
+<li>Erin had come to accept the fact that her parents would always think that every boyfriend was a feckless loser, no matter how smart and successful he might be.</li>
+<li>Phil is probably the most feckless worker at the company, but he’s so charming and lovable he’s somehow managed to work here for fifteen years.</li>
+<li>Clarissa told her father-in-law that he would regret it if he hired her feckless brother.</li>
+<li>Mark is not just one of those feckless rich kids who lives off his family fortune and never lifts a finger; he gets in there and digs in just like any of the other employees.</li>
+<li>The feckless smuggler was easily captured when he delivered the goods to the undercover FBI agents.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge0ed422" class="outline-2">
+<h2 id="orge0ed422"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/fecund-in-a-sentence/">Fecund</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>intellectually productive or inventive</code>
+</p>
+
+<ul class="org-ul">
+<li>The computer programmer was a fecund person who could quickly identify and solve problems.</li>
+<li>Although Jim was fecund at work and always met his daily goals, he rarely left his favorite chair at home.</li>
+<li>The airline is looking for fecund individuals who can complete many tasks in a short period of time.</li>
+<li>Because gifted students are more fecund than students of lower intelligence, they usually turn in better assignments than their peers.</li>
+<li>Even though Matt is very fecund, I seriously doubt if he can solve the puzzle in under a minute.</li>
+<li>While Janet pretends to be fecund, she has never offered a solution during our weekly problem-solving meetings.</li>
+<li>Is Linda really so fecund that she invents two projects every week or is she stealing ideas from others?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org15466e8" class="outline-2">
+<h2 id="org15466e8"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/feign-in-a-sentence/">Feign</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>make believe with the intention of deceiving; pretend</code>
+</p>
+
+<ul class="org-ul">
+<li>I feign sleep when Mom checks up on me after bedtime, then I go back to playing video games when she leaves.</li>
+<li>This one guy would feign yawns purely to set off a chain of contagious yawns in the room.</li>
+<li>Cleverly feign your fever and your mother might be gullible enough to let you stay home from school.</li>
+<li>He held a feign relationship with Sabrina just to score a night of sex with her.</li>
+<li>Christina would feign her laughs at lame jokes only to make the comedian feel better.</li>
+<li>If you are not happy, feign a quick smile anyway for a natural boost of happiness.</li>
+<li>The woman would feign her interest in football to impress her boyfriend, a sports fanatic.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7426bae" class="outline-2">
+<h2 id="org7426bae"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/ferment-in-a-sentence/">Ferment</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>to produce excitement or unrest</code>
+</p>
+
+<ul class="org-ul">
+<li>The media tried to ferment public unrest by repeatedly publishing articles about the crooked police officer.</li>
+<li>Before the concert started, a popular comedian came out to ferment enthusiasm among the crowd.</li>
+<li>The union leader hopes to ferment dissatisfaction amid the workers to force management to increase salaries.</li>
+<li>If a non-guilty verdict is announced, hopefully the decision will not ferment protests and riots.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga50cc2e" class="outline-2">
+<h2 id="orga50cc2e"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/ferocity-in-a-sentence/">Ferocity</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>the condition of being ferocious</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though my Chihuahua is tiny, he snarls and barks with such ferocity that most people tend to stay away.</li>
+<li>The tornadoes blew through the town with a ferocity that turned most of the magnificent, century-old homes into matchsticks.</li>
+<li>As Joseph boasted about his participation in the fight, Mary Jane saw a look of ferocity on his face that she had never seen before.</li>
+<li>The fighters were throwing punches with such ferocity that the referee had to stop the fight in the third round.</li>
+<li>Mrs. Davis shouted with such ferocity that the startled boys immediately stopped brawling and stood still to receive their punishment.</li>
+<li>The cruelty and ferocity of Blackbeard the pirate inspired many terrifying stories of murder and mayhem on the high seas.</li>
+<li>During the 1800s, Indian warriors painted their faces with war paint before battle to give them an appearance of ferocity.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org072cef9" class="outline-2">
+<h2 id="org072cef9"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/fervent-in-a-sentence/">Fervent</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>exhibiting or marked by great intensity of feeling</code>
+</p>
+
+<ul class="org-ul">
+<li>The hot topic spurred a fervent debate between the two political parties.</li>
+<li>Jack’s fervent love for Kelly encouraged him to tattoo her name on his back.</li>
+<li>As your mayoral candidate, I would appreciate your fervent support at the polls!</li>
+<li>Because Mark and Katy are fervent fans of the television show, they never miss an episode of the series.</li>
+<li>Since terrorists are fervent about their beliefs, they will do anything to achieve their goals.</li>
+<li>Many people believe fervent prayer will make their dreams come true.</li>
+<li>Although the candidate made a fervent appeal for votes, he still did not win the election.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org60dc30a" class="outline-2">
+<h2 id="org60dc30a"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/fervid-in-a-sentence/">Fervid</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>marked by great passion or zeal</code>
+</p>
+
+<ul class="org-ul">
+<li>The candidate made a fervid speech that held the audience’s attention.</li>
+<li>Because I am concerned about my daughter’s education, I am a fervid supporter of education reform.</li>
+<li>Fervid attention from crazed fans has caused many celebrities to hire bodyguards.</li>
+<li>The inventor’s fervid imagination allowed him to create many wonderful products.</li>
+<li>When the defendant heard the guilty verdict, he made a fervid plea to the judge to be lenient on him.</li>
+<li>The man’s fervid actions to save his wife were very heroic.</li>
+<li>In hopes of getting an increase in her allowance, my daughter made a fervid statement regarding her need for new clothes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd7a7a63" class="outline-2">
+<h2 id="orgd7a7a63"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/fervor-in-a-sentence/">Fervor</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>intense and passionate feeling</code>
+</p>
+
+<ul class="org-ul">
+<li>The terrorist’s fervor made him believe that giving his life for his cause was his purpose in life.</li>
+<li>Although I love college football, I do not have the same fervor for the games as those fans that paint their faces with their team colors.</li>
+<li>The teacher used his religious fervor as the basis for his refusal to teach his students about the evolution of mankind.</li>
+<li>When the airlines increased their fares, passengers responded with fervor about their plans to find alternate travelling means.</li>
+<li>Car dealerships offer their salespeople incentives to ignite fervor in hopes of increasing vehicle movement.</li>
+<li>When the dead soldier’s mother was shown on national television crying outside of the White House, the action stirred a great deal of anti-patriotic fervor.</li>
+<li>The president’s enemies attack him with fervor over the smallest mistakes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org613b3e7" class="outline-2">
+<h2 id="org613b3e7"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/fetid-in-a-sentence/">Fetid</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>having an extremely unpleasant odor</code>
+</p>
+
+<ul class="org-ul">
+<li>As soon as the detectives opened the door and smelled the fetid odor, they knew there was a dead body in the house.</li>
+<li>I refuse to use the fetid public bathroom that looks and smells as though it has not been cleaned in months.</li>
+<li>Since Matt did not follow the instructions, his chemistry experiment produced a fetid scent that led to the evacuation of the laboratory.</li>
+<li>Kurt has a sensitive stomach and will vomit when he smells anything fetid.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbe6453c" class="outline-2">
+<h2 id="orgbe6453c"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/fickle-in-a-sentence/">Fickle</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>changing one’s mind frequently</code>
+</p>
+
+<ul class="org-ul">
+<li>The fickle weather soon had me changing from my shorts into my thick slacks.</li>
+<li>Because John is such a fickle man, he will probably never settle down with one woman.</li>
+<li>The fickle little boy could not decide if he wanted the yellow sucker, the green sucker, or the red sucker.</li>
+<li>Once we arrived at the movie theater, my fickle sister could not decide which movie she wanted to see.</li>
+<li>My fickle daughter often takes two hours to choose an outfit to wear to school.</li>
+<li>According to the movers, the fickle woman had them arranging one piece of furniture for several hours.</li>
+<li>The fickle customer changed her order several times.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org7b306d5" class="outline-2">
+<h2 id="org7b306d5"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/fictitious-in-a-sentence/">Fictitious</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>not real; imaginary; made up</code>
+</p>
+
+<ul class="org-ul">
+<li>I always use a fictitious name when submitting comments online, to maintain my privacy.</li>
+<li>That history book is a fictitious work written by an amateur historian without any historical education.</li>
+<li>Scott created a fictitious nonprofit organization, funneling his money through it tax free.</li>
+<li>Andrew is awesome at spinning fictitious stories out of thin air, which is why he is so good at story-telling.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0afaf3f" class="outline-2">
+<h2 id="org0afaf3f"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/figment-in-a-sentence/">Figment</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>something that is believed to be real but only exists in imagination</code>
+</p>
+
+<ul class="org-ul">
+<li>My young daughter claims to have a unicorn as a best friend, but such a thing is clearly a figment of her imagination.</li>
+<li>I had an imaginary friend when I was little, but that figment of my imagination left me as I got older.</li>
+<li>The crazy man in the asylum said he was playing a game of war with Napoleon Bonaparte, but all things considered that could not be anything other than a figment of his imagination.</li>
+<li>The figment I chose as my imaginary friend when I was a child was a dragon, as what young boy does not desire such a companion?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1b67b4c" class="outline-2">
+<h2 id="org1b67b4c"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/finicky-in-a-sentence/">Finicky</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>overly fussy and particular in regards to taste or standards</code>
+</p>
+
+<ul class="org-ul">
+<li>The finicky toddler refuses to eat anything other than chicken strips and French fries.</li>
+<li>Because her boss is so finicky, the housekeeper makes sure that the carpets are cleaned at least twice a day.</li>
+<li>Our dog is finicky and will only eat a certain type of dog food out of his bowl.</li>
+<li>Because that type of plan is so finicky, you must make sure to water it every day and give it enough sunlight.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga943855" class="outline-2">
+<h2 id="orga943855"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/flagrant-in-a-sentence/">Flagrant</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>noticeably bad</code>
+</p>
+
+<ul class="org-ul">
+<li>After the basketball player committed a flagrant foul, he was kicked out of the game.</li>
+<li>The driver’s flagrant disregard for the speeding laws did not escape the police officer’s notice.</li>
+<li>When John tells his wife he is working late at the office, he is telling her a flagrant lie because his office building closes at six o’clock.</li>
+<li>The bruises on the boy’s legs revealed the flagrant abuse he had suffered at home.</li>
+<li>After being punished by the principal, John showed his flagrant attempt for authority by vandalizing the school building.</li>
+<li>Phil’s flagrant violation of the team’s drug policy earned him a five game suspension.</li>
+<li>When you drive drunk, you show a flagrant disregard for the safety of others.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org138f53f" class="outline-2">
+<h2 id="org138f53f"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/flamboyant-in-a-sentence/">Flamboyant</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>displaying flashy or loud behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>The flamboyant singer loves to wear shimmering suits while performing.</li>
+<li>When Janice showed me her ring, I realized the flamboyant diamond was bigger than her finger.</li>
+<li>Bill is a flamboyant drunk who has been known to dance naked on tables.</li>
+<li>Because the singer travels with a large entourage, she always makes a flamboyant entrance.</li>
+<li>The outrageous athlete was known for cross-dressing and wearing flamboyant outfits.</li>
+<li>Because my aunt wore a flamboyant wig to my wedding, she stood out in the crowded church.</li>
+<li>The magician’s flamboyant act included fireworks and a live tiger.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0daca39" class="outline-2">
+<h2 id="org0daca39"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/flaunt-in-a-sentence/">Flaunt</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>to show off (brag)</code>
+</p>
+
+<ul class="org-ul">
+<li>Eric loves to flaunt his flashy clothes because he thinks that he is super cool.</li>
+<li>Veronica doesn’t like to flaunt her knowledge, but we all know that she is smarter than the rest of us.</li>
+<li>Donald Trump loves to flaunt his wealth and grandiose, whenever he has the chance.</li>
+<li>I hate how Maria always leaves her shirt sleeve rolled up, so she can flaunt her expensive watch.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org226ae5e" class="outline-2">
+<h2 id="org226ae5e"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/flippant-in-a-sentence/">Flippant</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>lacking proper respect or seriousness</code>
+</p>
+
+<ul class="org-ul">
+<li>The student’s flippant actions towards the teacher got him suspended from school.</li>
+<li>If you are flippant during your job interview, you will not be offered a position.</li>
+<li>My flippant response earned me an angry glance from my instructor.</li>
+<li>Although my apology to the judge sounded flippant, I was really sorry for my actions.</li>
+<li>Everyone was shocked when the well-behaved young man made a flippant remark to his grandmother.</li>
+<li>Did you really expect the professor to waste valuable time answering your flippant question?</li>
+<li>Even though Larry knew his mother wanted a serious answer, he still gave her a flippant response.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org18e926c" class="outline-2">
+<h2 id="org18e926c"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/florid-in-a-sentence/">Florid</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>to have a red or rosy complexion</code>
+</p>
+
+<ul class="org-ul">
+<li>The police officer was florid after being held up by a six-year old boy with a water pistol.</li>
+<li>Her face is florid because she just returned from a two week vacation in Miami.</li>
+<li>After being embarrassed by a marriage proposal at the basketball game, my sister had a florid face.</li>
+<li>Jane’s normally ashen face was florid because of her sunburn.</li>
+<li>When the bride learned her groom had left her at the altar, her face became florid.</li>
+<li>When my father gets florid, his face looks like a wrinkly, red tomato.</li>
+<li>Since he slept outside, the homeless man had a florid face and wore dirty clothing.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org864aa1d" class="outline-2">
+<h2 id="org864aa1d"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/flounder-in-a-sentence/">Flounder</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>to act clumsily or confused</code>
+</p>
+
+<ul class="org-ul">
+<li>The new swimmer had to flounder in the deep end until the lifeguard dragged him to safety.</li>
+<li>Unused to skating, the rookie hockey player would flounder on the ice until he learned to skate.</li>
+<li>After it hit the iceberg, the Titanic was left to flounder in the Atlantic Ocean before it finally sank.</li>
+<li>My father was afraid that I would flounder as I learned to ride a bike, so he never let go of the seat.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org60492c2" class="outline-2">
+<h2 id="org60492c2"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/flourish-in-a-sentence/">Flourish</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>to develop well</code>
+</p>
+
+<ul class="org-ul">
+<li>The fertile ground and ample water supply will allow the crops to flourish.</li>
+<li>With the assistance of a caring mentor, Jill was able to flourish academically and socially at her new school.</li>
+<li>The music department needs to raise money if it wants to have new instruments that allow the students to flourish.</li>
+<li>In our school, young people are able to flourish in a student-centered environment.</li>
+<li>Scientists were not surprised when the saltwater fish failed to flourish in the lake.</li>
+<li>After being held captive in a zoo for six years, the tiger did not flourish very well in the wild.</li>
+<li>The purpose of the meeting is to figure out why our company is failing to flourish in such a healthy economy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org18e4a23" class="outline-2">
+<h2 id="org18e4a23"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/flout-in-a-sentence/">Flout</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>to intentionally disobey (a law, rule, convention)</code>
+</p>
+
+<ul class="org-ul">
+<li>People find themselves in trouble because they think they’re clever enough to flout the law without getting caught.</li>
+<li>Once you flout the regulations of the IRS, you will likely spend a long time trying to get out of the hole you dug for yourself.</li>
+<li>If you’re a person who likes to flout authority, you could land in jail, but you could also end up being very successful.</li>
+<li>Safety guidelines exist for a reason, and if you flout them, there could be serious consequences.</li>
+<li>Many Amber Alerts involve children whose parents have decided to flout the orders of divorce court and abduct their own children.</li>
+<li>Because Marcy is someone who likes to flout convention, she went to church last Sunday wearing a sequined cocktail dress.</li>
+<li>Some of these daredevils who flout danger for a living are most likely adrenaline junkies.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2aee3aa" class="outline-2">
+<h2 id="org2aee3aa"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/fluffy-in-a-sentence/">Fluffy</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>to be furry or soft</code>
+</p>
+
+<ul class="org-ul">
+<li>Karen’s fluffy cat would brush up against me with her soft fur, but it would leave cat hair on my pant’s leg.</li>
+<li>Since I have children who frequently play on the floor, I knew I wanted to install fluffy carpet for comfort.</li>
+<li>When a child was admitted to the hospital, he or she would receive a fluffy stuffed animal to comfort him or her.</li>
+<li>After an exhausting day, my head sunk down into the fluffy pillow as I quickly went to sleep.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgadfee70" class="outline-2">
+<h2 id="orgadfee70"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/fluorescent-in-a-sentence/">Fluorescent</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>very bright and easy to see</code>
+</p>
+
+<ul class="org-ul">
+<li>Attracted to the fluorescent light, a swarm of bugs congregated around the porch.</li>
+<li>In order for the aquarium to reopen, the maintenance team had to replace the existing lighting with new fluorescent lights.</li>
+<li>The newly installed fluorescent lights lit the once dark sidewalks, allowing pedestrians to stay out later than usual.</li>
+<li>The fluorescent lights shined down on her shoes, causing them to appear a dark shade of green.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgeaa708e" class="outline-2">
+<h2 id="orgeaa708e"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/flustered-in-a-sentence/">Flustered</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>distressed and/or confused</code>
+</p>
+
+<ul class="org-ul">
+<li>The flustered defendant began to yell at the prosecutor.</li>
+<li>As a police officer, Bill knows the importance of not getting flustered when dealing with a rowdy suspect.</li>
+<li>The inexperienced actor became flustered when he forgot his lines during his audition.</li>
+<li>Because I hate to be the center of attention, I always become flustered when the teacher calls my name in class.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb94945d" class="outline-2">
+<h2 id="orgb94945d"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/foible-in-a-sentence/">Foible</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>a minor flaw or shortcoming in character or behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>Smoking is the foible that prevents Jenna from being healthy.</li>
+<li>Although many people consider Bob’s impatience as a foible, I view it as a passion to get things done.</li>
+<li>Jake’s only foible is his weakness for the gambling tables.</li>
+<li>Because I only smoke when I am nervous, I do not consider my smoking habit to be a foible.</li>
+<li>I love my husband even when he is showing his worst foible and being somewhat obnoxious.</li>
+<li>While I try and be patient with everyone, dishonesty is one foible I cannot tolerate.</li>
+<li>Wallace’s habit of talking before thinking is his most unpleasant foible.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb5a3013" class="outline-2">
+<h2 id="orgb5a3013"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/folly-in-a-sentence/">Folly</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>an action where wisdom is absent</code>
+</p>
+
+<ul class="org-ul">
+<li>In the film, the elderly man’s folly was marrying a gold-digger who only wanted his money.</li>
+<li>It was obvious the city’s folly was not being properly prepared for the hurricane that nearly destroyed it.</li>
+<li>Unfortunately, the man’s act of folly in the casino caused him to lose everything he owned.</li>
+<li>Going shopping on Christmas Eve was my husband’s worst folly ever.</li>
+<li>The folly that got Jim arrested was hanging out with the gang of robbers.</li>
+<li>Who would be stupid enough to commit the folly of buying a failing business in a small town?</li>
+<li>Frank made a huge folly when he depended upon an unreliable friend to help finish his literature project.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org854f4ef" class="outline-2">
+<h2 id="org854f4ef"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/forbear-in-a-sentence/">Forbear</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>to not engage in something; to refrain</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Catie did not have a date for the prom, she chose to forbear attending the event.</li>
+<li>Ted will forbear voting in the election because he does not feel any of the candidates are worthy of public office.</li>
+<li>While Helen is on a diet, she will forbear her craving for sweets.</li>
+<li>Although the joke was racially offensive, I could not forbear laughing at it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4bea8e4" class="outline-2">
+<h2 id="org4bea8e4"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/foreshadow-in-a-sentence/">Foreshadow</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>to indicate or signal beforehand that something is going to happen</code>
+</p>
+
+<ul class="org-ul">
+<li>Telling lies up front in a relationship can foreshadow serious problems down the road.</li>
+<li>A good author is able to foreshadow events that will take place later in his or her story.</li>
+<li>A collapse in the housing market will often foreshadow a general economic collapse.</li>
+<li>The physic indicated his visions were a way to foreshadow an unfortunate event.</li>
+<li>It seemed that the anti-drunk driving sticker was there to foreshadow his fate, leaving him victim of an irresponsible driver.</li>
+<li>The dissolving of peace treaties often works to foreshadow an inevitable war.</li>
+<li>He used the storm to foreshadow the death of his protagonist in a violent storm at sea.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6d63496" class="outline-2">
+<h2 id="org6d63496"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/forestall-in-a-sentence/">Forestall</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>to stop something from happening</code>
+</p>
+
+<ul class="org-ul">
+<li>To forestall the bank from foreclosing on his home, Jack sold all of his personal belongings to catch up on his mortgage payments.</li>
+<li>Liquor stores are required to check identification for anyone who looks under thirty in order to forestall underage driving.</li>
+<li>Fortunately at the last minute, a mediator was able to talk to the two world leaders and forestall a war.</li>
+<li>The government is hoping the distribution of stimulus checks will be enough to forestall a severe recession.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgce3c5af" class="outline-2">
+<h2 id="orgce3c5af"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/forfeit-in-a-sentence/">Forfeit</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>to lose or give up something</code>
+</p>
+
+<ul class="org-ul">
+<li>A lack of players caused the team to forfeit the game.</li>
+<li>To ensure his employees get a holiday bonus, the company president will forfeit his own surplus.</li>
+<li>James was told to forfeit all contact with convicted felons if he did not want to violate the terms of his parole.</li>
+<li>With that phone plan, Jack will have to forfeit any unused minutes because they will not rollover.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd070394" class="outline-2">
+<h2 id="orgd070394"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/forlorn-in-a-sentence/">Forlorn</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>lonely and miserable</code>
+</p>
+
+<ul class="org-ul">
+<li>The forlorn man was so sad he thought about killing himself.</li>
+<li>When we visit the nursing home, we try to spend extra time with all of the forlorn senior citizens.</li>
+<li>The forlorn widow was so unhappy she stopped eating.</li>
+<li>Since Jake works so much, he does not realize his wife is forlorn because she rarely gets to spend time with him.</li>
+<li>Jake was forlorn after his girlfriend moved out without any warning.</li>
+<li>At the bus stop, the anxious little girl cast a forlorn look at her father before stepping on the school bus for the first time.</li>
+<li>The new girl was forlorn as she sat alone in the cafeteria.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org41af848" class="outline-2">
+<h2 id="org41af848"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/forsake-in-a-sentence/">Forsake</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>to give up or abandon</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to be a nun, you must forsake all things which might interfere with your ability to dedicate your life to Christ.</li>
+<li>Jane has decided to forsake her participation in basketball until she improves her grades.</li>
+<li>In the military, you are asked to forsake your own needs for the needs of your country.</li>
+<li>The mentor hoped to encourage his ward to forsake his criminal behavior.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org60c85fc" class="outline-2">
+<h2 id="org60c85fc"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/forte-in-a-sentence/">Forte</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>an area in which an individual excels</code>
+</p>
+
+<ul class="org-ul">
+<li>Although dancing was Ann’s forte, she never considered having a career in entertainment.</li>
+<li>Tom knew comedy was not his forte when he failed to get a laugh from the friendly audience.</li>
+<li>Because cooking is not Cheryl’s forte, she orders out a great deal.</li>
+<li>I have to study hard in chemistry because the subject is definitely not my forte.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge0c2f68" class="outline-2">
+<h2 id="orge0c2f68"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/fortify-in-a-sentence/">Fortify</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>to strengthen</code>
+</p>
+
+<ul class="org-ul">
+<li>Storm shutters a good way to fortify your windows and prevent hurricane damage.</li>
+<li>With the enemy approaching, they worked to fortify their defenses.</li>
+<li>The stone wall was the first step, but they needed more to properly fortify the city.</li>
+<li>Modern clothing often uses nylon to fortify cotton and make it tougher.</li>
+<li>Many nutritionists actually argue that it is harmful to fortify milk with extra ingredients.</li>
+<li>He purchased Kevlar plates to fortify his vehicle against gunfire.</li>
+<li>To the religious, faith is a great way to fortify your spirit.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga4ab29d" class="outline-2">
+<h2 id="orga4ab29d"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/fortitude-in-a-sentence/">Fortitude</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>strength of mind that enables a person to face challenges with courage</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though the soldiers knew the odds were not in their favor, they had the fortitude to continue fighting.</li>
+<li>Most successful businessmen are not afraid to show fortitude when they face failure.</li>
+<li>Although William was dying from cancer, he still displayed great fortitude by keeping on a positive face in front of his family.</li>
+<li>The small boy’s fortitude allowed him to stand up to the school bully.</li>
+<li>Even though the little girl was frightened of the tornado, she had the fortitude to get herself and her younger brother into the safest area of their home.</li>
+<li>My Aunt Jane will need all the fortitude she possesses to deal with her newborn quadruplets.</li>
+<li>Although Mark was the smallest wrestler in the competition, his fortitude allowed him to take him the trophy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcbc1348" class="outline-2">
+<h2 id="orgcbc1348"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/fortuitous-in-a-sentence/">Fortuitous</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>happening by accident or chance</code>
+</p>
+
+<ul class="org-ul">
+<li>Mark proved to be fortuitous by selecting all six winning lotto numbers.</li>
+<li>It was a fortuitous coincidence that led the couple to meet at a football game twenty years ago.</li>
+<li>When Ellen had given up hope her car would start, a fortuitous encounter with a neighbor got her back on the road.</li>
+<li>If not for fortuitous events which increased her bank account, Sarah would never have been able to return to college.</li>
+<li>The decrease in unemployment is not a fortuitous result.</li>
+<li>Fortuitous and life-changing, Sam’s acceptance of Christ allowed him to move on after his wife’s death.</li>
+<li>Just as the bank was about to foreclose on the Smith family home, Mr. Smith received a fortuitous job offer.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org24431b4" class="outline-2">
+<h2 id="org24431b4"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/fractious-in-a-sentence/">Fractious</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>hard to manage or control</code>
+</p>
+
+<ul class="org-ul">
+<li>The inexperienced teacher found the fractious students difficult to control.</li>
+<li>During the concert, police officers were on hand just in case the crowd became fractious.</li>
+<li>The fractious child would not listen to a word his mother said.</li>
+<li>As a new manager, Hank is not used to dealing with fractious employees who do not follow directions.</li>
+<li>The fractious dog would not obey its owner’s commands.</li>
+<li>When the rebels’ group leader died, the group became fractious and unable to work as a unit.</li>
+<li>The principal gave the fractious students detention for misbehaving in the cafeteria.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org540454c" class="outline-2">
+<h2 id="org540454c"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/frail-in-a-sentence/">Frail</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>weak and delicate</code>
+</p>
+
+<ul class="org-ul">
+<li>Listening to his father’s frail voice as he laid on his death bed, Victor became overwhelmed with emotion.</li>
+<li>The frail old lady was having a hard time carrying her suitcase to her room, so I offered my help.</li>
+<li>We were warned not to step out onto the frail balcony, because the storm had knocked off some of its support beams.</li>
+<li>The bridge was declared to be too frail for use after it was inspected by government officials, which is why it was demolished.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org484fd69" class="outline-2">
+<h2 id="org484fd69"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/frantic-in-a-sentence/">Frantic</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>in a state of panic, worry, frenzy or rush</code>
+</p>
+
+<ul class="org-ul">
+<li>The frantic squirrel ran around Sophia’s house in a state of panic after it jumped through her kitchen window.</li>
+<li>When Billy did not come home after school, his mother became frantic with worry.</li>
+<li>Frantic efforts to locate the lost child continued, despite the fact that rain was coming down in sheets.</li>
+<li>The frantic thug raced into oncoming traffic in his desperate attempt to flee from the cops.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgca18ab4" class="outline-2">
+<h2 id="orgca18ab4"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/fraudulent-in-a-sentence/">Fraudulent</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>dishonest; based on fraud or deception</code>
+</p>
+
+<ul class="org-ul">
+<li>It came as a shock to us that our friendly neighbor was really a fraudulent person who had ties to the mob.</li>
+<li>The guy standing in front of me at the bank tried to cash a fraudulent check, which landed him in prison.</li>
+<li>Although many people think that George is an honest guy, I believe that he is a fraudulent person because of the deceptive look in his eyes.</li>
+<li>Rick admitted that he had filed fraudulent tax returns because he was trying to save money.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org129a3af" class="outline-2">
+<h2 id="org129a3af"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/fraught-in-a-sentence/">Fraught</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>full of; accompanied by</code>
+</p>
+
+<ul class="org-ul">
+<li>The treasure hunt was fraught with puzzles that had to be solved in order to find the fortune.</li>
+<li>Because Jim and Hazel’s marriage had been fraught with issues for years, it came as no surprise to anyone when Hazel filed for divorce.</li>
+<li>The talk of war is fraught with difficult discussions about cost and manpower.</li>
+<li>Although I am not concerned about the trip through the jungle, I do know the journey will be fraught with risks.</li>
+<li>When my son did not arrive home on time, I was fraught with fear.</li>
+<li>During the riots, the streets were fraught with danger.</li>
+<li>Because AIDS is a disease which is fraught with pain and suffering, many people prefer not to think about it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga0acef9" class="outline-2">
+<h2 id="orga0acef9"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/fray-in-a-sentence/">Fray</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>a fight, battle, or skirmish</code>
+</p>
+
+<ul class="org-ul">
+<li>Soon the mob joined the fray, and began swinging at their opponents with clubs.</li>
+<li>As this year’s election heats up, more and more politicians are being drawn into the fray.</li>
+<li>When America was attacked at Pearl Harbor, they hurried to enter the fray.</li>
+<li>After sustaining damage to his upper lip during a boxing match, Carl got patched up and reentered the fray.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7da4f61" class="outline-2">
+<h2 id="org7da4f61"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/frenetic-in-a-sentence/">Frenetic</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>fast, frantic, harried, or frenzied</code>
+</p>
+
+<ul class="org-ul">
+<li>After keeping up a frenetic pace trying to keep up with classes, work, and family, Marcy felt like she was on the brink of a nervous breakdown.</li>
+<li>My husband doesn’t go to a movie unless it is full of the frenetic action of car chases, mob scenes, fights, and intense special effects.</li>
+<li>Yesterday the sales floor was even more frenetic than usual because of the big clearance sale.</li>
+<li>Although most people believe that the celebrity couple maintains a frenetic lifestyle, all the stories are pure publicity schemes.</li>
+<li>When they got home, they found that the apartment had been turned upside down, as if someone had conducted a frenetic search for something valuable.</li>
+<li>This exercise program is so excellent for weight loss because the frenetic tempo of the music really helps burn the calories.</li>
+<li>Although the Emergency Room seemed no more than a hive of frenetic activity after the bus crash, every doctor and nurse was performing at top efficiency.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org036e181" class="outline-2">
+<h2 id="org036e181"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/fret-in-a-sentence/">Fret</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>worry; be anxious</code>
+</p>
+
+<ul class="org-ul">
+<li>After she lost the part in the school play, she would sit and fret about her situation.</li>
+<li>My grandma told me not to fret about dicing the potatoes the same size.</li>
+<li>When the baby would fret during service, my mother would take her out to the lobby.</li>
+<li>Known as a perfectionist, the seamstress would fret over her stitching.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6e3a6d5" class="outline-2">
+<h2 id="org6e3a6d5"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/frigid-in-a-sentence/">Frigid</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>emotionally cold; indifferent</code>
+</p>
+
+<ul class="org-ul">
+<li>My frigid aunt did not crack a smile when she saw my adorable newborn.</li>
+<li>Since Janice grew up in a frigid household, she did not know the right way to express her emotions.</li>
+<li>Harry’s wife calls him frigid because he keeps his feelings to himself.</li>
+<li>Because I knew my frigid professor would be indifferent to my excuse, I did not bother to give a reason for my tardiness.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org273d68a" class="outline-2">
+<h2 id="org273d68a"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/frisky-in-a-sentence/">Frisky</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>full of playful and lively energy</code>
+</p>
+
+<ul class="org-ul">
+<li>Our frisky little terrier is always running after something in the yard.</li>
+<li>Though he is almost ninety, the frisky old-man is still as energetic as ever.</li>
+<li>Mya’s puppy sleeps all the time, but mine is frisky and likes to play.</li>
+<li>Chasing after the mouse, the frisky little liked to play as if he would capture it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org93bda21" class="outline-2">
+<h2 id="org93bda21"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/frivolity-in-a-sentence/">Frivolity</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>that which is not necessary or meaningful</code>
+</p>
+
+<ul class="org-ul">
+<li>The spoiled heiress is known for her frivolity and once purchased fifty identical dresses so no one could copy her look.</li>
+<li>When the professor made us pass a beach ball around the room, I knew today’s lecture was going to be fun and filled with frivolity.</li>
+<li>Because Cheryl needed a break from the stress of her job and family, she was happy to head off to the frivolity of the costume party.</li>
+<li>To the monk, owning more than one pair of shoes was a frivolity.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgecb1ea0" class="outline-2">
+<h2 id="orgecb1ea0"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/frivolous-in-a-sentence/">Frivolous</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>of no real worth</code>
+</p>
+
+<ul class="org-ul">
+<li>My mother often spends her monthly pension on frivolous purchases she never uses.</li>
+<li>When Jane gave me a frivolous apology, I was unimpressed by her fake sincerity.</li>
+<li>Students who consider test instructions to be frivolous often fail exams.</li>
+<li>As soon as the judge heard the details of the frivolous lawsuit, he dismissed the case.</li>
+<li>There is no way the court will listen to your frivolous appeal!</li>
+<li>Although the purchase of the abandoned pit seemed frivolous, the recent gold discovery has proven the area’s true worth.</li>
+<li>Spending money on lottery tickets when you cannot pay your bills seems a bit frivolous to me.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6863c52" class="outline-2">
+<h2 id="org6863c52"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/frugal-in-a-sentence/">Frugal</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>careful in spending money</code>
+</p>
+
+<ul class="org-ul">
+<li>Stop being so frugal and just buy me a real gold necklace!</li>
+<li>Fran is a frugal person because she spends endless hours clipping coupons.</li>
+<li>I wanted front row seats, but my frugal husband wanted to save a bundle by purchasing back row seats.</li>
+<li>Because our company is frugal, we have to recycle all paper and plastic items.</li>
+<li>Buying in bulk to save a few dollars is part of my frugal lifestyle.</li>
+<li>I specifically requested the expensive brand; but no, you chose to be frugal.</li>
+<li>Brian, a frugal man, would cut his own hair to save money.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb46dafc" class="outline-2">
+<h2 id="orgb46dafc"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/fulsome-in-a-sentence/">Fulsome</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>extreme flattering to the point of excess</code>
+</p>
+
+<ul class="org-ul">
+<li>The stranger’s fulsome attention put me on edge.</li>
+<li>In an attempt to earn a promotion, Sarah offended her boss with her fulsome compliments.</li>
+<li>I can always count on my best friend to be honest with me and not fulsome when telling me how I really look.</li>
+<li>Although Cara is very pretty, she rarely goes out with her friends because she does not like men approaching her with fulsome flattery.</li>
+<li>Whenever someone gives the president fulsome compliments, he always questions their motives.</li>
+<li>Because I knew Cathy hated me, I did not believe her fulsome praise for a moment.</li>
+<li>The salesman did not realize his fulsome compliments were so excessive they actually turned off prospective customers.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd34cf75" class="outline-2">
+<h2 id="orgd34cf75"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/fumigate-in-a-sentence/">Fumigate</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>to cleanse or sterilize an area using a gas or vapor substance</code>
+</p>
+
+<ul class="org-ul">
+<li>An infestation of roaches caused a hired exterminator to demand everyone to leave the house since he would fumigate it with a hazy material.</li>
+<li>You can really only get rid of termites if you are willing to tent your house and fumigate it with a pesticide spray.</li>
+<li>At first when I noticed the fumes in the room, I thought it was a fire until I forgot that my husband needed to fumigate the house to rid it of fleas.</li>
+<li>If you have bedbugs and need to fumigate your house, you must leave since your lungs can’t handle the strong gas of the bug killer.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7932ec2" class="outline-2">
+<h2 id="org7932ec2"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/furtive-in-a-sentence/">Furtive</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>marked by quiet, caution, and secrecy</code>
+</p>
+
+<ul class="org-ul">
+<li>Crissy walked outside in a furtive manner so that her parents would not see her.</li>
+<li>Students who cheat on tests employ their furtive tactics to avoid getting caught.</li>
+<li>Though he was furtive with his tears, I could still visibly see them.</li>
+<li>In the stakeout, investigators recorded video footage, furtive to the people of interest, to make a strong case.</li>
+<li>When the boss was not looking, the furtive employer sent text messages to friends.</li>
+<li>Timothy made furtive glances to his crush rather than making apparent eye contact.</li>
+<li>Mexican prisoners made a furtive escape by digging a tunnel, leaving police officials in disbelief in how this was secretly accomplished.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5b8b25e" class="outline-2">
+<h2 id="org5b8b25e"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/fussy-in-a-sentence/">Fussy</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>hard to please</code>
+</p>
+
+<ul class="org-ul">
+<li>Refusing to be soothed, the fussy baby whined and cried all night long.</li>
+<li>My fussy sister always complains and is never satisfied with the way the beautician does her hair.</li>
+<li>Fussy freshman stuck their noses up at the cafeteria food and weren’t pleased with their course list either.</li>
+<li>My husband thinks that I am too fussy when it comes to laundry, but I think it’s good to be particular.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf634c77" class="outline-2">
+<h2 id="orgf634c77"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/fallacy-in-a-sentence/">Fallacy</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>an idea or belief that is false but many people think is true</code>
+</p>
+
+<ul class="org-ul">
+<li>Having money makes you happy is a fallacy because happiness has nothing to do with wealth.</li>
+<li>While the business plan sounds good on paper, it is built on the fallacy that people will pay thirty dollars to see a movie.</li>
+<li>Because that fallacy is so ridiculous, I cannot understand how you believe it!</li>
+<li>Mark’s fallacy on the workings of the stock market caused us all to lose a great deal of money.</li>
+<li>It is a fallacy to assume all poor people are uneducated.</li>
+<li>During the debate, the fallacy of John’s argument was apparent to everyone.</li>
+<li>After the patient did not feel better within three days, the doctor realized the fallacy of treating the illness with antibiotics.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org96bd951" class="outline-2">
+<h2 id="org96bd951"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/famished-in-a-sentence/">Famished</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>extremely hungry</code>
+</p>
+
+<ul class="org-ul">
+<li>The man had not eaten for days, so when I asked if he was hungry he responded by saying “I’m famished.”</li>
+<li>The boy looked absolutely famished, his body nothing but skin and bones.</li>
+<li>Though many people experience hunger, few ever understand what it is like to truly be famished.</li>
+<li>The homeless of the world are often left famished, happy to get even scraps of food.</li>
+<li>Since she had fasted all day yesterday, the woman was absolutely famished.</li>
+<li>Though he was likely famished from the demonstration, Gandhi starved himself during his hunger strike.</li>
+<li>He was so famished that he ate an entire tray of sandwiches.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf05b0d5" class="outline-2">
+<h2 id="orgf05b0d5"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/fatal-in-a-sentence/">Fatal</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>causes death or leads to a disaster</code>
+</p>
+
+<ul class="org-ul">
+<li>Dropping a fatal dose of poison into the goblet, the evil queen smiled down at her deathly elixir.</li>
+<li>Without an antidote to treat the patient, the poisonous snakebite would prove fatal.</li>
+<li>A fatal crash during the blizzard claimed the lives of two prominent senators.</li>
+<li>The dive instructors explained that although a rare occurrence, fatal shark attacks do occur during dives.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgacdc161" class="outline-2">
+<h2 id="orgacdc161"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/fathom-in-a-sentence/">Fathom</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>to penetrate for understanding</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I have always done my work, I cannot fathom why my boss just fired me.</li>
+<li>Jackson could not fathom the solution to the complex puzzle.</li>
+<li>Miriam found it difficult to fathom her husband’s unpredictable habits.</li>
+<li>As an avid lover of jazz music, I cannot fathom how anyone can listen to any other type of music.</li>
+<li>As a strict vegetarian, I am unable to fathom the concept of a meat craving.</li>
+<li>Many people find it difficult to fathom abstract works of art.</li>
+<li>Even though I have thought about it for quite a while, I still cannot fathom why the heiress is going to marry a homeless man.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org113bdc3" class="outline-2">
+<h2 id="org113bdc3"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/fatuity-in-a-sentence/">Fatuity</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>pointless foolishness and stupidity</code>
+</p>
+
+<ul class="org-ul">
+<li>Even in his 40’s, the irresponsible man spent most of his salary on video games and other fatuity.</li>
+<li>The woman tried to convince her husband that playing the lottery is senseless fatuity and would lead to nothing.</li>
+<li>Fatuity and silliness during class caused the boy to fail most of his midterms.</li>
+<li>Although he considered his pranks funny, his irritated victims saw them as childish fatuity.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7833c21" class="outline-2">
+<h2 id="org7833c21"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/faze-in-a-sentence/">Faze</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>unnerve; disturb</code>
+</p>
+
+<ul class="org-ul">
+<li>Negative comments aimed at the politician did not faze his nerves of steel.</li>
+<li>Interviewers were unable to faze the relaxed applicant.</li>
+<li>Confident and self-assured, the mix-up in music did not faze the poised ballerina.</li>
+<li>Even extreme blows from his tough competitor did not faze the prize-winning fighter.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbde0137" class="outline-2">
+<h2 id="orgbde0137"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/fealty-in-a-sentence/">Fealty</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>an official acknowledgment of loyalty</code>
+</p>
+
+<ul class="org-ul">
+<li>When the president took his oath, he swore fealty to the nation.</li>
+<li>The knight swore fealty to the king and his kingdom.</li>
+<li>Before joining the army, Danielle will declare her fealty to her country.</li>
+<li>The soldier maintained his fealty to his country even when he was being tortured by the enemy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcf68cec" class="outline-2">
+<h2 id="orgcf68cec"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/feat-in-a-sentence/">Feat</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>a deed of courage, endurance, skill, or cleverness</code>
+</p>
+
+<ul class="org-ul">
+<li>The man was honored when the king learned of his feat.</li>
+<li>In order to achieve the feat, the knight must slay the dragon.</li>
+<li>It is a rare feat when an archer hits the center target twenty times in a row.</li>
+<li>Winning the marathon was a feat for the one-legged athlete.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org743e10b" class="outline-2">
+<h2 id="org743e10b"><span class="section-number-2">70</span> <a href="https://wordsinasentence.com/febrile-in-a-sentence/">Febrile</a></h2>
+<div class="outline-text-2" id="text-70">
+<p>
+<code>associated with a fever</code>
+</p>
+
+<ul class="org-ul">
+<li>The mother gave her febrile son acetaminophen to bring down his body temperature.</li>
+<li>If you get the febrile illness, you will have a fever for several weeks.</li>
+<li>My mother touched my forehead to see if I had a febrile sickness.</li>
+<li>When I was in the hospital, the nurses checked my temperature often to assess my febrile response to the infection.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org15b53f1" class="outline-2">
+<h2 id="org15b53f1"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/feeble-in-a-sentence/">Feeble</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>lacking strength; weak</code>
+</p>
+
+<ul class="org-ul">
+<li>The injured man was so feeble he could not get off the floor.</li>
+<li>Because my eyesight is too feeble, I cannot get a driver’s license.</li>
+<li>Gary’s feeble attempt to win the race did not earn him a trophy.</li>
+<li>As the cancer worsened, Katy lost all of her energy and became extremely feeble.</li>
+<li>The nurse had to bathe the feeble old woman.</li>
+<li>Although Jack was feeble for months after his surgery, he is now healthy enough to run a marathon.</li>
+<li>The flu virus drained all of my energy and made me feeble.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org013a22e" class="outline-2">
+<h2 id="org013a22e"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/feint-in-a-sentence/">Feint</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>a deceptive look or act</code>
+</p>
+
+<ul class="org-ul">
+<li>The child’s feint involved pretending to be ill so he would not have to face his bullies at school.</li>
+<li>Looking at the surveillance tapes, the security chief quickly noticed the feint the man used to steal watches from the jeweler.</li>
+<li>The police watched as the drug dealer swapped duffel bags during the feint.</li>
+<li>Now the jury must decide if the plaintiff is presenting a feint to win a settlement or if he has sustained an injury caused by the defendant.</li>
+<li>The basketball player exhibited a clever feint when he pretended to pass the ball and then leaped up for the game-winning shot.</li>
+<li>Although Miss America wore a feint of joy to hide her feelings, she was upset about placing second in the Miss Universe competition.</li>
+<li>The casino was not fooled by the man’s feint of innocence when he was caught cheating at blackjack.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgacf1166" class="outline-2">
+<h2 id="orgacf1166"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/feisty-in-a-sentence/">Feisty</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>aggressively energetic; courageous</code>
+</p>
+
+<ul class="org-ul">
+<li>Always ready for a fight, the feisty Chihuahua’s bark was much bigger than his bite.</li>
+<li>The shy sister always depended on her feisty siblings to stand up for her during difficult times.</li>
+<li>The feisty salesman’s go-getting attitude made him a shoe-in for the department promotion.</li>
+<li>A full-blooded match between the two feisty teams ended in a 1 to 0 win for the underdogs.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org035eb9a" class="outline-2">
+<h2 id="org035eb9a"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/felicitate-in-a-sentence/">Felicitate</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>to congratulate</code>
+</p>
+
+<ul class="org-ul">
+<li>Cards and gifts arrived by mail to felicitate the graduate on his academic achievements.</li>
+<li>The ornate shawl was given by the tribe to felicitate the woman on the birth of her new baby.</li>
+<li>Contestants from other states rushed to felicitate the winner of the pageant.</li>
+<li>Although he was disappointed by the loss, the defeated incumbent candidate walked over to felicitate his successor.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org12279ae" class="outline-2">
+<h2 id="org12279ae"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/felicitous-in-a-sentence/">Felicitous</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>pleasant or delightful</code>
+</p>
+
+<ul class="org-ul">
+<li>The felicitous music made me happy.</li>
+<li>Because my daughter is such a happy person, Holly is a felicitous name for her.</li>
+<li>Although I normally hate eating at my mother-in-law’s house, last night I enjoyed a felicitous meal there.</li>
+<li>When my girlfriends and I get together, we always enjoy felicitous conversation.</li>
+<li>Since I have plans to go to the beach today, I hope the weather is felicitous.</li>
+<li>By adding the festive decorations, you have turned this dull room into a felicitous area.</li>
+<li>Jenna could think of nothing more felicitous than spending the entire weekend with her family.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6baaa39" class="outline-2">
+<h2 id="org6baaa39"><span class="section-number-2">76</span> <a href="https://wordsinasentence.com/feline-in-a-sentence/">Feline</a></h2>
+<div class="outline-text-2" id="text-76">
+<p>
+<code>looking or moving like a cat</code>
+</p>
+
+<ul class="org-ul">
+<li>Broadway stars for the award-winning musical quickly dressed in their feline costumes and meowed as the pounced onto the stage.</li>
+<li>Scaling the mountain like a feline, the courageous adventurer was able to climb even the most difficult portions.</li>
+<li>The feline spy crouched behind the barrels and eavesdropped on the enemy’s conversation.</li>
+<li>Moving with a feline grace, the competitor shifted through the obstacle course in record time.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org059e76d" class="outline-2">
+<h2 id="org059e76d"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/felon-in-a-sentence/">Felon</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>a person who has committed a felony or been convicted of a felony</code>
+</p>
+
+<ul class="org-ul">
+<li>Previously convicted for armed robbery in 1998, the dangerous felon gets five years in prison for possessing a high-powered rifle and multiple rounds of ammunition.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org48fe106" class="outline-2">
+<h2 id="org48fe106"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/feral-in-a-sentence/">Feral</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>unruly or wild, often related to animals</code>
+</p>
+
+<ul class="org-ul">
+<li>The feral dog would not approach humans.</li>
+<li>After living in the forest for five years, the child had become feral and no longer knew how to act like a human.</li>
+<li>The animal trainer believes he can teach the feral cat how to behave in a friendly manner.</li>
+<li>Because the horse is feral, it will be a while before it will be tame enough to be ridden.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3b097c6" class="outline-2">
+<h2 id="org3b097c6"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/fiat-in-a-sentence/">Fiat</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>a commanding order</code>
+</p>
+
+<ul class="org-ul">
+<li>The dictator rules his country by fiat and expects everyone to obey his orders.</li>
+<li>If citizens do not monitor the government, they could be controlled by the fiat of a small group of people.</li>
+<li>The restaurant manager issued a fiat stating employees could not place their vehicles in the customer parking area.</li>
+<li>When the president issued a fiat giving a longtime friend a pardon, the public was outraged.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org05096b7" class="outline-2">
+<h2 id="org05096b7"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/filial-in-a-sentence/">Filial</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>pertaining to a son or daughter</code>
+</p>
+
+<ul class="org-ul">
+<li>Frank has a filial affection for the uncle who raised him.</li>
+<li>On Father’s Day, a large number of visitors entered the town cemetery to pay filial respect to the men who gave them life.</li>
+<li>Chuck believes it is his filial duty to send money home to his parents each month.</li>
+<li>In many cultures, adult children often care for their elders as part of their filial responsibility.</li>
+<li>Although Chad loved his father, he found it difficult to display filial devotion to the man who physically abused him as a child.</li>
+<li>Susan never moved out of her family home because of her filial duty to her ill mother.</li>
+<li>When Jimmy’s father deserted him at a young age, Jimmy found it impossible to have any filial affection for the man.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9971a54" class="outline-2">
+<h2 id="org9971a54"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/filibuster-in-a-sentence/">Filibuster</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>a delaying tactic; a long speech given in order to delay progress or the making of a decision</code>
+</p>
+
+<ul class="org-ul">
+<li>The senator will filibuster to prevent a vote on the bill.</li>
+<li>John will filibuster, talking the gun bill to death.</li>
+<li>The filibuster took so long that everyone left the Senate.</li>
+<li>Strom Thurmond’s senate filibuster lasted over 24 hours.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org596c06f" class="outline-2">
+<h2 id="org596c06f"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/finagle-in-a-sentence/">Finagle</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>to acquire something by deception or scam</code>
+</p>
+
+<ul class="org-ul">
+<li>In order to finagle getting the candy from his father before dinner, the little boy explained to his dad that mom was serving dinner at a much later time.</li>
+<li>The only way for Paul to get a better grade in his math class was for him to finagle the software program into printing the wrong grade on his report card.</li>
+<li>It is sad that telemarketers will purposefully call elderly citizens to try to finagle them out of their money.</li>
+<li>Since the teenager couldn’t afford to pay for his credit card payment, he decided to finagle the company by telling them that his credit card was stolen a few weeks ago.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2a4f8b1" class="outline-2">
+<h2 id="org2a4f8b1"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/finale-in-a-sentence/">Finale</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>the grand end of something especially a show or piece of music</code>
+</p>
+
+<ul class="org-ul">
+<li>I was on the edge of my seat last night while watching the finale of my favorite television show.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org42da458" class="outline-2">
+<h2 id="org42da458"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/fiscal-in-a-sentence/">Fiscal</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>associated with financial affairs</code>
+</p>
+
+<ul class="org-ul">
+<li>My daughter lacks a sense of fiscal duty and rarely pays her bills on time.</li>
+<li>When the fiscal expert reviewed the company’s cash flow, he realized funds were missing from several accounts.</li>
+<li>The firm’s accountant is responsible for keeping track of our fiscal matters.</li>
+<li>If the country wants to avoid an economic crisis, legislators need to rewrite the current fiscal policies.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga2c0c48" class="outline-2">
+<h2 id="orga2c0c48"><span class="section-number-2">85</span> <a href="https://wordsinasentence.com/fissure-in-a-sentence/">Fissure</a></h2>
+<div class="outline-text-2" id="text-85">
+<p>
+<code>a narrow opening or crack</code>
+</p>
+
+<ul class="org-ul">
+<li>The homeowners were dismayed to discover a fissure in the foundation of their home.</li>
+<li>A fissure in the glass of the fish tank caused a slow leak.</li>
+<li>After the earthquake, a fissure lined the street outside.</li>
+<li>The doctor examined the patient, determining the diagnosis to be a skin fissure.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org10c3b2e" class="outline-2">
+<h2 id="org10c3b2e"><span class="section-number-2">86</span> <a href="https://wordsinasentence.com/fitful-in-a-sentence/">Fitful</a></h2>
+<div class="outline-text-2" id="text-86">
+<p>
+<code>unsteady; erratic</code>
+</p>
+
+<ul class="org-ul">
+<li>Jim was tired when he woke up after a fitful night of sleep.</li>
+<li>When I visited the doctor, he was concerned about my fitful heartbeat and ordered an EKG.</li>
+<li>The intoxicated man walked in a fitful manner to the restroom.</li>
+<li>Because the weather has been fitful lately, we are not sure if our outdoor wedding is going to take place.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org475b483" class="outline-2">
+<h2 id="org475b483"><span class="section-number-2">87</span> <a href="https://wordsinasentence.com/flaccid-in-a-sentence/">Flaccid</a></h2>
+<div class="outline-text-2" id="text-87">
+<p>
+<code>short on force or strength</code>
+</p>
+
+<ul class="org-ul">
+<li>The flaccid wind did not stir the chimes on the front porch.</li>
+<li>Because of flaccid support, the bill will not be introduced in the upcoming legislative session.</li>
+<li>The local union is a flaccid organization that lacks the power to negotiate higher wages for its members.</li>
+<li>If the flaccid principal does not enforce rules against gang activities, he will lose his school to drugs and violence.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge4085ff" class="outline-2">
+<h2 id="orge4085ff"><span class="section-number-2">88</span> <a href="https://wordsinasentence.com/flagellate-in-a-sentence/">Flagellate</a></h2>
+<div class="outline-text-2" id="text-88">
+<p>
+<code>to punish by severely whipping for a certain purpose</code>
+</p>
+
+<ul class="org-ul">
+<li>American citizens feared the courts would flagellate them for vandalizing cars in Singapore leaving strap marks on their backs.</li>
+<li>Believed to be abuse, the parents’ use of punishment for their children was to flagellate them using a heavy belt.</li>
+<li>When Sarah’s sister refused to return her cashmere sweater, Sarah took it upon herself to flagellate her sister’s arm leaving a large red mark.</li>
+<li>During the religious ceremony, the members were required to flagellate themselves with the sacred rod as an act of devotion to their god.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc534e6e" class="outline-2">
+<h2 id="orgc534e6e"><span class="section-number-2">89</span> <a href="https://wordsinasentence.com/flair-in-a-sentence/">Flair</a></h2>
+<div class="outline-text-2" id="text-89">
+<p>
+<code>the natural capability to do something very well</code>
+</p>
+
+<ul class="org-ul">
+<li>Anna demonstrated her flair for drama by passing out when her daughter announced she was not going to college.</li>
+<li>Because Sally has a flair for culinary arts, she is often asked by her friends to cater their special events.</li>
+<li>It is obvious from David’s mumbling that he does not have a flair for public speaking.</li>
+<li>Since Rich has a flair for storytelling, it is not surprising that he is a popular children’s author.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge6109f5" class="outline-2">
+<h2 id="orge6109f5"><span class="section-number-2">90</span> <a href="https://wordsinasentence.com/flak-in-a-sentence/">Flak</a></h2>
+<div class="outline-text-2" id="text-90">
+<p>
+<code>adverse criticism</code>
+</p>
+
+<ul class="org-ul">
+<li>The unhappy customer gave George flak for the long wait time.</li>
+<li>Afraid of the flak he would receive, Ron waited to tell his dad about the broken window.</li>
+<li>The company received a lot of flak for the product they recalled.</li>
+<li>My rowdy personality caught a lot of flak from teachers in school.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3eb7071" class="outline-2">
+<h2 id="org3eb7071"><span class="section-number-2">91</span> <a href="https://wordsinasentence.com/flinch-in-a-sentence/">Flinch</a></h2>
+<div class="outline-text-2" id="text-91">
+<p>
+<code>to cringe or jump slightly unintentionally</code>
+</p>
+
+<ul class="org-ul">
+<li>The young boy would flinch when the bee buzzed right next to his ear causing his head to turn suddenly away from the bee.</li>
+<li>While the robber was trying to sneak into the house, he noticed the two young girls flinch at the sound of the glass breaking by their bodies’ slight movement.</li>
+<li>While shooting a gun, I would always flinch at the loud sound causing the gun to bounce upward.</li>
+<li>Detonation of the fire alarm suddenly caused the children to flinch shifting them in their seats.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org79cf551" class="outline-2">
+<h2 id="org79cf551"><span class="section-number-2">92</span> <a href="https://wordsinasentence.com/floppy-in-a-sentence/">Floppy</a></h2>
+<div class="outline-text-2" id="text-92">
+<p>
+<code>limp or loose</code>
+</p>
+
+<ul class="org-ul">
+<li>The rabbit’s floppy ears bounced around as it hopped through the tall grass.</li>
+<li>Walking in floppy footwear, the woman’s children laughed at the way her sandals bounced up and down.</li>
+<li>With her floppy hat drooping over her eyes, the woman sunbathed on the beach for several hours.</li>
+<li>A huge, floppy overcoat was so loose that it seemed to swallow the wearer whole.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0af0ff1" class="outline-2">
+<h2 id="org0af0ff1"><span class="section-number-2">93</span> <a href="https://wordsinasentence.com/fluke-in-a-sentence/">Fluke</a></h2>
+<div class="outline-text-2" id="text-93">
+<p>
+<code>a coincidence or accident that something happened</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I didn’t study or attend class on a regular basis, it was simply a fluke that I passed the exam.</li>
+<li>Knowing my strict boss never found the good in any employee, it seemed like a fluke that he would offer me a promotion.</li>
+<li>“It was just a fluke that I caught the winning touchdown,” stated the humbled football player, “because I was just in the right place at the right time."</li>
+<li>Winning the lottery is always a fluke due to buying the lucky ticket completely by chance.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org963bc4f" class="outline-2">
+<h2 id="org963bc4f"><span class="section-number-2">94</span> <a href="https://wordsinasentence.com/flutter-in-a-sentence/">Flutter</a></h2>
+<div class="outline-text-2" id="text-94">
+<p>
+<code>to wave wings back and forth quickly</code>
+</p>
+
+<ul class="org-ul">
+<li>The hummingbirds flutter their wings so quickly that a person can barely see the wings at all.</li>
+<li>Several pieces of paper flutter on the desk since the window was left open on a windy day.</li>
+<li>When the butterfly’s wings flutter, the butterfly moves upward to the nearest branch of the bush.</li>
+<li>As the boy would flutter his arms, it would create a slight breeze around him.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org49b2672" class="outline-2">
+<h2 id="org49b2672"><span class="section-number-2">95</span> <a href="https://wordsinasentence.com/flux-in-a-sentence/">Flux</a></h2>
+<div class="outline-text-2" id="text-95">
+<p>
+<code>continual change</code>
+</p>
+
+<ul class="org-ul">
+<li>My hotel reservations are in flux because I can’t decide where I want to stay during my vacation.</li>
+<li>Because the electricity is in flux, the hotel can’t guarantee the air conditioning will work throughout the night.</li>
+<li>Since mobile phone technology is in flux, new phones are constantly being introduced.</li>
+<li>I never know how much I'll pay for a gallon of fuel because gas prices are always in flux.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcbcfc34" class="outline-2">
+<h2 id="orgcbcfc34"><span class="section-number-2">96</span> <a href="https://wordsinasentence.com/foist-in-a-sentence/">Foist</a></h2>
+<div class="outline-text-2" id="text-96">
+<p>
+<code>to compel a person or group to accept something that is not wanted</code>
+</p>
+
+<ul class="org-ul">
+<li>The government has decided to foist yet another tax increase on the public.</li>
+<li>When I vote for city council members, I try to vote for those who will not foist awful mandates upon the city.</li>
+<li>Sometimes it seems as if television networks have no other desire but to foist terrible reality shows on viewers.</li>
+<li>Despite public opinion, the president chose to foist his inadequate healthcare plan on the nation.</li>
+<li>My lazy boss had the nerve to foist his assignment on me.</li>
+<li>With so many schools performing poorly, it is surprising the state is going to foist tougher graduation requirements upon students.</li>
+<li>My bossy sister is always trying to foist her opinion upon others.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb4e0cf0" class="outline-2">
+<h2 id="orgb4e0cf0"><span class="section-number-2">97</span> <a href="https://wordsinasentence.com/foment-in-a-sentence/">Foment</a></h2>
+<div class="outline-text-2" id="text-97">
+<p>
+<code>to stir up or incite</code>
+</p>
+
+<ul class="org-ul">
+<li>The publicity-hungry politician often made harsh statements about immigrants in order to foment unrest among the public.</li>
+<li>Despite popular beliefs, the police are here to keep people calm, not to foment violence.</li>
+<li>The celebrity liked to foment rumors by posting cryptic statements about her private relationships online.</li>
+<li>If the dictator thinks you’re trying to foment turmoil in order to start a rebellion, he’ll have you executed on national television.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgae85689" class="outline-2">
+<h2 id="orgae85689"><span class="section-number-2">98</span> <a href="https://wordsinasentence.com/foray-in-a-sentence/">Foray</a></h2>
+<div class="outline-text-2" id="text-98">
+<p>
+<code>an initial attempt at something</code>
+</p>
+
+<ul class="org-ul">
+<li>Although we felt a little anxious about our foray into the jungle, we were still looking forward to our first big game hunt.</li>
+<li>The aging senator told the voters that this election would be his final foray into the world of politics.</li>
+<li>Before their foray into enemy territory, a scouting party was sent to observe the guard stations.</li>
+<li>During the hottest months of summer, one of my favorite escapes is a foray to the air-conditioned mall to do a little window shopping.</li>
+<li>Tired of being single, Rachel decided to try a foray into the realm of online romance.</li>
+<li>Compared to her recent foray into the fantasy land of elves, sorcerers, and handsome princes, Celia found her actual life hopelessly dull.</li>
+<li>When she took her first bite of the spicy curry, she wondered why she hadn’t made a foray into Indian cuisine a long time ago.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9a27f50" class="outline-2">
+<h2 id="org9a27f50"><span class="section-number-2">99</span> <a href="https://wordsinasentence.com/foreclosure-in-a-sentence/">Foreclosure</a></h2>
+<div class="outline-text-2" id="text-99">
+<p>
+<code>a legal process in which a lender takes the property belonging to a borrower, who has stopped making payments to the lender</code>
+</p>
+
+<ul class="org-ul">
+<li>Before filing for foreclosure, the lender gave the debtor one last chance to settle the debt.</li>
+<li>Although the homeowner paid several missed payments, it was not enough to stop foreclosure on the estate.</li>
+<li>To stop the foreclosure on my home, I filed for bankruptcy and was able to keep my property.</li>
+<li>Hiring an attorney to stop the foreclosure, the man was able to repay his mortgage while still maintaining his residence.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8dbe832" class="outline-2">
+<h2 id="org8dbe832"><span class="section-number-2">100</span> <a href="https://wordsinasentence.com/forensic-in-a-sentence/">Forensic</a></h2>
+<div class="outline-text-2" id="text-100">
+<p>
+<code>associated with the application of scientific processes and technologies used in crime solving</code>
+</p>
+
+<ul class="org-ul">
+<li>The crime scene investigators collected several forensic samples at the site of the murder.</li>
+<li>After the forensic data is processed, we will have leads to help us identify the killer.</li>
+<li>The lad’s interest in forensic science stems from his fascination with television crime dramas.</li>
+<li>During the trial, a forensic expert gave testimony that helped the state’s case.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3fe7ace" class="outline-2">
+<h2 id="org3fe7ace"><span class="section-number-2">101</span> <a href="https://wordsinasentence.com/forgo-in-a-sentence/">Forgo</a></h2>
+<div class="outline-text-2" id="text-101">
+<p>
+<code>to go without something</code>
+</p>
+
+<ul class="org-ul">
+<li>I will forgo drinking because I am the designated driver.</li>
+<li>Because Henry does not want to put his fate in the jury’s hands, he is going to forgo his right to a trial.</li>
+<li>The actress decided to forgo the after-party and go home to her sick daughter.</li>
+<li>Until my child begins school, I will forgo my career ambitions and be a stay-at-home mom.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgaa70577" class="outline-2">
+<h2 id="orgaa70577"><span class="section-number-2">102</span> <a href="https://wordsinasentence.com/foyer-in-a-sentence/">Foyer</a></h2>
+<div class="outline-text-2" id="text-102">
+<p>
+<code>a lobby, corridor, or waiting room, used in a hotel, theater, etc.</code>
+</p>
+
+<ul class="org-ul">
+<li>The FBI waited in the foyer of the hotel for the counterfeiter to leave his room.</li>
+<li>We rented a room in a five-star hotel that had the most magnificent chandelier hanging in the foyer.</li>
+<li>Before entering the dance floor, we congregated in the foyer to make sure that all of the guys were present.</li>
+<li>The philanthropist made us wait in the foyer of his downtown office building before admitting us into his office.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb600c1c" class="outline-2">
+<h2 id="orgb600c1c"><span class="section-number-2">103</span> <a href="https://wordsinasentence.com/frenzy-in-a-sentence/">Frenzy</a></h2>
+<div class="outline-text-2" id="text-103">
+<p>
+<code>wildly excited or out-of-control behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>Distraught by the death of his wife, the man attacked in frenzy.</li>
+<li>Taking PCP will put you into a wild frenzy and likely lead to serious injury.</li>
+<li>The mental patient was known to go into frenzy if he didn’t get his snack on time.</li>
+<li>To avoid a dangerous frenzy, the placed the man in a strait jacket.</li>
+<li>The Incredible Hulk goes into a frenzy when he turns green, becoming impossibly strong.</li>
+<li>With its owner in trouble, the dog attacked in frenzy.</li>
+<li>Though he was small, the prisoner was known to frenzy when challenged, which made people stay away.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1d064a2" class="outline-2">
+<h2 id="org1d064a2"><span class="section-number-2">104</span> <a href="https://wordsinasentence.com/fringe-in-a-sentence/">Fringe</a></h2>
+<div class="outline-text-2" id="text-104">
+<p>
+<code>a decorative edge made of loose threads, tassels, or twists (as seen on curtains, rugs, piece of clothing, etc)</code>
+</p>
+
+<ul class="org-ul">
+<li>The fringe of her jeans got caught in the escalator.</li>
+<li>My mom said that fringe was a common detail on the clothing she wore in the 1970s.</li>
+<li>Wanting to add flare to the pillows, the seamstress chose to add fringe.</li>
+<li>The costumer needed to add fringe to the cowgirl vest.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb15f213" class="outline-2">
+<h2 id="orgb15f213"><span class="section-number-2">105</span> <a href="https://wordsinasentence.com/frisk/">Frisk</a></h2>
+<div class="outline-text-2" id="text-105">
+<p>
+<code>to pass your hands over someone’s body in search of drugs or other weapons</code>
+</p>
+
+<ul class="org-ul">
+<li>Stop and frisk policies allow police to approach pedestrians and search them without cause.</li>
+<li>The correctional officer had to frisk the visitors before they were allowed to enter the prison.</li>
+<li>As he began to frisk the inmate, the police officer was sure he felt a knife in the suspect’s pocket.</li>
+<li>You must frisk the concert goers by running your hands over their clothing before they are allowed inside.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org4e1e0ad" class="outline-2">
+<h2 id="org4e1e0ad"><span class="section-number-2">106</span> <a href="https://wordsinasentence.com/frolic-in-a-sentence/">Frolic</a></h2>
+<div class="outline-text-2" id="text-106">
+<p>
+<code>to move about playfully and energetically</code>
+</p>
+
+<ul class="org-ul">
+<li>It’s fun to watch the playful goats frolic around the meadow in the afternoon.</li>
+<li>Because she is a no-nonsense kind of principal, the children know not to frolic around the gym while waiting on the bus.</li>
+<li>The girls spent their summer afternoon trying to find a waterfall to frolic under.</li>
+<li>Most toddlers were having fun playing around in the water, but Chasity was too scared to frolic in the stream.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbac4461" class="outline-2">
+<h2 id="orgbac4461"><span class="section-number-2">107</span> <a href="https://wordsinasentence.com/fruition-in-a-sentence/">Fruition</a></h2>
+<div class="outline-text-2" id="text-107">
+<p>
+<code>the fulfillment of a goal achieved</code>
+</p>
+
+<ul class="org-ul">
+<li>After many obstacles, our dream of owning a restaurant has finally come to fruition.</li>
+<li>The fruition of the president’s healthcare plan will ensure that every citizen has access to medical treatment.</li>
+<li>When Tom accepts a residency at the county hospital, his dream of becoming a doctor will have come to fruition.</li>
+<li>The doctors knew if they could bring the cancer cure to fruition they could save millions of lives.</li>
+<li>While many do-gooders have spoken about opening a community center, none of them have brought the project to fruition.</li>
+<li>My boss was tired of waiting and wanted to know when my project would reach fruition.</li>
+<li>Even though Gil won the election, he has not brought any of his campaign promises to fruition.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org56ed009" class="outline-2">
+<h2 id="org56ed009"><span class="section-number-2">108</span> <a href="https://wordsinasentence.com/fulminate-in-a-sentence/">Fulminate</a></h2>
+<div class="outline-text-2" id="text-108">
+<p>
+<code>to complain angrily or loudly</code>
+</p>
+
+<ul class="org-ul">
+<li>The disgruntled customer continued to fulminate over a price difference.</li>
+<li>My father would chastise us if we dared to fulminate because we disliked our supper.</li>
+<li>At the town hall meeting, residents began to fulminate over the proposed tax increase.</li>
+<li>The diner’s frustration caused him to fulminate because his steak was undercooked.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org23fe706" class="outline-2">
+<h2 id="org23fe706"><span class="section-number-2">109</span> <a href="https://wordsinasentence.com/fumble-in-a-sentence/">Fumble</a></h2>
+<div class="outline-text-2" id="text-109">
+<p>
+<code>to mishandle or let something slip accidentally from the hands</code>
+</p>
+
+<ul class="org-ul">
+<li>When the rookie football player entered the field, it would only be a matter of time before he would fumble the ball which was picked up by the opposing team.</li>
+<li>As the clumsy waitress did not see the purse in between the tables, she would fumble the tray she was carrying causing all of the glassware to crash to the ground.</li>
+<li>Since I didn’t have a grip on the pencil, it quickly would fumble through my fingers and fall to the ground.</li>
+<li>The movers fumble my couch at the top of the stairs which made it bang and smash to pieces as it fell down the stairs.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org97ecc02" class="outline-2">
+<h2 id="org97ecc02"><span class="section-number-2">110</span> <a href="https://wordsinasentence.com/fume-in-a-sentence/">Fume</a></h2>
+<div class="outline-text-2" id="text-110">
+<p>
+<code>the build up of anger that generally results in a negative reaction</code>
+</p>
+
+<ul class="org-ul">
+<li>Molly started to fume and felt the urge to punch something when she found out her boyfriend was cheating on her.</li>
+<li>Mike could not help but fume when his partner got all the credit on their project when he did all the work.</li>
+<li>The soccer player began to fume when his team lost over a bad call and tried to attack the referee.</li>
+<li>Maya started to fume when her mother accused her of lying and stormed out of the room.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2133e73" class="outline-2">
+<h2 id="org2133e73"><span class="section-number-2">111</span> <a href="https://wordsinasentence.com/furor-in-a-sentence/">Furor</a></h2>
+<div class="outline-text-2" id="text-111">
+<p>
+<code>a situation that angers and upsets many people</code>
+</p>
+
+<ul class="org-ul">
+<li>Amid accusations of fraud, there was a public furor when the politician was arrested.</li>
+<li>The news that winter break was canceled caused a furor throughout the school district.</li>
+<li>Quite the furor ensued when a famous athlete was accused of cheating during a game.</li>
+<li>Protesters created a furor when they lost control during a public demonstration.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org169e336" class="outline-2">
+<h2 id="org169e336"><span class="section-number-2">112</span> <a href="https://wordsinasentence.com/fury-in-a-sentence/">Fury</a></h2>
+<div class="outline-text-2" id="text-112">
+<p>
+<code>intense anger or rage</code>
+</p>
+
+<ul class="org-ul">
+<li>With all of its fury, the volcano erupted over the mountainside and covered all life with its ferocity.</li>
+<li>The irate car salesman let out his fury by bludgeoning several new vehicles with a bat.</li>
+<li>In a fit of rage, the woman showed her intense fury by breaking all of her husband’s 50 inch flat screen.</li>
+<li>As the search for the missing children grew, so did the community’s fury and wrath for the kidnappers.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org58c1dd5" class="outline-2">
+<h2 id="org58c1dd5"><span class="section-number-2">113</span> <a href="https://wordsinasentence.com/fuse-in-a-sentence/">Fuse</a></h2>
+<div class="outline-text-2" id="text-113">
+<p>
+<code>to combine into one thing</code>
+</p>
+
+<ul class="org-ul">
+<li>In the cooking contest, I will fuse Mexican and French recipes to make a dish I will refer to as Frexican.</li>
+<li>Rap music came into existence when an artist decided to fuse spoken word poetry with music.</li>
+<li>If we fuse the two wires together, we should have a conductor that can carry an electrical charge.</li>
+<li>The welder will use heat to fuse the materials together.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org60e5da2" class="outline-2">
+<h2 id="org60e5da2"><span class="section-number-2">114</span> <a href="https://wordsinasentence.com/fusty-in-a-sentence/">Fusty</a></h2>
+<div class="outline-text-2" id="text-114">
+<p>
+<code>smelling stale, stuffy, or damp</code>
+</p>
+
+<ul class="org-ul">
+<li>The fusty cupboard smelled stale and damp after years of not being opened.</li>
+<li>Because his room smelled so fusty, the boy’s mother hired a maid to rid it of its stale smell.</li>
+<li>The fusty smell of the antique stop reminded me of my grandmother’s house years ago.</li>
+<li>Climbing into the fusty attic, Jan coughed and hacked while breathing in the stuffy odor.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>
