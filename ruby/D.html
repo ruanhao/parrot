@@ -1,0 +1,4192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2018-06-18 Mon 22:18 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>D</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">D</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgd9370a8">1. Dampen</a></li>
+<li><a href="#org7af0aee">2. Dapple</a></li>
+<li><a href="#org3ae743e">3. Daunting</a></li>
+<li><a href="#org63f3718">4. Debase</a></li>
+<li><a href="#org9dc71e2">5. Debauch</a></li>
+<li><a href="#orga686f81">6. Debilitate</a></li>
+<li><a href="#orge7c8561">7. Decadence</a></li>
+<li><a href="#orgb3235bc">8. Decelerate</a></li>
+<li><a href="#orge06238f">9. Deciduous</a></li>
+<li><a href="#orgbd993da">10. Decimate</a></li>
+<li><a href="#org0a17cd2">11. Decorous</a></li>
+<li><a href="#org27402c8">12. Decorum</a></li>
+<li><a href="#orgd2d815a">13. Decrepit</a></li>
+<li><a href="#orgd9050b4">14. Decry</a></li>
+<li><a href="#org2d7ddf6">15. Defamation</a></li>
+<li><a href="#orge80221e">16. Deference</a></li>
+<li><a href="#org5b23442">17. Deferentially</a></li>
+<li><a href="#org75b19ba">18. Definite</a></li>
+<li><a href="#org2ef4bb5">19. Definitive</a></li>
+<li><a href="#orgfe0e03e">20. Deft</a></li>
+<li><a href="#orgacbe14b">21. Defunct</a></li>
+<li><a href="#orga116891">22. Deign</a></li>
+<li><a href="#org403c98d">23. Deleterious</a></li>
+<li><a href="#orgc1980bd">24. Deliberation</a></li>
+<li><a href="#org41fd694">25. Delineate</a></li>
+<li><a href="#orgc0aec1e">26. Delude</a></li>
+<li><a href="#orge374f15">27. Deluge</a></li>
+<li><a href="#org24b9bef">28. Demean</a></li>
+<li><a href="#orgd6dfb60">29. Demolish</a></li>
+<li><a href="#org7fcdd4c">30. Demur</a></li>
+<li><a href="#orgfcbd65e">31. Denigrate</a></li>
+<li><a href="#org9de26a6">32. Denounce</a></li>
+<li><a href="#orgcaf8b5e">33. Deplore</a></li>
+<li><a href="#orge40f3a3">34. Deprecate</a></li>
+<li><a href="#org1a70ae3">35. Deprecatory</a></li>
+<li><a href="#org0ad0715">36. Depreciate</a></li>
+<li><a href="#org4e8d39d">37. Deprive</a></li>
+<li><a href="#org0ecdc5e">38. Derelict</a></li>
+<li><a href="#org7be8578">39. Deride</a></li>
+<li><a href="#orgb67e308">40. Derivative</a></li>
+<li><a href="#org0c7c98a">41. Derogatory</a></li>
+<li><a href="#org337ad71">42. Descry</a></li>
+<li><a href="#org084b47c">43. Desecrate</a></li>
+<li><a href="#org98a4f8c">44. Despondent</a></li>
+<li><a href="#org5ee9aee">45. Destine</a></li>
+<li><a href="#org91c9f18">46. Desultory</a></li>
+<li><a href="#orgbe71d2e">47. Deter</a></li>
+<li><a href="#org03353f0">48. Deterrent</a></li>
+<li><a href="#org565c316">49. Detest</a></li>
+<li><a href="#org078fd44">50. Detour</a></li>
+<li><a href="#orged798f1">51. Detriment</a></li>
+<li><a href="#org4b5323d">52. Devious</a></li>
+<li><a href="#org733dd7c">53. Devoid</a></li>
+<li><a href="#org00e23f4">54. Devout</a></li>
+<li><a href="#org926f93d">55. Dexterous</a></li>
+<li><a href="#orgbd1145f">56. Didactic</a></li>
+<li><a href="#org1c10f24">57. Diffident</a></li>
+<li><a href="#org7cf196c">58. Dilapidated</a></li>
+<li><a href="#orgeb5c03b">59. Dilate</a></li>
+<li><a href="#org9247b24">60. Dilatory</a></li>
+<li><a href="#org0e22339">61. Dilettante</a></li>
+<li><a href="#org004a2f0">62. Diminution</a></li>
+<li><a href="#org0dbf536">63. Disabuse</a></li>
+<li><a href="#org05b543f">64. Disarray</a></li>
+<li><a href="#orga7bbf7f">65. Disavow</a></li>
+<li><a href="#orgfce7ce5">66. Disciple</a></li>
+<li><a href="#org146f7a5">67. Discomfit</a></li>
+<li><a href="#org81519eb">68. Disconsolate</a></li>
+<li><a href="#org248c4d4">69. Discourse</a></li>
+<li><a href="#org6c2b225">70. Discredit</a></li>
+<li><a href="#orgef5eab5">71. Discursive</a></li>
+<li><a href="#org0c36718">72. Disdain</a></li>
+<li><a href="#org1973d4b">73. Disgruntled</a></li>
+<li><a href="#orgbff3840">74. Disingenuous</a></li>
+<li><a href="#org5eab167">75. Disparage</a></li>
+<li><a href="#org2b03b0b">76. Disparate</a></li>
+<li><a href="#org5550111">77. Dispassionate</a></li>
+<li><a href="#orgbc44293">78. Dispel</a></li>
+<li><a href="#org2d61d19">79. Disperse</a></li>
+<li><a href="#org1c329d0">80. Disposable</a></li>
+<li><a href="#orgb98c4a0">81. Disseminate</a></li>
+<li><a href="#org555768e">82. Dissident</a></li>
+<li><a href="#org9807f62">83. Dissipate</a></li>
+<li><a href="#orgdf2e002">84. Dissonance</a></li>
+<li><a href="#org573e6fc">85. Distraught</a></li>
+<li><a href="#org1340781">86. Diurnal</a></li>
+<li><a href="#org3a15b82">87. Divulge</a></li>
+<li><a href="#org57f2222">88. Dogged</a></li>
+<li><a href="#orgfdbbfbb">89. Dogma</a></li>
+<li><a href="#orge3c230f">90. Domineer</a></li>
+<li><a href="#orgbb125ce">91. Dorsal</a></li>
+<li><a href="#orge95eeaf">92. Drab</a></li>
+<li><a href="#orgb409b22">93. Drollery</a></li>
+<li><a href="#org07c96da">94. Ductile</a></li>
+<li><a href="#org45674b7">95. Dumbfounded</a></li>
+<li><a href="#org344a663">96. Dupe</a></li>
+<li><a href="#org884a7d4">97. Dwindle</a></li>
+<li><a href="#orgece0992">98. Dabble</a></li>
+<li><a href="#org1f9c6c6">99. Daft</a></li>
+<li><a href="#orgace7dc4">100. Dainty</a></li>
+<li><a href="#org3e5467b">101. Dalliance</a></li>
+<li><a href="#orgdc7a254">102. Dally</a></li>
+<li><a href="#orgbbc95eb">103. Damp</a></li>
+<li><a href="#org299a201">104. Dangle</a></li>
+<li><a href="#orga9602f9">105. Dank</a></li>
+<li><a href="#org5ecdbfd">106. Dapper</a></li>
+<li><a href="#org4c7f715">107. Daub</a></li>
+<li><a href="#org64ddfec">108. Dawdle</a></li>
+<li><a href="#org788d437">109. Daze</a></li>
+<li><a href="#org0886e28">110. Debility</a></li>
+<li><a href="#org73c9f89">111. Debrief</a></li>
+<li><a href="#org7dce162">112. Debunk</a></li>
+<li><a href="#orgb55a06a">113. Decant</a></li>
+<li><a href="#org9b3f04e">114. Declaim</a></li>
+<li><a href="#org3e7f2c0">115. Decoy</a></li>
+<li><a href="#org131431f">116. Decree</a></li>
+<li><a href="#orgc450c7b">117. Deface</a></li>
+<li><a href="#orgf89425c">118. Defile</a></li>
+<li><a href="#orgfe97970">119. Deflect</a></li>
+<li><a href="#org9577c8e">120. Defraud</a></li>
+<li><a href="#org8b1eb33">121. Defray</a></li>
+<li><a href="#org45a4104">122. Dejected</a></li>
+<li><a href="#org10b28bb">123. Delectation</a></li>
+<li><a href="#orga555ee9">124. Delicate</a></li>
+<li><a href="#org8786a92">125. Delinquent</a></li>
+<li><a href="#org85cf494">126. Delirium</a></li>
+<li><a href="#orge7981da">127. Delve</a></li>
+<li><a href="#org287722f">128. Demagogue</a></li>
+<li><a href="#org1272762">129. Demarcate</a></li>
+<li><a href="#org38487e0">130. Demented</a></li>
+<li><a href="#orgb2e29d3">131. Demure</a></li>
+<li><a href="#org80b44b5">132. Denunciation</a></li>
+<li><a href="#org165a361">133. Depose</a></li>
+<li><a href="#orga4464a6">134. Deposit</a></li>
+<li><a href="#org9b66e77">135. Depravity</a></li>
+<li><a href="#orgb4d538b">136. Depredation</a></li>
+<li><a href="#org4fa3d85">137. Deputize</a></li>
+<li><a href="#org2b98f76">138. Dereliction</a></li>
+<li><a href="#org042f72f">139. Derogate</a></li>
+<li><a href="#org3d53f44">140. Desiccated</a></li>
+<li><a href="#org7b6dc8c">141. Desideratum</a></li>
+<li><a href="#org13741de">142. Desist</a></li>
+<li><a href="#org3826f02">143. Desolate</a></li>
+<li><a href="#org9d93dee">144. Despise</a></li>
+<li><a href="#orgd951351">145. Destitute</a></li>
+<li><a href="#orgce2921d">146. Detonate</a></li>
+<li><a href="#org3d5fe3d">147. Diatribe</a></li>
+<li><a href="#org90bcc83">148. Dictum</a></li>
+<li><a href="#orgd5558d6">149. Diffuse</a></li>
+<li><a href="#orge752748">150. Dingy</a></li>
+<li><a href="#org7d520d7">151. Dint</a></li>
+<li><a href="#org07850b1">152. Dire</a></li>
+<li><a href="#orgd6b02e8">153. Disaffected</a></li>
+<li><a href="#orgbcc2e27">154. Disburse</a></li>
+<li><a href="#org5182323">155. Discombobulated</a></li>
+<li><a href="#org5f58da3">156. Discrepancy</a></li>
+<li><a href="#org3b63b13">157. Discretionary</a></li>
+<li><a href="#org4a64dbc">158. Disheveled</a></li>
+<li><a href="#org9cf3b41">159. Disinter</a></li>
+<li><a href="#org595d3d7">160. Dislocate</a></li>
+<li><a href="#org2fdddd8">161. Dismantle</a></li>
+<li><a href="#org30b3b37">162. Dispense</a></li>
+<li><a href="#org45bb658">163. Dissimulation</a></li>
+<li><a href="#org90fbef4">164. Dissuade</a></li>
+<li><a href="#org9c5add6">165. Dither</a></li>
+<li><a href="#org17e7662">166. Doff</a></li>
+<li><a href="#org277e382">167. Doleful</a></li>
+<li><a href="#orge352633">168. Dolorous</a></li>
+<li><a href="#org5a02c74">169. Dour</a></li>
+<li><a href="#org8e2587c">170. Douse</a></li>
+<li><a href="#orgaf7c9dc">171. Dowdy</a></li>
+<li><a href="#org3466266">172. Draconian</a></li>
+<li><a href="#org3ae03a4">173. Drawl</a></li>
+<li><a href="#orgdd83559">174. Drawn</a></li>
+<li><a href="#org7d361f7">175. Drench</a></li>
+<li><a href="#org8d7067d">176. Drivel</a></li>
+<li><a href="#orgdac4631">177. Droll</a></li>
+<li><a href="#orgc4ebb17">178. Drool</a></li>
+<li><a href="#org474a9d8">179. Droop</a></li>
+<li><a href="#org9c24156">180. Dulcet</a></li>
+<li><a href="#org456f51f">181. Duplicity</a></li>
+<li><a href="#org481c10d">182. Duress</a></li>
+<li><a href="#org63fa624">183. Dyspeptic</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgd9370a8">1. Dampen</a></li>
+<li><a href="#org7af0aee">2. Dapple</a></li>
+<li><a href="#org3ae743e">3. Daunting</a></li>
+<li><a href="#org63f3718">4. Debase</a></li>
+<li><a href="#org9dc71e2">5. Debauch</a></li>
+<li><a href="#orga686f81">6. Debilitate</a></li>
+<li><a href="#orge7c8561">7. Decadence</a></li>
+<li><a href="#orgb3235bc">8. Decelerate</a></li>
+<li><a href="#orge06238f">9. Deciduous</a></li>
+<li><a href="#orgbd993da">10. Decimate</a></li>
+<li><a href="#org0a17cd2">11. Decorous</a></li>
+<li><a href="#org27402c8">12. Decorum</a></li>
+<li><a href="#orgd2d815a">13. Decrepit</a></li>
+<li><a href="#orgd9050b4">14. Decry</a></li>
+<li><a href="#org2d7ddf6">15. Defamation</a></li>
+<li><a href="#orge80221e">16. Deference</a></li>
+<li><a href="#org5b23442">17. Deferentially</a></li>
+<li><a href="#org75b19ba">18. Definite</a></li>
+<li><a href="#org2ef4bb5">19. Definitive</a></li>
+<li><a href="#orgfe0e03e">20. Deft</a></li>
+<li><a href="#orgacbe14b">21. Defunct</a></li>
+<li><a href="#orga116891">22. Deign</a></li>
+<li><a href="#org403c98d">23. Deleterious</a></li>
+<li><a href="#orgc1980bd">24. Deliberation</a></li>
+<li><a href="#org41fd694">25. Delineate</a></li>
+<li><a href="#orgc0aec1e">26. Delude</a></li>
+<li><a href="#orge374f15">27. Deluge</a></li>
+<li><a href="#org24b9bef">28. Demean</a></li>
+<li><a href="#orgd6dfb60">29. Demolish</a></li>
+<li><a href="#org7fcdd4c">30. Demur</a></li>
+<li><a href="#orgfcbd65e">31. Denigrate</a></li>
+<li><a href="#org9de26a6">32. Denounce</a></li>
+<li><a href="#orgcaf8b5e">33. Deplore</a></li>
+<li><a href="#orge40f3a3">34. Deprecate</a></li>
+<li><a href="#org1a70ae3">35. Deprecatory</a></li>
+<li><a href="#org0ad0715">36. Depreciate</a></li>
+<li><a href="#org4e8d39d">37. Deprive</a></li>
+<li><a href="#org0ecdc5e">38. Derelict</a></li>
+<li><a href="#org7be8578">39. Deride</a></li>
+<li><a href="#orgb67e308">40. Derivative</a></li>
+<li><a href="#org0c7c98a">41. Derogatory</a></li>
+<li><a href="#org337ad71">42. Descry</a></li>
+<li><a href="#org084b47c">43. Desecrate</a></li>
+<li><a href="#org98a4f8c">44. Despondent</a></li>
+<li><a href="#org5ee9aee">45. Destine</a></li>
+<li><a href="#org91c9f18">46. Desultory</a></li>
+<li><a href="#orgbe71d2e">47. Deter</a></li>
+<li><a href="#org03353f0">48. Deterrent</a></li>
+<li><a href="#org565c316">49. Detest</a></li>
+<li><a href="#org078fd44">50. Detour</a></li>
+<li><a href="#orged798f1">51. Detriment</a></li>
+<li><a href="#org4b5323d">52. Devious</a></li>
+<li><a href="#org733dd7c">53. Devoid</a></li>
+<li><a href="#org00e23f4">54. Devout</a></li>
+<li><a href="#org926f93d">55. Dexterous</a></li>
+<li><a href="#orgbd1145f">56. Didactic</a></li>
+<li><a href="#org1c10f24">57. Diffident</a></li>
+<li><a href="#org7cf196c">58. Dilapidated</a></li>
+<li><a href="#orgeb5c03b">59. Dilate</a></li>
+<li><a href="#org9247b24">60. Dilatory</a></li>
+<li><a href="#org0e22339">61. Dilettante</a></li>
+<li><a href="#org004a2f0">62. Diminution</a></li>
+<li><a href="#org0dbf536">63. Disabuse</a></li>
+<li><a href="#org05b543f">64. Disarray</a></li>
+<li><a href="#orga7bbf7f">65. Disavow</a></li>
+<li><a href="#orgfce7ce5">66. Disciple</a></li>
+<li><a href="#org146f7a5">67. Discomfit</a></li>
+<li><a href="#org81519eb">68. Disconsolate</a></li>
+<li><a href="#org248c4d4">69. Discourse</a></li>
+<li><a href="#org6c2b225">70. Discredit</a></li>
+<li><a href="#orgef5eab5">71. Discursive</a></li>
+<li><a href="#org0c36718">72. Disdain</a></li>
+<li><a href="#org1973d4b">73. Disgruntled</a></li>
+<li><a href="#orgbff3840">74. Disingenuous</a></li>
+<li><a href="#org5eab167">75. Disparage</a></li>
+<li><a href="#org2b03b0b">76. Disparate</a></li>
+<li><a href="#org5550111">77. Dispassionate</a></li>
+<li><a href="#orgbc44293">78. Dispel</a></li>
+<li><a href="#org2d61d19">79. Disperse</a></li>
+<li><a href="#org1c329d0">80. Disposable</a></li>
+<li><a href="#orgb98c4a0">81. Disseminate</a></li>
+<li><a href="#org555768e">82. Dissident</a></li>
+<li><a href="#org9807f62">83. Dissipate</a></li>
+<li><a href="#orgdf2e002">84. Dissonance</a></li>
+<li><a href="#org573e6fc">85. Distraught</a></li>
+<li><a href="#org1340781">86. Diurnal</a></li>
+<li><a href="#org3a15b82">87. Divulge</a></li>
+<li><a href="#org57f2222">88. Dogged</a></li>
+<li><a href="#orgfdbbfbb">89. Dogma</a></li>
+<li><a href="#orge3c230f">90. Domineer</a></li>
+<li><a href="#orgbb125ce">91. Dorsal</a></li>
+<li><a href="#orge95eeaf">92. Drab</a></li>
+<li><a href="#orgb409b22">93. Drollery</a></li>
+<li><a href="#org07c96da">94. Ductile</a></li>
+<li><a href="#org45674b7">95. Dumbfounded</a></li>
+<li><a href="#org344a663">96. Dupe</a></li>
+<li><a href="#org884a7d4">97. Dwindle</a></li>
+<li><a href="#orgece0992">98. Dabble</a></li>
+<li><a href="#org1f9c6c6">99. Daft</a></li>
+<li><a href="#orgace7dc4">100. Dainty</a></li>
+<li><a href="#org3e5467b">101. Dalliance</a></li>
+<li><a href="#orgdc7a254">102. Dally</a></li>
+<li><a href="#orgbbc95eb">103. Damp</a></li>
+<li><a href="#org299a201">104. Dangle</a></li>
+<li><a href="#orga9602f9">105. Dank</a></li>
+<li><a href="#org5ecdbfd">106. Dapper</a></li>
+<li><a href="#org4c7f715">107. Daub</a></li>
+<li><a href="#org64ddfec">108. Dawdle</a></li>
+<li><a href="#org788d437">109. Daze</a></li>
+<li><a href="#org0886e28">110. Debility</a></li>
+<li><a href="#org73c9f89">111. Debrief</a></li>
+<li><a href="#org7dce162">112. Debunk</a></li>
+<li><a href="#orgb55a06a">113. Decant</a></li>
+<li><a href="#org9b3f04e">114. Declaim</a></li>
+<li><a href="#org3e7f2c0">115. Decoy</a></li>
+<li><a href="#org131431f">116. Decree</a></li>
+<li><a href="#orgc450c7b">117. Deface</a></li>
+<li><a href="#orgf89425c">118. Defile</a></li>
+<li><a href="#orgfe97970">119. Deflect</a></li>
+<li><a href="#org9577c8e">120. Defraud</a></li>
+<li><a href="#org8b1eb33">121. Defray</a></li>
+<li><a href="#org45a4104">122. Dejected</a></li>
+<li><a href="#org10b28bb">123. Delectation</a></li>
+<li><a href="#orga555ee9">124. Delicate</a></li>
+<li><a href="#org8786a92">125. Delinquent</a></li>
+<li><a href="#org85cf494">126. Delirium</a></li>
+<li><a href="#orge7981da">127. Delve</a></li>
+<li><a href="#org287722f">128. Demagogue</a></li>
+<li><a href="#org1272762">129. Demarcate</a></li>
+<li><a href="#org38487e0">130. Demented</a></li>
+<li><a href="#orgb2e29d3">131. Demure</a></li>
+<li><a href="#org80b44b5">132. Denunciation</a></li>
+<li><a href="#org165a361">133. Depose</a></li>
+<li><a href="#orga4464a6">134. Deposit</a></li>
+<li><a href="#org9b66e77">135. Depravity</a></li>
+<li><a href="#orgb4d538b">136. Depredation</a></li>
+<li><a href="#org4fa3d85">137. Deputize</a></li>
+<li><a href="#org2b98f76">138. Dereliction</a></li>
+<li><a href="#org042f72f">139. Derogate</a></li>
+<li><a href="#org3d53f44">140. Desiccated</a></li>
+<li><a href="#org7b6dc8c">141. Desideratum</a></li>
+<li><a href="#org13741de">142. Desist</a></li>
+<li><a href="#org3826f02">143. Desolate</a></li>
+<li><a href="#org9d93dee">144. Despise</a></li>
+<li><a href="#orgd951351">145. Destitute</a></li>
+<li><a href="#orgce2921d">146. Detonate</a></li>
+<li><a href="#org3d5fe3d">147. Diatribe</a></li>
+<li><a href="#org90bcc83">148. Dictum</a></li>
+<li><a href="#orgd5558d6">149. Diffuse</a></li>
+<li><a href="#orge752748">150. Dingy</a></li>
+<li><a href="#org7d520d7">151. Dint</a></li>
+<li><a href="#org07850b1">152. Dire</a></li>
+<li><a href="#orgd6b02e8">153. Disaffected</a></li>
+<li><a href="#orgbcc2e27">154. Disburse</a></li>
+<li><a href="#org5182323">155. Discombobulated</a></li>
+<li><a href="#org5f58da3">156. Discrepancy</a></li>
+<li><a href="#org3b63b13">157. Discretionary</a></li>
+<li><a href="#org4a64dbc">158. Disheveled</a></li>
+<li><a href="#org9cf3b41">159. Disinter</a></li>
+<li><a href="#org595d3d7">160. Dislocate</a></li>
+<li><a href="#org2fdddd8">161. Dismantle</a></li>
+<li><a href="#org30b3b37">162. Dispense</a></li>
+<li><a href="#org45bb658">163. Dissimulation</a></li>
+<li><a href="#org90fbef4">164. Dissuade</a></li>
+<li><a href="#org9c5add6">165. Dither</a></li>
+<li><a href="#org17e7662">166. Doff</a></li>
+<li><a href="#org277e382">167. Doleful</a></li>
+<li><a href="#orge352633">168. Dolorous</a></li>
+<li><a href="#org5a02c74">169. Dour</a></li>
+<li><a href="#org8e2587c">170. Douse</a></li>
+<li><a href="#orgaf7c9dc">171. Dowdy</a></li>
+<li><a href="#org3466266">172. Draconian</a></li>
+<li><a href="#org3ae03a4">173. Drawl</a></li>
+<li><a href="#orgdd83559">174. Drawn</a></li>
+<li><a href="#org7d361f7">175. Drench</a></li>
+<li><a href="#org8d7067d">176. Drivel</a></li>
+<li><a href="#orgdac4631">177. Droll</a></li>
+<li><a href="#orgc4ebb17">178. Drool</a></li>
+<li><a href="#org474a9d8">179. Droop</a></li>
+<li><a href="#org9c24156">180. Dulcet</a></li>
+<li><a href="#org456f51f">181. Duplicity</a></li>
+<li><a href="#org481c10d">182. Duress</a></li>
+<li><a href="#org63fa624">183. Dyspeptic</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Author</td>
+<td class="org-left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="org-left">Date</td>
+<td class="org-left">2018-06-18 22:18:38</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+<div id="outline-container-orgd9370a8" class="outline-2">
+<h2 id="orgd9370a8"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/dampen-in-a-sentence/">Dampen</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>to make something slightly wet</code>
+</p>
+
+<ul class="org-ul">
+<li>It rained just enough to dampen the ground, but the grass dried up quickly.</li>
+<li>The men walked with umbrellas so that the plopping drops of rain wouldn’t dampen their suits.</li>
+<li>Even just enough rain to dampen the dry fields would be appreciated by the desperate farmers.</li>
+<li>If you dampen the rag with a bit of water before rubbing the counter, it will be a lot easier to clean.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7af0aee" class="outline-2">
+<h2 id="org7af0aee"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/dapple-in-a-sentence/">Dapple</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>marked with spots or round patches</code>
+</p>
+
+<ul class="org-ul">
+<li>The dapple pony had several light-colored spots on his dark body.</li>
+<li>A dapple of light fell across the girl’s face as she stepped into the sunlight.</li>
+<li>The small dog had a dapple coat that was mostly solid, but did have a few round patches.</li>
+<li>The small dapple rock was different from the rest since it was covered with white spots.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3ae743e" class="outline-2">
+<h2 id="org3ae743e"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/daunting-in-a-sentence/">Daunting</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>a task that appears challenging</code>
+</p>
+
+<ul class="org-ul">
+<li>As I looked up the mountain, I knew it would be a daunting feat to reach the peak.</li>
+<li>Jane is so shy she finds it daunting to go to a party.</li>
+<li>If you have never been skydiving, it might appear somewhat daunting to you.</li>
+<li>Bringing organization to the war-torn nation is going to be a daunting job.</li>
+<li>Because Max is not good in science, he will find medical school to be a daunting task.</li>
+<li>The daunting trip is going to take thirty-eight hours by car.</li>
+<li>Since Alan did not study for the test, he found the exam to be quite daunting.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org63f3718" class="outline-2">
+<h2 id="org63f3718"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/debase-in-a-sentence/">Debase</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>to reduce in character or quality</code>
+</p>
+
+<ul class="org-ul">
+<li>The politician tried to debase his rival’s good reputation by spreading false rumors about him.</li>
+<li>As part of his stock manipulation, the company owner tried to debase the stock so people would quickly sell it.</li>
+<li>The cruel prison guard did everything he could to debase inmates and make them feel worthless.</li>
+<li>When the man was intoxicated, he would often debase his wife by calling her cruel names.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9dc71e2" class="outline-2">
+<h2 id="org9dc71e2"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/debauch-in-a-sentence/">Debauch</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>a stint of extreme enjoyment involving pleasures of a carnal nature</code>
+</p>
+
+<ul class="org-ul">
+<li>On the night of his graduation, Jake engaged in an alcoholic debauch and ended up in the emergency room.</li>
+<li>Amy’s bachelorette party is going to be her last debauch before she becomes an old married woman.</li>
+<li>Surprisingly, the man was dumb enough to post pictures of his debauch with a prostitute on Facebook.</li>
+<li>The main character of the novel becomes involved in a sinful debauch that leads him to murder a woman’s husband.</li>
+<li>Before Frank got married, his friends took him to a strip club for his final debauch.</li>
+<li>Gina has a major stomachache because she tried to comfort herself with a food debauch.</li>
+<li>During his weekly Saturday night debauch at the bar, Hank started a fight for no reason at all.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga686f81" class="outline-2">
+<h2 id="orga686f81"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/debilitate-in-a-sentence/">Debilitate</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>to weaken</code>
+</p>
+
+<ul class="org-ul">
+<li>Cancer can quickly debilitate an otherwise healthy person.</li>
+<li>Determined to continue forward, he would not let the injury debilitate him.</li>
+<li>The insults acted to debilitate him, leaving him sitting and wondering what he could have done differently.</li>
+<li>In an effort to debilitate her attacker, she delivered a quick kick to the groin.</li>
+<li>The most effective self-defense methods quickly work to debilitate the attacker.</li>
+<li>For a writer, a hand injury can absolutely debilitate him.</li>
+<li>The effects of diabetes can work to debilitate you if you don’t monitor your blood sugar.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge7c8561" class="outline-2">
+<h2 id="orge7c8561"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/decadence-in-a-sentence/">Decadence</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>state of moral or artistic decline or deterioration</code>
+</p>
+
+<ul class="org-ul">
+<li>The gold trimmings in the celebrity’s bathroom are nothing but sheer decadence.</li>
+<li>While the church leaders are not opposed to a little self-indulgence now and then, they are opposed to a lifetime of decadence.</li>
+<li>Periods of economic growth are often followed by periods of decadence in which individuals shop simply because they can and not out of need.</li>
+<li>Even though my mother hosted a large number of parties in my youth, I was not surrounded by decadence during my childhood.</li>
+<li>The decadence of eating five candy bars made me quite lazy.</li>
+<li>According to many partygoers, a life without decadence is a life of boredom.</li>
+<li>Many countries view the United States as a den of decadence filled with people who care about nothing but indulging themselves.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb3235bc" class="outline-2">
+<h2 id="orgb3235bc"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/decelerate-in-a-sentence/">Decelerate</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>to slow down or reduce the speed of something</code>
+</p>
+
+<ul class="org-ul">
+<li>As the speedometer reached 100 miles per hour, the frightened passenger begged the driver to decelerate.</li>
+<li>The speeding man tried to decelerate when he saw the police officer parked beside the road.</li>
+<li>It seemed that the driver never tried to decelerate before plowing into the back of another vehicle.</li>
+<li>Without brakes, it was difficult for the biker to decelerate while flying down the hill.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge06238f" class="outline-2">
+<h2 id="orge06238f"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/deciduous-in-a-sentence/">Deciduous</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>falling off because it is temporary</code>
+</p>
+
+<ul class="org-ul">
+<li>During the fall, the deciduous shrubs in my yard will release their leaves.</li>
+<li>The baby’s deciduous teeth will start to fall out soon.</li>
+<li>In the fall, there is nothing more visually appealing than a deciduous forest and its vibrant leaf-covered ground.</li>
+<li>Next month, the deciduous fruit trees will flower the countryside with ripe apples and pears.</li>
+<li>My daughter cannot wait to place the last of her deciduous teeth under her pillow so the tooth fairy can leave her a reward.</li>
+<li>Within two months, the insect will shed its deciduous skin and reveal its permanent casing.</li>
+<li>My driveway will be covered with the leaves of deciduous trees during the fall months.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbd993da" class="outline-2">
+<h2 id="orgbd993da"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/decimate-in-a-sentence/">Decimate</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>to destroy or greatly decrease in size or number</code>
+</p>
+
+<ul class="org-ul">
+<li>It is likely the category five hurricane will decimate the small beach town.</li>
+<li>If the troops cross over the border, they will try to decimate the capital city.</li>
+<li>A nuclear bomb will decimate most of the population in the region.</li>
+<li>After fasting yesterday, I am sure to decimate all my meals today.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0a17cd2" class="outline-2">
+<h2 id="org0a17cd2"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/decorous-in-a-sentence/">Decorous</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>proper in behavior</code>
+</p>
+
+<ul class="org-ul">
+<li>The director of the finishing school is a decorous woman known for her perfect social skills.</li>
+<li>When Bill walked away from a fight in church, he behaved in a decorous manner.</li>
+<li>After Amy had several drinks, she abandoned her decorous behavior and became extremely offensive.</li>
+<li>The soldier was reprimanded by his commanding officer for behaving in a way that was not decorous.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org27402c8" class="outline-2">
+<h2 id="org27402c8"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/decorum-in-a-sentence/">Decorum</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>conduct that is appropriate and illustrates a person is well-mannered</code>
+</p>
+
+<ul class="org-ul">
+<li>Although Kelly was upset she did not win the contest, she maintained decorum and congratulated the winner.</li>
+<li>Not understanding decorum at a formal dinner, Jake ate his salad with his dinner fork.</li>
+<li>Matt knew his blind date lacked decorum when she questioned him about his salary.</li>
+<li>As a boy, the butler attended an etiquette school so he would know the decorum used by society’s upper class.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd2d815a" class="outline-2">
+<h2 id="orgd2d815a"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/decrepit-in-a-sentence/">Decrepit</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>beat-up from wear or age</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the decrepit building is such an eyesore, it is being demolished in a week.</li>
+<li>The decrepit car refused to start.</li>
+<li>Since Mitch purchased the decrepit house, he has spent over fifty thousand dollars on repairs.</li>
+<li>The owners have plans to renovate their decrepit hotel.</li>
+<li>While Kurt’s jeans are decrepit and filled with holes, they are his favorite pair of pants.</li>
+<li>Janet landed on the floor when the decrepit chair she was sitting in fell apart.</li>
+<li>Although I adore my neighbors, I wish they would get their decrepit non-functioning car off of their lawn.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd9050b4" class="outline-2">
+<h2 id="orgd9050b4"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/decry-in-a-sentence/">Decry</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>to denounce as damaging or bad</code>
+</p>
+
+<ul class="org-ul">
+<li>The liberal news media is constantly trying to decry the efforts of the country’s conservative president.</li>
+<li>After the immigration bill was passed, the racist groups started to decry the features of the act.</li>
+<li>What kind of person will decry the death of a dog yet laugh at the death of a human?</li>
+<li>When a child recently died in an abusive foster home, people marched in protest to decry the state’s foster care system.</li>
+<li>Several religious organizations have chosen to decry the obscene cartoon about Jesus.</li>
+<li>On the crime show, the arrogant chef killed the food critic before he could decry his new restaurant.</li>
+<li>Eve is an animal rights activist who constantly uses the media to decry the cold-heartedness of Kill shelters.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2d7ddf6" class="outline-2">
+<h2 id="org2d7ddf6"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/defamation-in-a-sentence/">Defamation</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>harming a person’s reputation by saying or writing things that are not true</code>
+</p>
+
+<ul class="org-ul">
+<li>The newspaper was sued for defamation after publishing lies about a celebrity.</li>
+<li>In a defamation trial, the plaintiff must prove his or her reputation was actually harmed by a statement.</li>
+<li>It was a pure case of defamation because the athlete had never abused his wife.</li>
+<li>Unfortunately, the politician lost his seat when an act of defamation ruined his reputation.</li>
+<li>As soon as William learned his former employer was spreading lies about him, he filed a defamation of character lawsuit.</li>
+<li>The school bully was known for committing acts of defamation by spreading false stories about her targets.</li>
+<li>If the news channel does not stop its crusade of defamation against the president, it will be prosecuted for wounding his reputation.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge80221e" class="outline-2">
+<h2 id="orge80221e"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/deference-in-a-sentence/">Deference</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>courteous regard for people's feelings; respect</code>
+</p>
+
+<ul class="org-ul">
+<li>Kyle decided to shave off his mohawk in deference to his Grandmother.</li>
+<li>Firefighters deserve to be granted with the utmost deference for their loyal service.</li>
+<li>With all deference, I really think the council should reconsider its decision on tax increases.</li>
+<li>If you treat others with deference, then people will respect you back.</li>
+<li>Reciting the Pledge of Allegiance is a good way to show deference for America.</li>
+<li>Honorable soldiers have rightfully earned my deference.</li>
+<li>Show some deference for the elderly by helping that old lady cross the street!</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5b23442" class="outline-2">
+<h2 id="org5b23442"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/deferentially-in-a-sentence/">Deferentially</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>respectfully; reverently</code>
+</p>
+
+<ul class="org-ul">
+<li>The man always acts deferentially around his boss, but speaks tactlessly when she is away.</li>
+<li>Although the woman asked for a day off deferentially, her employer denied her respectful request.</li>
+<li>When saying the pledge, the crowd deferentially placed their hands over their heart out of respect.</li>
+<li>I politely and deferentially suggested that the loud travelers find another seat in the back room out of respect for others trying to eat.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org75b19ba" class="outline-2">
+<h2 id="org75b19ba"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/definite-in-a-sentence/">Definite</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>exact; specific</code>
+</p>
+
+<ul class="org-ul">
+<li>I need a definite yes if you plan to go to the movies with me on Saturday.</li>
+<li>Andrew new he had to do something to stop the robber, but couldn’t think of a definite plan.</li>
+<li>All of the runners need a definite starting point so that no one has an unfair advantage.</li>
+<li>Before she can order the steaks, the chef needs a definite number of people who will be at the event.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2ef4bb5" class="outline-2">
+<h2 id="org2ef4bb5"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/definitive-in-a-sentence/">Definitive</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>viewed as absolute and correct</code>
+</p>
+
+<ul class="org-ul">
+<li>As soon as the doctor gave a definitive diagnosis, the nurse began the patient’s treatment.</li>
+<li>The jury’s verdict is seen as the definitive decision on a defendant’s guilt or innocence.</li>
+<li>Because the physician is respected as the definitive expert in genetics, he has been nominated for a Nobel Prize.</li>
+<li>The DNA results will provide the detectives with definitive proof of the suspect’s identity.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfe0e03e" class="outline-2">
+<h2 id="orgfe0e03e"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/deft-in-a-sentence/">Deft</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>skillful and clever</code>
+</p>
+
+<ul class="org-ul">
+<li>The deft musician was able to play the harmonica and the piano at the same time.</li>
+<li>Because Jake is a deft electrician, it will not take him long to rewire the electrical outlets in the bathroom.</li>
+<li>Only a deft artist can perfectly capture the model’s figure in clay.</li>
+<li>Although I have studied the guitar for over a year, I still do not consider myself to be a deft guitarist so I will not be performing in the annual concert.</li>
+<li>The only person who can successfully perform the tricky operation is a deft surgeon.</li>
+<li>When the actor got arrested for drunk driving, his spokesperson was wise enough to turn the situation into a deft publicity campaign.</li>
+<li>The politician is a deft speaker who can easily convince people to believe whatever he says.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgacbe14b" class="outline-2">
+<h2 id="orgacbe14b"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/defunct-in-a-sentence/">Defunct</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>no longer in use</code>
+</p>
+
+<ul class="org-ul">
+<li>Though the car was defunct, he knew that with the right parts and some hard work he could restore it.</li>
+<li>After being hit by a hurricane, the entire neighborhood was defunct.</li>
+<li>A fire swept through the city, leaving many houses abandoned and defunct.</li>
+<li>Though the investor saw potential in the location, the house had been defunct for so long he was not sure he could ever restore it.</li>
+<li>Realizing the elevator was defunct, they were forced to take the stairs instead.</li>
+<li>The archaeologists were excited when they stumbled upon a defunct monument.</li>
+<li>Latin is a defunct language.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga116891" class="outline-2">
+<h2 id="orga116891"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/deign-in-a-sentence/">Deign</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>to complete a task that one considers beneath him</code>
+</p>
+
+<ul class="org-ul">
+<li>The queen would not deign to invite her maid to dinner.</li>
+<li>Even when the millionaire lost all his money, he still would not deign to cook his own supper.</li>
+<li>The award-winning actress is known for her snobby attitude and would never deign to appear in a low-budget film.</li>
+<li>Because the celebrated athlete would not deign to cut his own lawn, he had a landscaping company on staff to maintain his yard.</li>
+<li>The mayor was not a man of the people and did not deign to respond to letters unless they came from wealthy donors.</li>
+<li>Since the immigrants are the only people who will deign to perform low-paying jobs, they are the individuals who usually pick the onion crops.</li>
+<li>The famous singer would not deign to eat a meal unless her personal chef prepared it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org403c98d" class="outline-2">
+<h2 id="org403c98d"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/deleterious-in-a-sentence/">Deleterious</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>harmful</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I know alcohol is deleterious, I rarely drink more than one glass of wine.</li>
+<li>The overpopulation of large snakes in the forest is deleterious to the wild rat population.</li>
+<li>When I gave him the aspirin, I had no idea it would be deleterious to him and induce a seizure.</li>
+<li>The massive oil spill has a number of deleterious consequences for the environment.</li>
+<li>Contrary to what many individuals believe, taking too many vitamins can be quite deleterious.</li>
+<li>Because it stalls growth, a high level of unemployment has a deleterious effect on the economy.</li>
+<li>Even though secondhand smoke is deleterious to small children, my sister still smokes around her kids.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc1980bd" class="outline-2">
+<h2 id="orgc1980bd"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/deliberation-in-a-sentence/">Deliberation</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>a thorough consideration</code>
+</p>
+
+<ul class="org-ul">
+<li>After only one hour of deliberation, the jury came back with a guilty verdict.</li>
+<li>I cannot give the proposal the deliberation it deserves because I am facing a tight deadline.</li>
+<li>With great deliberation, the scholarship committee finally selected a recipient.</li>
+<li>Although the two countries have been in deliberation for nearly a week, they still have not been able to agree on the terms of the treaty.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org41fd694" class="outline-2">
+<h2 id="org41fd694"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/delineate-in-a-sentence/">Delineate</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>to clearly describe or portray something</code>
+</p>
+
+<ul class="org-ul">
+<li>Before I began to plant my seeds, I will delineate the rows of my garden to make sure every vegetable grows in a precise line.</li>
+<li>Jason put a fence up to delineate his property from his neighbor’s.</li>
+<li>If you want your children to properly complete their chores, you have to clearly delineate the tasks so your kids will know what to do.</li>
+<li>Computer programs which can delineate faces are very helpful to law enforcement agencies.</li>
+<li>As an artist, Helen can delineate the lines of a person’s face using both pencils and paints.</li>
+<li>Today, medical technology exists which makes it possible for a doctor to delineate a baby’s sex before it is born.</li>
+<li>Using an electron microscope, a scientist can clearly delineate the parts of a plant cell.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc0aec1e" class="outline-2">
+<h2 id="orgc0aec1e"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/delude-in-a-sentence/">Delude</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>to manipulate someone’s judgment</code>
+</p>
+
+<ul class="org-ul">
+<li>The cult leader was able to easily delude the innocent girl into believing he was a god.</li>
+<li>If the pimp can delude the teenager into thinking her parents no longer love her, he will be able to lead her into a life of prostitution.</li>
+<li>Although Mary has no vocal talent, her parents have allowed her to delude herself into believing she is a great singer.</li>
+<li>When the con artist speaks to the elderly, he tries to delude them into thinking his supplements will allow them to live longer.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge374f15" class="outline-2">
+<h2 id="orge374f15"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/deluge-in-a-sentence/">Deluge</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>a large number of things occurring in the same instance</code>
+</p>
+
+<ul class="org-ul">
+<li>After a deluge of tornadoes, most of the homes in the town were destroyed.</li>
+<li>The noted physician received a deluge of awards for his work in AIDS research.</li>
+<li>When the company received a deluge of lawsuits, it decided to recall the product responsible for the complaints.</li>
+<li>The car rental company closed after a deluge of accidents prevented it from being able to insure its vehicles.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org24b9bef" class="outline-2">
+<h2 id="org24b9bef"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/demean-in-a-sentence/">Demean</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>to make someone feel inferior</code>
+</p>
+
+<ul class="org-ul">
+<li>The plantation owner took away the slaves’ given names in order to demean them.</li>
+<li>When my ex-husband drinks too many beers, he will often try and demean me by pointing out my weaknesses.</li>
+<li>The school bully tried to demean the poor girl by making fun of her used clothes on social media.</li>
+<li>If I ask my father to borrow money, he will attempt to demean me by making comments about my past mistakes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd6dfb60" class="outline-2">
+<h2 id="orgd6dfb60"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/demolish-in-a-sentence/">Demolish</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>to destroy something, usually by tearing it down</code>
+</p>
+
+<ul class="org-ul">
+<li>Protesters chained themselves to the old church in an attempt to stop the construction crew from being able to demolish it.</li>
+<li>The city has threatened to demolish the couple’s run-down home if they didn’t clean the place up.</li>
+<li>A machine was used to demolish the car, crumpling it into a compact metal box.</li>
+<li>The railroad workers stared at the boulder for a long time, trying to decide the best way to demolish with explosives.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7fcdd4c" class="outline-2">
+<h2 id="org7fcdd4c"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/demur-in-a-sentence/">Demur</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>to object or protest to something</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the DA decided to demur the low bond, it was set at a higher fee.</li>
+<li>I wanted to stand up and demur but decided against objecting to the marriage.</li>
+<li>Thomas raised his hand to demur but wasn’t allowed to protest.</li>
+<li>Though she didn’t want to go on vacation with her parents, Jess found it hard to demur their request.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfcbd65e" class="outline-2">
+<h2 id="orgfcbd65e"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/denigrate-in-a-sentence/">Denigrate</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>to assault someone’s character or reputation</code>
+</p>
+
+<ul class="org-ul">
+<li>On the talk show, the mean host usually tries to denigrate her guests by reminding them of their misdeeds.</li>
+<li>You should not denigrate other people unless you want individuals to attack your reputation in retaliation.</li>
+<li>I would never succeed in the corporate world because I could never denigrate others in order to move ahead in business.</li>
+<li>Because Kate is jealous of Marie’s popularity with the boys, she often attempts to denigrate Marie by spreading false rumors.</li>
+<li>Bullies often denigrate others to hide their own feelings of worthlessness.</li>
+<li>During the election, the crooked politician did everything in his power to denigrate his rival.</li>
+<li>Cate’s ex-boyfriend tried to denigrate her when she broke up with him.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9de26a6" class="outline-2">
+<h2 id="org9de26a6"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/denounce-in-a-sentence/">Denounce</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>to criticize harshly and publicly</code>
+</p>
+
+<ul class="org-ul">
+<li>The dictator made a speech to denounce the actions of his enemies.</li>
+<li>Are you really surprised that the victim’s family is going to denounce the killer’s not-guilty verdict?</li>
+<li>As a teacher of a low-performing school, I definitely have the right to denounce the poor efforts of my students.</li>
+<li>Management was quick to denounce the hard work done by the union representatives.</li>
+<li>After Rhonda left the church, she went out of the way to denounce her former beliefs.</li>
+<li>The committee members were quick to denounce their chairman when news of his financial fraud came to light.</li>
+<li>While the congressman was not a fan of the budget proposal, he did not denounce it as being inadequate either.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcaf8b5e" class="outline-2">
+<h2 id="orgcaf8b5e"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/deplore-in-a-sentence/">Deplore</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>to express displeasure</code>
+</p>
+
+<ul class="org-ul">
+<li>Teachers deplore student behaviors that distract from lectures.</li>
+<li>If you deplore the environmental practices of the company, you should not purchase their products.</li>
+<li>I do not frequent luxury hotels because I deplore the snobbish attitudes of the haughty employees.</li>
+<li>How can you deplore my behavior while acting in the same manner?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge40f3a3" class="outline-2">
+<h2 id="orge40f3a3"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/deprecate-in-a-sentence/">Deprecate</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>to criticize or express disapproval</code>
+</p>
+
+<ul class="org-ul">
+<li>Unfortunately my mother-in-law’s urge to deprecate me is stronger than her urge to inspire me.</li>
+<li>Coach Jones is a good coach because he does not deprecate his players even when they make mistakes.</li>
+<li>When you are teaching someone, you have to remember to not deprecate their efforts to a point where they simply want to stop trying.</li>
+<li>It is very hard for me not to deprecate my husband's cleaning habits when he is constantly leaving a mess in the kitchen.</li>
+<li>After twenty years of marriage, John suddenly started to deprecate his wife's every move.</li>
+<li>The picky woman was quick to deprecate even the best customer service.</li>
+<li>Although I am an atheist, I do not go out of my way to deprecate the opinions of those who believe in a higher power.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1a70ae3" class="outline-2">
+<h2 id="org1a70ae3"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/deprecatory-in-a-sentence/">Deprecatory</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>belittling, critical</code>
+</p>
+
+<ul class="org-ul">
+<li>Although he claimed it was all in fun, the man’s deprecatory comments were hurtful to those they ridiculed.</li>
+<li>The man’s deprecatory remarks about his wife’s weight led her to be depressed and insecure.</li>
+<li>Insisting that he stop with the deprecatory remarks, the teacher escorted the patronizing student out of the classroom.</li>
+<li>Deprecatory jokes about his mother caused the offended youngster to get extremely angry.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0ad0715" class="outline-2">
+<h2 id="org0ad0715"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/depreciate-in-a-sentence/">Depreciate</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>to drop in value or worth over a period of time</code>
+</p>
+
+<ul class="org-ul">
+<li>The new car starts to depreciate in value as soon as it is driven off the lot.</li>
+<li>Because John was not financially savvy, he blew most of his lottery winnings on items that seemed to depreciate quickly.</li>
+<li>The property will never depreciate in worth because it's in a prime location near the beach.</li>
+<li>If the value of our currency continues to depreciate, it will soon be worthless abroad.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4e8d39d" class="outline-2">
+<h2 id="org4e8d39d"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/deprive-in-a-sentence/">Deprive</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>to take something away (and keep it away); deny someone of something</code>
+</p>
+
+<ul class="org-ul">
+<li>Max is a racist who wants to deprive black people from their right to vote on election day.</li>
+<li>If implemented, the President’s crazy plan will deprive seniors of adequate healthcare.</li>
+<li>Upon entering the cult, William took upon himself to fast for a week to deprive himself of food.</li>
+<li>The defendant screamed that he would not allow the judge to deprive him of his right to a fair trial.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0ecdc5e" class="outline-2">
+<h2 id="org0ecdc5e"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/derelict-in-a-sentence/">Derelict</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>in bad shape as a result of neglect</code>
+</p>
+
+<ul class="org-ul">
+<li>Out of fear for my safety, I chose not to walk inside of the derelict barn.</li>
+<li>Our small town has a large number of derelict buildings that need to be demolished.</li>
+<li>Thanks to several volunteer organizations in our community, many derelict areas have been turned into stunning gardens.</li>
+<li>Because many businesses closed during the economic crisis, the city is now filled with derelict shops and empty factories.</li>
+<li>Once the mall closed, the residents in the neighborhood relocated and the area became vacant and derelict.</li>
+<li>My friend Katherine is a photographer who loves to search abandoned areas for derelict buildings with old fixtures.</li>
+<li>While the derelict car is not running now, it will be operational after I replace the spark plugs.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7be8578" class="outline-2">
+<h2 id="org7be8578"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/deride-in-a-sentence/">Deride</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>to subject to bitter ridicule</code>
+</p>
+
+<ul class="org-ul">
+<li>The movie critic took every opportunity to deride the A-list actor for making the awful film.</li>
+<li>When I am a parent, I will not deride my children and make them feel worthless.</li>
+<li>If the police do not intervene, the fans of the winning team will deride the losing players as they leave the arena.</li>
+<li>Bullies are individuals who deride other people in order to feel superior.</li>
+<li>The veteran football players will often deride their rookie teammates until the coach interferes.</li>
+<li>To deride his victims, the stalker often writes cruel words on their vehicles.</li>
+<li>Jason’s spoiled daughter thinks it is okay to deride homeless people.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb67e308" class="outline-2">
+<h2 id="orgb67e308"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/derivative-in-a-sentence/">Derivative</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>an object or idea that is produced from something else</code>
+</p>
+
+<ul class="org-ul">
+<li>The new antibiotic is listed as a derivative of penicillin because it was produced from a penicillin base.</li>
+<li>When Anna named her children Breanna and Brent, she gave them both names that were a derivative of her mother’s name, Brenda.</li>
+<li>Much of the early soul music we listen to is a derivative of blues music.</li>
+<li>Because the film is a derivative of a novel, it cannot be entered into the original screenplay competition.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0c7c98a" class="outline-2">
+<h2 id="org0c7c98a"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/derogatory-in-a-sentence/">Derogatory</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>conveying a poor opinion of something or someone</code>
+</p>
+
+<ul class="org-ul">
+<li>The public criticized the basketball team owner after he made derogatory remarks about minorities.</li>
+<li>To a mentally disabled person, the term “retarded” is viewed as a derogatory word.</li>
+<li>The restaurant’s derogatory name caused people to avoid eating there.</li>
+<li>Because the woman made derogatory remarks about the president’s children, she lost her job as a senator’s aide.</li>
+<li>My husband’s derogatory comments really hurt me.</li>
+<li>Because the man’s derogatory statements offended the waitress, she refused to serve him.</li>
+<li>Since James has a derogatory credit report, he is finding it hard to get a car loan.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org337ad71" class="outline-2">
+<h2 id="org337ad71"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/descry-in-a-sentence/">Descry</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>to catch sight of</code>
+</p>
+
+<ul class="org-ul">
+<li>After conducting experiments for several years, the scientist was able to descry the cause of the disease.</li>
+<li>Using the binoculars, I hoped to descry what the criminals were doing in the woods.</li>
+<li>The jeweler was able to easily descry the true value of the large diamond.</li>
+<li>Because I wanted to descry my favorite actor at the movie premiere, I stood outside in the rain for six hours.</li>
+<li>Even with the bombs going off around him, the soldier could still descry his country’s flag flying high in the distance.</li>
+<li>After the horrible car crash, it was impossible to descry any signs of life in the vehicle.</li>
+<li>Because Marie was not wearing her glasses, she was unable to descry her husband in the large crowd.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org084b47c" class="outline-2">
+<h2 id="org084b47c"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/desecrate-in-a-sentence/">Desecrate</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>to treat a sacred place or object with disrespect</code>
+</p>
+
+<ul class="org-ul">
+<li>Do not desecrate the temple by speaking loudly during your visit.</li>
+<li>Having a party in a cemetery at night is one way to desecrate the resting place of the dead.</li>
+<li>The graffiti artist hopes gangs will not desecrate his art by painting over it.</li>
+<li>Are you really going to desecrate the tribe’s burial ground by building a hotel on this property?</li>
+<li>I do not understand why anyone would desecrate another person’s grave by destroying the headstone.</li>
+<li>During the war, the invading soldiers tried to desecrate the churches and museums by painting skulls on the walls.</li>
+<li>The teenage boy ignored peer pressure and refused to desecrate the flag inside the school building.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org98a4f8c" class="outline-2">
+<h2 id="org98a4f8c"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/despondent-in-a-sentence/">Despondent</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>very sad and without hope</code>
+</p>
+
+<ul class="org-ul">
+<li>Marilyn was despondent after her husband of fifty years died.</li>
+<li>How can I help but be despondent after losing my job?</li>
+<li>My son was quite despondent when his girlfriend dumped him.</li>
+<li>As John held a gun to his head, everyone realized how despondent he was.</li>
+<li>Whenever I feel despondent, I call my friends to make me smile.</li>
+<li>Many people were left homeless and despondent after a tornado swept through their state.</li>
+<li>When Cher discovered her dog had run away from home, she became very despondent.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5ee9aee" class="outline-2">
+<h2 id="org5ee9aee"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/destine-in-a-sentence/">Destine</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>to intend for something to fulfill a certain purpose</code>
+</p>
+
+<ul class="org-ul">
+<li>When you create something, you destine it for a certain goal, a certain role that it was primarily designed to fulfill.</li>
+<li>A company destines a product for a particular purpose during the design phase, gearing it to be as efficient as it can in performing that purpose.</li>
+<li>When I create a character for a book, I destine him to achieve certain goals, have certain flaws, and experience certain things.</li>
+<li>I do not think it is right for parents to try and destine their children to take on a certain career path, rather than letting them choose for themselves.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org91c9f18" class="outline-2">
+<h2 id="org91c9f18"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/desultory-in-a-sentence/">Desultory</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>not having a plan or purpose</code>
+</p>
+
+<ul class="org-ul">
+<li>Because he was not happy with his pay increase, James made only a desultory effort to complete his duties at work.</li>
+<li>The students were confused by the teacher’s desultory lecture which seemed to have no real focus.</li>
+<li>At the party, the unfriendly boy made desultory conversation with a few of the other children.</li>
+<li>The couple’s divorce came as no surprise because everyone knew their marriage was only a desultory arrangement.</li>
+<li>Since my grandmother suffers from a brain disorder, she often speaks in a desultory tone which comes across as unorganized.</li>
+<li>Because Janice was not a football fan, she showed only a desultory interest in the game.</li>
+<li>When I complain about the messy condition of my daughter’s bedroom, she usually makes a desultory attempt to tidy up her space.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbe71d2e" class="outline-2">
+<h2 id="orgbe71d2e"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/deter-in-a-sentence/">Deter</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>to prevent something from happening</code>
+</p>
+
+<ul class="org-ul">
+<li>When they heard about all the recent break-ins around the neighborhood, they bought a huge dog that would be sure to deter any uninvited visitors.</li>
+<li>Her father taught her that she should never let anything deter her in her goal to get at least a bachelor’s degree.</li>
+<li>Opponents of the death sentence insist that its existence does nothing to deter crime.</li>
+<li>Once he decided to compete in the Iron Man, nothing could deter his resolve to reach his best fitness level ever.</li>
+<li>If you stop and count to ten when you’re angry, it will deter you from doing something you could later regret.</li>
+<li>She is always careful to live within her means, and she pays off her credit cards every month to deter any accumulation of debt.</li>
+<li>The stories about the flesh-eating mosquitoes were never true; the town was just attempting to deter an influx of tourists.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org03353f0" class="outline-2">
+<h2 id="org03353f0"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/deterrent-in-a-sentence/">Deterrent</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>a thing that discourages someone from doing something</code>
+</p>
+
+<ul class="org-ul">
+<li>My daughter views the loss of cellphone privileges as a cruel deterrent against having bad grades.</li>
+<li>When I saw the security guard in the store, I knew he was there as a theft deterrent.</li>
+<li>The stop sign on the corner is supposed to be a deterrent that discourages speeding.</li>
+<li>Is a guard dog a good deterrent against home invasions?</li>
+<li>Many teachers believe knowledge is the only deterrent of crime that can keep children on the right path.</li>
+<li>If negative reinforcement does not decrease unwanted behavior, then it is not a deterrent.</li>
+<li>As the judge looked at the rebellious teen, he realized the fear of prison was not a strong enough deterrent to keep young people out of trouble.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org565c316" class="outline-2">
+<h2 id="org565c316"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/detest-in-a-sentence/">Detest</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>to deeply despise a person or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>If you really detest your ex-husband, you will stay away from him.</li>
+<li>Janet’s parents detest her new boyfriend because he has a very bad reputation.</li>
+<li>Because I had to sit at a table with someone I detest, I did not enjoy the holiday banquet.</li>
+<li>The animal activists detest people who purchase fur coats.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org078fd44" class="outline-2">
+<h2 id="org078fd44"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/detour-in-a-sentence/">Detour</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>a long or out of the way route taken because the normal path is unavailable</code>
+</p>
+
+<ul class="org-ul">
+<li>Because a car accident had blocked the highway, we had to take a massive detour that led us around the incident.</li>
+<li>After a rockslide blocked the mountain road we were traveling on, we had to take a large detour guided by the local park rangers.</li>
+<li>We took a detour on our way to Las Vegas because we figured there were plenty of cool things to see along the way there.</li>
+<li>Even though we had to take a detour to get around the wet hallway in school, it’s fine because we ran into our friend because of it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orged798f1" class="outline-2">
+<h2 id="orged798f1"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/detriment-in-a-sentence/">Detriment</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>an event or item that inflicts damage to an individual or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>Many suspect the building of the chemical plant is going to be a detriment to the town’s freshwater supply.</li>
+<li>In its drug manual, the company does not mention the product could be a detriment to a person's health until the ad's end.</li>
+<li>The mobile telephone business has been a detriment to those companies that offer only landline services.</li>
+<li>As long as the herbal drink does not pose a detriment to my physical wellbeing, I will give it a try.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4b5323d" class="outline-2">
+<h2 id="org4b5323d"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/devious-in-a-sentence/">Devious</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>underhanded; insincere</code>
+</p>
+
+<ul class="org-ul">
+<li>When Sheila learned the young man had married her ninety-year-old mother, she knew he had devious plans.</li>
+<li>Everyone expected the mean wrestler to do something devious to his opponent during the match.</li>
+<li>After conducting an investigation, the detective was able to uncover the devious plot devised by the victim’s daughter.</li>
+<li>Alan realized the only way he could win the survival game was by being as devious as his fellow competitors.</li>
+<li>Because the devious salesman wanted to make his sales quota, he began to lie to potential customers about the benefits of his product.</li>
+<li>Diane had devious motives for inviting her rival to her birthday party.</li>
+<li>When the principal discovered the students’ devious plan to cheat on the math exam, she suspended everyone involved.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org733dd7c" class="outline-2">
+<h2 id="org733dd7c"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/devoid-in-a-sentence/">Devoid</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>entirely lacking; empty</code>
+</p>
+
+<ul class="org-ul">
+<li>If I spend my last few dollars, my wallet will be devoid of cash.</li>
+<li>We need rainfall or the lake will be devoid of water.</li>
+<li>Devoid of motivation, the man gave up on his desire to lose weight.</li>
+<li>Ted blankly stared at the wall, devoid of emotion.</li>
+<li>Devoid of love for each other, the married couple divorced.</li>
+<li>Nobody laughed because your jokes are devoid of humor.</li>
+<li>With a devoid of interest for children, Michelle knew that babysitting would not be a job possibility.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org00e23f4" class="outline-2">
+<h2 id="org00e23f4"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/devout-in-a-sentence/">Devout</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>very religious or strongly committed to a belief or cause</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the bride was a devout Catholic, Sarah knew the wedding would be held in a Catholic church.</li>
+<li>The devout teacher held sessions before and after school to ensure the success of her students on the math test.</li>
+<li>It takes more than one devout employee to make a successful business.</li>
+<li>Due to Karen being a devout news reporter for many years, she never married or had any children.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org926f93d" class="outline-2">
+<h2 id="org926f93d"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/dexterous-in-a-sentence/">Dexterous</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>having or showing great skill or cleverness</code>
+</p>
+
+<ul class="org-ul">
+<li>The chimpanzee is a dexterous animal that can maneuver objects as well as a human does.</li>
+<li>Since I do not often use my left hand, I am not dexterous when I use it for writing.</li>
+<li>The old carpenter’s hands are no longer dexterous enough for him to build furniture.</li>
+<li>At the age of six, the boy revealed he was a dexterous pianist and played his first sold-out concert.</li>
+<li>The county’s bomb squad is made of dexterous men and women who are highly skilled at detonating explosives.</li>
+<li>As the crowd cheered, the dexterous acrobat flipped from one high bar to another.</li>
+<li>The dexterous painter could perfectly reproduce any painting within two hours.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbd1145f" class="outline-2">
+<h2 id="orgbd1145f"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/didactic-in-a-sentence/">Didactic</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>designed or intended to teach</code>
+</p>
+
+<ul class="org-ul">
+<li>While the professor’s lectures were designed to be didactic, they only served to confuse the students.</li>
+<li>Although the fiction books are not meant to be didactic, they are quite informative.</li>
+<li>Even though my parents drive me crazy, I know they think they are being helpful by giving me didactic advice.</li>
+<li>The purpose of the didactic presentation was to teach us all about the dangers of cigarette smoking.</li>
+<li>In its analogy of beauty versus ugliness, the poem tries to be didactic while delivering an important lesson on self-image.</li>
+<li>Since you are taking a trip to Europe, you might want to review this didactic guidebook on the subject of European travel.</li>
+<li>His didactic style of teaching involves a large number of student-led discussions.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1c10f24" class="outline-2">
+<h2 id="org1c10f24"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/diffident-in-a-sentence/">Diffident</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>lacking confidence in one’s ability or self</code>
+</p>
+
+<ul class="org-ul">
+<li>Because she felt unattractive, Mary was diffident and kept to herself at parties.</li>
+<li>Although he graduated in the top ten percent of his class, Jules is still diffident about his own intelligence.</li>
+<li>Even though everyone told her she was beautiful, the diffident actress still believed she was ugly.</li>
+<li>George was a diffident student who never stood up to his bullies.</li>
+<li>Since he was behind in the polls, the politician was diffident about his chance of winning the election.</li>
+<li>Because Sarah had never sung in public before, she was diffident about trying out for the talent show.</li>
+<li>While Portia was diffident about her dancing skills, she never let her anxiety keep her off the dance floor.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7cf196c" class="outline-2">
+<h2 id="org7cf196c"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/dilapidated-in-a-sentence/">Dilapidated</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>rundown; in bad shape</code>
+</p>
+
+<ul class="org-ul">
+<li>The dilapidated house on our street is sure to lower the property values of the homes in our neighborhood.</li>
+<li>After my husband breaks down the dilapidated shed in our backyard, he is going to build a playhouse for our children in the same area.</li>
+<li>The dilapidated shops on the western side of the stadium are going to be demolished and replaced with a shopping mall.</li>
+<li>Although my house may be a little dilapidated, I am fixing it up one project at a time.</li>
+<li>How long do you think it will take us to repair the dilapidated greenhouse?</li>
+<li>We need to get rid of the dilapidated computer that keeps crashing.</li>
+<li>Until repairs are made on the dilapidated boat, we cannot set sail for the Bahamas.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgeb5c03b" class="outline-2">
+<h2 id="orgeb5c03b"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/dilate-in-a-sentence/">Dilate</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>to cause to expand</code>
+</p>
+
+<ul class="org-ul">
+<li>The doctor will repair the narrowed vessels by inserting a tube to dilate them.</li>
+<li>When Kim is shocked, her eyes dilate and become quite large.</li>
+<li>The optometrist will dilate my eyes so they can be viewed more clearly.</li>
+<li>If the pregnant woman’s cervix does not dilate properly, the birthing process will be difficult.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9247b24" class="outline-2">
+<h2 id="org9247b24"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/dilatory-in-a-sentence/">Dilatory</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>intended to cause delay</code>
+</p>
+
+<ul class="org-ul">
+<li>My daughter used dilatory tactics to stay up past her bedtime.</li>
+<li>Because I was running late to the meeting, I asked my assistant to behave in a dilatory manner so I would have time to arrive.</li>
+<li>My father used a dilatory strategy to keep me out of the house while my mother arranged my surprise birthday party.</li>
+<li>Although my husband tried to give me a bunch of dilatory errands to keep me away from the house, I still arrived home in time to catch him with his girlfriend.</li>
+<li>His plan for the robbery included using a car crash as a dilatory maneuver to slow down the police.</li>
+<li>Even though the politician used dilatory answers during the interview, he eventually had to make direct responses to the questions.</li>
+<li>Because the lawyer filed so many dilatory motions, the trial did not start until two years after the crime was committed.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0e22339" class="outline-2">
+<h2 id="org0e22339"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/dilettante-in-a-sentence/">Dilettante</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>a person whose interest in an art or in an area of knowledge is not very serious</code>
+</p>
+
+<ul class="org-ul">
+<li>When it comes to learning how to play the guitar, my daughter is a dilettante who will practice one day but not the next day.</li>
+<li>The veteran reporters viewed the new guy as a dilettante who would not take his job as seriously as they took their careers.</li>
+<li>Because Peter studied music composition for eight years, he is definitely not a dilettante in the field of music.</li>
+<li>The critics did not see the heiress as a serious filmmaker, only as a dilettante who was bored with her life.</li>
+<li>Without any formal training, Kara is simply a dilettante and not a professional dancer.</li>
+<li>It was obvious from the pianist’s poor performance that he was a dilettante who had no interest in cultivating his talent.</li>
+<li>If Mark wants to be seen as more than a dilettante, he needs to take a few more art classes so he can demonstrate his knowledge of the subject.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org004a2f0" class="outline-2">
+<h2 id="org004a2f0"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/diminution-in-a-sentence/">Diminution</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>a lessening or reduction</code>
+</p>
+
+<ul class="org-ul">
+<li>The diminution of military troops will leave our country more vulnerable to invasion.</li>
+<li>When the jobless rate decreases, there is usually a diminution in crime as well.</li>
+<li>The rising number of unwed mothers reflects a diminution of moral values.</li>
+<li>Because of the diminution of gas prices, more people are hitting the highways this summer.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0dbf536" class="outline-2">
+<h2 id="org0dbf536"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/disabuse-in-a-sentence/">Disabuse</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>to make aware of the truth</code>
+</p>
+
+<ul class="org-ul">
+<li>If you wish to continue to believe that falsehood, I will not disabuse you by telling you the truth.</li>
+<li>It is my job as a teacher to disabuse students of the notion they can be successful without an education.</li>
+<li>Even though I know Jessica is telling her mother a lie, I will not disabuse my friend’s parent.</li>
+<li>The minister did everything he could to disabuse his church members about false idols.</li>
+<li>Because my cousin is an environmental activist, she tries to disabuse people of the idea that wasting water does not matter.</li>
+<li>A review of the past will disabuse any government which believes there are benefits to starting a war.</li>
+<li>If you believe you can break the law in this town, the police will soon disabuse you of that idea.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org05b543f" class="outline-2">
+<h2 id="org05b543f"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/disarray-in-a-sentence/">Disarray</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>in a state of disorder</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the toddler twins have been acting wildly today, my entire house is in disarray.</li>
+<li>During tax season, Hank’s desk is cluttered in disarray with hundreds of receipts.</li>
+<li>The robbers left the store in disarray after they could not find the rare gems.</li>
+<li>Without a real leader, the political party is in disarray.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga7bbf7f" class="outline-2">
+<h2 id="orga7bbf7f"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/disavow-in-a-sentence/">Disavow</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>refuse to own; reject</code>
+</p>
+
+<ul class="org-ul">
+<li>When news of the band’s breakup surfaced, the manager had to disavow any part in the undoing.</li>
+<li>Her parents planned to disavow any knowledge that she was calling off the wedding.</li>
+<li>When she retired, she had to disavow her former position with the CIA.</li>
+<li>In order to disavow her part in the robbery, the criminal had to testify against her conspirators.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfce7ce5" class="outline-2">
+<h2 id="orgfce7ce5"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/disciple-in-a-sentence/">Disciple</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>a student or follower of a teacher or philosopher</code>
+</p>
+
+<ul class="org-ul">
+<li>After seeing his resurrection, the disciple of Christ set out to spread his message throughout the land.</li>
+<li>A disciple of Jesus, Andrew was a fisherman who left his day job to follow Christ.</li>
+<li>Sariputta was a disciple of Buddha and followed his teachings religiously.</li>
+<li>“Doubting Thomas” was a disciple of Jesus, given his nickname because of his doubts in the Messiah early on.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org146f7a5" class="outline-2">
+<h2 id="org146f7a5"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/discomfit-in-a-sentence/">Discomfit</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>to make a person feel uncomfortable</code>
+</p>
+
+<ul class="org-ul">
+<li>The manager’s mean look served to discomfit me during the interview.</li>
+<li>Because Ann does not like her mother-in-law, she tries to discomfit her when she visits.</li>
+<li>The mob boss will try and discomfit the witness by threatening his family.</li>
+<li>When my mother spoke about my boyfriend’s criminal past, she hoped it would discomfit me so I would break up with him.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org81519eb" class="outline-2">
+<h2 id="org81519eb"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/disconsolate-in-a-sentence/">Disconsolate</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>sad beyond comforting; inconsolable</code>
+</p>
+
+<ul class="org-ul">
+<li>The little girl was so disconsolate after her puppy ran away that her parents put up posters all over the neighborhood.</li>
+<li>Anticipating that the prisoner would be disconsolate at receiving a life sentence, the judge decided to hand down the punishment in closed court.</li>
+<li>Nicole was disconsolate after the breakup and refused to allow her friends to comfort her.</li>
+<li>Although he was disappointed at not winning a medal, he was not disconsolate because the experience had been so amazing.</li>
+<li>After the death of his father, Brian took over the duties as the man of the house to support his disconsolate mother.</li>
+<li>Whenever Cheri feels disconsolate, she can lie in bed for days until the dark clouds begin to lift.</li>
+<li>I was disconsolate after watching that movie; I’m going to try to be a little better informed about the story before I go to the next one.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org248c4d4" class="outline-2">
+<h2 id="org248c4d4"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/discourse-in-a-sentence/">Discourse</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>written or spoken communication or debate</code>
+</p>
+
+<ul class="org-ul">
+<li>The discourse between the two candidates has not been friendly.</li>
+<li>Stranded on the deserted island, the castaway longed for discourse with another human being.</li>
+<li>A major disadvantage of online discourse is that people can often say whatever they like in complete anonymity.</li>
+<li>Although the two presidents were not on friendly terms, they still managed to have polite discourse during the media event.</li>
+<li>After Justin has calmed down, he will be able to have sensible discourse with his brother.</li>
+<li>The purpose of the religious conference was to initiate discourse on the work of missionaries in third world countries.</li>
+<li>The priest refused to participate in a discourse on homosexuality.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org6c2b225" class="outline-2">
+<h2 id="org6c2b225"><span class="section-number-2">70</span> Discredit</h2>
+<div class="outline-text-2" id="text-70">
+<ul class="org-ul">
+<li>The way Leonard responded to the customer was a discredit to the company’s service policy.</li>
+<li>During the divorce, he did some pretty terrible things to bring discredit upon his wife.</li>
+<li>The gross misconduct by one employee brought discredit on the whole company.</li>
+<li>The long-held belief fell into a state of discredit when an alternate theory proved to be more logical.</li>
+<li>Evolutionists discredit the biblical story of creation as a myth.</li>
+<li>He supposedly has a reputation as a great humanitarian, but the article in the newspaper seems to discredit that.</li>
+<li>Although many journalists are only interested in presenting the truth to the public, there are too many who seem to be out to discredit everyone in a position of power.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgef5eab5" class="outline-2">
+<h2 id="orgef5eab5"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/discursive-in-a-sentence/">Discursive</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>talking or writing about many different things in an unorganized manner</code>
+</p>
+
+<ul class="org-ul">
+<li>When the writer was drunk, he often talked for hours in a discursive manner.</li>
+<li>The professor’s lecture was hard to follow because of its discursive tone.</li>
+<li>Confused by the question, the politician gave only a discursive response to the reporter.</li>
+<li>Although I paid a great deal of attention to the debate, the discursive dialogue really confused me.</li>
+<li>As a law student, you should be prepared for a series of discursive questions on legal ethics.</li>
+<li>The author’s writing style was discursive and hard to comprehend.</li>
+<li>Even though Joanna was normally a very organized person, she made a discursive speech during the graduation ceremony.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0c36718" class="outline-2">
+<h2 id="org0c36718"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/disdain-in-a-sentence/">Disdain</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>lack of respect with a feeling of dislike</code>
+</p>
+
+<ul class="org-ul">
+<li>Pacifists are likely to disdain my right to gun ownership.</li>
+<li>I have an utter disdain for people that want something for nothing.</li>
+<li>The mother was in complete disdain after finding out her son failed the sixth grade again.</li>
+<li>The woman looked at her male abuser with disdain as he walked into the courtroom.</li>
+<li>If you disdain the American Government so much, then why don't you move to China?</li>
+<li>It is evident from the media coverage that New York protesters have great disdain for Wall Street.</li>
+<li>Discovering that I didn't really win a million dollars would leave me in disdain.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1973d4b" class="outline-2">
+<h2 id="org1973d4b"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/disgruntled-in-a-sentence/">Disgruntled</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>unhappy, dissatisfied</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though Harry is disgruntled about losing his job, he still plans to find another one in the same field.</li>
+<li>Disgruntled students can be found in just about any public school; the key is to stay vigilant to avoid scary situations.</li>
+<li>The manager went to the disgruntled customer’s table and offered to take her dinner off of the total bill.</li>
+<li>When disgruntled fans ran onto the field after the game, officials were afraid that a full-fledged riot was brewing.</li>
+<li>The German shepherd didn’t seem at all disgruntled when the Yorkie snatched his chew toy.</li>
+<li>Considering all the recent workplace incidents, perhaps a study should be done on disgruntled workers.</li>
+<li>After they have worked so hard and so long, is it any wonder that the faculty is disgruntled with the state test results?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbff3840" class="outline-2">
+<h2 id="orgbff3840"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/disingenuous-in-a-sentence/">Disingenuous</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>not candid or sincere; generally by pretending one knows less than one actually does</code>
+</p>
+
+<ul class="org-ul">
+<li>The detective was a disingenuous man who often played dumb to trick others into confessing.</li>
+<li>While Catherine pretended to be trustworthy, she was in reality a disingenuous woman who would do whatever it took to get her way.</li>
+<li>Although the politician promised to be open and honest during the election, he later became disingenuous and hid important facts from the voters.</li>
+<li>Disingenuous individuals usually become successful by misleading others.</li>
+<li>By nature, most individuals are disingenuous and try to hide their true intentions from others.</li>
+<li>Do not allow disingenuous people to deceive you to the point where you do something stupid!</li>
+<li>While Jamie’s request for forgiveness seemed sincere, it really was the most disingenuous apology I had ever heard.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5eab167" class="outline-2">
+<h2 id="org5eab167"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/disparage-in-a-sentence/">Disparage</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>to express a negative opinion; belittle</code>
+</p>
+
+<ul class="org-ul">
+<li>You disparage my brother by saying he is worthless?</li>
+<li>It is never right to disparage people based on ethnicity.</li>
+<li>I cannot believe that you belittle and disparage people who have little in common with you.</li>
+<li>Spreading false rumors about Judy will unfairly disparage her reputation.</li>
+<li>Lying is one surefire way to disparage your image.</li>
+<li>Disparage my character, and I'll pick at your flaws.</li>
+<li>What I never understand is why politicians disparage their opponents.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2b03b0b" class="outline-2">
+<h2 id="org2b03b0b"><span class="section-number-2">76</span> <a href="https://wordsinasentence.com/disparate-in-a-sentence/">Disparate</a></h2>
+<div class="outline-text-2" id="text-76">
+<p>
+<code>very different from each other</code>
+</p>
+
+<ul class="org-ul">
+<li>Because there was so much disparate information on the topic, the research process took longer than expected.</li>
+<li>When a husband and wife have such disparate incomes, there can often be some degree of resentment in the marriage.</li>
+<li>Even though they are identical twins, they have such disparate personalities that it’s impossible to get them confused.</li>
+<li>I understand that we all have disparate opinions on what to do with the generous donation, but let’s make a thorough study on where it would best be spent.</li>
+<li>There are plenty of disparate articles on that star, many of which contradict each other.</li>
+<li>When Manny discovered the disparate levels of compensation being paid to the workers, he organized a strike.</li>
+<li>Because many of America’s big cities are a mix of disparate cultures, it’s common to eat a taco on one street corner and cross the street to have some dim sum.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5550111" class="outline-2">
+<h2 id="org5550111"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/dispassionate-in-a-sentence/">Dispassionate</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>not being affected by or showing feelings</code>
+</p>
+
+<ul class="org-ul">
+<li>The dispassionate father watched television while his son cried on the floor.</li>
+<li>When the dispassionate students were informed of their teacher’s death, they acted as if nothing in their lives had changed.</li>
+<li>Liza is a dispassionate person who rarely displays her emotions to others.</li>
+<li>After living with my dispassionate mother for many years, I was confused by the emotions of my expressive mother-in-law.</li>
+<li>The dispassionate queen did not care about her starving people.</li>
+<li>Although the detective was distraught over his partner’s death, he knew he had to inform the widow in a dispassionate manner.</li>
+<li>The dispassionate traffic cop ignored my pleas and gave me a speeding ticket.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbc44293" class="outline-2">
+<h2 id="orgbc44293"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/dispel-in-a-sentence/">Dispel</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>to cause to depart or be broken apart</code>
+</p>
+
+<ul class="org-ul">
+<li>The flowers from my husband do not dispel the fact I believe he is cheating on me.</li>
+<li>When the president made his speech about the state of the country’s security, he hoped his words would dispel public fears.</li>
+<li>The director of the disease center gave a press conference to dispel the myths about the Ebola virus.</li>
+<li>Although Peg knew Sam had been in prison for assault, the knowledge was not enough to dispel the adoration she felt for him.</li>
+<li>The atheist’s book aims to dispel the notion of a heavenly afterlife.</li>
+<li>When the famous painting resurfaced after eighty years, an art expert was called in to dispel the rumor the artwork was fake.</li>
+<li>Your theory is faulty because anyone can dispel the premise with a simple experiment.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2d61d19" class="outline-2">
+<h2 id="org2d61d19"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/disperse-in-a-sentence/">Disperse</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>to spread out</code>
+</p>
+
+<ul class="org-ul">
+<li>As soon as the last bell rings, students disperse out of the building and head to their buses.</li>
+<li>Remember to only spray a little perfume or the fragrance will disperse throughout the house and irritate my sinuses.</li>
+<li>During the riot, the police tried to disperse the large crowd.</li>
+<li>The teachers stand in the hall during class changes to help disperse the traffic.</li>
+<li>When Jim dropped the container, the chemical fumes began to disperse throughout the office.</li>
+<li>The company broke the law when it decided to disperse its hazardous waste into the ocean.</li>
+<li>Because the protestors did not have a permit and refused to disperse, they were arrested.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1c329d0" class="outline-2">
+<h2 id="org1c329d0"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/disposable-in-a-sentence/">Disposable</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>easily expendable and then throw away</code>
+</p>
+
+<ul class="org-ul">
+<li>Because you can't bring shaving equipment on a plane, many travelers buy disposable razors for the duration of their trip.</li>
+<li>The new mom went through thousands of disposable diapers before her baby's 1st birthday.</li>
+<li>Jason was the kind of guy who thought people were disposable and threw them away whenever they were no longer useful.</li>
+<li>They always bought disposable paper plates and plastic cups for their parties to save time and energy on clean up.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb98c4a0" class="outline-2">
+<h2 id="orgb98c4a0"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/disseminate-in-a-sentence/">Disseminate</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>to scatter or spread widely</code>
+</p>
+
+<ul class="org-ul">
+<li>With encyclopedias in every classroom, we will disseminate a wealth of information to all students.</li>
+<li>After the presidential election, it would not take long for the media to disseminate the results to living rooms around the world.</li>
+<li>At your earliest convenience, disseminate the findings of the ongoing investigation to your fellow colleagues.</li>
+<li>The pollen will disseminate into the region by Thursday, causing further burdens for allergy sufferers.</li>
+<li>If you are going to disseminate false information, then don't share it at all.</li>
+<li>How dare you disseminate a rumor about my relationship!</li>
+<li>Just because you are having a bad day doesn't mean you should disseminate negative energy onto me.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org555768e" class="outline-2">
+<h2 id="org555768e"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/dissident-in-a-sentence/">Dissident</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>a person who opposes the current political structure, group or laws; one who disagrees</code>
+</p>
+
+<ul class="org-ul">
+<li>Charlie’s family members were devout Catholics, while he was considered dissident for not identifying with the religion.</li>
+<li>The dissident was jailed for refusing to obey the law.</li>
+<li>A dissident mentality was quickly spreading throughout the floundering faction.</li>
+<li>When the dissident ran away, he was afraid to return for fear that he would be punished.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9807f62" class="outline-2">
+<h2 id="org9807f62"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/dissipate-in-a-sentence/">Dissipate</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>to drive away</code>
+</p>
+
+<ul class="org-ul">
+<li>According to meteorologists, the storm will dissipate after a few hours and make way for the sunshine.</li>
+<li>Jason won the lottery and then watched all of his money dissipate after marrying a gold-digger who only cared about shopping.</li>
+<li>Because my father’s anger will dissipate quickly, I am not worried about going home late tonight.</li>
+<li>The fog will eventually dissipate and allow us to view the path ahead.</li>
+<li>Since Blake’s ex-wife stole all of his money and left him homeless, everyone doubts if his hatred for her will ever dissipate.</li>
+<li>The deodorizer will dissipate the foul-smelling odor and replace it with a more pleasing scent.</li>
+<li>When the stock market suddenly crashed, many investors saw their financial gains dissipate.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdf2e002" class="outline-2">
+<h2 id="orgdf2e002"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/dissonance-in-a-sentence/">Dissonance</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>a lack of agreement; generally between what one believes and how one acts</code>
+</p>
+
+<ul class="org-ul">
+<li>His cruel abuse showed a dissonance with his loving words.</li>
+<li>If Congress can explain the dissonance between their promises and their actual results, the public would be happy to hear the explanation.</li>
+<li>There is a great deal of dissonance between what a liar says and does.</li>
+<li>Although the pastor preached about the importance of marriage, his dissonance became obvious when he fell in love with a married woman.</li>
+<li>Dissonance often occurs when individuals try to explain their abnormal behaviors.</li>
+<li>From the country’s travel brochures, it is impossible to see the dissonance between the luxury hotels and the starving citizens.</li>
+<li>The dissonance between the estimated cost of the war and the real expense shocked the entire nation.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org573e6fc" class="outline-2">
+<h2 id="org573e6fc"><span class="section-number-2">85</span> <a href="https://wordsinasentence.com/distraught-in-a-sentence/">Distraught</a></h2>
+<div class="outline-text-2" id="text-85">
+<p>
+<code>so upset that one cannot behave normally</code>
+</p>
+
+<ul class="org-ul">
+<li>When my father died, I was so distraught I dropped out of school.</li>
+<li>Jerry became distraught when his wife approached him with divorce papers.</li>
+<li>After Carrie lost her job, she became distraught and went on a drinking binge.</li>
+<li>Losing your life savings is enough to make anyone distraught.</li>
+<li>Ever since Carrie lost her mother to cancer, she has been distraught.</li>
+<li>Marcus is too distraught about losing his home in the tornado to care about his stolen car.</li>
+<li>For some strange reason, the photographer was determined to capture a picture of the distraught widow at the cemetery.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1340781" class="outline-2">
+<h2 id="org1340781"><span class="section-number-2">86</span> <a href="https://wordsinasentence.com/diurnal-in-a-sentence/">Diurnal</a></h2>
+<div class="outline-text-2" id="text-86">
+<p>
+<code>energetic during the daylight hours</code>
+</p>
+
+<ul class="org-ul">
+<li>Because bats are not active during the day, they are not diurnal creatures.</li>
+<li>John found it hard to work a diurnal job after being on the night shift for fifteen years.</li>
+<li>In the desert, there are few diurnal animals because of the high daytime temperatures.</li>
+<li>The diurnal animal wears itself out during the day and sleeps all night.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3a15b82" class="outline-2">
+<h2 id="org3a15b82"><span class="section-number-2">87</span> <a href="https://wordsinasentence.com/divulge-in-a-sentence/">Divulge</a></h2>
+<div class="outline-text-2" id="text-87">
+<p>
+<code>to make something known</code>
+</p>
+
+<ul class="org-ul">
+<li>Doctors must be careful to not divulge confidential information about their patients.</li>
+<li>Even though the chef could make a lot of money by giving away his recipes, he refuses to divulge the secret ingredients in his dishes.</li>
+<li>Drug manufacturers are required to divulge any side effects that may be caused by their drugs.</li>
+<li>By signing these papers, I agree to not divulge any of my company’s financial records to anyone outside of my firm.</li>
+<li>Sally promised to never divulge her best friend’s secrets to anyone.</li>
+<li>If the criminal wants to get his sentence reduced, he must agree to divulge his accomplice’s whereabouts.</li>
+<li>The famous actress will not divulge any information about her love life to the press.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org57f2222" class="outline-2">
+<h2 id="org57f2222"><span class="section-number-2">88</span> <a href="https://wordsinasentence.com/dogged-in-a-sentence/">Dogged</a></h2>
+<div class="outline-text-2" id="text-88">
+<p>
+<code>marked by stubborn determination</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though John was miles behind the other runners, his dogged determination would not let him quit the race.</li>
+<li>The prosecutor’s dogged pursuit of justice led to the criminal’s conviction.</li>
+<li>Although the police kept questioning Maria about her involvement in the robbery, she maintained a dogged silence.</li>
+<li>Hank’s dogged perseverance allowed him to complete the tiresome triathlon.</li>
+<li>Because of the dogged efforts of the volunteers, the missing little girl was safely reunited with her parents.</li>
+<li>Although my favorite football team rarely wins a game, I never fail to give them my dogged support.</li>
+<li>The young wrestler’s dogged hard work paid off when he became the world champion in his division.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfdbbfbb" class="outline-2">
+<h2 id="orgfdbbfbb"><span class="section-number-2">89</span> <a href="https://wordsinasentence.com/dogma-in-a-sentence/">Dogma</a></h2>
+<div class="outline-text-2" id="text-89">
+<p>
+<code>something held as an established opinion</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I am a seeker of truth, I do not accept every bit of dogma as fact.</li>
+<li>The young rebels are attacking the government because they no longer view the traditional dogma as relevant today.</li>
+<li>According to the dogma of Candice’s religion, she should not have sex outside of marriage.</li>
+<li>The hate group’s dogma is founded on the belief that all men are not created equal.</li>
+<li>Although Jake considered himself to be quite religious, he did not blindly follow the dogma of the church.</li>
+<li>The innocent teenager accepts every Internet article she reads as dogma.</li>
+<li>Because the cult followers were drugged, they believed each statement from their leader was a part of God's dogma.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge3c230f" class="outline-2">
+<h2 id="orge3c230f"><span class="section-number-2">90</span> <a href="https://wordsinasentence.com/domineer-in-a-sentence/">Domineer</a></h2>
+<div class="outline-text-2" id="text-90">
+<p>
+<code>to rule over someone in an arrogant way</code>
+</p>
+
+<ul class="org-ul">
+<li>Ruling with an iron fist, the dictator was able to domineer the oppressed citizens.</li>
+<li>With his twisted smile, it pleased Pharaoh to domineer over the Hebrew workers.</li>
+<li>The editor’s colleagues accused him of trying to domineer over every other writer as if he was the only one with talent.</li>
+<li>The impatient and intolerant mother made every effort to domineer over her compliant children.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbb125ce" class="outline-2">
+<h2 id="orgbb125ce"><span class="section-number-2">91</span> <a href="https://wordsinasentence.com/dorsal-in-a-sentence/">Dorsal</a></h2>
+<div class="outline-text-2" id="text-91">
+<p>
+<code>situated at the back side of the an animal or plant</code>
+</p>
+
+<ul class="org-ul">
+<li>The dolphin’s dorsal fin is situated on its’s slippery, gray back.</li>
+<li>Connected to the spinal column, the dorsal roots are on the backside of the body.</li>
+<li>Because of its dorsal shell, the turtle has a protective home from predators right on its back.</li>
+<li>The dorsal side of the plant was pricklier that its smooth inner surface.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge95eeaf" class="outline-2">
+<h2 id="orge95eeaf"><span class="section-number-2">92</span> <a href="https://wordsinasentence.com/drab-in-a-sentence/">Drab</a></h2>
+<div class="outline-text-2" id="text-92">
+<p>
+<code>dull; lacking brightness or enthusiasm</code>
+</p>
+
+<ul class="org-ul">
+<li>Somber and drab, the gloomy hospital room made the depressed patient even sadder.</li>
+<li>A bright scarf lightened the mood and improved the CEO’s drab outfit.</li>
+<li>The drab and boring party was enhanced when the DJ and band arrived.</li>
+<li>Before the open house, drab walls were covered with a fresh coat of bright paint.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb409b22" class="outline-2">
+<h2 id="orgb409b22"><span class="section-number-2">93</span> <a href="https://wordsinasentence.com/drollery-in-a-sentence/">Drollery</a></h2>
+<div class="outline-text-2" id="text-93">
+<p>
+<code>something done to cause laughter; Joking</code>
+</p>
+
+<ul class="org-ul">
+<li>Continuing his drollery, the clown was able to entertain all of the smiling guests.</li>
+<li>Drollery during class earned the boy the nickname of class clown.</li>
+<li>The comedian danced and sang, filling the packed out auditorium with his humorous drollery.</li>
+<li>Puppet show gatherers thought the show to be too serious and wished it would have included more comedic drollery.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org07c96da" class="outline-2">
+<h2 id="org07c96da"><span class="section-number-2">94</span> <a href="https://wordsinasentence.com/ductile-in-a-sentence/">Ductile</a></h2>
+<div class="outline-text-2" id="text-94">
+<p>
+<code>capable of being thinned into a wire; malleable</code>
+</p>
+
+<ul class="org-ul">
+<li>Copper and tin wire are both ductile and able to be stretched.</li>
+<li>Some metals are more ductile than others and easily thinned into wire form.</li>
+<li>The ductile metal was used to make electrical wire for the housing unit.</li>
+<li>Without ductile materials, it would be difficult to provide wire for many of the inventions we use today.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org45674b7" class="outline-2">
+<h2 id="org45674b7"><span class="section-number-2">95</span> <a href="https://wordsinasentence.com/dumbfounded-in-a-sentence/">Dumbfounded</a></h2>
+<div class="outline-text-2" id="text-95">
+<p>
+<code>astonished and speechless</code>
+</p>
+
+<ul class="org-ul">
+<li>When my intelligent daughter announced she was going to marry a prison inmate, I was dumbfounded.</li>
+<li>The audience was dumbfounded when the singer walked on stage and then left without singing a word.</li>
+<li>Because Frank considers reality shows to be incredibly stupid, he is dumbfounded by the commercial success of these programs.</li>
+<li>Even the experienced critic was dumbfounded after watching what he called the worst movie ever.</li>
+<li>The old miner was dumbfounded by the sight of the gold in the abandoned mine.</li>
+<li>Because Gina had not looked at her class notes for days, she was dumbfounded when the teacher handed out a pop quiz.</li>
+<li>The doctors were dumbfounded when the patient survived after being shot twelve times.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org344a663" class="outline-2">
+<h2 id="org344a663"><span class="section-number-2">96</span> <a href="https://wordsinasentence.com/dupe-in-a-sentence/">Dupe</a></h2>
+<div class="outline-text-2" id="text-96">
+<p>
+<code>to deliberately mislead someone or the person who is easily used or tricked</code>
+</p>
+
+<ul class="org-ul">
+<li>My brother is a schemer who is always trying to dupe people out of their money.</li>
+<li>Because Bill does whatever his friends tell him to do, he is the perfect dupe to act as a getaway driver.</li>
+<li>The athlete tried to dupe the team manager by using purchased urine for the drug test.</li>
+<li>In order to steal the rare coin, the criminal will have to dupe Jan into believing he has fallen in love with her.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org884a7d4" class="outline-2">
+<h2 id="org884a7d4"><span class="section-number-2">97</span> <a href="https://wordsinasentence.com/dwindle-in-a-sentence/">Dwindle</a></h2>
+<div class="outline-text-2" id="text-97">
+<p>
+<code>to decrease, shrink, diminish, reduce in size</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Amelia and Danny made a promise to each other that they would never let their romance dwindle, they plan a date night every week.</li>
+<li>When the store manager realized that his supply of the popular new toy was beginning to dwindle, he placed an order for a thousand more units.</li>
+<li>As the number of workers began to dwindle because of the cutbacks, the workload of each person became intolerable.</li>
+<li>We have seen our natural resources dwindle in all areas of the world, and it is time for an international effort to do something about it.</li>
+<li>Night was falling and the temperature was dropping, but the searchers refused to allow their hope of finding the missing child to dwindle.</li>
+<li>Although Hannah was excited when she found out that Tristan was coming home, her joy began to dwindle when he told her he would not be able to walk.</li>
+<li>As the evening wore on, the high spirits of the guests began to dwindle, and pretty soon most of them had left the party.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgece0992" class="outline-2">
+<h2 id="orgece0992"><span class="section-number-2">98</span> <a href="https://wordsinasentence.com/dabble-in-a-sentence/">Dabble</a></h2>
+<div class="outline-text-2" id="text-98">
+<p>
+<code>to casually participate or have an interest in an activity</code>
+</p>
+
+<ul class="org-ul">
+<li>The man touted his professional bowling skills but his wife revealed that they only dabble in the sport occasionally.</li>
+<li>Although I dabble in several sports, I do not consider myself a master of any.</li>
+<li>Feeling bored and out of place at the casino, I decided to dabble in a game of poker.</li>
+<li>My passion is for oil painting but I dabble in sketch drawings as well.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1f9c6c6" class="outline-2">
+<h2 id="org1f9c6c6"><span class="section-number-2">99</span> <a href="https://wordsinasentence.com/daft-in-a-sentence/">Daft</a></h2>
+<div class="outline-text-2" id="text-99">
+<p>
+<code>stupid, ridiculous, or silly</code>
+</p>
+
+<ul class="org-ul">
+<li>The daft article is full of errors, and does not belong in our journal.</li>
+<li>Eric is a daft old man who is always mumbling senseless things.</li>
+<li>Everyone sat in silence, as the daft comment hung in the air.</li>
+<li>The plumbers sloppy work demonstrated that he was a daft fool.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgace7dc4" class="outline-2">
+<h2 id="orgace7dc4"><span class="section-number-2">100</span> <a href="https://wordsinasentence.com/dainty-in-a-sentence/">Dainty</a></h2>
+<div class="outline-text-2" id="text-100">
+<p>
+<code>delicately small and pretty</code>
+</p>
+
+<ul class="org-ul">
+<li>Our newborn girl clasps her long dainty fingers in a tight fist.</li>
+<li>The dainty precious tea cups were so beautiful to behold.</li>
+<li>The flower girl scattered dainty petals from her pretty wicker basket.</li>
+<li>Her dainty nature rebelled against the thought of marrying that brute.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3e5467b" class="outline-2">
+<h2 id="org3e5467b"><span class="section-number-2">101</span> <a href="https://wordsinasentence.com/dalliance-in-a-sentence/">Dalliance</a></h2>
+<div class="outline-text-2" id="text-101">
+<p>
+<code>a relationship, usually romantic or sexual, that is taken lightly</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Jill and Frank were both married to other people, their workplace dalliance did not last very long.</li>
+<li>Teenagers have shallow hearts so it is not surprising that they enter into one dalliance after another.</li>
+<li>When Mitch learned his fiancée had a dalliance with another man, he cancelled the wedding.</li>
+<li>The playboy was known for his ability to engage any woman, single or married, in a romantic dalliance.</li>
+<li>Unfortunately Gail’s youthful dalliance ended in a teen pregnancy.</li>
+<li>Although Matt is dating the class president, he still made time to have a brief dalliance with the head cheerleader.</li>
+<li>Even though my husband would probably like to have a dalliance with our lovely neighbor, he knows I will kill him slowly for adultery.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdc7a254" class="outline-2">
+<h2 id="orgdc7a254"><span class="section-number-2">102</span> <a href="https://wordsinasentence.com/dally-in-a-sentence/">Dally</a></h2>
+<div class="outline-text-2" id="text-102">
+<p>
+<code>to do something slowly</code>
+</p>
+
+<ul class="org-ul">
+<li>They fired the guard because he would dally about, wasting his time.</li>
+<li>You won’t succeed if you dally away your time.</li>
+<li>Mom hates when I dilly-dally around the kitchen.</li>
+<li>As my own boss, I have the leisure to dally about.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbbc95eb" class="outline-2">
+<h2 id="orgbbc95eb"><span class="section-number-2">103</span> <a href="https://wordsinasentence.com/damp-in-a-sentence/">Damp</a></h2>
+<div class="outline-text-2" id="text-103">
+<p>
+<code>slightly wet</code>
+</p>
+
+<ul class="org-ul">
+<li>There is a big difference in damp and soaking, nearly as large as the difference between hot and on fire.</li>
+<li>There was a bit of misty fog out this morning, but only enough to make my clothes feel a little damp when I came back inside.</li>
+<li>Unless you are someone that sweats buckets, you will likely only be damp after a moderate workout.</li>
+<li>It is recommended that you use a damp towel when wiping a CD rather than a soaking one, since you just want to get dust off of it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org299a201" class="outline-2">
+<h2 id="org299a201"><span class="section-number-2">104</span> <a href="https://wordsinasentence.com/dangle-in-a-sentence/">Dangle</a></h2>
+<div class="outline-text-2" id="text-104">
+<p>
+<code>to droop freely</code>
+</p>
+
+<ul class="org-ul">
+<li>Since her long earrings dangle down to the middle of her neck, the woman was constantly getting them caught in her long hair.</li>
+<li>While the dog trotted proudly to the front door with his prize, the mouse would dangle by his tail from the dog’s mouth.</li>
+<li>As the watch would dangle from the chain, it would bob up and down every time the gentleman took a step.</li>
+<li>The child would tease her puppy when she would stand over it and dangle a lengthy piece of cheese just an inch out of the puppy’s reach.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orga9602f9" class="outline-2">
+<h2 id="orga9602f9"><span class="section-number-2">105</span> <a href="https://wordsinasentence.com/dank-in-a-sentence/">Dank</a></h2>
+<div class="outline-text-2" id="text-105">
+<p>
+<code>chilly and damp in an unlikable way</code>
+</p>
+
+<ul class="org-ul">
+<li>After the flooding, the house was so dank we moved into a hotel for a few weeks.</li>
+<li>The basement is dank because of the power outage and the leaky pipes.</li>
+<li>Until we open the windows and let in the sun and fresh air, the abandoned house is going to be quite dank.</li>
+<li>The dank pond is filled with waste from the nuclear plant.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5ecdbfd" class="outline-2">
+<h2 id="org5ecdbfd"><span class="section-number-2">106</span> <a href="https://wordsinasentence.com/dapper-in-a-sentence/">Dapper</a></h2>
+<div class="outline-text-2" id="text-106">
+<p>
+<code>neat in appearance, usually referring to a male</code>
+</p>
+
+<ul class="org-ul">
+<li>In the roaring twenties, all of the dapper men took a great deal of care with their appearance.</li>
+<li>The mother dressed her son in his most dapper attire for the family reunion.</li>
+<li>With a nice suit and some hot water, the homeless man is going to look quite dapper for his job interview.</li>
+<li>Josh smiled when the attractive young lady told him he looked dapper in his new jeans.</li>
+<li>Even when the male model goes to the grocery store, he makes sure he looks dapper in a stylish outfit.</li>
+<li>Because the mafia boss liked to dress neatly, he was referred to as the Dapper Don.</li>
+<li>Although William was not a wealthy fellow, he got his suits dry-cleaned so he would look dapper at work.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4c7f715" class="outline-2">
+<h2 id="org4c7f715"><span class="section-number-2">107</span> <a href="https://wordsinasentence.com/daub-in-a-sentence/">Daub</a></h2>
+<div class="outline-text-2" id="text-107">
+<p>
+<code>to coat or smear a substance on a surface</code>
+</p>
+
+<ul class="org-ul">
+<li>My mom screamed at me when I began to daub my bread with too much cream cheese.</li>
+<li>I suspected that the prankster would daub my door handle with Vaseline because he has done so in the past.</li>
+<li>Maria used a soft cloth to gently daub her eyes after she applied too much makeup.</li>
+<li>The artist was able to daub the empty canvas with paint and instantly turn it into a work of art.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org64ddfec" class="outline-2">
+<h2 id="org64ddfec"><span class="section-number-2">108</span> <a href="https://wordsinasentence.com/dawdle-in-a-sentence/">Dawdle</a></h2>
+<div class="outline-text-2" id="text-108">
+<p>
+<code>to waste time by moving slowly</code>
+</p>
+
+<ul class="org-ul">
+<li>If I do not monitor my daughter in the mall, she will dawdle there all day long.</li>
+<li>Teenagers will often dawdle when doing chores they hate.</li>
+<li>While many people are quick to ask for help, they dawdle when help is needed.</li>
+<li>My biggest concern about the class project is that my group will dawdle and not finish on time.</li>
+<li>If the servers dawdle when delivering orders, they will find themselves with a bunch of angry customers.</li>
+<li>Because Jason did not want to dawdle in winning Ann’s affection, he gave her roses and chocolate on the first date.</li>
+<li>Do not dawdle and let your gift certificate expire before you use it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org788d437" class="outline-2">
+<h2 id="org788d437"><span class="section-number-2">109</span> <a href="https://wordsinasentence.com/daze-in-a-sentence/">Daze</a></h2>
+<div class="outline-text-2" id="text-109">
+<p>
+<code>a state of stunned confusion and a lack of clarity</code>
+</p>
+
+<ul class="org-ul">
+<li>In a daze, I wandered through the hallways of the hospital, bumping into everyone that passed me by.</li>
+<li>After hearing that her father had been killed in combat, Jackie walked around in a daze.</li>
+<li>After taken a serious beating, our team played the second half of the game in a total daze.</li>
+<li>Peter sat in a daze near the spot of his former home, after a hurricane completely wrecked it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0886e28" class="outline-2">
+<h2 id="org0886e28"><span class="section-number-2">110</span> <a href="https://wordsinasentence.com/debility-in-a-sentence/">Debility</a></h2>
+<div class="outline-text-2" id="text-110">
+<p>
+<code>a state of physical or mental weakness</code>
+</p>
+
+<ul class="org-ul">
+<li>My father’s debility kept him from taking long walks like he used to love to do.</li>
+<li>Her debility was due to an illness she caught while overseas.</li>
+<li>When planning the trip, we needed to consider accommodations for my mother’s debility.</li>
+<li>Even though she beat cancer, she still dealt with debility from her battle.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org73c9f89" class="outline-2">
+<h2 id="org73c9f89"><span class="section-number-2">111</span> <a href="https://wordsinasentence.com/debrief-in-a-sentence/">Debrief</a></h2>
+<div class="outline-text-2" id="text-111">
+<p>
+<code>to ask questions in order to extract evidence</code>
+</p>
+
+<ul class="org-ul">
+<li>When the fight ended at school, the principal needed to debrief each eyewitness to get an idea of which student started the fight.</li>
+<li>In the courtroom, the prosecutor would debrief each witness on the stand in order to get their information stated about the defendant’s whereabouts in front of the jury.</li>
+<li>The sergeant on the active battlefield would debrief the colonel of the army every ten minutes regarding their results of their strategy.</li>
+<li>Once the hostage taker released his first hostage, the police force would debrief her for a long period of time in order to determine the weapons the hostage taker had and his demeanor.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7dce162" class="outline-2">
+<h2 id="org7dce162"><span class="section-number-2">112</span> <a href="https://wordsinasentence.com/debunk-in-a-sentence/">Debunk</a></h2>
+<div class="outline-text-2" id="text-112">
+<p>
+<code>to reveal the inaccuracies associated with a belief</code>
+</p>
+
+<ul class="org-ul">
+<li>My attempts to debunk my young daughter’s belief in Santa Claus only ended with her crying for days.</li>
+<li>If the president conducts a number of town hall conversations, he believes he can debunk the myths about his healthcare proposal.</li>
+<li>The scientist hoped to debunk the genetic theory by completing his own research.</li>
+<li>To debunk racial stereotypes about food and music, my psychology group plans to survey a diverse group of people about their preferences.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb55a06a" class="outline-2">
+<h2 id="orgb55a06a"><span class="section-number-2">113</span> <a href="https://wordsinasentence.com/decant-in-a-sentence/">Decant</a></h2>
+<div class="outline-text-2" id="text-113">
+<p>
+<code>to move one fluid or liquid from one container to another</code>
+</p>
+
+<ul class="org-ul">
+<li>After asking the waiter for him to refill my glass, he took the large pitcher of iced tea to decant it from his pitcher into my glass.</li>
+<li>It was quite difficult to decant perfume from its original bottle into the beautiful vessel without smelling up the whole room.</li>
+<li>To save the wine for later, we would need to decant it from the bottle into a closed flask since we lost the cork.</li>
+<li>Scientists decant the wet solution from the cylinder into a storage flask so that they could use it in future experiments.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9b3f04e" class="outline-2">
+<h2 id="org9b3f04e"><span class="section-number-2">114</span> <a href="https://wordsinasentence.com/declaim-in-a-sentence/">Declaim</a></h2>
+<div class="outline-text-2" id="text-114">
+<p>
+<code>to say something in a loud, passionate way</code>
+</p>
+
+<ul class="org-ul">
+<li>The love-struck newlywed would declaim his love for his bride on the peak of the highest mountain top.</li>
+<li>Even though the defendant tried to declare her independence through a loud and passionate speech, few people believed she was innocent.</li>
+<li>The actor was speaking so loudly that even those walking past the theater could hear him declaim his monologue.</li>
+<li>The rebel tried to rowdily declaim his hate for the government in the town square, but was quickly arrested for his reckless speech.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3e7f2c0" class="outline-2">
+<h2 id="org3e7f2c0"><span class="section-number-2">115</span> <a href="https://wordsinasentence.com/decoy-in-a-sentence/">Decoy</a></h2>
+<div class="outline-text-2" id="text-115">
+<p>
+<code>a person or object meant to lure something to danger</code>
+</p>
+
+<ul class="org-ul">
+<li>Tony uses a worm decoy to bait fish.</li>
+<li>We caught a deer, using a decoy to trick it into the cage.</li>
+<li>The decoy force tricked the enemy into attacking prematurely.</li>
+<li>The FBI used an undercover decoy to lure in the killer.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org131431f" class="outline-2">
+<h2 id="org131431f"><span class="section-number-2">116</span> <a href="https://wordsinasentence.com/decree-in-a-sentence/">Decree</a></h2>
+<div class="outline-text-2" id="text-116">
+<p>
+<code>an official order issued by a legal authority</code>
+</p>
+
+<ul class="org-ul">
+<li>The queen issued a royal decree which stopped people from visiting the royal gardens during the holidays.</li>
+<li>According to the court’s decree, all suspects can meet their accusers in court.</li>
+<li>When the president signed the decree on equal rights, everyone in the audience cheered.</li>
+<li>The foreign government tried to reduce the population by issuing a decree limiting births.</li>
+<li>After the hurricane, the governor signed an emergency decree which sent food and medical aid to the destroyed counties.</li>
+<li>Once the decree has been signed by the president, all veterans will continue to receive free medical services throughout the country.</li>
+<li>The judge ended Julie and Jake’s marriage by signing a decree.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc450c7b" class="outline-2">
+<h2 id="orgc450c7b"><span class="section-number-2">117</span> <a href="https://wordsinasentence.com/deface-in-a-sentence/">Deface</a></h2>
+<div class="outline-text-2" id="text-117">
+<p>
+<code>to damage or disfigure something, especially a surface</code>
+</p>
+
+<ul class="org-ul">
+<li>They used spray paint to deface the professor’s portrait.</li>
+<li>If unguarded, thugs will deface the monument.</li>
+<li>The mock historian will deface history with his undocumented book.</li>
+<li>Oscar was arrested for attempting to deface the flag.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf89425c" class="outline-2">
+<h2 id="orgf89425c"><span class="section-number-2">118</span> <a href="https://wordsinasentence.com/defile-in-a-sentence/">Defile</a></h2>
+<div class="outline-text-2" id="text-118">
+<p>
+<code>to make impure or dirty, to spoil or contaminate</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Jared is a hamburger purist, he believes that adding any condiments is only going to defile the flavor of the beef.</li>
+<li>Mrs. Underwood told her Sunday School students that they should never defile a church or other holy place with vulgar behavior and language.</li>
+<li>Willis has lined the walls of his apartment with aluminum foil so that aliens won’t be able to penetrate his subconscious and defile his brain.</li>
+<li>Although recent history has shown some improvement, humans continue to defile the planet with their extravagance and waste of natural resources.</li>
+<li>When the new factory began production, a new city government entity was established to monitor the disposal of waste products that might defile the water supply.</li>
+<li>Even though the information is out there that tells us that smoking tobacco will defile our body, young people continue to take up the smoking habit.</li>
+<li>After the group was expelled from the park for drinking beer on the premises, several of them went back to defile the trees by hanging trash from the branches.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfe97970" class="outline-2">
+<h2 id="orgfe97970"><span class="section-number-2">119</span> <a href="https://wordsinasentence.com/deflect-in-a-sentence/">Deflect</a></h2>
+<div class="outline-text-2" id="text-119">
+<p>
+<code>to cause something to be rerouted or directed to a different path</code>
+</p>
+
+<ul class="org-ul">
+<li>During the basketball game, the star player could jump and deflect any opponent’s shot in the air.</li>
+<li>The defense attorney was able to deflect the prosecutor’s questioning causing the judge to require the prosecutor to ask different questions.</li>
+<li>When asked about the salary, the potential candidate was able to deflect this question by beginning to talk about his background.</li>
+<li>Since the young child never filtered anything he said, the parents were ready to deflect any embarrassing topic the child would start to discuss.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9577c8e" class="outline-2">
+<h2 id="org9577c8e"><span class="section-number-2">120</span> <a href="https://wordsinasentence.com/defraud-in-a-sentence/">Defraud</a></h2>
+<div class="outline-text-2" id="text-120">
+<p>
+<code>to swindle or cheat someone out of money</code>
+</p>
+
+<ul class="org-ul">
+<li>One way to defraud the government is by taking and cashing social security checks issued to people who died long ago.</li>
+<li>The defendant was given a hefty sentence when he decided to defraud the court by denying his real name.</li>
+<li>While continuously writing bad checks, the woman was unaware that her actions seemed to defraud the banks.</li>
+<li>In order to buy expensive items using Tom’s bank account, Mark would defraud the credit card company by making them believe he was Tom.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8b1eb33" class="outline-2">
+<h2 id="org8b1eb33"><span class="section-number-2">121</span> <a href="https://wordsinasentence.com/defray-in-a-sentence/">Defray</a></h2>
+<div class="outline-text-2" id="text-121">
+<p>
+<code>to cover, as in to pay for something</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I have a coupon that will defray fifty percent of my restaurant bill, I have enough money to see a movie after dinner.</li>
+<li>We are being asked to donate twenty dollars to help the festival organizer defray the cost of managing the event.</li>
+<li>Fortunately, the scholarship will defray a large part of my daughter’s tuition.</li>
+<li>Since Jim lost his job recently, he has started a fund to defray his wife’s hospital expenses.</li>
+<li>The magazine is increasing its advertising rates to defray its increased publishing costs.</li>
+<li>When you purchase the new phone, you will receive a rebate to help defray the cost of the monthly data plan.</li>
+<li>Most schools use vending machines as a source of income to defray the costs of extracurricular activities.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org45a4104" class="outline-2">
+<h2 id="org45a4104"><span class="section-number-2">122</span> <a href="https://wordsinasentence.com/dejected-in-a-sentence/">Dejected</a></h2>
+<div class="outline-text-2" id="text-122">
+<p>
+<code>depressed; miserable</code>
+</p>
+
+<ul class="org-ul">
+<li>I felt dejected after losing my job.</li>
+<li>When Jan did not get the role in the film, she was more dejected than I had ever seen her.</li>
+<li>The players were dejected after losing the big game.</li>
+<li>Since Bill did not win the award, he was somewhat dejected after the event.</li>
+<li>The kids were dejected when the power outage prevented them from watching television.</li>
+<li>If you looked in the widow’s eyes, you could tell she was completely dejected.</li>
+<li>Ann felt dejected after being denied admission to her favorite college.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org10b28bb" class="outline-2">
+<h2 id="org10b28bb"><span class="section-number-2">123</span> <a href="https://wordsinasentence.com/delectation-in-a-sentence/">Delectation</a></h2>
+<div class="outline-text-2" id="text-123">
+<p>
+<code>pleasure; enjoyment</code>
+</p>
+
+<ul class="org-ul">
+<li>For your delectation, a spread of delicious appetizers will be served throughout the cocktail hour.</li>
+<li>A playlist of popular music was put together for the party guest’s delectation.</li>
+<li>Although I don’t play often, an enjoyable round of golf is always a path to my delectation.</li>
+<li>An open bar was provided for the wedding guests’ enjoyment and dinner was served for their delectation.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga555ee9" class="outline-2">
+<h2 id="orga555ee9"><span class="section-number-2">124</span> <a href="https://wordsinasentence.com/delicate-in-a-sentence/">Delicate</a></h2>
+<div class="outline-text-2" id="text-124">
+<p>
+<code>weakly fragile; frail</code>
+</p>
+
+<ul class="org-ul">
+<li>The delicate flower was broken at the stem during the first storm of the season.</li>
+<li>Because she was so delicate, the girl’s parents didn’t want her playing contact sports.</li>
+<li>Most of the items in the box are delicate and should be handled with care.</li>
+<li>The berries were so delicate that the crushed under the slightest bit of pressure.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8786a92" class="outline-2">
+<h2 id="org8786a92"><span class="section-number-2">125</span> <a href="https://wordsinasentence.com/delinquent-in-a-sentence/">Delinquent</a></h2>
+<div class="outline-text-2" id="text-125">
+<p>
+<code>late in paying what is owed or past due</code>
+</p>
+
+<ul class="org-ul">
+<li>With so many bills delinquent, Kevin had to look for a second job to help him earn enough to catch up.</li>
+<li>Without a way to come up with the delinquent mortgage payments, the couple have no choice but to give up their home.</li>
+<li>The cable company insisted that the bill was past due, but I know that it’s not delinquent and was paid on time.</li>
+<li>Delinquent taxpayers are at risk of losing their homes if they don’t pay their old tax debts.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org85cf494" class="outline-2">
+<h2 id="org85cf494"><span class="section-number-2">126</span> <a href="https://wordsinasentence.com/delirium-in-a-sentence/">Delirium</a></h2>
+<div class="outline-text-2" id="text-126">
+<p>
+<code>a condition of extreme happiness and excitement</code>
+</p>
+
+<ul class="org-ul">
+<li>As soon as the young girl saw all of her birthday presents, she leaped in delirium.</li>
+<li>Jane was in delirium when she received her long-awaited wedding proposal.</li>
+<li>Because I was in delirium when my husband returned from overseas, I could not stop grinning.</li>
+<li>The fans were in delirium as they waited for their favorite singer to begin the concert.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge7981da" class="outline-2">
+<h2 id="orge7981da"><span class="section-number-2">127</span> <a href="https://wordsinasentence.com/delve-in-a-sentence/">Delve</a></h2>
+<div class="outline-text-2" id="text-127">
+<p>
+<code>to search thoroughly and carefully for information</code>
+</p>
+
+<ul class="org-ul">
+<li>We had many books to delve into during our research for school.</li>
+<li>Because she was planning a trip, the woman began to delve into a search for plane tickets.</li>
+<li>When they learned of her disappearance, the detectives were eager to delve into locating her.</li>
+<li>He was considered a great employee because he would delve into every task given to him.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org287722f" class="outline-2">
+<h2 id="org287722f"><span class="section-number-2">128</span> <a href="https://wordsinasentence.com/demagogue-in-a-sentence/">Demagogue</a></h2>
+<div class="outline-text-2" id="text-128">
+<p>
+<code>a political leader who tries to influence people by making emotional speeches</code>
+</p>
+
+<ul class="org-ul">
+<li>Todd wrote an excellent paper describing Hitler as a demagogue.</li>
+<li>The agitators were led by an angry demagogue whose mission was to overthrow the government.</li>
+<li>Because of the frantic way he delivers his speeches, the preacher comes across as a crazed demagogue.</li>
+<li>Only a demagogue could persuade so many people to rebel against authority.</li>
+<li>When he appealed to the desires of his followers, the demagogue found it was an effortless task to raise campaign funds.</li>
+<li>The outrageous post was written by a demagogue who used social networks to influence voters.</li>
+<li>Although he had no logical solution to the gasoline crisis, the demagogue was quick to find fault in the solutions offered by others.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1272762" class="outline-2">
+<h2 id="org1272762"><span class="section-number-2">129</span> <a href="https://wordsinasentence.com/demarcate-in-a-sentence/">Demarcate</a></h2>
+<div class="outline-text-2" id="text-129">
+<p>
+<code>to mark the limits or boundaries of something</code>
+</p>
+
+<ul class="org-ul">
+<li>She was convinced that the school’s administration should demarcate social studies grades from science grades.</li>
+<li>The fence was put in place to demarcate one piece of property from the next.</li>
+<li>The farmer was determined to demarcate his fields in an effort to keep out his neighbor’s cattle.</li>
+<li>We will demarcate the land, but first we need maps to show where the boundary stakes should go.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org38487e0" class="outline-2">
+<h2 id="org38487e0"><span class="section-number-2">130</span> <a href="https://wordsinasentence.com/demented-in-a-sentence/">Demented</a></h2>
+<div class="outline-text-2" id="text-130">
+<p>
+<code>mental instability that drives strange behavior spurred by extreme emotions</code>
+</p>
+
+<ul class="org-ul">
+<li>Kaia was heartbroken when she found out her grandfather was demented and would soon lose all memory of her.</li>
+<li>After his demented wife purposely tried to burn their house down, he had her committed to a psychiatric ward.</li>
+<li>He called the police on his demented neighbor after she started screaming at the hedges for no reason.</li>
+<li>Whenever Nathan forgot to take his antipsychotic  medication he became demented and alternated between talking to himself and punching the wall.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb2e29d3" class="outline-2">
+<h2 id="orgb2e29d3"><span class="section-number-2">131</span> <a href="https://wordsinasentence.com/demure-in-a-sentence/">Demure</a></h2>
+<div class="outline-text-2" id="text-131">
+<p>
+<code>shy and modest; reserved</code>
+</p>
+
+<ul class="org-ul">
+<li>My sister is too outgoing for anyone to ever accuse her of being demure.</li>
+<li>While Helen is quite demure in her job as a librarian, at night she becomes a wild karaoke queen.</li>
+<li>Because he was nervous at the audition, Biff sang in a demure voice which the judges were unable to hear.</li>
+<li>At the party last night, Iris was demure and stayed in a corner by herself.</li>
+<li>If you want to impress your boyfriend’s religious mother, you should dress like a demure churchgoing woman instead of like a party girl.</li>
+<li>The demure maid kept her eyes down and rarely spoke.</li>
+<li>Because Allison is demure, it is unlikely she will be as sociable as the other flight attendants.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org80b44b5" class="outline-2">
+<h2 id="org80b44b5"><span class="section-number-2">132</span> <a href="https://wordsinasentence.com/denunciation-in-a-sentence/">Denunciation</a></h2>
+<div class="outline-text-2" id="text-132">
+<p>
+<code>an announcement or statement that is shared openly to criticize a thing or a person</code>
+</p>
+
+<ul class="org-ul">
+<li>The minister’s denunciation of his ex-wife during the service came as a surprise to his congregation.</li>
+<li>During the press conference, the civil rights leader made a denunciation about brutal police tactics.</li>
+<li>The cruel warden ignored his assistant when he made a denunciation about the mistreatment of the prisoners.</li>
+<li>Because the director made a controversial film, he expected a denunciation of his work from the critics.</li>
+<li>The jury’s verdict of innocence resulted in a furious denunciation from the victim’s family.</li>
+<li>Before the terrorist attack, the rebel leader used the Internet to state his denunciation of his enemies.</li>
+<li>The politician’s denunciation of low-income families did not win him any votes during the election.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org165a361" class="outline-2">
+<h2 id="org165a361"><span class="section-number-2">133</span> <a href="https://wordsinasentence.com/depose-in-a-sentence/">Depose</a></h2>
+<div class="outline-text-2" id="text-133">
+<p>
+<code>to forcefully take a position away from a person</code>
+</p>
+
+<ul class="org-ul">
+<li>A coalition of countries is trying to depose the island dictator.</li>
+<li>Working together the princes hope to depose their father and assume power.</li>
+<li>The king sent soldiers to locate the rebels who sought to depose him from his rule.</li>
+<li>Without hesitation, the ruler killed everyone who was linked to the attempt to depose him.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga4464a6" class="outline-2">
+<h2 id="orga4464a6"><span class="section-number-2">134</span> <a href="https://wordsinasentence.com/deposit-in-a-sentence/">Deposit</a></h2>
+<div class="outline-text-2" id="text-134">
+<p>
+<code>to set down or place someone or something in a particular place</code>
+</p>
+
+<ul class="org-ul">
+<li>The woman stopped by the bank to deposit her paycheck in her account.</li>
+<li>Birds deposit their eggs in a high nest away from hungry predators.</li>
+<li>She hurried to the library to deposit her books in dropbox so that she wouldn't get late fees.</li>
+<li>Molly and her children deposit the grocery bags on the kitchen counter.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9b66e77" class="outline-2">
+<h2 id="org9b66e77"><span class="section-number-2">135</span> <a href="https://wordsinasentence.com/depravity-in-a-sentence/">Depravity</a></h2>
+<div class="outline-text-2" id="text-135">
+<p>
+<code>moral corruption; wickedness</code>
+</p>
+
+<ul class="org-ul">
+<li>Although Linda was raised in a religious household, she now lives a life filled with depravity.</li>
+<li>That kind of depravity will get you arrested for public indecency!</li>
+<li>Since you love Henry, you tend to ignore all the acts of depravity in which he engages.</li>
+<li>The witch’s depravity was known throughout the kingdom.</li>
+<li>According to the preacher, drinking too much alcohol is a sign of depravity.</li>
+<li>My grandmother says I live a life of depravity because I share a house with my boyfriend.</li>
+<li>When Jack thinks of all the acts of depravity he committed in college, he is ashamed of himself.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb4d538b" class="outline-2">
+<h2 id="orgb4d538b"><span class="section-number-2">136</span> <a href="https://wordsinasentence.com/depredation-in-a-sentence/">Depredation</a></h2>
+<div class="outline-text-2" id="text-136">
+<p>
+<code>damage or destruction</code>
+</p>
+
+<ul class="org-ul">
+<li>The hurricane left much depredation in the city.</li>
+<li>Because of depredation caused by hungry wolves, many chicken farmers are losing large sums of money.</li>
+<li>The graffiti artist was arrested because he participated in the depredation of city property.</li>
+<li>According to the government, a hate group is responsible for the depredation of the synagogue.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4fa3d85" class="outline-2">
+<h2 id="org4fa3d85"><span class="section-number-2">137</span> <a href="https://wordsinasentence.com/deputize-in-a-sentence/">Deputize</a></h2>
+<div class="outline-text-2" id="text-137">
+<p>
+<code>to make someone a deputy a second in command or assistant who usually takes charge when his or her superior is absent</code>
+</p>
+
+<ul class="org-ul">
+<li>The sheriff made the decision to deputize lieutenant McDaniel so that he could run the jail in his place.</li>
+<li>Because he is so busy, the mayor will need to deputize someone to handle his important in-office business.</li>
+<li>The city police decided to deputize certain citizens, allowing them to provide neighborhood security in the force’s absence.</li>
+<li>My boss will deputize two assistants and put them in charge of day-to-day operations of the plumbing service.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2b98f76" class="outline-2">
+<h2 id="org2b98f76"><span class="section-number-2">138</span> <a href="https://wordsinasentence.com/dereliction-in-a-sentence/">Dereliction</a></h2>
+<div class="outline-text-2" id="text-138">
+<p>
+<code>the neglect or disregard for something or someone</code>
+</p>
+
+<ul class="org-ul">
+<li>Riots brought about the dereliction of looters who could care less about the shop owners when they vandalized their stores.</li>
+<li>Due to the dereliction in the performance of her duties, the nanny was fired because she would go to parties instead of watching the baby.</li>
+<li>Elderly nursing home patients may suffer from severe bedsores due to the dereliction of their caretakers who are not taking care of their patients.</li>
+<li>When the farmer began to work another job in the city, the dereliction of his horses caused them to grow skinny from not being cared for.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org042f72f" class="outline-2">
+<h2 id="org042f72f"><span class="section-number-2">139</span> <a href="https://wordsinasentence.com/derogate-in-a-sentence/">Derogate</a></h2>
+<div class="outline-text-2" id="text-139">
+<p>
+<code>to offend or criticize a person or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>The critic didn't mean to derogate the author, only his poorly written novel.</li>
+<li>If you don't want to derogate the locals during your travels, you should avoid being an obnoxious tourist.</li>
+<li>Many people were angry when they heard the rapper’s song that appeared to derogate women.</li>
+<li>Since my supervisor doesn't like me, she is constantly trying to derogate my work in front of our boss.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3d53f44" class="outline-2">
+<h2 id="org3d53f44"><span class="section-number-2">140</span> <a href="https://wordsinasentence.com/desiccated-in-a-sentence/">Desiccated</a></h2>
+<div class="outline-text-2" id="text-140">
+<p>
+<code>dried out; lifeless</code>
+</p>
+
+<ul class="org-ul">
+<li>The professional soccer player became desiccated after being in a car accident that left him in a coma.</li>
+<li>Without water, the crops quickly became desiccated.</li>
+<li>The man tried unsuccessfully to get water from the desiccated well.</li>
+<li>Once the car factories closed, the residents left the desiccated city to look for work.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7b6dc8c" class="outline-2">
+<h2 id="org7b6dc8c"><span class="section-number-2">141</span> <a href="https://wordsinasentence.com/desideratum-in-a-sentence/">Desideratum</a></h2>
+<div class="outline-text-2" id="text-141">
+<p>
+<code>a wished-for or desired thing</code>
+</p>
+
+<ul class="org-ul">
+<li>A desideratum when car shopping is price.</li>
+<li>A desideratum for the role of teacher was certification in English.</li>
+<li>Because a desideratum when house shopping was location, the couple only viewed houses in the city limits.</li>
+<li>Since the desideratum was non-negotiable, the man would not allow smoking in the building.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org13741de" class="outline-2">
+<h2 id="org13741de"><span class="section-number-2">142</span> <a href="https://wordsinasentence.com/desist-in-a-sentence/">Desist</a></h2>
+<div class="outline-text-2" id="text-142">
+<p>
+<code>to stop doing something</code>
+</p>
+
+<ul class="org-ul">
+<li>The document from the court orders the magazine to desist from publishing false stories about the actor.</li>
+<li>Because of the copyright violation, my lawyer sent a cease and desist letter to the company that was publishing my work without permission.</li>
+<li>A scared dog uses his bark to encourage strangers to desist from coming into his territory.</li>
+<li>Since the condominium association has no police authority, it can only ask residents to desist from breaking the rules.</li>
+<li>The country’s leader warned the Western nation to desist from interfering in international conflicts or face nuclear consequences.</li>
+<li>If our neighbor had a sense of decency, he would desist from walking around naked in his front yard.</li>
+<li>Please desist from having loud parties after midnight!</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3826f02" class="outline-2">
+<h2 id="org3826f02"><span class="section-number-2">143</span> <a href="https://wordsinasentence.com/desolate-in-a-sentence/">Desolate</a></h2>
+<div class="outline-text-2" id="text-143">
+<p>
+<code>empty; without life</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the anchor stores closed, the shopping center has become a desolate wasteland.</li>
+<li>The farmer hopes the fertilizer will moisturize the soil in the desolate field so he can grow crops.</li>
+<li>Before Las Vegas became a mobster’s paradise, the entire area was nothing but a desolate desert.</li>
+<li>With the exception of the one man at the bar, the unpopular tavern was desolate.</li>
+<li>The green valleys became desolate during the drought.</li>
+<li>Since the restaurant received a bad review from a popular critic, its reservation book has been quite desolate.</li>
+<li>At one o’clock in the morning, the streets are desolate and free of traffic in the tiny community.</li>
+</ul>
+
+
+<ul class="org-ul">
+<li>Helpless and alone, the prisoner of war fell victim to a deep despair.</li>
+<li>His loneliness and despair had reached new highs, driving him to commit suicide.</li>
+<li>Losing his father was hard enough, but losing his mother one week later caused him to fall into deep despair.</li>
+<li>Bankrupt, out of work, and no relief in sight, the man felt himself overcome with despair.</li>
+<li>Her last hope had fallen through, leaving her to despair.</li>
+<li>Despite the fact that he had lost everything, he would not let himself despair.</li>
+<li>Do not despair, for as long as you still live there is hope.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9d93dee" class="outline-2">
+<h2 id="org9d93dee"><span class="section-number-2">144</span> <a href="https://wordsinasentence.com/despise-in-a-sentence/">Despise</a></h2>
+<div class="outline-text-2" id="text-144">
+<p>
+<code>to look upon with disdain</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I despise the taste of white milk, I never drink it.</li>
+<li>If you despise your situation in life, you should work to alter the things you dislike.</li>
+<li>Jack’s children despise him because he abandoned them when they were young.</li>
+<li>Although the soldier knew his comrades would despise him, he fled the battle scene to save his own life.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd951351" class="outline-2">
+<h2 id="orgd951351"><span class="section-number-2">145</span> <a href="https://wordsinasentence.com/destitute-in-a-sentence/">Destitute</a></h2>
+<div class="outline-text-2" id="text-145">
+<p>
+<code>utterly lacking</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though I grew up in a destitute family, it did not stop me from attending an Ivy League school</li>
+<li>The heiress could think of nothing worse than being destitute.</li>
+<li>If you do not save your money when you are young, you may be destitute in your old age.</li>
+<li>Because of the economy, many who were once rich are now destitute.</li>
+<li>The destitute widow had no idea how she was going to buy food for her five children.</li>
+<li>Because of the rain drought, the lake is nearly destitute of water.</li>
+<li>Our church is doing everything it can to help the destitute families in our community find food and shelter.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgce2921d" class="outline-2">
+<h2 id="orgce2921d"><span class="section-number-2">146</span> <a href="https://wordsinasentence.com/detonate-in-a-sentence/">Detonate</a></h2>
+<div class="outline-text-2" id="text-146">
+<p>
+<code>to ignite or blow up</code>
+</p>
+
+<ul class="org-ul">
+<li>When the terrorists began to detonate each bomb, many people heard the loud noise and ran for their lives.</li>
+<li>In order to win the war video game, the player must detonate each bomb to make each building crumble to the ground.</li>
+<li>People fear that if a country decides to detonate a nuclear bomb, then it will kill its citizens instantly.</li>
+<li>To detonate the grenade, the soldier must pull the pin out of its holder and the lever will release.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3d5fe3d" class="outline-2">
+<h2 id="org3d5fe3d"><span class="section-number-2">147</span> <a href="https://wordsinasentence.com/diatribe-in-a-sentence/">Diatribe</a></h2>
+<div class="outline-text-2" id="text-147">
+<p>
+<code>abusive speech or piece of writing</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Sheila was unhappy with the administration, she launched a lengthy diatribe against the board during lunch.</li>
+<li>Upset about his demotion, Ed made an angry diatribe about his employer.</li>
+<li>The candidate made a diatribe against his opponent.</li>
+<li>Even though Janice tried to control her temper in court, she found herself unable to hold in a diatribe about her spouse.</li>
+<li>In a lengthy diatribe, the reviewer made the public aware of his unflattering opinion of the film.</li>
+<li>The cult leader used religion to make a diatribe against the government.</li>
+<li>As a part of her diatribe against local police officers, Mary launched a Website for police complaints.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org90bcc83" class="outline-2">
+<h2 id="org90bcc83"><span class="section-number-2">148</span> <a href="https://wordsinasentence.com/dictum-in-a-sentence/">Dictum</a></h2>
+<div class="outline-text-2" id="text-148">
+<p>
+<code>a statement or well-known remark that expresses an important idea or rule</code>
+</p>
+
+<ul class="org-ul">
+<li>As Sarah waited in the unemployment line, she recognized the truth of the dictum, “last hired; first fired”.</li>
+<li>My suspicious aunt is quick to remind us of the dictum that encourages us to keep our enemies close.</li>
+<li>When Jim foolishly ignored the financial dictum and spent more than he could afford, he found himself homeless after not having enough money to pay his rent.</li>
+<li>Every doctor knows the dictum, “first do no harm”.</li>
+<li>After Larry ignored the dictum his father taught him about following the law, he was arrested and sent to jail.</li>
+<li>My eighty-year-old grandmother believes she has stayed healthy by obeying the dictum of eating an apple a day.</li>
+<li>When the president spoke to the media, he made a dictum about the dangers of unrestricted government.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd5558d6" class="outline-2">
+<h2 id="orgd5558d6"><span class="section-number-2">149</span> <a href="https://wordsinasentence.com/diffuse-in-a-sentence/">Diffuse</a></h2>
+<div class="outline-text-2" id="text-149">
+<p>
+<code>to spread out over a large area</code>
+</p>
+
+<ul class="org-ul">
+<li>They used the essential oils to diffuse fragrance throughout the entire room.</li>
+<li>The fan helped to diffuse cool air all around the sun room.</li>
+<li>In order to diffuse the crowd from the entrance, they asked that the people form lines.</li>
+<li>When the woodsy scent began to diffuse throughout the neighborhood, we knew someone was having a bonfire.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge752748" class="outline-2">
+<h2 id="orge752748"><span class="section-number-2">150</span> <a href="https://wordsinasentence.com/dingy-in-a-sentence/">Dingy</a></h2>
+<div class="outline-text-2" id="text-150">
+<p>
+<code>filthy, discolored, often dark or depressing</code>
+</p>
+
+<ul class="org-ul">
+<li>Her dress was a dingy grey that was two sizes too big and could have used a wash.</li>
+<li>It wasn’t surprising that Catherine felt sad all the time when she lived in a room that was so dingy, dark, and depressing.</li>
+<li>She wore a dingy dress that was discolored from years of sweat and little washing.</li>
+<li>Meredith woke to a dark and dingy room covered in cobwebs.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7d520d7" class="outline-2">
+<h2 id="org7d520d7"><span class="section-number-2">151</span> <a href="https://wordsinasentence.com/dint/">Dint</a></h2>
+<div class="outline-text-2" id="text-151">
+<p>
+<code>as a result of, by way of</code>
+</p>
+
+<ul class="org-ul">
+<li>The candidate seems to have more influence by dint of money and not actual speaking ability.</li>
+<li>Priscilla was able to rise to the top by dint of education and a strong work ethic.</li>
+<li>By dint of its cheap price tag, the latest laptop has made its way onto the bestseller’s list.</li>
+<li>The country was able to conquer others by dint of its brutish ruler who took prisoners wherever he went.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org07850b1" class="outline-2">
+<h2 id="org07850b1"><span class="section-number-2">152</span> <a href="https://wordsinasentence.com/dire-in-a-sentence/">Dire</a></h2>
+<div class="outline-text-2" id="text-152">
+<p>
+<code>extremely pressing</code>
+</p>
+
+<ul class="org-ul">
+<li>Because this is a dire emergency, we need medical assistance right away!</li>
+<li>The children in the third world country are very ill and in dire need of clean water.</li>
+<li>Since Ted’s problem is not as dire as some of the other patients' issues, he will have to wait a while to see an emergency room doctor.</li>
+<li>There will be dire consequences if Eric does not have heart surgery within the next few days.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd6b02e8" class="outline-2">
+<h2 id="orgd6b02e8"><span class="section-number-2">153</span> <a href="https://wordsinasentence.com/disaffected-in-a-sentence/">Disaffected</a></h2>
+<div class="outline-text-2" id="text-153">
+<p>
+<code>rebellious and resentful, especially against authority</code>
+</p>
+
+<ul class="org-ul">
+<li>The disaffected rebels rioted in the streets after the latest police involved killing.</li>
+<li>Severely disaffected students raged at campus authorities and were rebellious with attendance.</li>
+<li>Dissatisfied with the way the government was handling the situation, disaffected protesters chanted outside the White house gates.</li>
+<li>Disaffected patriots decided to separate themselves from England and turn the colonies into a united country.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbcc2e27" class="outline-2">
+<h2 id="orgbcc2e27"><span class="section-number-2">154</span> <a href="https://wordsinasentence.com/disburse-in-a-sentence/">Disburse</a></h2>
+<div class="outline-text-2" id="text-154">
+<p>
+<code>to pay out, expend; usually from a public fund or treasury</code>
+</p>
+
+<ul class="org-ul">
+<li>The federal government said it was studying whether to disburse more relief funds to the state after the damage appears to be severe.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5182323" class="outline-2">
+<h2 id="org5182323"><span class="section-number-2">155</span> <a href="https://wordsinasentence.com/discombobulated-in-a-sentence/">Discombobulated</a></h2>
+<div class="outline-text-2" id="text-155">
+<p>
+<code>in a confused or bewildered condition</code>
+</p>
+
+<ul class="org-ul">
+<li>I felt discombobulated after working twelve hours a day for seven straight days.</li>
+<li>When the student looked at the difficult test, she felt discombobulated.</li>
+<li>The cat was discombobulated until it learned its way around the new house.</li>
+<li>Because the police officer felt the woman was discombobulated, he asked her to take a sobriety test.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5f58da3" class="outline-2">
+<h2 id="org5f58da3"><span class="section-number-2">156</span> <a href="https://wordsinasentence.com/discrepancy-in-a-sentence/">Discrepancy</a></h2>
+<div class="outline-text-2" id="text-156">
+<p>
+<code>a difference or inconsistency especially between things that should be the same</code>
+</p>
+
+<ul class="org-ul">
+<li>A discrepancy in the financial reports is the reason for the audit.</li>
+<li>Because of a discrepancy in the witness’ testimony, the defense attorney has asked the judge to drop the charges against his client.</li>
+<li>I was forced to fire my accountant after he could not explain the discrepancy in my bank account.</li>
+<li>When the store manager noticed a discrepancy in the inventory, he called all of his employees into his office.</li>
+<li>The general is investigating the discrepancy in the number of wounded soldiers reported.</li>
+<li>Because I knew nothing about taxes as a teenager, I was shocked by the discrepancy between what I thought I would receive for my first paycheck and what I actually received.</li>
+<li>The income discrepancy between the upper class and those living below the poverty line is huge.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3b63b13" class="outline-2">
+<h2 id="org3b63b13"><span class="section-number-2">157</span> <a href="https://wordsinasentence.com/discretionary-in-a-sentence/">Discretionary</a></h2>
+<div class="outline-text-2" id="text-157">
+<p>
+<code>considered to be chosen or voluntary</code>
+</p>
+
+<ul class="org-ul">
+<li>Banks have a tendency to loan money through strict methods, but individuals can make a discretionary loan to others without regard to their backgrounds.</li>
+<li>After paying their bills, the discretionary spending with the remaining money was also disbursed between the family’s vacations and eating meals at restaurants.</li>
+<li>Only one discretionary expense on the businessman’s trip expenditures caught the eye of his boss which he refused to pay for.</li>
+<li>When the college student’s parents realized he was only taking three courses this semester, he told them this was his own discretionary decision since he was an adult.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4a64dbc" class="outline-2">
+<h2 id="org4a64dbc"><span class="section-number-2">158</span> <a href="https://wordsinasentence.com/disheveled-in-a-sentence/">Disheveled</a></h2>
+<div class="outline-text-2" id="text-158">
+<p>
+<code>not neat or tidy</code>
+</p>
+
+<ul class="org-ul">
+<li>Everyone was shocked the homeless man did not look more disheveled and unclean.</li>
+<li>After the twenty-four hour plane ride, all of the passengers looked tired and disheveled.</li>
+<li>Jan’s disheveled look is due to the many hours she spent in her garden today.</li>
+<li>Since Eli has not had time to comb his hair or wash his face, he looks quite disheveled.</li>
+<li>I knew Ellen was tired because her normally perfect hair was completely disheveled.</li>
+<li>While the man looks poor and disheveled, he is actually a millionaire.</li>
+<li>The inexperienced florist gave me a disheveled bouquet that looked very messy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9cf3b41" class="outline-2">
+<h2 id="org9cf3b41"><span class="section-number-2">159</span> <a href="https://wordsinasentence.com/disinter-in-a-sentence/">Disinter</a></h2>
+<div class="outline-text-2" id="text-159">
+<p>
+<code>to take out of the grave or tomb; to unbury; to exhume; to dig up</code>
+</p>
+
+<ul class="org-ul">
+<li>They needed to disinter the body to retest for forensic evidence.</li>
+<li>When they discovered an unmarked tomb, they decided to disinter the remains to see what was inside.</li>
+<li>The archaeology team was ready to disinter a mummy from the Great Pyramid at Giza.</li>
+<li>In order to learn more about the past civilization, my organization was prepared to disinter any remains.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org595d3d7" class="outline-2">
+<h2 id="org595d3d7"><span class="section-number-2">160</span> <a href="https://wordsinasentence.com/dislocate-in-a-sentence/">Dislocate</a></h2>
+<div class="outline-text-2" id="text-160">
+<p>
+<code>to put something out of its usual place; dislodge a skeletal bone</code>
+</p>
+
+<ul class="org-ul">
+<li>During a High School football game, Bob was hit by a player causing his shoulder to dislocate.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2fdddd8" class="outline-2">
+<h2 id="org2fdddd8"><span class="section-number-2">161</span> <a href="https://wordsinasentence.com/dismantle-in-a-sentence/">Dismantle</a></h2>
+<div class="outline-text-2" id="text-161">
+<p>
+<code>to take apart into separate pieces</code>
+</p>
+
+<ul class="org-ul">
+<li>To repair the lawn mower, Brad had to dismantle the engine to replace a failing part.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org30b3b37" class="outline-2">
+<h2 id="org30b3b37"><span class="section-number-2">162</span> <a href="https://wordsinasentence.com/dispense-in-a-sentence/">Dispense</a></h2>
+<div class="outline-text-2" id="text-162">
+<p>
+<code>distribute, or give out</code>
+</p>
+
+<ul class="org-ul">
+<li>Every pharmacist must accurately dispense the medicine into the proper containers in order for no one to get sick.</li>
+<li>At the poker table, the dealer will dispense five cards to each person at the beginning of each round.</li>
+<li>The teacher felt she needed to dispense compliments to each student so that they could feel better about themselves.</li>
+<li>Ms. Hopson realized she wanted to dispense each group of students a stack of worksheets to be completed before the end of the day.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org45bb658" class="outline-2">
+<h2 id="org45bb658"><span class="section-number-2">163</span> <a href="https://wordsinasentence.com/dissimulation-in-a-sentence/">Dissimulation</a></h2>
+<div class="outline-text-2" id="text-163">
+<p>
+<code>the action of covering the truth</code>
+</p>
+
+<ul class="org-ul">
+<li>Many anti-government groups believe the president is always conducting acts of dissimulation to deceive the public.</li>
+<li>When I took my mother’s car without permission, I refilled the gas tank and left the car exactly as I found it as part of my dissimulation to avoid being caught.</li>
+<li>Larry’s dissimulation about his homosexuality included a long list of fake girlfriends.</li>
+<li>Although everyone knew Janice lied on the witness stand to protect her mother, the judge had no choice but to punish her for dissimulation.</li>
+<li>The politician used every tool of dissimulation he had to keep the media from learning of his latest scandal.</li>
+<li>If the killer had been better at dissimulation, the police would not have been able to find evidence linking him to the crime.</li>
+<li>In terms of pretending to be someone else, the spy has mastered the art of dissimulation.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org90fbef4" class="outline-2">
+<h2 id="org90fbef4"><span class="section-number-2">164</span> <a href="https://wordsinasentence.com/dissuade-in-a-sentence/">Dissuade</a></h2>
+<div class="outline-text-2" id="text-164">
+<p>
+<code>to convince an individual to not try or complete something</code>
+</p>
+
+<ul class="org-ul">
+<li>Jealous people will always try to dissuade you from trying to be successful.</li>
+<li>When the car dealer saw I was trying to leave without purchasing a car, he tried to dissuade me from leaving the lot.</li>
+<li>The rain will more than likely dissuade Josh from staying out for too long.</li>
+<li>Since James is a stubborn man, he does not let anyone dissuade him from doing what he wants to do.</li>
+<li>The high price of the vehicle will dissuade many people from purchasing it.</li>
+<li>Although Jenna wants to attend night school, she is probably going to let her selfish husband dissuade her from pursuing her educational goals.</li>
+<li>The bartender took the patron’s keys to dissuade him from driving under the influence.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9c5add6" class="outline-2">
+<h2 id="org9c5add6"><span class="section-number-2">165</span> <a href="https://wordsinasentence.com/dither-in-a-sentence/">Dither</a></h2>
+<div class="outline-text-2" id="text-165">
+<p>
+<code>to hesitate or be indecisive</code>
+</p>
+
+<ul class="org-ul">
+<li>Terry tends to dither when someone asks him where to have lunch, as he is never able to decide on a restaurant.</li>
+<li>Because they dither and dally all afternoon, the children rarely finish their homework.</li>
+<li>The politician began to dither and stutter when asked his stance on the issue.</li>
+<li>Every spot, we dither back and forth when deciding on a vacation spot.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org17e7662" class="outline-2">
+<h2 id="org17e7662"><span class="section-number-2">166</span> <a href="https://wordsinasentence.com/doff-in-a-sentence/">Doff</a></h2>
+<div class="outline-text-2" id="text-166">
+<p>
+<code>means to tip or remove (one's hat) in salutation</code>
+</p>
+
+<ul class="org-ul">
+<li>Before he could doff his hat at the busy woman, she hurried by without paying him any attention.</li>
+<li>The lady gave a courtesy as the gentleman moved to doff his hat as they bid each other adieu.</li>
+<li>Using his hat to doff, the man bid his family farewell and headed west on his horse.</li>
+<li>The only time he failed to doff his hat before leaving for work is when he quarreled with his wife.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org277e382" class="outline-2">
+<h2 id="org277e382"><span class="section-number-2">167</span> <a href="https://wordsinasentence.com/doleful-in-a-sentence/">Doleful</a></h2>
+<div class="outline-text-2" id="text-167">
+<p>
+<code>filled with sadness or grief</code>
+</p>
+
+<ul class="org-ul">
+<li>My mother’s eyes were doleful after my father moved out of the house.</li>
+<li>Because Jane has not received any news of her missing son, she has been doleful to the point of not being able to eat or sleep.</li>
+<li>The doleful music made everyone cry.</li>
+<li>After I read about the tragedy, I felt doleful for several hours.</li>
+<li>The doleful widower tried to drown his misery at the bar.</li>
+<li>When the dog is locked in the crate, it makes a doleful noise.</li>
+<li>It was obvious from Richard’s doleful expression he was still grieving for his deceased wife.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge352633" class="outline-2">
+<h2 id="orge352633"><span class="section-number-2">168</span> <a href="https://wordsinasentence.com/dolorous-in-a-sentence/">Dolorous</a></h2>
+<div class="outline-text-2" id="text-168">
+<p>
+<code>experiencing or displaying sadness or pain</code>
+</p>
+
+<ul class="org-ul">
+<li>The dolorous film made me recall sad times.</li>
+<li>At the funeral, the dolorous widow could not stop crying.</li>
+<li>Jane was dolorous when her boyfriend was shipped overseas with his army unit.</li>
+<li>When I saw the dolorous look on my mother’s face, I knew my father had not survived his emergency surgery.</li>
+<li>The doctor believes Francine will be less dolorous after she takes the antidepressants for a few weeks.</li>
+<li>After Danielle discovered her husband had a mistress, she was so dolorous she tried to kill herself.</li>
+<li>The puppy has been dolorous since its owner left it at the shelter.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5a02c74" class="outline-2">
+<h2 id="org5a02c74"><span class="section-number-2">169</span> <a href="https://wordsinasentence.com/dour-in-a-sentence/">Dour</a></h2>
+<div class="outline-text-2" id="text-169">
+<p>
+<code>forbidding and stern</code>
+</p>
+
+<ul class="org-ul">
+<li>The dour man would not laugh at any of the comedian’s jokes.</li>
+<li>As a teacher, I often have to look dour so my students will take me seriously when I give them instructions.</li>
+<li>The dour police officer gave me a speeding ticket for going one mile over the maximum speed.</li>
+<li>Because the coach was disappointed in his team’s behavior, he wore a dour expression when he gave his post-game speech.</li>
+<li>Mrs. Smith is a dour teacher who seems to enjoy making children stand in the corner.</li>
+<li>Although Jeremy had done nothing wrong, he became nervous when he saw the principal approaching with a dour look on his face.</li>
+<li>The security guard’s dour expression told me I was not going to be able to slip backstage unnoticed.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8e2587c" class="outline-2">
+<h2 id="org8e2587c"><span class="section-number-2">170</span> <a href="https://wordsinasentence.com/douse-in-a-sentence/">Douse</a></h2>
+<div class="outline-text-2" id="text-170">
+<p>
+<code>to extinguish or snuff out</code>
+</p>
+
+<ul class="org-ul">
+<li>The announcement of the lottery winner is sure to douse the dreams of millions of people.</li>
+<li>Throughout the night, the firemen worked to douse the apartment fire.</li>
+<li>Everyone knows you should not attempt to douse a grease fire with water.</li>
+<li>If you want to be successful as an actress, you cannot let one rejection douse your dream of becoming a star.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgaf7c9dc" class="outline-2">
+<h2 id="orgaf7c9dc"><span class="section-number-2">171</span> <a href="https://wordsinasentence.com/dowdy-in-a-sentence/">Dowdy</a></h2>
+<div class="outline-text-2" id="text-171">
+<p>
+<code>unstylish, especially in reference to apparel</code>
+</p>
+
+<ul class="org-ul">
+<li>The clothes I was wearing were apparently too dowdy for the popular kids to acknowledge them, but I really didn’t care for their sense of style.</li>
+<li>If you are going to a dance or similar event, you should wear something fashionable instead of something dowdy.</li>
+<li>At a fancy party, a t-shirt and shorts could be considered dowdy while a suit or tuxedo would be stylish.</li>
+<li>At one time bell bottoms were considered very stylish, but thankfully we now see them as dowdy, the exact opposite.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3466266" class="outline-2">
+<h2 id="org3466266"><span class="section-number-2">172</span> <a href="https://wordsinasentence.com/draconian-in-a-sentence/">Draconian</a></h2>
+<div class="outline-text-2" id="text-172">
+<p>
+<code>harsh and cruel</code>
+</p>
+
+<ul class="org-ul">
+<li>Giving someone a life sentence for stealing a loaf of bread is a draconian consequence.</li>
+<li>To many, capital punishment is a draconian practice.</li>
+<li>In the movie, the draconian villain killed not only his enemies but also their children.</li>
+<li>My husband says having to eat my cooking is a type of draconian punishment.</li>
+<li>The book is based on the true story of a seventeenth century draconian ruler who brutally killed anyone who disagreed with him.</li>
+<li>Under draconian law, even the smallest offenses are punished with harsh consequences.</li>
+<li>The draconian budget cuts suggested by the president are going to hurt millions of people.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3ae03a4" class="outline-2">
+<h2 id="org3ae03a4"><span class="section-number-2">173</span> <a href="https://wordsinasentence.com/drawl-in-a-sentence/">Drawl</a></h2>
+<div class="outline-text-2" id="text-173">
+<p>
+<code>a type of accent branded by slow and drawn out speaking that is usually related to the southern United States</code>
+</p>
+
+<ul class="org-ul">
+<li>The old banjo player’s songs seemed to go on and on as he picked and sang along in a Southern drawl.</li>
+<li>“Yawl come back now,” the woman called in a drawl that was as sugary as it was country.</li>
+<li>With her words dripping like molasses, the woman wooed the crowd with her sweet drawl.</li>
+<li>The children laughed at the way the man’s sluggish drawl caused him to pronounce words.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdd83559" class="outline-2">
+<h2 id="orgdd83559"><span class="section-number-2">174</span> <a href="https://wordsinasentence.com/drawn-in-a-sentence/">Drawn</a></h2>
+<div class="outline-text-2" id="text-174">
+<p>
+<code>showing wear from being overworked or not cared for</code>
+</p>
+
+<ul class="org-ul">
+<li>The student’s once healthy face looked drawn after several late-night study sessions.</li>
+<li>Haggard and worn, the homeless man’s drawn appearance represented years of neglect.</li>
+<li>Days of no sleep left the workaholic looking drawn and careworn.</li>
+<li>After performing in sixty different cities, the haggard performers looked completely drawn and drained.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7d361f7" class="outline-2">
+<h2 id="org7d361f7"><span class="section-number-2">175</span> <a href="https://wordsinasentence.com/drench-in-a-sentence/">Drench</a></h2>
+<div class="outline-text-2" id="text-175">
+<p>
+<code>to cover abundantly</code>
+</p>
+
+<ul class="org-ul">
+<li>Everyone gasped as my little sister used ketchup to drench every piece of food on her plate.</li>
+<li>I watched in horror as the spewing liquid continued to drench every inch of the brand new carpet.</li>
+<li>Raging waters advanced and proceeded to fully drench even the homes that sat on high hills.</li>
+<li>Even with an umbrella, the rain was so strong that it took only a minute to drench my entire ensemble.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8d7067d" class="outline-2">
+<h2 id="org8d7067d"><span class="section-number-2">176</span> <a href="https://wordsinasentence.com/drivel-in-a-sentence/">Drivel</a></h2>
+<div class="outline-text-2" id="text-176">
+<p>
+<code>pointless babble or chatter</code>
+</p>
+
+<ul class="org-ul">
+<li>Instead of studying, we wasted the hours talking about irrelevant drivel.</li>
+<li>The inexperienced teacher was so nervous during the first class that she talked about drivel completely unrelated to the course.</li>
+<li>Since I enjoy eating in silence, I tend to eat lunch at my desk to avoid my colleagues' drivel.</li>
+<li>Sometimes listening to my mother’s nonstop drivel makes my head hurt.</li>
+<li>When Jack grew tired of hearing his wife’s drivel about her single best friend, he turned up the volume on the television.</li>
+<li>Frank decided against voting for the politician after listening to the man's endless drivel during the press event.</li>
+<li>Because I was taking a tour with a group of chatty women, I knew I would hear a lot of drivel on the three-hour journey.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdac4631" class="outline-2">
+<h2 id="orgdac4631"><span class="section-number-2">177</span> <a href="https://wordsinasentence.com/droll-in-a-sentence/">Droll</a></h2>
+<div class="outline-text-2" id="text-177">
+<p>
+<code>oddly humorous; funny</code>
+</p>
+
+<ul class="org-ul">
+<li>I love this anthology because all the stories are droll and entertaining, rather than making me think too hard.</li>
+<li>Despite the droll expression on Charlie’s face, Marian was afraid that he might have been hurt when he tumbled off the swing.</li>
+<li>If you’re always going to have that droll smirk on your face, I’ll never tell you when someone has a crush on you.</li>
+<li>Everyone enjoyed Professor Hermann’s class because his droll sense of humor made his lectures entertaining.</li>
+<li>You gave such a droll example of how to do the job that none of the new employees are taking you seriously.</li>
+<li>This children’s story is charming, and the droll illustrations are delightful.</li>
+<li>All the children love to hear Uncle Max tell his droll stories about the adventures he and Dad had when they were kids.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc4ebb17" class="outline-2">
+<h2 id="orgc4ebb17"><span class="section-number-2">178</span> <a href="https://wordsinasentence.com/drool-in-a-sentence/">Drool</a></h2>
+<div class="outline-text-2" id="text-178">
+<p>
+<code>spilling saliva from the mouth</code>
+</p>
+
+<ul class="org-ul">
+<li>Eyeing the steak on the neighboring table, the dieting woman couldn’t help but drool.</li>
+<li>Babbling and laughing, the teething baby began to drool all over his bib.</li>
+<li>Staring up at the superstar, the fan tried not to drool over the R&amp;B legend.</li>
+<li>The man was embarrassed by his tendency to drool all over the pillow while he sleeps.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org474a9d8" class="outline-2">
+<h2 id="org474a9d8"><span class="section-number-2">179</span> <a href="https://wordsinasentence.com/droop-in-a-sentence/">Droop</a></h2>
+<div class="outline-text-2" id="text-179">
+<p>
+<code>to hang low; sag</code>
+</p>
+
+<ul class="org-ul">
+<li>As the heavy children climbed into the hammock, it began to droop low to the ground.</li>
+<li>Distracted as the plumber’s pants began to sag and droop, the homeowner tried answer his questions without giggling.</li>
+<li>The old hotel mattress was not firm and quickly began to droop in the middle.</li>
+<li>After swaying in the wind, the branches of the willow seemed to droop even lower than before.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9c24156" class="outline-2">
+<h2 id="org9c24156"><span class="section-number-2">180</span> <a href="https://wordsinasentence.com/dulcet-in-a-sentence/">Dulcet</a></h2>
+<div class="outline-text-2" id="text-180">
+<p>
+<code>comforting and sweet</code>
+</p>
+
+<ul class="org-ul">
+<li>It does not take long for the baby to be comforted by his mother’s dulcet singing.</li>
+<li>Last night I fell asleep listening to the dulcet sounds of soft jazz.</li>
+<li>The candles and the piano player’s dulcet music made the restaurant appear very romantic.</li>
+<li>As soon as Paige heard the dulcet sound of the flute, she knew she wanted to play the instrument.</li>
+<li>I was lulled into a fake world by the hypnotist’s dulcet voice.</li>
+<li>When Jackie was ill, her mother often sang a dulcet song to soothe her.</li>
+<li>A kind woman with a dulcet voice answered the psychiatric helpline.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org456f51f" class="outline-2">
+<h2 id="org456f51f"><span class="section-number-2">181</span> <a href="https://wordsinasentence.com/duplicity-in-a-sentence/">Duplicity</a></h2>
+<div class="outline-text-2" id="text-181">
+<p>
+<code>dishonest behavior that is intended to trick someone</code>
+</p>
+
+<ul class="org-ul">
+<li>Most politicians use duplicity to deceive voters just long enough to get their votes.</li>
+<li>Although the swindler used duplicity to trick his victims, he never physically harmed anyone.</li>
+<li>The media revealed the police captain’s duplicity in the case of the stolen drug money.</li>
+<li>Because Amanda is such a good liar, it is always hard to recognize her duplicity.</li>
+<li>Many people suspect the attractive young woman used duplicity to get the elderly man to include her in his will.</li>
+<li>Even though the robbers were supposed to be working as a team, each one used duplicity to try and steal from the others.</li>
+<li>You could look at the convict and tell he had no problem using duplicity to get whatever he wanted.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org481c10d" class="outline-2">
+<h2 id="org481c10d"><span class="section-number-2">182</span> <a href="https://wordsinasentence.com/duress-in-a-sentence/">Duress</a></h2>
+<div class="outline-text-2" id="text-182">
+<p>
+<code>force or threats meant to make someone do something</code>
+</p>
+
+<ul class="org-ul">
+<li>The judge overturned the case because the defendant’s attorney proved that his client’s confession had been given under duress.</li>
+<li>The vet said Scampi was licking her nose because she was stressed out, but I didn’t think she had been under any duress.</li>
+<li>I think Claire was under duress when she signed the agreement; she never would have voluntarily accepted those conditions.</li>
+<li>There are plenty of stories of how people can suddenly acquire superhuman strength when under duress.</li>
+<li>After her daughter’s long illness, the family was under economic duress, compelling the bank teller to steal a few large bills from the vault.</li>
+<li>The severe duress of having an alcoholic father made Shelley leave home when she was only fifteen.</li>
+<li>This attorney is not above placing a witness under duress to maintain his record for the most cases won.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org63fa624" class="outline-2">
+<h2 id="org63fa624"><span class="section-number-2">183</span> <a href="https://wordsinasentence.com/dyspeptic-in-a-sentence/">Dyspeptic</a></h2>
+<div class="outline-text-2" id="text-183">
+<p>
+<code>irritable and bad-tempered</code>
+</p>
+
+<ul class="org-ul">
+<li>The dyspeptic man could not determine if he was happy or sad.</li>
+<li>Dyspeptic in nature, the woman settled into bed and cried as she murmured about her horrible life.</li>
+<li>As dyspeptic and irritable as she was, the woman was in a happy mood when she went to the beach.</li>
+<li>His dyspeptic attitude was in full force as he snapped at his employees for minor errors.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>

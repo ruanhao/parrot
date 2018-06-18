@@ -1,0 +1,2289 @@
+#+TITLE:     D
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+* [[https://wordsinasentence.com/dampen-in-a-sentence/][Dampen]]
+
+  =to make something slightly wet=
+
+  - It rained just enough to dampen the ground, but the grass dried up quickly.
+  - The men walked with umbrellas so that the plopping drops of rain wouldn’t dampen their suits.
+  - Even just enough rain to dampen the dry fields would be appreciated by the desperate farmers.
+  - If you dampen the rag with a bit of water before rubbing the counter, it will be a lot easier to clean.
+
+
+
+* [[https://wordsinasentence.com/dapple-in-a-sentence/][Dapple]]
+
+  =marked with spots or round patches=
+
+  - The dapple pony had several light-colored spots on his dark body.
+  - A dapple of light fell across the girl’s face as she stepped into the sunlight.
+  - The small dog had a dapple coat that was mostly solid, but did have a few round patches.
+  - The small dapple rock was different from the rest since it was covered with white spots.
+
+
+
+* [[https://wordsinasentence.com/daunting-in-a-sentence/][Daunting]]
+
+  =a task that appears challenging=
+
+  - As I looked up the mountain, I knew it would be a daunting feat to reach the peak.
+  - Jane is so shy she finds it daunting to go to a party.
+  - If you have never been skydiving, it might appear somewhat daunting to you.
+  - Bringing organization to the war-torn nation is going to be a daunting job.
+  - Because Max is not good in science, he will find medical school to be a daunting task.
+  - The daunting trip is going to take thirty-eight hours by car.
+  - Since Alan did not study for the test, he found the exam to be quite daunting.
+
+
+
+* [[https://wordsinasentence.com/debase-in-a-sentence/][Debase]]
+
+  =to reduce in character or quality=
+
+  - The politician tried to debase his rival’s good reputation by spreading false rumors about him.
+  - As part of his stock manipulation, the company owner tried to debase the stock so people would quickly sell it.
+  - The cruel prison guard did everything he could to debase inmates and make them feel worthless.
+  - When the man was intoxicated, he would often debase his wife by calling her cruel names.
+
+
+
+* [[https://wordsinasentence.com/debauch-in-a-sentence/][Debauch]]
+
+  =a stint of extreme enjoyment involving pleasures of a carnal nature=
+
+  - On the night of his graduation, Jake engaged in an alcoholic debauch and ended up in the emergency room.
+  - Amy’s bachelorette party is going to be her last debauch before she becomes an old married woman.
+  - Surprisingly, the man was dumb enough to post pictures of his debauch with a prostitute on Facebook.
+  - The main character of the novel becomes involved in a sinful debauch that leads him to murder a woman’s husband.
+  - Before Frank got married, his friends took him to a strip club for his final debauch.
+  - Gina has a major stomachache because she tried to comfort herself with a food debauch.
+  - During his weekly Saturday night debauch at the bar, Hank started a fight for no reason at all.
+
+
+
+* [[https://wordsinasentence.com/debilitate-in-a-sentence/][Debilitate]]
+
+  =to weaken=
+
+  - Cancer can quickly debilitate an otherwise healthy person.
+  - Determined to continue forward, he would not let the injury debilitate him.
+  - The insults acted to debilitate him, leaving him sitting and wondering what he could have done differently.
+  - In an effort to debilitate her attacker, she delivered a quick kick to the groin.
+  - The most effective self-defense methods quickly work to debilitate the attacker.
+  - For a writer, a hand injury can absolutely debilitate him.
+  - The effects of diabetes can work to debilitate you if you don’t monitor your blood sugar.
+
+
+
+* [[https://wordsinasentence.com/decadence-in-a-sentence/][Decadence]]
+
+  =state of moral or artistic decline or deterioration=
+
+  - The gold trimmings in the celebrity’s bathroom are nothing but sheer decadence.
+  - While the church leaders are not opposed to a little self-indulgence now and then, they are opposed to a lifetime of decadence.
+  - Periods of economic growth are often followed by periods of decadence in which individuals shop simply because they can and not out of need.
+  - Even though my mother hosted a large number of parties in my youth, I was not surrounded by decadence during my childhood.
+  - The decadence of eating five candy bars made me quite lazy.
+  - According to many partygoers, a life without decadence is a life of boredom.
+  - Many countries view the United States as a den of decadence filled with people who care about nothing but indulging themselves.
+
+
+
+* [[https://wordsinasentence.com/decelerate-in-a-sentence/][Decelerate]]
+
+  =to slow down or reduce the speed of something=
+
+  - As the speedometer reached 100 miles per hour, the frightened passenger begged the driver to decelerate.
+  - The speeding man tried to decelerate when he saw the police officer parked beside the road.
+  - It seemed that the driver never tried to decelerate before plowing into the back of another vehicle.
+  - Without brakes, it was difficult for the biker to decelerate while flying down the hill.
+
+
+
+* [[https://wordsinasentence.com/deciduous-in-a-sentence/][Deciduous]]
+
+  =falling off because it is temporary=
+
+  - During the fall, the deciduous shrubs in my yard will release their leaves.
+  - The baby’s deciduous teeth will start to fall out soon.
+  - In the fall, there is nothing more visually appealing than a deciduous forest and its vibrant leaf-covered ground.
+  - Next month, the deciduous fruit trees will flower the countryside with ripe apples and pears.
+  - My daughter cannot wait to place the last of her deciduous teeth under her pillow so the tooth fairy can leave her a reward.
+  - Within two months, the insect will shed its deciduous skin and reveal its permanent casing.
+  - My driveway will be covered with the leaves of deciduous trees during the fall months.
+
+
+
+* [[https://wordsinasentence.com/decimate-in-a-sentence/][Decimate]]
+
+  =to destroy or greatly decrease in size or number=
+
+  - It is likely the category five hurricane will decimate the small beach town.
+  - If the troops cross over the border, they will try to decimate the capital city.
+  - A nuclear bomb will decimate most of the population in the region.
+  - After fasting yesterday, I am sure to decimate all my meals today.
+
+
+
+* [[https://wordsinasentence.com/decorous-in-a-sentence/][Decorous]]
+
+  =proper in behavior=
+
+  - The director of the finishing school is a decorous woman known for her perfect social skills.
+  - When Bill walked away from a fight in church, he behaved in a decorous manner.
+  - After Amy had several drinks, she abandoned her decorous behavior and became extremely offensive.
+  - The soldier was reprimanded by his commanding officer for behaving in a way that was not decorous.
+
+
+
+* [[https://wordsinasentence.com/decorum-in-a-sentence/][Decorum]]
+
+  =conduct that is appropriate and illustrates a person is well-mannered=
+
+  - Although Kelly was upset she did not win the contest, she maintained decorum and congratulated the winner.
+  - Not understanding decorum at a formal dinner, Jake ate his salad with his dinner fork.
+  - Matt knew his blind date lacked decorum when she questioned him about his salary.
+  - As a boy, the butler attended an etiquette school so he would know the decorum used by society’s upper class.
+
+
+
+* [[https://wordsinasentence.com/decrepit-in-a-sentence/][Decrepit]]
+
+  =beat-up from wear or age=
+
+  - Because the decrepit building is such an eyesore, it is being demolished in a week.
+  - The decrepit car refused to start.
+  - Since Mitch purchased the decrepit house, he has spent over fifty thousand dollars on repairs.
+  - The owners have plans to renovate their decrepit hotel.
+  - While Kurt’s jeans are decrepit and filled with holes, they are his favorite pair of pants.
+  - Janet landed on the floor when the decrepit chair she was sitting in fell apart.
+  - Although I adore my neighbors, I wish they would get their decrepit non-functioning car off of their lawn.
+
+
+
+* [[https://wordsinasentence.com/decry-in-a-sentence/][Decry]]
+
+  =to denounce as damaging or bad=
+
+  - The liberal news media is constantly trying to decry the efforts of the country’s conservative president.
+  - After the immigration bill was passed, the racist groups started to decry the features of the act.
+  - What kind of person will decry the death of a dog yet laugh at the death of a human?
+  - When a child recently died in an abusive foster home, people marched in protest to decry the state’s foster care system.
+  - Several religious organizations have chosen to decry the obscene cartoon about Jesus.
+  - On the crime show, the arrogant chef killed the food critic before he could decry his new restaurant.
+  - Eve is an animal rights activist who constantly uses the media to decry the cold-heartedness of Kill shelters.
+
+
+
+* [[https://wordsinasentence.com/defamation-in-a-sentence/][Defamation]]
+
+  =harming a person’s reputation by saying or writing things that are not true=
+
+  - The newspaper was sued for defamation after publishing lies about a celebrity.
+  - In a defamation trial, the plaintiff must prove his or her reputation was actually harmed by a statement.
+  - It was a pure case of defamation because the athlete had never abused his wife.
+  - Unfortunately, the politician lost his seat when an act of defamation ruined his reputation.
+  - As soon as William learned his former employer was spreading lies about him, he filed a defamation of character lawsuit.
+  - The school bully was known for committing acts of defamation by spreading false stories about her targets.
+  - If the news channel does not stop its crusade of defamation against the president, it will be prosecuted for wounding his reputation.
+
+
+
+* [[https://wordsinasentence.com/deference-in-a-sentence/][Deference]]
+
+  =courteous regard for people's feelings; respect=
+
+  - Kyle decided to shave off his mohawk in deference to his Grandmother.
+  - Firefighters deserve to be granted with the utmost deference for their loyal service.
+  - With all deference, I really think the council should reconsider its decision on tax increases.
+  - If you treat others with deference, then people will respect you back.
+  - Reciting the Pledge of Allegiance is a good way to show deference for America.
+  - Honorable soldiers have rightfully earned my deference.
+  - Show some deference for the elderly by helping that old lady cross the street!
+
+
+
+* [[https://wordsinasentence.com/deferentially-in-a-sentence/][Deferentially]]
+
+  =respectfully; reverently=
+
+  - The man always acts deferentially around his boss, but speaks tactlessly when she is away.
+  - Although the woman asked for a day off deferentially, her employer denied her respectful request.
+  - When saying the pledge, the crowd deferentially placed their hands over their heart out of respect.
+  - I politely and deferentially suggested that the loud travelers find another seat in the back room out of respect for others trying to eat.
+
+
+
+* [[https://wordsinasentence.com/definite-in-a-sentence/][Definite]]
+
+  =exact; specific=
+
+  - I need a definite yes if you plan to go to the movies with me on Saturday.
+  - Andrew new he had to do something to stop the robber, but couldn’t think of a definite plan.
+  - All of the runners need a definite starting point so that no one has an unfair advantage.
+  - Before she can order the steaks, the chef needs a definite number of people who will be at the event.
+
+
+
+* [[https://wordsinasentence.com/definitive-in-a-sentence/][Definitive]]
+
+  =viewed as absolute and correct=
+
+  - As soon as the doctor gave a definitive diagnosis, the nurse began the patient’s treatment.
+  - The jury’s verdict is seen as the definitive decision on a defendant’s guilt or innocence.
+  - Because the physician is respected as the definitive expert in genetics, he has been nominated for a Nobel Prize.
+  - The DNA results will provide the detectives with definitive proof of the suspect’s identity.
+
+
+
+* [[https://wordsinasentence.com/deft-in-a-sentence/][Deft]]
+
+  =skillful and clever=
+
+  - The deft musician was able to play the harmonica and the piano at the same time.
+  - Because Jake is a deft electrician, it will not take him long to rewire the electrical outlets in the bathroom.
+  - Only a deft artist can perfectly capture the model’s figure in clay.
+  - Although I have studied the guitar for over a year, I still do not consider myself to be a deft guitarist so I will not be performing in the annual concert.
+  - The only person who can successfully perform the tricky operation is a deft surgeon.
+  - When the actor got arrested for drunk driving, his spokesperson was wise enough to turn the situation into a deft publicity campaign.
+  - The politician is a deft speaker who can easily convince people to believe whatever he says.
+
+
+
+* [[https://wordsinasentence.com/defunct-in-a-sentence/][Defunct]]
+
+  =no longer in use=
+
+  - Though the car was defunct, he knew that with the right parts and some hard work he could restore it.
+  - After being hit by a hurricane, the entire neighborhood was defunct.
+  - A fire swept through the city, leaving many houses abandoned and defunct.
+  - Though the investor saw potential in the location, the house had been defunct for so long he was not sure he could ever restore it.
+  - Realizing the elevator was defunct, they were forced to take the stairs instead.
+  - The archaeologists were excited when they stumbled upon a defunct monument.
+  - Latin is a defunct language.
+
+
+
+* [[https://wordsinasentence.com/deign-in-a-sentence/][Deign]]
+
+  =to complete a task that one considers beneath him=
+
+  - The queen would not deign to invite her maid to dinner.
+  - Even when the millionaire lost all his money, he still would not deign to cook his own supper.
+  - The award-winning actress is known for her snobby attitude and would never deign to appear in a low-budget film.
+  - Because the celebrated athlete would not deign to cut his own lawn, he had a landscaping company on staff to maintain his yard.
+  - The mayor was not a man of the people and did not deign to respond to letters unless they came from wealthy donors.
+  - Since the immigrants are the only people who will deign to perform low-paying jobs, they are the individuals who usually pick the onion crops.
+  - The famous singer would not deign to eat a meal unless her personal chef prepared it.
+
+
+
+* [[https://wordsinasentence.com/deleterious-in-a-sentence/][Deleterious]]
+
+  =harmful=
+
+  - Because I know alcohol is deleterious, I rarely drink more than one glass of wine.
+  - The overpopulation of large snakes in the forest is deleterious to the wild rat population.
+  - When I gave him the aspirin, I had no idea it would be deleterious to him and induce a seizure.
+  - The massive oil spill has a number of deleterious consequences for the environment.
+  - Contrary to what many individuals believe, taking too many vitamins can be quite deleterious.
+  - Because it stalls growth, a high level of unemployment has a deleterious effect on the economy.
+  - Even though secondhand smoke is deleterious to small children, my sister still smokes around her kids.
+
+
+
+* [[https://wordsinasentence.com/deliberation-in-a-sentence/][Deliberation]]
+
+  =a thorough consideration=
+
+  - After only one hour of deliberation, the jury came back with a guilty verdict.
+  - I cannot give the proposal the deliberation it deserves because I am facing a tight deadline.
+  - With great deliberation, the scholarship committee finally selected a recipient.
+  - Although the two countries have been in deliberation for nearly a week, they still have not been able to agree on the terms of the treaty.
+
+
+
+* [[https://wordsinasentence.com/delineate-in-a-sentence/][Delineate]]
+
+  =to clearly describe or portray something=
+
+  - Before I began to plant my seeds, I will delineate the rows of my garden to make sure every vegetable grows in a precise line.
+  - Jason put a fence up to delineate his property from his neighbor’s.
+  - If you want your children to properly complete their chores, you have to clearly delineate the tasks so your kids will know what to do.
+  - Computer programs which can delineate faces are very helpful to law enforcement agencies.
+  - As an artist, Helen can delineate the lines of a person’s face using both pencils and paints.
+  - Today, medical technology exists which makes it possible for a doctor to delineate a baby’s sex before it is born.
+  - Using an electron microscope, a scientist can clearly delineate the parts of a plant cell.
+
+
+
+* [[https://wordsinasentence.com/delude-in-a-sentence/][Delude]]
+
+  =to manipulate someone’s judgment=
+
+  - The cult leader was able to easily delude the innocent girl into believing he was a god.
+  - If the pimp can delude the teenager into thinking her parents no longer love her, he will be able to lead her into a life of prostitution.
+  - Although Mary has no vocal talent, her parents have allowed her to delude herself into believing she is a great singer.
+  - When the con artist speaks to the elderly, he tries to delude them into thinking his supplements will allow them to live longer.
+
+
+
+* [[https://wordsinasentence.com/deluge-in-a-sentence/][Deluge]]
+
+  =a large number of things occurring in the same instance=
+
+  - After a deluge of tornadoes, most of the homes in the town were destroyed.
+  - The noted physician received a deluge of awards for his work in AIDS research.
+  - When the company received a deluge of lawsuits, it decided to recall the product responsible for the complaints.
+  - The car rental company closed after a deluge of accidents prevented it from being able to insure its vehicles.
+
+
+
+* [[https://wordsinasentence.com/demean-in-a-sentence/][Demean]]
+
+  =to make someone feel inferior=
+
+  - The plantation owner took away the slaves’ given names in order to demean them.
+  - When my ex-husband drinks too many beers, he will often try and demean me by pointing out my weaknesses.
+  - The school bully tried to demean the poor girl by making fun of her used clothes on social media.
+  - If I ask my father to borrow money, he will attempt to demean me by making comments about my past mistakes.
+
+
+
+* [[https://wordsinasentence.com/demolish-in-a-sentence/][Demolish]]
+
+  =to destroy something, usually by tearing it down=
+
+  - Protesters chained themselves to the old church in an attempt to stop the construction crew from being able to demolish it.
+  - The city has threatened to demolish the couple’s run-down home if they didn’t clean the place up.
+  - A machine was used to demolish the car, crumpling it into a compact metal box.
+  - The railroad workers stared at the boulder for a long time, trying to decide the best way to demolish with explosives.
+
+
+
+* [[https://wordsinasentence.com/demur-in-a-sentence/][Demur]]
+
+  =to object or protest to something=
+
+  - Because the DA decided to demur the low bond, it was set at a higher fee.
+  - I wanted to stand up and demur but decided against objecting to the marriage.
+  - Thomas raised his hand to demur but wasn’t allowed to protest.
+  - Though she didn’t want to go on vacation with her parents, Jess found it hard to demur their request.
+
+
+
+* [[https://wordsinasentence.com/denigrate-in-a-sentence/][Denigrate]]
+
+  =to assault someone’s character or reputation=
+
+  - On the talk show, the mean host usually tries to denigrate her guests by reminding them of their misdeeds.
+  - You should not denigrate other people unless you want individuals to attack your reputation in retaliation.
+  - I would never succeed in the corporate world because I could never denigrate others in order to move ahead in business.
+  - Because Kate is jealous of Marie’s popularity with the boys, she often attempts to denigrate Marie by spreading false rumors.
+  - Bullies often denigrate others to hide their own feelings of worthlessness.
+  - During the election, the crooked politician did everything in his power to denigrate his rival.
+  - Cate’s ex-boyfriend tried to denigrate her when she broke up with him.
+
+
+
+* [[https://wordsinasentence.com/denounce-in-a-sentence/][Denounce]]
+
+  =to criticize harshly and publicly=
+
+  - The dictator made a speech to denounce the actions of his enemies.
+  - Are you really surprised that the victim’s family is going to denounce the killer’s not-guilty verdict?
+  - As a teacher of a low-performing school, I definitely have the right to denounce the poor efforts of my students.
+  - Management was quick to denounce the hard work done by the union representatives.
+  - After Rhonda left the church, she went out of the way to denounce her former beliefs.
+  - The committee members were quick to denounce their chairman when news of his financial fraud came to light.
+  - While the congressman was not a fan of the budget proposal, he did not denounce it as being inadequate either.
+
+
+
+* [[https://wordsinasentence.com/deplore-in-a-sentence/][Deplore]]
+
+  =to express displeasure=
+
+  - Teachers deplore student behaviors that distract from lectures.
+  - If you deplore the environmental practices of the company, you should not purchase their products.
+  - I do not frequent luxury hotels because I deplore the snobbish attitudes of the haughty employees.
+  - How can you deplore my behavior while acting in the same manner?
+
+
+
+* [[https://wordsinasentence.com/deprecate-in-a-sentence/][Deprecate]]
+
+  =to criticize or express disapproval=
+
+  - Unfortunately my mother-in-law’s urge to deprecate me is stronger than her urge to inspire me.
+  - Coach Jones is a good coach because he does not deprecate his players even when they make mistakes.
+  - When you are teaching someone, you have to remember to not deprecate their efforts to a point where they simply want to stop trying.
+  - It is very hard for me not to deprecate my husband's cleaning habits when he is constantly leaving a mess in the kitchen.
+  - After twenty years of marriage, John suddenly started to deprecate his wife's every move.
+  - The picky woman was quick to deprecate even the best customer service.
+  - Although I am an atheist, I do not go out of my way to deprecate the opinions of those who believe in a higher power.
+
+
+
+* [[https://wordsinasentence.com/deprecatory-in-a-sentence/][Deprecatory]]
+
+  =belittling, critical=
+
+  - Although he claimed it was all in fun, the man’s deprecatory comments were hurtful to those they ridiculed.
+  - The man’s deprecatory remarks about his wife’s weight led her to be depressed and insecure.
+  - Insisting that he stop with the deprecatory remarks, the teacher escorted the patronizing student out of the classroom.
+  - Deprecatory jokes about his mother caused the offended youngster to get extremely angry.
+
+
+
+* [[https://wordsinasentence.com/depreciate-in-a-sentence/][Depreciate]]
+
+  =to drop in value or worth over a period of time=
+
+  - The new car starts to depreciate in value as soon as it is driven off the lot.
+  - Because John was not financially savvy, he blew most of his lottery winnings on items that seemed to depreciate quickly.
+  - The property will never depreciate in worth because it's in a prime location near the beach.
+  - If the value of our currency continues to depreciate, it will soon be worthless abroad.
+
+
+
+* [[https://wordsinasentence.com/deprive-in-a-sentence/][Deprive]]
+
+  =to take something away (and keep it away); deny someone of something=
+
+  - Max is a racist who wants to deprive black people from their right to vote on election day.
+  - If implemented, the President’s crazy plan will deprive seniors of adequate healthcare.
+  - Upon entering the cult, William took upon himself to fast for a week to deprive himself of food.
+  -  The defendant screamed that he would not allow the judge to deprive him of his right to a fair trial.
+
+
+
+* [[https://wordsinasentence.com/derelict-in-a-sentence/][Derelict]]
+
+  =in bad shape as a result of neglect=
+
+  - Out of fear for my safety, I chose not to walk inside of the derelict barn.
+  - Our small town has a large number of derelict buildings that need to be demolished.
+  - Thanks to several volunteer organizations in our community, many derelict areas have been turned into stunning gardens.
+  - Because many businesses closed during the economic crisis, the city is now filled with derelict shops and empty factories.
+  - Once the mall closed, the residents in the neighborhood relocated and the area became vacant and derelict.
+  - My friend Katherine is a photographer who loves to search abandoned areas for derelict buildings with old fixtures.
+  - While the derelict car is not running now, it will be operational after I replace the spark plugs.
+
+
+
+* [[https://wordsinasentence.com/deride-in-a-sentence/][Deride]]
+
+  =to subject to bitter ridicule=
+
+  - The movie critic took every opportunity to deride the A-list actor for making the awful film.
+  - When I am a parent, I will not deride my children and make them feel worthless.
+  - If the police do not intervene, the fans of the winning team will deride the losing players as they leave the arena.
+  - Bullies are individuals who deride other people in order to feel superior.
+  - The veteran football players will often deride their rookie teammates until the coach interferes.
+  - To deride his victims, the stalker often writes cruel words on their vehicles.
+  - Jason’s spoiled daughter thinks it is okay to deride homeless people.
+
+
+
+* [[https://wordsinasentence.com/derivative-in-a-sentence/][Derivative]]
+
+  =an object or idea that is produced from something else=
+
+  - The new antibiotic is listed as a derivative of penicillin because it was produced from a penicillin base.
+  - When Anna named her children Breanna and Brent, she gave them both names that were a derivative of her mother’s name, Brenda.
+  - Much of the early soul music we listen to is a derivative of blues music.
+  - Because the film is a derivative of a novel, it cannot be entered into the original screenplay competition.
+
+
+
+* [[https://wordsinasentence.com/derogatory-in-a-sentence/][Derogatory]]
+
+  =conveying a poor opinion of something or someone=
+
+  - The public criticized the basketball team owner after he made derogatory remarks about minorities.
+  - To a mentally disabled person, the term “retarded” is viewed as a derogatory word.
+  - The restaurant’s derogatory name caused people to avoid eating there.
+  - Because the woman made derogatory remarks about the president’s children, she lost her job as a senator’s aide.
+  - My husband’s derogatory comments really hurt me.
+  - Because the man’s derogatory statements offended the waitress, she refused to serve him.
+  - Since James has a derogatory credit report, he is finding it hard to get a car loan.
+
+
+
+* [[https://wordsinasentence.com/descry-in-a-sentence/][Descry]]
+
+  =to catch sight of=
+
+  - After conducting experiments for several years, the scientist was able to descry the cause of the disease.
+  - Using the binoculars, I hoped to descry what the criminals were doing in the woods.
+  - The jeweler was able to easily descry the true value of the large diamond.
+  - Because I wanted to descry my favorite actor at the movie premiere, I stood outside in the rain for six hours.
+  - Even with the bombs going off around him, the soldier could still descry his country’s flag flying high in the distance.
+  - After the horrible car crash, it was impossible to descry any signs of life in the vehicle.
+  - Because Marie was not wearing her glasses, she was unable to descry her husband in the large crowd.
+
+
+
+* [[https://wordsinasentence.com/desecrate-in-a-sentence/][Desecrate]]
+
+  =to treat a sacred place or object with disrespect=
+
+  - Do not desecrate the temple by speaking loudly during your visit.
+  - Having a party in a cemetery at night is one way to desecrate the resting place of the dead.
+  - The graffiti artist hopes gangs will not desecrate his art by painting over it.
+  - Are you really going to desecrate the tribe’s burial ground by building a hotel on this property?
+  - I do not understand why anyone would desecrate another person’s grave by destroying the headstone.
+  - During the war, the invading soldiers tried to desecrate the churches and museums by painting skulls on the walls.
+  - The teenage boy ignored peer pressure and refused to desecrate the flag inside the school building.
+
+
+
+* [[https://wordsinasentence.com/despondent-in-a-sentence/][Despondent]]
+
+  =very sad and without hope=
+
+  - Marilyn was despondent after her husband of fifty years died.
+  - How can I help but be despondent after losing my job?
+  - My son was quite despondent when his girlfriend dumped him.
+  - As John held a gun to his head, everyone realized how despondent he was.
+  - Whenever I feel despondent, I call my friends to make me smile.
+  - Many people were left homeless and despondent after a tornado swept through their state.
+  - When Cher discovered her dog had run away from home, she became very despondent.
+
+
+
+* [[https://wordsinasentence.com/destine-in-a-sentence/][Destine]]
+
+  =to intend for something to fulfill a certain purpose=
+
+  - When you create something, you destine it for a certain goal, a certain role that it was primarily designed to fulfill.
+  - A company destines a product for a particular purpose during the design phase, gearing it to be as efficient as it can in performing that purpose.
+  - When I create a character for a book, I destine him to achieve certain goals, have certain flaws, and experience certain things.
+  - I do not think it is right for parents to try and destine their children to take on a certain career path, rather than letting them choose for themselves.
+
+
+
+* [[https://wordsinasentence.com/desultory-in-a-sentence/][Desultory]]
+
+  =not having a plan or purpose=
+
+  - Because he was not happy with his pay increase, James made only a desultory effort to complete his duties at work.
+  - The students were confused by the teacher’s desultory lecture which seemed to have no real focus.
+  - At the party, the unfriendly boy made desultory conversation with a few of the other children.
+  - The couple’s divorce came as no surprise because everyone knew their marriage was only a desultory arrangement.
+  - Since my grandmother suffers from a brain disorder, she often speaks in a desultory tone which comes across as unorganized.
+  - Because Janice was not a football fan, she showed only a desultory interest in the game.
+  - When I complain about the messy condition of my daughter’s bedroom, she usually makes a desultory attempt to tidy up her space.
+
+
+
+* [[https://wordsinasentence.com/deter-in-a-sentence/][Deter]]
+
+  =to prevent something from happening=
+
+  - When they heard about all the recent break-ins around the neighborhood, they bought a huge dog that would be sure to deter any uninvited visitors.
+  - Her father taught her that she should never let anything deter her in her goal to get at least a bachelor’s degree.
+  - Opponents of the death sentence insist that its existence does nothing to deter crime.
+  - Once he decided to compete in the Iron Man, nothing could deter his resolve to reach his best fitness level ever.
+  - If you stop and count to ten when you’re angry, it will deter you from doing something you could later regret.
+  - She is always careful to live within her means, and she pays off her credit cards every month to deter any accumulation of debt.
+  - The stories about the flesh-eating mosquitoes were never true; the town was just attempting to deter an influx of tourists.
+
+
+
+* [[https://wordsinasentence.com/deterrent-in-a-sentence/][Deterrent]]
+
+  =a thing that discourages someone from doing something=
+
+  - My daughter views the loss of cellphone privileges as a cruel deterrent against having bad grades.
+  - When I saw the security guard in the store, I knew he was there as a theft deterrent.
+  - The stop sign on the corner is supposed to be a deterrent that discourages speeding.
+  - Is a guard dog a good deterrent against home invasions?
+  - Many teachers believe knowledge is the only deterrent of crime that can keep children on the right path.
+  - If negative reinforcement does not decrease unwanted behavior, then it is not a deterrent.
+  - As the judge looked at the rebellious teen, he realized the fear of prison was not a strong enough deterrent to keep young people out of trouble.
+
+
+
+* [[https://wordsinasentence.com/detest-in-a-sentence/][Detest]]
+
+  =to deeply despise a person or thing=
+
+  - If you really detest your ex-husband, you will stay away from him.
+  - Janet’s parents detest her new boyfriend because he has a very bad reputation.
+  - Because I had to sit at a table with someone I detest, I did not enjoy the holiday banquet.
+  - The animal activists detest people who purchase fur coats.
+
+
+
+* [[https://wordsinasentence.com/detour-in-a-sentence/][Detour]]
+
+  =a long or out of the way route taken because the normal path is unavailable=
+
+  - Because a car accident had blocked the highway, we had to take a massive detour that led us around the incident.
+  - After a rockslide blocked the mountain road we were traveling on, we had to take a large detour guided by the local park rangers.
+  - We took a detour on our way to Las Vegas because we figured there were plenty of cool things to see along the way there.
+  - Even though we had to take a detour to get around the wet hallway in school, it’s fine because we ran into our friend because of it.
+
+
+
+* [[https://wordsinasentence.com/detriment-in-a-sentence/][Detriment]]
+
+  =an event or item that inflicts damage to an individual or thing=
+
+  - Many suspect the building of the chemical plant is going to be a detriment to the town’s freshwater supply.
+  - In its drug manual, the company does not mention the product could be a detriment to a person's health until the ad's end.
+  - The mobile telephone business has been a detriment to those companies that offer only landline services.
+  - As long as the herbal drink does not pose a detriment to my physical wellbeing, I will give it a try.
+
+
+
+* [[https://wordsinasentence.com/devious-in-a-sentence/][Devious]]
+
+  =underhanded; insincere=
+
+  - When Sheila learned the young man had married her ninety-year-old mother, she knew he had devious plans.
+  - Everyone expected the mean wrestler to do something devious to his opponent during the match.
+  - After conducting an investigation, the detective was able to uncover the devious plot devised by the victim’s daughter.
+  - Alan realized the only way he could win the survival game was by being as devious as his fellow competitors.
+  - Because the devious salesman wanted to make his sales quota, he began to lie to potential customers about the benefits of his product.
+  - Diane had devious motives for inviting her rival to her birthday party.
+  - When the principal discovered the students’ devious plan to cheat on the math exam, she suspended everyone involved.
+
+
+
+* [[https://wordsinasentence.com/devoid-in-a-sentence/][Devoid]]
+
+  =entirely lacking; empty=
+
+  - If I spend my last few dollars, my wallet will be devoid of cash.
+  - We need rainfall or the lake will be devoid of water.
+  - Devoid of motivation, the man gave up on his desire to lose weight.
+  - Ted blankly stared at the wall, devoid of emotion.
+  - Devoid of love for each other, the married couple divorced.
+  - Nobody laughed because your jokes are devoid of humor.
+  - With a devoid of interest for children, Michelle knew that babysitting would not be a job possibility.
+
+
+
+* [[https://wordsinasentence.com/devout-in-a-sentence/][Devout]]
+
+  =very religious or strongly committed to a belief or cause=
+
+  - Since the bride was a devout Catholic, Sarah knew the wedding would be held in a Catholic church.
+  - The devout teacher held sessions before and after school to ensure the success of her students on the math test.
+  - It takes more than one devout employee to make a successful business.
+  - Due to Karen being a devout news reporter for many years, she never married or had any children.
+
+
+
+* [[https://wordsinasentence.com/dexterous-in-a-sentence/][Dexterous]]
+
+  =having or showing great skill or cleverness=
+
+  - The chimpanzee is a dexterous animal that can maneuver objects as well as a human does.
+  - Since I do not often use my left hand, I am not dexterous when I use it for writing.
+  - The old carpenter’s hands are no longer dexterous enough for him to build furniture.
+  - At the age of six, the boy revealed he was a dexterous pianist and played his first sold-out concert.
+  - The county’s bomb squad is made of dexterous men and women who are highly skilled at detonating explosives.
+  - As the crowd cheered, the dexterous acrobat flipped from one high bar to another.
+  - The dexterous painter could perfectly reproduce any painting within two hours.
+
+
+
+* [[https://wordsinasentence.com/didactic-in-a-sentence/][Didactic]]
+
+  =designed or intended to teach=
+
+  - While the professor’s lectures were designed to be didactic, they only served to confuse the students.
+  - Although the fiction books are not meant to be didactic, they are quite informative.
+  - Even though my parents drive me crazy, I know they think they are being helpful by giving me didactic advice.
+  - The purpose of the didactic presentation was to teach us all about the dangers of cigarette smoking.
+  - In its analogy of beauty versus ugliness, the poem tries to be didactic while delivering an important lesson on self-image.
+  - Since you are taking a trip to Europe, you might want to review this didactic guidebook on the subject of European travel.
+  - His didactic style of teaching involves a large number of student-led discussions.
+
+
+
+* [[https://wordsinasentence.com/diffident-in-a-sentence/][Diffident]]
+
+  =lacking confidence in one’s ability or self=
+
+  - Because she felt unattractive, Mary was diffident and kept to herself at parties.
+  - Although he graduated in the top ten percent of his class, Jules is still diffident about his own intelligence.
+  - Even though everyone told her she was beautiful, the diffident actress still believed she was ugly.
+  - George was a diffident student who never stood up to his bullies.
+  - Since he was behind in the polls, the politician was diffident about his chance of winning the election.
+  - Because Sarah had never sung in public before, she was diffident about trying out for the talent show.
+  - While Portia was diffident about her dancing skills, she never let her anxiety keep her off the dance floor.
+
+
+
+* [[https://wordsinasentence.com/dilapidated-in-a-sentence/][Dilapidated]]
+
+  =rundown; in bad shape=
+
+  - The dilapidated house on our street is sure to lower the property values of the homes in our neighborhood.
+  - After my husband breaks down the dilapidated shed in our backyard, he is going to build a playhouse for our children in the same area.
+  - The dilapidated shops on the western side of the stadium are going to be demolished and replaced with a shopping mall.
+  - Although my house may be a little dilapidated, I am fixing it up one project at a time.
+  - How long do you think it will take us to repair the dilapidated greenhouse?
+  - We need to get rid of the dilapidated computer that keeps crashing.
+  - Until repairs are made on the dilapidated boat, we cannot set sail for the Bahamas.
+
+
+
+* [[https://wordsinasentence.com/dilate-in-a-sentence/][Dilate]]
+
+  =to cause to expand=
+
+  - The doctor will repair the narrowed vessels by inserting a tube to dilate them.
+  - When Kim is shocked, her eyes dilate and become quite large.
+  - The optometrist will dilate my eyes so they can be viewed more clearly.
+  - If the pregnant woman’s cervix does not dilate properly, the birthing process will be difficult.
+
+
+
+* [[https://wordsinasentence.com/dilatory-in-a-sentence/][Dilatory]]
+
+  =intended to cause delay=
+
+  - My daughter used dilatory tactics to stay up past her bedtime.
+  - Because I was running late to the meeting, I asked my assistant to behave in a dilatory manner so I would have time to arrive.
+  - My father used a dilatory strategy to keep me out of the house while my mother arranged my surprise birthday party.
+  - Although my husband tried to give me a bunch of dilatory errands to keep me away from the house, I still arrived home in time to catch him with his girlfriend.
+  - His plan for the robbery included using a car crash as a dilatory maneuver to slow down the police.
+  - Even though the politician used dilatory answers during the interview, he eventually had to make direct responses to the questions.
+  - Because the lawyer filed so many dilatory motions, the trial did not start until two years after the crime was committed.
+
+
+
+* [[https://wordsinasentence.com/dilettante-in-a-sentence/][Dilettante]]
+
+  =a person whose interest in an art or in an area of knowledge is not very serious=
+
+  - When it comes to learning how to play the guitar, my daughter is a dilettante who will practice one day but not the next day.
+  - The veteran reporters viewed the new guy as a dilettante who would not take his job as seriously as they took their careers.
+  - Because Peter studied music composition for eight years, he is definitely not a dilettante in the field of music.
+  - The critics did not see the heiress as a serious filmmaker, only as a dilettante who was bored with her life.
+  - Without any formal training, Kara is simply a dilettante and not a professional dancer.
+  - It was obvious from the pianist’s poor performance that he was a dilettante who had no interest in cultivating his talent.
+  - If Mark wants to be seen as more than a dilettante, he needs to take a few more art classes so he can demonstrate his knowledge of the subject.
+
+
+
+* [[https://wordsinasentence.com/diminution-in-a-sentence/][Diminution]]
+
+  =a lessening or reduction=
+
+  - The diminution of military troops will leave our country more vulnerable to invasion.
+  - When the jobless rate decreases, there is usually a diminution in crime as well.
+  - The rising number of unwed mothers reflects a diminution of moral values.
+  - Because of the diminution of gas prices, more people are hitting the highways this summer.
+
+
+
+* [[https://wordsinasentence.com/disabuse-in-a-sentence/][Disabuse]]
+
+  =to make aware of the truth=
+
+  - If you wish to continue to believe that falsehood, I will not disabuse you by telling you the truth.
+  - It is my job as a teacher to disabuse students of the notion they can be successful without an education.
+  - Even though I know Jessica is telling her mother a lie, I will not disabuse my friend’s parent.
+  - The minister did everything he could to disabuse his church members about false idols.
+  - Because my cousin is an environmental activist, she tries to disabuse people of the idea that wasting water does not matter.
+  - A review of the past will disabuse any government which believes there are benefits to starting a war.
+  - If you believe you can break the law in this town, the police will soon disabuse you of that idea.
+
+
+
+* [[https://wordsinasentence.com/disarray-in-a-sentence/][Disarray]]
+
+  =in a state of disorder=
+
+  - Since the toddler twins have been acting wildly today, my entire house is in disarray.
+  - During tax season, Hank’s desk is cluttered in disarray with hundreds of receipts.
+  - The robbers left the store in disarray after they could not find the rare gems.
+  -  Without a real leader, the political party is in disarray.
+
+
+
+* [[https://wordsinasentence.com/disavow-in-a-sentence/][Disavow]]
+
+  =refuse to own; reject=
+
+  - When news of the band’s breakup surfaced, the manager had to disavow any part in the undoing.
+  - Her parents planned to disavow any knowledge that she was calling off the wedding.
+  - When she retired, she had to disavow her former position with the CIA.
+  - In order to disavow her part in the robbery, the criminal had to testify against her conspirators.
+
+
+
+* [[https://wordsinasentence.com/disciple-in-a-sentence/][Disciple]]
+
+  =a student or follower of a teacher or philosopher=
+
+  - After seeing his resurrection, the disciple of Christ set out to spread his message throughout the land.
+  - A disciple of Jesus, Andrew was a fisherman who left his day job to follow Christ.
+  - Sariputta was a disciple of Buddha and followed his teachings religiously.
+  - “Doubting Thomas” was a disciple of Jesus, given his nickname because of his doubts in the Messiah early on.
+
+
+
+* [[https://wordsinasentence.com/discomfit-in-a-sentence/][Discomfit]]
+
+  =to make a person feel uncomfortable=
+
+  - The manager’s mean look served to discomfit me during the interview.
+  - Because Ann does not like her mother-in-law, she tries to discomfit her when she visits.
+  - The mob boss will try and discomfit the witness by threatening his family.
+  - When my mother spoke about my boyfriend’s criminal past, she hoped it would discomfit me so I would break up with him.
+
+
+
+* [[https://wordsinasentence.com/disconsolate-in-a-sentence/][Disconsolate]]
+
+  =sad beyond comforting; inconsolable=
+
+  - The little girl was so disconsolate after her puppy ran away that her parents put up posters all over the neighborhood.
+  - Anticipating that the prisoner would be disconsolate at receiving a life sentence, the judge decided to hand down the punishment in closed court.
+  - Nicole was disconsolate after the breakup and refused to allow her friends to comfort her.
+  - Although he was disappointed at not winning a medal, he was not disconsolate because the experience had been so amazing.
+  - After the death of his father, Brian took over the duties as the man of the house to support his disconsolate mother.
+  - Whenever Cheri feels disconsolate, she can lie in bed for days until the dark clouds begin to lift.
+  - I was disconsolate after watching that movie; I’m going to try to be a little better informed about the story before I go to the next one.
+
+
+
+* [[https://wordsinasentence.com/discourse-in-a-sentence/][Discourse]]
+
+  =written or spoken communication or debate=
+
+  - The discourse between the two candidates has not been friendly.
+  - Stranded on the deserted island, the castaway longed for discourse with another human being.
+  -  A major disadvantage of online discourse is that people can often say whatever they like in complete anonymity.
+  - Although the two presidents were not on friendly terms, they still managed to have polite discourse during the media event.
+  - After Justin has calmed down, he will be able to have sensible discourse with his brother.
+  - The purpose of the religious conference was to initiate discourse on the work of missionaries in third world countries.
+  - The priest refused to participate in a discourse on homosexuality.
+
+* Discredit
+
+  - The way Leonard responded to the customer was a discredit to the company’s service policy.
+  - During the divorce, he did some pretty terrible things to bring discredit upon his wife.
+  - The gross misconduct by one employee brought discredit on the whole company.
+  - The long-held belief fell into a state of discredit when an alternate theory proved to be more logical.
+  - Evolutionists discredit the biblical story of creation as a myth.
+  - He supposedly has a reputation as a great humanitarian, but the article in the newspaper seems to discredit that.
+  - Although many journalists are only interested in presenting the truth to the public, there are too many who seem to be out to discredit everyone in a position of power.
+
+
+
+* [[https://wordsinasentence.com/discursive-in-a-sentence/][Discursive]]
+
+  =talking or writing about many different things in an unorganized manner=
+
+  - When the writer was drunk, he often talked for hours in a discursive manner.
+  - The professor’s lecture was hard to follow because of its discursive tone.
+  - Confused by the question, the politician gave only a discursive response to the reporter.
+  - Although I paid a great deal of attention to the debate, the discursive dialogue really confused me.
+  - As a law student, you should be prepared for a series of discursive questions on legal ethics.
+  - The author’s writing style was discursive and hard to comprehend.
+  - Even though Joanna was normally a very organized person, she made a discursive speech during the graduation ceremony.
+
+
+
+* [[https://wordsinasentence.com/disdain-in-a-sentence/][Disdain]]
+
+  =lack of respect with a feeling of dislike=
+
+  - Pacifists are likely to disdain my right to gun ownership.
+  - I have an utter disdain for people that want something for nothing.
+  - The mother was in complete disdain after finding out her son failed the sixth grade again.
+  - The woman looked at her male abuser with disdain as he walked into the courtroom.
+  - If you disdain the American Government so much, then why don't you move to China?
+  - It is evident from the media coverage that New York protesters have great disdain for Wall Street.
+  - Discovering that I didn't really win a million dollars would leave me in disdain.
+
+
+
+* [[https://wordsinasentence.com/disgruntled-in-a-sentence/][Disgruntled]]
+
+  =unhappy, dissatisfied=
+
+  - Even though Harry is disgruntled about losing his job, he still plans to find another one in the same field.
+  - Disgruntled students can be found in just about any public school; the key is to stay vigilant to avoid scary situations.
+  - The manager went to the disgruntled customer’s table and offered to take her dinner off of the total bill.
+  - When disgruntled fans ran onto the field after the game, officials were afraid that a full-fledged riot was brewing.
+  - The German shepherd didn’t seem at all disgruntled when the Yorkie snatched his chew toy.
+  - Considering all the recent workplace incidents, perhaps a study should be done on disgruntled workers.
+  - After they have worked so hard and so long, is it any wonder that the faculty is disgruntled with the state test results?
+
+
+
+* [[https://wordsinasentence.com/disingenuous-in-a-sentence/][Disingenuous]]
+
+  =not candid or sincere; generally by pretending one knows less than one actually does=
+
+  - The detective was a disingenuous man who often played dumb to trick others into confessing.
+  - While Catherine pretended to be trustworthy, she was in reality a disingenuous woman who would do whatever it took to get her way.
+  - Although the politician promised to be open and honest during the election, he later became disingenuous and hid important facts from the voters.
+  - Disingenuous individuals usually become successful by misleading others.
+  - By nature, most individuals are disingenuous and try to hide their true intentions from others.
+  - Do not allow disingenuous people to deceive you to the point where you do something stupid!
+  - While Jamie’s request for forgiveness seemed sincere, it really was the most disingenuous apology I had ever heard.
+
+
+
+* [[https://wordsinasentence.com/disparage-in-a-sentence/][Disparage]]
+
+  =to express a negative opinion; belittle=
+
+  - You disparage my brother by saying he is worthless?
+  - It is never right to disparage people based on ethnicity.
+  - I cannot believe that you belittle and disparage people who have little in common with you.
+  - Spreading false rumors about Judy will unfairly disparage her reputation.
+  - Lying is one surefire way to disparage your image.
+  - Disparage my character, and I'll pick at your flaws.
+  - What I never understand is why politicians disparage their opponents.
+
+
+
+* [[https://wordsinasentence.com/disparate-in-a-sentence/][Disparate]]
+
+  =very different from each other=
+
+  - Because there was so much disparate information on the topic, the research process took longer than expected.
+  - When a husband and wife have such disparate incomes, there can often be some degree of resentment in the marriage.
+  - Even though they are identical twins, they have such disparate personalities that it’s impossible to get them confused.
+  - I understand that we all have disparate opinions on what to do with the generous donation, but let’s make a thorough study on where it would best be spent.
+  - There are plenty of disparate articles on that star, many of which contradict each other.
+  - When Manny discovered the disparate levels of compensation being paid to the workers, he organized a strike.
+  - Because many of America’s big cities are a mix of disparate cultures, it’s common to eat a taco on one street corner and cross the street to have some dim sum.
+
+
+
+* [[https://wordsinasentence.com/dispassionate-in-a-sentence/][Dispassionate]]
+
+  =not being affected by or showing feelings=
+
+  - The dispassionate father watched television while his son cried on the floor.
+  - When the dispassionate students were informed of their teacher’s death, they acted as if nothing in their lives had changed.
+  - Liza is a dispassionate person who rarely displays her emotions to others.
+  - After living with my dispassionate mother for many years, I was confused by the emotions of my expressive mother-in-law.
+  - The dispassionate queen did not care about her starving people.
+  - Although the detective was distraught over his partner’s death, he knew he had to inform the widow in a dispassionate manner.
+  - The dispassionate traffic cop ignored my pleas and gave me a speeding ticket.
+
+
+
+* [[https://wordsinasentence.com/dispel-in-a-sentence/][Dispel]]
+
+  =to cause to depart or be broken apart=
+
+  - The flowers from my husband do not dispel the fact I believe he is cheating on me.
+  - When the president made his speech about the state of the country’s security, he hoped his words would dispel public fears.
+  - The director of the disease center gave a press conference to dispel the myths about the Ebola virus.
+  - Although Peg knew Sam had been in prison for assault, the knowledge was not enough to dispel the adoration she felt for him.
+  - The atheist’s book aims to dispel the notion of a heavenly afterlife.
+  - When the famous painting resurfaced after eighty years, an art expert was called in to dispel the rumor the artwork was fake.
+  - Your theory is faulty because anyone can dispel the premise with a simple experiment.
+
+
+
+* [[https://wordsinasentence.com/disperse-in-a-sentence/][Disperse]]
+
+  =to spread out=
+
+  - As soon as the last bell rings, students disperse out of the building and head to their buses.
+  - Remember to only spray a little perfume or the fragrance will disperse throughout the house and irritate my sinuses.
+  - During the riot, the police tried to disperse the large crowd.
+  - The teachers stand in the hall during class changes to help disperse the traffic.
+  - When Jim dropped the container, the chemical fumes began to disperse throughout the office.
+  - The company broke the law when it decided to disperse its hazardous waste into the ocean.
+  - Because the protestors did not have a permit and refused to disperse, they were arrested.
+
+
+
+* [[https://wordsinasentence.com/disposable-in-a-sentence/][Disposable]]
+
+  =easily expendable and then throw away=
+
+  - Because you can't bring shaving equipment on a plane, many travelers buy disposable razors for the duration of their trip.
+  - The new mom went through thousands of disposable diapers before her baby's 1st birthday.
+  - Jason was the kind of guy who thought people were disposable and threw them away whenever they were no longer useful.
+  - They always bought disposable paper plates and plastic cups for their parties to save time and energy on clean up.
+
+
+
+* [[https://wordsinasentence.com/disseminate-in-a-sentence/][Disseminate]]
+
+  =to scatter or spread widely=
+
+  - With encyclopedias in every classroom, we will disseminate a wealth of information to all students.
+  - After the presidential election, it would not take long for the media to disseminate the results to living rooms around the world.
+  - At your earliest convenience, disseminate the findings of the ongoing investigation to your fellow colleagues.
+  - The pollen will disseminate into the region by Thursday, causing further burdens for allergy sufferers.
+  - If you are going to disseminate false information, then don't share it at all.
+  - How dare you disseminate a rumor about my relationship!
+  - Just because you are having a bad day doesn't mean you should disseminate negative energy onto me.
+
+
+
+* [[https://wordsinasentence.com/dissident-in-a-sentence/][Dissident]]
+
+  =a person who opposes the current political structure, group or laws; one who disagrees=
+
+  - Charlie’s family members were devout Catholics, while he was considered dissident for not identifying with the religion.
+  - The dissident was jailed for refusing to obey the law.
+  - A dissident mentality was quickly spreading throughout the floundering faction.
+  - When the dissident ran away, he was afraid to return for fear that he would be punished.
+
+
+
+* [[https://wordsinasentence.com/dissipate-in-a-sentence/][Dissipate]]
+
+  =to drive away=
+
+  - According to meteorologists, the storm will dissipate after a few hours and make way for the sunshine.
+  - Jason won the lottery and then watched all of his money dissipate after marrying a gold-digger who only cared about shopping.
+  - Because my father’s anger will dissipate quickly, I am not worried about going home late tonight.
+  - The fog will eventually dissipate and allow us to view the path ahead.
+  - Since Blake’s ex-wife stole all of his money and left him homeless, everyone doubts if his hatred for her will ever dissipate.
+  - The deodorizer will dissipate the foul-smelling odor and replace it with a more pleasing scent.
+  - When the stock market suddenly crashed, many investors saw their financial gains dissipate.
+
+
+
+* [[https://wordsinasentence.com/dissonance-in-a-sentence/][Dissonance]]
+
+  =a lack of agreement; generally between what one believes and how one acts=
+
+  - His cruel abuse showed a dissonance with his loving words.
+  - If Congress can explain the dissonance between their promises and their actual results, the public would be happy to hear the explanation.
+  - There is a great deal of dissonance between what a liar says and does.
+  - Although the pastor preached about the importance of marriage, his dissonance became obvious when he fell in love with a married woman.
+  - Dissonance often occurs when individuals try to explain their abnormal behaviors.
+  - From the country’s travel brochures, it is impossible to see the dissonance between the luxury hotels and the starving citizens.
+  - The dissonance between the estimated cost of the war and the real expense shocked the entire nation.
+
+
+
+* [[https://wordsinasentence.com/distraught-in-a-sentence/][Distraught]]
+
+  =so upset that one cannot behave normally=
+
+  - When my father died, I was so distraught I dropped out of school.
+  - Jerry became distraught when his wife approached him with divorce papers.
+  - After Carrie lost her job, she became distraught and went on a drinking binge.
+  - Losing your life savings is enough to make anyone distraught.
+  - Ever since Carrie lost her mother to cancer, she has been distraught.
+  - Marcus is too distraught about losing his home in the tornado to care about his stolen car.
+  - For some strange reason, the photographer was determined to capture a picture of the distraught widow at the cemetery.
+
+
+
+* [[https://wordsinasentence.com/diurnal-in-a-sentence/][Diurnal]]
+
+  =energetic during the daylight hours=
+
+  - Because bats are not active during the day, they are not diurnal creatures.
+  - John found it hard to work a diurnal job after being on the night shift for fifteen years.
+  - In the desert, there are few diurnal animals because of the high daytime temperatures.
+  - The diurnal animal wears itself out during the day and sleeps all night.
+
+
+
+* [[https://wordsinasentence.com/divulge-in-a-sentence/][Divulge]]
+
+  =to make something known=
+
+  - Doctors must be careful to not divulge confidential information about their patients.
+  - Even though the chef could make a lot of money by giving away his recipes, he refuses to divulge the secret ingredients in his dishes.
+  - Drug manufacturers are required to divulge any side effects that may be caused by their drugs.
+  - By signing these papers, I agree to not divulge any of my company’s financial records to anyone outside of my firm.
+  - Sally promised to never divulge her best friend’s secrets to anyone.
+  - If the criminal wants to get his sentence reduced, he must agree to divulge his accomplice’s whereabouts.
+  - The famous actress will not divulge any information about her love life to the press.
+
+
+
+* [[https://wordsinasentence.com/dogged-in-a-sentence/][Dogged]]
+
+  =marked by stubborn determination=
+
+  - Even though John was miles behind the other runners, his dogged determination would not let him quit the race.
+  - The prosecutor’s dogged pursuit of justice led to the criminal’s conviction.
+  - Although the police kept questioning Maria about her involvement in the robbery, she maintained a dogged silence.
+  - Hank’s dogged perseverance allowed him to complete the tiresome triathlon.
+  - Because of the dogged efforts of the volunteers, the missing little girl was safely reunited with her parents.
+  - Although my favorite football team rarely wins a game, I never fail to give them my dogged support.
+  - The young wrestler’s dogged hard work paid off when he became the world champion in his division.
+
+
+
+* [[https://wordsinasentence.com/dogma-in-a-sentence/][Dogma]]
+
+  =something held as an established opinion=
+
+  - Because I am a seeker of truth, I do not accept every bit of dogma as fact.
+  - The young rebels are attacking the government because they no longer view the traditional dogma as relevant today.
+  - According to the dogma of Candice’s religion, she should not have sex outside of marriage.
+  - The hate group’s dogma is founded on the belief that all men are not created equal.
+  - Although Jake considered himself to be quite religious, he did not blindly follow the dogma of the church.
+  - The innocent teenager accepts every Internet article she reads as dogma.
+  - Because the cult followers were drugged, they believed each statement from their leader was a part of God's dogma.
+
+
+
+* [[https://wordsinasentence.com/domineer-in-a-sentence/][Domineer]]
+
+  =to rule over someone in an arrogant way=
+
+  - Ruling with an iron fist, the dictator was able to domineer the oppressed citizens.
+  - With his twisted smile, it pleased Pharaoh to domineer over the Hebrew workers.
+  - The editor’s colleagues accused him of trying to domineer over every other writer as if he was the only one with talent.
+  - The impatient and intolerant mother made every effort to domineer over her compliant children.
+
+
+
+* [[https://wordsinasentence.com/dorsal-in-a-sentence/][Dorsal]]
+
+  =situated at the back side of the an animal or plant=
+
+  - The dolphin’s dorsal fin is situated on its’s slippery, gray back.
+  - Connected to the spinal column, the dorsal roots are on the backside of the body.
+  - Because of its dorsal shell, the turtle has a protective home from predators right on its back.
+  - The dorsal side of the plant was pricklier that its smooth inner surface.
+
+
+
+* [[https://wordsinasentence.com/drab-in-a-sentence/][Drab]]
+
+  =dull; lacking brightness or enthusiasm=
+
+  - Somber and drab, the gloomy hospital room made the depressed patient even sadder.
+  - A bright scarf lightened the mood and improved the CEO’s drab outfit.
+  - The drab and boring party was enhanced when the DJ and band arrived.
+  - Before the open house, drab walls were covered with a fresh coat of bright paint.
+
+
+
+* [[https://wordsinasentence.com/drollery-in-a-sentence/][Drollery]]
+
+  =something done to cause laughter; Joking=
+
+  - Continuing his drollery, the clown was able to entertain all of the smiling guests.
+  - Drollery during class earned the boy the nickname of class clown.
+  - The comedian danced and sang, filling the packed out auditorium with his humorous drollery.
+  - Puppet show gatherers thought the show to be too serious and wished it would have included more comedic drollery.
+
+
+
+* [[https://wordsinasentence.com/ductile-in-a-sentence/][Ductile]]
+
+  =capable of being thinned into a wire; malleable=
+
+  - Copper and tin wire are both ductile and able to be stretched.
+  - Some metals are more ductile than others and easily thinned into wire form.
+  - The ductile metal was used to make electrical wire for the housing unit.
+  - Without ductile materials, it would be difficult to provide wire for many of the inventions we use today.
+
+
+
+* [[https://wordsinasentence.com/dumbfounded-in-a-sentence/][Dumbfounded]]
+
+  =astonished and speechless=
+
+  - When my intelligent daughter announced she was going to marry a prison inmate, I was dumbfounded.
+  - The audience was dumbfounded when the singer walked on stage and then left without singing a word.
+  - Because Frank considers reality shows to be incredibly stupid, he is dumbfounded by the commercial success of these programs.
+  - Even the experienced critic was dumbfounded after watching what he called the worst movie ever.
+  - The old miner was dumbfounded by the sight of the gold in the abandoned mine.
+  - Because Gina had not looked at her class notes for days, she was dumbfounded when the teacher handed out a pop quiz.
+  - The doctors were dumbfounded when the patient survived after being shot twelve times.
+
+
+
+* [[https://wordsinasentence.com/dupe-in-a-sentence/][Dupe]]
+
+  =to deliberately mislead someone or the person who is easily used or tricked=
+
+  - My brother is a schemer who is always trying to dupe people out of their money.
+  - Because Bill does whatever his friends tell him to do, he is the perfect dupe to act as a getaway driver.
+  - The athlete tried to dupe the team manager by using purchased urine for the drug test.
+  - In order to steal the rare coin, the criminal will have to dupe Jan into believing he has fallen in love with her.
+
+
+
+* [[https://wordsinasentence.com/dwindle-in-a-sentence/][Dwindle]]
+
+  =to decrease, shrink, diminish, reduce in size=
+
+  - Because Amelia and Danny made a promise to each other that they would never let their romance dwindle, they plan a date night every week.
+  - When the store manager realized that his supply of the popular new toy was beginning to dwindle, he placed an order for a thousand more units.
+  - As the number of workers began to dwindle because of the cutbacks, the workload of each person became intolerable.
+  - We have seen our natural resources dwindle in all areas of the world, and it is time for an international effort to do something about it.
+  - Night was falling and the temperature was dropping, but the searchers refused to allow their hope of finding the missing child to dwindle.
+  - Although Hannah was excited when she found out that Tristan was coming home, her joy began to dwindle when he told her he would not be able to walk.
+  - As the evening wore on, the high spirits of the guests began to dwindle, and pretty soon most of them had left the party.
+
+
+
+* [[https://wordsinasentence.com/dabble-in-a-sentence/][Dabble]]
+
+  =to casually participate or have an interest in an activity=
+
+  - The man touted his professional bowling skills but his wife revealed that they only dabble in the sport occasionally.
+  - Although I dabble in several sports, I do not consider myself a master of any.
+  - Feeling bored and out of place at the casino, I decided to dabble in a game of poker.
+  - My passion is for oil painting but I dabble in sketch drawings as well.
+
+
+
+* [[https://wordsinasentence.com/daft-in-a-sentence/][Daft]]
+
+  =stupid, ridiculous, or silly=
+
+  - The daft article is full of errors, and does not belong in our journal.
+  - Eric is a daft old man who is always mumbling senseless things.
+  - Everyone sat in silence, as the daft comment hung in the air.
+  - The plumbers sloppy work demonstrated that he was a daft fool.
+
+
+
+* [[https://wordsinasentence.com/dainty-in-a-sentence/][Dainty]]
+
+  =delicately small and pretty=
+
+  - Our newborn girl clasps her long dainty fingers in a tight fist.
+  - The dainty precious tea cups were so beautiful to behold.
+  - The flower girl scattered dainty petals from her pretty wicker basket.
+  - Her dainty nature rebelled against the thought of marrying that brute.
+
+
+
+* [[https://wordsinasentence.com/dalliance-in-a-sentence/][Dalliance]]
+
+  =a relationship, usually romantic or sexual, that is taken lightly=
+
+  - Since Jill and Frank were both married to other people, their workplace dalliance did not last very long.
+  - Teenagers have shallow hearts so it is not surprising that they enter into one dalliance after another.
+  - When Mitch learned his fiancée had a dalliance with another man, he cancelled the wedding.
+  - The playboy was known for his ability to engage any woman, single or married, in a romantic dalliance.
+  - Unfortunately Gail’s youthful dalliance ended in a teen pregnancy.
+  - Although Matt is dating the class president, he still made time to have a brief dalliance with the head cheerleader.
+  - Even though my husband would probably like to have a dalliance with our lovely neighbor, he knows I will kill him slowly for adultery.
+
+
+
+* [[https://wordsinasentence.com/dally-in-a-sentence/][Dally]]
+
+  =to do something slowly=
+
+  - They fired the guard because he would dally about, wasting his time.
+  - You won’t succeed if you dally away your time.
+  - Mom hates when I dilly-dally around the kitchen.
+  - As my own boss, I have the leisure to dally about.
+
+
+
+* [[https://wordsinasentence.com/damp-in-a-sentence/][Damp]]
+
+  =slightly wet=
+
+  - There is a big difference in damp and soaking, nearly as large as the difference between hot and on fire.
+  - There was a bit of misty fog out this morning, but only enough to make my clothes feel a little damp when I came back inside.
+  - Unless you are someone that sweats buckets, you will likely only be damp after a moderate workout.
+  - It is recommended that you use a damp towel when wiping a CD rather than a soaking one, since you just want to get dust off of it.
+
+
+
+* [[https://wordsinasentence.com/dangle-in-a-sentence/][Dangle]]
+
+  =to droop freely=
+
+  - Since her long earrings dangle down to the middle of her neck, the woman was constantly getting them caught in her long hair.
+  - While the dog trotted proudly to the front door with his prize, the mouse would dangle by his tail from the dog’s mouth.
+  - As the watch would dangle from the chain, it would bob up and down every time the gentleman took a step.
+  - The child would tease her puppy when she would stand over it and dangle a lengthy piece of cheese just an inch out of the puppy’s reach.
+
+
+* [[https://wordsinasentence.com/dank-in-a-sentence/][Dank]]
+
+  =chilly and damp in an unlikable way=
+
+  - After the flooding, the house was so dank we moved into a hotel for a few weeks.
+  - The basement is dank because of the power outage and the leaky pipes.
+  - Until we open the windows and let in the sun and fresh air, the abandoned house is going to be quite dank.
+  - The dank pond is filled with waste from the nuclear plant.
+
+
+
+* [[https://wordsinasentence.com/dapper-in-a-sentence/][Dapper]]
+
+  =neat in appearance, usually referring to a male=
+
+  - In the roaring twenties, all of the dapper men took a great deal of care with their appearance.
+  - The mother dressed her son in his most dapper attire for the family reunion.
+  - With a nice suit and some hot water, the homeless man is going to look quite dapper for his job interview.
+  - Josh smiled when the attractive young lady told him he looked dapper in his new jeans.
+  - Even when the male model goes to the grocery store, he makes sure he looks dapper in a stylish outfit.
+  - Because the mafia boss liked to dress neatly, he was referred to as the Dapper Don.
+  - Although William was not a wealthy fellow, he got his suits dry-cleaned so he would look dapper at work.
+
+
+
+* [[https://wordsinasentence.com/daub-in-a-sentence/][Daub]]
+
+  =to coat or smear a substance on a surface=
+
+  - My mom screamed at me when I began to daub my bread with too much cream cheese.
+  - I suspected that the prankster would daub my door handle with Vaseline because he has done so in the past.
+  - Maria used a soft cloth to gently daub her eyes after she applied too much makeup.
+  - The artist was able to daub the empty canvas with paint and instantly turn it into a work of art.
+
+
+
+* [[https://wordsinasentence.com/dawdle-in-a-sentence/][Dawdle]]
+
+  =to waste time by moving slowly=
+
+  - If I do not monitor my daughter in the mall, she will dawdle there all day long.
+  - Teenagers will often dawdle when doing chores they hate.
+  - While many people are quick to ask for help, they dawdle when help is needed.
+  - My biggest concern about the class project is that my group will dawdle and not finish on time.
+  - If the servers dawdle when delivering orders, they will find themselves with a bunch of angry customers.
+  - Because Jason did not want to dawdle in winning Ann’s affection, he gave her roses and chocolate on the first date.
+  - Do not dawdle and let your gift certificate expire before you use it.
+
+
+
+* [[https://wordsinasentence.com/daze-in-a-sentence/][Daze]]
+
+  =a state of stunned confusion and a lack of clarity=
+
+  - In a daze, I wandered through the hallways of the hospital, bumping into everyone that passed me by.
+  - After hearing that her father had been killed in combat, Jackie walked around in a daze.
+  - After taken a serious beating, our team played the second half of the game in a total daze.
+  - Peter sat in a daze near the spot of his former home, after a hurricane completely wrecked it.
+
+
+
+* [[https://wordsinasentence.com/debility-in-a-sentence/][Debility]]
+
+  =a state of physical or mental weakness=
+
+  - My father’s debility kept him from taking long walks like he used to love to do.
+  - Her debility was due to an illness she caught while overseas.
+  - When planning the trip, we needed to consider accommodations for my mother’s debility.
+  - Even though she beat cancer, she still dealt with debility from her battle.
+
+
+
+* [[https://wordsinasentence.com/debrief-in-a-sentence/][Debrief]]
+
+  =to ask questions in order to extract evidence=
+
+  - When the fight ended at school, the principal needed to debrief each eyewitness to get an idea of which student started the fight.
+  - In the courtroom, the prosecutor would debrief each witness on the stand in order to get their information stated about the defendant’s whereabouts in front of the jury.
+  - The sergeant on the active battlefield would debrief the colonel of the army every ten minutes regarding their results of their strategy.
+  - Once the hostage taker released his first hostage, the police force would debrief her for a long period of time in order to determine the weapons the hostage taker had and his demeanor.
+
+
+
+* [[https://wordsinasentence.com/debunk-in-a-sentence/][Debunk]]
+
+  =to reveal the inaccuracies associated with a belief=
+
+  - My attempts to debunk my young daughter’s belief in Santa Claus only ended with her crying for days.
+  - If the president conducts a number of town hall conversations, he believes he can debunk the myths about his healthcare proposal.
+  - The scientist hoped to debunk the genetic theory by completing his own research.
+  - To debunk racial stereotypes about food and music, my psychology group plans to survey a diverse group of people about their preferences.
+
+
+
+* [[https://wordsinasentence.com/decant-in-a-sentence/][Decant]]
+
+  =to move one fluid or liquid from one container to another=
+
+  - After asking the waiter for him to refill my glass, he took the large pitcher of iced tea to decant it from his pitcher into my glass.
+  - It was quite difficult to decant perfume from its original bottle into the beautiful vessel without smelling up the whole room.
+  - To save the wine for later, we would need to decant it from the bottle into a closed flask since we lost the cork.
+  - Scientists decant the wet solution from the cylinder into a storage flask so that they could use it in future experiments.
+
+
+
+* [[https://wordsinasentence.com/declaim-in-a-sentence/][Declaim]]
+
+  =to say something in a loud, passionate way=
+
+  - The love-struck newlywed would declaim his love for his bride on the peak of the highest mountain top.
+  - Even though the defendant tried to declare her independence through a loud and passionate speech, few people believed she was innocent.
+  - The actor was speaking so loudly that even those walking past the theater could hear him declaim his monologue.
+  - The rebel tried to rowdily declaim his hate for the government in the town square, but was quickly arrested for his reckless speech.
+
+
+
+* [[https://wordsinasentence.com/decoy-in-a-sentence/][Decoy]]
+
+  =a person or object meant to lure something to danger=
+
+  - Tony uses a worm decoy to bait fish.
+  - We caught a deer, using a decoy to trick it into the cage.
+  - The decoy force tricked the enemy into attacking prematurely.
+  - The FBI used an undercover decoy to lure in the killer.
+
+
+
+* [[https://wordsinasentence.com/decree-in-a-sentence/][Decree]]
+
+  =an official order issued by a legal authority=
+
+  - The queen issued a royal decree which stopped people from visiting the royal gardens during the holidays.
+  - According to the court’s decree, all suspects can meet their accusers in court.
+  - When the president signed the decree on equal rights, everyone in the audience cheered.
+  - The foreign government tried to reduce the population by issuing a decree limiting births.
+  - After the hurricane, the governor signed an emergency decree which sent food and medical aid to the destroyed counties.
+  - Once the decree has been signed by the president, all veterans will continue to receive free medical services throughout the country.
+  - The judge ended Julie and Jake’s marriage by signing a decree.
+
+
+
+* [[https://wordsinasentence.com/deface-in-a-sentence/][Deface]]
+
+  =to damage or disfigure something, especially a surface=
+
+  - They used spray paint to deface the professor’s portrait.
+  - If unguarded, thugs will deface the monument.
+  - The mock historian will deface history with his undocumented book.
+  - Oscar was arrested for attempting to deface the flag.
+
+
+
+* [[https://wordsinasentence.com/defile-in-a-sentence/][Defile]]
+
+  =to make impure or dirty, to spoil or contaminate=
+
+  - Because Jared is a hamburger purist, he believes that adding any condiments is only going to defile the flavor of the beef.
+  - Mrs. Underwood told her Sunday School students that they should never defile a church or other holy place with vulgar behavior and language.
+  - Willis has lined the walls of his apartment with aluminum foil so that aliens won’t be able to penetrate his subconscious and defile his brain.
+  - Although recent history has shown some improvement, humans continue to defile the planet with their extravagance and waste of natural resources.
+  - When the new factory began production, a new city government entity was established to monitor the disposal of waste products that might defile the water supply.
+  - Even though the information is out there that tells us that smoking tobacco will defile our body, young people continue to take up the smoking habit.
+  - After the group was expelled from the park for drinking beer on the premises, several of them went back to defile the trees by hanging trash from the branches.
+
+
+
+* [[https://wordsinasentence.com/deflect-in-a-sentence/][Deflect]]
+
+  =to cause something to be rerouted or directed to a different path=
+
+  - During the basketball game, the star player could jump and deflect any opponent’s shot in the air.
+  - The defense attorney was able to deflect the prosecutor’s questioning causing the judge to require the prosecutor to ask different questions.
+  - When asked about the salary, the potential candidate was able to deflect this question by beginning to talk about his background.
+  - Since the young child never filtered anything he said, the parents were ready to deflect any embarrassing topic the child would start to discuss.
+
+
+
+* [[https://wordsinasentence.com/defraud-in-a-sentence/][Defraud]]
+
+  =to swindle or cheat someone out of money=
+
+  - One way to defraud the government is by taking and cashing social security checks issued to people who died long ago.
+  - The defendant was given a hefty sentence when he decided to defraud the court by denying his real name.
+  - While continuously writing bad checks, the woman was unaware that her actions seemed to defraud the banks.
+  - In order to buy expensive items using Tom’s bank account, Mark would defraud the credit card company by making them believe he was Tom.
+
+
+
+* [[https://wordsinasentence.com/defray-in-a-sentence/][Defray]]
+
+  =to cover, as in to pay for something=
+
+  - Because I have a coupon that will defray fifty percent of my restaurant bill, I have enough money to see a movie after dinner.
+  - We are being asked to donate twenty dollars to help the festival organizer defray the cost of managing the event.
+  - Fortunately, the scholarship will defray a large part of my daughter’s tuition.
+  - Since Jim lost his job recently, he has started a fund to defray his wife’s hospital expenses.
+  - The magazine is increasing its advertising rates to defray its increased publishing costs.
+  - When you purchase the new phone, you will receive a rebate to help defray the cost of the monthly data plan.
+  - Most schools use vending machines as a source of income to defray the costs of extracurricular activities.
+
+
+
+* [[https://wordsinasentence.com/dejected-in-a-sentence/][Dejected]]
+
+  =depressed; miserable=
+
+  - I felt dejected after losing my job.
+  - When Jan did not get the role in the film, she was more dejected than I had ever seen her.
+  - The players were dejected after losing the big game.
+  - Since Bill did not win the award, he was somewhat dejected after the event.
+  - The kids were dejected when the power outage prevented them from watching television.
+  - If you looked in the widow’s eyes, you could tell she was completely dejected.
+  - Ann felt dejected after being denied admission to her favorite college.
+
+
+
+* [[https://wordsinasentence.com/delectation-in-a-sentence/][Delectation]]
+
+  =pleasure; enjoyment=
+
+  - For your delectation, a spread of delicious appetizers will be served throughout the cocktail hour.
+  - A playlist of popular music was put together for the party guest’s delectation.
+  - Although I don’t play often, an enjoyable round of golf is always a path to my delectation.
+  - An open bar was provided for the wedding guests’ enjoyment and dinner was served for their delectation.
+
+
+
+* [[https://wordsinasentence.com/delicate-in-a-sentence/][Delicate]]
+
+  =weakly fragile; frail=
+
+  - The delicate flower was broken at the stem during the first storm of the season.
+  - Because she was so delicate, the girl’s parents didn’t want her playing contact sports.
+  - Most of the items in the box are delicate and should be handled with care.
+  - The berries were so delicate that the crushed under the slightest bit of pressure.
+
+
+
+* [[https://wordsinasentence.com/delinquent-in-a-sentence/][Delinquent]]
+
+  =late in paying what is owed or past due=
+
+  - With so many bills delinquent, Kevin had to look for a second job to help him earn enough to catch up.
+  - Without a way to come up with the delinquent mortgage payments, the couple have no choice but to give up their home.
+  - The cable company insisted that the bill was past due, but I know that it’s not delinquent and was paid on time.
+  - Delinquent taxpayers are at risk of losing their homes if they don’t pay their old tax debts.
+
+
+
+* [[https://wordsinasentence.com/delirium-in-a-sentence/][Delirium]]
+
+  =a condition of extreme happiness and excitement=
+
+  - As soon as the young girl saw all of her birthday presents, she leaped in delirium.
+  - Jane was in delirium when she received her long-awaited wedding proposal.
+  - Because I was in delirium when my husband returned from overseas, I could not stop grinning.
+  - The fans were in delirium as they waited for their favorite singer to begin the concert.
+
+
+
+* [[https://wordsinasentence.com/delve-in-a-sentence/][Delve]]
+
+  =to search thoroughly and carefully for information=
+
+  - We had many books to delve into during our research for school.
+  - Because she was planning a trip, the woman began to delve into a search for plane tickets.
+  - When they learned of her disappearance, the detectives were eager to delve into locating her.
+  - He was considered a great employee because he would delve into every task given to him.
+
+
+
+* [[https://wordsinasentence.com/demagogue-in-a-sentence/][Demagogue]]
+
+  =a political leader who tries to influence people by making emotional speeches=
+
+  - Todd wrote an excellent paper describing Hitler as a demagogue.
+  - The agitators were led by an angry demagogue whose mission was to overthrow the government.
+  - Because of the frantic way he delivers his speeches, the preacher comes across as a crazed demagogue.
+  - Only a demagogue could persuade so many people to rebel against authority.
+  - When he appealed to the desires of his followers, the demagogue found it was an effortless task to raise campaign funds.
+  - The outrageous post was written by a demagogue who used social networks to influence voters.
+  - Although he had no logical solution to the gasoline crisis, the demagogue was quick to find fault in the solutions offered by others.
+
+
+
+* [[https://wordsinasentence.com/demarcate-in-a-sentence/][Demarcate]]
+
+  =to mark the limits or boundaries of something=
+
+  - She was convinced that the school’s administration should demarcate social studies grades from science grades.
+  - The fence was put in place to demarcate one piece of property from the next.
+  - The farmer was determined to demarcate his fields in an effort to keep out his neighbor’s cattle.
+  - We will demarcate the land, but first we need maps to show where the boundary stakes should go.
+
+
+
+* [[https://wordsinasentence.com/demented-in-a-sentence/][Demented]]
+
+  =mental instability that drives strange behavior spurred by extreme emotions=
+
+  - Kaia was heartbroken when she found out her grandfather was demented and would soon lose all memory of her.
+  - After his demented wife purposely tried to burn their house down, he had her committed to a psychiatric ward.
+  - He called the police on his demented neighbor after she started screaming at the hedges for no reason.
+  - Whenever Nathan forgot to take his antipsychotic  medication he became demented and alternated between talking to himself and punching the wall.
+
+
+
+* [[https://wordsinasentence.com/demure-in-a-sentence/][Demure]]
+
+  =shy and modest; reserved=
+
+  - My sister is too outgoing for anyone to ever accuse her of being demure.
+  - While Helen is quite demure in her job as a librarian, at night she becomes a wild karaoke queen.
+  - Because he was nervous at the audition, Biff sang in a demure voice which the judges were unable to hear.
+  - At the party last night, Iris was demure and stayed in a corner by herself.
+  - If you want to impress your boyfriend’s religious mother, you should dress like a demure churchgoing woman instead of like a party girl.
+  - The demure maid kept her eyes down and rarely spoke.
+  - Because Allison is demure, it is unlikely she will be as sociable as the other flight attendants.
+
+
+
+* [[https://wordsinasentence.com/denunciation-in-a-sentence/][Denunciation]]
+
+  =an announcement or statement that is shared openly to criticize a thing or a person=
+
+  - The minister’s denunciation of his ex-wife during the service came as a surprise to his congregation.
+  - During the press conference, the civil rights leader made a denunciation about brutal police tactics.
+  - The cruel warden ignored his assistant when he made a denunciation about the mistreatment of the prisoners.
+  - Because the director made a controversial film, he expected a denunciation of his work from the critics.
+  - The jury’s verdict of innocence resulted in a furious denunciation from the victim’s family.
+  - Before the terrorist attack, the rebel leader used the Internet to state his denunciation of his enemies.
+  - The politician’s denunciation of low-income families did not win him any votes during the election.
+
+
+
+* [[https://wordsinasentence.com/depose-in-a-sentence/][Depose]]
+
+  =to forcefully take a position away from a person=
+
+  - A coalition of countries is trying to depose the island dictator.
+  - Working together the princes hope to depose their father and assume power.
+  - The king sent soldiers to locate the rebels who sought to depose him from his rule.
+  - Without hesitation, the ruler killed everyone who was linked to the attempt to depose him.
+
+
+
+* [[https://wordsinasentence.com/deposit-in-a-sentence/][Deposit]]
+
+  =to set down or place someone or something in a particular place=
+
+  - The woman stopped by the bank to deposit her paycheck in her account.
+  - Birds deposit their eggs in a high nest away from hungry predators.
+  - She hurried to the library to deposit her books in dropbox so that she wouldn't get late fees.
+  - Molly and her children deposit the grocery bags on the kitchen counter.
+
+
+
+* [[https://wordsinasentence.com/depravity-in-a-sentence/][Depravity]]
+
+  =moral corruption; wickedness=
+
+  - Although Linda was raised in a religious household, she now lives a life filled with depravity.
+  - That kind of depravity will get you arrested for public indecency!
+  - Since you love Henry, you tend to ignore all the acts of depravity in which he engages.
+  - The witch’s depravity was known throughout the kingdom.
+  - According to the preacher, drinking too much alcohol is a sign of depravity.
+  - My grandmother says I live a life of depravity because I share a house with my boyfriend.
+  - When Jack thinks of all the acts of depravity he committed in college, he is ashamed of himself.
+
+
+
+* [[https://wordsinasentence.com/depredation-in-a-sentence/][Depredation]]
+
+  =damage or destruction=
+
+  - The hurricane left much depredation in the city.
+  - Because of depredation caused by hungry wolves, many chicken farmers are losing large sums of money.
+  - The graffiti artist was arrested because he participated in the depredation of city property.
+  - According to the government, a hate group is responsible for the depredation of the synagogue.
+
+
+
+* [[https://wordsinasentence.com/deputize-in-a-sentence/][Deputize]]
+
+  =to make someone a deputy a second in command or assistant who usually takes charge when his or her superior is absent=
+
+  - The sheriff made the decision to deputize lieutenant McDaniel so that he could run the jail in his place.
+  - Because he is so busy, the mayor will need to deputize someone to handle his important in-office business.
+  - The city police decided to deputize certain citizens, allowing them to provide neighborhood security in the force’s absence.
+  - My boss will deputize two assistants and put them in charge of day-to-day operations of the plumbing service.
+
+
+
+* [[https://wordsinasentence.com/dereliction-in-a-sentence/][Dereliction]]
+
+  =the neglect or disregard for something or someone=
+
+  - Riots brought about the dereliction of looters who could care less about the shop owners when they vandalized their stores.
+  - Due to the dereliction in the performance of her duties, the nanny was fired because she would go to parties instead of watching the baby.
+  - Elderly nursing home patients may suffer from severe bedsores due to the dereliction of their caretakers who are not taking care of their patients.
+  - When the farmer began to work another job in the city, the dereliction of his horses caused them to grow skinny from not being cared for.
+
+
+
+* [[https://wordsinasentence.com/derogate-in-a-sentence/][Derogate]]
+
+  =to offend or criticize a person or thing=
+
+  - The critic didn't mean to derogate the author, only his poorly written novel.
+  - If you don't want to derogate the locals during your travels, you should avoid being an obnoxious tourist.
+  - Many people were angry when they heard the rapper’s song that appeared to derogate women.
+  - Since my supervisor doesn't like me, she is constantly trying to derogate my work in front of our boss.
+
+
+
+* [[https://wordsinasentence.com/desiccated-in-a-sentence/][Desiccated]]
+
+  =dried out; lifeless=
+
+  - The professional soccer player became desiccated after being in a car accident that left him in a coma.
+  - Without water, the crops quickly became desiccated.
+  - The man tried unsuccessfully to get water from the desiccated well.
+  - Once the car factories closed, the residents left the desiccated city to look for work.
+
+
+
+* [[https://wordsinasentence.com/desideratum-in-a-sentence/][Desideratum]]
+
+  =a wished-for or desired thing=
+
+  - A desideratum when car shopping is price.
+  - A desideratum for the role of teacher was certification in English.
+  - Because a desideratum when house shopping was location, the couple only viewed houses in the city limits.
+  - Since the desideratum was non-negotiable, the man would not allow smoking in the building.
+
+
+
+* [[https://wordsinasentence.com/desist-in-a-sentence/][Desist]]
+
+  =to stop doing something=
+
+  - The document from the court orders the magazine to desist from publishing false stories about the actor.
+  - Because of the copyright violation, my lawyer sent a cease and desist letter to the company that was publishing my work without permission.
+  - A scared dog uses his bark to encourage strangers to desist from coming into his territory.
+  - Since the condominium association has no police authority, it can only ask residents to desist from breaking the rules.
+  - The country’s leader warned the Western nation to desist from interfering in international conflicts or face nuclear consequences.
+  - If our neighbor had a sense of decency, he would desist from walking around naked in his front yard.
+  - Please desist from having loud parties after midnight!
+
+
+
+* [[https://wordsinasentence.com/desolate-in-a-sentence/][Desolate]]
+
+  =empty; without life=
+
+  - Since the anchor stores closed, the shopping center has become a desolate wasteland.
+  - The farmer hopes the fertilizer will moisturize the soil in the desolate field so he can grow crops.
+  - Before Las Vegas became a mobster’s paradise, the entire area was nothing but a desolate desert.
+  - With the exception of the one man at the bar, the unpopular tavern was desolate.
+  - The green valleys became desolate during the drought.
+  - Since the restaurant received a bad review from a popular critic, its reservation book has been quite desolate.
+  - At one o’clock in the morning, the streets are desolate and free of traffic in the tiny community.
+
+
+  - Helpless and alone, the prisoner of war fell victim to a deep despair.
+  - His loneliness and despair had reached new highs, driving him to commit suicide.
+  - Losing his father was hard enough, but losing his mother one week later caused him to fall into deep despair.
+  - Bankrupt, out of work, and no relief in sight, the man felt himself overcome with despair.
+  - Her last hope had fallen through, leaving her to despair.
+  - Despite the fact that he had lost everything, he would not let himself despair.
+  - Do not despair, for as long as you still live there is hope.
+
+
+
+* [[https://wordsinasentence.com/despise-in-a-sentence/][Despise]]
+
+  =to look upon with disdain=
+
+  - Because I despise the taste of white milk, I never drink it.
+  - If you despise your situation in life, you should work to alter the things you dislike.
+  - Jack’s children despise him because he abandoned them when they were young.
+  - Although the soldier knew his comrades would despise him, he fled the battle scene to save his own life.
+
+
+
+* [[https://wordsinasentence.com/destitute-in-a-sentence/][Destitute]]
+
+  =utterly lacking=
+
+  - Even though I grew up in a destitute family, it did not stop me from attending an Ivy League school
+  - The heiress could think of nothing worse than being destitute.
+  - If you do not save your money when you are young, you may be destitute in your old age.
+  - Because of the economy, many who were once rich are now destitute.
+  -  The destitute widow had no idea how she was going to buy food for her five children.
+  - Because of the rain drought, the lake is nearly destitute of water.
+  - Our church is doing everything it can to help the destitute families in our community find food and shelter.
+
+
+
+* [[https://wordsinasentence.com/detonate-in-a-sentence/][Detonate]]
+
+  =to ignite or blow up=
+
+  - When the terrorists began to detonate each bomb, many people heard the loud noise and ran for their lives.
+  - In order to win the war video game, the player must detonate each bomb to make each building crumble to the ground.
+  - People fear that if a country decides to detonate a nuclear bomb, then it will kill its citizens instantly.
+  - To detonate the grenade, the soldier must pull the pin out of its holder and the lever will release.
+
+
+
+* [[https://wordsinasentence.com/diatribe-in-a-sentence/][Diatribe]]
+
+  =abusive speech or piece of writing=
+
+  - Because Sheila was unhappy with the administration, she launched a lengthy diatribe against the board during lunch.
+  - Upset about his demotion, Ed made an angry diatribe about his employer.
+  - The candidate made a diatribe against his opponent.
+  - Even though Janice tried to control her temper in court, she found herself unable to hold in a diatribe about her spouse.
+  - In a lengthy diatribe, the reviewer made the public aware of his unflattering opinion of the film.
+  - The cult leader used religion to make a diatribe against the government.
+  - As a part of her diatribe against local police officers, Mary launched a Website for police complaints.
+
+
+
+* [[https://wordsinasentence.com/dictum-in-a-sentence/][Dictum]]
+
+  =a statement or well-known remark that expresses an important idea or rule=
+
+  - As Sarah waited in the unemployment line, she recognized the truth of the dictum, “last hired; first fired”.
+  - My suspicious aunt is quick to remind us of the dictum that encourages us to keep our enemies close.
+  - When Jim foolishly ignored the financial dictum and spent more than he could afford, he found himself homeless after not having enough money to pay his rent.
+  - Every doctor knows the dictum, “first do no harm”.
+  - After Larry ignored the dictum his father taught him about following the law, he was arrested and sent to jail.
+  - My eighty-year-old grandmother believes she has stayed healthy by obeying the dictum of eating an apple a day.
+  - When the president spoke to the media, he made a dictum about the dangers of unrestricted government.
+
+
+
+* [[https://wordsinasentence.com/diffuse-in-a-sentence/][Diffuse]]
+
+  =to spread out over a large area=
+
+  - They used the essential oils to diffuse fragrance throughout the entire room.
+  - The fan helped to diffuse cool air all around the sun room.
+  - In order to diffuse the crowd from the entrance, they asked that the people form lines.
+  - When the woodsy scent began to diffuse throughout the neighborhood, we knew someone was having a bonfire.
+
+
+
+* [[https://wordsinasentence.com/dingy-in-a-sentence/][Dingy]]
+
+  =filthy, discolored, often dark or depressing=
+
+  - Her dress was a dingy grey that was two sizes too big and could have used a wash.
+  - It wasn’t surprising that Catherine felt sad all the time when she lived in a room that was so dingy, dark, and depressing.
+  - She wore a dingy dress that was discolored from years of sweat and little washing.
+  - Meredith woke to a dark and dingy room covered in cobwebs.
+
+
+
+* [[https://wordsinasentence.com/dint/][Dint]]
+
+  =as a result of, by way of=
+
+  - The candidate seems to have more influence by dint of money and not actual speaking ability.
+  - Priscilla was able to rise to the top by dint of education and a strong work ethic.
+  - By dint of its cheap price tag, the latest laptop has made its way onto the bestseller’s list.
+  - The country was able to conquer others by dint of its brutish ruler who took prisoners wherever he went.
+
+
+
+* [[https://wordsinasentence.com/dire-in-a-sentence/][Dire]]
+
+  =extremely pressing=
+
+  - Because this is a dire emergency, we need medical assistance right away!
+  - The children in the third world country are very ill and in dire need of clean water.
+  - Since Ted’s problem is not as dire as some of the other patients' issues, he will have to wait a while to see an emergency room doctor.
+  - There will be dire consequences if Eric does not have heart surgery within the next few days.
+
+
+
+* [[https://wordsinasentence.com/disaffected-in-a-sentence/][Disaffected]]
+
+  =rebellious and resentful, especially against authority=
+
+  - The disaffected rebels rioted in the streets after the latest police involved killing.
+  - Severely disaffected students raged at campus authorities and were rebellious with attendance.
+  - Dissatisfied with the way the government was handling the situation, disaffected protesters chanted outside the White house gates.
+  - Disaffected patriots decided to separate themselves from England and turn the colonies into a united country.
+
+
+
+* [[https://wordsinasentence.com/disburse-in-a-sentence/][Disburse]]
+
+  =to pay out, expend; usually from a public fund or treasury=
+
+  - The federal government said it was studying whether to disburse more relief funds to the state after the damage appears to be severe.
+
+
+
+* [[https://wordsinasentence.com/discombobulated-in-a-sentence/][Discombobulated]]
+
+  =in a confused or bewildered condition=
+
+  - I felt discombobulated after working twelve hours a day for seven straight days.
+  - When the student looked at the difficult test, she felt discombobulated.
+  - The cat was discombobulated until it learned its way around the new house.
+  - Because the police officer felt the woman was discombobulated, he asked her to take a sobriety test.
+
+
+
+* [[https://wordsinasentence.com/discrepancy-in-a-sentence/][Discrepancy]]
+
+  =a difference or inconsistency especially between things that should be the same=
+
+  - A discrepancy in the financial reports is the reason for the audit.
+  - Because of a discrepancy in the witness’ testimony, the defense attorney has asked the judge to drop the charges against his client.
+  - I was forced to fire my accountant after he could not explain the discrepancy in my bank account.
+  - When the store manager noticed a discrepancy in the inventory, he called all of his employees into his office.
+  - The general is investigating the discrepancy in the number of wounded soldiers reported.
+  - Because I knew nothing about taxes as a teenager, I was shocked by the discrepancy between what I thought I would receive for my first paycheck and what I actually received.
+  - The income discrepancy between the upper class and those living below the poverty line is huge.
+
+
+
+* [[https://wordsinasentence.com/discretionary-in-a-sentence/][Discretionary]]
+
+  =considered to be chosen or voluntary=
+
+  - Banks have a tendency to loan money through strict methods, but individuals can make a discretionary loan to others without regard to their backgrounds.
+  - After paying their bills, the discretionary spending with the remaining money was also disbursed between the family’s vacations and eating meals at restaurants.
+  - Only one discretionary expense on the businessman’s trip expenditures caught the eye of his boss which he refused to pay for.
+  - When the college student’s parents realized he was only taking three courses this semester, he told them this was his own discretionary decision since he was an adult.
+
+
+
+* [[https://wordsinasentence.com/disheveled-in-a-sentence/][Disheveled]]
+
+  =not neat or tidy=
+
+  - Everyone was shocked the homeless man did not look more disheveled and unclean.
+  - After the twenty-four hour plane ride, all of the passengers looked tired and disheveled.
+  - Jan’s disheveled look is due to the many hours she spent in her garden today.
+  - Since Eli has not had time to comb his hair or wash his face, he looks quite disheveled.
+  - I knew Ellen was tired because her normally perfect hair was completely disheveled.
+  - While the man looks poor and disheveled, he is actually a millionaire.
+  - The inexperienced florist gave me a disheveled bouquet that looked very messy.
+
+
+
+* [[https://wordsinasentence.com/disinter-in-a-sentence/][Disinter]]
+
+  =to take out of the grave or tomb; to unbury; to exhume; to dig up=
+
+  - They needed to disinter the body to retest for forensic evidence.
+  - When they discovered an unmarked tomb, they decided to disinter the remains to see what was inside.
+  - The archaeology team was ready to disinter a mummy from the Great Pyramid at Giza.
+  - In order to learn more about the past civilization, my organization was prepared to disinter any remains.
+
+
+
+* [[https://wordsinasentence.com/dislocate-in-a-sentence/][Dislocate]]
+
+  =to put something out of its usual place; dislodge a skeletal bone=
+
+  - During a High School football game, Bob was hit by a player causing his shoulder to dislocate.
+
+
+
+* [[https://wordsinasentence.com/dismantle-in-a-sentence/][Dismantle]]
+
+  =to take apart into separate pieces=
+
+  - To repair the lawn mower, Brad had to dismantle the engine to replace a failing part.
+
+
+
+* [[https://wordsinasentence.com/dispense-in-a-sentence/][Dispense]]
+
+  =distribute, or give out=
+
+  - Every pharmacist must accurately dispense the medicine into the proper containers in order for no one to get sick.
+  - At the poker table, the dealer will dispense five cards to each person at the beginning of each round.
+  - The teacher felt she needed to dispense compliments to each student so that they could feel better about themselves.
+  - Ms. Hopson realized she wanted to dispense each group of students a stack of worksheets to be completed before the end of the day.
+
+
+
+* [[https://wordsinasentence.com/dissimulation-in-a-sentence/][Dissimulation]]
+
+  =the action of covering the truth=
+
+  - Many anti-government groups believe the president is always conducting acts of dissimulation to deceive the public.
+  - When I took my mother’s car without permission, I refilled the gas tank and left the car exactly as I found it as part of my dissimulation to avoid being caught.
+  - Larry’s dissimulation about his homosexuality included a long list of fake girlfriends.
+  - Although everyone knew Janice lied on the witness stand to protect her mother, the judge had no choice but to punish her for dissimulation.
+  - The politician used every tool of dissimulation he had to keep the media from learning of his latest scandal.
+  - If the killer had been better at dissimulation, the police would not have been able to find evidence linking him to the crime.
+  - In terms of pretending to be someone else, the spy has mastered the art of dissimulation.
+
+
+
+* [[https://wordsinasentence.com/dissuade-in-a-sentence/][Dissuade]]
+
+  =to convince an individual to not try or complete something=
+
+  - Jealous people will always try to dissuade you from trying to be successful.
+  - When the car dealer saw I was trying to leave without purchasing a car, he tried to dissuade me from leaving the lot.
+  - The rain will more than likely dissuade Josh from staying out for too long.
+  - Since James is a stubborn man, he does not let anyone dissuade him from doing what he wants to do.
+  - The high price of the vehicle will dissuade many people from purchasing it.
+  - Although Jenna wants to attend night school, she is probably going to let her selfish husband dissuade her from pursuing her educational goals.
+  - The bartender took the patron’s keys to dissuade him from driving under the influence.
+
+
+
+* [[https://wordsinasentence.com/dither-in-a-sentence/][Dither]]
+
+  =to hesitate or be indecisive=
+
+  - Terry tends to dither when someone asks him where to have lunch, as he is never able to decide on a restaurant.
+  - Because they dither and dally all afternoon, the children rarely finish their homework.
+  - The politician began to dither and stutter when asked his stance on the issue.
+  - Every spot, we dither back and forth when deciding on a vacation spot.
+
+
+* [[https://wordsinasentence.com/doff-in-a-sentence/][Doff]]
+
+  =means to tip or remove (one's hat) in salutation=
+
+  - Before he could doff his hat at the busy woman, she hurried by without paying him any attention.
+  - The lady gave a courtesy as the gentleman moved to doff his hat as they bid each other adieu.
+  - Using his hat to doff, the man bid his family farewell and headed west on his horse.
+  - The only time he failed to doff his hat before leaving for work is when he quarreled with his wife.
+
+
+
+* [[https://wordsinasentence.com/doleful-in-a-sentence/][Doleful]]
+
+  =filled with sadness or grief=
+
+  - My mother’s eyes were doleful after my father moved out of the house.
+  - Because Jane has not received any news of her missing son, she has been doleful to the point of not being able to eat or sleep.
+  - The doleful music made everyone cry.
+  - After I read about the tragedy, I felt doleful for several hours.
+  - The doleful widower tried to drown his misery at the bar.
+  - When the dog is locked in the crate, it makes a doleful noise.
+  - It was obvious from Richard’s doleful expression he was still grieving for his deceased wife.
+
+
+
+* [[https://wordsinasentence.com/dolorous-in-a-sentence/][Dolorous]]
+
+  =experiencing or displaying sadness or pain=
+
+  - The dolorous film made me recall sad times.
+  - At the funeral, the dolorous widow could not stop crying.
+  - Jane was dolorous when her boyfriend was shipped overseas with his army unit.
+  - When I saw the dolorous look on my mother’s face, I knew my father had not survived his emergency surgery.
+  - The doctor believes Francine will be less dolorous after she takes the antidepressants for a few weeks.
+  - After Danielle discovered her husband had a mistress, she was so dolorous she tried to kill herself.
+  - The puppy has been dolorous since its owner left it at the shelter.
+
+
+
+* [[https://wordsinasentence.com/dour-in-a-sentence/][Dour]]
+
+  =forbidding and stern=
+
+  - The dour man would not laugh at any of the comedian’s jokes.
+  - As a teacher, I often have to look dour so my students will take me seriously when I give them instructions.
+  - The dour police officer gave me a speeding ticket for going one mile over the maximum speed.
+  - Because the coach was disappointed in his team’s behavior, he wore a dour expression when he gave his post-game speech.
+  - Mrs. Smith is a dour teacher who seems to enjoy making children stand in the corner.
+  - Although Jeremy had done nothing wrong, he became nervous when he saw the principal approaching with a dour look on his face.
+  - The security guard’s dour expression told me I was not going to be able to slip backstage unnoticed.
+
+
+
+* [[https://wordsinasentence.com/douse-in-a-sentence/][Douse]]
+
+  =to extinguish or snuff out=
+
+  - The announcement of the lottery winner is sure to douse the dreams of millions of people.
+  - Throughout the night, the firemen worked to douse the apartment fire.
+  - Everyone knows you should not attempt to douse a grease fire with water.
+  - If you want to be successful as an actress, you cannot let one rejection douse your dream of becoming a star.
+
+
+
+* [[https://wordsinasentence.com/dowdy-in-a-sentence/][Dowdy]]
+
+  =unstylish, especially in reference to apparel=
+
+  - The clothes I was wearing were apparently too dowdy for the popular kids to acknowledge them, but I really didn’t care for their sense of style.
+  - If you are going to a dance or similar event, you should wear something fashionable instead of something dowdy.
+  - At a fancy party, a t-shirt and shorts could be considered dowdy while a suit or tuxedo would be stylish.
+  - At one time bell bottoms were considered very stylish, but thankfully we now see them as dowdy, the exact opposite.
+
+
+
+* [[https://wordsinasentence.com/draconian-in-a-sentence/][Draconian]]
+
+  =harsh and cruel=
+
+  - Giving someone a life sentence for stealing a loaf of bread is a draconian consequence.
+  - To many, capital punishment is a draconian practice.
+  - In the movie, the draconian villain killed not only his enemies but also their children.
+  - My husband says having to eat my cooking is a type of draconian punishment.
+  - The book is based on the true story of a seventeenth century draconian ruler who brutally killed anyone who disagreed with him.
+  - Under draconian law, even the smallest offenses are punished with harsh consequences.
+  - The draconian budget cuts suggested by the president are going to hurt millions of people.
+
+
+
+* [[https://wordsinasentence.com/drawl-in-a-sentence/][Drawl]]
+
+  =a type of accent branded by slow and drawn out speaking that is usually related to the southern United States=
+
+  - The old banjo player’s songs seemed to go on and on as he picked and sang along in a Southern drawl.
+  - “Yawl come back now,” the woman called in a drawl that was as sugary as it was country.
+  - With her words dripping like molasses, the woman wooed the crowd with her sweet drawl.
+  - The children laughed at the way the man’s sluggish drawl caused him to pronounce words.
+
+
+
+* [[https://wordsinasentence.com/drawn-in-a-sentence/][Drawn]]
+
+  =showing wear from being overworked or not cared for=
+
+  - The student’s once healthy face looked drawn after several late-night study sessions.
+  - Haggard and worn, the homeless man’s drawn appearance represented years of neglect.
+  - Days of no sleep left the workaholic looking drawn and careworn.
+  - After performing in sixty different cities, the haggard performers looked completely drawn and drained.
+
+
+
+* [[https://wordsinasentence.com/drench-in-a-sentence/][Drench]]
+
+  =to cover abundantly=
+
+  - Everyone gasped as my little sister used ketchup to drench every piece of food on her plate.
+  - I watched in horror as the spewing liquid continued to drench every inch of the brand new carpet.
+  - Raging waters advanced and proceeded to fully drench even the homes that sat on high hills.
+  - Even with an umbrella, the rain was so strong that it took only a minute to drench my entire ensemble.
+
+
+
+* [[https://wordsinasentence.com/drivel-in-a-sentence/][Drivel]]
+
+  =pointless babble or chatter=
+
+  - Instead of studying, we wasted the hours talking about irrelevant drivel.
+  - The inexperienced teacher was so nervous during the first class that she talked about drivel completely unrelated to the course.
+  - Since I enjoy eating in silence, I tend to eat lunch at my desk to avoid my colleagues' drivel.
+  - Sometimes listening to my mother’s nonstop drivel makes my head hurt.
+  - When Jack grew tired of hearing his wife’s drivel about her single best friend, he turned up the volume on the television.
+  - Frank decided against voting for the politician after listening to the man's endless drivel during the press event.
+  - Because I was taking a tour with a group of chatty women, I knew I would hear a lot of drivel on the three-hour journey.
+
+
+
+* [[https://wordsinasentence.com/droll-in-a-sentence/][Droll]]
+
+  =oddly humorous; funny=
+
+  - I love this anthology because all the stories are droll and entertaining, rather than making me think too hard.
+  - Despite the droll expression on Charlie’s face, Marian was afraid that he might have been hurt when he tumbled off the swing.
+  - If you’re always going to have that droll smirk on your face, I’ll never tell you when someone has a crush on you.
+  - Everyone enjoyed Professor Hermann’s class because his droll sense of humor made his lectures entertaining.
+  - You gave such a droll example of how to do the job that none of the new employees are taking you seriously.
+  - This children’s story is charming, and the droll illustrations are delightful.
+  - All the children love to hear Uncle Max tell his droll stories about the adventures he and Dad had when they were kids.
+
+
+
+* [[https://wordsinasentence.com/drool-in-a-sentence/][Drool]]
+
+  =spilling saliva from the mouth=
+
+  - Eyeing the steak on the neighboring table, the dieting woman couldn’t help but drool.
+  - Babbling and laughing, the teething baby began to drool all over his bib.
+  - Staring up at the superstar, the fan tried not to drool over the R&B legend.
+  - The man was embarrassed by his tendency to drool all over the pillow while he sleeps.
+
+
+
+* [[https://wordsinasentence.com/droop-in-a-sentence/][Droop]]
+
+  =to hang low; sag=
+
+  - As the heavy children climbed into the hammock, it began to droop low to the ground.
+  - Distracted as the plumber’s pants began to sag and droop, the homeowner tried answer his questions without giggling.
+  - The old hotel mattress was not firm and quickly began to droop in the middle.
+  - After swaying in the wind, the branches of the willow seemed to droop even lower than before.
+
+
+
+* [[https://wordsinasentence.com/dulcet-in-a-sentence/][Dulcet]]
+
+  =comforting and sweet=
+
+  - It does not take long for the baby to be comforted by his mother’s dulcet singing.
+  - Last night I fell asleep listening to the dulcet sounds of soft jazz.
+  - The candles and the piano player’s dulcet music made the restaurant appear very romantic.
+  - As soon as Paige heard the dulcet sound of the flute, she knew she wanted to play the instrument.
+  - I was lulled into a fake world by the hypnotist’s dulcet voice.
+  - When Jackie was ill, her mother often sang a dulcet song to soothe her.
+  - A kind woman with a dulcet voice answered the psychiatric helpline.
+
+
+
+* [[https://wordsinasentence.com/duplicity-in-a-sentence/][Duplicity]]
+
+  =dishonest behavior that is intended to trick someone=
+
+  - Most politicians use duplicity to deceive voters just long enough to get their votes.
+  - Although the swindler used duplicity to trick his victims, he never physically harmed anyone.
+  - The media revealed the police captain’s duplicity in the case of the stolen drug money.
+  - Because Amanda is such a good liar, it is always hard to recognize her duplicity.
+  - Many people suspect the attractive young woman used duplicity to get the elderly man to include her in his will.
+  - Even though the robbers were supposed to be working as a team, each one used duplicity to try and steal from the others.
+  - You could look at the convict and tell he had no problem using duplicity to get whatever he wanted.
+
+
+
+* [[https://wordsinasentence.com/duress-in-a-sentence/][Duress]]
+
+  =force or threats meant to make someone do something=
+
+  - The judge overturned the case because the defendant’s attorney proved that his client’s confession had been given under duress.
+  - The vet said Scampi was licking her nose because she was stressed out, but I didn’t think she had been under any duress.
+  - I think Claire was under duress when she signed the agreement; she never would have voluntarily accepted those conditions.
+  - There are plenty of stories of how people can suddenly acquire superhuman strength when under duress.
+  - After her daughter’s long illness, the family was under economic duress, compelling the bank teller to steal a few large bills from the vault.
+  - The severe duress of having an alcoholic father made Shelley leave home when she was only fifteen.
+  - This attorney is not above placing a witness under duress to maintain his record for the most cases won.
+
+
+
+* [[https://wordsinasentence.com/dyspeptic-in-a-sentence/][Dyspeptic]]
+
+  =irritable and bad-tempered=
+
+  - The dyspeptic man could not determine if he was happy or sad.
+  - Dyspeptic in nature, the woman settled into bed and cried as she murmured about her horrible life.
+  - As dyspeptic and irritable as she was, the woman was in a happy mood when she went to the beach.
+  - His dyspeptic attitude was in full force as he snapped at his employees for minor errors.
+
+
+
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
