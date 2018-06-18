@@ -1,0 +1,2110 @@
+#+TITLE:     E
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/ebb-in-a-sentence/][Ebb]]
+
+  =to decrease gradually=
+
+  - As the protestors left, the noise outside of the building started to ebb.
+  - The water level in the lake will ebb during the drought.
+  - Twenty minutes after I took a pill, the pain in my knee began to ebb.
+  - Because so many people are using the hotel’s Wi-Fi access, the Internet speed has started to ebb.
+
+
+
+* [[https://wordsinasentence.com/eccentric-in-a-sentence/][Eccentric]]
+
+  =displaying behavior that is different from that which is viewed as normal=
+
+  - The eccentric old man never ate anything other than cat food.
+  - Because I often wear clothes that were popular in another century, many people refer to me as eccentric.
+  - Most geniuses come across as eccentric because they are very unique people.
+  - When Jim’s grandmother started to act eccentric, he took her in for a psychiatric evaluation.
+  - The eccentric furniture designer is known for turning unusual objects into tables and chairs.
+  - As my eccentric aunt walked through the country club, she seemed unaware of the people staring at her green hair.
+  - Lisa has this eccentric habit of wearing her socks over her shoes.
+
+
+
+* [[https://wordsinasentence.com/eclectic-in-a-sentence/][Eclectic]]
+
+  =something that is made up of various sources or styles=
+
+  - The restaurant’s menu was eclectic and included foods from a number of ethnic groups and cultures.
+  - In Gerald’s library, you will find an eclectic mix of books because he will read just about anything.
+  - My friends are an eclectic group of individuals who can rarely agree on a single topic.
+  - Because Leslie has travelled all over the world, her home is filled with many eclectic furnishings.
+  - In the historic part of our city, you can find a variety of eclectic shops filled with antique furniture and homemade products from local dealers.
+  - The critic described the collection of poetry as an eclectic book of love notes from mothers to daughters.
+  - Although the art festival was supposed to be eclectic, it mainly consisted of painters trying to sell their work.
+
+
+
+* [[https://wordsinasentence.com/edifice-in-a-sentence/][Edifice]]
+
+  =an imposing building that is rather large=
+
+  - As I stared at the gigantic edifice, I knew I would get lost once I entered the largest mall in the country.
+  - The church on the corner is the oldest edifice in the county.
+  - Before we begin building the edifice the prime minister will call home we need to make detailed architectural plans.
+  - The company’s world headquarters will soon be relocated to a new edifice down the street.
+
+
+
+* [[https://wordsinasentence.com/edify-in-a-sentence/][Edify]]
+
+  =to teach in a way that improves the mind or character=
+
+  - As good Christians, we must seek to edify our neighbors about God and Jesus Christ.
+  - The teacher hoped her speech about good citizenship would edify her students and encourage them to contribute to their communities.
+  - According to my therapist, the best way for me to edify my mind is by spending a small portion of my day in personal reflection.
+  - John’s experience in the military did a lot to edify his character and make him a stronger person.
+  - After John was nearly killed by a drunk driver, he wrote a book to edify those who failed to realize the importance of driving sober.
+  - Beverly wrote the inspirational play to edify individuals who felt as though they had been abandoned.
+  - During the retreat, you will have many opportunities to participate in workshops designed to edify both your character and mind.
+
+
+
+* [[https://wordsinasentence.com/efface-in-a-sentence/][Efface]]
+
+  =to cause something to fade or disappear=
+
+  - If I could efface all of my sad memories, I would be a very happy person.
+  - Marvin hoped to efface the paint by scrubbing the walls with a tough sponge.
+  - Because I could not efface the damage on the box of the doll, I had to lower the selling price of the collectible.
+  - If the candidate is elected, he promises to efface crime from our city.
+  - Lester tried to efface his wife’s presence in the apartment by removing all of her photographs.
+  - Because I hate the blemishes on my face, I always try and efface them with makeup before leaving my house.
+  - The passage of time has done nothing to efface the people’s memories of the tornado that destroyed their small town.
+
+
+
+* [[https://wordsinasentence.com/effervescent-in-a-sentence/][Effervescent]]
+
+  =something fizzy and giving off bubbles or an enthusiastic and lively personality=
+
+  - The soda pop was so effervescent, that its bubbles tickled my nose.
+  - When I added baking soda to the vinegar, it created an effervescent effect.
+  - He had an upset stomach and wanted something effervescent to help calm it.
+  - The teacher called her personality effervescent because she was extremely bubbly.
+
+
+
+* [[https://wordsinasentence.com/effete-in-a-sentence/][Effete]]
+
+  =lacking strength, courage, or spirit=
+
+  - The effete man was scared of his own shadow and hid in the closet during thunderstorms.
+  - Since Jason is an effete boy who fears confrontation, he will more than likely not make his high school football team.
+  - The huge wrestler made fun of the effete man who entered the ring to challenge him.
+  - Because the art critic felt the painting was effete, he reviewed it quite harshly and referred to it as a spiritless effort from the painter.
+  - The professional football player became angry when the press referred to him as an effete athlete who had no passion for his sport.
+  - Because the old man was upset about his wife’s death, he became effete and refused to eat.
+  - The detective pretended to be wheelchair bound as part of his effete man disguise.
+
+
+
+* [[https://wordsinasentence.com/efficacious-in-a-sentence/][Efficacious]]
+
+  =having the power to produce a desired effect=
+
+  - Because my medicine is efficacious, I expect to feel better soon.
+  - Yoga is very efficacious at reducing stress.
+  - Over the years, water therapy has proven quite efficacious at managing arthritis pain.
+  - The most efficacious products for your condition are the ones prescribed by your doctor.
+  - As a loving parent, I believe praise is more efficacious than punishment as a form of discipline.
+  - Perhaps there are more efficacious solutions to dealing with this problem.
+  - Everyone knows the most efficacious way to lose weight is by reducing caloric intake.
+
+
+
+* [[https://wordsinasentence.com/efficacy-in-a-sentence/][Efficacy]]
+
+  =the power to produce a desired effect=
+
+  - Fortunately, the medicine had the efficacy to reduce the amount of pain John was feeling.
+  - Since the traffic reports have not been announced yet, the efficacy of the new drunk driving laws cannot be confirmed.
+  - The instructor’s efficacy was reduced by the lack of educational materials.
+  - Even after conducting the study, the scientist was not able to prove the cancer drug’s efficacy.
+  - Reform critics question the efficacy of juvenile prisons in deterring youth crime.
+  - Since I have never practiced yoga, I cannot speak on its efficacy to provide relaxation.
+  - In order to test the efficacy of its new security system, the bank staged a fake robbery.
+
+
+
+* [[https://wordsinasentence.com/egalitarian-in-a-sentence/][Egalitarian]]
+
+  =symbolized by the idea that all individuals should have the same rights=
+
+  - The dictator laughed at the priest’s egalitarian ideas and refused to believe all people were equal.
+  - Before new laws granted all citizens equal rights, our country was not an egalitarian nation.
+  - The justice system is not egalitarian because often the court sentences rich people less harshly than poor people.
+  - After the vote, it was obvious the people favored an egalitarian government in which everyone would have equal rights.
+
+
+
+* [[https://wordsinasentence.com/egregious-in-a-sentence/][Egregious]]
+
+  =really bad or offensive=
+
+  - Even though Jack was told to behave in church, he was still egregious by talking loudly during the sermon.
+  - Unwilling to put up with misbehavior in her class, the teacher sent the egregious student into the hall.
+  - The judge said it was the most egregious act he had ever seen!
+  - Although the police officers had the right to approach the suspect, they did not have the right to make egregious comments to him.
+  - I cannot believe you use such egregious words when talking to your spouse!
+  - While people appreciated the rapper’s charitable activities, they found many of his lyrics egregious.
+  - Because the beauty pageant contestant made an egregious choice to pose naked, she was kicked out of the competition.
+
+
+
+* [[https://wordsinasentence.com/elaborate-in-a-sentence/][Elaborate]]
+
+  =too much detail=
+
+  - Stephanie’s dress was way too elaborate for a casual dinner.
+  - When the defendant gave an alibi that was too elaborate in its description, he made the police very suspicious.
+  - Only my mother could turn simple sardines into an elaborate seafood pasta dish.
+  - Since Jane wanted a simple wedding, she ignored the elaborate dresses at the bridal boutique and focused on the modest gowns.
+
+
+
+* [[https://wordsinasentence.com/elapse-in-a-sentence/][Elapse]]
+
+  =to pass or move by=
+
+  - Due to my head injury, severe blackouts occurred that meant ten minutes would elapse without knowing what happened.
+  - Because of the rain delay, thirty minutes would elapse before the Detroit Tigers baseball game would begin.
+  - Hours would elapse before we could even get to the movie theater.
+  - Since someone could get lost in the haunted woods, time would elapse and cause them to be transported into a future time period.
+
+
+
+* [[https://wordsinasentence.com/elated-in-a-sentence/][Elated]]
+
+  =very happy and excited=
+
+  - I was so elated on my wedding day.
+  - Why are you so elated about going to a funeral?
+  - Although I was elated about the trip, I was also nervous at the thought of flying for the first time.
+  - The students were elated to wake up to yet another snow day.
+  - Even though Jason was happy to get the job, he was not elated about having a two-hour drive to the office each day.
+  - Margaret was elated when she received a bouquet of flowers.
+  - When the elated audience members learned the singer was not coming on stage, they became angry.
+
+
+
+* [[https://wordsinasentence.com/elegiac-in-a-sentence/][Elegiac]]
+
+  =communicating mourning or sorrow=
+
+  - The elegiac poem brought everyone to tears during the funeral.
+  - When Amy looked at the elegiac greeting card, she realized how much Greg missed her.
+  - The military band played a stirring but elegiac tribute during the general’s burial ceremony.
+  - As soon as I heard the elegiac tune in the movie, I knew a character was about to die.
+
+
+
+* [[https://wordsinasentence.com/elicit-in-a-sentence/][Elicit]]
+
+  =to draw out or bring forth=
+
+  - The comedian hoped his jokes would elicit a great deal of laughter from the audience.
+  - Because Hilary wanted to elicit sympathy votes, she told the story of her fight with cancer a few days before the election.
+  - The police chief hoped to elicit the truth about the missing evidence from the corrupt officer.
+  - Despite the event planner’s hard work, the fundraiser did not elicit the donations needed to keep the shelter open.
+  - In the experiment, the scientist hoped to elicit a response from a mouse by piping high-pitched sounds into a sealed cage.
+  - The charity uses pictures of small children on its website to elicit donations from caring people.
+  - After making up a false story about being mugged, Ginger was unable to elicit any response from the police when she was actually attacked in the park
+
+
+
+* [[https://wordsinasentence.com/elongate-in-a-sentence/][Elongate]]
+
+  =to make something longer=
+
+  - In an attempt to elongate her body, the dancer stood on her tiptoes and stretched her arms up to the sky.
+  - Studies have shown that taking antibiotics for a common cold can actually elongate your illness instead of curing it.
+  - In some parts of Africa and Asia, tribe members elongate their necks by stretching them out through the use of metal rings.
+  - The workout instructor helped the woman elongate her body as much as possible through the stretching of her core.
+
+
+
+* [[https://wordsinasentence.com/eloquent-in-a-sentence/][Eloquent]]
+
+  =having or showing the ability to use language clearly and effectively=
+
+  - When you listen to the eloquent politician speak, you always understand his message.
+  - Margie is an eloquent storyteller who can paint a picture with her words.
+  - As a listener, I found his persuasive speech to be quite eloquent and moving.
+  - The valedictorian’s eloquent words brought the audience to its feet.
+  - According to many British history books, Winston Churchill was an eloquent spokesman who led his people simply with his words.
+  - An eloquent minister can hold his congregation’s attention even during a long sermon.
+  - Despite his sorrow, the soldier managed to give an eloquent eulogy about his fallen comrade.
+
+
+
+* [[https://wordsinasentence.com/elucidate-in-a-sentence/][Elucidate]]
+
+  =to make clear or easy to understand=
+
+  - To make life easy for my math students, I go out of my way to elucidate the complex problems before each test.
+  - An interpreter will elucidate the instructions for all non-English speaking guests.
+  - Since Larry had a stroke, he has been unable to elucidate his thoughts verbally.
+  - I hope my review will elucidate the strengths and weaknesses I found in your novel.
+  - Even if you cannot read, the pictures under the words will elucidate the comic’s message.
+  - The tutorial is designed to elucidate the basic steps of computer programming to novice programmers.
+  - After taking a sign language class, I was able to use my hands to elucidate my thoughts.
+
+
+
+* [[https://wordsinasentence.com/elude-in-a-sentence/][Elude]]
+
+  =to avoid something or someone=
+
+  - The criminal was able to elude the police in the crowded mall.
+  - When Hazel shoplifts, she tries to elude the store cameras.
+  - Jason hurried out of the grocery store in an attempt to elude his crazy ex-girlfriend.
+  - Because the convict developed a full-proof escape plan, he was able to elude capture for over twelve years.
+
+
+
+* [[https://wordsinasentence.com/elusive-in-a-sentence/][Elusive]]
+
+  =difficult to find, catch, or achieve=
+
+  - The police are finding it difficult to catch the elusive bank robber.
+  - Since I am not very good at math, earning an “A” in geometry is an elusive goal for me.
+  - The animal control officer could not catch the elusive dog.
+  - In a house of young triplets, my husband finds sleep to be very elusive.
+  - The hunters finally crept up on their elusive target.
+  - When gas reserves are in short supply, finding affordable fuel can be an elusive mission.
+  - Even though Jeremy has sold over twenty thousand books in the United States, he has found worldwide success to be elusive.
+
+
+
+* [[https://wordsinasentence.com/embellish-in-a-sentence/][Embellish]]
+
+  =to make something sound or look better or more acceptable than it is in reality;
+to make more beautiful and attractive; to decorate=
+
+  - Because Marco has always had a tendency to embellish the truth, no one believed he had been mugged.
+  - Grandma likes to embellish her knitting by hiding secret messages in the pattern.
+  - Dan doesn’t trust the news media because he believes that most reports embellish the facts.
+  - If you want to make your shoes look new, you can always embellish them with some bows or buckles.
+  - Your narrative would be better if you did not embellish it with so many unnecessary details.
+  - Just because you embellish your living room with expensive, modernistic wall sculptures, it doesn’t give you the right to tell me how to decorate my house.
+  - The team asked the principal to budget some funds to embellish their team uniforms with an image of the school mascot.
+
+
+
+* [[https://wordsinasentence.com/embezzle-in-a-sentence/][Embezzle]]
+
+  =to take property or funds one has been entrusted to keep=
+
+  - The teller will be prosecuted if she helped the loan officer embezzle bank funds.
+  - Because Lou was about to lose his home, he felt he had no choice but to embezzle money from his employer.
+  - The conman planned to embezzle the funds he helped the charity raise.
+  - Since Adam was the company accountant, it was easy for him to embezzle money from the employee retirement fund.
+
+
+
+* [[https://wordsinasentence.com/emblematic-in-a-sentence/][Emblematic]]
+
+  =serving as a symbol=
+
+  - The American flag is emblematic of freedom.
+  - Needing an emblematic symbol, my group created its own logo.
+  - “Take me out to the ball game,” is emblematic of American baseball.
+  - Waving to someone is an emblematic way to say goodbye.
+
+
+
+* [[https://wordsinasentence.com/embroider-in-a-sentence/][Embroider]]
+
+  =to decorate cloth by sewing patterns on with thread=
+
+  - I had my mother embroider my initials on my jacket so none of the other kids would take it home.
+  - Because she learned to embroider as a child, the elderly woman had lots of experience sewing patterns on cloth.
+  - My grandmother makes all our gifts by hand and likes to embroider our names on them with thread.
+  - Gold thread will be used when I embroider a star on the back of the cloth pillow.
+
+
+
+* [[https://wordsinasentence.com/eminence-in-a-sentence/][Eminence]]
+
+  =having a superior or famed ability at a specific activity=
+
+  - Taylor Swift’s eminence as a creative singer and style icon make her one of the most well known celebrities in the world.
+  - Stephen King’s eminence in writing horror novels has made him an instant best-seller.
+  - Apple’s eminence in phone and computer technology has only made the brand’s popularity and sales increase.
+  - Elizabeth I’s eminence as an active and outspoken leader has made her one of the most respected queens to ever reign.
+
+
+
+* [[https://wordsinasentence.com/eminent-in-a-sentence/][Eminent]]
+
+  =remarkable, great=
+
+  - Everyone was looking forward to taking the class with such an eminent professor.
+  - As one of the most eminent physicists of the twentieth century, Albert Einstein was awarded the Nobel Prize in 1921.
+  - As one of the world’s most eminent film directors, David Lynch has given audiences a glimpse of places and events they would never be able to imagine on their own.
+  - Despite the fact that Robin is an eminent expert on art, she would rather let her husband choose the pieces they display in their home.
+  - Although Roderick is an eminent businessman in the community, he always finds time to help with several charitable projects.
+  - As an eminent author of many children’s books, he has played a significant role in helping parents raise respectful and well-mannered citizens.
+  - While Winston Churchill and Adolph Hitler are both eminent historical figures, they achieved this status through entirely different means.
+
+
+
+* [[https://wordsinasentence.com/empathy-in-a-sentence/][Empathy]]
+
+  =to understand and share the feelings of another=
+
+  - Because her parents immigrated to the United States to give her a better life, Maria has empathy for illegal aliens.
+  - Bart has a hard time forming healthy relationships because he lacks empathy for others.
+  - As an expression of her empathy, Pat will often apologize even when she has done nothing wrong.
+  - When questioned about his acts, the killer showed no empathy for his victims or their grieving families.
+  - My boss felt no empathy for our team when we failed to meet our project deadline.
+  - Because Tiffany believes the world revolves around her, she is incapable of feeling empathy for other people.
+  - Since he is a cancer survivor himself, my doctor was able to show me a great deal of empathy during my chemotherapy treatments.
+
+
+
+* [[https://wordsinasentence.com/emphatically-in-a-sentence/][Emphatically]]
+
+  =firmly=
+
+  - When my husband and I married, we agreed emphatically to stay together forever.
+  - My little boy wiped the crumbs off his mouth and emphatically told me he did not eat the chocolate chip cookies.
+  - In court, the defendant emphatically maintained she was only joking about killing her husband.
+  - It is expected that the company president will emphatically deny the allegations of embezzlement.
+  - During the teen safety meeting, the police officer spoke emphatically about the importance of parents monitoring their children’s Internet activity.
+  - The mother emphatically told her fourteen-year-old daughter she could not get married.
+  - Even though the criminal emphatically denied his role in the burglary, he was still viewed as a suspect by the detective.
+
+
+
+* [[https://wordsinasentence.com/emulate-in-a-sentence/][Emulate]]
+
+  =to imitate and copy; strive to equal or excel=
+
+  - Aspiring to become a good cook, Kate will emulate the recipes and cooking techniques of chef Emeril.
+  - If you want to be rich, emulate a wealthy entrepreneur.
+  - The boy would emulate his father's morning routine, from reading the newspaper to sipping coffee.
+  - I would rather you find your own voice and not emulate your favorite singer.
+  - Our youth desperately needs to emulate positive role models.
+  - Josh is trying to emulate the success of his well-accomplished mother.
+  - I ask you not to emulate and copy my inventions.
+
+
+
+* [[https://wordsinasentence.com/enamored-in-a-sentence/][Enamored]]
+
+  =in love with a person or thing=
+
+  - Because I was so enamored of my boyfriend, I had to see him constantly.
+  - Jane is enamored with tennis and plays the sport every day.
+  - Despite what my mother thinks, I am not enamored of my cute neighbor.
+  - It is obvious from all the online photos Catherine is enamored with her new home.
+  - Because the Petersons are enamored with the painter’s work, they own eight of his masterpieces.
+  - After Bridgett became enamored with country life, she sold her home in the inner city and moved to a small town in the suburbs.
+  - All the high school boys are enamored with the attractive young teacher.
+
+
+
+* [[https://wordsinasentence.com/encapsulate-in-a-sentence/][Encapsulate]]
+
+  =to concisely express the main point of something=
+
+  - The students wished there was a way to encapsulate their teacher’s lecture so class would end quicker.
+  - As a writer of book blurbs, I have to be able to encapsulate a book summary into a few lines.
+  - Andrew hoped he would be able to encapsulate his feelings for Linda with a greeting card.
+  - During the debate, each political candidate will have to encapsulate his answer in a two- minute response.
+
+
+
+* [[https://wordsinasentence.com/encroach-in-a-sentence/][Encroach]]
+
+  =to slowly move into another person’s area=
+
+  - My coworker is always leaning on my desk and trying to encroach upon my personal space.
+  - In the club, my friend and I enjoy watching the gold diggers attempt to encroach into the VIP area.
+  - The weeds are started to encroach on my vegetable garden.
+  - As the forests continue to be destroyed for development, bears have no choice but to encroach into residential areas to seek food.
+
+
+
+* [[https://wordsinasentence.com/encumber-in-a-sentence/][Encumber]]
+
+  =to restrict or burden in such a way that action is limited=
+
+  - The chaperon’s rules did not encumber the female members of the swim team from sneaking out of their hotel at night.
+  - If you do not want your baby to encumber you when you jog, you should push her in the stroller instead of carrying her.
+  - The tax plan will encumber many average Americans to the point they cannot take yearly vacations.
+  - When Phil saw all of the red tape associated with getting the building permit, he knew the excessive documentation would encumber production on his new home.
+  - The political refugees came to this country so they could live in a nation where they would not have to be concerned about anyone trying to encumber their rights.
+  - If I lose my money in the stock market, the loss will encumber my retire plans and force me to work late in life.
+  - State police are currently working with border authorities to produce ways to encumber the flow of drugs into the country.
+
+
+
+* [[https://wordsinasentence.com/endear-in-a-sentence/][Endear]]
+
+  =to bring about love or fondness=
+
+  - Your rude behavior didn't endear you to the judges.
+  - If you would like to endear yourself to my mother, you should bring her flowers.
+  - Reducing salaries is not a way for a boss to endear himself to his employees.
+  - Because the show’s stars endear themselves to fans, the television program has been on the air for nearly twenty years.
+
+
+
+* [[https://wordsinasentence.com/endemic-in-a-sentence/][Endemic]]
+
+  =native to a specific area or group of individuals=
+
+  - The poisonous snake must have come from another country because it is not endemic to our nation.
+  - In Jared’s flawed family, alcoholism appears to be endemic as most of the older children have drinking problems.
+  - Many of the birds that were once endemic to Africa are now being bred in the United States.
+  - As we hiked through the rainforest, we saw endemic creatures we could not have observed anywhere else on the planet.
+  - The fish is expensive because it is endemic to the Caribbean Sea and has to be flown into the country.
+  - While malaria is rarely seen in the United States, it is endemic to several tropical countries.
+  - Endemic wildlife in the forest is being threatened by the creation of the new subdivision.
+
+
+
+* [[https://wordsinasentence.com/enervate-in-a-sentence/][Enervate]]
+
+  =to deprive of force or  strength; weaken=
+
+  - The wrestler's plan was to deliver a crushing blow which would enervate his opponent.
+  - Because he is much heavier than me, the only way for me to enervate him is by putting a sleeping pill in his food.
+  - The alcohol appeared to enervate Jason's ability to focus at work.
+  - If the hurricane comes near the city, the winds may enervate the flood walls and cause them to crumble.
+  - The general devised an attack to enervate and conquer his enemy.
+  - When the soldiers put dynamite under the bridge, they hoped it would enervate the foundation to the point of collapse.
+  - It was the evil stepmother's intention to enervate her stepdaughter by denying her food and water.
+
+
+
+* [[https://wordsinasentence.com/enigma-in-a-sentence/][Enigma]]
+
+  =someone or something that is mysterious and difficult to understand=
+
+  - To the new detective, the motive of the crime was an enigma.
+  - For years, my distant mother-in-law has been an enigma to me.
+  - The reclusive millionaire was an enigma to everyone in our town.
+  - Sadly, the little girl’s disappearance continues to be an enigma.
+  - Although I have been playing this role play game for a while, the game’s point is still an enigma to me.
+  - The magician’s trick was an enigma to everyone in the audience.
+  - For the determined medical researcher, the cure for cancer is an enigma which must be discovered.
+
+
+
+* [[https://wordsinasentence.com/enmity-meaning-in-a-sentence/][Enmity]]
+
+  =a feeling of strong dislike or opposition=
+
+  - Because the two brothers are both in love with the same girl, there is a great deal of enmity between them.
+  - A wise parent can administer discipline without the incident resulting in enmity.
+  - After learning John was the one who stole his truck, Henry felt a great deal of enmity towards him.
+  - If nothing is done to ease the tensions in the war-torn country, eventually the enmity between the civilians and the military will boil over into another war.
+  - Because of the enmity between the two gangs in my neighborhood, it is not safe to venture outside at night.
+  - Please tell me what I did that caused our friendship to change into enmity!
+  - Even though Frank and Joanna tried to stay together for the children, the enmity between them eventually led Frank to move out of the house.
+
+
+
+
+* [[https://wordsinasentence.com/entrench-in-a-sentence/][Entrench]]
+
+  =to establish an attitude, habit, or belief so strongly that it is not likely to change=
+
+  - Frustrated, the painter had moved on and prepared to entrench herself in another project.
+  - Will you continue to entrench yourself in work or enjoy your weekend off?
+  - The army captain, steadfast in his belief that the enemy would retreat, urged his troop to entrench themselves in the location.
+  - Entrench yourself in the political stance if you must, but please do not push your agenda on me.
+
+
+
+* [[https://wordsinasentence.com/enzyme-in-a-sentence/][Enzyme]]
+
+  =a protein produced by an organism that speeds up chemical reactions=
+
+  - Because she lacked the enzyme necessary to break down food, she had to take a supplement in order to help her system.
+  - An enzyme is composed of amino acids and helps the body to function more efficiently.
+  - She was lactose intolerant because her body doesn’t make the enzyme, lactase.
+  - The salivary glands are responsible for secreting digestive enzymes.
+
+
+
+* [[https://wordsinasentence.com/ephemeral-in-a-sentence/][Ephemeral]]
+
+  =lasting for a brief period of time=
+
+  - Ephemeral art painted on the sidewalks will wash away when it rains.
+  - Because of her ephemeral memory, she forgets things all the time!
+  - The thunderstorm was ephemeral, starting suddenly and gone within seconds.
+  - Did you know that bees have an ephemeral 5 week lifespan?
+  - The homeowner’s excitement was short-lived, with a house fire putting an end to their ephemeral bliss.
+  - While we were waiting in the drive-thru, we sang for our ephemeral amusement.
+  - Though the team hoped that he would stay awhile, the leaving coach’s tenure was ephemeral.
+
+
+
+* [[https://wordsinasentence.com/epitome-in-a-sentence/][Epitome]]
+
+  =an example that represents or expresses something very well=
+
+  - Because our mayor is the epitome of a good citizen, he has been in office for over ten years.
+  - The cheetah is the epitome of a fast-running animal.
+  - As I looked around the crime-ridden neighborhood, I realized the uncaring community was the epitome of everything that was wrong with our city.
+  - The award-winning film is the epitome of classic romance movies.
+  - With his velvet jacket and cigar, Hugh was the epitome of a carefree playboy.
+  - The picture of a soldier planting his country’s flag in the ground is the epitome of a patriotic act.
+  - As I watch the male model stroll down the runway, I must admit he is the epitome of style and fashion.
+
+
+
+* [[https://wordsinasentence.com/equestrian-in-a-sentence/][Equestrian]]
+
+  =associated with horse riding=
+
+  - During the equestrian auction, you’ll have the opportunity to bid on some of the finest horses in the country.
+  - My equestrian teacher has won many horse riding competitions.
+  - In the equestrian trials, riders will compete in timed horseback riding challenges.
+  - The bond between rider and horse is very important in equestrian sports.
+
+
+
+* [[https://wordsinasentence.com/equitable-in-a-sentence/][Equitable]]
+
+  =characterized by equity or fairness; just and right; fair=
+
+  - Both sides agreed to try to find an equitable compromise that would please everyone.
+  - Even though not every argument reached an equitable conclusion, their marriage lasted for almost 63 years.
+  - With each generation we get just a little closer to achieving an equitable society for all people.
+  - Public schools are designed to provide an equitable education to all students, regardless of their background.
+  - Despite Miss Shelly’s efforts to teach the toddlers in her class to be equitable in playing with the toys, Tommy and Nathan never wanted to take turns.
+  - The arbitrator could foresee no equitable outcome in the feud between the two sides.
+  - If you take an equitable approach to meeting new people, you could be rewarded with lasting friendships.
+
+
+
+* [[https://wordsinasentence.com/equivocal-in-a-sentence/][Equivocal]]
+
+  =not clear or certain=
+
+  - Since the defendant’s alibi is equivocal, the jury will disregard it almost instantly.
+  - The scientist’s theory is equivocal and has not been proven in a lab experiment.
+  - Although I watched the entire film, I was still confused by the movie’s equivocal ending that contained many unanswered questions.
+  - The president’s equivocal explanation of the war sounded unclear to the public.
+  - After the first garage was equivocal about the final cost of my repair bill, I decided to go with another automotive shop.
+  - Because the results of the lab test were equivocal, the experiment had to be repeated.
+  - When the football player talked about his upcoming retirement, he sounded equivocal as though he was not certain himself.
+
+
+
+
+* [[https://wordsinasentence.com/eradicate-in-a-sentence/][Eradicate]]
+
+  =to completely destroy; to put an end to=
+
+  - The murderer conceived a sinister plot to systematically eradicate the any witnesses to his foul deed.
+  - Just when you thought scientists had been able to successfully eradicate a dangerous disease, you hear of it breaking out in some isolated part of the world.
+  - If we want to eradicate the growing problem of cheating in schools, parents and communities must get behind teachers.
+  - In an effort to eradicate the malicious gossip going around about the cheerleader, the PTA sponsored an anti-bullying forum.
+  - It is a global mission to eradicate hunger, and many politicians include that mission as part of their platform.
+  - Nowadays, we rarely hear of Guinea Worm Disease because of the successful campaign of 1980s to adopt clean water programs and eradicate the disease.
+  - You would think that a policy to eradicate racism would be a non-issue, but unfortunately, there are too many people out there who still don’t get it.
+
+
+
+* [[https://wordsinasentence.com/erratic-in-a-sentence/][Erratic]]
+
+  =unpredictable=
+
+  - The medicine causes the normally predictable Jacob to behave in an erratic way.
+  - When the police officer saw the man driving in an erratic manner, he pulled him over to question him.
+  - Over the past few weeks, the weather has been erratic making it quite difficult for us to plan outdoor events.
+  - Because Jake started displaying erratic behavior, he was assumed to be on drugs.
+  - When my father drinks, he has erratic mood swings and is somewhat scary.
+  - Mike’s behavior becomes erratic when he gets overly tired.
+  - Since Elizabeth works best in a stable environment, she cannot work on an erratic schedule.
+
+
+
+* [[https://wordsinasentence.com/erudite-in-a-sentence/][Erudite]]
+
+  =having or showing profound knowledge=
+
+  - The room was full of erudite scholars who made the discussion on astronomy fun and interesting.
+  - As a result of having studied abroad several years, Helen has become quite erudite on the subject of art history.
+  - While I learned everything I know from television, my sister can credit being erudite to spending countless hours in the classroom obtaining her doctoral degree.
+  - Our erudite instructor was able to answer every question asked by our class.
+  - In order to understand this book on nuclear physics, I will have to review it with someone who is erudite in that subject.
+  - Because I am failing calculus, I am in search of the most erudite calculus tutor I can find.
+  - Although erudite and experienced, the tired professor found it difficult to teach a simple physics lesson.
+
+
+
+* [[https://wordsinasentence.com/escapism-in-a-sentence/][Escapism]]
+
+  =avoidance of the real world and finding comfort in daydreams and fantasy=
+
+  - Escapism was his favorite pastime, preferring to immerse himself in video games over homework.
+  - The young girl was a professional at escapism, always pretending to be a princess living in a spacious castle when her parents fought.
+  - Escapism at its best, the teen’s dragon game helped his getaway from his grim reality.
+  - Even though she knew she should be studying for her next exam, the student indulged in escapism, day dreaming about becoming a millionaire.
+
+
+
+* [[https://wordsinasentence.com/eschew-in-a-sentence/][Eschew]]
+
+  =to avoid something which you do not think is right or proper=
+
+  - Since my husband believes chores are a woman’s work, he tries to eschew them around the house.
+  - Because I am a strict Christian, I tend to eschew events that are not religious in nature.
+  - True vegetarians eschew food items that come from living animals.
+  - Even though I love coffee, I have chosen to eschew the beverage because of the damage it does to my teeth.
+  - Since Hank has worked hard to be sober for ten years, he tends to eschew parties where alcohol is served.
+  - I eschew smoking because I know it is dangerous to my health.
+  - Because Penelope is allergic to seafood, she will eschew the shrimp cocktail at the party.
+
+
+
+* [[https://wordsinasentence.com/esoteric-in-a-sentence/][Esoteric]]
+
+  =known about or understood by very few people=
+
+  - The medical research was so esoteric that only a few physicians could actually understand the results.
+  - Only a couple of people I know share your esoteric thoughts on those religious principles.
+  - While the writing appeared simple, its meaning was esoteric in the fact only a number of scholars could comprehend it.
+  - Janice loved her country and found it difficult to agree with the esoteric ideas of the terrorists.
+  - When the scientists were not looking for a cure for the disease, they spent their time reviewing esoteric documentation on past experiments.
+  - Unlike the other professors, Margaret was very familiar with esoteric literature from the Middle Ages.
+  - Only the children of royal families are allowed in the esoteric organization.
+
+
+
+* [[https://wordsinasentence.com/espouse-in-a-sentence/][Espouse]]
+
+  =to support an idea, belief, or principle=
+
+  - People who espouse the Paleo diet claim that they feel better and it’s much easier to control their weight.
+  - Although the reviews were rather harsh, Emma had the grace to espouse the criticism and try to improve her performance.
+  - Although most scientists espouse the Big Bang Theory for the beginning of the universe, there is still no absolute proof of how we got here.
+  - While most parents would like their children to espouse the same value system as they do, today’s young people are typically very independent-minded and prefer to follow their own path.
+  - I think most voters espouse the principles that the candidate is including in his platform, so he is almost a shoo-in to win the election.
+  - If you espouse the beliefs of Buddhism, you are not attached to material things.
+  - I was very surprised when I heard about all the important people in this city who espouse the Tea Party movement.
+
+
+
+* [[https://wordsinasentence.com/estrange-in-a-sentence/][Estrange]]
+
+  =to cause a person to be alienated from a group, a friend, or family member=
+
+  - Norma’s depression often causes her to estrange herself from her coworkers by eating lunch alone in her cubicle.
+  - When Mitch realized his political views had altered, he decided to estrange himself from his current political group.
+  - We hope Hank’s upcoming marriage does not estrange him from our bowling group.
+  - If the singer changes his style of music, the alteration may estrange him from his fan base.
+
+
+
+* [[https://wordsinasentence.com/ethereal-in-a-sentence/][Ethereal]]
+
+  =extremely delicate and light in a way that seems too perfect for this world; heavenly or supernatural=
+
+  - An ethereal, ghostly image of a woman suddenly appeared at the edge of the forest, then disappeared as quickly as it had come.
+  - Once the sky began to clear after the storm, the clouds scattered in ethereal formations that resembled a celestial festival.
+  - A sleeping baby has an ethereal, angelic appearance you don’t often find in your wide-awake teenager.
+  - This artist has a supremely delicate brush-stroke that gives his work a feeling of ethereal lightness.
+  - When we saw the ethereal light that glowed on Lauren’s face, we knew that Bryce had kissed her.
+  - The soprano had an ethereal voice that sounded as if she belonged in a choir of angels.
+  - The tapestry was woven so finely that it made the perfect backdrop for her collection of ethereal art miniatures.
+
+
+
+
+* [[https://wordsinasentence.com/eulogistic-in-a-sentence/][Eulogistic]]
+
+  =formally expressing praise; praiseful=
+
+  - In all of his years as a pastor, he had never given such a eulogistic speech as the one honoring his late wife.
+  - Moved by the eulogistic speech given in the wake of his murder, people rallied to honor Dr. King for his great works.
+  - The professor’s lecture had a eulogistic tone, making it clear that he had great respect for his own college mentor.
+  - The eulogistic presentation outlined all of the musician’s greatest accomplishments both personally and professionally.
+
+
+
+* [[https://wordsinasentence.com/euphemism-in-a-sentence/][Euphemism]]
+
+  =a word or expression used to talk about something unpleasant, blunt or offensive without mentioning the thing itself=
+
+  - When I was a kid, my mother described sexual intercourse using a euphemism so I would not be shocked by her words.
+  - While a euphemism may tone down your words, the meaning behind the phrase will remain the same.
+  - He used a euphemism to disguise his real feelings about the incident.
+  - Because people felt the title of “garbage man” was unappealing, the euphemism of “sanitation engineer” was created.
+  - Although Jim used a euphemism to disguise his thoughts on his wife’s adultery, everyone still knew exactly what he meant.
+  - In America, that euphemism means one thing, but in Spain, it means something different.
+  - Sadly, the term “downsizing” has become a frequently used euphemism in the workforce.
+
+
+
+* [[https://wordsinasentence.com/evanescent-in-a-sentence/][Evanescent]]
+
+  =lasting only for a very short time=
+
+  - We would have all missed the evanescent moment if not for the photographer’s speed and skill.
+  - Even though April seemed interested in taking piano lessons now, her mother knew her interest was only evanescent and would soon disappear.
+  - Rainbows are evanescent because they do not stay around for long periods of time.
+  - When the temperature rises, the snow becomes evanescent as it turns into water.
+  - The Hawaiian waterfall is so beautiful it could never be an evanescent memory for anyone.
+  - Unfortunately, the best dreams are always evanescent and end at sunrise.
+  - Your childhood years are evanescent so appreciate each moment before you have to grow up and get a job.
+
+
+
+* [[https://wordsinasentence.com/evince-in-a-sentence-2/][Evince]]
+
+  =to show or express clearly; to make plain=
+
+  - Although they evince an appearance of stability, I’ve heard that their marriage is beginning to crumble.
+  - J.J. hoped that the jury would evince an attitude of compassion, but he could see from their faces that he was probably doomed.
+  - If he claims to evince a knowledge about how to repair your car, don’t let him get near it!
+  - Despite the shock of receiving such news, she was observed to evince no particular emotion at all.
+  - Her sad eyes evince a level of grief much deeper than anyone has imagined.
+  - Without saying a word, a talented actor can evince a wide range of emotions just through facial expressions.
+  - John was never able to evince even a pretense of interest during his economics class.
+
+
+
+* [[https://wordsinasentence.com/eviscerate-in-a-sentence/][Eviscerate]]
+
+  =to remove the item that makes a person or thing strong=
+
+  - We can eviscerate the computer by removing its power supply.
+  - Upon my death, the hospital will eviscerate my body and transplant my useful organs.
+  - The bank is going to eviscerate the crooked businessman by freezing his assets.
+  - During the process of preserving the pharaohs, the Egyptians would eviscerate their deceased bodies.
+
+
+
+* [[https://wordsinasentence.com/evocative-in-a-sentence/][Evocative]]
+
+  =bringing something to mind=
+
+  - Seeing an evocative picture of my mother brought back fond memories of our last days together.
+  - The purpose of the evocative commercial about family reunions is to motivate people to fly home for the holidays.
+  - Looking at my evocative wedding photo made me cry at the thought of my failed marriage.
+  - The teenage girl was amused by the evocative story that transported her back into the days before mobile phones.
+  - When the scientists looked at the evocative artifacts, they were able to visualize the daily lives of the members of the ancient civilization.
+  - News writers often create evocative headlines that establish emotional connections with readers.
+  - As soon as the elderly woman heard the evocative music of her youth, she tried to get out of her wheelchair and dance.
+
+
+
+* [[https://wordsinasentence.com/exacerbate-in-a-sentence/][Exacerbate]]
+
+  =to increase the severity or worsen=
+
+  - Cora chose to exacerbate the argument by throwing a lamp at Mark’s head.
+  - If you do not take your medicine, you condition will exacerbate, and you will feel worse.
+  - My headache started to exacerbate when my daughter played her loud music.
+  - Because I do not wish to exacerbate my mother’s worries, I am not going to tell her about my problems at work.
+  - Although Wallace had no wish to exacerbate the hostile situation, he still knew he had to tell his wife the truth about the missing money.
+  - Do not eat those foods if they exacerbate your heartburn!
+  - If you do not tell the truth in court, you will only exacerbate the charges against you.
+
+
+
+* [[https://wordsinasentence.com/exalted-in-a-sentence/][Exalted]]
+
+  =placed at a high level or in high regard=
+
+  - Reviewers exalted the book, helping it to rise to the top of the Best Seller’s List in just a few days.
+  - The King was exalted and placed as head of the royal family.
+  - Even though he didn’t deserve the promotion the CEO was exalted over other workers inside the company.
+  - A team’s quarterback is often exalted and placed in higher regard than other teammates.
+
+
+
+* [[https://wordsinasentence.com/excavate-in-a-sentence/][Excavate]]
+
+  =to dig a pit or empty space=
+
+  - First, the construction workers had to excavate a large opening in the dirt to create the foundation for the pipes and wires that would be housed underneath the structure.
+  - When the archaeologists began to excavate the ancient burial site in certain prime spots, they unearthed several impressive artifacts from the ground.
+  - In order to build a pool, the pool builders had to excavate a deep crater of at least eight feet deep into the family’s backyard.
+  - To bury the body, the murderer would have to initially excavate the bottom of his basement floor in order to conceal the body with the leftover dirt.
+
+
+
+* [[https://wordsinasentence.com/excise-in-a-sentence/][Excise]]
+
+  =to get rid of something by cutting=
+
+  - It will take several hours for the surgeon to excise the massive tumor.
+  - In order to make the living room appear bigger, I will have the contractor excise one of the dining room walls.
+  - The specialist will not attempt to excise the bullet because of the risk to the patient.
+  - Rather than excise the tooth, the dentist will try to repair the damage.
+
+
+
+* [[https://wordsinasentence.com/exemplar-in-a-sentence/][Exemplar]]
+
+  =a person or thing that serves as a model or ideal=
+
+  - The school valedictorian is an exemplar of the perfect student.
+  - During his speech, the president praised the deceased soldier as an exemplar of courage.
+  - Because my mom is a successful businesswoman and a wonderful mother, she is my exemplar of the perfect woman.
+  - The teacher shared my paper with the class after describing it as an exemplar of a well-written essay.
+
+
+
+* [[https://wordsinasentence.com/exempt-in-a-sentence/][Exempt]]
+
+  =free from a responsibility or obligation that is placed on others=
+
+  - Because I made a perfect score on my last exam, I am exempt from the study guide that all of the other students are required to complete.
+  - Many people wish to be exempt from jury duty, but they nevertheless must attend because it is required by law for them to do so.
+  - The best way to be exempt from punishment by your parents is to not do anything wrong in the first place.
+  - I wish I could be exempt from school attendance today, but I am required to go to school since I am not sick.
+
+
+
+* [[https://wordsinasentence.com/exert-in-a-sentence/][Exert]]
+
+  =to apply bodily or intellectual effort=
+
+  - The dictator will use military force to exert control over his people.
+  - Prior to the election, the candidates will exert themselves by traveling across the country to meet voters.
+  - Did the king really think he could exert power over people who lived thousands of miles away?
+  - The doctor told me to not exert myself by lifting anything heavy.
+
+
+
+* [[https://wordsinasentence.com/exhilarate-in-a-sentence/][Exhilarate]]
+
+  =to make an individual extremely happy=
+
+  - Achieving my weight loss goal is sure to exhilarate me.
+  - According to the author, the purpose of the novel is to exhilarate readers and leave them with happy thoughts.
+  - Dinner with my best friend never fails to exhilarate me.
+  - Because Ellen loves chocolate, your gift of a chocolate cake will exhilarate her.
+
+
+
+* [[https://wordsinasentence.com/exigency-in-a-sentence/][Exigency]]
+
+  =something that is necessary in a particular situation=
+
+  - Rules are an exigency inside of a prison or else chaos will reign.
+  - Although my son hates taking his medicine, it is an exigency that must be consumed for his physical wellbeing.
+  - Bill’s allergy medication is an exigency he always carries around in case of an attack.
+  - Until my attacker is found, I consider having a bodyguard to be an exigency.
+  - Juan’s calming influence was the exigency needed to settle down the unhappy workers.
+  - Because of a decrease in sales, my company has decided the laying off of workers is an exigency that must be executed in order to keep the business afloat.
+  - In the hot summer months, a bottle of water is an exigency if you are planning on running several miles.
+
+
+
+* [[https://wordsinasentence.com/exodus-in-a-sentence/][Exodus]]
+
+  =a situation in which a lot of people leave a place or activity at the same time=
+
+  - One would think that the repeated occurrence of tornadoes in an area would prompt an exodus of the residents to a location with a more stable climate.
+  - Seconds after Bobby positioned the magnifying glass between the sun and the ant hill, thousands of frantic ants began a hurried exodus in search of safer ground.
+  - Because of the exodus of so many refugees from the flooded areas, the town’s public shelters were filled to overflowing.
+  - Tired of the hardships of farming, many families have made an exodus from the country to the city.
+  - As they made their exodus from the sinking ship to the life rafts, some of the passengers began to sing hymns of faith to hold down the level of panic.
+  - The town is dying because of the recent exodus of talented college graduates who have left to find their fortunes in the big city.
+  - The second book of the Old Testament is named Exodus after the story of the thousands of Israelis who followed Moses to escape bondage in Egypt.
+
+
+
+* [[https://wordsinasentence.com/exonerate-in-a-sentence/][Exonerate]]
+
+  =to prove that someone is not guilty of a crime or responsible for a problem, bad situation, etc.=
+
+  - The job of the defense attorney is to exonerate his clients and keep them out of jail.
+  - Unfortunately, the video footage does not exonerate Hank of the robbery charges.
+  - While the accomplice’s testimony did help the police capture their suspect, it did not exonerate the man from his own criminal actions.
+  - The testimony from the witness will hopefully exonerate my husband of the charges.
+  - As your lawyer, I will do everything I can to exonerate your restaurant of the food poisoning accusations.
+  - The arrogant suspect thought he could easily exonerate himself during his testimony.
+  - Once the appeals court receives the new evidence, it is sure to exonerate Mark of all charges and release him from prison.
+
+
+
+* [[https://wordsinasentence.com/exorbitant-in-a-sentence/][Exorbitant]]
+
+  =unreasonably high amount of something; too much=
+
+  - The luxury hotel charges an exorbitant rate of $25 for a single cheeseburger.
+  - Because of my budget, I am unable to make exorbitant purchases.
+  - While the painters charged us an exorbitant fee, they did very little work.
+  - Although Jane's apartment is quite lovely, the rent is a bit exorbitant for my taste.
+  - That lazy security guard is being paid an exorbitant salary to sit on his behind every day!
+  - Sadly, there was no way the family could afford the exorbitant amount of money demanded by the kidnappers.
+  - The exorbitant amount the actress paid for that dress could feed at least ten families for a whole month!
+
+
+
+* [[https://wordsinasentence.com/exorcise-in-a-sentence/][Exorcise]]
+
+  =to drive out an evil spirit from a person, place or thing, especially by an incantation or prayer=
+
+  - Many people turn to religion to exorcise themselves from sin.
+  - The Catholic Church still keeps special priests around ready to exorcise a demon if the need arises.
+  - The movement existed to exorcise the people from their tyrannical government.
+  - He was no monster slayer, but he was always ready to exorcise a demon on command.
+
+
+
+* [[https://wordsinasentence.com/expedient-in-a-sentence/][Expedient]]
+
+  =suitable to the circumstances; appropriate=
+
+  - Given the fact the police will be looking for us soon, it is expedient we leave this apartment quickly!
+  - Even though there are adverse effects to taking the medication, the drug’s manufacturer feels it is expedient to ignore these reactions until a later date.
+  - My mother is a chatty woman and is quite skilled at getting rid of nosey neighbors in an expedient manner.
+  - While the patient has no insurance, it is expedient that the hospital staff take all life-saving methods, regardless of their costs.
+  - While I could have taken the train to New York City, I found it more expedient to fly there.
+  - There has to be a more expedient means of counting the beans than by taking them out of the jar one by one.
+  - After being surrounded by two dozen police officers, the criminal felt it was an expedient time to lower his weapon.
+
+
+
+
+* [[https://wordsinasentence.com/explicate-in-a-sentence/][Explicate]]
+
+  =to describe something in a lot of detail=
+
+  - It took the chemist a long time to explicate the chemical process to the group of financial investors.
+  - If the auditor finds an error in the accounting records, the treasurer will need to explicate the mistake.
+  - The lawyer asked the victim to explicate what happened when the defendant attacked him.
+  - Since I did not understand the medical diagnosis, I asked my doctor to explicate the condition to me.
+
+
+
+* [[https://wordsinasentence.com/explicit-in-a-sentence/][Explicit]]
+
+  =specific about rules or what is required=
+
+  - The difficult woman left the maid explicit details about how she wanted her house cleaned.
+  - Because the agreement was over forty pages long, it took me a long time to read the explicit terms of the divorce settlement.
+  - The bank representative made sure the borrower was aware of the explicit terms of the loan agreement.
+  - Since the tournament rules are explicit, there is no excuse for the athlete’s actions.
+
+
+
+* [[https://wordsinasentence.com/expository-in-a-sentence/][Expository]]
+
+  =designed to define or explain=
+
+  - The play begins with an expository monologue explaining where the story takes place.
+  - As a response to the expository essay question, students should define their five-year goals.
+  - The article is an expository piece that explains the difference between an allergic reaction and an anaphylactic response.
+  - In my expository paper, I described the easiest way to make a delicious “No Bake” chocolate cake.
+
+
+
+* [[https://wordsinasentence.com/exquisite-in-a-sentence/][Exquisite]]
+
+  =especially fine or pleasing; exceptional=
+
+  - She wore an exquisite dress, which left all the guests staring in surprise.
+  - The wedding cake was absolutely exquisite, unlike any he had seen before.
+  - The chef made an exquisite presentation with the meal for the evening.
+  - He had an exquisite sense of style, which was unusual for a country boy.
+  - The painter was known for his exquisite works of art.
+  - Even though it was an exquisite work, the sculpture was too expensive for anyone to show real interest.
+  - He believed that this exquisite necklace would help him woe his girlfriend.
+
+
+
+* [[https://wordsinasentence.com/extant-in-a-sentence-2/][Extant]]
+
+  =still around; not extinct=
+
+  - The extant writings of the ancient philosopher are still quite popular with philosophy students.
+  - Because the jazz singer did not record many of her songs, a number of her best tunes are not extant today.
+  - Although the painter is dead, many of his paintings are extant and available for viewing in the museum named after him.
+  - At thirty-two years of age, Jordan is the extant child who will not move out of her parents’ house.
+
+
+
+* [[https://wordsinasentence.com/exterminate-in-a-sentence/][Exterminate]]
+
+  =to destroy completely=
+
+  - Needing help to exterminate the bugs, the pest control worker ordered specialized repellant.
+  - Although his goal was to exterminate the boll weevil, the farmer accidently killed other helpful insects.
+  - While trying to exterminate the weeds in his outdoor space, the gardener became sick from the fumes.
+  - Because of World War II, Adolf Hitler was not able to exterminate the Jews as he had planned.
+
+
+
+* [[https://wordsinasentence.com/extol-in-a-sentence/][Extol]]
+
+  =to praise=
+
+  - Because Helen and Gina were jealous of their sister’s good fortune, they did not extol her when she won the academic scholarship.
+  - I got angry when my mother would extol my brother’s accomplishments and ignore all the good things I did.
+  - During the church service, the minister went out of his way to extol the contributions of the children’s youth choir.
+  - Unfortunately, young people have began to extol celebrities instead of the real heroes like teachers and police officers.
+  - Shallow people always extol beauty more than they do character.
+  - Everyone wanted to know what words the president would use to extol the fallen heroes.
+  - Because Jeffrey was an arrogant person, he could not extol anyone else without first admiring himself.
+
+
+
+* [[https://wordsinasentence.com/extract-in-a-sentence/][Extract]]
+
+  =to pull an object from something in order to remove it, usually with force=
+
+  - When the dentist noticed the infected tissue around his patient's gums, he knew he would have to extract the tooth.
+  - She used tweezers to extract the splinter from her crying toddler's finger.
+  - The forensic scientist used forceps to extract a bullet lodged in the victim's abdomen.
+  - The phlebotomist eased the syringe into the donor's arm and pulled back the plunger to extract a blood sample.
+
+
+
+* [[https://wordsinasentence.com/extraneous-in-a-sentence/][Extraneous]]
+
+  =not essential or coming from the outside=
+
+  - Because of so many extraneous details in the instructions, Dad wasn’t able to put the toy together in time for Christmas morning.
+  - If you slip off your diet, the extraneous calories will make you gain all the weight you lost.
+  - The extraneous noise from the street was keeping us awake all night, so we moved to a different apartment.
+  - This author seems more interested in impressing his readers than entertaining them; all the extraneous words make this book very tedious.
+  - The speaker had to keep pausing to wait for the extraneous conversation to settle down.
+  - I always check my credit card bills for extraneous charges.
+  - The team received a penalty because there were two extraneous players on the field.
+
+
+
+* [[https://wordsinasentence.com/extremity-in-a-sentence/][Extremity]]
+
+  =a risky measure=
+
+  - Who would have ever thought Patrick would go to the extremity of jumping out of an airplane to propose to Michelle?
+  - The financial extremity could cause us to lose our entire company.
+  - Because Nick was about to lose his home, he was willing to take the extremity of betting his entire paycheck on a single race.
+  - When James assumed the extremity of standing up to my father, I knew he was the right guy for me.
+
+
+
+
+* [[https://wordsinasentence.com/exuberant-in-a-sentence/][Exuberant]]
+
+  =filled with energy and enthusiasm=
+
+  - Even though Johnny was not a very good basketball player, he had such an exuberant attitude that he came across as one of the stars of the team.
+  - The travel writer was exuberant in her praise of the luxurious cruise ship.
+  - Because Carol has such an exuberant personality, she is a fantastic hostess.
+  - The contest winner was exuberant when she learned she would receive the prize money that would allow her to go to college.
+  - Since Marie was not exuberant about playing the piano, she often skipped her lessons.
+  - The exuberant photographer was willing to climb the mountain to get the perfect photo.
+  - When Larry jumped out of his seat, everyone knew he was about to make an exuberant marriage proposal to his girlfriend.
+
+
+
+* [[https://wordsinasentence.com/easel-in-a-sentence/][Easel]]
+
+  =a display stand usually for artwork=
+
+  - The artist’s easel stood in the corner until the artist would get it out to begin painting.
+  - In order for people to know the family is having a garage sale, the mother put the easel at the edge of the driveway with a sign on it.
+  - The famous painter would first stand for hours in front of his easel wondering what he should draw first.
+  - After prying the tripod legs apart of the easel, it stood on its own so the man could set the paper on it.
+
+
+
+* [[https://wordsinasentence.com/ebullient-in-a-sentence/][Ebullient]]
+
+  =cheerful and full of energy=
+
+  - The ebullient song was so uplifting that I danced in my chair.
+  - Because my Uncle Jake has an ebullient personality, he is a great circus clown.
+  - Jack always felt ebullient after drinking his morning coffee.
+  - After being stranded in the airport for eight hours, we were far from ebullient.
+  - When Matthew lost his job, he was no longer ebullient and excited about his future.
+  - My aunt is an ebullient woman who can always see the rainbow through the clouds.
+  - While my friend Sarah always seems to be depressed, her husband Mark is generally ebullient.
+
+
+
+* [[https://wordsinasentence.com/ecstasy-in-a-sentence/][Ecstasy]]
+
+  =a state of intense happiness and pleasure=
+
+  - When I saw my favorite singer in concert, I was in ecstasy.
+  - Whenever I eat at my favorite restaurant, I am in ecstasy.
+  - I was in ecstasy as I embarked on my long-awaited trip to Paris.
+  - We watched in ecstasy as my brother returned from deployment.
+
+
+
+* [[https://wordsinasentence.com/ecstatic-in-a-sentence/][Ecstatic]]
+
+  =exceptionally happy=
+
+  - Ann was ecstatic when Henry finally proposed.
+  - When a snow day was announced, the students were ecstatic to miss a day of school.
+  - Jim has been ecstatic ever since he learned of his wife’s pregnancy.
+  - As soon as the parade started, ecstatic children began to yell.
+  - Because my daughter has always wanted a puppy, she was ecstatic when she received one for her birthday.
+  - Ellen was ecstatic when she won the free trip to Hawaii.
+  - Since Matt’s kids love to swim, they were ecstatic when they learned they were spending the entire summer at the beach.
+
+
+
+* [[https://wordsinasentence.com/ecumenical-in-a-sentence/][Ecumenical]]
+
+  =representing several different Christian churches=
+
+  - Ecumenical services were used to bring Protestants, nondenominational believers, and Baptists all into the same worship center.
+  - Although the school was founded by a Pentecostal church, the school is ecumenical and welcomes students of all faiths.
+  - Ecumenical prayer services are held at the prison as a way to unite inmates of various Christian faiths.
+  - An ecumenical community meeting included leaders of all of the local churches and was used to bring neighborhood unity.
+
+
+
+* [[https://wordsinasentence.com/edgy-in-a-sentence/][Edgy]]
+
+  =jumpy and tense=
+
+  - After the plane continued to shake uncontrollably, the passengers began to get edgy for fear of the plane crashing.
+  - Observing his master talking to an unknown man, the edgy dog didn’t trust the stranger and started to growl at him.
+  - An edgy situation occurred for the workers when their elevator got stuck on the thirteenth floor.
+  - After lack of sleep, the edgy man worried that he would pass out during his important presentation.
+
+
+
+* [[https://wordsinasentence.com/eerie-in-a-sentence/][Eerie]]
+
+  =strange, weird, fear-inspiring=
+
+  - The eerie fog over the lake sent shivers up my spine.
+  - There was an eerie silence on our early morning walk through the cemetery.
+  - An eerie feeling came over us as we watched the scary movie.
+  - The sky became dark quickly, causing an eerie glow from the oncoming storm.
+
+
+
+* [[https://wordsinasentence.com/effeminate-in-a-sentence/][Effeminate]]
+
+  =exhibiting behaviors that are considered feminine=
+
+  - The man’s shoulder length hair made him appear effeminate.
+  - Since my grandmother is old school, she believes any man who wears earrings is effeminate and trying to be a woman.
+  - Hugh’s fake eyelashes made him look more effeminate than masculine.
+  - When the spoiled boy put his hand on his hip during his tantrum, he looked very effeminate.
+  - The openly gay man is happy people recognize him as an effeminate male.
+  - During the team meeting, the coach promised to suspend anyone who bullied the effeminate team member who occasionally dressed in feminine clothing.
+  - Jack wore so much makeup during the play that he looked effeminate under the spotlight.
+
+
+
+* [[https://wordsinasentence.com/effrontery-in-a-sentence/][Effrontery]]
+
+  =shameless boldness=
+
+  - I was shocked by the mugger’s effrontery to kiss me after grabbing my bag.
+  - When the defendant put his feet up on the table, the judge scolded him for his effrontery.
+  - My cheating husband has the effrontery to accuse me of being disloyal to him.
+  - Although I have an advanced degree in business, my boss still had the effrontery to ask me to bring him coffee.
+  - While Matt may have enjoyed dancing on top of the table, the bar owner was not pleased with his effrontery and banned him from the bar.
+  - The two policemen laughed at the effrontery of the criminal who tried to disguise himself by dressing as a woman.
+  - When the speaker stripped down to his underwear, everyone in the audience was shocked at his effrontery.
+
+
+
+* [[https://wordsinasentence.com/effulgent-in-a-sentence/][Effulgent]]
+
+  =glowing; radiant=
+
+  - The effulgent sun was shining brightly as we headed out for our picnic.
+  - As the bride walked down the aisle, she looked effulgent in her sparkling gown.
+  - Ginger’s blonde hair sparkled under the photographer’s effulgent lights.
+  - Using the light of the effulgent moon, the lost girl was able to find her way to the ranger’s station.
+  - The newlyweds kissed before turning to glance at the effulgent sunrise.
+  - After being in a basement for months, the hostage had to wear sunglasses to protect his eyes from the effulgent sunbeams.
+  - Karen was beautiful and effulgent during her pregnancy.
+
+
+
+* [[https://wordsinasentence.com/eidetic-in-a-sentence/][Eidetic]]
+
+  =having the ability to recollect images with great detail=
+
+  - Teachers sometimes doubted Evan’s eidetic memory since he could make a perfect score on the test by only seeing the test information once.
+  - Using her eidetic sense, Karen could identify every quality and aspect of the busy photograph down to its tiniest feature.
+  - At first, the police thought that the psychic only had an eidetic memory, but she proved that she could explain everything at the crime scene even though she had never been there.
+  - The psychologists assessed the students with an eidetic section of the test to determine how much they could remember from a displayed scene.
+
+
+
+
+
+* [[https://wordsinasentence.com/elegy-in-a-sentence/][Elegy]]
+
+  =a poem or song displaying grief or mourning=
+
+  - Since I am not an animal lover, I could only sigh as Ann sang an elegy for her dead cat.
+  - The celebrated poet has been chosen to write an elegy for the people who died in the terrorist attacks.
+  - During the funeral, Clay played an instrumental elegy for his brother.
+  - The teenager wrote an elegy describing the end of her longest relationship.
+
+
+* [[https://wordsinasentence.com/elocution-in-a-sentence/][Elocution]]
+
+  =the way in which an individual reads or speaks in front of others=
+
+  - During the play, the actor’s elocution was so magnificent the audience grew bored whenever he was not on stage.
+  - My mother was a professor of elocution who taught politicians and other important individuals how to speak in front of large groups.
+  - Before I took lessons in elocution, I was an awful speaker.
+  - Ellen will need to work on her elocution before she competes in the public speaking competition.
+  - Because Marilyn’s elocution is excellent, she has been selected to introduce the guest speaker.
+  - The immigrant’s elocution of the English language was very difficult for me to understand.
+  - Since the teacher is grading our presentations mainly on elocution, I am going to rehearse my speech several times.
+
+
+
+
+
+* [[https://wordsinasentence.com/emaciated-in-a-sentence/][Emaciated]]
+
+  =abnormally thin or weak, especially because of illness or a lack of food=
+
+  - Because some sick animals refuse to eat, many of them become emaciated.
+  - The emaciated boy was too weak to fight off his kidnapper.
+  - Although the prisoners of war were fed three meals a day, many of them still looked emaciated and hungry.
+  - Jim’s long-term illness is causing him to appear emaciated.
+  - During the winter, many deer become emaciated and die because of a food shortage.
+  - Our troops are not winning the war because the starving soldiers are too emaciated to fight.
+  - Because the puppy had gone unfed for several days, it was now so emaciated that its bones were visible through its skin.
+
+
+
+* [[https://wordsinasentence.com/emanate-in-a-sentence/][Emanate]]
+
+  =to come out from a source=
+
+  - Hopefully, the fun memories of the weekend will emanate throughout the office and give all the employees a positive outlook this week.
+  - The bright light on the porch seems to emanate throughout the front yard.
+  - After the hurricane, the east coast insurance office will process any claims that emanate from within the southern portion of the United States.
+  - Happiness seemed to emanate from Frances on her wedding day.
+  - At the party, the music will emanate from the speakers and fill the entire room.
+  - A feeling of peace seems to emanate from the nun.
+  - Despite what the ghost hunters said, we have never heard any sounds emanate from the abandoned house.
+
+
+
+* [[https://wordsinasentence.com/emasculate-in-a-sentence/][Emasculate]]
+
+  =emasculate means to lessen a man’s identity=
+
+  - He was worried his pink pants would emasculate him a bit, but he wore them anyway.
+  - Although the strain of his unemployment was stressful, she didn't have to emasculate him.
+  - The general was concerned that the government would emasculate the armed forces for financial reasons.
+  - Trying not to emasculate her boyfriend, she will let him propose to her when he’s ready.
+
+
+
+* [[https://wordsinasentence.com/embargo-in-a-sentence/][Embargo]]
+
+  =a government ban on trade with a specific country=
+
+  - The United State’s embargo against trade with North Korea has created tension between the two countries.
+  - Sadly, the embargo on travel will prevent many charitable organizations from giving aid and food to sick children.
+  - Decades ago Western nations faced a fuel shortage when the Arab countries placed an embargo on petroleum trades.
+  - With the wall gradually falling down between the U.S. and Cuba, the travel embargo should soon be lifted.
+
+
+
+* [[https://wordsinasentence.com/embody-in-a-sentence/][Embody]]
+
+  =to stand as a symbol for something=
+
+  - The national flag is supposed to embody the spirit of our country.
+  - When I learned the name of the restaurant was TaTas, I did not view it as a good name to embody a family dining establishment.
+  - The knight asked the blacksmith to design a shield that would embody his loyalty to his king.
+  - Hopefully, the president’s family will recognize my desire to embody his spirit of giving in my design of his museum.
+
+
+
+* [[https://wordsinasentence.com/embolden-in-a-sentence/][Embolden]]
+
+  =to motivate or inspire=
+
+  - Do you believe alcohol commercials embolden teens to drink?
+  - The coach hoped his speech would embolden his team to win the playoff game.
+  - If we give in to the terrorists, our actions will embolden other terrorist groups to commit the same criminal acts.
+  - The loss will only embolden me to work harder to earn a medal in the next Olympics.
+
+
+
+* [[https://wordsinasentence.com/embroiled-in-a-sentence/][Embroiled]]
+
+  =pulled into a situation=
+
+  - I avoided my two best friends because I did not want to get embroiled in their dispute.
+  - When Jim accepted the package from his friend, he did not realize he had embroiled himself in a drug smuggling operation.
+  - Caroline’s testimony against her sister-in-law embroiled her in a brutal custody battle.
+  - After drinking too much, Marcus became embroiled in a fight with a total stranger.
+
+
+
+* [[https://wordsinasentence.com/emissary-in-a-sentence/][Emissary]]
+
+  =an individual who acts on behalf of another person=
+
+  - The celebrity sent his assistant as an emissary to pick up the movie contract.
+  - As an emissary for his client, the lawyer approached the prosecutor about a plea bargain.
+  - My best friend sent me as an emissary to ask her father if she could attend my sleepover.
+  - When Jackson works as a courier, he functions as an emissary who delivers packages for people.
+  - Because Gregory was the prince’s emissary, he often stood in for the royal at special events.
+  - The district manager is sending his emissary to review branch accounts before the audit takes place.
+  - Since Bill has my power of attorney, he can act as my emissary in financial negotiations.
+
+
+
+* [[https://wordsinasentence.com/enclosure-in-a-sentence/][Enclosure]]
+
+  =an area that is surrounded by a fence, wall, etc=
+
+  - The enclosure was filled with cows grazing in the field.
+  - To keep the cows from straying too far, the farmer built an enclosure.
+  - The secret agents were having a difficult time breaching the enclosure to the lair.
+  - My favorite part of the zoo is looking at the snakes in the reptile enclosure.
+
+
+
+* [[https://wordsinasentence.com/enfeebled-in-a-sentence/][Enfeebled]]
+
+  =made physically or mentally weak or feeble=
+
+  - After months in captivity, the enfeebled survivors were too weak to walk out of the camp.
+  - Several attacks on the troop left it enfeebled and too frail to continue in battle.
+  - Weakened and enfeebled, the exhausted toddler had to be carried everywhere by her parents.
+  - The most enfeebled members of the explorer party were too weakened to finish the hike.
+
+
+
+* [[https://wordsinasentence.com/engaging-in-a-sentence/][Engaging]]
+
+  =connecting; joining=
+
+  - Engaging in a heated argument with her husband, the angry wife refused to back down.
+  - The two sides of the war were still engaging in battle as of early this morning.
+  - Engaging in light conversation while working can help the day go by faster.
+  - Even though they are not engaging in criminal activity at the moment, the police are still watching the family.
+
+
+
+* [[https://wordsinasentence.com/engross-in-a-sentence/][Engross]]
+
+  =to completely capture attention or focus=
+
+  - Hopefully the plastic keys will engross the crying baby for a while.
+  - If the appetizers do not engross the food critic, he will probably pass on our entrées.
+  - The critic gave the movie a poor review because it failed to engross his concentration.
+  - Since football does not engross Alan, he never watches any of the games.
+
+
+
+* [[https://wordsinasentence.com/engulf-in-a-sentence/][Engulf]]
+
+  =to totally surround or cover=
+
+  - The lava will begin to engulf the abandoned city in six hours.
+  - If the fire seems as though it’s going to engulf the entire community, the local fire department will call in nearby stations.
+  - Hopefully the politician’s past mistakes will not engulf his campaign.
+  - Once the levees fall, water will engulf the town.
+
+
+
+* [[https://wordsinasentence.com/enjoin-in-a-sentence/][Enjoin]]
+
+  =to prohibit someone from performing an action=
+
+  - The angry man wanted the judge to grant an injunction to enjoin his ex-wife from selling their vacation home.
+  - After my father learns I failed all of my exams, he will probably take steps to enjoin me from using my credit cards.
+  - The company shareholders are banding together to enjoin the board from agreeing to a merger that would decrease the value of their stock options.
+  - Because I am seeking to enjoin my ex from having visitation rights with my children, I must go to court and explain my reasons to the judge.
+  - The purpose of the injunction is to enjoin the developer from tearing down the historical building.
+  - Once the police heard the young woman’s story, they urged her to get a restraining order to enjoin her ex-boyfriend from stalking her.
+  - The environmentalist hopes to get an injunction to enjoin the city from demolishing the park to build a museum.
+
+
+
+* [[https://wordsinasentence.com/enliven-in-a-sentence/][Enliven]]
+
+  =to revitalize or spice up a situation or activity=
+
+  - Miranda turned on some upbeat techno to enliven the boring party.
+  - In Victorian times, wealthy women would host psychics and mediums to hold a seance to enliven their typical parties.
+  - The teacher added videos and songs to enliven her lessons.
+  - The calculus teacher invented an interactive scavenger hunt in order to enliven a particularly boring lesson.
+
+
+
+* [[https://wordsinasentence.com/ennoble-in-a-sentence/][Ennoble]]
+
+  =to bestow with nobility, honor or grace=
+
+  - The police commissioner will ennoble Officer Pantowski with a medal for service above and beyond the call of duty, an honor few officers receive.
+  - The king had the ability to ennoble men of exceptional honor to knighthood.
+  - Queen Elizabeth saw fit to ennoble Sir Elton John with the honor of knighthood for his contributions to music and charity.
+  - The actress was able to ennoble the character with such grace that it was easy to believe she was a queen.
+
+
+
+* [[https://wordsinasentence.com/ennui-in-a-sentence/][Ennui]]
+
+  =boredom arising from a lack of interest or activity=
+
+  - Ennui crept up in the heart of the lonely child who had nothing better to do than to take a nap.
+  - The course was once full of ennui, but the professor later spiced up our lectures with engaging classroom discussion.
+  - Despite his ennui, Kurt was able to push past his boredom and finish his homework.
+  - The uninterested students were filled with a sense of ennui when listening to the boring lecture.
+  - Change to a more exciting career if you have an ennui for working at your current job.
+  - Let us escape from the ennui of sitting around the house and go to the beach for a change.
+  - Mental ennui took over the minds of the weary prisoners suffering from solitary boredom.
+
+
+
+* [[https://wordsinasentence.com/enraptured-in-a-sentence/][Enraptured]]
+
+  =filled with joy or pleasure=
+
+  - Because I was marrying the man I loved, I was enraptured as I walked down the aisle.
+  - My dog is always enraptured when I return home from work.
+  - When John was reunited with his missing daughter, he was enraptured.
+  - The greedy child is enraptured at the sight of a chocolate chip cookie.
+  - The pregnant woman was enraptured every time she ate her favorite dish.
+  - As soon as the last note was played, the enraptured audience began applauding the orchestra’s performance.
+  - Anna was enraptured as she watched her daughter’s baptism ceremony.
+
+
+
+* [[https://wordsinasentence.com/ensconced-in-a-sentence/][Ensconced]]
+
+  =in a safe and/or comfortable place=
+
+  - There is no need to worry about the witness because she is ensconced in the safe house.
+  - Once my youngest daughter is ensconced in her bed, I can enjoy some quiet time.
+  - Santa Claus is ensconced in the armchair and waiting for the first child to arrive.
+  - As soon as Helen arrived at the beautiful cabin, she knew she could be ensconced there forever.
+  - The rabbit was content to be ensconced in a garden filled with carrots.
+  - When the singer learned she would be ensconced in a luxury hotel while serving her jail sentence, she was very happy.
+  - The alcoholic had been ensconced at the bar all day.
+
+
+
+* [[https://wordsinasentence.com/ensnare-in-a-sentence/][Ensnare]]
+
+  =to catch something in a trap=
+
+  - The hunter’s plan to ensnare the rabbit was cut short by a storm.
+  - A spider succeeded in catching his dinner when he used a web to ensnare the fly.
+  - The rodeo star tried to ensnare the calf with the rope but missed by an inch.
+  - Makeup, hair, and fashion could not ensnare the faithful husband in the woman’s trap.
+
+
+
+* [[https://wordsinasentence.com/entreat-in-a-sentence/][Entreat]]
+
+  =to make an important request; ask for=
+
+  - I entreat you to donate some time tomorrow for our neighborhood clean-up program.
+  - The teacher would entreat her students to arrive to class on time.
+  - Every time I entreat for a raise, my boss says "No!"
+  - Could you kindly entreat that loudmouth to whisper in the library?
+  - I entreat you to answer my question!
+  - The hurricane victims entreat for basic necessities.
+  - Though Jim was caught cheating with another woman, he would entreat his girlfriend for a second chance.
+
+
+
+* [[https://wordsinasentence.com/epidermis-in-a-sentence/][Epidermis]]
+
+  =the external layer or skin=
+
+  - The wooden splinter is just beneath the epidermis of my left foot.
+  - In biology class, we learned the epidermis was the outer layer of skin covering our bodies.
+  - In order to maintain moisture in her epidermis, Kelly applies lotion to her body twice a day.
+  - While the epidermis is constantly peeling, new skin cells are being produced.
+
+
+
+* [[https://wordsinasentence.com/epigram-in-a-sentence/][Epigram]]
+
+  =a brief and witty saying or poem=
+
+  - At his daughter’s wedding, Jason shared a heartwarming epigram he had written.
+  - The cute epigram on the Valentine’s card made me smile.
+  - During his speech, the president quoted an epigram from one of his favorite poets.
+  - Sheila won the poetry contest with her insightful epigram about death.
+  - Unfortunately, there was only one epigram in the comedian’s set that made the audience laugh.
+  - The epigram contest winner will earn ten thousand dollars for writing a short and funny poem about the company's product.
+  - If you can refuse everything but temptation, you are agreeing with a popular epigram made famous by Oscar Wilde.
+
+
+
+* [[https://wordsinasentence.com/epilogue-in-a-sentence/][Epilogue]]
+
+  =a brief speech that ends a literary creation=
+
+  - At the end of the play, the actor presented an epilogue to summarize the tale.
+  - The novel’s epilogue brought closure to the story.
+  - In the epilogue, we learn the book’s main character lives happily ever after with the handsome millionaire.
+  - It took Jane a couple of weeks to write the epilogue that brought her novel to a close.
+
+
+
+* [[https://wordsinasentence.com/epithet-in-a-sentence/][Epithet]]
+
+  =a word or phrase that describes a person or thing=
+
+  - The epithet “Curly” is used to describe the big football player with the curly hair.
+  - Although the epithet “nerd” was once thought uncool, today the word is associated with some of the richest men on the planet.
+  - Gwen earned the epithet of “fastest woman on earth” after winning four gold medals in track in the last Olympics.
+  - Because Janet could not gain weight no matter how much she ate, she did not appreciate the epithet of “beanpole”.
+  - Sarah did not appreciate people calling her the epithet of “poor little rich girl” whenever she complained about the drawbacks of having celebrity parents.
+  - Although John heard the epithet his enemy used to describe him, he simply walked away from the argument.
+  - “Loving wife and mother” was the epithet my father placed on my mother’s headstone.
+
+
+
+* [[https://wordsinasentence.com/epitomized-in-a-sentence/][Epitomized]]
+
+  =used as a model of something=
+
+  - Before his career-ending injury, Dwayne epitomized the world’s idea of the best basketball player on the planet.
+  - The committee selected James to be the new pastor because he epitomized the uppermost standards of honesty and generosity.
+  - When my teacher gave me the award for most outstanding project, she told me my assignment epitomized excellence in the field of physics.
+  - James won the employee of the month award because he epitomized the values of the company.
+  - Because Peterson epitomized the public’s opinion of a great leader, he was elected president by a wide margin.
+  - Jim was a great employee who epitomized the perfect worker by always giving one hundred percent and never missing work unnecessarily.
+  - In his tuxedo and with his hair slicked back, the dashing actor epitomized all the style and glamor of Hollywood.
+
+
+
+* [[https://wordsinasentence.com/equine-in-a-sentence/][Equine]]
+
+  =similar in appearance to or associated with a horse=
+
+  - In high school, people used to bully Gail by calling her “Horsey” because of her equine face.
+  - The horse farm is currently looking to hire someone with experience in equine care.
+  - As a veterinarian specializing in equine health, my father primarily manages the wellbeing of horses.
+  - We have lost five horses to the deadly equine flu.
+
+
+
+* [[https://wordsinasentence.com/equivocate-in-a-sentence/][Equivocate]]
+
+  =to use unclear language especially to deceive or mislead someone=
+
+  - When things are not going Margie’s way, she will often twist the truth and equivocate to put things in her favor.
+  - The crooked salesman went out of his way to equivocate the sales terms to the elderly couple.
+  - Whenever the politician responded to questions, he would avoid eye contact and equivocate his answers.
+  - The prosecutor hoped he could equivocate enough to trick the suspect into confessing.
+  - Rather than give you a straight answer, Henry will always equivocate his response.
+  - As a judge, Helen has taken an oath to never deliberately deceive or equivocate while presiding in a court of law.
+  - I want a man who will be honest with me and not equivocate to spare my feelings.
+
+
+
+* [[https://wordsinasentence.com/ersatz-in-a-sentence/][Ersatz]]
+
+  =replicated from something else yet lacking the original qualities=
+
+  - Do you believe the ersatz beach created by the city will appeal to those who love the natural features of the seashore?
+  - Before segregation ended, minorities were given an ersatz education that was not equal to the education received by their white peers.
+  - The art expert quickly recognized the ersatz painting as a fake.
+  - In the movie, the lead character created an ersatz version of his dead wife.
+  - The dishonest street vendor tried to pass off his ersatz purses as designer goods.
+  - When the chef saw his apprentice using ersatz vanilla flavoring, he scolded the young man for using low quality ingredients.
+  - The jeweler immediately noticed the flaws in the ersatz diamond.
+
+
+
+* [[https://wordsinasentence.com/etch-in-a-sentence/][Etch]]
+
+  =to cut a pattern or picture into a surface especially wood, metal, or glass=
+
+  - Young lovers in the park usually etch their initials into the tree with a heart in the middle.
+  - To keep themselves from getting their identical bikes mixed up, the twins decided to etch their names into the paint in tiny print.
+  - Melinda was embarrassed that someone would etch her name and phone number into the bathroom stall.
+  - With a chisel, the author would always etch his initial into the bottom of his sculptures.
+
+
+
+* [[https://wordsinasentence.com/etymology-in-a-sentence/][Etymology]]
+
+  =the account of how a word came into being=
+
+  - After a bit of research, I found the etymology associated with my name and discovered my name’s meaning.
+  - Some dictionaries will give you a clue to a term’s etymology by identifying the word’s country of origin.
+  - As a vocabulary teacher, Mrs. Smith has a strong interest in etymology.
+  - The etymology of most medical terms can be found in the Latin language.
+
+
+
+* [[https://wordsinasentence.com/eugenics-in-a-sentence/][Eugenics]]
+
+  =a science that tries to improve the human population by controlling which people become parents=
+
+  - When I hear a story of parental neglect, I often feel inclined to agree with the principle of eugenics.
+  - I wasn’t a proponent of eugenics until I became a teacher.
+  - The dystopian society in the novel was run by leaders who adopted eugenics.
+  - The teacher polled the class on their thoughts about eugenics and the role of choosing who should be allowed to parent.
+
+
+
+* [[https://wordsinasentence.com/eulogy-in-a-sentence/][Eulogy]]
+
+  =a speech given to pay tribute to a deceased individual=
+
+  - Ginger sobbed as she listened to the praising words of her father’s eulogy during his funeral.
+  - Because the deceased soldier was such an honorable man, his commanding officer delivered his eulogy.
+  - Rick had to be in control so he planned his funeral and wrote his eulogy before he died.
+  - When Pam said a tender eulogy for her twin sister, everyone in the church cried.
+
+
+
+* [[https://wordsinasentence.com/euphoria-in-a-sentence/][Euphoria]]
+
+  =an excited state of joy, a good feeling, a state of intense happiness=
+
+  - Once the euphoria of winning the lottery has worn off, you will be faced with the prospect of taxes and needy relatives.
+  - After getting the news that the cancer was in remission, Elaine was in such a state of euphoria that even the gloomy weather could not take away her good mood.
+  - When she received her acceptance letter to Harvard, she was in a state of euphoria for weeks.
+  - Although the movie was pretty corny, I loved the feeling of euphoria I got at the end.
+  - After the blissful euphoria of the honeymoon, Amanda and Jason were having trouble facing the humdrum routine of the real world.
+  - Even though the success of the experiment had given the scientists a sense of euphoria, they knew that there was still a lot of work for them to do to get the new formula approved.
+  - If a word could be transformed into a picture, euphoria would be a kid’s face at Disneyland.
+
+
+
+* [[https://wordsinasentence.com/exalt-in-a-sentence/][Exalt]]
+
+  =to glorify or place above others=
+
+  - In church, we exalt our god in prayer.
+  - The controlling husband wanted his wife to ignore everyone else so she could exalt him.
+  - Because the cult leader wants his followers to exalt his words, he preaches his path is the only way to heaven.
+  - For a fee, most celebrities will exalt a product by pretending to like it.
+
+
+
+* [[https://wordsinasentence.com/exaltation-in-a-sentence/][Exaltation]]
+
+  =an intense state of joy=
+
+  - The old woman smiled in exaltation as she finally received her high school diploma.
+  - If the bride is not beaming with exaltation after the wedding, perhaps she married the wrong man.
+  - Tina yelled in exaltation when she saw the car her parents bought her.
+  - Knowing he was in first place, the runner leaped over the finish line and yelled in exaltation.
+
+
+* [[https://wordsinasentence.com/exceptionable-in-a-sentence/][Exceptionable]]
+
+  =objectionable or not acceptable=
+
+  - The nursing home worker’s exceptionable treatment of the patient led to complaints and termination.
+  - Exceptionable laws that blocked black voters from exercising their rights were eventually struck down by the judicial system.
+  - The child’s behavior in public is exceptionable and should be corrected by his mother right away.
+  - Although exceptionable, the man’s racist and inappropriate views are supported by many backwoods constituents.
+
+
+* [[https://wordsinasentence.com/exceptional-in-a-sentence/][Exceptional]]
+
+  =excellent or brilliant=
+
+  - Tiffany had exceptional grades with straight A’s and they were all at one hundred percent.
+  - It was understood why the actress received an Oscar for her exceptional portrayal of the historical figure.
+  - Since the employee came in early, worked late and always performed each task accurately, she received an exceptional evaluation and promotion.
+  - When I won the lottery, I believed it was an exceptional day until all of my unknown relatives started begging for money.
+
+
+
+* [[https://wordsinasentence.com/excerpt-in-a-sentence/][Excerpt]]
+
+  =a short piece or clip from a larger piece of media=
+
+  - Since we had only a few minutes left in class, our teacher could only read an excerpt of the short story to us.
+  - A trailer can be viewed as an excerpt of a movie because it displays a short piece of the film but not the entire feature.
+  - Without permission, the songwriter will not even allow you to use the chorus of one of his songs as an excerpt in your novel.
+  - The book closes with a brief excerpt from the next novel in the series.
+
+
+
+* [[https://wordsinasentence.com/exclaim-in-a-sentence/][Exclaim]]
+
+  =to speak spontaneously and with strong feeling=
+
+  - If you listen on Christmas Day, you'll hear millions of small children exclaim in joy.
+  - When I exclaim, “BINGO”, I hope it is for the largest prize.
+  - My son will exclaim in glee when Iron Man arrives at his birthday party.
+  - If John does not wash his hands before supper, his mother is sure to exclaim, “What a dirty boy you are!”
+
+
+
+* [[https://wordsinasentence.com/excogitate-in-a-sentence/][Excogitate]]
+
+  =to study something intently and carefully=
+
+  - The attorney took several days to excogitate the case documents so that he would be prepared for court.
+  - After the insurance denied her claim, the woman decided to take time and excogitate the insurance carefully.
+  - Because I did not excogitate my study guide very carefully, I failed the midterm test.
+  - The scholar had to excogitate upon the subject since he knew very little about it before studying.
+
+
+
+* [[https://wordsinasentence.com/excoriate-in-a-sentence/][Excoriate]]
+
+  =to severely condemn=
+
+  - In his speech, the president will excoriate the dictator’s actions and state his plans for military intervention.
+  - The church elders have no choice but to publicly excoriate the young minister who was convicted of selling drugs.
+  - How dare my mother excoriate me for getting pregnant outside of marriage when she did the same thing?
+  - The stern judge will excoriate the behavior of the repeat offender by sentencing him to thirty years in prison.
+
+
+
+* [[https://wordsinasentence.com/excruciating-in-a-sentence/][Excruciating]]
+
+  =extremely uncomfortable or painful=
+
+  - After watching the excruciating film, I thought about asking for a refund of my money.
+  - The excruciating labor pains have convinced me to never get pregnant again.
+  - Because I was experiencing excruciating pain, my doctor gave me a strong analgesic.
+  - Sitting on the witness stand was an excruciating experience for the little boy.
+
+
+
+* [[https://wordsinasentence.com/exculpate-in-a-sentence/][Exculpate]]
+
+  =to clear of or free from guilt; exonerate=
+
+  - Diane’s teenage son is constantly getting into some kind of mischief, but he knows how to charm his mother and exculpate himself.
+  - The school officials spent the entire year gathering evidence in an effort to exculpate themselves from the charges brought against them in the cheating scandal.
+  - Because the Breathalyzer test showed that his alcohol level was well over the legal limit, the driver of the car was not able to exculpate himself from responsibility for the accident.
+  - Even though I was always able to exculpate myself from the accusations my boss made against me, I began to believe that he had a serious issue concerning my trustworthiness.
+  - The photographic evidence revealed by the security camera was essential to exculpate the suspect.
+  - When something goes wrong in the government, it is usually up to our elected officials to exculpate themselves so that their constituents will continue to support them.
+  - Because of the prevalence of malpractice litigation, physicians often have to work hard to exculpate themselves when a situation is beyond their control.
+
+
+
+* [[https://wordsinasentence.com/execrable-in-a-sentence/][Execrable]]
+
+  =extremely bad or unpleasant=
+
+  - When Matt accidentally found himself on a racist website, he was outraged by all the execrable comments that had been posted on it.
+  - Because the conditions in that restaurant were so execrable, several diners became ill and the Health Department was called in to shut it down.
+  - Since she considered his betrayal to be an execrable offense that she could never forgive, Laurie told Marcus that she wanted a divorce.
+  - Baxter tried to excuse his execrable conduct on Friday by telling his bride-to-be that bachelor parties almost always involved someone being arrested by the police.
+  - Most of the people who survived the execrable conditions of Nazi concentration camps report that they still experience nightmares of those horrible days.
+  - Of all the execrable ways that people break the law, human trafficking has to be somewhere near the top of the list.
+  - After several executions were botched because of unreliable drugs, many people have been denouncing the lethal injection as an execrable and inhumane form of capital punishment.
+
+
+
+* [[https://wordsinasentence.com/execrate-in-a-sentence/][Execrate]]
+
+  =to strongly condemn an individual or thing=
+
+  - After being injured in the war, my uncle came to execrate gun violence.
+  - The members of the Animal Society execrate people who abuse cats and dogs.
+  - Because my ex-boyfriend stole all my money, I will execrate him during my testimony.
+  - The prosecutor will execrate the defendant’s character in court.
+
+
+
+* [[https://wordsinasentence.com/exhume-in-a-sentence/][Exhume]]
+
+  =to bring something forth, often a body from the ground=
+
+  - When new evidence was introduced, the detective chose to exhume the elderly woman’s body.
+  - The medical examiner will exhume the corpse to see if the man was poisoned.
+  - Because the girl’s parents believed she died of unnatural causes, they decided to exhume her body for a full autopsy.
+  - The rape victim will have to exhume painful memories in court.
+
+
+
+* [[https://wordsinasentence.com/exigent-in-a-sentence/][Exigent]]
+
+  =urgent; needing immediate action=
+
+  - The police should always obtain a search warrant unless there is an emergency or exigent circumstances.
+
+
+
+* [[https://wordsinasentence.com/exiguous-in-a-sentence/][Exiguous]]
+
+  =a tiny quantity of something or a tiny height=
+
+  - Due to my exiguous knowledge of history, I was bound to lose quickly at the history trivia game.
+  - His exiguous size of barely five feet tall caused everyone to look down at the grown man.
+  - Since there was only an exiguous quantity of paint left in the can, the painters would have to go back to the store to get more.
+  - Sally’s poor boyfriend bought her an engagement ring with an exiguous diamond in it that could barely be seen.
+
+
+
+* [[https://wordsinasentence.com/expatiate-in-a-sentence/][Expatiate]]
+
+  =to write or talk about something using many details=
+
+  - During his book signing, Clark will expatiate on his military adventures.
+  - The congressman will expatiate for hours on the importance of educational spending.
+  - A long-winded talker, Carter can expatiate on any topic.
+  - At the investment meeting, Jacques will expatiate on the merits of his business proposal.
+
+
+
+* [[https://wordsinasentence.com/expatriate-in-a-sentence/][Expatriate]]
+
+  =an individual who does not reside in his native nation or birthplace=
+
+  - My uncle is an expatriate who left the country of his birth to live in France.
+  - By all accounts, Superman is an expatriate because he resides in an area other than his birthplace.
+  - Any conversation with a Japanese expatriate will usually revolve around his former life in the United States.
+  - Because Alan is an expatriate, he is a citizen of two nations, the one in which he resides and the one in which he was born.
+
+
+
+* [[https://wordsinasentence.com/expeditious-in-a-sentence/][Expeditious]]
+
+  =performed quickly and efficiently=
+
+  - When I order fast food, I expect to receive it in an expeditious timeframe.
+  - The man was saved because of the doctor’s expeditious diagnosis.
+  - Because expeditious shipping is included with all deliveries, I don’t mind paying the company’s membership fee.
+  - We must search the area in an expeditious manner if we hope to find the missing girl alive.
+
+
+
+* [[https://wordsinasentence.com/expiate-in-a-sentence/][Expiate]]
+
+  =to make up for something=
+
+  - To expiate for breaking his neighbor’s window, John shoveled snow for three months.
+  - During the sentencing, the victim’s mother said there was no way the murderer could expiate for killing her only child.
+  - Jack had no idea how he was going to expiate the fact he forgot his wedding anniversary.
+  - Because Bill lacks an income source, he can only expiate for his crime by collecting trash on the side of the roads.
+
+
+
+* [[https://wordsinasentence.com/expostulate-in-a-sentence/][Expostulate]]
+
+  =to express strong disagreement=
+
+  - My mother never missed the opportunity to expostulate her opinion anytime my father did something which displeased her.
+  - Although I try not to expostulate about my daughter’s clothing choices, I still keep my eye on what goes into her closet.
+  - More than likely, the cat will expostulate his opinion of his new food by leaving it in his dish.
+  - When card players lose a great deal of money during games, they are known to expostulate their feelings quite loudly.
+  - Is it possible for you to expostulate without getting so angry?
+  - Filling out a customer survey is a great way to expostulate your opinion on services received.
+  - Many veterans often expostulate about the lack of medical benefits they receive.
+
+
+
+* [[https://wordsinasentence.com/expound-in-a-sentence/][Expound]]
+
+  =to clarify by providing details=
+
+  - During his graduation speech, Thad will expound his hopes and prayers for his graduating class.
+  - Tonight, the president will expound the nation’s preparedness for the Ebola virus.
+  - The purpose of the author’s second book is to expound the philosophical theories he proposed in his first work.
+  - Since the class period was almost over, the professor promised to expound the topic in our next session.
+  - The last time I made the mistake of asking my science teacher a question I had to listen to him expound on the subject for twenty minutes.
+  - When Bill was asked to expound his answers for the rest of the class, he finally admitted he cheated on the exam.
+  - The company treasurer will expound on the year’s budget during the annual luncheon today.
+
+
+
+* [[https://wordsinasentence.com/expulsion-in-a-sentence/][Expulsion]]
+
+  =a circumstance in which an individual or thing is ejected from a position, place, or group=
+
+  - Since Henry hated school, the threat of expulsion did not make him behave.
+  - Matt’s stealing has resulted in his expulsion from the company.
+  - When the coach found drugs in Keith’s locker, he immediately informed the athlete of his expulsion from the team.
+  - Gail’s expulsion from the university occurred after drugs were found in her dorm room.
+  - Because Mitch knows his father dislikes the gay community, he fears expulsion when he reveals his homosexuality.
+  - The boy knew if he snitched on his classmate he would have to deal with expulsion from his social circle.
+  - If Harold is found guilty of embezzlement, not only will he face expulsion from the company he founded but also jail time.
+
+
+
+* [[https://wordsinasentence.com/expunge-in-a-sentence/][Expunge]]
+
+  =to remove completely=
+
+  - I would like to expunge my ex-husband from my memory.
+  - Because the court has decided to expunge my criminal record, there will be no evidence of my past misdeeds.
+  - The president has the power to expunge any person’s criminal history in order to give that individual a fresh start in life.
+  - When I received the diamond ring from my husband, I felt the need to expunge any anger I previously felt towards him.
+  - A beautiful day at the beach was more than enough to expunge my recall of a difficult week at the office.
+  - After Adam learned he had been wrongly convicted, he asked the judge to expunge his record.
+  - The lawyer did everything he could to expunge his client’s name from the murder scandal.
+
+
+
+* [[https://wordsinasentence.com/expurgate-in-a-sentence/][Expurgate]]
+
+  =to edit out rude, incorrect, offensive, useless, or otherwise undesirable information; to purge=
+
+  - The rapper was told that if he did not expurgate the offensive lyrics from his new song, it would never be played on the radio.
+  - Although Noah tried very hard to expurgate thoughts of Anna from his mind after the breakup, he still saw her face everywhere.
+  - Even though Wikipedia can be a helpful resource, the interactive ability allows anyone to add information that may be inaccurate or expurgate accurate information just because they’re offended by it.
+  - When she discovered that her brother had found her diary, she decided to expurgate some of the juicier parts by tearing out the pages.
+  - Because the author’s novels were widely read by middle schoolers, she received a number of requests to write a different version and expurgate all references to Satanism.
+  - According to historical records, there was a lot of disagreement among the founding fathers over whether or not to expurgate the passages referring to slavery from the Constitution.
+  - While some people believe that some content in Shakespeare’s works is inappropriate for younger readers, they wouldn’t understand it anyway, so why expurgate it?
+
+
+
+* [[https://wordsinasentence.com/extemporize-in-a-sentence/][Extemporize]]
+
+  =to improvise, especially while giving a speech or performing music=
+
+  - The pianist was able to extemporize and play a piece without music or preparation.
+  - Not expecting to win the award, the actress had no speech prepared and had to extemporize.
+  - Giving an impromptu performance, the quick-witted comedian loved to extemporize.
+  - Unable to extemporize, the rapper was called a fraud by fans who were disappointed in his ability to freestyle.
+
+
+
+* [[https://wordsinasentence.com/extenuating-in-a-sentence/][Extenuating]]
+
+  =to lessen the seriousness of a wrong act=
+
+  - The court reduced the criminal’s sentence because of extenuating circumstances.
+  - When reviewing applications, the college admissions board takes into account extenuating factors such as economic background and race.
+  - Under extenuating conditions, even the strictest professor will allow a student to turn in late work.
+  - There are no extenuating factors which would ever make me forgive you for cheating on me!
+  -  The convicted killer was awarded a retrial when the court of appeals reviewed the extenuating factors associated with the first trial.
+  -  Despite my late cancellation, the cruise line is giving me a full refund due to my extenuating issues.
+  - Even though the jury did not know the extenuating circumstances behind the defendant’s actions, they still gave him a light sentence.
+
+
+
+* [[https://wordsinasentence.com/extort-in-a-sentence/][Extort]]
+
+  =to take from an unwilling person=
+
+  - When Larry was fired, he attempted to extort cash from his former boss by threatening to expose the man’s drug addiction.
+  - The con man hoped to extort money from the grocery story by pretending to fall on a slippery floor.
+  - When the photographer tried to extort funds from the celebrity, he was arrested for his misdeed.
+  - Is it true the man held the bank manager's daughter hostage in an attempt to extort money for his son's surgery?
+
+
+
+* [[https://wordsinasentence.com/extradite-in-a-sentence/][Extradite]]
+
+  =to send an individual accused of a crime back to the area in which the crime took place=
+
+  - The state will soon extradite Cal to the island nation where he is wanted for assaulting a young girl.
+  - Because so many countries wanted to prosecute the woman, it was difficult to decide where to extradite her.
+  - Rick did not want the Mexican authorities to extradite him back to the United States where he was accused of murder.
+  - Until the country receives proof of Mark’s guilt, they refuse to extradite him to local authorities.
+  - The man begged the courts to not extradite him because of the harsh prison conditions in the nation where he committed his crimes.
+  - Although the suspected killer has been located, the country where he resides refuses to extradite him so he can be formally charged.
+  - Nations that oppose the death penalty will not extradite criminals to countries who plan on executing the wrongdoer.
+
+
+
+* [[https://wordsinasentence.com/extrude-in-a-sentence/][Extrude]]
+
+  =to force out=
+
+  - The volcano began to extrude lava, shooting the hot liquid up and over its sides.
+  - Pressing on the sides of the bag, the chef continued to extrude icing all over the cupcakes.
+  - The device was used to extrude pasta so that it could be pushed out more quickly.
+  - Squeezing the end of the toothpaste, Tiffany tried to extrude the last little bit out of the tube.
+
+
+
+* [[https://wordsinasentence.com/exuberance-in-a-sentence/][Exuberance]]
+
+  =the quality of being exuberant; cheerful or vigorous enthusiasm; liveliness=
+
+  - Even though the children’s choir had trouble getting the words of the songs right, their exuberance in singing more than made up for it.
+  - When the exuberance of the fans threatened to get out of control, police had to be called in to usher them off the field.
+  - The valedictorian’s commencement speech was very uplifting, and there was a general air of exuberance following the ceremony.
+  - Because of the solemnity of the occasion, we all felt that it was inappropriate to reveal our exuberance at inheriting a fortune from the great-uncle that we had never met.
+  - Something about the youthful exuberance of children is contagious.
+  - It seems to me that the exuberance of the holidays has become cheapened by all the commercialization.
+  - I felt that his exuberance after the election was a little irrational, considering the fact that he was defeated.
+
+
+
+* [[https://wordsinasentence.com/exude-in-a-sentence/][Exude]]
+
+  =to openly display an emotion or quality=
+
+  - After accomplishing so much, he could not help but exude confidence in himself.
+  - As he tried to sneak past the bear, he could not help but exude fear.
+  - Since she won the race, she has been able to exude a definite sense of pride.
+  - Her smile helped to exude an extreme sense of happiness.
+  - He went into his interview ready to exude professionalism.
+  - You must exude confidence if you hope to succeed in an interview.
+  - At the news of her college acceptance, she could not help but exude complete happiness and excitement.
+
+
+
+* [[https://wordsinasentence.com/exult-in-a-sentence/][Exult]]
+
+  =to rejoice, be very happy=
+
+  - Christians are taught to exult Christ above all else.
+  - After winning first place in the contest, his family took him out to exult in the victory.
+  - The cult leader stressed how important it was to exult in the power of their gods.
+  - He felt the need to exult when he discovered that his wife was pregnant.
+  - Though he was taught not to exult anything on earth, his pride pushed him to celebrate with abandon.
+  - You must be careful not to overdo it when you exult in your victory.
+  - He could not help but exult in his life as he watched his bride walk down the aisle.
+
+
+
+* [[https://wordsinasentence.com/exultation-in-a-sentence/][Exultation]]
+
+  =a feeling of triumphant elation or jubilation=
+
+  - Harry’s feelings of exultation intensified as he neared the end of his prison term.
+  - The pirate’s shouts of exultation upon defeating his enemy sent chills of terror up the spines of the captives.
+  - Due to the misery of her loss, Maria could not comprehend the exultation that the bride was experiencing.
+  - The soccer team yelled in exultation as David scored the winning goal.
+
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

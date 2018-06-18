@@ -1,0 +1,3869 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2018-06-18 Mon 21:52 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>E</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">E</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org44b0f34">1. Ebb</a></li>
+<li><a href="#org75eec3f">2. Eccentric</a></li>
+<li><a href="#org2ef69e1">3. Eclectic</a></li>
+<li><a href="#org0d9fbda">4. Edifice</a></li>
+<li><a href="#org0837cc3">5. Edify</a></li>
+<li><a href="#org17c7a05">6. Efface</a></li>
+<li><a href="#org74be35c">7. Effervescent</a></li>
+<li><a href="#org49a3bbb">8. Effete</a></li>
+<li><a href="#org35f7fdf">9. Efficacious</a></li>
+<li><a href="#orgf802edb">10. Efficacy</a></li>
+<li><a href="#org1eb5c63">11. Egalitarian</a></li>
+<li><a href="#orgd7f8fa6">12. Egregious</a></li>
+<li><a href="#orge703ee0">13. Elaborate</a></li>
+<li><a href="#orgb7354e5">14. Elapse</a></li>
+<li><a href="#org2d6602f">15. Elated</a></li>
+<li><a href="#org91d0f13">16. Elegiac</a></li>
+<li><a href="#org238486f">17. Elicit</a></li>
+<li><a href="#org1dd8d35">18. Elongate</a></li>
+<li><a href="#org5e90631">19. Eloquent</a></li>
+<li><a href="#org776d070">20. Elucidate</a></li>
+<li><a href="#org7a55b7b">21. Elude</a></li>
+<li><a href="#org343e08a">22. Elusive</a></li>
+<li><a href="#org2ec06ec">23. Embellish</a></li>
+<li><a href="#orgb90f2c9">24. Embezzle</a></li>
+<li><a href="#orga08fd5e">25. Emblematic</a></li>
+<li><a href="#orgd3e9883">26. Embroider</a></li>
+<li><a href="#orgd81d19c">27. Eminence</a></li>
+<li><a href="#org6e4c09a">28. Eminent</a></li>
+<li><a href="#org4ea5f95">29. Empathy</a></li>
+<li><a href="#org595a809">30. Emphatically</a></li>
+<li><a href="#orga6bbf2c">31. Emulate</a></li>
+<li><a href="#org69a8554">32. Enamored</a></li>
+<li><a href="#org5fac2e2">33. Encapsulate</a></li>
+<li><a href="#orgde3be09">34. Encroach</a></li>
+<li><a href="#org9ca3a13">35. Encumber</a></li>
+<li><a href="#org2a89943">36. Endear</a></li>
+<li><a href="#orga7025a7">37. Endemic</a></li>
+<li><a href="#org4c8d640">38. Enervate</a></li>
+<li><a href="#org48965dc">39. Enigma</a></li>
+<li><a href="#org3f75610">40. Enmity</a></li>
+<li><a href="#orgeaa3eef">41. Entrench</a></li>
+<li><a href="#org0c39868">42. Enzyme</a></li>
+<li><a href="#org3056ebe">43. Ephemeral</a></li>
+<li><a href="#orgdbc9a2d">44. Epitome</a></li>
+<li><a href="#orgc155d58">45. Equestrian</a></li>
+<li><a href="#orgf99439b">46. Equitable</a></li>
+<li><a href="#org36daf2d">47. Equivocal</a></li>
+<li><a href="#orgaa0136e">48. Eradicate</a></li>
+<li><a href="#org0ad463e">49. Erratic</a></li>
+<li><a href="#org26c3f99">50. Erudite</a></li>
+<li><a href="#org0b33a99">51. Escapism</a></li>
+<li><a href="#orgcd277f9">52. Eschew</a></li>
+<li><a href="#org048d88c">53. Esoteric</a></li>
+<li><a href="#org4d7c160">54. Espouse</a></li>
+<li><a href="#org1302083">55. Estrange</a></li>
+<li><a href="#orgeeeeec6">56. Ethereal</a></li>
+<li><a href="#orgc856405">57. Eulogistic</a></li>
+<li><a href="#org72774bb">58. Euphemism</a></li>
+<li><a href="#org30fb5bc">59. Evanescent</a></li>
+<li><a href="#org1a5b64c">60. Evince</a></li>
+<li><a href="#org28d8055">61. Eviscerate</a></li>
+<li><a href="#org1c6b058">62. Evocative</a></li>
+<li><a href="#org3eb6262">63. Exacerbate</a></li>
+<li><a href="#org5791c28">64. Exalted</a></li>
+<li><a href="#orgea291f4">65. Excavate</a></li>
+<li><a href="#org79bd0f4">66. Excise</a></li>
+<li><a href="#org79a72a6">67. Exemplar</a></li>
+<li><a href="#orga9fa054">68. Exempt</a></li>
+<li><a href="#org841e8bf">69. Exert</a></li>
+<li><a href="#orgbe18e2b">70. Exhilarate</a></li>
+<li><a href="#orgfa874fc">71. Exigency</a></li>
+<li><a href="#orgcc89439">72. Exodus</a></li>
+<li><a href="#org71841c9">73. Exonerate</a></li>
+<li><a href="#org9a7fa46">74. Exorbitant</a></li>
+<li><a href="#orgd912291">75. Exorcise</a></li>
+<li><a href="#org11c6c9b">76. Expedient</a></li>
+<li><a href="#org68848ee">77. Explicate</a></li>
+<li><a href="#org0d1dc23">78. Explicit</a></li>
+<li><a href="#orga2047b6">79. Expository</a></li>
+<li><a href="#org89252eb">80. Exquisite</a></li>
+<li><a href="#org74d6a68">81. Extant</a></li>
+<li><a href="#org11ddc6d">82. Exterminate</a></li>
+<li><a href="#orgb7dead6">83. Extol</a></li>
+<li><a href="#org890ad60">84. Extract</a></li>
+<li><a href="#org6305f22">85. Extraneous</a></li>
+<li><a href="#orgea21b2d">86. Extremity</a></li>
+<li><a href="#org1ec1e10">87. Exuberant</a></li>
+<li><a href="#org0cc31d2">88. Easel</a></li>
+<li><a href="#org8481958">89. Ebullient</a></li>
+<li><a href="#orgc68273c">90. Ecstasy</a></li>
+<li><a href="#org0a30684">91. Ecstatic</a></li>
+<li><a href="#org2a3ec8a">92. Ecumenical</a></li>
+<li><a href="#org722bc27">93. Edgy</a></li>
+<li><a href="#org92bf8ce">94. Eerie</a></li>
+<li><a href="#org6d97826">95. Effeminate</a></li>
+<li><a href="#orgd0ca95d">96. Effrontery</a></li>
+<li><a href="#org7bb2444">97. Effulgent</a></li>
+<li><a href="#org25db23b">98. Eidetic</a></li>
+<li><a href="#org540a11d">99. Elegy</a></li>
+<li><a href="#org164d08b">100. Elocution</a></li>
+<li><a href="#org709b671">101. Emaciated</a></li>
+<li><a href="#org41f1445">102. Emanate</a></li>
+<li><a href="#org0293749">103. Emasculate</a></li>
+<li><a href="#org89912ef">104. Embargo</a></li>
+<li><a href="#orgc2462e2">105. Embody</a></li>
+<li><a href="#orge28a66a">106. Embolden</a></li>
+<li><a href="#org0238c89">107. Embroiled</a></li>
+<li><a href="#org6fe0c35">108. Emissary</a></li>
+<li><a href="#org959430a">109. Enclosure</a></li>
+<li><a href="#org99ee677">110. Enfeebled</a></li>
+<li><a href="#orgff65129">111. Engaging</a></li>
+<li><a href="#org1745efc">112. Engross</a></li>
+<li><a href="#org161a020">113. Engulf</a></li>
+<li><a href="#org3fff6e3">114. Enjoin</a></li>
+<li><a href="#orge3367e9">115. Enliven</a></li>
+<li><a href="#org8319777">116. Ennoble</a></li>
+<li><a href="#org9982c2d">117. Ennui</a></li>
+<li><a href="#org130d8bf">118. Enraptured</a></li>
+<li><a href="#org066b573">119. Ensconced</a></li>
+<li><a href="#org1b3da4e">120. Ensnare</a></li>
+<li><a href="#orgacada60">121. Entreat</a></li>
+<li><a href="#orgb876d7d">122. Epidermis</a></li>
+<li><a href="#orgc247fb0">123. Epigram</a></li>
+<li><a href="#org9f52556">124. Epilogue</a></li>
+<li><a href="#orge060b12">125. Epithet</a></li>
+<li><a href="#org4857d67">126. Epitomized</a></li>
+<li><a href="#orgc845bc6">127. Equine</a></li>
+<li><a href="#org6518181">128. Equivocate</a></li>
+<li><a href="#orgc904e99">129. Ersatz</a></li>
+<li><a href="#org6829797">130. Etch</a></li>
+<li><a href="#orge9eec7d">131. Etymology</a></li>
+<li><a href="#orgbacd06a">132. Eugenics</a></li>
+<li><a href="#org9bffae2">133. Eulogy</a></li>
+<li><a href="#orgbb12e4d">134. Euphoria</a></li>
+<li><a href="#org015d103">135. Exalt</a></li>
+<li><a href="#org7c3e2e7">136. Exaltation</a></li>
+<li><a href="#org6f439bb">137. Exceptionable</a></li>
+<li><a href="#orgf87aa55">138. Exceptional</a></li>
+<li><a href="#org79c9b28">139. Excerpt</a></li>
+<li><a href="#org12578b3">140. Exclaim</a></li>
+<li><a href="#orgc6b0a4b">141. Excogitate</a></li>
+<li><a href="#org8d2d0b6">142. Excoriate</a></li>
+<li><a href="#orgd06d2cf">143. Excruciating</a></li>
+<li><a href="#orgbbd77ff">144. Exculpate</a></li>
+<li><a href="#org52685fd">145. Execrable</a></li>
+<li><a href="#orga732889">146. Execrate</a></li>
+<li><a href="#org38e5ea7">147. Exhume</a></li>
+<li><a href="#orgd92d9ba">148. Exigent</a></li>
+<li><a href="#orga1f4720">149. Exiguous</a></li>
+<li><a href="#org03a9e38">150. Expatiate</a></li>
+<li><a href="#org84368ce">151. Expatriate</a></li>
+<li><a href="#orgc26695f">152. Expeditious</a></li>
+<li><a href="#org3f56694">153. Expiate</a></li>
+<li><a href="#org01d12f3">154. Expostulate</a></li>
+<li><a href="#orgfdad353">155. Expound</a></li>
+<li><a href="#org26a5bcf">156. Expulsion</a></li>
+<li><a href="#org9d1f215">157. Expunge</a></li>
+<li><a href="#orgb879377">158. Expurgate</a></li>
+<li><a href="#org70b3a65">159. Extemporize</a></li>
+<li><a href="#org74b9427">160. Extenuating</a></li>
+<li><a href="#org52fbbed">161. Extort</a></li>
+<li><a href="#orge466402">162. Extradite</a></li>
+<li><a href="#orgdef6dfd">163. Extrude</a></li>
+<li><a href="#org892fb4a">164. Exuberance</a></li>
+<li><a href="#orged3f0ed">165. Exude</a></li>
+<li><a href="#org9c56a89">166. Exult</a></li>
+<li><a href="#orgc60d7ff">167. Exultation</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org44b0f34">1. Ebb</a></li>
+<li><a href="#org75eec3f">2. Eccentric</a></li>
+<li><a href="#org2ef69e1">3. Eclectic</a></li>
+<li><a href="#org0d9fbda">4. Edifice</a></li>
+<li><a href="#org0837cc3">5. Edify</a></li>
+<li><a href="#org17c7a05">6. Efface</a></li>
+<li><a href="#org74be35c">7. Effervescent</a></li>
+<li><a href="#org49a3bbb">8. Effete</a></li>
+<li><a href="#org35f7fdf">9. Efficacious</a></li>
+<li><a href="#orgf802edb">10. Efficacy</a></li>
+<li><a href="#org1eb5c63">11. Egalitarian</a></li>
+<li><a href="#orgd7f8fa6">12. Egregious</a></li>
+<li><a href="#orge703ee0">13. Elaborate</a></li>
+<li><a href="#orgb7354e5">14. Elapse</a></li>
+<li><a href="#org2d6602f">15. Elated</a></li>
+<li><a href="#org91d0f13">16. Elegiac</a></li>
+<li><a href="#org238486f">17. Elicit</a></li>
+<li><a href="#org1dd8d35">18. Elongate</a></li>
+<li><a href="#org5e90631">19. Eloquent</a></li>
+<li><a href="#org776d070">20. Elucidate</a></li>
+<li><a href="#org7a55b7b">21. Elude</a></li>
+<li><a href="#org343e08a">22. Elusive</a></li>
+<li><a href="#org2ec06ec">23. Embellish</a></li>
+<li><a href="#orgb90f2c9">24. Embezzle</a></li>
+<li><a href="#orga08fd5e">25. Emblematic</a></li>
+<li><a href="#orgd3e9883">26. Embroider</a></li>
+<li><a href="#orgd81d19c">27. Eminence</a></li>
+<li><a href="#org6e4c09a">28. Eminent</a></li>
+<li><a href="#org4ea5f95">29. Empathy</a></li>
+<li><a href="#org595a809">30. Emphatically</a></li>
+<li><a href="#orga6bbf2c">31. Emulate</a></li>
+<li><a href="#org69a8554">32. Enamored</a></li>
+<li><a href="#org5fac2e2">33. Encapsulate</a></li>
+<li><a href="#orgde3be09">34. Encroach</a></li>
+<li><a href="#org9ca3a13">35. Encumber</a></li>
+<li><a href="#org2a89943">36. Endear</a></li>
+<li><a href="#orga7025a7">37. Endemic</a></li>
+<li><a href="#org4c8d640">38. Enervate</a></li>
+<li><a href="#org48965dc">39. Enigma</a></li>
+<li><a href="#org3f75610">40. Enmity</a></li>
+<li><a href="#orgeaa3eef">41. Entrench</a></li>
+<li><a href="#org0c39868">42. Enzyme</a></li>
+<li><a href="#org3056ebe">43. Ephemeral</a></li>
+<li><a href="#orgdbc9a2d">44. Epitome</a></li>
+<li><a href="#orgc155d58">45. Equestrian</a></li>
+<li><a href="#orgf99439b">46. Equitable</a></li>
+<li><a href="#org36daf2d">47. Equivocal</a></li>
+<li><a href="#orgaa0136e">48. Eradicate</a></li>
+<li><a href="#org0ad463e">49. Erratic</a></li>
+<li><a href="#org26c3f99">50. Erudite</a></li>
+<li><a href="#org0b33a99">51. Escapism</a></li>
+<li><a href="#orgcd277f9">52. Eschew</a></li>
+<li><a href="#org048d88c">53. Esoteric</a></li>
+<li><a href="#org4d7c160">54. Espouse</a></li>
+<li><a href="#org1302083">55. Estrange</a></li>
+<li><a href="#orgeeeeec6">56. Ethereal</a></li>
+<li><a href="#orgc856405">57. Eulogistic</a></li>
+<li><a href="#org72774bb">58. Euphemism</a></li>
+<li><a href="#org30fb5bc">59. Evanescent</a></li>
+<li><a href="#org1a5b64c">60. Evince</a></li>
+<li><a href="#org28d8055">61. Eviscerate</a></li>
+<li><a href="#org1c6b058">62. Evocative</a></li>
+<li><a href="#org3eb6262">63. Exacerbate</a></li>
+<li><a href="#org5791c28">64. Exalted</a></li>
+<li><a href="#orgea291f4">65. Excavate</a></li>
+<li><a href="#org79bd0f4">66. Excise</a></li>
+<li><a href="#org79a72a6">67. Exemplar</a></li>
+<li><a href="#orga9fa054">68. Exempt</a></li>
+<li><a href="#org841e8bf">69. Exert</a></li>
+<li><a href="#orgbe18e2b">70. Exhilarate</a></li>
+<li><a href="#orgfa874fc">71. Exigency</a></li>
+<li><a href="#orgcc89439">72. Exodus</a></li>
+<li><a href="#org71841c9">73. Exonerate</a></li>
+<li><a href="#org9a7fa46">74. Exorbitant</a></li>
+<li><a href="#orgd912291">75. Exorcise</a></li>
+<li><a href="#org11c6c9b">76. Expedient</a></li>
+<li><a href="#org68848ee">77. Explicate</a></li>
+<li><a href="#org0d1dc23">78. Explicit</a></li>
+<li><a href="#orga2047b6">79. Expository</a></li>
+<li><a href="#org89252eb">80. Exquisite</a></li>
+<li><a href="#org74d6a68">81. Extant</a></li>
+<li><a href="#org11ddc6d">82. Exterminate</a></li>
+<li><a href="#orgb7dead6">83. Extol</a></li>
+<li><a href="#org890ad60">84. Extract</a></li>
+<li><a href="#org6305f22">85. Extraneous</a></li>
+<li><a href="#orgea21b2d">86. Extremity</a></li>
+<li><a href="#org1ec1e10">87. Exuberant</a></li>
+<li><a href="#org0cc31d2">88. Easel</a></li>
+<li><a href="#org8481958">89. Ebullient</a></li>
+<li><a href="#orgc68273c">90. Ecstasy</a></li>
+<li><a href="#org0a30684">91. Ecstatic</a></li>
+<li><a href="#org2a3ec8a">92. Ecumenical</a></li>
+<li><a href="#org722bc27">93. Edgy</a></li>
+<li><a href="#org92bf8ce">94. Eerie</a></li>
+<li><a href="#org6d97826">95. Effeminate</a></li>
+<li><a href="#orgd0ca95d">96. Effrontery</a></li>
+<li><a href="#org7bb2444">97. Effulgent</a></li>
+<li><a href="#org25db23b">98. Eidetic</a></li>
+<li><a href="#org540a11d">99. Elegy</a></li>
+<li><a href="#org164d08b">100. Elocution</a></li>
+<li><a href="#org709b671">101. Emaciated</a></li>
+<li><a href="#org41f1445">102. Emanate</a></li>
+<li><a href="#org0293749">103. Emasculate</a></li>
+<li><a href="#org89912ef">104. Embargo</a></li>
+<li><a href="#orgc2462e2">105. Embody</a></li>
+<li><a href="#orge28a66a">106. Embolden</a></li>
+<li><a href="#org0238c89">107. Embroiled</a></li>
+<li><a href="#org6fe0c35">108. Emissary</a></li>
+<li><a href="#org959430a">109. Enclosure</a></li>
+<li><a href="#org99ee677">110. Enfeebled</a></li>
+<li><a href="#orgff65129">111. Engaging</a></li>
+<li><a href="#org1745efc">112. Engross</a></li>
+<li><a href="#org161a020">113. Engulf</a></li>
+<li><a href="#org3fff6e3">114. Enjoin</a></li>
+<li><a href="#orge3367e9">115. Enliven</a></li>
+<li><a href="#org8319777">116. Ennoble</a></li>
+<li><a href="#org9982c2d">117. Ennui</a></li>
+<li><a href="#org130d8bf">118. Enraptured</a></li>
+<li><a href="#org066b573">119. Ensconced</a></li>
+<li><a href="#org1b3da4e">120. Ensnare</a></li>
+<li><a href="#orgacada60">121. Entreat</a></li>
+<li><a href="#orgb876d7d">122. Epidermis</a></li>
+<li><a href="#orgc247fb0">123. Epigram</a></li>
+<li><a href="#org9f52556">124. Epilogue</a></li>
+<li><a href="#orge060b12">125. Epithet</a></li>
+<li><a href="#org4857d67">126. Epitomized</a></li>
+<li><a href="#orgc845bc6">127. Equine</a></li>
+<li><a href="#org6518181">128. Equivocate</a></li>
+<li><a href="#orgc904e99">129. Ersatz</a></li>
+<li><a href="#org6829797">130. Etch</a></li>
+<li><a href="#orge9eec7d">131. Etymology</a></li>
+<li><a href="#orgbacd06a">132. Eugenics</a></li>
+<li><a href="#org9bffae2">133. Eulogy</a></li>
+<li><a href="#orgbb12e4d">134. Euphoria</a></li>
+<li><a href="#org015d103">135. Exalt</a></li>
+<li><a href="#org7c3e2e7">136. Exaltation</a></li>
+<li><a href="#org6f439bb">137. Exceptionable</a></li>
+<li><a href="#orgf87aa55">138. Exceptional</a></li>
+<li><a href="#org79c9b28">139. Excerpt</a></li>
+<li><a href="#org12578b3">140. Exclaim</a></li>
+<li><a href="#orgc6b0a4b">141. Excogitate</a></li>
+<li><a href="#org8d2d0b6">142. Excoriate</a></li>
+<li><a href="#orgd06d2cf">143. Excruciating</a></li>
+<li><a href="#orgbbd77ff">144. Exculpate</a></li>
+<li><a href="#org52685fd">145. Execrable</a></li>
+<li><a href="#orga732889">146. Execrate</a></li>
+<li><a href="#org38e5ea7">147. Exhume</a></li>
+<li><a href="#orgd92d9ba">148. Exigent</a></li>
+<li><a href="#orga1f4720">149. Exiguous</a></li>
+<li><a href="#org03a9e38">150. Expatiate</a></li>
+<li><a href="#org84368ce">151. Expatriate</a></li>
+<li><a href="#orgc26695f">152. Expeditious</a></li>
+<li><a href="#org3f56694">153. Expiate</a></li>
+<li><a href="#org01d12f3">154. Expostulate</a></li>
+<li><a href="#orgfdad353">155. Expound</a></li>
+<li><a href="#org26a5bcf">156. Expulsion</a></li>
+<li><a href="#org9d1f215">157. Expunge</a></li>
+<li><a href="#orgb879377">158. Expurgate</a></li>
+<li><a href="#org70b3a65">159. Extemporize</a></li>
+<li><a href="#org74b9427">160. Extenuating</a></li>
+<li><a href="#org52fbbed">161. Extort</a></li>
+<li><a href="#orge466402">162. Extradite</a></li>
+<li><a href="#orgdef6dfd">163. Extrude</a></li>
+<li><a href="#org892fb4a">164. Exuberance</a></li>
+<li><a href="#orged3f0ed">165. Exude</a></li>
+<li><a href="#org9c56a89">166. Exult</a></li>
+<li><a href="#orgc60d7ff">167. Exultation</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Author</td>
+<td class="org-left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="org-left">Date</td>
+<td class="org-left">2018-06-18 21:52:06</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+
+<div id="outline-container-org44b0f34" class="outline-2">
+<h2 id="org44b0f34"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/ebb-in-a-sentence/">Ebb</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>to decrease gradually</code>
+</p>
+
+<ul class="org-ul">
+<li>As the protestors left, the noise outside of the building started to ebb.</li>
+<li>The water level in the lake will ebb during the drought.</li>
+<li>Twenty minutes after I took a pill, the pain in my knee began to ebb.</li>
+<li>Because so many people are using the hotel’s Wi-Fi access, the Internet speed has started to ebb.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org75eec3f" class="outline-2">
+<h2 id="org75eec3f"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/eccentric-in-a-sentence/">Eccentric</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>displaying behavior that is different from that which is viewed as normal</code>
+</p>
+
+<ul class="org-ul">
+<li>The eccentric old man never ate anything other than cat food.</li>
+<li>Because I often wear clothes that were popular in another century, many people refer to me as eccentric.</li>
+<li>Most geniuses come across as eccentric because they are very unique people.</li>
+<li>When Jim’s grandmother started to act eccentric, he took her in for a psychiatric evaluation.</li>
+<li>The eccentric furniture designer is known for turning unusual objects into tables and chairs.</li>
+<li>As my eccentric aunt walked through the country club, she seemed unaware of the people staring at her green hair.</li>
+<li>Lisa has this eccentric habit of wearing her socks over her shoes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2ef69e1" class="outline-2">
+<h2 id="org2ef69e1"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/eclectic-in-a-sentence/">Eclectic</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>something that is made up of various sources or styles</code>
+</p>
+
+<ul class="org-ul">
+<li>The restaurant’s menu was eclectic and included foods from a number of ethnic groups and cultures.</li>
+<li>In Gerald’s library, you will find an eclectic mix of books because he will read just about anything.</li>
+<li>My friends are an eclectic group of individuals who can rarely agree on a single topic.</li>
+<li>Because Leslie has travelled all over the world, her home is filled with many eclectic furnishings.</li>
+<li>In the historic part of our city, you can find a variety of eclectic shops filled with antique furniture and homemade products from local dealers.</li>
+<li>The critic described the collection of poetry as an eclectic book of love notes from mothers to daughters.</li>
+<li>Although the art festival was supposed to be eclectic, it mainly consisted of painters trying to sell their work.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0d9fbda" class="outline-2">
+<h2 id="org0d9fbda"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/edifice-in-a-sentence/">Edifice</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>an imposing building that is rather large</code>
+</p>
+
+<ul class="org-ul">
+<li>As I stared at the gigantic edifice, I knew I would get lost once I entered the largest mall in the country.</li>
+<li>The church on the corner is the oldest edifice in the county.</li>
+<li>Before we begin building the edifice the prime minister will call home we need to make detailed architectural plans.</li>
+<li>The company’s world headquarters will soon be relocated to a new edifice down the street.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0837cc3" class="outline-2">
+<h2 id="org0837cc3"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/edify-in-a-sentence/">Edify</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>to teach in a way that improves the mind or character</code>
+</p>
+
+<ul class="org-ul">
+<li>As good Christians, we must seek to edify our neighbors about God and Jesus Christ.</li>
+<li>The teacher hoped her speech about good citizenship would edify her students and encourage them to contribute to their communities.</li>
+<li>According to my therapist, the best way for me to edify my mind is by spending a small portion of my day in personal reflection.</li>
+<li>John’s experience in the military did a lot to edify his character and make him a stronger person.</li>
+<li>After John was nearly killed by a drunk driver, he wrote a book to edify those who failed to realize the importance of driving sober.</li>
+<li>Beverly wrote the inspirational play to edify individuals who felt as though they had been abandoned.</li>
+<li>During the retreat, you will have many opportunities to participate in workshops designed to edify both your character and mind.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org17c7a05" class="outline-2">
+<h2 id="org17c7a05"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/efface-in-a-sentence/">Efface</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>to cause something to fade or disappear</code>
+</p>
+
+<ul class="org-ul">
+<li>If I could efface all of my sad memories, I would be a very happy person.</li>
+<li>Marvin hoped to efface the paint by scrubbing the walls with a tough sponge.</li>
+<li>Because I could not efface the damage on the box of the doll, I had to lower the selling price of the collectible.</li>
+<li>If the candidate is elected, he promises to efface crime from our city.</li>
+<li>Lester tried to efface his wife’s presence in the apartment by removing all of her photographs.</li>
+<li>Because I hate the blemishes on my face, I always try and efface them with makeup before leaving my house.</li>
+<li>The passage of time has done nothing to efface the people’s memories of the tornado that destroyed their small town.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org74be35c" class="outline-2">
+<h2 id="org74be35c"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/effervescent-in-a-sentence/">Effervescent</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>something fizzy and giving off bubbles or an enthusiastic and lively personality</code>
+</p>
+
+<ul class="org-ul">
+<li>The soda pop was so effervescent, that its bubbles tickled my nose.</li>
+<li>When I added baking soda to the vinegar, it created an effervescent effect.</li>
+<li>He had an upset stomach and wanted something effervescent to help calm it.</li>
+<li>The teacher called her personality effervescent because she was extremely bubbly.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org49a3bbb" class="outline-2">
+<h2 id="org49a3bbb"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/effete-in-a-sentence/">Effete</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>lacking strength, courage, or spirit</code>
+</p>
+
+<ul class="org-ul">
+<li>The effete man was scared of his own shadow and hid in the closet during thunderstorms.</li>
+<li>Since Jason is an effete boy who fears confrontation, he will more than likely not make his high school football team.</li>
+<li>The huge wrestler made fun of the effete man who entered the ring to challenge him.</li>
+<li>Because the art critic felt the painting was effete, he reviewed it quite harshly and referred to it as a spiritless effort from the painter.</li>
+<li>The professional football player became angry when the press referred to him as an effete athlete who had no passion for his sport.</li>
+<li>Because the old man was upset about his wife’s death, he became effete and refused to eat.</li>
+<li>The detective pretended to be wheelchair bound as part of his effete man disguise.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org35f7fdf" class="outline-2">
+<h2 id="org35f7fdf"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/efficacious-in-a-sentence/">Efficacious</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>having the power to produce a desired effect</code>
+</p>
+
+<ul class="org-ul">
+<li>Because my medicine is efficacious, I expect to feel better soon.</li>
+<li>Yoga is very efficacious at reducing stress.</li>
+<li>Over the years, water therapy has proven quite efficacious at managing arthritis pain.</li>
+<li>The most efficacious products for your condition are the ones prescribed by your doctor.</li>
+<li>As a loving parent, I believe praise is more efficacious than punishment as a form of discipline.</li>
+<li>Perhaps there are more efficacious solutions to dealing with this problem.</li>
+<li>Everyone knows the most efficacious way to lose weight is by reducing caloric intake.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf802edb" class="outline-2">
+<h2 id="orgf802edb"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/efficacy-in-a-sentence/">Efficacy</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>the power to produce a desired effect</code>
+</p>
+
+<ul class="org-ul">
+<li>Fortunately, the medicine had the efficacy to reduce the amount of pain John was feeling.</li>
+<li>Since the traffic reports have not been announced yet, the efficacy of the new drunk driving laws cannot be confirmed.</li>
+<li>The instructor’s efficacy was reduced by the lack of educational materials.</li>
+<li>Even after conducting the study, the scientist was not able to prove the cancer drug’s efficacy.</li>
+<li>Reform critics question the efficacy of juvenile prisons in deterring youth crime.</li>
+<li>Since I have never practiced yoga, I cannot speak on its efficacy to provide relaxation.</li>
+<li>In order to test the efficacy of its new security system, the bank staged a fake robbery.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1eb5c63" class="outline-2">
+<h2 id="org1eb5c63"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/egalitarian-in-a-sentence/">Egalitarian</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>symbolized by the idea that all individuals should have the same rights</code>
+</p>
+
+<ul class="org-ul">
+<li>The dictator laughed at the priest’s egalitarian ideas and refused to believe all people were equal.</li>
+<li>Before new laws granted all citizens equal rights, our country was not an egalitarian nation.</li>
+<li>The justice system is not egalitarian because often the court sentences rich people less harshly than poor people.</li>
+<li>After the vote, it was obvious the people favored an egalitarian government in which everyone would have equal rights.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd7f8fa6" class="outline-2">
+<h2 id="orgd7f8fa6"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/egregious-in-a-sentence/">Egregious</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>really bad or offensive</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though Jack was told to behave in church, he was still egregious by talking loudly during the sermon.</li>
+<li>Unwilling to put up with misbehavior in her class, the teacher sent the egregious student into the hall.</li>
+<li>The judge said it was the most egregious act he had ever seen!</li>
+<li>Although the police officers had the right to approach the suspect, they did not have the right to make egregious comments to him.</li>
+<li>I cannot believe you use such egregious words when talking to your spouse!</li>
+<li>While people appreciated the rapper’s charitable activities, they found many of his lyrics egregious.</li>
+<li>Because the beauty pageant contestant made an egregious choice to pose naked, she was kicked out of the competition.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge703ee0" class="outline-2">
+<h2 id="orge703ee0"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/elaborate-in-a-sentence/">Elaborate</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>too much detail</code>
+</p>
+
+<ul class="org-ul">
+<li>Stephanie’s dress was way too elaborate for a casual dinner.</li>
+<li>When the defendant gave an alibi that was too elaborate in its description, he made the police very suspicious.</li>
+<li>Only my mother could turn simple sardines into an elaborate seafood pasta dish.</li>
+<li>Since Jane wanted a simple wedding, she ignored the elaborate dresses at the bridal boutique and focused on the modest gowns.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb7354e5" class="outline-2">
+<h2 id="orgb7354e5"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/elapse-in-a-sentence/">Elapse</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>to pass or move by</code>
+</p>
+
+<ul class="org-ul">
+<li>Due to my head injury, severe blackouts occurred that meant ten minutes would elapse without knowing what happened.</li>
+<li>Because of the rain delay, thirty minutes would elapse before the Detroit Tigers baseball game would begin.</li>
+<li>Hours would elapse before we could even get to the movie theater.</li>
+<li>Since someone could get lost in the haunted woods, time would elapse and cause them to be transported into a future time period.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2d6602f" class="outline-2">
+<h2 id="org2d6602f"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/elated-in-a-sentence/">Elated</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>very happy and excited</code>
+</p>
+
+<ul class="org-ul">
+<li>I was so elated on my wedding day.</li>
+<li>Why are you so elated about going to a funeral?</li>
+<li>Although I was elated about the trip, I was also nervous at the thought of flying for the first time.</li>
+<li>The students were elated to wake up to yet another snow day.</li>
+<li>Even though Jason was happy to get the job, he was not elated about having a two-hour drive to the office each day.</li>
+<li>Margaret was elated when she received a bouquet of flowers.</li>
+<li>When the elated audience members learned the singer was not coming on stage, they became angry.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org91d0f13" class="outline-2">
+<h2 id="org91d0f13"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/elegiac-in-a-sentence/">Elegiac</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>communicating mourning or sorrow</code>
+</p>
+
+<ul class="org-ul">
+<li>The elegiac poem brought everyone to tears during the funeral.</li>
+<li>When Amy looked at the elegiac greeting card, she realized how much Greg missed her.</li>
+<li>The military band played a stirring but elegiac tribute during the general’s burial ceremony.</li>
+<li>As soon as I heard the elegiac tune in the movie, I knew a character was about to die.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org238486f" class="outline-2">
+<h2 id="org238486f"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/elicit-in-a-sentence/">Elicit</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>to draw out or bring forth</code>
+</p>
+
+<ul class="org-ul">
+<li>The comedian hoped his jokes would elicit a great deal of laughter from the audience.</li>
+<li>Because Hilary wanted to elicit sympathy votes, she told the story of her fight with cancer a few days before the election.</li>
+<li>The police chief hoped to elicit the truth about the missing evidence from the corrupt officer.</li>
+<li>Despite the event planner’s hard work, the fundraiser did not elicit the donations needed to keep the shelter open.</li>
+<li>In the experiment, the scientist hoped to elicit a response from a mouse by piping high-pitched sounds into a sealed cage.</li>
+<li>The charity uses pictures of small children on its website to elicit donations from caring people.</li>
+<li>After making up a false story about being mugged, Ginger was unable to elicit any response from the police when she was actually attacked in the park</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1dd8d35" class="outline-2">
+<h2 id="org1dd8d35"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/elongate-in-a-sentence/">Elongate</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>to make something longer</code>
+</p>
+
+<ul class="org-ul">
+<li>In an attempt to elongate her body, the dancer stood on her tiptoes and stretched her arms up to the sky.</li>
+<li>Studies have shown that taking antibiotics for a common cold can actually elongate your illness instead of curing it.</li>
+<li>In some parts of Africa and Asia, tribe members elongate their necks by stretching them out through the use of metal rings.</li>
+<li>The workout instructor helped the woman elongate her body as much as possible through the stretching of her core.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5e90631" class="outline-2">
+<h2 id="org5e90631"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/eloquent-in-a-sentence/">Eloquent</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>having or showing the ability to use language clearly and effectively</code>
+</p>
+
+<ul class="org-ul">
+<li>When you listen to the eloquent politician speak, you always understand his message.</li>
+<li>Margie is an eloquent storyteller who can paint a picture with her words.</li>
+<li>As a listener, I found his persuasive speech to be quite eloquent and moving.</li>
+<li>The valedictorian’s eloquent words brought the audience to its feet.</li>
+<li>According to many British history books, Winston Churchill was an eloquent spokesman who led his people simply with his words.</li>
+<li>An eloquent minister can hold his congregation’s attention even during a long sermon.</li>
+<li>Despite his sorrow, the soldier managed to give an eloquent eulogy about his fallen comrade.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org776d070" class="outline-2">
+<h2 id="org776d070"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/elucidate-in-a-sentence/">Elucidate</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>to make clear or easy to understand</code>
+</p>
+
+<ul class="org-ul">
+<li>To make life easy for my math students, I go out of my way to elucidate the complex problems before each test.</li>
+<li>An interpreter will elucidate the instructions for all non-English speaking guests.</li>
+<li>Since Larry had a stroke, he has been unable to elucidate his thoughts verbally.</li>
+<li>I hope my review will elucidate the strengths and weaknesses I found in your novel.</li>
+<li>Even if you cannot read, the pictures under the words will elucidate the comic’s message.</li>
+<li>The tutorial is designed to elucidate the basic steps of computer programming to novice programmers.</li>
+<li>After taking a sign language class, I was able to use my hands to elucidate my thoughts.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7a55b7b" class="outline-2">
+<h2 id="org7a55b7b"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/elude-in-a-sentence/">Elude</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>to avoid something or someone</code>
+</p>
+
+<ul class="org-ul">
+<li>The criminal was able to elude the police in the crowded mall.</li>
+<li>When Hazel shoplifts, she tries to elude the store cameras.</li>
+<li>Jason hurried out of the grocery store in an attempt to elude his crazy ex-girlfriend.</li>
+<li>Because the convict developed a full-proof escape plan, he was able to elude capture for over twelve years.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org343e08a" class="outline-2">
+<h2 id="org343e08a"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/elusive-in-a-sentence/">Elusive</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>difficult to find, catch, or achieve</code>
+</p>
+
+<ul class="org-ul">
+<li>The police are finding it difficult to catch the elusive bank robber.</li>
+<li>Since I am not very good at math, earning an “A” in geometry is an elusive goal for me.</li>
+<li>The animal control officer could not catch the elusive dog.</li>
+<li>In a house of young triplets, my husband finds sleep to be very elusive.</li>
+<li>The hunters finally crept up on their elusive target.</li>
+<li>When gas reserves are in short supply, finding affordable fuel can be an elusive mission.</li>
+<li>Even though Jeremy has sold over twenty thousand books in the United States, he has found worldwide success to be elusive.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2ec06ec" class="outline-2">
+<h2 id="org2ec06ec"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/embellish-in-a-sentence/">Embellish</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>to make something sound or look better or more acceptable than it is in reality;
+to make more beautiful and attractive; to decorate</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Marco has always had a tendency to embellish the truth, no one believed he had been mugged.</li>
+<li>Grandma likes to embellish her knitting by hiding secret messages in the pattern.</li>
+<li>Dan doesn’t trust the news media because he believes that most reports embellish the facts.</li>
+<li>If you want to make your shoes look new, you can always embellish them with some bows or buckles.</li>
+<li>Your narrative would be better if you did not embellish it with so many unnecessary details.</li>
+<li>Just because you embellish your living room with expensive, modernistic wall sculptures, it doesn’t give you the right to tell me how to decorate my house.</li>
+<li>The team asked the principal to budget some funds to embellish their team uniforms with an image of the school mascot.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb90f2c9" class="outline-2">
+<h2 id="orgb90f2c9"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/embezzle-in-a-sentence/">Embezzle</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>to take property or funds one has been entrusted to keep</code>
+</p>
+
+<ul class="org-ul">
+<li>The teller will be prosecuted if she helped the loan officer embezzle bank funds.</li>
+<li>Because Lou was about to lose his home, he felt he had no choice but to embezzle money from his employer.</li>
+<li>The conman planned to embezzle the funds he helped the charity raise.</li>
+<li>Since Adam was the company accountant, it was easy for him to embezzle money from the employee retirement fund.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga08fd5e" class="outline-2">
+<h2 id="orga08fd5e"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/emblematic-in-a-sentence/">Emblematic</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>serving as a symbol</code>
+</p>
+
+<ul class="org-ul">
+<li>The American flag is emblematic of freedom.</li>
+<li>Needing an emblematic symbol, my group created its own logo.</li>
+<li>“Take me out to the ball game,” is emblematic of American baseball.</li>
+<li>Waving to someone is an emblematic way to say goodbye.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd3e9883" class="outline-2">
+<h2 id="orgd3e9883"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/embroider-in-a-sentence/">Embroider</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>to decorate cloth by sewing patterns on with thread</code>
+</p>
+
+<ul class="org-ul">
+<li>I had my mother embroider my initials on my jacket so none of the other kids would take it home.</li>
+<li>Because she learned to embroider as a child, the elderly woman had lots of experience sewing patterns on cloth.</li>
+<li>My grandmother makes all our gifts by hand and likes to embroider our names on them with thread.</li>
+<li>Gold thread will be used when I embroider a star on the back of the cloth pillow.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd81d19c" class="outline-2">
+<h2 id="orgd81d19c"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/eminence-in-a-sentence/">Eminence</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>having a superior or famed ability at a specific activity</code>
+</p>
+
+<ul class="org-ul">
+<li>Taylor Swift’s eminence as a creative singer and style icon make her one of the most well known celebrities in the world.</li>
+<li>Stephen King’s eminence in writing horror novels has made him an instant best-seller.</li>
+<li>Apple’s eminence in phone and computer technology has only made the brand’s popularity and sales increase.</li>
+<li>Elizabeth I’s eminence as an active and outspoken leader has made her one of the most respected queens to ever reign.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6e4c09a" class="outline-2">
+<h2 id="org6e4c09a"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/eminent-in-a-sentence/">Eminent</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>remarkable, great</code>
+</p>
+
+<ul class="org-ul">
+<li>Everyone was looking forward to taking the class with such an eminent professor.</li>
+<li>As one of the most eminent physicists of the twentieth century, Albert Einstein was awarded the Nobel Prize in 1921.</li>
+<li>As one of the world’s most eminent film directors, David Lynch has given audiences a glimpse of places and events they would never be able to imagine on their own.</li>
+<li>Despite the fact that Robin is an eminent expert on art, she would rather let her husband choose the pieces they display in their home.</li>
+<li>Although Roderick is an eminent businessman in the community, he always finds time to help with several charitable projects.</li>
+<li>As an eminent author of many children’s books, he has played a significant role in helping parents raise respectful and well-mannered citizens.</li>
+<li>While Winston Churchill and Adolph Hitler are both eminent historical figures, they achieved this status through entirely different means.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4ea5f95" class="outline-2">
+<h2 id="org4ea5f95"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/empathy-in-a-sentence/">Empathy</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>to understand and share the feelings of another</code>
+</p>
+
+<ul class="org-ul">
+<li>Because her parents immigrated to the United States to give her a better life, Maria has empathy for illegal aliens.</li>
+<li>Bart has a hard time forming healthy relationships because he lacks empathy for others.</li>
+<li>As an expression of her empathy, Pat will often apologize even when she has done nothing wrong.</li>
+<li>When questioned about his acts, the killer showed no empathy for his victims or their grieving families.</li>
+<li>My boss felt no empathy for our team when we failed to meet our project deadline.</li>
+<li>Because Tiffany believes the world revolves around her, she is incapable of feeling empathy for other people.</li>
+<li>Since he is a cancer survivor himself, my doctor was able to show me a great deal of empathy during my chemotherapy treatments.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org595a809" class="outline-2">
+<h2 id="org595a809"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/emphatically-in-a-sentence/">Emphatically</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>firmly</code>
+</p>
+
+<ul class="org-ul">
+<li>When my husband and I married, we agreed emphatically to stay together forever.</li>
+<li>My little boy wiped the crumbs off his mouth and emphatically told me he did not eat the chocolate chip cookies.</li>
+<li>In court, the defendant emphatically maintained she was only joking about killing her husband.</li>
+<li>It is expected that the company president will emphatically deny the allegations of embezzlement.</li>
+<li>During the teen safety meeting, the police officer spoke emphatically about the importance of parents monitoring their children’s Internet activity.</li>
+<li>The mother emphatically told her fourteen-year-old daughter she could not get married.</li>
+<li>Even though the criminal emphatically denied his role in the burglary, he was still viewed as a suspect by the detective.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga6bbf2c" class="outline-2">
+<h2 id="orga6bbf2c"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/emulate-in-a-sentence/">Emulate</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>to imitate and copy; strive to equal or excel</code>
+</p>
+
+<ul class="org-ul">
+<li>Aspiring to become a good cook, Kate will emulate the recipes and cooking techniques of chef Emeril.</li>
+<li>If you want to be rich, emulate a wealthy entrepreneur.</li>
+<li>The boy would emulate his father's morning routine, from reading the newspaper to sipping coffee.</li>
+<li>I would rather you find your own voice and not emulate your favorite singer.</li>
+<li>Our youth desperately needs to emulate positive role models.</li>
+<li>Josh is trying to emulate the success of his well-accomplished mother.</li>
+<li>I ask you not to emulate and copy my inventions.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org69a8554" class="outline-2">
+<h2 id="org69a8554"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/enamored-in-a-sentence/">Enamored</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>in love with a person or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I was so enamored of my boyfriend, I had to see him constantly.</li>
+<li>Jane is enamored with tennis and plays the sport every day.</li>
+<li>Despite what my mother thinks, I am not enamored of my cute neighbor.</li>
+<li>It is obvious from all the online photos Catherine is enamored with her new home.</li>
+<li>Because the Petersons are enamored with the painter’s work, they own eight of his masterpieces.</li>
+<li>After Bridgett became enamored with country life, she sold her home in the inner city and moved to a small town in the suburbs.</li>
+<li>All the high school boys are enamored with the attractive young teacher.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5fac2e2" class="outline-2">
+<h2 id="org5fac2e2"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/encapsulate-in-a-sentence/">Encapsulate</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>to concisely express the main point of something</code>
+</p>
+
+<ul class="org-ul">
+<li>The students wished there was a way to encapsulate their teacher’s lecture so class would end quicker.</li>
+<li>As a writer of book blurbs, I have to be able to encapsulate a book summary into a few lines.</li>
+<li>Andrew hoped he would be able to encapsulate his feelings for Linda with a greeting card.</li>
+<li>During the debate, each political candidate will have to encapsulate his answer in a two- minute response.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgde3be09" class="outline-2">
+<h2 id="orgde3be09"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/encroach-in-a-sentence/">Encroach</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>to slowly move into another person’s area</code>
+</p>
+
+<ul class="org-ul">
+<li>My coworker is always leaning on my desk and trying to encroach upon my personal space.</li>
+<li>In the club, my friend and I enjoy watching the gold diggers attempt to encroach into the VIP area.</li>
+<li>The weeds are started to encroach on my vegetable garden.</li>
+<li>As the forests continue to be destroyed for development, bears have no choice but to encroach into residential areas to seek food.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9ca3a13" class="outline-2">
+<h2 id="org9ca3a13"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/encumber-in-a-sentence/">Encumber</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>to restrict or burden in such a way that action is limited</code>
+</p>
+
+<ul class="org-ul">
+<li>The chaperon’s rules did not encumber the female members of the swim team from sneaking out of their hotel at night.</li>
+<li>If you do not want your baby to encumber you when you jog, you should push her in the stroller instead of carrying her.</li>
+<li>The tax plan will encumber many average Americans to the point they cannot take yearly vacations.</li>
+<li>When Phil saw all of the red tape associated with getting the building permit, he knew the excessive documentation would encumber production on his new home.</li>
+<li>The political refugees came to this country so they could live in a nation where they would not have to be concerned about anyone trying to encumber their rights.</li>
+<li>If I lose my money in the stock market, the loss will encumber my retire plans and force me to work late in life.</li>
+<li>State police are currently working with border authorities to produce ways to encumber the flow of drugs into the country.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2a89943" class="outline-2">
+<h2 id="org2a89943"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/endear-in-a-sentence/">Endear</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>to bring about love or fondness</code>
+</p>
+
+<ul class="org-ul">
+<li>Your rude behavior didn't endear you to the judges.</li>
+<li>If you would like to endear yourself to my mother, you should bring her flowers.</li>
+<li>Reducing salaries is not a way for a boss to endear himself to his employees.</li>
+<li>Because the show’s stars endear themselves to fans, the television program has been on the air for nearly twenty years.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga7025a7" class="outline-2">
+<h2 id="orga7025a7"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/endemic-in-a-sentence/">Endemic</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>native to a specific area or group of individuals</code>
+</p>
+
+<ul class="org-ul">
+<li>The poisonous snake must have come from another country because it is not endemic to our nation.</li>
+<li>In Jared’s flawed family, alcoholism appears to be endemic as most of the older children have drinking problems.</li>
+<li>Many of the birds that were once endemic to Africa are now being bred in the United States.</li>
+<li>As we hiked through the rainforest, we saw endemic creatures we could not have observed anywhere else on the planet.</li>
+<li>The fish is expensive because it is endemic to the Caribbean Sea and has to be flown into the country.</li>
+<li>While malaria is rarely seen in the United States, it is endemic to several tropical countries.</li>
+<li>Endemic wildlife in the forest is being threatened by the creation of the new subdivision.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4c8d640" class="outline-2">
+<h2 id="org4c8d640"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/enervate-in-a-sentence/">Enervate</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>to deprive of force or  strength; weaken</code>
+</p>
+
+<ul class="org-ul">
+<li>The wrestler's plan was to deliver a crushing blow which would enervate his opponent.</li>
+<li>Because he is much heavier than me, the only way for me to enervate him is by putting a sleeping pill in his food.</li>
+<li>The alcohol appeared to enervate Jason's ability to focus at work.</li>
+<li>If the hurricane comes near the city, the winds may enervate the flood walls and cause them to crumble.</li>
+<li>The general devised an attack to enervate and conquer his enemy.</li>
+<li>When the soldiers put dynamite under the bridge, they hoped it would enervate the foundation to the point of collapse.</li>
+<li>It was the evil stepmother's intention to enervate her stepdaughter by denying her food and water.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org48965dc" class="outline-2">
+<h2 id="org48965dc"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/enigma-in-a-sentence/">Enigma</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>someone or something that is mysterious and difficult to understand</code>
+</p>
+
+<ul class="org-ul">
+<li>To the new detective, the motive of the crime was an enigma.</li>
+<li>For years, my distant mother-in-law has been an enigma to me.</li>
+<li>The reclusive millionaire was an enigma to everyone in our town.</li>
+<li>Sadly, the little girl’s disappearance continues to be an enigma.</li>
+<li>Although I have been playing this role play game for a while, the game’s point is still an enigma to me.</li>
+<li>The magician’s trick was an enigma to everyone in the audience.</li>
+<li>For the determined medical researcher, the cure for cancer is an enigma which must be discovered.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3f75610" class="outline-2">
+<h2 id="org3f75610"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/enmity-meaning-in-a-sentence/">Enmity</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>a feeling of strong dislike or opposition</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the two brothers are both in love with the same girl, there is a great deal of enmity between them.</li>
+<li>A wise parent can administer discipline without the incident resulting in enmity.</li>
+<li>After learning John was the one who stole his truck, Henry felt a great deal of enmity towards him.</li>
+<li>If nothing is done to ease the tensions in the war-torn country, eventually the enmity between the civilians and the military will boil over into another war.</li>
+<li>Because of the enmity between the two gangs in my neighborhood, it is not safe to venture outside at night.</li>
+<li>Please tell me what I did that caused our friendship to change into enmity!</li>
+<li>Even though Frank and Joanna tried to stay together for the children, the enmity between them eventually led Frank to move out of the house.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-orgeaa3eef" class="outline-2">
+<h2 id="orgeaa3eef"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/entrench-in-a-sentence/">Entrench</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>to establish an attitude, habit, or belief so strongly that it is not likely to change</code>
+</p>
+
+<ul class="org-ul">
+<li>Frustrated, the painter had moved on and prepared to entrench herself in another project.</li>
+<li>Will you continue to entrench yourself in work or enjoy your weekend off?</li>
+<li>The army captain, steadfast in his belief that the enemy would retreat, urged his troop to entrench themselves in the location.</li>
+<li>Entrench yourself in the political stance if you must, but please do not push your agenda on me.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0c39868" class="outline-2">
+<h2 id="org0c39868"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/enzyme-in-a-sentence/">Enzyme</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>a protein produced by an organism that speeds up chemical reactions</code>
+</p>
+
+<ul class="org-ul">
+<li>Because she lacked the enzyme necessary to break down food, she had to take a supplement in order to help her system.</li>
+<li>An enzyme is composed of amino acids and helps the body to function more efficiently.</li>
+<li>She was lactose intolerant because her body doesn’t make the enzyme, lactase.</li>
+<li>The salivary glands are responsible for secreting digestive enzymes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3056ebe" class="outline-2">
+<h2 id="org3056ebe"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/ephemeral-in-a-sentence/">Ephemeral</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>lasting for a brief period of time</code>
+</p>
+
+<ul class="org-ul">
+<li>Ephemeral art painted on the sidewalks will wash away when it rains.</li>
+<li>Because of her ephemeral memory, she forgets things all the time!</li>
+<li>The thunderstorm was ephemeral, starting suddenly and gone within seconds.</li>
+<li>Did you know that bees have an ephemeral 5 week lifespan?</li>
+<li>The homeowner’s excitement was short-lived, with a house fire putting an end to their ephemeral bliss.</li>
+<li>While we were waiting in the drive-thru, we sang for our ephemeral amusement.</li>
+<li>Though the team hoped that he would stay awhile, the leaving coach’s tenure was ephemeral.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdbc9a2d" class="outline-2">
+<h2 id="orgdbc9a2d"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/epitome-in-a-sentence/">Epitome</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>an example that represents or expresses something very well</code>
+</p>
+
+<ul class="org-ul">
+<li>Because our mayor is the epitome of a good citizen, he has been in office for over ten years.</li>
+<li>The cheetah is the epitome of a fast-running animal.</li>
+<li>As I looked around the crime-ridden neighborhood, I realized the uncaring community was the epitome of everything that was wrong with our city.</li>
+<li>The award-winning film is the epitome of classic romance movies.</li>
+<li>With his velvet jacket and cigar, Hugh was the epitome of a carefree playboy.</li>
+<li>The picture of a soldier planting his country’s flag in the ground is the epitome of a patriotic act.</li>
+<li>As I watch the male model stroll down the runway, I must admit he is the epitome of style and fashion.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc155d58" class="outline-2">
+<h2 id="orgc155d58"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/equestrian-in-a-sentence/">Equestrian</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>associated with horse riding</code>
+</p>
+
+<ul class="org-ul">
+<li>During the equestrian auction, you’ll have the opportunity to bid on some of the finest horses in the country.</li>
+<li>My equestrian teacher has won many horse riding competitions.</li>
+<li>In the equestrian trials, riders will compete in timed horseback riding challenges.</li>
+<li>The bond between rider and horse is very important in equestrian sports.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf99439b" class="outline-2">
+<h2 id="orgf99439b"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/equitable-in-a-sentence/">Equitable</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>characterized by equity or fairness; just and right; fair</code>
+</p>
+
+<ul class="org-ul">
+<li>Both sides agreed to try to find an equitable compromise that would please everyone.</li>
+<li>Even though not every argument reached an equitable conclusion, their marriage lasted for almost 63 years.</li>
+<li>With each generation we get just a little closer to achieving an equitable society for all people.</li>
+<li>Public schools are designed to provide an equitable education to all students, regardless of their background.</li>
+<li>Despite Miss Shelly’s efforts to teach the toddlers in her class to be equitable in playing with the toys, Tommy and Nathan never wanted to take turns.</li>
+<li>The arbitrator could foresee no equitable outcome in the feud between the two sides.</li>
+<li>If you take an equitable approach to meeting new people, you could be rewarded with lasting friendships.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org36daf2d" class="outline-2">
+<h2 id="org36daf2d"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/equivocal-in-a-sentence/">Equivocal</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>not clear or certain</code>
+</p>
+
+<ul class="org-ul">
+<li>Since the defendant’s alibi is equivocal, the jury will disregard it almost instantly.</li>
+<li>The scientist’s theory is equivocal and has not been proven in a lab experiment.</li>
+<li>Although I watched the entire film, I was still confused by the movie’s equivocal ending that contained many unanswered questions.</li>
+<li>The president’s equivocal explanation of the war sounded unclear to the public.</li>
+<li>After the first garage was equivocal about the final cost of my repair bill, I decided to go with another automotive shop.</li>
+<li>Because the results of the lab test were equivocal, the experiment had to be repeated.</li>
+<li>When the football player talked about his upcoming retirement, he sounded equivocal as though he was not certain himself.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-orgaa0136e" class="outline-2">
+<h2 id="orgaa0136e"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/eradicate-in-a-sentence/">Eradicate</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>to completely destroy; to put an end to</code>
+</p>
+
+<ul class="org-ul">
+<li>The murderer conceived a sinister plot to systematically eradicate the any witnesses to his foul deed.</li>
+<li>Just when you thought scientists had been able to successfully eradicate a dangerous disease, you hear of it breaking out in some isolated part of the world.</li>
+<li>If we want to eradicate the growing problem of cheating in schools, parents and communities must get behind teachers.</li>
+<li>In an effort to eradicate the malicious gossip going around about the cheerleader, the PTA sponsored an anti-bullying forum.</li>
+<li>It is a global mission to eradicate hunger, and many politicians include that mission as part of their platform.</li>
+<li>Nowadays, we rarely hear of Guinea Worm Disease because of the successful campaign of 1980s to adopt clean water programs and eradicate the disease.</li>
+<li>You would think that a policy to eradicate racism would be a non-issue, but unfortunately, there are too many people out there who still don’t get it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0ad463e" class="outline-2">
+<h2 id="org0ad463e"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/erratic-in-a-sentence/">Erratic</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>unpredictable</code>
+</p>
+
+<ul class="org-ul">
+<li>The medicine causes the normally predictable Jacob to behave in an erratic way.</li>
+<li>When the police officer saw the man driving in an erratic manner, he pulled him over to question him.</li>
+<li>Over the past few weeks, the weather has been erratic making it quite difficult for us to plan outdoor events.</li>
+<li>Because Jake started displaying erratic behavior, he was assumed to be on drugs.</li>
+<li>When my father drinks, he has erratic mood swings and is somewhat scary.</li>
+<li>Mike’s behavior becomes erratic when he gets overly tired.</li>
+<li>Since Elizabeth works best in a stable environment, she cannot work on an erratic schedule.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org26c3f99" class="outline-2">
+<h2 id="org26c3f99"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/erudite-in-a-sentence/">Erudite</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>having or showing profound knowledge</code>
+</p>
+
+<ul class="org-ul">
+<li>The room was full of erudite scholars who made the discussion on astronomy fun and interesting.</li>
+<li>As a result of having studied abroad several years, Helen has become quite erudite on the subject of art history.</li>
+<li>While I learned everything I know from television, my sister can credit being erudite to spending countless hours in the classroom obtaining her doctoral degree.</li>
+<li>Our erudite instructor was able to answer every question asked by our class.</li>
+<li>In order to understand this book on nuclear physics, I will have to review it with someone who is erudite in that subject.</li>
+<li>Because I am failing calculus, I am in search of the most erudite calculus tutor I can find.</li>
+<li>Although erudite and experienced, the tired professor found it difficult to teach a simple physics lesson.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0b33a99" class="outline-2">
+<h2 id="org0b33a99"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/escapism-in-a-sentence/">Escapism</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>avoidance of the real world and finding comfort in daydreams and fantasy</code>
+</p>
+
+<ul class="org-ul">
+<li>Escapism was his favorite pastime, preferring to immerse himself in video games over homework.</li>
+<li>The young girl was a professional at escapism, always pretending to be a princess living in a spacious castle when her parents fought.</li>
+<li>Escapism at its best, the teen’s dragon game helped his getaway from his grim reality.</li>
+<li>Even though she knew she should be studying for her next exam, the student indulged in escapism, day dreaming about becoming a millionaire.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcd277f9" class="outline-2">
+<h2 id="orgcd277f9"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/eschew-in-a-sentence/">Eschew</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>to avoid something which you do not think is right or proper</code>
+</p>
+
+<ul class="org-ul">
+<li>Since my husband believes chores are a woman’s work, he tries to eschew them around the house.</li>
+<li>Because I am a strict Christian, I tend to eschew events that are not religious in nature.</li>
+<li>True vegetarians eschew food items that come from living animals.</li>
+<li>Even though I love coffee, I have chosen to eschew the beverage because of the damage it does to my teeth.</li>
+<li>Since Hank has worked hard to be sober for ten years, he tends to eschew parties where alcohol is served.</li>
+<li>I eschew smoking because I know it is dangerous to my health.</li>
+<li>Because Penelope is allergic to seafood, she will eschew the shrimp cocktail at the party.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org048d88c" class="outline-2">
+<h2 id="org048d88c"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/esoteric-in-a-sentence/">Esoteric</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>known about or understood by very few people</code>
+</p>
+
+<ul class="org-ul">
+<li>The medical research was so esoteric that only a few physicians could actually understand the results.</li>
+<li>Only a couple of people I know share your esoteric thoughts on those religious principles.</li>
+<li>While the writing appeared simple, its meaning was esoteric in the fact only a number of scholars could comprehend it.</li>
+<li>Janice loved her country and found it difficult to agree with the esoteric ideas of the terrorists.</li>
+<li>When the scientists were not looking for a cure for the disease, they spent their time reviewing esoteric documentation on past experiments.</li>
+<li>Unlike the other professors, Margaret was very familiar with esoteric literature from the Middle Ages.</li>
+<li>Only the children of royal families are allowed in the esoteric organization.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4d7c160" class="outline-2">
+<h2 id="org4d7c160"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/espouse-in-a-sentence/">Espouse</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>to support an idea, belief, or principle</code>
+</p>
+
+<ul class="org-ul">
+<li>People who espouse the Paleo diet claim that they feel better and it’s much easier to control their weight.</li>
+<li>Although the reviews were rather harsh, Emma had the grace to espouse the criticism and try to improve her performance.</li>
+<li>Although most scientists espouse the Big Bang Theory for the beginning of the universe, there is still no absolute proof of how we got here.</li>
+<li>While most parents would like their children to espouse the same value system as they do, today’s young people are typically very independent-minded and prefer to follow their own path.</li>
+<li>I think most voters espouse the principles that the candidate is including in his platform, so he is almost a shoo-in to win the election.</li>
+<li>If you espouse the beliefs of Buddhism, you are not attached to material things.</li>
+<li>I was very surprised when I heard about all the important people in this city who espouse the Tea Party movement.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1302083" class="outline-2">
+<h2 id="org1302083"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/estrange-in-a-sentence/">Estrange</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>to cause a person to be alienated from a group, a friend, or family member</code>
+</p>
+
+<ul class="org-ul">
+<li>Norma’s depression often causes her to estrange herself from her coworkers by eating lunch alone in her cubicle.</li>
+<li>When Mitch realized his political views had altered, he decided to estrange himself from his current political group.</li>
+<li>We hope Hank’s upcoming marriage does not estrange him from our bowling group.</li>
+<li>If the singer changes his style of music, the alteration may estrange him from his fan base.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgeeeeec6" class="outline-2">
+<h2 id="orgeeeeec6"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/ethereal-in-a-sentence/">Ethereal</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>extremely delicate and light in a way that seems too perfect for this world; heavenly or supernatural</code>
+</p>
+
+<ul class="org-ul">
+<li>An ethereal, ghostly image of a woman suddenly appeared at the edge of the forest, then disappeared as quickly as it had come.</li>
+<li>Once the sky began to clear after the storm, the clouds scattered in ethereal formations that resembled a celestial festival.</li>
+<li>A sleeping baby has an ethereal, angelic appearance you don’t often find in your wide-awake teenager.</li>
+<li>This artist has a supremely delicate brush-stroke that gives his work a feeling of ethereal lightness.</li>
+<li>When we saw the ethereal light that glowed on Lauren’s face, we knew that Bryce had kissed her.</li>
+<li>The soprano had an ethereal voice that sounded as if she belonged in a choir of angels.</li>
+<li>The tapestry was woven so finely that it made the perfect backdrop for her collection of ethereal art miniatures.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-orgc856405" class="outline-2">
+<h2 id="orgc856405"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/eulogistic-in-a-sentence/">Eulogistic</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>formally expressing praise; praiseful</code>
+</p>
+
+<ul class="org-ul">
+<li>In all of his years as a pastor, he had never given such a eulogistic speech as the one honoring his late wife.</li>
+<li>Moved by the eulogistic speech given in the wake of his murder, people rallied to honor Dr. King for his great works.</li>
+<li>The professor’s lecture had a eulogistic tone, making it clear that he had great respect for his own college mentor.</li>
+<li>The eulogistic presentation outlined all of the musician’s greatest accomplishments both personally and professionally.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org72774bb" class="outline-2">
+<h2 id="org72774bb"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/euphemism-in-a-sentence/">Euphemism</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>a word or expression used to talk about something unpleasant, blunt or offensive without mentioning the thing itself</code>
+</p>
+
+<ul class="org-ul">
+<li>When I was a kid, my mother described sexual intercourse using a euphemism so I would not be shocked by her words.</li>
+<li>While a euphemism may tone down your words, the meaning behind the phrase will remain the same.</li>
+<li>He used a euphemism to disguise his real feelings about the incident.</li>
+<li>Because people felt the title of “garbage man” was unappealing, the euphemism of “sanitation engineer” was created.</li>
+<li>Although Jim used a euphemism to disguise his thoughts on his wife’s adultery, everyone still knew exactly what he meant.</li>
+<li>In America, that euphemism means one thing, but in Spain, it means something different.</li>
+<li>Sadly, the term “downsizing” has become a frequently used euphemism in the workforce.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org30fb5bc" class="outline-2">
+<h2 id="org30fb5bc"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/evanescent-in-a-sentence/">Evanescent</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>lasting only for a very short time</code>
+</p>
+
+<ul class="org-ul">
+<li>We would have all missed the evanescent moment if not for the photographer’s speed and skill.</li>
+<li>Even though April seemed interested in taking piano lessons now, her mother knew her interest was only evanescent and would soon disappear.</li>
+<li>Rainbows are evanescent because they do not stay around for long periods of time.</li>
+<li>When the temperature rises, the snow becomes evanescent as it turns into water.</li>
+<li>The Hawaiian waterfall is so beautiful it could never be an evanescent memory for anyone.</li>
+<li>Unfortunately, the best dreams are always evanescent and end at sunrise.</li>
+<li>Your childhood years are evanescent so appreciate each moment before you have to grow up and get a job.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1a5b64c" class="outline-2">
+<h2 id="org1a5b64c"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/evince-in-a-sentence-2/">Evince</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>to show or express clearly; to make plain</code>
+</p>
+
+<ul class="org-ul">
+<li>Although they evince an appearance of stability, I’ve heard that their marriage is beginning to crumble.</li>
+<li>J.J. hoped that the jury would evince an attitude of compassion, but he could see from their faces that he was probably doomed.</li>
+<li>If he claims to evince a knowledge about how to repair your car, don’t let him get near it!</li>
+<li>Despite the shock of receiving such news, she was observed to evince no particular emotion at all.</li>
+<li>Her sad eyes evince a level of grief much deeper than anyone has imagined.</li>
+<li>Without saying a word, a talented actor can evince a wide range of emotions just through facial expressions.</li>
+<li>John was never able to evince even a pretense of interest during his economics class.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org28d8055" class="outline-2">
+<h2 id="org28d8055"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/eviscerate-in-a-sentence/">Eviscerate</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>to remove the item that makes a person or thing strong</code>
+</p>
+
+<ul class="org-ul">
+<li>We can eviscerate the computer by removing its power supply.</li>
+<li>Upon my death, the hospital will eviscerate my body and transplant my useful organs.</li>
+<li>The bank is going to eviscerate the crooked businessman by freezing his assets.</li>
+<li>During the process of preserving the pharaohs, the Egyptians would eviscerate their deceased bodies.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1c6b058" class="outline-2">
+<h2 id="org1c6b058"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/evocative-in-a-sentence/">Evocative</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>bringing something to mind</code>
+</p>
+
+<ul class="org-ul">
+<li>Seeing an evocative picture of my mother brought back fond memories of our last days together.</li>
+<li>The purpose of the evocative commercial about family reunions is to motivate people to fly home for the holidays.</li>
+<li>Looking at my evocative wedding photo made me cry at the thought of my failed marriage.</li>
+<li>The teenage girl was amused by the evocative story that transported her back into the days before mobile phones.</li>
+<li>When the scientists looked at the evocative artifacts, they were able to visualize the daily lives of the members of the ancient civilization.</li>
+<li>News writers often create evocative headlines that establish emotional connections with readers.</li>
+<li>As soon as the elderly woman heard the evocative music of her youth, she tried to get out of her wheelchair and dance.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3eb6262" class="outline-2">
+<h2 id="org3eb6262"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/exacerbate-in-a-sentence/">Exacerbate</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>to increase the severity or worsen</code>
+</p>
+
+<ul class="org-ul">
+<li>Cora chose to exacerbate the argument by throwing a lamp at Mark’s head.</li>
+<li>If you do not take your medicine, you condition will exacerbate, and you will feel worse.</li>
+<li>My headache started to exacerbate when my daughter played her loud music.</li>
+<li>Because I do not wish to exacerbate my mother’s worries, I am not going to tell her about my problems at work.</li>
+<li>Although Wallace had no wish to exacerbate the hostile situation, he still knew he had to tell his wife the truth about the missing money.</li>
+<li>Do not eat those foods if they exacerbate your heartburn!</li>
+<li>If you do not tell the truth in court, you will only exacerbate the charges against you.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5791c28" class="outline-2">
+<h2 id="org5791c28"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/exalted-in-a-sentence/">Exalted</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>placed at a high level or in high regard</code>
+</p>
+
+<ul class="org-ul">
+<li>Reviewers exalted the book, helping it to rise to the top of the Best Seller’s List in just a few days.</li>
+<li>The King was exalted and placed as head of the royal family.</li>
+<li>Even though he didn’t deserve the promotion the CEO was exalted over other workers inside the company.</li>
+<li>A team’s quarterback is often exalted and placed in higher regard than other teammates.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgea291f4" class="outline-2">
+<h2 id="orgea291f4"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/excavate-in-a-sentence/">Excavate</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>to dig a pit or empty space</code>
+</p>
+
+<ul class="org-ul">
+<li>First, the construction workers had to excavate a large opening in the dirt to create the foundation for the pipes and wires that would be housed underneath the structure.</li>
+<li>When the archaeologists began to excavate the ancient burial site in certain prime spots, they unearthed several impressive artifacts from the ground.</li>
+<li>In order to build a pool, the pool builders had to excavate a deep crater of at least eight feet deep into the family’s backyard.</li>
+<li>To bury the body, the murderer would have to initially excavate the bottom of his basement floor in order to conceal the body with the leftover dirt.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org79bd0f4" class="outline-2">
+<h2 id="org79bd0f4"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/excise-in-a-sentence/">Excise</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>to get rid of something by cutting</code>
+</p>
+
+<ul class="org-ul">
+<li>It will take several hours for the surgeon to excise the massive tumor.</li>
+<li>In order to make the living room appear bigger, I will have the contractor excise one of the dining room walls.</li>
+<li>The specialist will not attempt to excise the bullet because of the risk to the patient.</li>
+<li>Rather than excise the tooth, the dentist will try to repair the damage.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org79a72a6" class="outline-2">
+<h2 id="org79a72a6"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/exemplar-in-a-sentence/">Exemplar</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>a person or thing that serves as a model or ideal</code>
+</p>
+
+<ul class="org-ul">
+<li>The school valedictorian is an exemplar of the perfect student.</li>
+<li>During his speech, the president praised the deceased soldier as an exemplar of courage.</li>
+<li>Because my mom is a successful businesswoman and a wonderful mother, she is my exemplar of the perfect woman.</li>
+<li>The teacher shared my paper with the class after describing it as an exemplar of a well-written essay.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga9fa054" class="outline-2">
+<h2 id="orga9fa054"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/exempt-in-a-sentence/">Exempt</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>free from a responsibility or obligation that is placed on others</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I made a perfect score on my last exam, I am exempt from the study guide that all of the other students are required to complete.</li>
+<li>Many people wish to be exempt from jury duty, but they nevertheless must attend because it is required by law for them to do so.</li>
+<li>The best way to be exempt from punishment by your parents is to not do anything wrong in the first place.</li>
+<li>I wish I could be exempt from school attendance today, but I am required to go to school since I am not sick.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org841e8bf" class="outline-2">
+<h2 id="org841e8bf"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/exert-in-a-sentence/">Exert</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>to apply bodily or intellectual effort</code>
+</p>
+
+<ul class="org-ul">
+<li>The dictator will use military force to exert control over his people.</li>
+<li>Prior to the election, the candidates will exert themselves by traveling across the country to meet voters.</li>
+<li>Did the king really think he could exert power over people who lived thousands of miles away?</li>
+<li>The doctor told me to not exert myself by lifting anything heavy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbe18e2b" class="outline-2">
+<h2 id="orgbe18e2b"><span class="section-number-2">70</span> <a href="https://wordsinasentence.com/exhilarate-in-a-sentence/">Exhilarate</a></h2>
+<div class="outline-text-2" id="text-70">
+<p>
+<code>to make an individual extremely happy</code>
+</p>
+
+<ul class="org-ul">
+<li>Achieving my weight loss goal is sure to exhilarate me.</li>
+<li>According to the author, the purpose of the novel is to exhilarate readers and leave them with happy thoughts.</li>
+<li>Dinner with my best friend never fails to exhilarate me.</li>
+<li>Because Ellen loves chocolate, your gift of a chocolate cake will exhilarate her.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfa874fc" class="outline-2">
+<h2 id="orgfa874fc"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/exigency-in-a-sentence/">Exigency</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>something that is necessary in a particular situation</code>
+</p>
+
+<ul class="org-ul">
+<li>Rules are an exigency inside of a prison or else chaos will reign.</li>
+<li>Although my son hates taking his medicine, it is an exigency that must be consumed for his physical wellbeing.</li>
+<li>Bill’s allergy medication is an exigency he always carries around in case of an attack.</li>
+<li>Until my attacker is found, I consider having a bodyguard to be an exigency.</li>
+<li>Juan’s calming influence was the exigency needed to settle down the unhappy workers.</li>
+<li>Because of a decrease in sales, my company has decided the laying off of workers is an exigency that must be executed in order to keep the business afloat.</li>
+<li>In the hot summer months, a bottle of water is an exigency if you are planning on running several miles.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcc89439" class="outline-2">
+<h2 id="orgcc89439"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/exodus-in-a-sentence/">Exodus</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>a situation in which a lot of people leave a place or activity at the same time</code>
+</p>
+
+<ul class="org-ul">
+<li>One would think that the repeated occurrence of tornadoes in an area would prompt an exodus of the residents to a location with a more stable climate.</li>
+<li>Seconds after Bobby positioned the magnifying glass between the sun and the ant hill, thousands of frantic ants began a hurried exodus in search of safer ground.</li>
+<li>Because of the exodus of so many refugees from the flooded areas, the town’s public shelters were filled to overflowing.</li>
+<li>Tired of the hardships of farming, many families have made an exodus from the country to the city.</li>
+<li>As they made their exodus from the sinking ship to the life rafts, some of the passengers began to sing hymns of faith to hold down the level of panic.</li>
+<li>The town is dying because of the recent exodus of talented college graduates who have left to find their fortunes in the big city.</li>
+<li>The second book of the Old Testament is named Exodus after the story of the thousands of Israelis who followed Moses to escape bondage in Egypt.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org71841c9" class="outline-2">
+<h2 id="org71841c9"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/exonerate-in-a-sentence/">Exonerate</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>to prove that someone is not guilty of a crime or responsible for a problem, bad situation, etc.</code>
+</p>
+
+<ul class="org-ul">
+<li>The job of the defense attorney is to exonerate his clients and keep them out of jail.</li>
+<li>Unfortunately, the video footage does not exonerate Hank of the robbery charges.</li>
+<li>While the accomplice’s testimony did help the police capture their suspect, it did not exonerate the man from his own criminal actions.</li>
+<li>The testimony from the witness will hopefully exonerate my husband of the charges.</li>
+<li>As your lawyer, I will do everything I can to exonerate your restaurant of the food poisoning accusations.</li>
+<li>The arrogant suspect thought he could easily exonerate himself during his testimony.</li>
+<li>Once the appeals court receives the new evidence, it is sure to exonerate Mark of all charges and release him from prison.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9a7fa46" class="outline-2">
+<h2 id="org9a7fa46"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/exorbitant-in-a-sentence/">Exorbitant</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>unreasonably high amount of something; too much</code>
+</p>
+
+<ul class="org-ul">
+<li>The luxury hotel charges an exorbitant rate of $25 for a single cheeseburger.</li>
+<li>Because of my budget, I am unable to make exorbitant purchases.</li>
+<li>While the painters charged us an exorbitant fee, they did very little work.</li>
+<li>Although Jane's apartment is quite lovely, the rent is a bit exorbitant for my taste.</li>
+<li>That lazy security guard is being paid an exorbitant salary to sit on his behind every day!</li>
+<li>Sadly, there was no way the family could afford the exorbitant amount of money demanded by the kidnappers.</li>
+<li>The exorbitant amount the actress paid for that dress could feed at least ten families for a whole month!</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd912291" class="outline-2">
+<h2 id="orgd912291"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/exorcise-in-a-sentence/">Exorcise</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>to drive out an evil spirit from a person, place or thing, especially by an incantation or prayer</code>
+</p>
+
+<ul class="org-ul">
+<li>Many people turn to religion to exorcise themselves from sin.</li>
+<li>The Catholic Church still keeps special priests around ready to exorcise a demon if the need arises.</li>
+<li>The movement existed to exorcise the people from their tyrannical government.</li>
+<li>He was no monster slayer, but he was always ready to exorcise a demon on command.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org11c6c9b" class="outline-2">
+<h2 id="org11c6c9b"><span class="section-number-2">76</span> <a href="https://wordsinasentence.com/expedient-in-a-sentence/">Expedient</a></h2>
+<div class="outline-text-2" id="text-76">
+<p>
+<code>suitable to the circumstances; appropriate</code>
+</p>
+
+<ul class="org-ul">
+<li>Given the fact the police will be looking for us soon, it is expedient we leave this apartment quickly!</li>
+<li>Even though there are adverse effects to taking the medication, the drug’s manufacturer feels it is expedient to ignore these reactions until a later date.</li>
+<li>My mother is a chatty woman and is quite skilled at getting rid of nosey neighbors in an expedient manner.</li>
+<li>While the patient has no insurance, it is expedient that the hospital staff take all life-saving methods, regardless of their costs.</li>
+<li>While I could have taken the train to New York City, I found it more expedient to fly there.</li>
+<li>There has to be a more expedient means of counting the beans than by taking them out of the jar one by one.</li>
+<li>After being surrounded by two dozen police officers, the criminal felt it was an expedient time to lower his weapon.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org68848ee" class="outline-2">
+<h2 id="org68848ee"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/explicate-in-a-sentence/">Explicate</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>to describe something in a lot of detail</code>
+</p>
+
+<ul class="org-ul">
+<li>It took the chemist a long time to explicate the chemical process to the group of financial investors.</li>
+<li>If the auditor finds an error in the accounting records, the treasurer will need to explicate the mistake.</li>
+<li>The lawyer asked the victim to explicate what happened when the defendant attacked him.</li>
+<li>Since I did not understand the medical diagnosis, I asked my doctor to explicate the condition to me.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0d1dc23" class="outline-2">
+<h2 id="org0d1dc23"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/explicit-in-a-sentence/">Explicit</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>specific about rules or what is required</code>
+</p>
+
+<ul class="org-ul">
+<li>The difficult woman left the maid explicit details about how she wanted her house cleaned.</li>
+<li>Because the agreement was over forty pages long, it took me a long time to read the explicit terms of the divorce settlement.</li>
+<li>The bank representative made sure the borrower was aware of the explicit terms of the loan agreement.</li>
+<li>Since the tournament rules are explicit, there is no excuse for the athlete’s actions.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga2047b6" class="outline-2">
+<h2 id="orga2047b6"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/expository-in-a-sentence/">Expository</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>designed to define or explain</code>
+</p>
+
+<ul class="org-ul">
+<li>The play begins with an expository monologue explaining where the story takes place.</li>
+<li>As a response to the expository essay question, students should define their five-year goals.</li>
+<li>The article is an expository piece that explains the difference between an allergic reaction and an anaphylactic response.</li>
+<li>In my expository paper, I described the easiest way to make a delicious “No Bake” chocolate cake.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org89252eb" class="outline-2">
+<h2 id="org89252eb"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/exquisite-in-a-sentence/">Exquisite</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>especially fine or pleasing; exceptional</code>
+</p>
+
+<ul class="org-ul">
+<li>She wore an exquisite dress, which left all the guests staring in surprise.</li>
+<li>The wedding cake was absolutely exquisite, unlike any he had seen before.</li>
+<li>The chef made an exquisite presentation with the meal for the evening.</li>
+<li>He had an exquisite sense of style, which was unusual for a country boy.</li>
+<li>The painter was known for his exquisite works of art.</li>
+<li>Even though it was an exquisite work, the sculpture was too expensive for anyone to show real interest.</li>
+<li>He believed that this exquisite necklace would help him woe his girlfriend.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org74d6a68" class="outline-2">
+<h2 id="org74d6a68"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/extant-in-a-sentence-2/">Extant</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>still around; not extinct</code>
+</p>
+
+<ul class="org-ul">
+<li>The extant writings of the ancient philosopher are still quite popular with philosophy students.</li>
+<li>Because the jazz singer did not record many of her songs, a number of her best tunes are not extant today.</li>
+<li>Although the painter is dead, many of his paintings are extant and available for viewing in the museum named after him.</li>
+<li>At thirty-two years of age, Jordan is the extant child who will not move out of her parents’ house.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org11ddc6d" class="outline-2">
+<h2 id="org11ddc6d"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/exterminate-in-a-sentence/">Exterminate</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>to destroy completely</code>
+</p>
+
+<ul class="org-ul">
+<li>Needing help to exterminate the bugs, the pest control worker ordered specialized repellant.</li>
+<li>Although his goal was to exterminate the boll weevil, the farmer accidently killed other helpful insects.</li>
+<li>While trying to exterminate the weeds in his outdoor space, the gardener became sick from the fumes.</li>
+<li>Because of World War II, Adolf Hitler was not able to exterminate the Jews as he had planned.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb7dead6" class="outline-2">
+<h2 id="orgb7dead6"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/extol-in-a-sentence/">Extol</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>to praise</code>
+</p>
+
+<ul class="org-ul">
+<li>Because Helen and Gina were jealous of their sister’s good fortune, they did not extol her when she won the academic scholarship.</li>
+<li>I got angry when my mother would extol my brother’s accomplishments and ignore all the good things I did.</li>
+<li>During the church service, the minister went out of his way to extol the contributions of the children’s youth choir.</li>
+<li>Unfortunately, young people have began to extol celebrities instead of the real heroes like teachers and police officers.</li>
+<li>Shallow people always extol beauty more than they do character.</li>
+<li>Everyone wanted to know what words the president would use to extol the fallen heroes.</li>
+<li>Because Jeffrey was an arrogant person, he could not extol anyone else without first admiring himself.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org890ad60" class="outline-2">
+<h2 id="org890ad60"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/extract-in-a-sentence/">Extract</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>to pull an object from something in order to remove it, usually with force</code>
+</p>
+
+<ul class="org-ul">
+<li>When the dentist noticed the infected tissue around his patient's gums, he knew he would have to extract the tooth.</li>
+<li>She used tweezers to extract the splinter from her crying toddler's finger.</li>
+<li>The forensic scientist used forceps to extract a bullet lodged in the victim's abdomen.</li>
+<li>The phlebotomist eased the syringe into the donor's arm and pulled back the plunger to extract a blood sample.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6305f22" class="outline-2">
+<h2 id="org6305f22"><span class="section-number-2">85</span> <a href="https://wordsinasentence.com/extraneous-in-a-sentence/">Extraneous</a></h2>
+<div class="outline-text-2" id="text-85">
+<p>
+<code>not essential or coming from the outside</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of so many extraneous details in the instructions, Dad wasn’t able to put the toy together in time for Christmas morning.</li>
+<li>If you slip off your diet, the extraneous calories will make you gain all the weight you lost.</li>
+<li>The extraneous noise from the street was keeping us awake all night, so we moved to a different apartment.</li>
+<li>This author seems more interested in impressing his readers than entertaining them; all the extraneous words make this book very tedious.</li>
+<li>The speaker had to keep pausing to wait for the extraneous conversation to settle down.</li>
+<li>I always check my credit card bills for extraneous charges.</li>
+<li>The team received a penalty because there were two extraneous players on the field.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgea21b2d" class="outline-2">
+<h2 id="orgea21b2d"><span class="section-number-2">86</span> <a href="https://wordsinasentence.com/extremity-in-a-sentence/">Extremity</a></h2>
+<div class="outline-text-2" id="text-86">
+<p>
+<code>a risky measure</code>
+</p>
+
+<ul class="org-ul">
+<li>Who would have ever thought Patrick would go to the extremity of jumping out of an airplane to propose to Michelle?</li>
+<li>The financial extremity could cause us to lose our entire company.</li>
+<li>Because Nick was about to lose his home, he was willing to take the extremity of betting his entire paycheck on a single race.</li>
+<li>When James assumed the extremity of standing up to my father, I knew he was the right guy for me.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org1ec1e10" class="outline-2">
+<h2 id="org1ec1e10"><span class="section-number-2">87</span> <a href="https://wordsinasentence.com/exuberant-in-a-sentence/">Exuberant</a></h2>
+<div class="outline-text-2" id="text-87">
+<p>
+<code>filled with energy and enthusiasm</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though Johnny was not a very good basketball player, he had such an exuberant attitude that he came across as one of the stars of the team.</li>
+<li>The travel writer was exuberant in her praise of the luxurious cruise ship.</li>
+<li>Because Carol has such an exuberant personality, she is a fantastic hostess.</li>
+<li>The contest winner was exuberant when she learned she would receive the prize money that would allow her to go to college.</li>
+<li>Since Marie was not exuberant about playing the piano, she often skipped her lessons.</li>
+<li>The exuberant photographer was willing to climb the mountain to get the perfect photo.</li>
+<li>When Larry jumped out of his seat, everyone knew he was about to make an exuberant marriage proposal to his girlfriend.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0cc31d2" class="outline-2">
+<h2 id="org0cc31d2"><span class="section-number-2">88</span> <a href="https://wordsinasentence.com/easel-in-a-sentence/">Easel</a></h2>
+<div class="outline-text-2" id="text-88">
+<p>
+<code>a display stand usually for artwork</code>
+</p>
+
+<ul class="org-ul">
+<li>The artist’s easel stood in the corner until the artist would get it out to begin painting.</li>
+<li>In order for people to know the family is having a garage sale, the mother put the easel at the edge of the driveway with a sign on it.</li>
+<li>The famous painter would first stand for hours in front of his easel wondering what he should draw first.</li>
+<li>After prying the tripod legs apart of the easel, it stood on its own so the man could set the paper on it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8481958" class="outline-2">
+<h2 id="org8481958"><span class="section-number-2">89</span> <a href="https://wordsinasentence.com/ebullient-in-a-sentence/">Ebullient</a></h2>
+<div class="outline-text-2" id="text-89">
+<p>
+<code>cheerful and full of energy</code>
+</p>
+
+<ul class="org-ul">
+<li>The ebullient song was so uplifting that I danced in my chair.</li>
+<li>Because my Uncle Jake has an ebullient personality, he is a great circus clown.</li>
+<li>Jack always felt ebullient after drinking his morning coffee.</li>
+<li>After being stranded in the airport for eight hours, we were far from ebullient.</li>
+<li>When Matthew lost his job, he was no longer ebullient and excited about his future.</li>
+<li>My aunt is an ebullient woman who can always see the rainbow through the clouds.</li>
+<li>While my friend Sarah always seems to be depressed, her husband Mark is generally ebullient.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc68273c" class="outline-2">
+<h2 id="orgc68273c"><span class="section-number-2">90</span> <a href="https://wordsinasentence.com/ecstasy-in-a-sentence/">Ecstasy</a></h2>
+<div class="outline-text-2" id="text-90">
+<p>
+<code>a state of intense happiness and pleasure</code>
+</p>
+
+<ul class="org-ul">
+<li>When I saw my favorite singer in concert, I was in ecstasy.</li>
+<li>Whenever I eat at my favorite restaurant, I am in ecstasy.</li>
+<li>I was in ecstasy as I embarked on my long-awaited trip to Paris.</li>
+<li>We watched in ecstasy as my brother returned from deployment.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0a30684" class="outline-2">
+<h2 id="org0a30684"><span class="section-number-2">91</span> <a href="https://wordsinasentence.com/ecstatic-in-a-sentence/">Ecstatic</a></h2>
+<div class="outline-text-2" id="text-91">
+<p>
+<code>exceptionally happy</code>
+</p>
+
+<ul class="org-ul">
+<li>Ann was ecstatic when Henry finally proposed.</li>
+<li>When a snow day was announced, the students were ecstatic to miss a day of school.</li>
+<li>Jim has been ecstatic ever since he learned of his wife’s pregnancy.</li>
+<li>As soon as the parade started, ecstatic children began to yell.</li>
+<li>Because my daughter has always wanted a puppy, she was ecstatic when she received one for her birthday.</li>
+<li>Ellen was ecstatic when she won the free trip to Hawaii.</li>
+<li>Since Matt’s kids love to swim, they were ecstatic when they learned they were spending the entire summer at the beach.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2a3ec8a" class="outline-2">
+<h2 id="org2a3ec8a"><span class="section-number-2">92</span> <a href="https://wordsinasentence.com/ecumenical-in-a-sentence/">Ecumenical</a></h2>
+<div class="outline-text-2" id="text-92">
+<p>
+<code>representing several different Christian churches</code>
+</p>
+
+<ul class="org-ul">
+<li>Ecumenical services were used to bring Protestants, nondenominational believers, and Baptists all into the same worship center.</li>
+<li>Although the school was founded by a Pentecostal church, the school is ecumenical and welcomes students of all faiths.</li>
+<li>Ecumenical prayer services are held at the prison as a way to unite inmates of various Christian faiths.</li>
+<li>An ecumenical community meeting included leaders of all of the local churches and was used to bring neighborhood unity.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org722bc27" class="outline-2">
+<h2 id="org722bc27"><span class="section-number-2">93</span> <a href="https://wordsinasentence.com/edgy-in-a-sentence/">Edgy</a></h2>
+<div class="outline-text-2" id="text-93">
+<p>
+<code>jumpy and tense</code>
+</p>
+
+<ul class="org-ul">
+<li>After the plane continued to shake uncontrollably, the passengers began to get edgy for fear of the plane crashing.</li>
+<li>Observing his master talking to an unknown man, the edgy dog didn’t trust the stranger and started to growl at him.</li>
+<li>An edgy situation occurred for the workers when their elevator got stuck on the thirteenth floor.</li>
+<li>After lack of sleep, the edgy man worried that he would pass out during his important presentation.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org92bf8ce" class="outline-2">
+<h2 id="org92bf8ce"><span class="section-number-2">94</span> <a href="https://wordsinasentence.com/eerie-in-a-sentence/">Eerie</a></h2>
+<div class="outline-text-2" id="text-94">
+<p>
+<code>strange, weird, fear-inspiring</code>
+</p>
+
+<ul class="org-ul">
+<li>The eerie fog over the lake sent shivers up my spine.</li>
+<li>There was an eerie silence on our early morning walk through the cemetery.</li>
+<li>An eerie feeling came over us as we watched the scary movie.</li>
+<li>The sky became dark quickly, causing an eerie glow from the oncoming storm.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6d97826" class="outline-2">
+<h2 id="org6d97826"><span class="section-number-2">95</span> <a href="https://wordsinasentence.com/effeminate-in-a-sentence/">Effeminate</a></h2>
+<div class="outline-text-2" id="text-95">
+<p>
+<code>exhibiting behaviors that are considered feminine</code>
+</p>
+
+<ul class="org-ul">
+<li>The man’s shoulder length hair made him appear effeminate.</li>
+<li>Since my grandmother is old school, she believes any man who wears earrings is effeminate and trying to be a woman.</li>
+<li>Hugh’s fake eyelashes made him look more effeminate than masculine.</li>
+<li>When the spoiled boy put his hand on his hip during his tantrum, he looked very effeminate.</li>
+<li>The openly gay man is happy people recognize him as an effeminate male.</li>
+<li>During the team meeting, the coach promised to suspend anyone who bullied the effeminate team member who occasionally dressed in feminine clothing.</li>
+<li>Jack wore so much makeup during the play that he looked effeminate under the spotlight.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd0ca95d" class="outline-2">
+<h2 id="orgd0ca95d"><span class="section-number-2">96</span> <a href="https://wordsinasentence.com/effrontery-in-a-sentence/">Effrontery</a></h2>
+<div class="outline-text-2" id="text-96">
+<p>
+<code>shameless boldness</code>
+</p>
+
+<ul class="org-ul">
+<li>I was shocked by the mugger’s effrontery to kiss me after grabbing my bag.</li>
+<li>When the defendant put his feet up on the table, the judge scolded him for his effrontery.</li>
+<li>My cheating husband has the effrontery to accuse me of being disloyal to him.</li>
+<li>Although I have an advanced degree in business, my boss still had the effrontery to ask me to bring him coffee.</li>
+<li>While Matt may have enjoyed dancing on top of the table, the bar owner was not pleased with his effrontery and banned him from the bar.</li>
+<li>The two policemen laughed at the effrontery of the criminal who tried to disguise himself by dressing as a woman.</li>
+<li>When the speaker stripped down to his underwear, everyone in the audience was shocked at his effrontery.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7bb2444" class="outline-2">
+<h2 id="org7bb2444"><span class="section-number-2">97</span> <a href="https://wordsinasentence.com/effulgent-in-a-sentence/">Effulgent</a></h2>
+<div class="outline-text-2" id="text-97">
+<p>
+<code>glowing; radiant</code>
+</p>
+
+<ul class="org-ul">
+<li>The effulgent sun was shining brightly as we headed out for our picnic.</li>
+<li>As the bride walked down the aisle, she looked effulgent in her sparkling gown.</li>
+<li>Ginger’s blonde hair sparkled under the photographer’s effulgent lights.</li>
+<li>Using the light of the effulgent moon, the lost girl was able to find her way to the ranger’s station.</li>
+<li>The newlyweds kissed before turning to glance at the effulgent sunrise.</li>
+<li>After being in a basement for months, the hostage had to wear sunglasses to protect his eyes from the effulgent sunbeams.</li>
+<li>Karen was beautiful and effulgent during her pregnancy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org25db23b" class="outline-2">
+<h2 id="org25db23b"><span class="section-number-2">98</span> <a href="https://wordsinasentence.com/eidetic-in-a-sentence/">Eidetic</a></h2>
+<div class="outline-text-2" id="text-98">
+<p>
+<code>having the ability to recollect images with great detail</code>
+</p>
+
+<ul class="org-ul">
+<li>Teachers sometimes doubted Evan’s eidetic memory since he could make a perfect score on the test by only seeing the test information once.</li>
+<li>Using her eidetic sense, Karen could identify every quality and aspect of the busy photograph down to its tiniest feature.</li>
+<li>At first, the police thought that the psychic only had an eidetic memory, but she proved that she could explain everything at the crime scene even though she had never been there.</li>
+<li>The psychologists assessed the students with an eidetic section of the test to determine how much they could remember from a displayed scene.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div id="outline-container-org540a11d" class="outline-2">
+<h2 id="org540a11d"><span class="section-number-2">99</span> <a href="https://wordsinasentence.com/elegy-in-a-sentence/">Elegy</a></h2>
+<div class="outline-text-2" id="text-99">
+<p>
+<code>a poem or song displaying grief or mourning</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I am not an animal lover, I could only sigh as Ann sang an elegy for her dead cat.</li>
+<li>The celebrated poet has been chosen to write an elegy for the people who died in the terrorist attacks.</li>
+<li>During the funeral, Clay played an instrumental elegy for his brother.</li>
+<li>The teenager wrote an elegy describing the end of her longest relationship.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org164d08b" class="outline-2">
+<h2 id="org164d08b"><span class="section-number-2">100</span> <a href="https://wordsinasentence.com/elocution-in-a-sentence/">Elocution</a></h2>
+<div class="outline-text-2" id="text-100">
+<p>
+<code>the way in which an individual reads or speaks in front of others</code>
+</p>
+
+<ul class="org-ul">
+<li>During the play, the actor’s elocution was so magnificent the audience grew bored whenever he was not on stage.</li>
+<li>My mother was a professor of elocution who taught politicians and other important individuals how to speak in front of large groups.</li>
+<li>Before I took lessons in elocution, I was an awful speaker.</li>
+<li>Ellen will need to work on her elocution before she competes in the public speaking competition.</li>
+<li>Because Marilyn’s elocution is excellent, she has been selected to introduce the guest speaker.</li>
+<li>The immigrant’s elocution of the English language was very difficult for me to understand.</li>
+<li>Since the teacher is grading our presentations mainly on elocution, I am going to rehearse my speech several times.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div id="outline-container-org709b671" class="outline-2">
+<h2 id="org709b671"><span class="section-number-2">101</span> <a href="https://wordsinasentence.com/emaciated-in-a-sentence/">Emaciated</a></h2>
+<div class="outline-text-2" id="text-101">
+<p>
+<code>abnormally thin or weak, especially because of illness or a lack of food</code>
+</p>
+
+<ul class="org-ul">
+<li>Because some sick animals refuse to eat, many of them become emaciated.</li>
+<li>The emaciated boy was too weak to fight off his kidnapper.</li>
+<li>Although the prisoners of war were fed three meals a day, many of them still looked emaciated and hungry.</li>
+<li>Jim’s long-term illness is causing him to appear emaciated.</li>
+<li>During the winter, many deer become emaciated and die because of a food shortage.</li>
+<li>Our troops are not winning the war because the starving soldiers are too emaciated to fight.</li>
+<li>Because the puppy had gone unfed for several days, it was now so emaciated that its bones were visible through its skin.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org41f1445" class="outline-2">
+<h2 id="org41f1445"><span class="section-number-2">102</span> <a href="https://wordsinasentence.com/emanate-in-a-sentence/">Emanate</a></h2>
+<div class="outline-text-2" id="text-102">
+<p>
+<code>to come out from a source</code>
+</p>
+
+<ul class="org-ul">
+<li>Hopefully, the fun memories of the weekend will emanate throughout the office and give all the employees a positive outlook this week.</li>
+<li>The bright light on the porch seems to emanate throughout the front yard.</li>
+<li>After the hurricane, the east coast insurance office will process any claims that emanate from within the southern portion of the United States.</li>
+<li>Happiness seemed to emanate from Frances on her wedding day.</li>
+<li>At the party, the music will emanate from the speakers and fill the entire room.</li>
+<li>A feeling of peace seems to emanate from the nun.</li>
+<li>Despite what the ghost hunters said, we have never heard any sounds emanate from the abandoned house.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0293749" class="outline-2">
+<h2 id="org0293749"><span class="section-number-2">103</span> <a href="https://wordsinasentence.com/emasculate-in-a-sentence/">Emasculate</a></h2>
+<div class="outline-text-2" id="text-103">
+<p>
+<code>emasculate means to lessen a man’s identity</code>
+</p>
+
+<ul class="org-ul">
+<li>He was worried his pink pants would emasculate him a bit, but he wore them anyway.</li>
+<li>Although the strain of his unemployment was stressful, she didn't have to emasculate him.</li>
+<li>The general was concerned that the government would emasculate the armed forces for financial reasons.</li>
+<li>Trying not to emasculate her boyfriend, she will let him propose to her when he’s ready.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org89912ef" class="outline-2">
+<h2 id="org89912ef"><span class="section-number-2">104</span> <a href="https://wordsinasentence.com/embargo-in-a-sentence/">Embargo</a></h2>
+<div class="outline-text-2" id="text-104">
+<p>
+<code>a government ban on trade with a specific country</code>
+</p>
+
+<ul class="org-ul">
+<li>The United State’s embargo against trade with North Korea has created tension between the two countries.</li>
+<li>Sadly, the embargo on travel will prevent many charitable organizations from giving aid and food to sick children.</li>
+<li>Decades ago Western nations faced a fuel shortage when the Arab countries placed an embargo on petroleum trades.</li>
+<li>With the wall gradually falling down between the U.S. and Cuba, the travel embargo should soon be lifted.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc2462e2" class="outline-2">
+<h2 id="orgc2462e2"><span class="section-number-2">105</span> <a href="https://wordsinasentence.com/embody-in-a-sentence/">Embody</a></h2>
+<div class="outline-text-2" id="text-105">
+<p>
+<code>to stand as a symbol for something</code>
+</p>
+
+<ul class="org-ul">
+<li>The national flag is supposed to embody the spirit of our country.</li>
+<li>When I learned the name of the restaurant was TaTas, I did not view it as a good name to embody a family dining establishment.</li>
+<li>The knight asked the blacksmith to design a shield that would embody his loyalty to his king.</li>
+<li>Hopefully, the president’s family will recognize my desire to embody his spirit of giving in my design of his museum.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge28a66a" class="outline-2">
+<h2 id="orge28a66a"><span class="section-number-2">106</span> <a href="https://wordsinasentence.com/embolden-in-a-sentence/">Embolden</a></h2>
+<div class="outline-text-2" id="text-106">
+<p>
+<code>to motivate or inspire</code>
+</p>
+
+<ul class="org-ul">
+<li>Do you believe alcohol commercials embolden teens to drink?</li>
+<li>The coach hoped his speech would embolden his team to win the playoff game.</li>
+<li>If we give in to the terrorists, our actions will embolden other terrorist groups to commit the same criminal acts.</li>
+<li>The loss will only embolden me to work harder to earn a medal in the next Olympics.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0238c89" class="outline-2">
+<h2 id="org0238c89"><span class="section-number-2">107</span> <a href="https://wordsinasentence.com/embroiled-in-a-sentence/">Embroiled</a></h2>
+<div class="outline-text-2" id="text-107">
+<p>
+<code>pulled into a situation</code>
+</p>
+
+<ul class="org-ul">
+<li>I avoided my two best friends because I did not want to get embroiled in their dispute.</li>
+<li>When Jim accepted the package from his friend, he did not realize he had embroiled himself in a drug smuggling operation.</li>
+<li>Caroline’s testimony against her sister-in-law embroiled her in a brutal custody battle.</li>
+<li>After drinking too much, Marcus became embroiled in a fight with a total stranger.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6fe0c35" class="outline-2">
+<h2 id="org6fe0c35"><span class="section-number-2">108</span> <a href="https://wordsinasentence.com/emissary-in-a-sentence/">Emissary</a></h2>
+<div class="outline-text-2" id="text-108">
+<p>
+<code>an individual who acts on behalf of another person</code>
+</p>
+
+<ul class="org-ul">
+<li>The celebrity sent his assistant as an emissary to pick up the movie contract.</li>
+<li>As an emissary for his client, the lawyer approached the prosecutor about a plea bargain.</li>
+<li>My best friend sent me as an emissary to ask her father if she could attend my sleepover.</li>
+<li>When Jackson works as a courier, he functions as an emissary who delivers packages for people.</li>
+<li>Because Gregory was the prince’s emissary, he often stood in for the royal at special events.</li>
+<li>The district manager is sending his emissary to review branch accounts before the audit takes place.</li>
+<li>Since Bill has my power of attorney, he can act as my emissary in financial negotiations.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org959430a" class="outline-2">
+<h2 id="org959430a"><span class="section-number-2">109</span> <a href="https://wordsinasentence.com/enclosure-in-a-sentence/">Enclosure</a></h2>
+<div class="outline-text-2" id="text-109">
+<p>
+<code>an area that is surrounded by a fence, wall, etc</code>
+</p>
+
+<ul class="org-ul">
+<li>The enclosure was filled with cows grazing in the field.</li>
+<li>To keep the cows from straying too far, the farmer built an enclosure.</li>
+<li>The secret agents were having a difficult time breaching the enclosure to the lair.</li>
+<li>My favorite part of the zoo is looking at the snakes in the reptile enclosure.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org99ee677" class="outline-2">
+<h2 id="org99ee677"><span class="section-number-2">110</span> <a href="https://wordsinasentence.com/enfeebled-in-a-sentence/">Enfeebled</a></h2>
+<div class="outline-text-2" id="text-110">
+<p>
+<code>made physically or mentally weak or feeble</code>
+</p>
+
+<ul class="org-ul">
+<li>After months in captivity, the enfeebled survivors were too weak to walk out of the camp.</li>
+<li>Several attacks on the troop left it enfeebled and too frail to continue in battle.</li>
+<li>Weakened and enfeebled, the exhausted toddler had to be carried everywhere by her parents.</li>
+<li>The most enfeebled members of the explorer party were too weakened to finish the hike.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgff65129" class="outline-2">
+<h2 id="orgff65129"><span class="section-number-2">111</span> <a href="https://wordsinasentence.com/engaging-in-a-sentence/">Engaging</a></h2>
+<div class="outline-text-2" id="text-111">
+<p>
+<code>connecting; joining</code>
+</p>
+
+<ul class="org-ul">
+<li>Engaging in a heated argument with her husband, the angry wife refused to back down.</li>
+<li>The two sides of the war were still engaging in battle as of early this morning.</li>
+<li>Engaging in light conversation while working can help the day go by faster.</li>
+<li>Even though they are not engaging in criminal activity at the moment, the police are still watching the family.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1745efc" class="outline-2">
+<h2 id="org1745efc"><span class="section-number-2">112</span> <a href="https://wordsinasentence.com/engross-in-a-sentence/">Engross</a></h2>
+<div class="outline-text-2" id="text-112">
+<p>
+<code>to completely capture attention or focus</code>
+</p>
+
+<ul class="org-ul">
+<li>Hopefully the plastic keys will engross the crying baby for a while.</li>
+<li>If the appetizers do not engross the food critic, he will probably pass on our entrées.</li>
+<li>The critic gave the movie a poor review because it failed to engross his concentration.</li>
+<li>Since football does not engross Alan, he never watches any of the games.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org161a020" class="outline-2">
+<h2 id="org161a020"><span class="section-number-2">113</span> <a href="https://wordsinasentence.com/engulf-in-a-sentence/">Engulf</a></h2>
+<div class="outline-text-2" id="text-113">
+<p>
+<code>to totally surround or cover</code>
+</p>
+
+<ul class="org-ul">
+<li>The lava will begin to engulf the abandoned city in six hours.</li>
+<li>If the fire seems as though it’s going to engulf the entire community, the local fire department will call in nearby stations.</li>
+<li>Hopefully the politician’s past mistakes will not engulf his campaign.</li>
+<li>Once the levees fall, water will engulf the town.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3fff6e3" class="outline-2">
+<h2 id="org3fff6e3"><span class="section-number-2">114</span> <a href="https://wordsinasentence.com/enjoin-in-a-sentence/">Enjoin</a></h2>
+<div class="outline-text-2" id="text-114">
+<p>
+<code>to prohibit someone from performing an action</code>
+</p>
+
+<ul class="org-ul">
+<li>The angry man wanted the judge to grant an injunction to enjoin his ex-wife from selling their vacation home.</li>
+<li>After my father learns I failed all of my exams, he will probably take steps to enjoin me from using my credit cards.</li>
+<li>The company shareholders are banding together to enjoin the board from agreeing to a merger that would decrease the value of their stock options.</li>
+<li>Because I am seeking to enjoin my ex from having visitation rights with my children, I must go to court and explain my reasons to the judge.</li>
+<li>The purpose of the injunction is to enjoin the developer from tearing down the historical building.</li>
+<li>Once the police heard the young woman’s story, they urged her to get a restraining order to enjoin her ex-boyfriend from stalking her.</li>
+<li>The environmentalist hopes to get an injunction to enjoin the city from demolishing the park to build a museum.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge3367e9" class="outline-2">
+<h2 id="orge3367e9"><span class="section-number-2">115</span> <a href="https://wordsinasentence.com/enliven-in-a-sentence/">Enliven</a></h2>
+<div class="outline-text-2" id="text-115">
+<p>
+<code>to revitalize or spice up a situation or activity</code>
+</p>
+
+<ul class="org-ul">
+<li>Miranda turned on some upbeat techno to enliven the boring party.</li>
+<li>In Victorian times, wealthy women would host psychics and mediums to hold a seance to enliven their typical parties.</li>
+<li>The teacher added videos and songs to enliven her lessons.</li>
+<li>The calculus teacher invented an interactive scavenger hunt in order to enliven a particularly boring lesson.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8319777" class="outline-2">
+<h2 id="org8319777"><span class="section-number-2">116</span> <a href="https://wordsinasentence.com/ennoble-in-a-sentence/">Ennoble</a></h2>
+<div class="outline-text-2" id="text-116">
+<p>
+<code>to bestow with nobility, honor or grace</code>
+</p>
+
+<ul class="org-ul">
+<li>The police commissioner will ennoble Officer Pantowski with a medal for service above and beyond the call of duty, an honor few officers receive.</li>
+<li>The king had the ability to ennoble men of exceptional honor to knighthood.</li>
+<li>Queen Elizabeth saw fit to ennoble Sir Elton John with the honor of knighthood for his contributions to music and charity.</li>
+<li>The actress was able to ennoble the character with such grace that it was easy to believe she was a queen.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9982c2d" class="outline-2">
+<h2 id="org9982c2d"><span class="section-number-2">117</span> <a href="https://wordsinasentence.com/ennui-in-a-sentence/">Ennui</a></h2>
+<div class="outline-text-2" id="text-117">
+<p>
+<code>boredom arising from a lack of interest or activity</code>
+</p>
+
+<ul class="org-ul">
+<li>Ennui crept up in the heart of the lonely child who had nothing better to do than to take a nap.</li>
+<li>The course was once full of ennui, but the professor later spiced up our lectures with engaging classroom discussion.</li>
+<li>Despite his ennui, Kurt was able to push past his boredom and finish his homework.</li>
+<li>The uninterested students were filled with a sense of ennui when listening to the boring lecture.</li>
+<li>Change to a more exciting career if you have an ennui for working at your current job.</li>
+<li>Let us escape from the ennui of sitting around the house and go to the beach for a change.</li>
+<li>Mental ennui took over the minds of the weary prisoners suffering from solitary boredom.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org130d8bf" class="outline-2">
+<h2 id="org130d8bf"><span class="section-number-2">118</span> <a href="https://wordsinasentence.com/enraptured-in-a-sentence/">Enraptured</a></h2>
+<div class="outline-text-2" id="text-118">
+<p>
+<code>filled with joy or pleasure</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I was marrying the man I loved, I was enraptured as I walked down the aisle.</li>
+<li>My dog is always enraptured when I return home from work.</li>
+<li>When John was reunited with his missing daughter, he was enraptured.</li>
+<li>The greedy child is enraptured at the sight of a chocolate chip cookie.</li>
+<li>The pregnant woman was enraptured every time she ate her favorite dish.</li>
+<li>As soon as the last note was played, the enraptured audience began applauding the orchestra’s performance.</li>
+<li>Anna was enraptured as she watched her daughter’s baptism ceremony.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org066b573" class="outline-2">
+<h2 id="org066b573"><span class="section-number-2">119</span> <a href="https://wordsinasentence.com/ensconced-in-a-sentence/">Ensconced</a></h2>
+<div class="outline-text-2" id="text-119">
+<p>
+<code>in a safe and/or comfortable place</code>
+</p>
+
+<ul class="org-ul">
+<li>There is no need to worry about the witness because she is ensconced in the safe house.</li>
+<li>Once my youngest daughter is ensconced in her bed, I can enjoy some quiet time.</li>
+<li>Santa Claus is ensconced in the armchair and waiting for the first child to arrive.</li>
+<li>As soon as Helen arrived at the beautiful cabin, she knew she could be ensconced there forever.</li>
+<li>The rabbit was content to be ensconced in a garden filled with carrots.</li>
+<li>When the singer learned she would be ensconced in a luxury hotel while serving her jail sentence, she was very happy.</li>
+<li>The alcoholic had been ensconced at the bar all day.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1b3da4e" class="outline-2">
+<h2 id="org1b3da4e"><span class="section-number-2">120</span> <a href="https://wordsinasentence.com/ensnare-in-a-sentence/">Ensnare</a></h2>
+<div class="outline-text-2" id="text-120">
+<p>
+<code>to catch something in a trap</code>
+</p>
+
+<ul class="org-ul">
+<li>The hunter’s plan to ensnare the rabbit was cut short by a storm.</li>
+<li>A spider succeeded in catching his dinner when he used a web to ensnare the fly.</li>
+<li>The rodeo star tried to ensnare the calf with the rope but missed by an inch.</li>
+<li>Makeup, hair, and fashion could not ensnare the faithful husband in the woman’s trap.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgacada60" class="outline-2">
+<h2 id="orgacada60"><span class="section-number-2">121</span> <a href="https://wordsinasentence.com/entreat-in-a-sentence/">Entreat</a></h2>
+<div class="outline-text-2" id="text-121">
+<p>
+<code>to make an important request; ask for</code>
+</p>
+
+<ul class="org-ul">
+<li>I entreat you to donate some time tomorrow for our neighborhood clean-up program.</li>
+<li>The teacher would entreat her students to arrive to class on time.</li>
+<li>Every time I entreat for a raise, my boss says "No!"</li>
+<li>Could you kindly entreat that loudmouth to whisper in the library?</li>
+<li>I entreat you to answer my question!</li>
+<li>The hurricane victims entreat for basic necessities.</li>
+<li>Though Jim was caught cheating with another woman, he would entreat his girlfriend for a second chance.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb876d7d" class="outline-2">
+<h2 id="orgb876d7d"><span class="section-number-2">122</span> <a href="https://wordsinasentence.com/epidermis-in-a-sentence/">Epidermis</a></h2>
+<div class="outline-text-2" id="text-122">
+<p>
+<code>the external layer or skin</code>
+</p>
+
+<ul class="org-ul">
+<li>The wooden splinter is just beneath the epidermis of my left foot.</li>
+<li>In biology class, we learned the epidermis was the outer layer of skin covering our bodies.</li>
+<li>In order to maintain moisture in her epidermis, Kelly applies lotion to her body twice a day.</li>
+<li>While the epidermis is constantly peeling, new skin cells are being produced.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc247fb0" class="outline-2">
+<h2 id="orgc247fb0"><span class="section-number-2">123</span> <a href="https://wordsinasentence.com/epigram-in-a-sentence/">Epigram</a></h2>
+<div class="outline-text-2" id="text-123">
+<p>
+<code>a brief and witty saying or poem</code>
+</p>
+
+<ul class="org-ul">
+<li>At his daughter’s wedding, Jason shared a heartwarming epigram he had written.</li>
+<li>The cute epigram on the Valentine’s card made me smile.</li>
+<li>During his speech, the president quoted an epigram from one of his favorite poets.</li>
+<li>Sheila won the poetry contest with her insightful epigram about death.</li>
+<li>Unfortunately, there was only one epigram in the comedian’s set that made the audience laugh.</li>
+<li>The epigram contest winner will earn ten thousand dollars for writing a short and funny poem about the company's product.</li>
+<li>If you can refuse everything but temptation, you are agreeing with a popular epigram made famous by Oscar Wilde.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9f52556" class="outline-2">
+<h2 id="org9f52556"><span class="section-number-2">124</span> <a href="https://wordsinasentence.com/epilogue-in-a-sentence/">Epilogue</a></h2>
+<div class="outline-text-2" id="text-124">
+<p>
+<code>a brief speech that ends a literary creation</code>
+</p>
+
+<ul class="org-ul">
+<li>At the end of the play, the actor presented an epilogue to summarize the tale.</li>
+<li>The novel’s epilogue brought closure to the story.</li>
+<li>In the epilogue, we learn the book’s main character lives happily ever after with the handsome millionaire.</li>
+<li>It took Jane a couple of weeks to write the epilogue that brought her novel to a close.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge060b12" class="outline-2">
+<h2 id="orge060b12"><span class="section-number-2">125</span> <a href="https://wordsinasentence.com/epithet-in-a-sentence/">Epithet</a></h2>
+<div class="outline-text-2" id="text-125">
+<p>
+<code>a word or phrase that describes a person or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>The epithet “Curly” is used to describe the big football player with the curly hair.</li>
+<li>Although the epithet “nerd” was once thought uncool, today the word is associated with some of the richest men on the planet.</li>
+<li>Gwen earned the epithet of “fastest woman on earth” after winning four gold medals in track in the last Olympics.</li>
+<li>Because Janet could not gain weight no matter how much she ate, she did not appreciate the epithet of “beanpole”.</li>
+<li>Sarah did not appreciate people calling her the epithet of “poor little rich girl” whenever she complained about the drawbacks of having celebrity parents.</li>
+<li>Although John heard the epithet his enemy used to describe him, he simply walked away from the argument.</li>
+<li>“Loving wife and mother” was the epithet my father placed on my mother’s headstone.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4857d67" class="outline-2">
+<h2 id="org4857d67"><span class="section-number-2">126</span> <a href="https://wordsinasentence.com/epitomized-in-a-sentence/">Epitomized</a></h2>
+<div class="outline-text-2" id="text-126">
+<p>
+<code>used as a model of something</code>
+</p>
+
+<ul class="org-ul">
+<li>Before his career-ending injury, Dwayne epitomized the world’s idea of the best basketball player on the planet.</li>
+<li>The committee selected James to be the new pastor because he epitomized the uppermost standards of honesty and generosity.</li>
+<li>When my teacher gave me the award for most outstanding project, she told me my assignment epitomized excellence in the field of physics.</li>
+<li>James won the employee of the month award because he epitomized the values of the company.</li>
+<li>Because Peterson epitomized the public’s opinion of a great leader, he was elected president by a wide margin.</li>
+<li>Jim was a great employee who epitomized the perfect worker by always giving one hundred percent and never missing work unnecessarily.</li>
+<li>In his tuxedo and with his hair slicked back, the dashing actor epitomized all the style and glamor of Hollywood.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc845bc6" class="outline-2">
+<h2 id="orgc845bc6"><span class="section-number-2">127</span> <a href="https://wordsinasentence.com/equine-in-a-sentence/">Equine</a></h2>
+<div class="outline-text-2" id="text-127">
+<p>
+<code>similar in appearance to or associated with a horse</code>
+</p>
+
+<ul class="org-ul">
+<li>In high school, people used to bully Gail by calling her “Horsey” because of her equine face.</li>
+<li>The horse farm is currently looking to hire someone with experience in equine care.</li>
+<li>As a veterinarian specializing in equine health, my father primarily manages the wellbeing of horses.</li>
+<li>We have lost five horses to the deadly equine flu.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6518181" class="outline-2">
+<h2 id="org6518181"><span class="section-number-2">128</span> <a href="https://wordsinasentence.com/equivocate-in-a-sentence/">Equivocate</a></h2>
+<div class="outline-text-2" id="text-128">
+<p>
+<code>to use unclear language especially to deceive or mislead someone</code>
+</p>
+
+<ul class="org-ul">
+<li>When things are not going Margie’s way, she will often twist the truth and equivocate to put things in her favor.</li>
+<li>The crooked salesman went out of his way to equivocate the sales terms to the elderly couple.</li>
+<li>Whenever the politician responded to questions, he would avoid eye contact and equivocate his answers.</li>
+<li>The prosecutor hoped he could equivocate enough to trick the suspect into confessing.</li>
+<li>Rather than give you a straight answer, Henry will always equivocate his response.</li>
+<li>As a judge, Helen has taken an oath to never deliberately deceive or equivocate while presiding in a court of law.</li>
+<li>I want a man who will be honest with me and not equivocate to spare my feelings.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc904e99" class="outline-2">
+<h2 id="orgc904e99"><span class="section-number-2">129</span> <a href="https://wordsinasentence.com/ersatz-in-a-sentence/">Ersatz</a></h2>
+<div class="outline-text-2" id="text-129">
+<p>
+<code>replicated from something else yet lacking the original qualities</code>
+</p>
+
+<ul class="org-ul">
+<li>Do you believe the ersatz beach created by the city will appeal to those who love the natural features of the seashore?</li>
+<li>Before segregation ended, minorities were given an ersatz education that was not equal to the education received by their white peers.</li>
+<li>The art expert quickly recognized the ersatz painting as a fake.</li>
+<li>In the movie, the lead character created an ersatz version of his dead wife.</li>
+<li>The dishonest street vendor tried to pass off his ersatz purses as designer goods.</li>
+<li>When the chef saw his apprentice using ersatz vanilla flavoring, he scolded the young man for using low quality ingredients.</li>
+<li>The jeweler immediately noticed the flaws in the ersatz diamond.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6829797" class="outline-2">
+<h2 id="org6829797"><span class="section-number-2">130</span> <a href="https://wordsinasentence.com/etch-in-a-sentence/">Etch</a></h2>
+<div class="outline-text-2" id="text-130">
+<p>
+<code>to cut a pattern or picture into a surface especially wood, metal, or glass</code>
+</p>
+
+<ul class="org-ul">
+<li>Young lovers in the park usually etch their initials into the tree with a heart in the middle.</li>
+<li>To keep themselves from getting their identical bikes mixed up, the twins decided to etch their names into the paint in tiny print.</li>
+<li>Melinda was embarrassed that someone would etch her name and phone number into the bathroom stall.</li>
+<li>With a chisel, the author would always etch his initial into the bottom of his sculptures.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge9eec7d" class="outline-2">
+<h2 id="orge9eec7d"><span class="section-number-2">131</span> <a href="https://wordsinasentence.com/etymology-in-a-sentence/">Etymology</a></h2>
+<div class="outline-text-2" id="text-131">
+<p>
+<code>the account of how a word came into being</code>
+</p>
+
+<ul class="org-ul">
+<li>After a bit of research, I found the etymology associated with my name and discovered my name’s meaning.</li>
+<li>Some dictionaries will give you a clue to a term’s etymology by identifying the word’s country of origin.</li>
+<li>As a vocabulary teacher, Mrs. Smith has a strong interest in etymology.</li>
+<li>The etymology of most medical terms can be found in the Latin language.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbacd06a" class="outline-2">
+<h2 id="orgbacd06a"><span class="section-number-2">132</span> <a href="https://wordsinasentence.com/eugenics-in-a-sentence/">Eugenics</a></h2>
+<div class="outline-text-2" id="text-132">
+<p>
+<code>a science that tries to improve the human population by controlling which people become parents</code>
+</p>
+
+<ul class="org-ul">
+<li>When I hear a story of parental neglect, I often feel inclined to agree with the principle of eugenics.</li>
+<li>I wasn’t a proponent of eugenics until I became a teacher.</li>
+<li>The dystopian society in the novel was run by leaders who adopted eugenics.</li>
+<li>The teacher polled the class on their thoughts about eugenics and the role of choosing who should be allowed to parent.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9bffae2" class="outline-2">
+<h2 id="org9bffae2"><span class="section-number-2">133</span> <a href="https://wordsinasentence.com/eulogy-in-a-sentence/">Eulogy</a></h2>
+<div class="outline-text-2" id="text-133">
+<p>
+<code>a speech given to pay tribute to a deceased individual</code>
+</p>
+
+<ul class="org-ul">
+<li>Ginger sobbed as she listened to the praising words of her father’s eulogy during his funeral.</li>
+<li>Because the deceased soldier was such an honorable man, his commanding officer delivered his eulogy.</li>
+<li>Rick had to be in control so he planned his funeral and wrote his eulogy before he died.</li>
+<li>When Pam said a tender eulogy for her twin sister, everyone in the church cried.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbb12e4d" class="outline-2">
+<h2 id="orgbb12e4d"><span class="section-number-2">134</span> <a href="https://wordsinasentence.com/euphoria-in-a-sentence/">Euphoria</a></h2>
+<div class="outline-text-2" id="text-134">
+<p>
+<code>an excited state of joy, a good feeling, a state of intense happiness</code>
+</p>
+
+<ul class="org-ul">
+<li>Once the euphoria of winning the lottery has worn off, you will be faced with the prospect of taxes and needy relatives.</li>
+<li>After getting the news that the cancer was in remission, Elaine was in such a state of euphoria that even the gloomy weather could not take away her good mood.</li>
+<li>When she received her acceptance letter to Harvard, she was in a state of euphoria for weeks.</li>
+<li>Although the movie was pretty corny, I loved the feeling of euphoria I got at the end.</li>
+<li>After the blissful euphoria of the honeymoon, Amanda and Jason were having trouble facing the humdrum routine of the real world.</li>
+<li>Even though the success of the experiment had given the scientists a sense of euphoria, they knew that there was still a lot of work for them to do to get the new formula approved.</li>
+<li>If a word could be transformed into a picture, euphoria would be a kid’s face at Disneyland.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org015d103" class="outline-2">
+<h2 id="org015d103"><span class="section-number-2">135</span> <a href="https://wordsinasentence.com/exalt-in-a-sentence/">Exalt</a></h2>
+<div class="outline-text-2" id="text-135">
+<p>
+<code>to glorify or place above others</code>
+</p>
+
+<ul class="org-ul">
+<li>In church, we exalt our god in prayer.</li>
+<li>The controlling husband wanted his wife to ignore everyone else so she could exalt him.</li>
+<li>Because the cult leader wants his followers to exalt his words, he preaches his path is the only way to heaven.</li>
+<li>For a fee, most celebrities will exalt a product by pretending to like it.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7c3e2e7" class="outline-2">
+<h2 id="org7c3e2e7"><span class="section-number-2">136</span> <a href="https://wordsinasentence.com/exaltation-in-a-sentence/">Exaltation</a></h2>
+<div class="outline-text-2" id="text-136">
+<p>
+<code>an intense state of joy</code>
+</p>
+
+<ul class="org-ul">
+<li>The old woman smiled in exaltation as she finally received her high school diploma.</li>
+<li>If the bride is not beaming with exaltation after the wedding, perhaps she married the wrong man.</li>
+<li>Tina yelled in exaltation when she saw the car her parents bought her.</li>
+<li>Knowing he was in first place, the runner leaped over the finish line and yelled in exaltation.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org6f439bb" class="outline-2">
+<h2 id="org6f439bb"><span class="section-number-2">137</span> <a href="https://wordsinasentence.com/exceptionable-in-a-sentence/">Exceptionable</a></h2>
+<div class="outline-text-2" id="text-137">
+<p>
+<code>objectionable or not acceptable</code>
+</p>
+
+<ul class="org-ul">
+<li>The nursing home worker’s exceptionable treatment of the patient led to complaints and termination.</li>
+<li>Exceptionable laws that blocked black voters from exercising their rights were eventually struck down by the judicial system.</li>
+<li>The child’s behavior in public is exceptionable and should be corrected by his mother right away.</li>
+<li>Although exceptionable, the man’s racist and inappropriate views are supported by many backwoods constituents.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgf87aa55" class="outline-2">
+<h2 id="orgf87aa55"><span class="section-number-2">138</span> <a href="https://wordsinasentence.com/exceptional-in-a-sentence/">Exceptional</a></h2>
+<div class="outline-text-2" id="text-138">
+<p>
+<code>excellent or brilliant</code>
+</p>
+
+<ul class="org-ul">
+<li>Tiffany had exceptional grades with straight A’s and they were all at one hundred percent.</li>
+<li>It was understood why the actress received an Oscar for her exceptional portrayal of the historical figure.</li>
+<li>Since the employee came in early, worked late and always performed each task accurately, she received an exceptional evaluation and promotion.</li>
+<li>When I won the lottery, I believed it was an exceptional day until all of my unknown relatives started begging for money.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org79c9b28" class="outline-2">
+<h2 id="org79c9b28"><span class="section-number-2">139</span> <a href="https://wordsinasentence.com/excerpt-in-a-sentence/">Excerpt</a></h2>
+<div class="outline-text-2" id="text-139">
+<p>
+<code>a short piece or clip from a larger piece of media</code>
+</p>
+
+<ul class="org-ul">
+<li>Since we had only a few minutes left in class, our teacher could only read an excerpt of the short story to us.</li>
+<li>A trailer can be viewed as an excerpt of a movie because it displays a short piece of the film but not the entire feature.</li>
+<li>Without permission, the songwriter will not even allow you to use the chorus of one of his songs as an excerpt in your novel.</li>
+<li>The book closes with a brief excerpt from the next novel in the series.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org12578b3" class="outline-2">
+<h2 id="org12578b3"><span class="section-number-2">140</span> <a href="https://wordsinasentence.com/exclaim-in-a-sentence/">Exclaim</a></h2>
+<div class="outline-text-2" id="text-140">
+<p>
+<code>to speak spontaneously and with strong feeling</code>
+</p>
+
+<ul class="org-ul">
+<li>If you listen on Christmas Day, you'll hear millions of small children exclaim in joy.</li>
+<li>When I exclaim, “BINGO”, I hope it is for the largest prize.</li>
+<li>My son will exclaim in glee when Iron Man arrives at his birthday party.</li>
+<li>If John does not wash his hands before supper, his mother is sure to exclaim, “What a dirty boy you are!”</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc6b0a4b" class="outline-2">
+<h2 id="orgc6b0a4b"><span class="section-number-2">141</span> <a href="https://wordsinasentence.com/excogitate-in-a-sentence/">Excogitate</a></h2>
+<div class="outline-text-2" id="text-141">
+<p>
+<code>to study something intently and carefully</code>
+</p>
+
+<ul class="org-ul">
+<li>The attorney took several days to excogitate the case documents so that he would be prepared for court.</li>
+<li>After the insurance denied her claim, the woman decided to take time and excogitate the insurance carefully.</li>
+<li>Because I did not excogitate my study guide very carefully, I failed the midterm test.</li>
+<li>The scholar had to excogitate upon the subject since he knew very little about it before studying.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8d2d0b6" class="outline-2">
+<h2 id="org8d2d0b6"><span class="section-number-2">142</span> <a href="https://wordsinasentence.com/excoriate-in-a-sentence/">Excoriate</a></h2>
+<div class="outline-text-2" id="text-142">
+<p>
+<code>to severely condemn</code>
+</p>
+
+<ul class="org-ul">
+<li>In his speech, the president will excoriate the dictator’s actions and state his plans for military intervention.</li>
+<li>The church elders have no choice but to publicly excoriate the young minister who was convicted of selling drugs.</li>
+<li>How dare my mother excoriate me for getting pregnant outside of marriage when she did the same thing?</li>
+<li>The stern judge will excoriate the behavior of the repeat offender by sentencing him to thirty years in prison.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd06d2cf" class="outline-2">
+<h2 id="orgd06d2cf"><span class="section-number-2">143</span> <a href="https://wordsinasentence.com/excruciating-in-a-sentence/">Excruciating</a></h2>
+<div class="outline-text-2" id="text-143">
+<p>
+<code>extremely uncomfortable or painful</code>
+</p>
+
+<ul class="org-ul">
+<li>After watching the excruciating film, I thought about asking for a refund of my money.</li>
+<li>The excruciating labor pains have convinced me to never get pregnant again.</li>
+<li>Because I was experiencing excruciating pain, my doctor gave me a strong analgesic.</li>
+<li>Sitting on the witness stand was an excruciating experience for the little boy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbbd77ff" class="outline-2">
+<h2 id="orgbbd77ff"><span class="section-number-2">144</span> <a href="https://wordsinasentence.com/exculpate-in-a-sentence/">Exculpate</a></h2>
+<div class="outline-text-2" id="text-144">
+<p>
+<code>to clear of or free from guilt; exonerate</code>
+</p>
+
+<ul class="org-ul">
+<li>Diane’s teenage son is constantly getting into some kind of mischief, but he knows how to charm his mother and exculpate himself.</li>
+<li>The school officials spent the entire year gathering evidence in an effort to exculpate themselves from the charges brought against them in the cheating scandal.</li>
+<li>Because the Breathalyzer test showed that his alcohol level was well over the legal limit, the driver of the car was not able to exculpate himself from responsibility for the accident.</li>
+<li>Even though I was always able to exculpate myself from the accusations my boss made against me, I began to believe that he had a serious issue concerning my trustworthiness.</li>
+<li>The photographic evidence revealed by the security camera was essential to exculpate the suspect.</li>
+<li>When something goes wrong in the government, it is usually up to our elected officials to exculpate themselves so that their constituents will continue to support them.</li>
+<li>Because of the prevalence of malpractice litigation, physicians often have to work hard to exculpate themselves when a situation is beyond their control.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org52685fd" class="outline-2">
+<h2 id="org52685fd"><span class="section-number-2">145</span> <a href="https://wordsinasentence.com/execrable-in-a-sentence/">Execrable</a></h2>
+<div class="outline-text-2" id="text-145">
+<p>
+<code>extremely bad or unpleasant</code>
+</p>
+
+<ul class="org-ul">
+<li>When Matt accidentally found himself on a racist website, he was outraged by all the execrable comments that had been posted on it.</li>
+<li>Because the conditions in that restaurant were so execrable, several diners became ill and the Health Department was called in to shut it down.</li>
+<li>Since she considered his betrayal to be an execrable offense that she could never forgive, Laurie told Marcus that she wanted a divorce.</li>
+<li>Baxter tried to excuse his execrable conduct on Friday by telling his bride-to-be that bachelor parties almost always involved someone being arrested by the police.</li>
+<li>Most of the people who survived the execrable conditions of Nazi concentration camps report that they still experience nightmares of those horrible days.</li>
+<li>Of all the execrable ways that people break the law, human trafficking has to be somewhere near the top of the list.</li>
+<li>After several executions were botched because of unreliable drugs, many people have been denouncing the lethal injection as an execrable and inhumane form of capital punishment.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga732889" class="outline-2">
+<h2 id="orga732889"><span class="section-number-2">146</span> <a href="https://wordsinasentence.com/execrate-in-a-sentence/">Execrate</a></h2>
+<div class="outline-text-2" id="text-146">
+<p>
+<code>to strongly condemn an individual or thing</code>
+</p>
+
+<ul class="org-ul">
+<li>After being injured in the war, my uncle came to execrate gun violence.</li>
+<li>The members of the Animal Society execrate people who abuse cats and dogs.</li>
+<li>Because my ex-boyfriend stole all my money, I will execrate him during my testimony.</li>
+<li>The prosecutor will execrate the defendant’s character in court.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org38e5ea7" class="outline-2">
+<h2 id="org38e5ea7"><span class="section-number-2">147</span> <a href="https://wordsinasentence.com/exhume-in-a-sentence/">Exhume</a></h2>
+<div class="outline-text-2" id="text-147">
+<p>
+<code>to bring something forth, often a body from the ground</code>
+</p>
+
+<ul class="org-ul">
+<li>When new evidence was introduced, the detective chose to exhume the elderly woman’s body.</li>
+<li>The medical examiner will exhume the corpse to see if the man was poisoned.</li>
+<li>Because the girl’s parents believed she died of unnatural causes, they decided to exhume her body for a full autopsy.</li>
+<li>The rape victim will have to exhume painful memories in court.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd92d9ba" class="outline-2">
+<h2 id="orgd92d9ba"><span class="section-number-2">148</span> <a href="https://wordsinasentence.com/exigent-in-a-sentence/">Exigent</a></h2>
+<div class="outline-text-2" id="text-148">
+<p>
+<code>urgent; needing immediate action</code>
+</p>
+
+<ul class="org-ul">
+<li>The police should always obtain a search warrant unless there is an emergency or exigent circumstances.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga1f4720" class="outline-2">
+<h2 id="orga1f4720"><span class="section-number-2">149</span> <a href="https://wordsinasentence.com/exiguous-in-a-sentence/">Exiguous</a></h2>
+<div class="outline-text-2" id="text-149">
+<p>
+<code>a tiny quantity of something or a tiny height</code>
+</p>
+
+<ul class="org-ul">
+<li>Due to my exiguous knowledge of history, I was bound to lose quickly at the history trivia game.</li>
+<li>His exiguous size of barely five feet tall caused everyone to look down at the grown man.</li>
+<li>Since there was only an exiguous quantity of paint left in the can, the painters would have to go back to the store to get more.</li>
+<li>Sally’s poor boyfriend bought her an engagement ring with an exiguous diamond in it that could barely be seen.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org03a9e38" class="outline-2">
+<h2 id="org03a9e38"><span class="section-number-2">150</span> <a href="https://wordsinasentence.com/expatiate-in-a-sentence/">Expatiate</a></h2>
+<div class="outline-text-2" id="text-150">
+<p>
+<code>to write or talk about something using many details</code>
+</p>
+
+<ul class="org-ul">
+<li>During his book signing, Clark will expatiate on his military adventures.</li>
+<li>The congressman will expatiate for hours on the importance of educational spending.</li>
+<li>A long-winded talker, Carter can expatiate on any topic.</li>
+<li>At the investment meeting, Jacques will expatiate on the merits of his business proposal.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org84368ce" class="outline-2">
+<h2 id="org84368ce"><span class="section-number-2">151</span> <a href="https://wordsinasentence.com/expatriate-in-a-sentence/">Expatriate</a></h2>
+<div class="outline-text-2" id="text-151">
+<p>
+<code>an individual who does not reside in his native nation or birthplace</code>
+</p>
+
+<ul class="org-ul">
+<li>My uncle is an expatriate who left the country of his birth to live in France.</li>
+<li>By all accounts, Superman is an expatriate because he resides in an area other than his birthplace.</li>
+<li>Any conversation with a Japanese expatriate will usually revolve around his former life in the United States.</li>
+<li>Because Alan is an expatriate, he is a citizen of two nations, the one in which he resides and the one in which he was born.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc26695f" class="outline-2">
+<h2 id="orgc26695f"><span class="section-number-2">152</span> <a href="https://wordsinasentence.com/expeditious-in-a-sentence/">Expeditious</a></h2>
+<div class="outline-text-2" id="text-152">
+<p>
+<code>performed quickly and efficiently</code>
+</p>
+
+<ul class="org-ul">
+<li>When I order fast food, I expect to receive it in an expeditious timeframe.</li>
+<li>The man was saved because of the doctor’s expeditious diagnosis.</li>
+<li>Because expeditious shipping is included with all deliveries, I don’t mind paying the company’s membership fee.</li>
+<li>We must search the area in an expeditious manner if we hope to find the missing girl alive.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3f56694" class="outline-2">
+<h2 id="org3f56694"><span class="section-number-2">153</span> <a href="https://wordsinasentence.com/expiate-in-a-sentence/">Expiate</a></h2>
+<div class="outline-text-2" id="text-153">
+<p>
+<code>to make up for something</code>
+</p>
+
+<ul class="org-ul">
+<li>To expiate for breaking his neighbor’s window, John shoveled snow for three months.</li>
+<li>During the sentencing, the victim’s mother said there was no way the murderer could expiate for killing her only child.</li>
+<li>Jack had no idea how he was going to expiate the fact he forgot his wedding anniversary.</li>
+<li>Because Bill lacks an income source, he can only expiate for his crime by collecting trash on the side of the roads.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org01d12f3" class="outline-2">
+<h2 id="org01d12f3"><span class="section-number-2">154</span> <a href="https://wordsinasentence.com/expostulate-in-a-sentence/">Expostulate</a></h2>
+<div class="outline-text-2" id="text-154">
+<p>
+<code>to express strong disagreement</code>
+</p>
+
+<ul class="org-ul">
+<li>My mother never missed the opportunity to expostulate her opinion anytime my father did something which displeased her.</li>
+<li>Although I try not to expostulate about my daughter’s clothing choices, I still keep my eye on what goes into her closet.</li>
+<li>More than likely, the cat will expostulate his opinion of his new food by leaving it in his dish.</li>
+<li>When card players lose a great deal of money during games, they are known to expostulate their feelings quite loudly.</li>
+<li>Is it possible for you to expostulate without getting so angry?</li>
+<li>Filling out a customer survey is a great way to expostulate your opinion on services received.</li>
+<li>Many veterans often expostulate about the lack of medical benefits they receive.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfdad353" class="outline-2">
+<h2 id="orgfdad353"><span class="section-number-2">155</span> <a href="https://wordsinasentence.com/expound-in-a-sentence/">Expound</a></h2>
+<div class="outline-text-2" id="text-155">
+<p>
+<code>to clarify by providing details</code>
+</p>
+
+<ul class="org-ul">
+<li>During his graduation speech, Thad will expound his hopes and prayers for his graduating class.</li>
+<li>Tonight, the president will expound the nation’s preparedness for the Ebola virus.</li>
+<li>The purpose of the author’s second book is to expound the philosophical theories he proposed in his first work.</li>
+<li>Since the class period was almost over, the professor promised to expound the topic in our next session.</li>
+<li>The last time I made the mistake of asking my science teacher a question I had to listen to him expound on the subject for twenty minutes.</li>
+<li>When Bill was asked to expound his answers for the rest of the class, he finally admitted he cheated on the exam.</li>
+<li>The company treasurer will expound on the year’s budget during the annual luncheon today.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org26a5bcf" class="outline-2">
+<h2 id="org26a5bcf"><span class="section-number-2">156</span> <a href="https://wordsinasentence.com/expulsion-in-a-sentence/">Expulsion</a></h2>
+<div class="outline-text-2" id="text-156">
+<p>
+<code>a circumstance in which an individual or thing is ejected from a position, place, or group</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Henry hated school, the threat of expulsion did not make him behave.</li>
+<li>Matt’s stealing has resulted in his expulsion from the company.</li>
+<li>When the coach found drugs in Keith’s locker, he immediately informed the athlete of his expulsion from the team.</li>
+<li>Gail’s expulsion from the university occurred after drugs were found in her dorm room.</li>
+<li>Because Mitch knows his father dislikes the gay community, he fears expulsion when he reveals his homosexuality.</li>
+<li>The boy knew if he snitched on his classmate he would have to deal with expulsion from his social circle.</li>
+<li>If Harold is found guilty of embezzlement, not only will he face expulsion from the company he founded but also jail time.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9d1f215" class="outline-2">
+<h2 id="org9d1f215"><span class="section-number-2">157</span> <a href="https://wordsinasentence.com/expunge-in-a-sentence/">Expunge</a></h2>
+<div class="outline-text-2" id="text-157">
+<p>
+<code>to remove completely</code>
+</p>
+
+<ul class="org-ul">
+<li>I would like to expunge my ex-husband from my memory.</li>
+<li>Because the court has decided to expunge my criminal record, there will be no evidence of my past misdeeds.</li>
+<li>The president has the power to expunge any person’s criminal history in order to give that individual a fresh start in life.</li>
+<li>When I received the diamond ring from my husband, I felt the need to expunge any anger I previously felt towards him.</li>
+<li>A beautiful day at the beach was more than enough to expunge my recall of a difficult week at the office.</li>
+<li>After Adam learned he had been wrongly convicted, he asked the judge to expunge his record.</li>
+<li>The lawyer did everything he could to expunge his client’s name from the murder scandal.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb879377" class="outline-2">
+<h2 id="orgb879377"><span class="section-number-2">158</span> <a href="https://wordsinasentence.com/expurgate-in-a-sentence/">Expurgate</a></h2>
+<div class="outline-text-2" id="text-158">
+<p>
+<code>to edit out rude, incorrect, offensive, useless, or otherwise undesirable information; to purge</code>
+</p>
+
+<ul class="org-ul">
+<li>The rapper was told that if he did not expurgate the offensive lyrics from his new song, it would never be played on the radio.</li>
+<li>Although Noah tried very hard to expurgate thoughts of Anna from his mind after the breakup, he still saw her face everywhere.</li>
+<li>Even though Wikipedia can be a helpful resource, the interactive ability allows anyone to add information that may be inaccurate or expurgate accurate information just because they’re offended by it.</li>
+<li>When she discovered that her brother had found her diary, she decided to expurgate some of the juicier parts by tearing out the pages.</li>
+<li>Because the author’s novels were widely read by middle schoolers, she received a number of requests to write a different version and expurgate all references to Satanism.</li>
+<li>According to historical records, there was a lot of disagreement among the founding fathers over whether or not to expurgate the passages referring to slavery from the Constitution.</li>
+<li>While some people believe that some content in Shakespeare’s works is inappropriate for younger readers, they wouldn’t understand it anyway, so why expurgate it?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org70b3a65" class="outline-2">
+<h2 id="org70b3a65"><span class="section-number-2">159</span> <a href="https://wordsinasentence.com/extemporize-in-a-sentence/">Extemporize</a></h2>
+<div class="outline-text-2" id="text-159">
+<p>
+<code>to improvise, especially while giving a speech or performing music</code>
+</p>
+
+<ul class="org-ul">
+<li>The pianist was able to extemporize and play a piece without music or preparation.</li>
+<li>Not expecting to win the award, the actress had no speech prepared and had to extemporize.</li>
+<li>Giving an impromptu performance, the quick-witted comedian loved to extemporize.</li>
+<li>Unable to extemporize, the rapper was called a fraud by fans who were disappointed in his ability to freestyle.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org74b9427" class="outline-2">
+<h2 id="org74b9427"><span class="section-number-2">160</span> <a href="https://wordsinasentence.com/extenuating-in-a-sentence/">Extenuating</a></h2>
+<div class="outline-text-2" id="text-160">
+<p>
+<code>to lessen the seriousness of a wrong act</code>
+</p>
+
+<ul class="org-ul">
+<li>The court reduced the criminal’s sentence because of extenuating circumstances.</li>
+<li>When reviewing applications, the college admissions board takes into account extenuating factors such as economic background and race.</li>
+<li>Under extenuating conditions, even the strictest professor will allow a student to turn in late work.</li>
+<li>There are no extenuating factors which would ever make me forgive you for cheating on me!</li>
+<li>The convicted killer was awarded a retrial when the court of appeals reviewed the extenuating factors associated with the first trial.</li>
+<li>Despite my late cancellation, the cruise line is giving me a full refund due to my extenuating issues.</li>
+<li>Even though the jury did not know the extenuating circumstances behind the defendant’s actions, they still gave him a light sentence.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org52fbbed" class="outline-2">
+<h2 id="org52fbbed"><span class="section-number-2">161</span> <a href="https://wordsinasentence.com/extort-in-a-sentence/">Extort</a></h2>
+<div class="outline-text-2" id="text-161">
+<p>
+<code>to take from an unwilling person</code>
+</p>
+
+<ul class="org-ul">
+<li>When Larry was fired, he attempted to extort cash from his former boss by threatening to expose the man’s drug addiction.</li>
+<li>The con man hoped to extort money from the grocery story by pretending to fall on a slippery floor.</li>
+<li>When the photographer tried to extort funds from the celebrity, he was arrested for his misdeed.</li>
+<li>Is it true the man held the bank manager's daughter hostage in an attempt to extort money for his son's surgery?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge466402" class="outline-2">
+<h2 id="orge466402"><span class="section-number-2">162</span> <a href="https://wordsinasentence.com/extradite-in-a-sentence/">Extradite</a></h2>
+<div class="outline-text-2" id="text-162">
+<p>
+<code>to send an individual accused of a crime back to the area in which the crime took place</code>
+</p>
+
+<ul class="org-ul">
+<li>The state will soon extradite Cal to the island nation where he is wanted for assaulting a young girl.</li>
+<li>Because so many countries wanted to prosecute the woman, it was difficult to decide where to extradite her.</li>
+<li>Rick did not want the Mexican authorities to extradite him back to the United States where he was accused of murder.</li>
+<li>Until the country receives proof of Mark’s guilt, they refuse to extradite him to local authorities.</li>
+<li>The man begged the courts to not extradite him because of the harsh prison conditions in the nation where he committed his crimes.</li>
+<li>Although the suspected killer has been located, the country where he resides refuses to extradite him so he can be formally charged.</li>
+<li>Nations that oppose the death penalty will not extradite criminals to countries who plan on executing the wrongdoer.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdef6dfd" class="outline-2">
+<h2 id="orgdef6dfd"><span class="section-number-2">163</span> <a href="https://wordsinasentence.com/extrude-in-a-sentence/">Extrude</a></h2>
+<div class="outline-text-2" id="text-163">
+<p>
+<code>to force out</code>
+</p>
+
+<ul class="org-ul">
+<li>The volcano began to extrude lava, shooting the hot liquid up and over its sides.</li>
+<li>Pressing on the sides of the bag, the chef continued to extrude icing all over the cupcakes.</li>
+<li>The device was used to extrude pasta so that it could be pushed out more quickly.</li>
+<li>Squeezing the end of the toothpaste, Tiffany tried to extrude the last little bit out of the tube.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org892fb4a" class="outline-2">
+<h2 id="org892fb4a"><span class="section-number-2">164</span> <a href="https://wordsinasentence.com/exuberance-in-a-sentence/">Exuberance</a></h2>
+<div class="outline-text-2" id="text-164">
+<p>
+<code>the quality of being exuberant; cheerful or vigorous enthusiasm; liveliness</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though the children’s choir had trouble getting the words of the songs right, their exuberance in singing more than made up for it.</li>
+<li>When the exuberance of the fans threatened to get out of control, police had to be called in to usher them off the field.</li>
+<li>The valedictorian’s commencement speech was very uplifting, and there was a general air of exuberance following the ceremony.</li>
+<li>Because of the solemnity of the occasion, we all felt that it was inappropriate to reveal our exuberance at inheriting a fortune from the great-uncle that we had never met.</li>
+<li>Something about the youthful exuberance of children is contagious.</li>
+<li>It seems to me that the exuberance of the holidays has become cheapened by all the commercialization.</li>
+<li>I felt that his exuberance after the election was a little irrational, considering the fact that he was defeated.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orged3f0ed" class="outline-2">
+<h2 id="orged3f0ed"><span class="section-number-2">165</span> <a href="https://wordsinasentence.com/exude-in-a-sentence/">Exude</a></h2>
+<div class="outline-text-2" id="text-165">
+<p>
+<code>to openly display an emotion or quality</code>
+</p>
+
+<ul class="org-ul">
+<li>After accomplishing so much, he could not help but exude confidence in himself.</li>
+<li>As he tried to sneak past the bear, he could not help but exude fear.</li>
+<li>Since she won the race, she has been able to exude a definite sense of pride.</li>
+<li>Her smile helped to exude an extreme sense of happiness.</li>
+<li>He went into his interview ready to exude professionalism.</li>
+<li>You must exude confidence if you hope to succeed in an interview.</li>
+<li>At the news of her college acceptance, she could not help but exude complete happiness and excitement.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9c56a89" class="outline-2">
+<h2 id="org9c56a89"><span class="section-number-2">166</span> <a href="https://wordsinasentence.com/exult-in-a-sentence/">Exult</a></h2>
+<div class="outline-text-2" id="text-166">
+<p>
+<code>to rejoice, be very happy</code>
+</p>
+
+<ul class="org-ul">
+<li>Christians are taught to exult Christ above all else.</li>
+<li>After winning first place in the contest, his family took him out to exult in the victory.</li>
+<li>The cult leader stressed how important it was to exult in the power of their gods.</li>
+<li>He felt the need to exult when he discovered that his wife was pregnant.</li>
+<li>Though he was taught not to exult anything on earth, his pride pushed him to celebrate with abandon.</li>
+<li>You must be careful not to overdo it when you exult in your victory.</li>
+<li>He could not help but exult in his life as he watched his bride walk down the aisle.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc60d7ff" class="outline-2">
+<h2 id="orgc60d7ff"><span class="section-number-2">167</span> <a href="https://wordsinasentence.com/exultation-in-a-sentence/">Exultation</a></h2>
+<div class="outline-text-2" id="text-167">
+<p>
+<code>a feeling of triumphant elation or jubilation</code>
+</p>
+
+<ul class="org-ul">
+<li>Harry’s feelings of exultation intensified as he neared the end of his prison term.</li>
+<li>The pirate’s shouts of exultation upon defeating his enemy sent chills of terror up the spines of the captives.</li>
+<li>Due to the misery of her loss, Maria could not comprehend the exultation that the bride was experiencing.</li>
+<li>The soccer team yelled in exultation as David scored the winning goal.</li>
+</ul>
+
+
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>
