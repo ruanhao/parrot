@@ -1,0 +1,1695 @@
+#+TITLE:     A
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/abate-in-a-sentence/][Abate]]
+
+  =to reduce in degree or intensity=
+
+  - I hope this medicine will abate the pain in my leg.
+  - In time, his anger will abate, and he will forgive you.
+  - With any luck, the storm will abate soon so we can still have our picnic.
+  - The firemen sprayed water on the burning house to abate the structural damage.
+  - Because the paparazzi kept following the celebrity around town, the media coverage did not seem as though it would ever abate.
+  - I married my husband because I know my love for him will never abate.
+  - By adding an extra lane to the highway, we can abate the traffic congestion during rush hour.
+
+
+
+* [[https://wordsinasentence.com/abeyance-in-a-sentence/][Abeyance]]
+
+  =a state of temporary disuse or suspension=
+
+  - Immediately following the terrorist attack, pilots had to observe a period of abeyance where they could not depart from the airport.
+  - Once the famine was over, the food rationing dictated by the government was put in abeyance.
+  - Until after the murder trial, the inheritance will be placed in abeyance.
+  - Trading on the stock market has temporarily been put in abeyance while the trade commission investigates financial misdeeds.
+  - Because of Justin’s helpful testimony, the judge agreed to an abeyance of his sentence.
+  - Near the end of the legislative session, the congressmen put several topics of discussion on abeyance until the next meeting.
+  - Since the divorcing couple was unable to agree on a financial settlement, the judge placed the case in abeyance until an agreement could be reached.
+
+
+
+* [[https://wordsinasentence.com/ablaze-in-a-sentence/][Ablaze]]
+
+  =burning fiercely; in a blaze; on fire=
+
+  - The cops threw Jack to the ground and arrested him after he set the American flag ablaze.
+  - Before fleeing, the bandit set the home ablaze so that any possible evidence would be obliterated.
+  - Eyes ablaze, the man with the black hat reached for his revolver and aimed it at Bob’s head.
+  - After shooting the captive in the head, the terrorist doused Chris’s body with gasoline and set it ablaze.
+
+
+
+* [[https://wordsinasentence.com/abrasive-in-a-sentence/][Abrasive]]
+
+  =unlikeable; nasty=
+
+  - Because of Kurt’s abrasive personality, most people try to avoid him at work.
+  - The clerk was so abrasive to me I walked out the store without making a purchase.
+  - After speaking with the abrasive doctor, I decided to look for a friendlier physician.
+  - The player was fined for using abrasive language during the game.
+
+
+
+* [[https://wordsinasentence.com/abreast-in-a-sentence/][Abreast]]
+
+  =remaining up to date on a topic=
+
+  - To stay relevant in the field of computer programming, Kurt must stay abreast of the latest programming languages.
+  - My teacher gives extra credit to students who stay abreast of world issues by sharing newspaper articles with the class.
+  - Before the big match, the team will stay abreast of its opponent's scoring strategies by watching game tapes.
+  - I often go online to keep abreast of what my favorite celebrities are doing.
+
+
+
+* [[https://wordsinasentence.com/abridge-in-a-sentence/][Abridge]]
+
+  =to make shorter=
+
+  - His agent told him that he needed to abridge some of the content of his novel so that it would be under 400 pages.
+  - Scott and Hillary agreed to abridge their story, leaving out some of the more frightening details so that their parents wouldn’t be worried about them.
+  - When immigrants enter the county through illegal means, they find that the people in charge not only abridge their basic human rights, but they completely remove them.
+  - Editors of some classic literature seem to take a lot of liberties when they abridge the content so that people with lower reading levels can understand what they’re reading.
+  - If you abridge your testimony to include only the most important details, I think the jury will be more sympathetic to your case.
+  - Even though the translation of the material is complete, you still need to abridge the amount of information so that it doesn’t overwhelm the students.
+  - Despite Jerry’s efforts to abridge the amount of time he spends at the office, his friends always know where to find him when he’s not at home.
+
+
+
+* [[https://wordsinasentence.com/abstruse-in-a-sentence/][Abstruse]]
+
+  =difficult to understand=
+
+  - Some of the classic novels are too abstruse for beginning readers to understand.
+  - Because I am not a computer programmer, I find most programming languages abstruse.
+  - Most of the medical research on the subject seems abstruse to the average man.
+  - While I could understand a little of the contract, the majority of the legal text was abstruse to me.
+  - If you come across a term which is abstruse, you can always use a dictionary to review the word’s meaning.
+  - I found the politician’s argument for gun control abstruse and confusing.
+  - Because the assembly instructions were abstruse, I was unable to put the shelf together.
+
+
+
+* [[https://wordsinasentence.com/abut/][Abut]]
+
+  =to touch or lean on=
+
+  - The chair abuts the wall because it is missing a leg and cannot stand up otherwise, though sitting in it is still risky.
+  - The car now abuts the wall of the tunnel, having flipped and rolled after its horrendous crash with an oncoming SUV.
+  - If your legs are tired, feel free to abut any nearby wall to gain some support for your legs and your back.
+  - While the mighty oak tree in our backyard once stood tall, a bolt of lightning knocked it over, and it now abuts the roof of our home.
+
+
+
+* [[https://wordsinasentence.com/accede-in-a-sentence/][Accede]]
+
+  =to agree with someone or give in to his or her wish=
+
+  - At your insistence and to avoid a prolonged argument, I will accede to your contract terms.
+  - The company president made a wise decision to accede to consumer pressure and lower the prices of his goods.
+  - Perhaps the congressmen should accede to the president’s demands so the budget crisis can be averted.
+  - Because Jack wants to make his wife happy on their anniversary, he will accede to wear a tuxedo for their dinner date.
+  - Unless management is willing to accede to the employees’ demands, then the bakery will close indefinitely.
+  - It would be a wonderful world if all countries would destroy their atomic resources and accede to a ban on nuclear weapons.
+  - While the military commander is unable to accede to his troop’s request for a forty-eight hour leave, he can give them a twenty-four hour leave for rest and recuperation.
+
+
+
+* [[https://wordsinasentence.com/accredit-in-a-sentence/][Accredit]]
+
+  =to bestow official approval upon=
+
+  - During the ceremony, the dean will accredit students who met the graduation requirements.
+  - The federal school council will not accredit any academic program that does not meet its standards.
+  - Before the board of pharmacy technicians will accredit you as a medical professional, you must pass its exam.
+  - The medical association will not accredit the student who cheated on the national physician’s   assessment.
+
+
+
+* [[https://wordsinasentence.com/adament-in-a-sentence/][Adamant]]
+
+  =refusing to be persuaded; cannot change one's mind=
+
+  - Robert, a first year physics student, is adamant in his decision to peruse a career in engineering.
+  - He is so adamant in his beliefs that no one can change his mind!
+  - Unemployed residents are adamant about finding job openings.
+  - Mom, why are you adamant about me going to school everyday?
+  - The criminal begged for probation, but the judge remained adamant for a life sentence.
+  - Please honey, I am adamant for the truth.
+  - Adamant about winning next year's 10K race, Laura followed a strict training plan.
+
+
+
+* [[https://wordsinasentence.com/admonish-in-a-sentence/][Admonish]]
+
+  =to scold; to warn strongly=
+
+  - Do not admonish him for being gay!
+  - I hope my boss does not admonish me for being late.
+  - Cops can admonish anyone who goes over the speed limit.
+  - Stewart is going to admonish the restaurant for poor customer service.
+  - My drama teacher would admonish students for repeatedly forgetting the lines.
+  - Admonish Kimberly for leaving crumbs all over the place!
+  - How am I not going to admonish you for misbehaving at school?
+
+
+
+* [[https://wordsinasentence.com/adumbrate-in-a-sentence/][Adumbrate]]
+
+  =to create an outline or a faint shadow=
+
+  - With assistance from the victim, the sketch artist will adumbrate a picture of the robbery suspect.
+  - The artist chose colors to adumbrate the trees in the forest so they would seem mysterious and shadowy.
+  - When my mother lit the candle in the darkness, it was nice to see the light adumbrate our shadows on the wall.
+  - The photographer dimmed the light so it would adumbrate the model and surround her with shadows.
+  - When the sun rises, it will adumbrate the bridge and create a great photo opportunity.
+  - James will adumbrate his character ideas so the animator will know how to bring his cartoon to life.
+  - As the flashlight batteries grow weaker, the light will only adumbrate a dim glow.
+
+
+
+* [[https://wordsinasentence.com/afflicted-in-a-sentence/][Afflicted]]
+
+  =stricken, distressed, or impaired=
+
+  - The man was afflicted with a painful snake bite after a hike on the mountain.
+  - Because he was afflicted with arthritis, he had a difficult time walking long distances.
+  - Knowing that his grandmother was afflicted with inoperable tumors, he wanted to visit her in hospice.
+  - Those afflicted with the flu were receiving an antiviral treatment.
+
+
+
+* [[https://wordsinasentence.com/affront-in-a-sentence/][Affront]]
+
+  =to do or say something that shows a lack of respect=
+
+  - The crooked cop is an affront to all that is good about law enforcement.
+  - By not bowing to the queen, you have shown an affront to the entire royal family.
+  - The monks considered the loud party next door to be an affront to their religious beliefs.
+  - Because the old man considers children walking through his yard to be a personal affront, he often calls the police during the summer months.
+  - The teacher took it as an affront when the rebellious student threw a piece of trash at her.
+  - Although I am not opposed to the production of rated R movies, I would consider watching one to be an affront to my religious values.
+  - The minorities at the event took the racist symbol as an affront to their ethnic backgrounds.
+
+
+
+* [[https://wordsinasentence.com/aggrandize-in-a-sentence/][Aggrandize]]
+
+  =make great or greater in power, rank, honor, or wealth; increase=
+
+  - I attempted to aggrandize the CEO’s high status in the company to sweet talk him into signing off on the deal.
+  - Jack is a philanthropist who only supports causes that aggrandize him in the eyes of the world.
+  - I hate listening to that snobbish radio talk show host self-aggrandize.
+  - My uncle claims that those that aggrandize their status in the eyes of others end up losing whatever it is that they have.
+
+
+
+* [[https://wordsinasentence.com/aghast-in-a-sentence/][Aghast]]
+
+  =shocked or surprised in an upsetting way=
+
+  - The teacher was aghast at the large number of students who failed the easy test.
+  - When the magician did his disappearing trick, the speechless audience was aghast.
+  - Helen was aghast when she found the illegal drugs buried in her backyard.
+  - As the car moved rapidly towards me, I was aghast and could not move to safety.
+  - The thought of the federal government monitoring religious activities leaves many aghast.
+  - I was so aghast when my favorite celebrity walked passed me that I could not speak.
+  - While my friends thought the fake spider was funny, the plastic creature left me aghast and in tears.
+
+
+
+* [[https://wordsinasentence.com/agoraphobia-in-a-sentence/][Agoraphobia]]
+
+  =the fear of wide open spaces, crowds, or uncontrolled social conditions=
+
+  - Even the big deals on Black Friday could bring out even those people who suffer from agoraphobia, but the large groups of people could cause them to have anxiety attacks.
+  - While being bumped around in the crowds, the man had to leave due to his agoraphobia.
+  - Even if you don’t suffer from agoraphobia, you may still have problems with walking in shopping malls on the day after Thanksgiving.
+  - Someone who has agoraphobia should stay away from Walmart on Saturday mornings.
+
+
+
+* [[https://wordsinasentence.com/allegiance-in-a-sentence/][Allegiance]]
+
+  =loyalty to some cause, nation or ruler=
+
+  - Standing opposite the flag, I placed my right hand on my heart to recite the pledge of allegiance.
+  - Max’s feelings of allegiance will always rest with England, because he was born there.
+  - We took an oath of allegiance upon entering the military, and none of us plan on violating it.
+  - Having lived in Denver for most of my adult life, the Broncos have now captured my allegiance.
+
+
+
+* [[https://wordsinasentence.com/allegory-in-a-sentence/][Allegory]]
+
+  =a representation or story in which personalities and incidents act as symbols depicting beliefs related to human beings or specific situations=
+
+  - Yesterday, Sister Agnes told us a religious allegory that explained why telling falsehoods is unacceptable.
+  - The classic book is based on a famous allegory that describes the pitfalls of arrogance.
+  - In the poem, the writer used an allegory to explain his personal feelings about love.
+  - The novel is basically an allegory in which animals represent humans associated with corporate greed.
+
+
+
+* [[https://wordsinasentence.com/allude-in-a-sentence/][Allude]]
+
+  =to make an indirect reference=
+
+  - The teacher asked the students to not allude to any online sources in their research papers.
+  - Even though the author claims his new work does not allude to his previous novel, it actually does contain a reference in the book’s second chapter.
+  - For the dedicated searchers, there are clues hidden in the forest which allude to the treasure’s location.
+  - In his upcoming speech, the president will allude to his economic stimulus plan.
+  - As a parent, I am not afraid to allude to a number of possible consequences when my daughter starts to misbehave.
+  - Because the pastor is concerned about the number of divorces among his clergy, he will allude to the importance of marriage during Sunday’s sermon.
+  - In his opening statement, the prosecuting attorney is not allowed to allude to the defendant’s former crimes.
+
+
+
+* [[https://wordsinasentence.com/allusion-in-a-sentence/][Allusion]]
+
+  =a statement that refers to something indirectly; an indirect reference=
+
+  - The author’s new book contains an allusion to mythological gods.
+  - While the president’s speech seems original, it contains an allusion to a speech made by another world leader.
+  - Helen included an allusion about her ex-boyfriend in her song.
+  - Although the article makes an allusion to the suspect’s identity, it never actually mentions the person’s name.
+  - No matter how hard she tried, Abigail could not understand the biblical allusion in the poem!
+  - The journalist made an allusion to the actor’s recent arrest.
+  - Even though the students in the class were all very bright, they had a hard time understanding the allusion made by their teacher.
+
+
+
+* [[https://wordsinasentence.com/allusive-in-a-sentence/][Allusive]]
+
+  =implying, hinting or indirectly suggesting something=
+
+  - The man was very allusive when he dropped hints about the gifts he bought for his wife’s birthday.
+  - The celebrity would not tell who she was dating, but her descriptions of him were incredibly allusive.
+  - The author’s suggested that readers read the first book in the series before the sequel, as it proved to be allusive to the original.
+  - The interviewer was allusive when questioning the actor about his recent arrest.
+
+
+
+* [[https://wordsinasentence.com/aloof-in-a-sentence/][Aloof]]
+
+  =removed or distant either physically or emotionally=
+
+  - The aloof princess stood in a corner alone.
+  - Because Harry was aloof, he did not have many friends.
+  - The new kid in our school is aloof and does not talk to anyone.
+  - In mythology, the Gods are generally aloof from mankind.
+  - The queen has an aloof personality which makes her appear snobbish to most people.
+  - While my mother may seem a bit aloof, she is really a very caring woman.
+  - On the television show, the reality star seems aloof from her friends and rarely leaves her home.
+
+
+
+* [[https://wordsinasentence.com/amalgam-in-a-sentence/][Amalgam]]
+
+  =a mixture of unlike items=
+
+  - The potluck supper at the church always consists of an amalgam of foods ranging from apricot salad to zucchini casserole.
+  - Because Jan gets most of her clothes from vintages stores, her wardrobe is an unusual amalgam of period pieces.
+  - The sculptor’s most popular piece is a figure of our president made out of an amalgam of wood, aluminum, and copper.
+  - When Genevieve decorated her house, she used an amalgam of design styles including art deco and western.
+
+
+
+* [[https://wordsinasentence.com/ambidextrous-in-a-sentence/][Ambidextrous]]
+
+  =having equal ability in both hands; in particular, able to write equally well with both hands=
+
+  - The team manager was very excited when he heard that the new pitcher was ambidextrous and could throw a mean fastball with either hand.
+  - Although he considered himself to be ambidextrous, he was always cutting his left hand when he tried to juggle swords.
+  - Even though most parents realize that children are typically born either right or left-handed, some will try to train their tots to be ambidextrous, which causes a lot of frustration.
+  - One advantage of being an ambidextrous tennis player is that if your right hand gets tired, you can just switch your racquet to your left hand.
+  - If you try to train yourself to be ambidextrous, your right hand will probably still be stronger than your left.
+  - I may not be ambidextrous, but I can certainly eat a cheeseburger with either hand.
+  - As an ambidextrous musician, he has been able to learn to play a variety of instruments in almost no time.
+
+
+
+* [[https://wordsinasentence.com/ambivalent-in-a-sentence/][Ambivalent]]
+
+  =uncertain as to which path to take=
+
+  - When it comes to the election, I am ambivalent about the candidates.
+  - I am ambivalent as to whether or not I want to take the medicine because of the drug’s known side effects.
+  - Because he was nervous about performing in front of a crowd, Jed was ambivalent about entering the singing competition.
+  - After five days, the jury is still ambivalent about the defendant’s guilt.
+  - Despite a number of research studies, the federal government remains ambivalent on the subject of legalizing marijuana.
+  - When it was time to choose her major, Janet realized she was ambivalent about two career fields.
+  - Because my husband and I are usually ambivalent about our movie choices, we rarely enter the theater before the film starts.
+
+
+
+* [[https://wordsinasentence.com/amble-in-a-sentence/][Amble]]
+
+  =to stroll in a relaxed manner=
+
+  - Since we arrived too early to check into the hotel, we decided to amble down the beach.
+  - The robber was so confident he chose to amble out the bank he had just robbed.
+  - Because Gail is on a horse for the first time, she is going to amble during her ride.
+  - Every Sunday, the elderly couple will amble three blocks to church.
+
+
+
+* [[https://wordsinasentence.com/ameliorate-in-a-sentence/][Ameliorate]]
+
+  =to make better=
+
+  - Scratching your eye will not ameliorate the itching.
+  - In an attempt to ameliorate the situation, Superman flew into action and saved the young woman from the villan.
+  - Ameliorate your singing by taking a few vocal lessons.
+  - Tylenol is the medication I take to ameliorate leg pain.
+  - If your back hurts, then consider lying on a hardwood floor to ameliorate back pain.
+  - In an effort to ameliorate his crying little sister, he apologized and gave her a shiny nickel.
+  - Raising money for Africa can ameliorate the hunger crises.
+
+
+
+* [[https://wordsinasentence.com/anaerobic-in-a-sentence/][Anaerobic]]
+
+  =existing without oxygen=
+
+  - While aerobic organisms need oxygen to survive, anaerobic creatures survive without the element.
+  - The bacteria is anaerobic, and as such, does not require the presence of oxygen to thrive.
+  - Despite what you may have heard, fish are not anaerobic; they need oxygen to breathe.
+  - Humans are not anaerobic because they require oxygen in order to live.
+
+
+
+* [[https://wordsinasentence.com/anathema-meaning-in-a-sentence/][Anathema]]
+
+  =something or someone that one strongly dislikes; someone who is cursed or shunned=
+
+  - After the world learned of his heinous crimes, the dictator was considered an anathema.
+  - The epidemic which killed dozens of small children was an anathema to the residents of the town.
+  - While he presented himself as a godly man, the priest committed several unethical acts that made him an anathema to members of his congregation.
+  - The children hate wearing uniforms to school and view the dress code as an anathema.
+  - Since the beginning of time, blind faith has been an anathema to science.
+  - The amount of money celebrities spend on clothing and jewelry is anathema to most poor people.
+  - Because my daughter hates the taste of broccoli, she considers it to be an anathema.
+
+
+
+* [[https://wordsinasentence.com/angular-in-a-sentence/][Angular]]
+
+  =so thin or skinny that one’s bones can be seen=
+
+  - The angular boy was so thin you could see his rib cage.
+  - When the doctor saw the angular teen, he knew she wasn’t eating properly.
+  - People call my uncle “Toothpick” because of his angular form.
+  - Although Jenny is an adult, she shops in children’s stores to find clothes that fit her angular frame.
+
+
+
+* [[https://wordsinasentence.com/animosity-in-a-sentence/][Animosity]]
+
+  =a strong feeling of disliking someone or something=
+
+  - Why do you have such animosity towards me when I have done nothing to you?
+  - During the match, the animosity between the two wrestlers was obvious.
+  - Because Ellen’s father used to lock her in the basement, she has a lot of animosity towards him today.
+  - My animosity for Cliff is so great that I cannot stand to be around him.
+  - Ernest displayed his animosity towards his competitors by refusing to acknowledge them.
+  - Use your energy to spread love not animosity!
+  - Although I was very angry with my sister yesterday, I bear no animosity towards her today.
+
+
+
+* [[https://wordsinasentence.com/anomalous-in-a-sentence/][Anomalous]]
+
+  =unordinary, unusual, or distinctly different from the norm=
+
+  - The scientists at the weather station were extremely worried about the anomalous readings they were getting from their instruments, as they were far beyond the norm.
+  - My sister was pretending to act normal after breaking up with her boyfriend, but her anomalous activities that strayed from the routine proved she was just faking it.
+  - Being struck by lightning is actually a rather anomalous event, since the chances of being struck by lightning are so astronomically low.
+  - On Opposite Day, everyone behaves in an anomalous fashion, usually the exact opposite of how they would normally behave.
+
+
+
+* [[https://wordsinasentence.com/antagonize-in-a-sentence/][Antagonize]]
+
+  =to trigger hostility or anger=
+
+  - If you antagonize the dog, he will bite you.
+  - The man made a huge mistake when he decided to antagonize the bees in his yard.
+  - By agreeing with the remarks of the pro-abortion group, the politician seems to be going out of his way to antagonize Christian voters.
+  - Since John was already irritated, his wife knew it would not take much to antagonize him.
+
+
+
+* [[https://wordsinasentence.com/anticlimactic-in-a-sentence/][Anticlimactic]]
+
+  =lacking climax, disappointing or ironically insignificant following of impressive foreshadowing=
+
+  - Although the child anticipated that the gift would bring him endless enjoyment, it quickly turned into an anticlimactic experience.
+  - Mom claims that an accurate view on life prevents anticlimactic results, as we would not overvalue things.
+  - Despite all of the hype, the game turned out to be boring, uneventful and overwhelmingly anticlimactic.
+  - The news that our CEO was stepping down came as a surprise, but turned out to be anticlimactic compared to what happened next.
+
+
+
+* [[https://wordsinasentence.com/antithesis-in-a-sentence/][Antithesis]]
+
+  =the total opposite of an object or person=
+
+  - In the movie, Robert’s character of an abusive husband is the antithesis of the caring spouse the actor really is.
+  - Although the hotel describes itself as a five-star resort, in reality its decrepit building is the antithesis of a fine hotel.
+  - The heroine’s death was the antithesis of what I thought would happen at the end of the novel.
+  - During his sermon, the minister asked his clergy members to practice the antithesis of hate and love even their worst enemies.
+  - A violent criminal is the antithesis of a well-behaved adult.
+  - In writing, an antithesis is a device used to show contrast between two unlike objects or individuals.
+  - It goes without saying that freedom is the antithesis of captivity.
+
+
+
+* [[https://wordsinasentence.com/apathetic-in-a-sentence/][Apathetic]]
+
+  =having little or no interest or concern=
+
+  - The employee’s apathetic attitude was apparent in the rude way he greeted customers.
+  - Because the diva thought she was better than everyone else, she was apathetic about having others wait on her.
+  - Although James was apathetic about his classes, he loved playing football.
+  - To get on the jury, you will need to be apathetic about the murder.
+  - Because Jane was apathetic about completing her schoolwork, she did not graduate on time.
+  - Sometimes it seems as though we live in an apathetic world filled with uncaring people.
+  - How can you be so apathetic about the war when people are dying in battle every minute?
+
+
+
+* [[https://wordsinasentence.com/aphorism-in-a-sentence/][Aphorism]]
+
+  =a brief and witty saying=
+
+  - While Ted’s aphorism was short and funny, it was enough to make us briefly forget our father was having life-saving surgery.
+  - Bill began his speech with a humorous aphorism from one of his favorite authors.
+  - When Jack made his wedding toast, he included a marital aphorism that made everyone in the room laugh.
+  - The popular aphorism gives advice in a manner that is both witty and concise.
+
+
+
+* [[https://wordsinasentence.com/apprise-in-a-sentence/][Apprise]]
+
+  =to report on the status of something=
+
+  - The scouts went back to apprise their commanding officer of the enemy’s location.
+  - How long will it be before the doctor comes out of surgery to apprise me of my wife’s condition?
+  - The caring manager was not happy to apprise his employees that their jobs were in jeopardy.
+  - Now that I no longer live with my parents I do not have to apprise them of my every move.
+  - When the police arrest the suspect, they will apprise him of his rights.
+  - The politician will apprise the public of his decision to run for reelection during the interview.
+  - As soon as possible, I need to apprise the credit card company of the unusual charge on my Visa card.
+
+
+
+* [[https://wordsinasentence.com/approbation-in-a-sentence/][Approbation]]
+
+  =to gain approval=
+
+  - I need to write a powerful resume to gain approbation from an employor.
+  - The crowd was filled with approbation when #56 scored a touchdown.
+  - With my mother's approbation, I can sleep over at your house.
+  - You cannot take prescription medication without doctor's approbation.
+  - Kimmy wrongfully sought approbation from young peers by engaging in underage drinking.
+  - You would get more approbation from professionals if you didn't have tattoos running up and down your arms.
+  - City Commissioners have a difficult time winning the approbation of voters in this town.
+
+
+
+* [[https://wordsinasentence.com/apropos-in-a-sentence/][Apropos]]
+
+  =fitting; at the right time=
+
+  - Justine’s apropos comment fit in perfectly with our discussion.
+  - Because my bills were due, the financial gift from my father arrived apropos.
+  - While the words may seem a bit strange, they are apropos and relate to the topic we are discussing.
+  - I always invite Chuck to my parties because he has the gift of making apropos remarks which put people at ease.
+  - When I was feeling depressed, I received a care package from my mother apropos.
+  - The police arrived apropos at the jewelry store and were able to catch the burglars.
+  - Even though no one expected Bill to talk at the wedding reception, his apropos speech ended the evening on a good note.
+
+
+
+* [[https://wordsinasentence.com/arable-in-a-sentence/][Arable]]
+
+  =adequate for cultivating=
+
+  - The soil in the front yard is arable and perfect for planting a rose garden.
+  - Because the farmland was dry and not arable, nobody bid on the parcel at the auction.
+  - The land was arable and perfectly suitable for cultivation.
+  - In a natural desert, there is no arable earth for farming.
+
+
+
+* [[https://wordsinasentence.com/arboreal-in-a-sentence/][Arboreal]]
+
+  =associated with trees=
+
+  - It is easy for the deer to hide in the fallen leaves of its arboreal habitat.
+  - Because our cabin is in a forest, we have stunning arboreal views from the deck.
+  - The arboreal committee in our subdivision is raising money to plant a hundred trees this year.
+  - Because arboreal animals usually hide in tree branches, you may miss them during your hike through the woods.
+
+
+
+* [[https://wordsinasentence.com/arduous-in-a-sentence/][Arduous]]
+
+  =demanding great effort or labor; difficult=
+
+  - Last semester was a piece of cake, but taking seven classes along with an internship this semester is going to be arduous!
+  - Playing the piano may seem arduous at first, but it gets easier with practice.
+  - Driving a school bus is much more arduous than driving my own car.
+  - Needless to say, mastering a foreign language is an arduous challenge.
+  - Job seekers with a criminal record will have an arduous time obtaining a job.
+  - With arduous practice, you will get better at cooking.
+  - It is arduous for me to hear people on the telephone with you screaming!
+
+
+
+* [[https://wordsinasentence.com/articulate-in-a-sentence/][Articulate]]
+
+  =expressing oneself clearly=
+
+  - A polished speaker, Jenna was able to articulate her points during any discussion.
+  - The president is known for his ability to articulate his thoughts in front of millions of people.
+  - Because John found it difficult to articulate his love for Jessica, he wrote her a poem about his feelings.
+  - The interviewer asked me to articulate my potential contributions to the company.
+  - Although Lisa had an intellectual disability, she was still an articulate speaker who could hold an audience’s attention.
+  - When I get nervous, it is very hard for me to articulate my thoughts.
+  - Our car dealership is seeking an articulate salesperson to help unload inventory.
+
+
+
+* [[https://wordsinasentence.com/ascetic-in-a-sentence/][Ascetic]]
+
+  =leading a life of self-discipline and self-denial, usually for spiritual reasons=
+
+  - Jacob chose to live an ascetic life because of his strict religious beliefs.
+  - When Gregory was a monk, he lived an ascetic lifestyle that excluded worldly goods.
+  - The minister encouraged his church members to pursue ascetic lives without earthly pleasures.
+  - Because Connie loved sugary foods, she found it very hard to stick to her ascetic diet, which did not include sweets and fatty foods.
+  - The smartest guy in my math class has ascetic habits and never does anything but study in his free time.
+  - When Jeremy was in the military, he was trained to be an ascetic soldier who could survive in the wilderness with few resources.
+  - Because Katy is a spoiled rich girl who gets everything she wants, she is definitely not maintaining an ascetic lifestyle.
+
+
+
+* [[https://wordsinasentence.com/ascribe-in-a-sentence/][Ascribe]]
+
+  =attribute a cause or characteristic=
+
+  - While you can sometimes ascribe these symptoms to allergies, I’m pretty sure you have a full-fledged cold.
+  - The doctors tried to ascribe the baby’s condition to parental negligence, but tests showed that he had a rare virus.
+  - Although Cathryn’s explanation of the poem was interesting, she wasn’t able to ascribe her interpretation to anything that made sense.
+  - If you falsely ascribe the source of that comment to the wrong person, you can be sued for libel.
+  - Professor Jarvis wanted to ascribe the old document to Shakespeare, but his colleagues demanded further analysis.
+  - Because the doctor couldn’t ascribe Caroline’s symptoms to a specific cause, he ordered a battery of blood tests.
+  - Just because the coach was recorded saying those things about the members of the opposing team, we can’t ascribe that attitude to the entire team.
+
+
+
+* [[https://wordsinasentence.com/assail-in-a-sentence/][Assail]]
+
+  =to attack violently=
+
+  - If anyone ever talks negatively about Alex’s father, his response is to assail the person with insults.
+  - Because fits of sneezing assail me almost year-round, I never go outside without taking an antihistamine.
+  - When difficult circumstances assail my tranquility, I turn to meditation.
+  - When I was a child, fears of monsters under the bed would assail me if I didn’t keep the light turned on.
+  - When Rebecca saw her cousin coming over she knew he was about to assail her friends with embarrassing stories of when they were kids.
+  - Whatever you do, don’t assail the integrity of someone else’s research.
+  - Anyone who would assail someone’s reputation anonymously is nothing but a coward.
+
+
+
+* [[https://wordsinasentence.com/assiduous-in-a-sentence/][Assiduous]]
+
+  =showing hard work and care that is brought about by attention to detail=
+
+  - That was very assiduous of you to finish those financial reports weeks ahead of schedule.
+  - With your assiduous attempt at learning Spanish, I think you will master the language in no time.
+  - The assiduous students chose to work on their term paper instead of going out to play.
+  - With an assiduous attitude, we will finish this project.
+  - Even the most assiduous workers had trouble focusing with the roaring of the machines.
+  - Rather than slacking off, remain assiduous and be amazed at how much you accomplish.
+  - Because Jane took assiduous notes, she outperformed every student in the class.
+
+
+
+* [[https://wordsinasentence.com/assimilate-in-a-sentence/][Assimilate]]
+
+  =to learn something so that it is fully understood and can be used=
+
+  - Because I am not good with math, I find it difficult to assimilate most of the geometry formulas.
+  - Jane had to assimilate a great deal of information on the first day of her new job.
+  - Although Janet listens during the class lectures, she still finds it hard to assimilate all the scientific facts.
+  - The four-year-old genius could assimilate information quicker than most college students.
+  - When Helen moved to Japan, she had to quickly assimilate a new language into her vocabulary.
+  - Increasing your vocabulary will make it easier for you to assimilate reading comprehension skills.
+  - Because the game’s rules are hard to assimilate, younger children will find it difficult to play.
+
+
+
+* [[https://wordsinasentence.com/astute-in-a-sentence/][Astute]]
+
+  =marked by practical hardheaded intelligence=
+
+  - The astute businessman went from rags to riches with one great idea.
+  - Not very astute of you running around with a sharp knife.
+  - The astute businessman was able to quickly assess the market and make the best buying decision.
+  - Because of his astute nature, it is very hard to trick the politician with any gimmick.
+  - The astute worker used her meeting with her boss as an opportunity to ask for a promotion.
+  - Both of the tricksters were astute and could easily select a mark that would fall for their scam.
+  - Holding onto a great idea for ages, the astute man finally submitted his inventive concept that may revolutionize how we strap on our seat belts.
+
+
+
+* [[https://wordsinasentence.com/asunder-in-a-sentence/][Asunder]]
+
+  =separate into distinct parts=
+
+  - When I learned my husband had been cheating on me, I felt as though my world had been blown asunder.
+  - If the marital crisis tears the couple asunder, who do you think will keep the house?
+  - The country has been torn asunder by an internal war that has divided it into a number of self-governing regions.
+  - When the killer swung the axe, he ripped the door asunder.
+  - The unpopular selection of the cheerleading captain tore the once united squad asunder and into two different groups.
+  - During a meeting with the marriage counselor, Jake said harsh words that hurt his wife and cut his marriage asunder.
+  - The tiny boat was ripped asunder by the force of the hurricane.
+
+
+
+* [[https://wordsinasentence.com/atone-in-a-sentence/][Atone]]
+
+  =to reimburse for a wrongdoing=
+
+  - To atone for racist actions in his youth, the billionaire established a scholarship fund for minority students attending his alma mater.
+  - The manager tried to atone for the bad service by offering me a complimentary dessert.
+  - When the drug caused the man’s death, the manufacturer tried to atone for its mistake by offering the widow two million dollars.
+  - Maggie is trying to atone for her bad behavior last night by acting like an angel today.
+  - According to Christians, Jesus died to atone for the sins of all people.
+  - The judge decided the only way the criminal could atone for his heinous crimes was by receiving capital punishment.
+  - Since Jim has made no plans to atone for his financial crimes, the parole board will probably deny his application for an early release.
+
+
+
+* [[https://wordsinasentence.com/atrocity-in-a-sentence/][Atrocity]]
+
+  =a horrific action=
+
+  - The atrocity of the murders stunned the entire city.
+  - To death penalty opponents, capital punishment is a huge atrocity.
+  - The soldier’s act of atrocity earned him a dishonorable discharge from the military and a fifty-year prison sentence.
+  - When the president learned of the dictator’s atrocity, he promised to help remove the cruel leader from power.
+  - The murder of the senior citizens showed the disturbed killer would not hesitate to commit an atrocity.
+  - At this time, no organization has taken credit for the atrocity that sank the cruise ship.
+  - The 911 operator’s drinking problem led to an atrocity that resulted in the deaths of three children.
+
+
+
+* [[https://wordsinasentence.com/atrophy-in-a-sentence/][Atrophy]]
+
+  =to weaken in ability or function=
+
+  - It was hard to watch my mother atrophy as she experienced the weakening disease of Alzheimer’s.
+  - According to researchers, the lack of exercise causes muscles to atrophy and become feeble.
+  - The use of cocaine can impair heart functioning and atrophy brain cells.
+  - When Janice stopped practicing the piano, her musical skills started to atrophy.
+  - When the gang leader died, his organization’s hold on the city began to atrophy as other gangs moved into the area.
+  - Because I have been wearing a boot that keeps my foot immobile, my ankle muscles have started to atrophy from nonuse.
+  - The bullet in Jack's head is causing his brain to atrophy.
+
+
+
+* [[https://wordsinasentence.com/attest-in-a-sentence/][Attest]]
+
+  =to uphold something as real or true=
+
+  - As any police officer can attest, driving while texting is not safe.
+  - The doctor can attest to your medical condition if a work excuse is needed.
+  - During the parole hearing, the warden will attest to the inmate’s positive behavior.
+  - The prosecutor lost his case when the witness was unable to attest to seeing the defendant at the crime scene.
+  - Before the company is audited, we need to hire an accountant to review our finances and attest they are in order.
+  - The empty plates on the table attest to the fact my mother is a fantastic cook.
+  - Since Helen was with me that evening, I was able to attest to her whereabouts when I was questioned by the police.
+
+
+
+* [[https://wordsinasentence.com/attrition-in-a-sentence/][Attrition]]
+
+  =a decrease in the number of staff or personnel as a result of replacements not been hired when employees leave=
+
+  - Police officer attrition is making it difficult for law enforcement to safeguard the entire community.
+  - As a result of teacher attrition, a lot of classrooms are overcrowded.
+  - The Girl Scout troop’s attrition is sizable because many families have moved out of the neighborhood.
+  - Unfortunately, budget cuts are worsening the fire department’s attrition problem.
+
+
+
+* [[https://wordsinasentence.com/attune-in-a-sentence/][Attune]]
+
+  =to customize or modify something to be more receptive or capable=
+
+  - The radio transmitter wasn’t picking up what we needed, so I had to attune it to the right frequency.
+  - You can attune yourself to any future situation by participating in them more often, as practice at anything will inevitably make you better at it.
+  - Many musicians have to attune their instruments before playing to get the exact sound that they want or need.
+  - If you want to get the best satellite TV possible, you will have to attune your satellite to the optimal position for receiving broadcasts.
+
+
+
+* [[https://wordsinasentence.com/audacious-in-a-sentence/][Audacious]]
+
+  =recklessly bold; daring=
+
+  - Cooper was an audacious soldier who never ran from a battle.
+  - Although April is an audacious athlete, she does not participate in any dangerous sports.
+  - The millionaire earned his fortune by being an audacious player on the stock market.
+  - While Harold’s business plan was risky and audacious, it promised great rewards if successful.
+  - Jason was an audacious chess opponent who won nearly every match because of his bold moves.
+  - Even though Kim is an audacious driver who rarely drives the speed limit, she has never been in a car accident.
+  - The prince’s audacious plan to save the princess included crossing the deathly forest and killing the dragon.
+
+
+
+* [[https://wordsinasentence.com/auspices-in-a-sentence/][Auspices]]
+
+  =guidance and support=
+
+  - Under the auspices of their commander-in-chief, the troops crossed the border into the war zone.
+  - Two mobile libraries, under the auspices of the state literacy program, regularly visit inner-city communities.
+  - Under the auspices of their teacher, the students dissected a pig.
+  - Kim is excited about taking the trip with her friends because for once, she’ll be independent and not under the auspices of her parents.
+
+
+
+* [[https://wordsinasentence.com/auspicious-in-a-sentence/][Auspicious]]
+
+  =being a sign of future success; indicating a promising future=
+
+  - His brilliant acceptance speech was an auspicious start to his political career.
+  - Everybody knows the end of the year is an auspicious time to buy a car!
+  - Because everyone was happy and feeling generous at the party, it was an auspicious time to ask for charitable donations.
+  - In Chinese culture, the shade of red is considered auspicious so Chinese men often wear red ties to important meetings.
+  - Since his father was a state judge, Henry was born with an auspicious legal career ahead of him.
+  - After his boss praised him for his work on the big project, Sam felt it was an auspicious time to ask for a promotion.
+  - When the president took his oath without missing a word, everyone noted the event as an auspicious occasion.
+
+
+
+* [[https://wordsinasentence.com/austere-in-a-sentence/][Austere]]
+
+  =without any decoration; strict and serious in manner=
+
+  - Even though she appeared austere, my teacher was a very kind woman.
+  - The soft candlelight made the room’s décor less austere.
+  - Lacking personal touches, the couple’s formal living room was quite austere.
+  - Although the furnishings in the house were beautifully designed, they were austere in appearance.
+  - Instead of being bleak and austere, hospitals should be warm and cheery.
+  - When he thought no one was watching, the austere palace guard would smile at the small children.
+  - A monk chooses to live an austere life because of his religious beliefs.
+
+
+
+* [[https://wordsinasentence.com/avarice-in-a-sentence/][Avarice]]
+
+  =A strong desire and greed for money/material things=
+
+  - Mr. Krab’s avarice for money caused him to work his employees to the bone for little pay.
+  - The greedy banker’s avarice led him to funnel company funds into his personal account.
+  - With avarice, you could have everything in the world and it all still would not be enough.
+  - Motivated by avarice, the employee stole thousands of dollars from the company vault.
+  - I cannot believe that your intense avarice gets in the way of donating a measly $5!
+  - During the theft trial, evidence was presented to show the greedy defendant’s avarice and gluttony.
+  - Her only motivation for suing the wealthy businessman is pure avarice.
+
+
+
+* [[https://wordsinasentence.com/avaricious-in-a-sentence/][Avaricious]]
+
+  =desirous of wealth or advancement=
+
+  - Since Tiffany was an avaricious reader, her reading level was at 12th grade level even though she was still in 4th grade.
+  - Even though the king had all the riches in his kingdom, this avaricious leader always wanted more.
+  - After receiving a bill for millions of dollars, the avaricious lawyer would charge as much as possible to his needy clients.
+  - The avaricious student was completing her fourth college degree so that her skills would be well above the other candidates’ skills for any job.
+
+
+
+* [[https://wordsinasentence.com/averse-in-a-sentence/][Averse]]
+
+  =actively not liking something=
+
+  - For those who are averse to spaghetti, you also have the meal choice of baked chicken with roasted potatoes.
+  - My teenager daughter is averse to chores and usually has to be forced to complete her cleaning duties.
+  - Because I am averse to risk, I never play casino games.
+  - My children are quite averse to the suggestion of having year-round school.
+  - Since my children are averse to broccoli, I have to hide the vegetable in their favorite dishes.
+  - Marilyn is averse to conflict and goes out of her way to avoid disagreements.
+  - Because we all know Betty is averse to heights, we were shocked when she took up skydiving.
+
+
+
+* [[https://wordsinasentence.com/avocation-in-a-sentence/][Avocation]]
+
+  =an activity one enjoys when he or she is not working=
+
+  - Recently, Sherman discovered woodworking is the type of avocation he enjoys in his spare time.
+  - In college Josh did not have time for an avocation; he was too busy studying to pursue a hobby.
+  - Trisha excelled at the avocation of sewing and ultimately turned it into a career.
+  - While John saw stamp collecting as a fun avocation, many people saw it as a boring hobby.
+
+
+
+* [[https://wordsinasentence.com/axiom-in-a-sentence/][Axiom]]
+
+  =a rule or principal that many people accept as true=
+
+  - Although you keep using that axiom as the basis for your paper, the concept itself is not true.
+  - Mrs. Struthers is an awful teacher who does not believe the axiom that states, "all children can learn".
+  - According to the axiom, all men have equal worth.
+  - The axiom of it being cheaper by the dozen is not true when it comes to feeding a large family at today’s market prices.
+  - The actress with the fewest number of lines found it difficult to accept the axiom about there being no small roles only small actors.
+  - When the university disproved the basic axiom of protein replication, the scientific community was shocked and hurried to confirm the new findings.
+  - Unfortunately, the dictator runs his country on the axiom "might makes right".
+
+
+
+* [[https://wordsinasentence.com/abase-in-a-sentence/][Abase]]
+
+  =to lower so as to hurt feelings=
+
+  - My stepmother is an evil woman who likes to abase little children because she had a miserable childhood herself.
+  - Because Mark hated himself, he often tried to abase others by calling them names.
+  - I will not remain married to a man who tries to abase me in order to make me feel worthless!
+  - Although I need money badly, I will not abase myself by working for pennies.
+  - The gossip columnist tried to abase the singer’s reputation by spreading lies about him.
+  - Even though John was angry at his wife for losing a thousand dollars, he chose not to abase her with cruel words.
+  - Although Alice bullies smaller kids at school, she does not abase her younger brother at home.
+
+
+
+* [[https://wordsinasentence.com/abash-in-a-sentence/][Abash]]
+
+  =to humiliate someone and make them feel embarrassed or ashamed=
+
+  - The officer tried to abash the inmates, humiliating them and treating them like dogs.
+  - Daniel’s tendency to abash his wife left her embarrassed and thinking about divorce.
+  - Though he claims he didn’t mean to abash his brother, the man has a long history of embarrassing him in public.
+  - Ross vowed to humiliate his opponent and abash him in any way possible.
+
+
+
+* [[https://wordsinasentence.com/abdicate-in-a-sentence/][Abdicate]]
+
+  =to stop accepting a particular responsibility or obligation that you have=
+
+  - The young prince became king after his older brother decided to abdicate the throne.
+  - Because the mother chose to abdicate her role as a parent, her children have become the terrors of the neighborhood.
+  - Of course, it is easier to abdicate your responsibilities than to be a good citizen.
+  - Since the dictator of that country will not simply abdicate his position, we must go to war to remove him from power.
+  - It is obvious from the bad behavior of these children that their parents have chosen to abdicate their jobs as good role models.
+  - Angry at her husband, the wife decided to abdicate her household position of cook and cleaner for a whole week.
+  - Although my daughter is getting married to a wonderful man today, it is still very hard for me to abdicate my role as her protector.
+
+
+
+* [[https://wordsinasentence.com/abjure-in-a-sentence/][Abjure]]
+
+  =to give up a belief or an activity=
+
+  - After the tyrant took over the country, the citizens had to abjure their political beliefs.
+  - In order to marry the peasant he loved, the prince made the decision to abjure his title.
+  - Because John ignored his parents’ plea to abjure a life of crime, he ended up in prison by making bad choices.
+  - Although chocolate cake is Martha’s favorite dessert, she has chosen to abjure it while on her diet.
+  - While the military leader claimed to abjure unnecessary violence, he was quick to send his soldiers off to battle.
+  - Because the heiress does not care about money, she will abjure her inheritance and request that it be donated to charity.
+  - We could not believe it when Father Lawrence made the choice to abjure his faith and leave the church.
+
+
+
+* [[https://wordsinasentence.com/abnegation-in-a-sentence/][Abnegation]]
+
+  =the act of rejecting or refusing something=
+
+  - Her abnegation of ice cream and cookies is due to her Olympic team training.
+  - Because everyone knew Jane loved serving the public, they were shocked by her abnegation of the congressional seat.
+  - The school counselor hoped she could encourage her students to consider the abnegation of drug use.
+  - When Mark decided to protest chemical dumping, he used the abnegation of food and water as his method of protest.
+  - Everyone expected the government’s abnegation of responsibility for the long war.
+  - If you wish to be a monk, you must not have a problem with the abnegation of worldly possessions.
+  - The priest's abnegation of his faith was a shock to everyone in the community.
+
+
+
+* [[https://wordsinasentence.com/abominate-in-a-sentence/][Abominate]]
+
+  =to despise intensely=
+
+  - Since I abominate liver, I will starve to death before I eat it.
+  - My dogs abominate cold weather so I have to force them outside when the temperature goes below fifty degrees.
+  - If you abominate something, you really hate it.
+  - As a diehard golf fan, Josh is unwilling to date anyone who claims to abominate the sport.
+
+
+
+* [[https://wordsinasentence.com/abraded-in-a-sentence/][Abraded]]
+
+  =to produce damage or irritation by scraping, rubbing, or crushing=
+
+  - The wool blanket abraded my legs and gave me a rash.
+  - When my husband saw how his facial hair abraded my skin, he decided it was time to shave.
+  - The uncomfortable shoe strap abraded my heel and created a sore.
+  - Because the pencil was held so tightly against my finger, it abraded my skin and left a red mark.
+
+
+
+* [[https://wordsinasentence.com/abrogate-in-a-sentence/][Abrogate]]
+
+  =to abolish; to do away with=
+
+  - You cannot abrogate anyone's right to free speech!
+  - With thunderstorms rolling in this afternoon, we may abrogate today's outdoor protest.
+  - A good father would never abrogate his parental responsibilities.
+  - Our city needs to abrogate outdated laws.
+  - More cities are beginning to abrogate smoking in public places because of second-hand smoke hazards.
+  - Animal lovers are protesting to abrogate the use of animals in science.
+  - Because we have a signed contract, you cannot abrogate your end of the agreement.
+
+
+  - The bus came to an abrupt halt outside the school.
+  - Our conversation came to an abrupt end when George burst into the room.
+  - The accident brought his career to an abrupt end.
+  - Artie knocked me off-balance with his abrupt change of subject.
+
+
+
+* [[https://wordsinasentence.com/abstemious-in-a-sentence/][Abstemious]]
+
+  =marked by moderation and holding back on indulgence=
+
+  - Gerald was abstemious at dinner and only ate a little of the food on his plate.
+  - Because I was abstemious with alcohol when I was younger, I am still quite healthy in my later years.
+  - The best way to avoid becoming obese is by being abstemious and only eating what is necessary to survive.
+  - While Mr. Peterson was quite abstemious with his meals, he always put out a big feast when he had guests over for dinner.
+  - The monks had an abstemious diet which consisted chiefly of chicken, bread, water, and cabbage.
+  - Even though Mrs. Washington was a very wealthy woman, she still lived an abstemious life and only spent money on the basic essentials.
+  - Because of his religion, Pierre is abstemious and does not eat meat.
+
+
+
+* [[https://wordsinasentence.com/abstention/][Abstention]]
+
+  =a decision to not vote for or against a proposition=
+
+  - I decided to settle on an abstention when the family voted on where we should eat, as personally I didn’t care where we went.
+  - If you do not vote for or against something, you have instead decided on abstention, remaining neutral.
+  - Abstentions occur most often in Congress, when a senator may choose to not vote for or against a proposed notion.
+  - If you have ever refused to take sides in something, you know exactly what it means to prefer an abstention over a decision.
+
+
+
+* [[https://wordsinasentence.com/abstinence-in-a-sentence/][Abstinence]]
+
+  =the act of not taking part in something=
+
+  - According to my religion, one should refrain from having sex and practice abstinence until marriage.
+  - Abstinence from smoking is now mandatory on commercial airlines.
+  - Because of strong family support, Frank has been able to maintain his abstinence from alcohol for over twelve years.
+  - The goal of the church’s teen youth group is to promote abstinence from sex, drugs, and alcohol.
+  - Because I am a diabetic, I plan my menus with a focus on abstinence from sugar.
+  - Abstinence from sex is the only sure way to prevent unwanted pregnancies.
+  - On certain religious holidays, the people in my family eat only fish and maintain an abstinence from other meats.
+
+
+
+* [[https://wordsinasentence.com/acclaim-in-a-sentence/][Acclaim]]
+
+  =public praise and applause=
+
+  - Showered with acclaim, the dancer loved all of the praise she was getting from the crowd.
+  - The café won widespread acclaim for its amazing shrimp dishes and yummy desserts.
+  - Since her last movie, the amazing actress has won national acclaim and several Hollywood roles.
+  - The popular newspaper has received international acclaim and several national awards.
+
+
+
+* [[https://wordsinasentence.com/accosted-in-a-sentence/][Accosted]]
+
+  =forcefully confronted=
+
+  - When the man accosted me with a gun, I quickly handed over my purse.
+  - The policemen asked Greg to describe the man who accosted him.
+  - Because the star hates to be accosted by her fans, she wears disguises when she goes out in public.
+  - The man who accosted the woman he met online will be going to prison for ten years.
+
+
+
+* [[https://wordsinasentence.com/accretion-in-a-sentence/][Accretion]]
+
+  =act of increasing by natural growth=
+
+  - The accretion of traffic accidents and drunk driving was attributed to the opening of the new downtown mall.
+  - The gradual accretion of terror over many years left hundred dead and thousands wounded.
+  - Sophia was convinced that the accretion of ice on her car’s windshield was preventing her wipers from operating correctly.
+  - Coca Cola estimated about 40 cents of lost earnings per share accretion due to the devaluation of their stock.
+
+
+
+* [[https://wordsinasentence.com/accrue-in-a-sentence/][Accrue]]
+
+  =increase=
+
+  - Even though a traditional savings count will accrue a small amount of interest every year, other types of investments are better hedges against inflation.
+  - The benefits of following a healthy lifestyle will accrue over time.
+  - If you don’t want the tax penalties to accrue until they’re unmanageable, you’d better work out a payment plan with the IRS.
+  - I enjoy using this credit card because the more I use it for purchases, the more mileage points I can accrue.
+  - At last, Brad felt that he had brought his company to a point where he could just stand back and accrue the profits.
+  - When Jim was first hired, his supervisor told him that the longer he stayed with the company, the more benefits he would accrue.
+  - We really have to clean out the storeroom because the more surplus junk we accrue, the less room we have for anything.
+
+
+
+* [[https://wordsinasentence.com/acquittal-in-a-sentence/][Acquittal]]
+
+  =a setting free from the charge of an offense or verdict=
+
+  - After the defendant learned of his acquittal, he jumped for joy.
+  - Everyone was shocked by the killer’s acquittal which allowed him to leave prison.
+  - When there is not enough evidence, a criminal case will usually end with an acquittal.
+  - The man’s foreign diplomat status ensures he will receive an acquittal on any charge.
+  - When the accused serial killer received an acquittal, the entire country was enraged.
+  - Although the defendant received an acquittal on the most serious charges, he still has to go to prison for one year on minor charges.
+  - The animal rights group was far from happy when the suspected puppy killer received an acquittal for the offense.
+
+
+
+* [[https://wordsinasentence.com/acuity-in-a-sentence/][Acuity]]
+
+  =sharpness in relation to thought, vision, or hearing=
+
+  - In order for my daughter to get into the school’s gifted program, she had to take a mental acuity test.
+  - A sniper’s visual acuity has to be exceptional because he must be able to clearly see his targets.
+  - According to many people, smoking marijuana does not decrease your intellectual acuity.
+  - Owls make use of their excellent visual acuity to chase their prey at night.
+  - As the admissions board reviewed the college applications, the members focused on accepting only students with the highest academic acuity.
+  - Glaucoma has greatly lessened my grandmother’s visual acuity.
+  - As soon as I put on my glasses, my optical acuity improved.
+
+
+
+* [[https://wordsinasentence.com/acumen-in-a-sentence/][Acumen]]
+
+  =experience or expertise in something=
+
+  - John’s business acumen, along with his computer skills, made him an asset to the software company.
+  - While you excel in the area of customer service, you do not possess the financial acumen necessary to become a branch manager.
+  - Although Sarah wants to become a state senator, she lacks the political acumen to win enough votes.
+  - You need more than acumen to become a successful car salesperson.
+  - The acumen displayed by our principal is the reason our school is one of the best in the nation.
+  - Since you have made so many unprofitable trades, your business acumen is in question!
+  - Attorneys with acumen are highly valued at any law firm.
+
+
+
+* [[https://wordsinasentence.com/addle-in-a-sentence/][Addle]]
+
+  =to cause a person’s thoughts to become jumbled or confused=
+
+  - Is it true smoking marijuana can addle your brain and make it difficult for you to concentrate?
+  - When the test questions started to addle my brain, my head began to hurt.
+  - The disease will addle your grandmother’s mental capacity and cause her to lose her memory.
+  - Because the professor is not a good teacher, he is indifferent when his students tell him that his complex lectures addle their brains.
+
+
+
+* [[https://wordsinasentence.com/adduce-in-a-sentence/][Adduce]]
+
+  =to produce as support during a discussion or argument=
+
+  - During the trial the defense attorney will adduce evidence to show the defendant’s innocence.
+  - The rookie debate team lost the challenge because it failed to adduce facts supporting its position.
+  - If you cannot adduce proof you are the sole creator of the concept, I will split the bonus among the entire team.
+  - The city attorney will adduce the man’s toxicology report to prove he was driving drunk.
+
+
+
+* [[https://wordsinasentence.com/adjourn-in-a-sentence/][Adjourn]]
+
+  =to suspend or conclude an event=
+
+  - After church services adjourn at one o’clock, we will have our monthly picnic.
+  - It is late so we will adjourn this debate until tomorrow.
+  - Until the director finds another lead actress, we will adjourn the production of the film.
+  - The trial will adjourn until nine o’clock in the morning.
+
+
+* [[https://wordsinasentence.com/adjudicate-in-a-sentence/][Adjudicate]]
+
+  =to make a decision on an issue=
+
+  - The administrative board will adjudicate on the terms of the doctor’s suspension for misconduct.
+  - Because Jack is the president, he is the one who must adjudicate whether or not to lay off workers.
+  - You should never adjudicate a major decision when you are under the influence of alcohol.
+  - In a national criminal case, the federal authorities are the ones who adjudicate the charges.
+
+
+
+* [[https://wordsinasentence.com/adolescence-in-a-sentence/][Adolescence]]
+
+  =the time period when a young person becomes a grownup=
+
+  - When children reach the period of adolescence, they crave freedom to make their own choices.
+  - Perhaps my worse challenge during adolescence was the acne that covered my face.
+  - During adolescence, Marcus really began to think about what he wanted to study in college.
+  - Lionel’s voice deepened during adolescence.
+
+
+
+* [[https://wordsinasentence.com/adroit-in-a-sentence/][Adroit]]
+
+  =clever or skillful=
+
+  - The child was an adroit pianist at an early age.
+  - Because Leonard is adroit at mental calculations, he is able to effortlessly solve complicated math problems.
+  - Their rugby team consists of several adroit players.
+  - Even though Gwen had been taking violin lessons for years, she was still not very adroit at playing compositions.
+  - The butler was adroit at running a large household.
+  - When it comes to managing your money, it is obvious you are not very adroit with financial matters!
+  - My cousin Lenny is an adroit fisherman.
+
+
+
+* [[https://wordsinasentence.com/adulterate-in-a-sentence/][Adulterate]]
+
+  =to make a substance less pure by adding something else to it=
+
+  - If you want to adulterate your alcoholic drink, you should add some water to it.
+  - The restaurant was fined for trying to adulterate the beef with cheap meats.
+  - The evil pharmacist was arrested after he tried to adulterate the cancer medicines for profit.
+  - As the parent of a young child, I often adulterate the apple juice in my house with water.
+  - The manufacturers of cheap olive oil often adulterate the liquid to increase their supply of the merchandise.
+  - Although the company swears it does not adulterate its products, it is obvious to everyone that the quality of the firm’s goods has greatly decreased.
+  - During Sunday morning church service, it is my job to adulterate the wine so it is weak enough for everyone to safely drink.
+
+
+
+* [[https://wordsinasentence.com/advent-in-a-sentence/][Advent]]
+
+  =the coming or arrival of something=
+
+  - With the advent of the internet, working from home has become a real phenomenon.
+  - The elder discussed the advent of the messiah and how it would usher in a new world order.
+  - The advent of drones is set to usher in a whole new era for photography.
+  - Everyone was afraid that the advent of the year 2000 would cause computers to crash the world over.
+
+
+
+* [[https://wordsinasentence.com/adventitious-in-a-sentence/][Adventitious]]
+
+  =not natural; foreign=
+
+  - The weird-looking plant is adventitious and not native to this country.
+  - While the band was not popular in its native country, it did find adventitious celebrity in other countries.
+  - The marine biologist classified the fish as adventitious because it is not normally found in bodies of saltwater.
+  - During the surgery, the doctor removed an adventitious particle that did not belong inside of the patient’s body.
+  - Janice was detained at the airport when the x-ray scanner picked up adventitious materials on her body.
+  - As soon as Gail saw the adventitious man at her wedding, she knew a stranger had crashed her special day.
+  - It was easy for the nuns to recognize the adventitious student, the sole boy in the all-girls school.
+
+
+
+* [[https://wordsinasentence.com/advert-in-a-sentence/][Advert]]
+
+  =an advertisement=
+
+  - The newspaper advert announced position openings at the local potato plant.
+  - To place an advert in the local classifieds will only cost you a few dollars.
+  - Over twenty thousand people viewed the online advert offering a million dollar reward for a missing laptop.
+  - People were always shocked to learn that the newlyweds met when the husband placed a single and looking advert.
+
+
+
+* [[https://wordsinasentence.com/aerate-in-a-sentence/][Aerate]]
+
+  =to cause air to circulate through something=
+
+  - The cleaners needed to aerate the room to get the strong odor out.
+  - Without a way to aerate the building, the hot workers were forced to leave early.
+  - The drink makers began to aerate their drinks, adding a fizz to the products.
+  - He needed to aerate the flattened ball before leaving for the court.
+
+
+
+* [[https://wordsinasentence.com/aftermath-in-a-sentence/][Aftermath]]
+
+  =the aftereffects or consequences of an unpleasant or destructive event=
+
+  - More frightening than the hurricane was the aftermath and incomprehensible task of rebuilding.
+  - Faced with the aftermath of their crime spree, the petty thieves decided to turn themselves in to authorities.
+  - Although the aftermath was daunting, nothing could compare to the moment that the tornado struck the building.
+  - The avalanche’s aftermath required extensive resources including rescue and clean-up crews.
+
+
+
+* [[https://wordsinasentence.com/agape-in-a-sentence/][Agape]]
+
+  =open=
+
+  - Before you eat oysters, clams, or mussels, always check to be sure that the shells are firmly closed and not even a little bit agape.
+  - When I first saw the sunset in the Grand Canyon, I could only stand staring with my mouth agape.
+  - Even though the tornado left us standing agape in the midst of all our ruined possessions, we couldn’t help feeling a huge sense of gratitude that none of us had been hurt.
+  - I didn’t realize how hurtful my words had been until I saw Sherrie’s expression, agape with shock.
+  - Despite the danger, Christopher was rooted to the spot as he watched the rabid dog staggering toward him, his jaws agape and slobbering.
+  - After everyone jumped and yelled “Surprise,” Candace just stared at everyone, her mouth and eyes agape with astonishment.
+  - While her friends stood around her looking agape, Mary Ann threw her engagement ring as far as she could into the ocean.
+
+
+
+* [[https://wordsinasentence.com/agnostic-in-a-sentence/][Agnostic]]
+
+  =unsure about the existence of a god or holy being=
+
+  - After my husband became agnostic, he stopped going to church because of his doubt about god's existence.
+  - Jill’s agnostic beliefs had her wondering if there was a deity who guided her life.
+  - If you are skeptical of your religion, you might have become agnostic.
+  - John knew he was too agnostic to dedicate his life to the church when he started to doubt the reality of Christ.
+
+
+
+* [[https://wordsinasentence.com/agog-in-a-sentence/][Agog]]
+
+  =filled with anticipation and excitement=
+
+  - The little kids were agog as they waited for Santa Claus to arrive.
+  - On the way to the concert hall, the teen girls were agog at the thought of seeing their favorite singer.
+  - Fans of the movie series are agog about the upcoming release of the new film.
+  - From the sidewalk, the well-wishers were agog as they waited for the royal couple to leave the church.
+
+
+
+* [[https://wordsinasentence.com/ague-in-a-sentence/][Ague]]
+
+  =a fever that causes you to shake, sweat and feel cold=
+
+  - Dr. Frank determined that his patient acquired ague based on the symptoms but, he realized it was not malaria because the patient had not visited tropical areas lately.
+  - Customs agents required the tourist to undergo tests to determine if he would be bringing in ague, Ebola or West Nile virus into the country.
+  - After a rash of emergency room visits with patients complaining of fever and shivering, the state revealed an epidemic of ague.
+  - Carol believed her son had the flu at first, but after his symptoms persisted he was diagnosed with ague.
+
+
+
+* [[https://wordsinasentence.com/ail-in-a-sentence/][Ail]]
+
+  =a trouble, symptom, or affliction=
+
+  - A common ail that afflicts people when they have a cold is a runny nose, but that is just one of the sinus issues that come along with that.
+  - I did not go to school today because I had the serious ail of throwing up every few hours from a sour stomach.
+  - I cannot name a single ail of a stomach virus that does not strike me as incredibly unpleasant an unwanted.
+  - A doctor will always ask what the nature of your ail is when you first visit them so they can narrow down what affliction may be troubling you.
+
+
+
+* [[https://wordsinasentence.com/aleatory-in-a-sentence/][Aleatory]]
+
+  =random, dependent on luck or chance=
+
+  - Rick laughs at anyone who spends money at the slot machines, because it’s a purely aleatory game that has no intellectual component whatsoever.
+  - Gambling is aleatory in nature because a payout occurs based on an event outside of one's control.
+  - We insisted that the coin toss be completed five times in a row by five different people, ensuring that the results were completely aleatory and unpredictable.
+  - Although the throw of a die is supposed to be entirely aleatory, Gregg seems to know how to spin sixes every time.
+
+
+
+* [[https://wordsinasentence.com/allay-in-a-sentence/][Allay]]
+
+  =to make quiet or calm=
+
+  - A good teacher will work hard to allay the concerns of a new student.
+  - Last night, I spent over an hour trying to allay my daughter’s fears about the boogieman.
+  - Jim hoped a doctor’s diagnosis would allay his worry about the rash on his arm.
+  - Even though the president has apologized for his lack of action during the crisis, his statement has done nothing to allay public anger.
+  - By praying night and day, the people hoped to allay the anger of the gods.
+  - Walter tried to allay his wife’s concerns about sending their daughter to an out-of-state college by pointing out the short travel distance by plane.
+  - After the terrorist attack, the president made a speech to try and allay the nation’s fears.
+
+
+
+* [[https://wordsinasentence.com/ambient-in-a-sentence/][Ambient]]
+
+  =producing a mood or effect by being present=
+
+  - The ambient music in the store made people feel good about shopping.
+  - As soon as I smelled the ambient scent, I started to relax on the massage table.
+  - The ambient candle created a romantic setting.
+  - When my baby heard the ambient sound of the waterfall, she quickly fell asleep.
+
+
+
+* [[https://wordsinasentence.com/amnesty-in-a-sentence/][Amnesty]]
+
+  =a formal pardon or reprieve given to one who has committed a criminal or political offense=
+
+  - Although Bill Smith was sentenced to life in prison in 1998, he was later released after receiving amnesty from the president.
+  - Dr. Angali was able to return to his native country after receiving amnesty for his political crimes.
+  - Although the governor claimed to be an honest man of the people, he did not hesitate to give his wealthy friend amnesty for a tax related crime.
+  - The president upset millions of voters when he announced a plan to offer amnesty to illegal immigrants so they could become citizens.
+  - Because of overcrowded prison conditions, thousands of prisoners were recently approved for amnesty.
+  - There are those who believe giving illegal residents amnesty will only encourage other people to sneak into the country.
+  - One day out of the year, the public library offers a “no fine” amnesty to anyone who returns a long overdue book.
+
+
+
+* [[https://wordsinasentence.com/ancillary-in-a-sentence/][Ancillary]]
+
+  =in addition to the main unit, worker, or task=
+
+  - If we start the ancillary generators, we should have enough power to keep the main generator online.
+  - Language tutoring is just one of the many ancillary services provided by our public library.
+  - When you pay an additional twenty dollars for extra legroom on a plane, you are paying the airline an ancillary fee.
+  - The ancillary teacher is in the classroom to help the lead teacher meet the needs of all the students.
+  - When the company decided to cut costs, it laid off its ancillary workforce first.
+  - The venue has a large auditorium and several ancillary rooms with small screens.
+  - During her presentation, Heather used many ancillary tools to help enhance her slide show presentation.
+
+
+
+* [[https://wordsinasentence.com/animadversion-in-a-sentence/][Animadversion]]
+
+  =a judgmental remark or criticism=
+
+  - The judge warned the hostile lawyer to not make another animadversion to the witness.
+  - When Tom was caught cheating on the final exam, he had to endure an animadversion from the talkative principal.
+  - The critic despised Patterson’s new book and wrote a lengthy animadversion about the author’s lack of talent.
+  - After the editor offended the queen with a spiteful editorial, he received a verbal animadversion from the newspaper owner.
+
+
+
+* [[https://wordsinasentence.com/animus-in-a-sentence/][Animus]]
+
+  =an intense feeling of loathing or disgust; hatred=
+
+  - My animus towards my roommate stems from the fact he is constantly stealing my food.
+  - Whenever I am around the girl who stole my boyfriend, I experience an animus that makes me want to break something.
+  - The detective’s animus towards the victim’s husband led him to ignore other possible suspects.
+  - If you hear any animus in my voice, it is because I really dislike my mother-in-law.
+
+
+
+* [[https://wordsinasentence.com/anneal-in-a-sentence/][Anneal]]
+
+  =to heat and slow cool metal or glass in order to toughen it=
+
+  - The welder was able to anneal the metal, heating it to make it stronger.
+  - The exact temperature required to anneal steel depends on the ingredients of the alloy.
+  - If you anneal the metal at too low a temperature, the correct binding process will not take place during heating or cooling.
+  - If the glass maker does not properly anneal the pane, it is likely to crack with small temperature changes.
+
+
+
+* [[https://wordsinasentence.com/annihilate-in-a-sentence/][Annihilate]]
+
+  =to destroy, to eradicate=
+
+  - During the war, our soldiers will annihilate the enemy and secure our land.
+  - Hopefully, the medicine will annihilate the bacteria causing my throat infection.
+  - Because the citizens believe the hurricane is going to annihilate the city, they are evacuating their homes.
+  - The boxer hopes to annihilate his opponent during the first round of the match.
+  - If the fire is not put out soon, it will annihilate the entire subdivision.
+  - With just a single spray, I can annihilate all of the ants on my kitchen counter.
+  - In the movie, the villain had enough nuclear weapons to annihilate most of the human race.
+
+
+
+* [[https://wordsinasentence.com/antecedent-in-a-sentence/][Antecedent]]
+
+  =something that came before something else and may have influenced or caused it=
+
+  - Can you identify the antecedent that led to Jane’s emotional breakdown?
+  - The legal antecedent for this case can easily be found in the law library.
+  - In a certain way, my mother is my antecedent because without her I never would have been born.
+  - The sentence you wrote is a bit confusing because the pronoun does not have an antecedent describing the person to whom you are referring.
+  - Because Jamie is a peaceful man, there must have been some kind of antecedent which caused him to attack the stranger in the park.
+  - The act of working towards a goal is the necessary antecedent, which comes before completing that particular achievement.
+  - What antecedent caused the two nations to be at war?
+
+
+
+* [[https://wordsinasentence.com/aplomb-in-a-sentence/][Aplomb]]
+
+  =confidence and skill shown, especially in a difficult situation; keeping your cool=
+
+  - Because the negotiator handled the hostage situation with aplomb, the kidnapper released everyone without harm.
+  - Jason handled his first acting role with aplomb and won over his critics.
+  - During the bomb scare, the teacher managed the children with aplomb and kept everyone calm.
+  - Vincent was the first magician to successfully perform this magic trick with aplomb.
+  - Mark received a job offer because of his ability to handle tasks with aplomb.
+  - Although the awards host could not read the television prompter, he still performed his opening number with aplomb that made him the hit of the evening.
+  - Even though Jenny was nervous about dancing in her first recital, she executed her steps with aplomb and received a standing ovation from the audience.
+
+
+
+* [[https://wordsinasentence.com/apostate-in-a-sentence/][Apostate]]
+
+  =an individual who has rejected his faith or religious convictions=
+
+  - When John challenged his church’s views, the leaders began to see him as an apostate.
+  - Anne was viewed as a dangerous apostate once she left the cult.
+  - After Katie exposed the church’s secrets, she was regarded as an apostate.
+  - To reject a religion that preaches hate and intolerance, I’ll gladly become an apostate.
+
+
+
+* [[https://wordsinasentence.com/ardent-in-a-sentence/][Ardent]]
+
+  =feeling great passion, or felt very passionately=
+
+  - When the rock star checks his mail, he almost always finds one or two bizarre gifts from some of his ardent fans.
+  - Paul feels out of place among his friends because of his ardent love of classical music.
+  - Melissa has always been an ardent supporter of the city’s community theater.
+  - As an ardent lover of nature, Philip plans at least two or three hiking vacations every year.
+  - As an ardent devotee of the Shopping Network, she had to restructure her budget to avoid going into bankruptcy.
+  - Megan had always had an ardent yearning to become a successful actress, so naturally she was elated at the glowing reviews of her performance.
+  - It’s amazing how even the most ardent desires you have as a teenager tend to fade away as you face the reality of adulthood.
+
+
+
+* [[https://wordsinasentence.com/arraign-in-a-sentence/][Arraign]]
+
+  =to charge someone in a court of law=
+
+  - His lawyer was not present when the suspect was set to arraign.
+  - They wanted to arraign the thief for stealing cars on the same day he was arrested.
+  - Before he was set to arraign, the judge liked to carefully review each case.
+  - The judge had to travel to the hospital to arraign the injured suspect.
+
+
+
+* [[https://wordsinasentence.com/arrant-in-a-sentence/][Arrant]]
+
+  =complete, total, or utter (example: "arrant nonsense")=
+
+  - If you allow your son to participate in such arrant nonsense with his friends, he’s going to end up either hurt or in a juvenile detention center.
+  - I couldn’t believe she was taken in by such arrant deception.
+  - Because of his outrageous conceit and disregard for the feelings of others, Matt is no longer welcome among the A list of the town’s citizens.
+  - The kitten’s arrant mischievousness has gotten him into all sorts of mishaps.
+  - Despite what we’ve all been led to believe, it’s hard to argue with your arrant logic.
+  - Because of her arrant devotion to her family, she volunteered to go to the labor camp with them.
+  - Becky’s arrant flirtations with Tony backfired on her when he asked Charlotte to prom.
+
+
+
+* [[https://wordsinasentence.com/asinine-in-a-sentence/][Asinine]]
+
+  =very stupid or foolish=
+
+  - How asinine of you to pay for a television in pennies!
+  - I will not tolerate your asinine behavior.
+  - Out of all the asinine things you have done before, wearing a swim suit in the snow tops the list.
+  - Allowing your children to smoke cigarettes is asinine.
+  - Your asinine attempt to lie in court is going to cost you big time!
+  - Chris would exhibit his asinine behavior by throwing garbage at the protestors.
+  - This asinine person had the nerve to cut me in line.
+
+
+
+* [[https://wordsinasentence.com/askance-in-a-sentence/][Askance]]
+
+  =with doubt or suspicion=
+
+  - The wealthy man looked askance as the gang members approached him.
+  - Even though the church members were supposed to be welcoming, they still viewed the stranger askance.
+  - Employers tend to look askance at people who change jobs often.
+  - As the police officer listened to the woman’s crazy story, he could not help but look askance at her.
+  - The insurance agent looked askance at the poor man’s million-dollar claim.
+  - When Frank’s rival offered him candy, he could only look askance at him.
+  - Carol looked askance at the unfamiliar man walking around her house.
+
+
+
+* [[https://wordsinasentence.com/askew-in-a-sentence/][Askew]]
+
+  =tilted to one side; in a crooked position=
+
+  - I’ve tried straightening out the poster three times, but it still looks askew.
+  - Even though his toupee is almost always askew, he is a funny, endearing character who is welcome at any get-together.
+  - When Mia came home and hung her new painting on the wall, she noticed that it was askew in the frame.
+  - The first thing Elizabeth noticed when she walked up the sidewalk to her house was that the curtains were askew, as if someone had been watching her from the window.
+  - Because the door had been installed askew, it had a tendency to swing open suddenly if I hadn’t closed it securely.
+  - Not waiting to knock, Marshall burst through the door with his eyes wild and his hat sitting askew on the side of his head.
+  - The detectives looked around the apartment for clues and noticed that the rug seemed to be set askew under the coffee table.
+
+
+
+* [[https://wordsinasentence.com/aspersion-in-a-sentence/][Aspersion]]
+
+  =a false charge meant to harm someone’s reputation=
+
+  - Jack’s political rival cast an aspersion against him right before the election.
+  - Because I know Janice is a kind person, I cannot believe the negative aspersion about her.
+  - Even though I am angry at you, I will not cast an aspersion upon your character.
+  - After Helen was dumped by her boyfriend, she went online and posted an aspersion about him.
+  - My friend Jill was right to direct an aspersion against her cheating husband.
+  - By spreading that aspersion, you could ruin the teacher’s reputation.
+  - The politician’s career was ruined by an aspersion created by his enemies.
+
+
+
+* [[https://wordsinasentence.com/assent-in-a-sentence/][Assent]]
+
+  =to agree to something especially after thoughtful consideration=
+
+  - For a while, it seemed as if Karen was not going to assent to Jim’s marriage proposal.
+  - The policeman asked if I would assent to a search of my vehicle.
+  - When I told Frank I would never assent to a divorce, he stormed out of the house.
+  - After Jim read over his teacher’s notes, he could only assent he had not spent enough time on his research paper.
+  - Please raise your hands to show you assent to the proposal.
+  - Because John did not believe the salesman was being honest with him, he did not assent to the deal.
+  - As my marriage is quite important to me, I have decided to assent to couples' therapy.
+
+
+
+* [[https://wordsinasentence.com/assuage-in-a-sentence/][Assuage]]
+
+  =to provide relief; causing to feel better=
+
+  - In an effort to assuage angry customers, the store issued everyone a full refund.
+  - To help assuage my guilt, I told the truth.
+  - Knowing that my grandfather pulled through heart surgery does assuage my nerves.
+  - Warm soup does very little to assuage my sore throat.
+  - Having friends by my side will assuage the worries of becoming a parent.
+  - While smoking may assuage stress, it will upset your overall health.
+  - Aspirin will assuage your headache.
+
+
+
+* [[https://wordsinasentence.com/attire-in-a-sentence/][Attire]]
+
+  =one's dress or clothes=
+
+  - The high school prom required formal attire, but no one was allowed to rent a limousine.
+  - After receiving his acceptance to the company, Dan wondered if he was allowed to wear casual attire or suit and tie.
+  - Most of the attendants at the mayor’s funeral wore similar attire so that it looked like a sea of dark blackness.
+  - When the man woke up on Saturday, he knew his attire would consist of an umpire’s uniform since he would be working at the little league games this season.
+
+
+
+* [[https://wordsinasentence.com/augury-in-a-sentence/][Augury]]
+
+  =a prediction or omen=
+
+  - There are those who view the virus as an augury of the world coming to an end.
+  - According to the psychic, the black cat was an augury of my impending death.
+  - The gloomy music in the movie scene was an augury of an upcoming tragedy.
+  - When the fortuneteller read my palm, she saw an augury of bad luck.
+  - The clairvoyant gave me a depressing augury that made me want to stay indoors for my own safety.
+  - Throughout his painting, the artist uses the color red to represent an augury of death.
+  - I knew the white dove flying over my beach wedding was an augury of a bright future.
+
+
+
+* [[https://wordsinasentence.com/august-in-a-sentence/][August]]
+
+  =much-admired and respected=
+
+  - Everyone wanted the chance to dine with the august president.
+  - When Maggie learned the party was at the august nightclub, she was excited by the thought of meeting some of her favorite celebrities.
+  - The critics raved about the august ballerina’s performance.
+  - Because John is wealthy and the only son of an august politician, he is one of the country’s most sought-after bachelors.
+
+
+
+* [[https://wordsinasentence.com/aver-in-a-sentence/][Aver]]
+
+  =to assert something in a convincing way=
+
+  - Even though the country is in an economic crisis, its leader will aver the nation is doing well during his monthly address.
+  - The team’s fans aver a new coach is needed because of the team’s losing record.
+  - During the interrogation, the suspect did nothing but aver his innocence.
+  - To ease unrest in our company, the boss made a speech to aver policy changes were coming.
+  - After our test drive, we listened as the car salesman tried to aver he was offering us the best deal in town.
+  - The political candidate’s ads aver he is the best choice for governor.
+  - When the teenager talked to her parents, she tried to aver her right for privacy by asking them to not monitor her computer.
+
+
+
+* [[https://wordsinasentence.com/aversion-in-a-sentence/][Aversion]]
+
+  =a feeling of disgust toward something with a desire to avoid it=
+
+  - Older people who are unfamiliar with computer technology often have an aversion to it.
+  - Because I am allergic to spiders, I have an aversion to the creatures.
+  - Vegetarians have a strong aversion to eating meat.
+  - When I run into my ex-husband, I experience an aversion so powerful that it makes me sick to my stomach.
+  - Mitch has such an aversion to eating liver that he breaks out in hives whenever someone mentions the meat.
+  - Although the price of gasoline has risen three days in a row, drivers appear to have no aversion to filling their tanks.
+  - My aversion to stupidity keeps me from frequently interacting through social media.
+
+
+
+* [[https://wordsinasentence.com/avow-in-a-sentence/][Avow]]
+
+  =to admit or confess something publicly=
+
+  - Because the man would not avow himself as a follower of the king in front of the villagers, he was sentenced to death.
+  - Both of the candidates decided to avow their short comings in an effort to win public sympathy.
+  - Romeo set out to avow his love for Juliet in front of a crowd of onlookers.
+  - During the town hall meeting, I was too embarrassed to avow that I too had sent thousands of dollars to the senator’s illegal charity.
+
+
+
+* [[https://wordsinasentence.com/awry-in-a-sentence/][Awry]]
+
+  =away from the appropriate, planned, or expected course=
+
+  - After we hit the deer, our road trip seemed to go awry and off course.
+  - The inexperienced teacher did not know how to proceed when the troublesome student made her schedule go awry.
+  - When the serial killer was released from prison, everyone knew the justice system had gone awry.
+  - Mail delivery often goes awry during a winter storm.
+  - When there is no supervision, large events can go awry and become chaotic.
+  - You should have a backup plan for your wedding in case the weather causes the outdoor ceremony to go awry.
+  - In the movie, the hero must try and change the path of a nuclear missile that has gone awry.
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>

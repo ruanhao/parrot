@@ -1,0 +1,3132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2018-06-19 Tue 21:46 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">A</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org2b01de1">1. Abate</a></li>
+<li><a href="#org839b5af">2. Abeyance</a></li>
+<li><a href="#orga216e7a">3. Ablaze</a></li>
+<li><a href="#orgb5fb638">4. Abrasive</a></li>
+<li><a href="#org0e14247">5. Abreast</a></li>
+<li><a href="#org2597dbe">6. Abridge</a></li>
+<li><a href="#orgc72f50b">7. Abstruse</a></li>
+<li><a href="#org9f3eb5d">8. Abut</a></li>
+<li><a href="#orgff6265c">9. Accede</a></li>
+<li><a href="#org4586343">10. Accredit</a></li>
+<li><a href="#org5e25c7d">11. Adamant</a></li>
+<li><a href="#org0c00768">12. Admonish</a></li>
+<li><a href="#org283fea0">13. Adumbrate</a></li>
+<li><a href="#org74bcfc0">14. Afflicted</a></li>
+<li><a href="#org63769f8">15. Affront</a></li>
+<li><a href="#org166fb2b">16. Aggrandize</a></li>
+<li><a href="#org72e442b">17. Aghast</a></li>
+<li><a href="#org70d8d3a">18. Agoraphobia</a></li>
+<li><a href="#org63c6518">19. Allegiance</a></li>
+<li><a href="#orga34970d">20. Allegory</a></li>
+<li><a href="#orgd588db2">21. Allude</a></li>
+<li><a href="#orgbe9c15f">22. Allusion</a></li>
+<li><a href="#org312d162">23. Allusive</a></li>
+<li><a href="#org6fbd6c3">24. Aloof</a></li>
+<li><a href="#orge9d977a">25. Amalgam</a></li>
+<li><a href="#org169d0c1">26. Ambidextrous</a></li>
+<li><a href="#org1623999">27. Ambivalent</a></li>
+<li><a href="#orge0bec70">28. Amble</a></li>
+<li><a href="#orgdcbf0d1">29. Ameliorate</a></li>
+<li><a href="#org1fbe722">30. Anaerobic</a></li>
+<li><a href="#org878ca0e">31. Anathema</a></li>
+<li><a href="#orgf48b4c7">32. Angular</a></li>
+<li><a href="#org70fa481">33. Animosity</a></li>
+<li><a href="#org4fcec1b">34. Anomalous</a></li>
+<li><a href="#orge2e50a7">35. Antagonize</a></li>
+<li><a href="#org8bb3851">36. Anticlimactic</a></li>
+<li><a href="#org38ca4fe">37. Antithesis</a></li>
+<li><a href="#org09b48ce">38. Apathetic</a></li>
+<li><a href="#org4db83b7">39. Aphorism</a></li>
+<li><a href="#orgdff2124">40. Apprise</a></li>
+<li><a href="#orgfb33333">41. Approbation</a></li>
+<li><a href="#orge205e52">42. Apropos</a></li>
+<li><a href="#orgd639f5d">43. Arable</a></li>
+<li><a href="#org9fbb186">44. Arboreal</a></li>
+<li><a href="#orgcf978b1">45. Arduous</a></li>
+<li><a href="#org50a00c7">46. Articulate</a></li>
+<li><a href="#orga7804ed">47. Ascetic</a></li>
+<li><a href="#org183a893">48. Ascribe</a></li>
+<li><a href="#org4a02ed4">49. Assail</a></li>
+<li><a href="#org21f69b5">50. Assiduous</a></li>
+<li><a href="#org21d87a8">51. Assimilate</a></li>
+<li><a href="#orgf9d78cb">52. Astute</a></li>
+<li><a href="#orgc715699">53. Asunder</a></li>
+<li><a href="#org6118406">54. Atone</a></li>
+<li><a href="#org1e80d2f">55. Atrocity</a></li>
+<li><a href="#org812d9ca">56. Atrophy</a></li>
+<li><a href="#org077fabf">57. Attest</a></li>
+<li><a href="#org3e4c146">58. Attrition</a></li>
+<li><a href="#org25a5099">59. Attune</a></li>
+<li><a href="#org2324cd3">60. Audacious</a></li>
+<li><a href="#orge1303a3">61. Auspices</a></li>
+<li><a href="#org52588fb">62. Auspicious</a></li>
+<li><a href="#orgd0189f1">63. Austere</a></li>
+<li><a href="#orgf6ea45a">64. Avarice</a></li>
+<li><a href="#orga2e7cb7">65. Avaricious</a></li>
+<li><a href="#org469b4f9">66. Averse</a></li>
+<li><a href="#org3f53775">67. Avocation</a></li>
+<li><a href="#orgdb34868">68. Axiom</a></li>
+<li><a href="#org77a2691">69. Abase</a></li>
+<li><a href="#orga230dfe">70. Abash</a></li>
+<li><a href="#orgbef632e">71. Abdicate</a></li>
+<li><a href="#org217684a">72. Abjure</a></li>
+<li><a href="#orgc279c25">73. Abnegation</a></li>
+<li><a href="#orga625daf">74. Abominate</a></li>
+<li><a href="#org518cadc">75. Abraded</a></li>
+<li><a href="#org47e3da4">76. Abrogate</a></li>
+<li><a href="#orgf0cce7c">77. Abstemious</a></li>
+<li><a href="#org90642b4">78. Abstention</a></li>
+<li><a href="#org29c54c7">79. Abstinence</a></li>
+<li><a href="#org4e99c62">80. Acclaim</a></li>
+<li><a href="#org2da63b5">81. Accosted</a></li>
+<li><a href="#org4dd3700">82. Accretion</a></li>
+<li><a href="#org21a6da6">83. Accrue</a></li>
+<li><a href="#org97f8bfc">84. Acquittal</a></li>
+<li><a href="#org74907b5">85. Acuity</a></li>
+<li><a href="#orgf42ada8">86. Acumen</a></li>
+<li><a href="#orgdfc29cd">87. Addle</a></li>
+<li><a href="#orgec5e50c">88. Adduce</a></li>
+<li><a href="#org9d517fe">89. Adjourn</a></li>
+<li><a href="#orgbd8c182">90. Adjudicate</a></li>
+<li><a href="#orgbf14b31">91. Adolescence</a></li>
+<li><a href="#org47c9965">92. Adroit</a></li>
+<li><a href="#org73875e0">93. Adulterate</a></li>
+<li><a href="#org859c1b9">94. Advent</a></li>
+<li><a href="#org79d79a3">95. Adventitious</a></li>
+<li><a href="#orgeaa928b">96. Advert</a></li>
+<li><a href="#org6e53a54">97. Aerate</a></li>
+<li><a href="#org12e1ad4">98. Aftermath</a></li>
+<li><a href="#orga9d1d60">99. Agape</a></li>
+<li><a href="#orgb4bc669">100. Agnostic</a></li>
+<li><a href="#org4621a80">101. Agog</a></li>
+<li><a href="#org7e07664">102. Ague</a></li>
+<li><a href="#org15f5345">103. Ail</a></li>
+<li><a href="#org31ced37">104. Aleatory</a></li>
+<li><a href="#orgac5ec6c">105. Allay</a></li>
+<li><a href="#orgf6d6e79">106. Ambient</a></li>
+<li><a href="#orgfa6d5f7">107. Amnesty</a></li>
+<li><a href="#org821bb86">108. Ancillary</a></li>
+<li><a href="#orgd93fe57">109. Animadversion</a></li>
+<li><a href="#orge81c736">110. Animus</a></li>
+<li><a href="#org74ec168">111. Anneal</a></li>
+<li><a href="#orgfa3684b">112. Annihilate</a></li>
+<li><a href="#orgd0a974f">113. Antecedent</a></li>
+<li><a href="#org33ff066">114. Aplomb</a></li>
+<li><a href="#org243d521">115. Apostate</a></li>
+<li><a href="#orgeebd3a4">116. Ardent</a></li>
+<li><a href="#org3ea8ba4">117. Arraign</a></li>
+<li><a href="#orgda0caef">118. Arrant</a></li>
+<li><a href="#orgdeee961">119. Asinine</a></li>
+<li><a href="#orgca6330e">120. Askance</a></li>
+<li><a href="#org841dc9e">121. Askew</a></li>
+<li><a href="#org07b640a">122. Aspersion</a></li>
+<li><a href="#orgffb281b">123. Assent</a></li>
+<li><a href="#org9ac3e85">124. Assuage</a></li>
+<li><a href="#org9404ffa">125. Attire</a></li>
+<li><a href="#orgb4906fc">126. Augury</a></li>
+<li><a href="#org6000a63">127. August</a></li>
+<li><a href="#org709bd7f">128. Aver</a></li>
+<li><a href="#org520eb0e">129. Aversion</a></li>
+<li><a href="#org688e45b">130. Avow</a></li>
+<li><a href="#org38536ea">131. Awry</a></li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org2b01de1">1. Abate</a></li>
+<li><a href="#org839b5af">2. Abeyance</a></li>
+<li><a href="#orga216e7a">3. Ablaze</a></li>
+<li><a href="#orgb5fb638">4. Abrasive</a></li>
+<li><a href="#org0e14247">5. Abreast</a></li>
+<li><a href="#org2597dbe">6. Abridge</a></li>
+<li><a href="#orgc72f50b">7. Abstruse</a></li>
+<li><a href="#org9f3eb5d">8. Abut</a></li>
+<li><a href="#orgff6265c">9. Accede</a></li>
+<li><a href="#org4586343">10. Accredit</a></li>
+<li><a href="#org5e25c7d">11. Adamant</a></li>
+<li><a href="#org0c00768">12. Admonish</a></li>
+<li><a href="#org283fea0">13. Adumbrate</a></li>
+<li><a href="#org74bcfc0">14. Afflicted</a></li>
+<li><a href="#org63769f8">15. Affront</a></li>
+<li><a href="#org166fb2b">16. Aggrandize</a></li>
+<li><a href="#org72e442b">17. Aghast</a></li>
+<li><a href="#org70d8d3a">18. Agoraphobia</a></li>
+<li><a href="#org63c6518">19. Allegiance</a></li>
+<li><a href="#orga34970d">20. Allegory</a></li>
+<li><a href="#orgd588db2">21. Allude</a></li>
+<li><a href="#orgbe9c15f">22. Allusion</a></li>
+<li><a href="#org312d162">23. Allusive</a></li>
+<li><a href="#org6fbd6c3">24. Aloof</a></li>
+<li><a href="#orge9d977a">25. Amalgam</a></li>
+<li><a href="#org169d0c1">26. Ambidextrous</a></li>
+<li><a href="#org1623999">27. Ambivalent</a></li>
+<li><a href="#orge0bec70">28. Amble</a></li>
+<li><a href="#orgdcbf0d1">29. Ameliorate</a></li>
+<li><a href="#org1fbe722">30. Anaerobic</a></li>
+<li><a href="#org878ca0e">31. Anathema</a></li>
+<li><a href="#orgf48b4c7">32. Angular</a></li>
+<li><a href="#org70fa481">33. Animosity</a></li>
+<li><a href="#org4fcec1b">34. Anomalous</a></li>
+<li><a href="#orge2e50a7">35. Antagonize</a></li>
+<li><a href="#org8bb3851">36. Anticlimactic</a></li>
+<li><a href="#org38ca4fe">37. Antithesis</a></li>
+<li><a href="#org09b48ce">38. Apathetic</a></li>
+<li><a href="#org4db83b7">39. Aphorism</a></li>
+<li><a href="#orgdff2124">40. Apprise</a></li>
+<li><a href="#orgfb33333">41. Approbation</a></li>
+<li><a href="#orge205e52">42. Apropos</a></li>
+<li><a href="#orgd639f5d">43. Arable</a></li>
+<li><a href="#org9fbb186">44. Arboreal</a></li>
+<li><a href="#orgcf978b1">45. Arduous</a></li>
+<li><a href="#org50a00c7">46. Articulate</a></li>
+<li><a href="#orga7804ed">47. Ascetic</a></li>
+<li><a href="#org183a893">48. Ascribe</a></li>
+<li><a href="#org4a02ed4">49. Assail</a></li>
+<li><a href="#org21f69b5">50. Assiduous</a></li>
+<li><a href="#org21d87a8">51. Assimilate</a></li>
+<li><a href="#orgf9d78cb">52. Astute</a></li>
+<li><a href="#orgc715699">53. Asunder</a></li>
+<li><a href="#org6118406">54. Atone</a></li>
+<li><a href="#org1e80d2f">55. Atrocity</a></li>
+<li><a href="#org812d9ca">56. Atrophy</a></li>
+<li><a href="#org077fabf">57. Attest</a></li>
+<li><a href="#org3e4c146">58. Attrition</a></li>
+<li><a href="#org25a5099">59. Attune</a></li>
+<li><a href="#org2324cd3">60. Audacious</a></li>
+<li><a href="#orge1303a3">61. Auspices</a></li>
+<li><a href="#org52588fb">62. Auspicious</a></li>
+<li><a href="#orgd0189f1">63. Austere</a></li>
+<li><a href="#orgf6ea45a">64. Avarice</a></li>
+<li><a href="#orga2e7cb7">65. Avaricious</a></li>
+<li><a href="#org469b4f9">66. Averse</a></li>
+<li><a href="#org3f53775">67. Avocation</a></li>
+<li><a href="#orgdb34868">68. Axiom</a></li>
+<li><a href="#org77a2691">69. Abase</a></li>
+<li><a href="#orga230dfe">70. Abash</a></li>
+<li><a href="#orgbef632e">71. Abdicate</a></li>
+<li><a href="#org217684a">72. Abjure</a></li>
+<li><a href="#orgc279c25">73. Abnegation</a></li>
+<li><a href="#orga625daf">74. Abominate</a></li>
+<li><a href="#org518cadc">75. Abraded</a></li>
+<li><a href="#org47e3da4">76. Abrogate</a></li>
+<li><a href="#orgf0cce7c">77. Abstemious</a></li>
+<li><a href="#org90642b4">78. Abstention</a></li>
+<li><a href="#org29c54c7">79. Abstinence</a></li>
+<li><a href="#org4e99c62">80. Acclaim</a></li>
+<li><a href="#org2da63b5">81. Accosted</a></li>
+<li><a href="#org4dd3700">82. Accretion</a></li>
+<li><a href="#org21a6da6">83. Accrue</a></li>
+<li><a href="#org97f8bfc">84. Acquittal</a></li>
+<li><a href="#org74907b5">85. Acuity</a></li>
+<li><a href="#orgf42ada8">86. Acumen</a></li>
+<li><a href="#orgdfc29cd">87. Addle</a></li>
+<li><a href="#orgec5e50c">88. Adduce</a></li>
+<li><a href="#org9d517fe">89. Adjourn</a></li>
+<li><a href="#orgbd8c182">90. Adjudicate</a></li>
+<li><a href="#orgbf14b31">91. Adolescence</a></li>
+<li><a href="#org47c9965">92. Adroit</a></li>
+<li><a href="#org73875e0">93. Adulterate</a></li>
+<li><a href="#org859c1b9">94. Advent</a></li>
+<li><a href="#org79d79a3">95. Adventitious</a></li>
+<li><a href="#orgeaa928b">96. Advert</a></li>
+<li><a href="#org6e53a54">97. Aerate</a></li>
+<li><a href="#org12e1ad4">98. Aftermath</a></li>
+<li><a href="#orga9d1d60">99. Agape</a></li>
+<li><a href="#orgb4bc669">100. Agnostic</a></li>
+<li><a href="#org4621a80">101. Agog</a></li>
+<li><a href="#org7e07664">102. Ague</a></li>
+<li><a href="#org15f5345">103. Ail</a></li>
+<li><a href="#org31ced37">104. Aleatory</a></li>
+<li><a href="#orgac5ec6c">105. Allay</a></li>
+<li><a href="#orgf6d6e79">106. Ambient</a></li>
+<li><a href="#orgfa6d5f7">107. Amnesty</a></li>
+<li><a href="#org821bb86">108. Ancillary</a></li>
+<li><a href="#orgd93fe57">109. Animadversion</a></li>
+<li><a href="#orge81c736">110. Animus</a></li>
+<li><a href="#org74ec168">111. Anneal</a></li>
+<li><a href="#orgfa3684b">112. Annihilate</a></li>
+<li><a href="#orgd0a974f">113. Antecedent</a></li>
+<li><a href="#org33ff066">114. Aplomb</a></li>
+<li><a href="#org243d521">115. Apostate</a></li>
+<li><a href="#orgeebd3a4">116. Ardent</a></li>
+<li><a href="#org3ea8ba4">117. Arraign</a></li>
+<li><a href="#orgda0caef">118. Arrant</a></li>
+<li><a href="#orgdeee961">119. Asinine</a></li>
+<li><a href="#orgca6330e">120. Askance</a></li>
+<li><a href="#org841dc9e">121. Askew</a></li>
+<li><a href="#org07b640a">122. Aspersion</a></li>
+<li><a href="#orgffb281b">123. Assent</a></li>
+<li><a href="#org9ac3e85">124. Assuage</a></li>
+<li><a href="#org9404ffa">125. Attire</a></li>
+<li><a href="#orgb4906fc">126. Augury</a></li>
+<li><a href="#org6000a63">127. August</a></li>
+<li><a href="#org709bd7f">128. Aver</a></li>
+<li><a href="#org520eb0e">129. Aversion</a></li>
+<li><a href="#org688e45b">130. Avow</a></li>
+<li><a href="#org38536ea">131. Awry</a></li>
+</ul>
+</div>
+</div>
+<div class="outline-2" id="meta">
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Author</td>
+<td class="org-left">Hao Ruan (haoru@cisco.com)</td>
+</tr>
+
+<tr>
+<td class="org-left">Date</td>
+<td class="org-left">2018-06-19 21:46:31</td>
+</tr>
+</tbody>
+</table>
+<a href="#bottom">⇩</a>
+<a id="top"/>
+</div>
+
+
+<div id="outline-container-org2b01de1" class="outline-2">
+<h2 id="org2b01de1"><span class="section-number-2">1</span> <a href="https://wordsinasentence.com/abate-in-a-sentence/">Abate</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<code>to reduce in degree or intensity</code>
+</p>
+
+<ul class="org-ul">
+<li>I hope this medicine will abate the pain in my leg.</li>
+<li>In time, his anger will abate, and he will forgive you.</li>
+<li>With any luck, the storm will abate soon so we can still have our picnic.</li>
+<li>The firemen sprayed water on the burning house to abate the structural damage.</li>
+<li>Because the paparazzi kept following the celebrity around town, the media coverage did not seem as though it would ever abate.</li>
+<li>I married my husband because I know my love for him will never abate.</li>
+<li>By adding an extra lane to the highway, we can abate the traffic congestion during rush hour.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org839b5af" class="outline-2">
+<h2 id="org839b5af"><span class="section-number-2">2</span> <a href="https://wordsinasentence.com/abeyance-in-a-sentence/">Abeyance</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<code>a state of temporary disuse or suspension</code>
+</p>
+
+<ul class="org-ul">
+<li>Immediately following the terrorist attack, pilots had to observe a period of abeyance where they could not depart from the airport.</li>
+<li>Once the famine was over, the food rationing dictated by the government was put in abeyance.</li>
+<li>Until after the murder trial, the inheritance will be placed in abeyance.</li>
+<li>Trading on the stock market has temporarily been put in abeyance while the trade commission investigates financial misdeeds.</li>
+<li>Because of Justin’s helpful testimony, the judge agreed to an abeyance of his sentence.</li>
+<li>Near the end of the legislative session, the congressmen put several topics of discussion on abeyance until the next meeting.</li>
+<li>Since the divorcing couple was unable to agree on a financial settlement, the judge placed the case in abeyance until an agreement could be reached.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga216e7a" class="outline-2">
+<h2 id="orga216e7a"><span class="section-number-2">3</span> <a href="https://wordsinasentence.com/ablaze-in-a-sentence/">Ablaze</a></h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<code>burning fiercely; in a blaze; on fire</code>
+</p>
+
+<ul class="org-ul">
+<li>The cops threw Jack to the ground and arrested him after he set the American flag ablaze.</li>
+<li>Before fleeing, the bandit set the home ablaze so that any possible evidence would be obliterated.</li>
+<li>Eyes ablaze, the man with the black hat reached for his revolver and aimed it at Bob’s head.</li>
+<li>After shooting the captive in the head, the terrorist doused Chris’s body with gasoline and set it ablaze.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb5fb638" class="outline-2">
+<h2 id="orgb5fb638"><span class="section-number-2">4</span> <a href="https://wordsinasentence.com/abrasive-in-a-sentence/">Abrasive</a></h2>
+<div class="outline-text-2" id="text-4">
+<p>
+<code>unlikeable; nasty</code>
+</p>
+
+<ul class="org-ul">
+<li>Because of Kurt’s abrasive personality, most people try to avoid him at work.</li>
+<li>The clerk was so abrasive to me I walked out the store without making a purchase.</li>
+<li>After speaking with the abrasive doctor, I decided to look for a friendlier physician.</li>
+<li>The player was fined for using abrasive language during the game.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0e14247" class="outline-2">
+<h2 id="org0e14247"><span class="section-number-2">5</span> <a href="https://wordsinasentence.com/abreast-in-a-sentence/">Abreast</a></h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<code>remaining up to date on a topic</code>
+</p>
+
+<ul class="org-ul">
+<li>To stay relevant in the field of computer programming, Kurt must stay abreast of the latest programming languages.</li>
+<li>My teacher gives extra credit to students who stay abreast of world issues by sharing newspaper articles with the class.</li>
+<li>Before the big match, the team will stay abreast of its opponent's scoring strategies by watching game tapes.</li>
+<li>I often go online to keep abreast of what my favorite celebrities are doing.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2597dbe" class="outline-2">
+<h2 id="org2597dbe"><span class="section-number-2">6</span> <a href="https://wordsinasentence.com/abridge-in-a-sentence/">Abridge</a></h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<code>to make shorter</code>
+</p>
+
+<ul class="org-ul">
+<li>His agent told him that he needed to abridge some of the content of his novel so that it would be under 400 pages.</li>
+<li>Scott and Hillary agreed to abridge their story, leaving out some of the more frightening details so that their parents wouldn’t be worried about them.</li>
+<li>When immigrants enter the county through illegal means, they find that the people in charge not only abridge their basic human rights, but they completely remove them.</li>
+<li>Editors of some classic literature seem to take a lot of liberties when they abridge the content so that people with lower reading levels can understand what they’re reading.</li>
+<li>If you abridge your testimony to include only the most important details, I think the jury will be more sympathetic to your case.</li>
+<li>Even though the translation of the material is complete, you still need to abridge the amount of information so that it doesn’t overwhelm the students.</li>
+<li>Despite Jerry’s efforts to abridge the amount of time he spends at the office, his friends always know where to find him when he’s not at home.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc72f50b" class="outline-2">
+<h2 id="orgc72f50b"><span class="section-number-2">7</span> <a href="https://wordsinasentence.com/abstruse-in-a-sentence/">Abstruse</a></h2>
+<div class="outline-text-2" id="text-7">
+<p>
+<code>difficult to understand</code>
+</p>
+
+<ul class="org-ul">
+<li>Some of the classic novels are too abstruse for beginning readers to understand.</li>
+<li>Because I am not a computer programmer, I find most programming languages abstruse.</li>
+<li>Most of the medical research on the subject seems abstruse to the average man.</li>
+<li>While I could understand a little of the contract, the majority of the legal text was abstruse to me.</li>
+<li>If you come across a term which is abstruse, you can always use a dictionary to review the word’s meaning.</li>
+<li>I found the politician’s argument for gun control abstruse and confusing.</li>
+<li>Because the assembly instructions were abstruse, I was unable to put the shelf together.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9f3eb5d" class="outline-2">
+<h2 id="org9f3eb5d"><span class="section-number-2">8</span> <a href="https://wordsinasentence.com/abut/">Abut</a></h2>
+<div class="outline-text-2" id="text-8">
+<p>
+<code>to touch or lean on</code>
+</p>
+
+<ul class="org-ul">
+<li>The chair abuts the wall because it is missing a leg and cannot stand up otherwise, though sitting in it is still risky.</li>
+<li>The car now abuts the wall of the tunnel, having flipped and rolled after its horrendous crash with an oncoming SUV.</li>
+<li>If your legs are tired, feel free to abut any nearby wall to gain some support for your legs and your back.</li>
+<li>While the mighty oak tree in our backyard once stood tall, a bolt of lightning knocked it over, and it now abuts the roof of our home.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgff6265c" class="outline-2">
+<h2 id="orgff6265c"><span class="section-number-2">9</span> <a href="https://wordsinasentence.com/accede-in-a-sentence/">Accede</a></h2>
+<div class="outline-text-2" id="text-9">
+<p>
+<code>to agree with someone or give in to his or her wish</code>
+</p>
+
+<ul class="org-ul">
+<li>At your insistence and to avoid a prolonged argument, I will accede to your contract terms.</li>
+<li>The company president made a wise decision to accede to consumer pressure and lower the prices of his goods.</li>
+<li>Perhaps the congressmen should accede to the president’s demands so the budget crisis can be averted.</li>
+<li>Because Jack wants to make his wife happy on their anniversary, he will accede to wear a tuxedo for their dinner date.</li>
+<li>Unless management is willing to accede to the employees’ demands, then the bakery will close indefinitely.</li>
+<li>It would be a wonderful world if all countries would destroy their atomic resources and accede to a ban on nuclear weapons.</li>
+<li>While the military commander is unable to accede to his troop’s request for a forty-eight hour leave, he can give them a twenty-four hour leave for rest and recuperation.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4586343" class="outline-2">
+<h2 id="org4586343"><span class="section-number-2">10</span> <a href="https://wordsinasentence.com/accredit-in-a-sentence/">Accredit</a></h2>
+<div class="outline-text-2" id="text-10">
+<p>
+<code>to bestow official approval upon</code>
+</p>
+
+<ul class="org-ul">
+<li>During the ceremony, the dean will accredit students who met the graduation requirements.</li>
+<li>The federal school council will not accredit any academic program that does not meet its standards.</li>
+<li>Before the board of pharmacy technicians will accredit you as a medical professional, you must pass its exam.</li>
+<li>The medical association will not accredit the student who cheated on the national physician’s   assessment.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org5e25c7d" class="outline-2">
+<h2 id="org5e25c7d"><span class="section-number-2">11</span> <a href="https://wordsinasentence.com/adament-in-a-sentence/">Adamant</a></h2>
+<div class="outline-text-2" id="text-11">
+<p>
+<code>refusing to be persuaded; cannot change one's mind</code>
+</p>
+
+<ul class="org-ul">
+<li>Robert, a first year physics student, is adamant in his decision to peruse a career in engineering.</li>
+<li>He is so adamant in his beliefs that no one can change his mind!</li>
+<li>Unemployed residents are adamant about finding job openings.</li>
+<li>Mom, why are you adamant about me going to school everyday?</li>
+<li>The criminal begged for probation, but the judge remained adamant for a life sentence.</li>
+<li>Please honey, I am adamant for the truth.</li>
+<li>Adamant about winning next year's 10K race, Laura followed a strict training plan.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org0c00768" class="outline-2">
+<h2 id="org0c00768"><span class="section-number-2">12</span> <a href="https://wordsinasentence.com/admonish-in-a-sentence/">Admonish</a></h2>
+<div class="outline-text-2" id="text-12">
+<p>
+<code>to scold; to warn strongly</code>
+</p>
+
+<ul class="org-ul">
+<li>Do not admonish him for being gay!</li>
+<li>I hope my boss does not admonish me for being late.</li>
+<li>Cops can admonish anyone who goes over the speed limit.</li>
+<li>Stewart is going to admonish the restaurant for poor customer service.</li>
+<li>My drama teacher would admonish students for repeatedly forgetting the lines.</li>
+<li>Admonish Kimberly for leaving crumbs all over the place!</li>
+<li>How am I not going to admonish you for misbehaving at school?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org283fea0" class="outline-2">
+<h2 id="org283fea0"><span class="section-number-2">13</span> <a href="https://wordsinasentence.com/adumbrate-in-a-sentence/">Adumbrate</a></h2>
+<div class="outline-text-2" id="text-13">
+<p>
+<code>to create an outline or a faint shadow</code>
+</p>
+
+<ul class="org-ul">
+<li>With assistance from the victim, the sketch artist will adumbrate a picture of the robbery suspect.</li>
+<li>The artist chose colors to adumbrate the trees in the forest so they would seem mysterious and shadowy.</li>
+<li>When my mother lit the candle in the darkness, it was nice to see the light adumbrate our shadows on the wall.</li>
+<li>The photographer dimmed the light so it would adumbrate the model and surround her with shadows.</li>
+<li>When the sun rises, it will adumbrate the bridge and create a great photo opportunity.</li>
+<li>James will adumbrate his character ideas so the animator will know how to bring his cartoon to life.</li>
+<li>As the flashlight batteries grow weaker, the light will only adumbrate a dim glow.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org74bcfc0" class="outline-2">
+<h2 id="org74bcfc0"><span class="section-number-2">14</span> <a href="https://wordsinasentence.com/afflicted-in-a-sentence/">Afflicted</a></h2>
+<div class="outline-text-2" id="text-14">
+<p>
+<code>stricken, distressed, or impaired</code>
+</p>
+
+<ul class="org-ul">
+<li>The man was afflicted with a painful snake bite after a hike on the mountain.</li>
+<li>Because he was afflicted with arthritis, he had a difficult time walking long distances.</li>
+<li>Knowing that his grandmother was afflicted with inoperable tumors, he wanted to visit her in hospice.</li>
+<li>Those afflicted with the flu were receiving an antiviral treatment.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org63769f8" class="outline-2">
+<h2 id="org63769f8"><span class="section-number-2">15</span> <a href="https://wordsinasentence.com/affront-in-a-sentence/">Affront</a></h2>
+<div class="outline-text-2" id="text-15">
+<p>
+<code>to do or say something that shows a lack of respect</code>
+</p>
+
+<ul class="org-ul">
+<li>The crooked cop is an affront to all that is good about law enforcement.</li>
+<li>By not bowing to the queen, you have shown an affront to the entire royal family.</li>
+<li>The monks considered the loud party next door to be an affront to their religious beliefs.</li>
+<li>Because the old man considers children walking through his yard to be a personal affront, he often calls the police during the summer months.</li>
+<li>The teacher took it as an affront when the rebellious student threw a piece of trash at her.</li>
+<li>Although I am not opposed to the production of rated R movies, I would consider watching one to be an affront to my religious values.</li>
+<li>The minorities at the event took the racist symbol as an affront to their ethnic backgrounds.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org166fb2b" class="outline-2">
+<h2 id="org166fb2b"><span class="section-number-2">16</span> <a href="https://wordsinasentence.com/aggrandize-in-a-sentence/">Aggrandize</a></h2>
+<div class="outline-text-2" id="text-16">
+<p>
+<code>make great or greater in power, rank, honor, or wealth; increase</code>
+</p>
+
+<ul class="org-ul">
+<li>I attempted to aggrandize the CEO’s high status in the company to sweet talk him into signing off on the deal.</li>
+<li>Jack is a philanthropist who only supports causes that aggrandize him in the eyes of the world.</li>
+<li>I hate listening to that snobbish radio talk show host self-aggrandize.</li>
+<li>My uncle claims that those that aggrandize their status in the eyes of others end up losing whatever it is that they have.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org72e442b" class="outline-2">
+<h2 id="org72e442b"><span class="section-number-2">17</span> <a href="https://wordsinasentence.com/aghast-in-a-sentence/">Aghast</a></h2>
+<div class="outline-text-2" id="text-17">
+<p>
+<code>shocked or surprised in an upsetting way</code>
+</p>
+
+<ul class="org-ul">
+<li>The teacher was aghast at the large number of students who failed the easy test.</li>
+<li>When the magician did his disappearing trick, the speechless audience was aghast.</li>
+<li>Helen was aghast when she found the illegal drugs buried in her backyard.</li>
+<li>As the car moved rapidly towards me, I was aghast and could not move to safety.</li>
+<li>The thought of the federal government monitoring religious activities leaves many aghast.</li>
+<li>I was so aghast when my favorite celebrity walked passed me that I could not speak.</li>
+<li>While my friends thought the fake spider was funny, the plastic creature left me aghast and in tears.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org70d8d3a" class="outline-2">
+<h2 id="org70d8d3a"><span class="section-number-2">18</span> <a href="https://wordsinasentence.com/agoraphobia-in-a-sentence/">Agoraphobia</a></h2>
+<div class="outline-text-2" id="text-18">
+<p>
+<code>the fear of wide open spaces, crowds, or uncontrolled social conditions</code>
+</p>
+
+<ul class="org-ul">
+<li>Even the big deals on Black Friday could bring out even those people who suffer from agoraphobia, but the large groups of people could cause them to have anxiety attacks.</li>
+<li>While being bumped around in the crowds, the man had to leave due to his agoraphobia.</li>
+<li>Even if you don’t suffer from agoraphobia, you may still have problems with walking in shopping malls on the day after Thanksgiving.</li>
+<li>Someone who has agoraphobia should stay away from Walmart on Saturday mornings.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org63c6518" class="outline-2">
+<h2 id="org63c6518"><span class="section-number-2">19</span> <a href="https://wordsinasentence.com/allegiance-in-a-sentence/">Allegiance</a></h2>
+<div class="outline-text-2" id="text-19">
+<p>
+<code>loyalty to some cause, nation or ruler</code>
+</p>
+
+<ul class="org-ul">
+<li>Standing opposite the flag, I placed my right hand on my heart to recite the pledge of allegiance.</li>
+<li>Max’s feelings of allegiance will always rest with England, because he was born there.</li>
+<li>We took an oath of allegiance upon entering the military, and none of us plan on violating it.</li>
+<li>Having lived in Denver for most of my adult life, the Broncos have now captured my allegiance.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga34970d" class="outline-2">
+<h2 id="orga34970d"><span class="section-number-2">20</span> <a href="https://wordsinasentence.com/allegory-in-a-sentence/">Allegory</a></h2>
+<div class="outline-text-2" id="text-20">
+<p>
+<code>a representation or story in which personalities and incidents act as symbols depicting beliefs related to human beings or specific situations</code>
+</p>
+
+<ul class="org-ul">
+<li>Yesterday, Sister Agnes told us a religious allegory that explained why telling falsehoods is unacceptable.</li>
+<li>The classic book is based on a famous allegory that describes the pitfalls of arrogance.</li>
+<li>In the poem, the writer used an allegory to explain his personal feelings about love.</li>
+<li>The novel is basically an allegory in which animals represent humans associated with corporate greed.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd588db2" class="outline-2">
+<h2 id="orgd588db2"><span class="section-number-2">21</span> <a href="https://wordsinasentence.com/allude-in-a-sentence/">Allude</a></h2>
+<div class="outline-text-2" id="text-21">
+<p>
+<code>to make an indirect reference</code>
+</p>
+
+<ul class="org-ul">
+<li>The teacher asked the students to not allude to any online sources in their research papers.</li>
+<li>Even though the author claims his new work does not allude to his previous novel, it actually does contain a reference in the book’s second chapter.</li>
+<li>For the dedicated searchers, there are clues hidden in the forest which allude to the treasure’s location.</li>
+<li>In his upcoming speech, the president will allude to his economic stimulus plan.</li>
+<li>As a parent, I am not afraid to allude to a number of possible consequences when my daughter starts to misbehave.</li>
+<li>Because the pastor is concerned about the number of divorces among his clergy, he will allude to the importance of marriage during Sunday’s sermon.</li>
+<li>In his opening statement, the prosecuting attorney is not allowed to allude to the defendant’s former crimes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbe9c15f" class="outline-2">
+<h2 id="orgbe9c15f"><span class="section-number-2">22</span> <a href="https://wordsinasentence.com/allusion-in-a-sentence/">Allusion</a></h2>
+<div class="outline-text-2" id="text-22">
+<p>
+<code>a statement that refers to something indirectly; an indirect reference</code>
+</p>
+
+<ul class="org-ul">
+<li>The author’s new book contains an allusion to mythological gods.</li>
+<li>While the president’s speech seems original, it contains an allusion to a speech made by another world leader.</li>
+<li>Helen included an allusion about her ex-boyfriend in her song.</li>
+<li>Although the article makes an allusion to the suspect’s identity, it never actually mentions the person’s name.</li>
+<li>No matter how hard she tried, Abigail could not understand the biblical allusion in the poem!</li>
+<li>The journalist made an allusion to the actor’s recent arrest.</li>
+<li>Even though the students in the class were all very bright, they had a hard time understanding the allusion made by their teacher.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org312d162" class="outline-2">
+<h2 id="org312d162"><span class="section-number-2">23</span> <a href="https://wordsinasentence.com/allusive-in-a-sentence/">Allusive</a></h2>
+<div class="outline-text-2" id="text-23">
+<p>
+<code>implying, hinting or indirectly suggesting something</code>
+</p>
+
+<ul class="org-ul">
+<li>The man was very allusive when he dropped hints about the gifts he bought for his wife’s birthday.</li>
+<li>The celebrity would not tell who she was dating, but her descriptions of him were incredibly allusive.</li>
+<li>The author’s suggested that readers read the first book in the series before the sequel, as it proved to be allusive to the original.</li>
+<li>The interviewer was allusive when questioning the actor about his recent arrest.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6fbd6c3" class="outline-2">
+<h2 id="org6fbd6c3"><span class="section-number-2">24</span> <a href="https://wordsinasentence.com/aloof-in-a-sentence/">Aloof</a></h2>
+<div class="outline-text-2" id="text-24">
+<p>
+<code>removed or distant either physically or emotionally</code>
+</p>
+
+<ul class="org-ul">
+<li>The aloof princess stood in a corner alone.</li>
+<li>Because Harry was aloof, he did not have many friends.</li>
+<li>The new kid in our school is aloof and does not talk to anyone.</li>
+<li>In mythology, the Gods are generally aloof from mankind.</li>
+<li>The queen has an aloof personality which makes her appear snobbish to most people.</li>
+<li>While my mother may seem a bit aloof, she is really a very caring woman.</li>
+<li>On the television show, the reality star seems aloof from her friends and rarely leaves her home.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge9d977a" class="outline-2">
+<h2 id="orge9d977a"><span class="section-number-2">25</span> <a href="https://wordsinasentence.com/amalgam-in-a-sentence/">Amalgam</a></h2>
+<div class="outline-text-2" id="text-25">
+<p>
+<code>a mixture of unlike items</code>
+</p>
+
+<ul class="org-ul">
+<li>The potluck supper at the church always consists of an amalgam of foods ranging from apricot salad to zucchini casserole.</li>
+<li>Because Jan gets most of her clothes from vintages stores, her wardrobe is an unusual amalgam of period pieces.</li>
+<li>The sculptor’s most popular piece is a figure of our president made out of an amalgam of wood, aluminum, and copper.</li>
+<li>When Genevieve decorated her house, she used an amalgam of design styles including art deco and western.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org169d0c1" class="outline-2">
+<h2 id="org169d0c1"><span class="section-number-2">26</span> <a href="https://wordsinasentence.com/ambidextrous-in-a-sentence/">Ambidextrous</a></h2>
+<div class="outline-text-2" id="text-26">
+<p>
+<code>having equal ability in both hands; in particular, able to write equally well with both hands</code>
+</p>
+
+<ul class="org-ul">
+<li>The team manager was very excited when he heard that the new pitcher was ambidextrous and could throw a mean fastball with either hand.</li>
+<li>Although he considered himself to be ambidextrous, he was always cutting his left hand when he tried to juggle swords.</li>
+<li>Even though most parents realize that children are typically born either right or left-handed, some will try to train their tots to be ambidextrous, which causes a lot of frustration.</li>
+<li>One advantage of being an ambidextrous tennis player is that if your right hand gets tired, you can just switch your racquet to your left hand.</li>
+<li>If you try to train yourself to be ambidextrous, your right hand will probably still be stronger than your left.</li>
+<li>I may not be ambidextrous, but I can certainly eat a cheeseburger with either hand.</li>
+<li>As an ambidextrous musician, he has been able to learn to play a variety of instruments in almost no time.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1623999" class="outline-2">
+<h2 id="org1623999"><span class="section-number-2">27</span> <a href="https://wordsinasentence.com/ambivalent-in-a-sentence/">Ambivalent</a></h2>
+<div class="outline-text-2" id="text-27">
+<p>
+<code>uncertain as to which path to take</code>
+</p>
+
+<ul class="org-ul">
+<li>When it comes to the election, I am ambivalent about the candidates.</li>
+<li>I am ambivalent as to whether or not I want to take the medicine because of the drug’s known side effects.</li>
+<li>Because he was nervous about performing in front of a crowd, Jed was ambivalent about entering the singing competition.</li>
+<li>After five days, the jury is still ambivalent about the defendant’s guilt.</li>
+<li>Despite a number of research studies, the federal government remains ambivalent on the subject of legalizing marijuana.</li>
+<li>When it was time to choose her major, Janet realized she was ambivalent about two career fields.</li>
+<li>Because my husband and I are usually ambivalent about our movie choices, we rarely enter the theater before the film starts.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge0bec70" class="outline-2">
+<h2 id="orge0bec70"><span class="section-number-2">28</span> <a href="https://wordsinasentence.com/amble-in-a-sentence/">Amble</a></h2>
+<div class="outline-text-2" id="text-28">
+<p>
+<code>to stroll in a relaxed manner</code>
+</p>
+
+<ul class="org-ul">
+<li>Since we arrived too early to check into the hotel, we decided to amble down the beach.</li>
+<li>The robber was so confident he chose to amble out the bank he had just robbed.</li>
+<li>Because Gail is on a horse for the first time, she is going to amble during her ride.</li>
+<li>Every Sunday, the elderly couple will amble three blocks to church.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdcbf0d1" class="outline-2">
+<h2 id="orgdcbf0d1"><span class="section-number-2">29</span> <a href="https://wordsinasentence.com/ameliorate-in-a-sentence/">Ameliorate</a></h2>
+<div class="outline-text-2" id="text-29">
+<p>
+<code>to make better</code>
+</p>
+
+<ul class="org-ul">
+<li>Scratching your eye will not ameliorate the itching.</li>
+<li>In an attempt to ameliorate the situation, Superman flew into action and saved the young woman from the villan.</li>
+<li>Ameliorate your singing by taking a few vocal lessons.</li>
+<li>Tylenol is the medication I take to ameliorate leg pain.</li>
+<li>If your back hurts, then consider lying on a hardwood floor to ameliorate back pain.</li>
+<li>In an effort to ameliorate his crying little sister, he apologized and gave her a shiny nickel.</li>
+<li>Raising money for Africa can ameliorate the hunger crises.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1fbe722" class="outline-2">
+<h2 id="org1fbe722"><span class="section-number-2">30</span> <a href="https://wordsinasentence.com/anaerobic-in-a-sentence/">Anaerobic</a></h2>
+<div class="outline-text-2" id="text-30">
+<p>
+<code>existing without oxygen</code>
+</p>
+
+<ul class="org-ul">
+<li>While aerobic organisms need oxygen to survive, anaerobic creatures survive without the element.</li>
+<li>The bacteria is anaerobic, and as such, does not require the presence of oxygen to thrive.</li>
+<li>Despite what you may have heard, fish are not anaerobic; they need oxygen to breathe.</li>
+<li>Humans are not anaerobic because they require oxygen in order to live.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org878ca0e" class="outline-2">
+<h2 id="org878ca0e"><span class="section-number-2">31</span> <a href="https://wordsinasentence.com/anathema-meaning-in-a-sentence/">Anathema</a></h2>
+<div class="outline-text-2" id="text-31">
+<p>
+<code>something or someone that one strongly dislikes; someone who is cursed or shunned</code>
+</p>
+
+<ul class="org-ul">
+<li>After the world learned of his heinous crimes, the dictator was considered an anathema.</li>
+<li>The epidemic which killed dozens of small children was an anathema to the residents of the town.</li>
+<li>While he presented himself as a godly man, the priest committed several unethical acts that made him an anathema to members of his congregation.</li>
+<li>The children hate wearing uniforms to school and view the dress code as an anathema.</li>
+<li>Since the beginning of time, blind faith has been an anathema to science.</li>
+<li>The amount of money celebrities spend on clothing and jewelry is anathema to most poor people.</li>
+<li>Because my daughter hates the taste of broccoli, she considers it to be an anathema.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf48b4c7" class="outline-2">
+<h2 id="orgf48b4c7"><span class="section-number-2">32</span> <a href="https://wordsinasentence.com/angular-in-a-sentence/">Angular</a></h2>
+<div class="outline-text-2" id="text-32">
+<p>
+<code>so thin or skinny that one’s bones can be seen</code>
+</p>
+
+<ul class="org-ul">
+<li>The angular boy was so thin you could see his rib cage.</li>
+<li>When the doctor saw the angular teen, he knew she wasn’t eating properly.</li>
+<li>People call my uncle “Toothpick” because of his angular form.</li>
+<li>Although Jenny is an adult, she shops in children’s stores to find clothes that fit her angular frame.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org70fa481" class="outline-2">
+<h2 id="org70fa481"><span class="section-number-2">33</span> <a href="https://wordsinasentence.com/animosity-in-a-sentence/">Animosity</a></h2>
+<div class="outline-text-2" id="text-33">
+<p>
+<code>a strong feeling of disliking someone or something</code>
+</p>
+
+<ul class="org-ul">
+<li>Why do you have such animosity towards me when I have done nothing to you?</li>
+<li>During the match, the animosity between the two wrestlers was obvious.</li>
+<li>Because Ellen’s father used to lock her in the basement, she has a lot of animosity towards him today.</li>
+<li>My animosity for Cliff is so great that I cannot stand to be around him.</li>
+<li>Ernest displayed his animosity towards his competitors by refusing to acknowledge them.</li>
+<li>Use your energy to spread love not animosity!</li>
+<li>Although I was very angry with my sister yesterday, I bear no animosity towards her today.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4fcec1b" class="outline-2">
+<h2 id="org4fcec1b"><span class="section-number-2">34</span> <a href="https://wordsinasentence.com/anomalous-in-a-sentence/">Anomalous</a></h2>
+<div class="outline-text-2" id="text-34">
+<p>
+<code>unordinary, unusual, or distinctly different from the norm</code>
+</p>
+
+<ul class="org-ul">
+<li>The scientists at the weather station were extremely worried about the anomalous readings they were getting from their instruments, as they were far beyond the norm.</li>
+<li>My sister was pretending to act normal after breaking up with her boyfriend, but her anomalous activities that strayed from the routine proved she was just faking it.</li>
+<li>Being struck by lightning is actually a rather anomalous event, since the chances of being struck by lightning are so astronomically low.</li>
+<li>On Opposite Day, everyone behaves in an anomalous fashion, usually the exact opposite of how they would normally behave.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge2e50a7" class="outline-2">
+<h2 id="orge2e50a7"><span class="section-number-2">35</span> <a href="https://wordsinasentence.com/antagonize-in-a-sentence/">Antagonize</a></h2>
+<div class="outline-text-2" id="text-35">
+<p>
+<code>to trigger hostility or anger</code>
+</p>
+
+<ul class="org-ul">
+<li>If you antagonize the dog, he will bite you.</li>
+<li>The man made a huge mistake when he decided to antagonize the bees in his yard.</li>
+<li>By agreeing with the remarks of the pro-abortion group, the politician seems to be going out of his way to antagonize Christian voters.</li>
+<li>Since John was already irritated, his wife knew it would not take much to antagonize him.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org8bb3851" class="outline-2">
+<h2 id="org8bb3851"><span class="section-number-2">36</span> <a href="https://wordsinasentence.com/anticlimactic-in-a-sentence/">Anticlimactic</a></h2>
+<div class="outline-text-2" id="text-36">
+<p>
+<code>lacking climax, disappointing or ironically insignificant following of impressive foreshadowing</code>
+</p>
+
+<ul class="org-ul">
+<li>Although the child anticipated that the gift would bring him endless enjoyment, it quickly turned into an anticlimactic experience.</li>
+<li>Mom claims that an accurate view on life prevents anticlimactic results, as we would not overvalue things.</li>
+<li>Despite all of the hype, the game turned out to be boring, uneventful and overwhelmingly anticlimactic.</li>
+<li>The news that our CEO was stepping down came as a surprise, but turned out to be anticlimactic compared to what happened next.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org38ca4fe" class="outline-2">
+<h2 id="org38ca4fe"><span class="section-number-2">37</span> <a href="https://wordsinasentence.com/antithesis-in-a-sentence/">Antithesis</a></h2>
+<div class="outline-text-2" id="text-37">
+<p>
+<code>the total opposite of an object or person</code>
+</p>
+
+<ul class="org-ul">
+<li>In the movie, Robert’s character of an abusive husband is the antithesis of the caring spouse the actor really is.</li>
+<li>Although the hotel describes itself as a five-star resort, in reality its decrepit building is the antithesis of a fine hotel.</li>
+<li>The heroine’s death was the antithesis of what I thought would happen at the end of the novel.</li>
+<li>During his sermon, the minister asked his clergy members to practice the antithesis of hate and love even their worst enemies.</li>
+<li>A violent criminal is the antithesis of a well-behaved adult.</li>
+<li>In writing, an antithesis is a device used to show contrast between two unlike objects or individuals.</li>
+<li>It goes without saying that freedom is the antithesis of captivity.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org09b48ce" class="outline-2">
+<h2 id="org09b48ce"><span class="section-number-2">38</span> <a href="https://wordsinasentence.com/apathetic-in-a-sentence/">Apathetic</a></h2>
+<div class="outline-text-2" id="text-38">
+<p>
+<code>having little or no interest or concern</code>
+</p>
+
+<ul class="org-ul">
+<li>The employee’s apathetic attitude was apparent in the rude way he greeted customers.</li>
+<li>Because the diva thought she was better than everyone else, she was apathetic about having others wait on her.</li>
+<li>Although James was apathetic about his classes, he loved playing football.</li>
+<li>To get on the jury, you will need to be apathetic about the murder.</li>
+<li>Because Jane was apathetic about completing her schoolwork, she did not graduate on time.</li>
+<li>Sometimes it seems as though we live in an apathetic world filled with uncaring people.</li>
+<li>How can you be so apathetic about the war when people are dying in battle every minute?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4db83b7" class="outline-2">
+<h2 id="org4db83b7"><span class="section-number-2">39</span> <a href="https://wordsinasentence.com/aphorism-in-a-sentence/">Aphorism</a></h2>
+<div class="outline-text-2" id="text-39">
+<p>
+<code>a brief and witty saying</code>
+</p>
+
+<ul class="org-ul">
+<li>While Ted’s aphorism was short and funny, it was enough to make us briefly forget our father was having life-saving surgery.</li>
+<li>Bill began his speech with a humorous aphorism from one of his favorite authors.</li>
+<li>When Jack made his wedding toast, he included a marital aphorism that made everyone in the room laugh.</li>
+<li>The popular aphorism gives advice in a manner that is both witty and concise.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdff2124" class="outline-2">
+<h2 id="orgdff2124"><span class="section-number-2">40</span> <a href="https://wordsinasentence.com/apprise-in-a-sentence/">Apprise</a></h2>
+<div class="outline-text-2" id="text-40">
+<p>
+<code>to report on the status of something</code>
+</p>
+
+<ul class="org-ul">
+<li>The scouts went back to apprise their commanding officer of the enemy’s location.</li>
+<li>How long will it be before the doctor comes out of surgery to apprise me of my wife’s condition?</li>
+<li>The caring manager was not happy to apprise his employees that their jobs were in jeopardy.</li>
+<li>Now that I no longer live with my parents I do not have to apprise them of my every move.</li>
+<li>When the police arrest the suspect, they will apprise him of his rights.</li>
+<li>The politician will apprise the public of his decision to run for reelection during the interview.</li>
+<li>As soon as possible, I need to apprise the credit card company of the unusual charge on my Visa card.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfb33333" class="outline-2">
+<h2 id="orgfb33333"><span class="section-number-2">41</span> <a href="https://wordsinasentence.com/approbation-in-a-sentence/">Approbation</a></h2>
+<div class="outline-text-2" id="text-41">
+<p>
+<code>to gain approval</code>
+</p>
+
+<ul class="org-ul">
+<li>I need to write a powerful resume to gain approbation from an employor.</li>
+<li>The crowd was filled with approbation when #56 scored a touchdown.</li>
+<li>With my mother's approbation, I can sleep over at your house.</li>
+<li>You cannot take prescription medication without doctor's approbation.</li>
+<li>Kimmy wrongfully sought approbation from young peers by engaging in underage drinking.</li>
+<li>You would get more approbation from professionals if you didn't have tattoos running up and down your arms.</li>
+<li>City Commissioners have a difficult time winning the approbation of voters in this town.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge205e52" class="outline-2">
+<h2 id="orge205e52"><span class="section-number-2">42</span> <a href="https://wordsinasentence.com/apropos-in-a-sentence/">Apropos</a></h2>
+<div class="outline-text-2" id="text-42">
+<p>
+<code>fitting; at the right time</code>
+</p>
+
+<ul class="org-ul">
+<li>Justine’s apropos comment fit in perfectly with our discussion.</li>
+<li>Because my bills were due, the financial gift from my father arrived apropos.</li>
+<li>While the words may seem a bit strange, they are apropos and relate to the topic we are discussing.</li>
+<li>I always invite Chuck to my parties because he has the gift of making apropos remarks which put people at ease.</li>
+<li>When I was feeling depressed, I received a care package from my mother apropos.</li>
+<li>The police arrived apropos at the jewelry store and were able to catch the burglars.</li>
+<li>Even though no one expected Bill to talk at the wedding reception, his apropos speech ended the evening on a good note.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd639f5d" class="outline-2">
+<h2 id="orgd639f5d"><span class="section-number-2">43</span> <a href="https://wordsinasentence.com/arable-in-a-sentence/">Arable</a></h2>
+<div class="outline-text-2" id="text-43">
+<p>
+<code>adequate for cultivating</code>
+</p>
+
+<ul class="org-ul">
+<li>The soil in the front yard is arable and perfect for planting a rose garden.</li>
+<li>Because the farmland was dry and not arable, nobody bid on the parcel at the auction.</li>
+<li>The land was arable and perfectly suitable for cultivation.</li>
+<li>In a natural desert, there is no arable earth for farming.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9fbb186" class="outline-2">
+<h2 id="org9fbb186"><span class="section-number-2">44</span> <a href="https://wordsinasentence.com/arboreal-in-a-sentence/">Arboreal</a></h2>
+<div class="outline-text-2" id="text-44">
+<p>
+<code>associated with trees</code>
+</p>
+
+<ul class="org-ul">
+<li>It is easy for the deer to hide in the fallen leaves of its arboreal habitat.</li>
+<li>Because our cabin is in a forest, we have stunning arboreal views from the deck.</li>
+<li>The arboreal committee in our subdivision is raising money to plant a hundred trees this year.</li>
+<li>Because arboreal animals usually hide in tree branches, you may miss them during your hike through the woods.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgcf978b1" class="outline-2">
+<h2 id="orgcf978b1"><span class="section-number-2">45</span> <a href="https://wordsinasentence.com/arduous-in-a-sentence/">Arduous</a></h2>
+<div class="outline-text-2" id="text-45">
+<p>
+<code>demanding great effort or labor; difficult</code>
+</p>
+
+<ul class="org-ul">
+<li>Last semester was a piece of cake, but taking seven classes along with an internship this semester is going to be arduous!</li>
+<li>Playing the piano may seem arduous at first, but it gets easier with practice.</li>
+<li>Driving a school bus is much more arduous than driving my own car.</li>
+<li>Needless to say, mastering a foreign language is an arduous challenge.</li>
+<li>Job seekers with a criminal record will have an arduous time obtaining a job.</li>
+<li>With arduous practice, you will get better at cooking.</li>
+<li>It is arduous for me to hear people on the telephone with you screaming!</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org50a00c7" class="outline-2">
+<h2 id="org50a00c7"><span class="section-number-2">46</span> <a href="https://wordsinasentence.com/articulate-in-a-sentence/">Articulate</a></h2>
+<div class="outline-text-2" id="text-46">
+<p>
+<code>expressing oneself clearly</code>
+</p>
+
+<ul class="org-ul">
+<li>A polished speaker, Jenna was able to articulate her points during any discussion.</li>
+<li>The president is known for his ability to articulate his thoughts in front of millions of people.</li>
+<li>Because John found it difficult to articulate his love for Jessica, he wrote her a poem about his feelings.</li>
+<li>The interviewer asked me to articulate my potential contributions to the company.</li>
+<li>Although Lisa had an intellectual disability, she was still an articulate speaker who could hold an audience’s attention.</li>
+<li>When I get nervous, it is very hard for me to articulate my thoughts.</li>
+<li>Our car dealership is seeking an articulate salesperson to help unload inventory.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga7804ed" class="outline-2">
+<h2 id="orga7804ed"><span class="section-number-2">47</span> <a href="https://wordsinasentence.com/ascetic-in-a-sentence/">Ascetic</a></h2>
+<div class="outline-text-2" id="text-47">
+<p>
+<code>leading a life of self-discipline and self-denial, usually for spiritual reasons</code>
+</p>
+
+<ul class="org-ul">
+<li>Jacob chose to live an ascetic life because of his strict religious beliefs.</li>
+<li>When Gregory was a monk, he lived an ascetic lifestyle that excluded worldly goods.</li>
+<li>The minister encouraged his church members to pursue ascetic lives without earthly pleasures.</li>
+<li>Because Connie loved sugary foods, she found it very hard to stick to her ascetic diet, which did not include sweets and fatty foods.</li>
+<li>The smartest guy in my math class has ascetic habits and never does anything but study in his free time.</li>
+<li>When Jeremy was in the military, he was trained to be an ascetic soldier who could survive in the wilderness with few resources.</li>
+<li>Because Katy is a spoiled rich girl who gets everything she wants, she is definitely not maintaining an ascetic lifestyle.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org183a893" class="outline-2">
+<h2 id="org183a893"><span class="section-number-2">48</span> <a href="https://wordsinasentence.com/ascribe-in-a-sentence/">Ascribe</a></h2>
+<div class="outline-text-2" id="text-48">
+<p>
+<code>attribute a cause or characteristic</code>
+</p>
+
+<ul class="org-ul">
+<li>While you can sometimes ascribe these symptoms to allergies, I’m pretty sure you have a full-fledged cold.</li>
+<li>The doctors tried to ascribe the baby’s condition to parental negligence, but tests showed that he had a rare virus.</li>
+<li>Although Cathryn’s explanation of the poem was interesting, she wasn’t able to ascribe her interpretation to anything that made sense.</li>
+<li>If you falsely ascribe the source of that comment to the wrong person, you can be sued for libel.</li>
+<li>Professor Jarvis wanted to ascribe the old document to Shakespeare, but his colleagues demanded further analysis.</li>
+<li>Because the doctor couldn’t ascribe Caroline’s symptoms to a specific cause, he ordered a battery of blood tests.</li>
+<li>Just because the coach was recorded saying those things about the members of the opposing team, we can’t ascribe that attitude to the entire team.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4a02ed4" class="outline-2">
+<h2 id="org4a02ed4"><span class="section-number-2">49</span> <a href="https://wordsinasentence.com/assail-in-a-sentence/">Assail</a></h2>
+<div class="outline-text-2" id="text-49">
+<p>
+<code>to attack violently</code>
+</p>
+
+<ul class="org-ul">
+<li>If anyone ever talks negatively about Alex’s father, his response is to assail the person with insults.</li>
+<li>Because fits of sneezing assail me almost year-round, I never go outside without taking an antihistamine.</li>
+<li>When difficult circumstances assail my tranquility, I turn to meditation.</li>
+<li>When I was a child, fears of monsters under the bed would assail me if I didn’t keep the light turned on.</li>
+<li>When Rebecca saw her cousin coming over she knew he was about to assail her friends with embarrassing stories of when they were kids.</li>
+<li>Whatever you do, don’t assail the integrity of someone else’s research.</li>
+<li>Anyone who would assail someone’s reputation anonymously is nothing but a coward.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org21f69b5" class="outline-2">
+<h2 id="org21f69b5"><span class="section-number-2">50</span> <a href="https://wordsinasentence.com/assiduous-in-a-sentence/">Assiduous</a></h2>
+<div class="outline-text-2" id="text-50">
+<p>
+<code>showing hard work and care that is brought about by attention to detail</code>
+</p>
+
+<ul class="org-ul">
+<li>That was very assiduous of you to finish those financial reports weeks ahead of schedule.</li>
+<li>With your assiduous attempt at learning Spanish, I think you will master the language in no time.</li>
+<li>The assiduous students chose to work on their term paper instead of going out to play.</li>
+<li>With an assiduous attitude, we will finish this project.</li>
+<li>Even the most assiduous workers had trouble focusing with the roaring of the machines.</li>
+<li>Rather than slacking off, remain assiduous and be amazed at how much you accomplish.</li>
+<li>Because Jane took assiduous notes, she outperformed every student in the class.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org21d87a8" class="outline-2">
+<h2 id="org21d87a8"><span class="section-number-2">51</span> <a href="https://wordsinasentence.com/assimilate-in-a-sentence/">Assimilate</a></h2>
+<div class="outline-text-2" id="text-51">
+<p>
+<code>to learn something so that it is fully understood and can be used</code>
+</p>
+
+<ul class="org-ul">
+<li>Because I am not good with math, I find it difficult to assimilate most of the geometry formulas.</li>
+<li>Jane had to assimilate a great deal of information on the first day of her new job.</li>
+<li>Although Janet listens during the class lectures, she still finds it hard to assimilate all the scientific facts.</li>
+<li>The four-year-old genius could assimilate information quicker than most college students.</li>
+<li>When Helen moved to Japan, she had to quickly assimilate a new language into her vocabulary.</li>
+<li>Increasing your vocabulary will make it easier for you to assimilate reading comprehension skills.</li>
+<li>Because the game’s rules are hard to assimilate, younger children will find it difficult to play.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf9d78cb" class="outline-2">
+<h2 id="orgf9d78cb"><span class="section-number-2">52</span> <a href="https://wordsinasentence.com/astute-in-a-sentence/">Astute</a></h2>
+<div class="outline-text-2" id="text-52">
+<p>
+<code>marked by practical hardheaded intelligence</code>
+</p>
+
+<ul class="org-ul">
+<li>The astute businessman went from rags to riches with one great idea.</li>
+<li>Not very astute of you running around with a sharp knife.</li>
+<li>The astute businessman was able to quickly assess the market and make the best buying decision.</li>
+<li>Because of his astute nature, it is very hard to trick the politician with any gimmick.</li>
+<li>The astute worker used her meeting with her boss as an opportunity to ask for a promotion.</li>
+<li>Both of the tricksters were astute and could easily select a mark that would fall for their scam.</li>
+<li>Holding onto a great idea for ages, the astute man finally submitted his inventive concept that may revolutionize how we strap on our seat belts.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc715699" class="outline-2">
+<h2 id="orgc715699"><span class="section-number-2">53</span> <a href="https://wordsinasentence.com/asunder-in-a-sentence/">Asunder</a></h2>
+<div class="outline-text-2" id="text-53">
+<p>
+<code>separate into distinct parts</code>
+</p>
+
+<ul class="org-ul">
+<li>When I learned my husband had been cheating on me, I felt as though my world had been blown asunder.</li>
+<li>If the marital crisis tears the couple asunder, who do you think will keep the house?</li>
+<li>The country has been torn asunder by an internal war that has divided it into a number of self-governing regions.</li>
+<li>When the killer swung the axe, he ripped the door asunder.</li>
+<li>The unpopular selection of the cheerleading captain tore the once united squad asunder and into two different groups.</li>
+<li>During a meeting with the marriage counselor, Jake said harsh words that hurt his wife and cut his marriage asunder.</li>
+<li>The tiny boat was ripped asunder by the force of the hurricane.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6118406" class="outline-2">
+<h2 id="org6118406"><span class="section-number-2">54</span> <a href="https://wordsinasentence.com/atone-in-a-sentence/">Atone</a></h2>
+<div class="outline-text-2" id="text-54">
+<p>
+<code>to reimburse for a wrongdoing</code>
+</p>
+
+<ul class="org-ul">
+<li>To atone for racist actions in his youth, the billionaire established a scholarship fund for minority students attending his alma mater.</li>
+<li>The manager tried to atone for the bad service by offering me a complimentary dessert.</li>
+<li>When the drug caused the man’s death, the manufacturer tried to atone for its mistake by offering the widow two million dollars.</li>
+<li>Maggie is trying to atone for her bad behavior last night by acting like an angel today.</li>
+<li>According to Christians, Jesus died to atone for the sins of all people.</li>
+<li>The judge decided the only way the criminal could atone for his heinous crimes was by receiving capital punishment.</li>
+<li>Since Jim has made no plans to atone for his financial crimes, the parole board will probably deny his application for an early release.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org1e80d2f" class="outline-2">
+<h2 id="org1e80d2f"><span class="section-number-2">55</span> <a href="https://wordsinasentence.com/atrocity-in-a-sentence/">Atrocity</a></h2>
+<div class="outline-text-2" id="text-55">
+<p>
+<code>a horrific action</code>
+</p>
+
+<ul class="org-ul">
+<li>The atrocity of the murders stunned the entire city.</li>
+<li>To death penalty opponents, capital punishment is a huge atrocity.</li>
+<li>The soldier’s act of atrocity earned him a dishonorable discharge from the military and a fifty-year prison sentence.</li>
+<li>When the president learned of the dictator’s atrocity, he promised to help remove the cruel leader from power.</li>
+<li>The murder of the senior citizens showed the disturbed killer would not hesitate to commit an atrocity.</li>
+<li>At this time, no organization has taken credit for the atrocity that sank the cruise ship.</li>
+<li>The 911 operator’s drinking problem led to an atrocity that resulted in the deaths of three children.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org812d9ca" class="outline-2">
+<h2 id="org812d9ca"><span class="section-number-2">56</span> <a href="https://wordsinasentence.com/atrophy-in-a-sentence/">Atrophy</a></h2>
+<div class="outline-text-2" id="text-56">
+<p>
+<code>to weaken in ability or function</code>
+</p>
+
+<ul class="org-ul">
+<li>It was hard to watch my mother atrophy as she experienced the weakening disease of Alzheimer’s.</li>
+<li>According to researchers, the lack of exercise causes muscles to atrophy and become feeble.</li>
+<li>The use of cocaine can impair heart functioning and atrophy brain cells.</li>
+<li>When Janice stopped practicing the piano, her musical skills started to atrophy.</li>
+<li>When the gang leader died, his organization’s hold on the city began to atrophy as other gangs moved into the area.</li>
+<li>Because I have been wearing a boot that keeps my foot immobile, my ankle muscles have started to atrophy from nonuse.</li>
+<li>The bullet in Jack's head is causing his brain to atrophy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org077fabf" class="outline-2">
+<h2 id="org077fabf"><span class="section-number-2">57</span> <a href="https://wordsinasentence.com/attest-in-a-sentence/">Attest</a></h2>
+<div class="outline-text-2" id="text-57">
+<p>
+<code>to uphold something as real or true</code>
+</p>
+
+<ul class="org-ul">
+<li>As any police officer can attest, driving while texting is not safe.</li>
+<li>The doctor can attest to your medical condition if a work excuse is needed.</li>
+<li>During the parole hearing, the warden will attest to the inmate’s positive behavior.</li>
+<li>The prosecutor lost his case when the witness was unable to attest to seeing the defendant at the crime scene.</li>
+<li>Before the company is audited, we need to hire an accountant to review our finances and attest they are in order.</li>
+<li>The empty plates on the table attest to the fact my mother is a fantastic cook.</li>
+<li>Since Helen was with me that evening, I was able to attest to her whereabouts when I was questioned by the police.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3e4c146" class="outline-2">
+<h2 id="org3e4c146"><span class="section-number-2">58</span> <a href="https://wordsinasentence.com/attrition-in-a-sentence/">Attrition</a></h2>
+<div class="outline-text-2" id="text-58">
+<p>
+<code>a decrease in the number of staff or personnel as a result of replacements not been hired when employees leave</code>
+</p>
+
+<ul class="org-ul">
+<li>Police officer attrition is making it difficult for law enforcement to safeguard the entire community.</li>
+<li>As a result of teacher attrition, a lot of classrooms are overcrowded.</li>
+<li>The Girl Scout troop’s attrition is sizable because many families have moved out of the neighborhood.</li>
+<li>Unfortunately, budget cuts are worsening the fire department’s attrition problem.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org25a5099" class="outline-2">
+<h2 id="org25a5099"><span class="section-number-2">59</span> <a href="https://wordsinasentence.com/attune-in-a-sentence/">Attune</a></h2>
+<div class="outline-text-2" id="text-59">
+<p>
+<code>to customize or modify something to be more receptive or capable</code>
+</p>
+
+<ul class="org-ul">
+<li>The radio transmitter wasn’t picking up what we needed, so I had to attune it to the right frequency.</li>
+<li>You can attune yourself to any future situation by participating in them more often, as practice at anything will inevitably make you better at it.</li>
+<li>Many musicians have to attune their instruments before playing to get the exact sound that they want or need.</li>
+<li>If you want to get the best satellite TV possible, you will have to attune your satellite to the optimal position for receiving broadcasts.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2324cd3" class="outline-2">
+<h2 id="org2324cd3"><span class="section-number-2">60</span> <a href="https://wordsinasentence.com/audacious-in-a-sentence/">Audacious</a></h2>
+<div class="outline-text-2" id="text-60">
+<p>
+<code>recklessly bold; daring</code>
+</p>
+
+<ul class="org-ul">
+<li>Cooper was an audacious soldier who never ran from a battle.</li>
+<li>Although April is an audacious athlete, she does not participate in any dangerous sports.</li>
+<li>The millionaire earned his fortune by being an audacious player on the stock market.</li>
+<li>While Harold’s business plan was risky and audacious, it promised great rewards if successful.</li>
+<li>Jason was an audacious chess opponent who won nearly every match because of his bold moves.</li>
+<li>Even though Kim is an audacious driver who rarely drives the speed limit, she has never been in a car accident.</li>
+<li>The prince’s audacious plan to save the princess included crossing the deathly forest and killing the dragon.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge1303a3" class="outline-2">
+<h2 id="orge1303a3"><span class="section-number-2">61</span> <a href="https://wordsinasentence.com/auspices-in-a-sentence/">Auspices</a></h2>
+<div class="outline-text-2" id="text-61">
+<p>
+<code>guidance and support</code>
+</p>
+
+<ul class="org-ul">
+<li>Under the auspices of their commander-in-chief, the troops crossed the border into the war zone.</li>
+<li>Two mobile libraries, under the auspices of the state literacy program, regularly visit inner-city communities.</li>
+<li>Under the auspices of their teacher, the students dissected a pig.</li>
+<li>Kim is excited about taking the trip with her friends because for once, she’ll be independent and not under the auspices of her parents.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org52588fb" class="outline-2">
+<h2 id="org52588fb"><span class="section-number-2">62</span> <a href="https://wordsinasentence.com/auspicious-in-a-sentence/">Auspicious</a></h2>
+<div class="outline-text-2" id="text-62">
+<p>
+<code>being a sign of future success; indicating a promising future</code>
+</p>
+
+<ul class="org-ul">
+<li>His brilliant acceptance speech was an auspicious start to his political career.</li>
+<li>Everybody knows the end of the year is an auspicious time to buy a car!</li>
+<li>Because everyone was happy and feeling generous at the party, it was an auspicious time to ask for charitable donations.</li>
+<li>In Chinese culture, the shade of red is considered auspicious so Chinese men often wear red ties to important meetings.</li>
+<li>Since his father was a state judge, Henry was born with an auspicious legal career ahead of him.</li>
+<li>After his boss praised him for his work on the big project, Sam felt it was an auspicious time to ask for a promotion.</li>
+<li>When the president took his oath without missing a word, everyone noted the event as an auspicious occasion.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd0189f1" class="outline-2">
+<h2 id="orgd0189f1"><span class="section-number-2">63</span> <a href="https://wordsinasentence.com/austere-in-a-sentence/">Austere</a></h2>
+<div class="outline-text-2" id="text-63">
+<p>
+<code>without any decoration; strict and serious in manner</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though she appeared austere, my teacher was a very kind woman.</li>
+<li>The soft candlelight made the room’s décor less austere.</li>
+<li>Lacking personal touches, the couple’s formal living room was quite austere.</li>
+<li>Although the furnishings in the house were beautifully designed, they were austere in appearance.</li>
+<li>Instead of being bleak and austere, hospitals should be warm and cheery.</li>
+<li>When he thought no one was watching, the austere palace guard would smile at the small children.</li>
+<li>A monk chooses to live an austere life because of his religious beliefs.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf6ea45a" class="outline-2">
+<h2 id="orgf6ea45a"><span class="section-number-2">64</span> <a href="https://wordsinasentence.com/avarice-in-a-sentence/">Avarice</a></h2>
+<div class="outline-text-2" id="text-64">
+<p>
+<code>A strong desire and greed for money/material things</code>
+</p>
+
+<ul class="org-ul">
+<li>Mr. Krab’s avarice for money caused him to work his employees to the bone for little pay.</li>
+<li>The greedy banker’s avarice led him to funnel company funds into his personal account.</li>
+<li>With avarice, you could have everything in the world and it all still would not be enough.</li>
+<li>Motivated by avarice, the employee stole thousands of dollars from the company vault.</li>
+<li>I cannot believe that your intense avarice gets in the way of donating a measly $5!</li>
+<li>During the theft trial, evidence was presented to show the greedy defendant’s avarice and gluttony.</li>
+<li>Her only motivation for suing the wealthy businessman is pure avarice.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga2e7cb7" class="outline-2">
+<h2 id="orga2e7cb7"><span class="section-number-2">65</span> <a href="https://wordsinasentence.com/avaricious-in-a-sentence/">Avaricious</a></h2>
+<div class="outline-text-2" id="text-65">
+<p>
+<code>desirous of wealth or advancement</code>
+</p>
+
+<ul class="org-ul">
+<li>Since Tiffany was an avaricious reader, her reading level was at 12th grade level even though she was still in 4th grade.</li>
+<li>Even though the king had all the riches in his kingdom, this avaricious leader always wanted more.</li>
+<li>After receiving a bill for millions of dollars, the avaricious lawyer would charge as much as possible to his needy clients.</li>
+<li>The avaricious student was completing her fourth college degree so that her skills would be well above the other candidates’ skills for any job.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org469b4f9" class="outline-2">
+<h2 id="org469b4f9"><span class="section-number-2">66</span> <a href="https://wordsinasentence.com/averse-in-a-sentence/">Averse</a></h2>
+<div class="outline-text-2" id="text-66">
+<p>
+<code>actively not liking something</code>
+</p>
+
+<ul class="org-ul">
+<li>For those who are averse to spaghetti, you also have the meal choice of baked chicken with roasted potatoes.</li>
+<li>My teenager daughter is averse to chores and usually has to be forced to complete her cleaning duties.</li>
+<li>Because I am averse to risk, I never play casino games.</li>
+<li>My children are quite averse to the suggestion of having year-round school.</li>
+<li>Since my children are averse to broccoli, I have to hide the vegetable in their favorite dishes.</li>
+<li>Marilyn is averse to conflict and goes out of her way to avoid disagreements.</li>
+<li>Because we all know Betty is averse to heights, we were shocked when she took up skydiving.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3f53775" class="outline-2">
+<h2 id="org3f53775"><span class="section-number-2">67</span> <a href="https://wordsinasentence.com/avocation-in-a-sentence/">Avocation</a></h2>
+<div class="outline-text-2" id="text-67">
+<p>
+<code>an activity one enjoys when he or she is not working</code>
+</p>
+
+<ul class="org-ul">
+<li>Recently, Sherman discovered woodworking is the type of avocation he enjoys in his spare time.</li>
+<li>In college Josh did not have time for an avocation; he was too busy studying to pursue a hobby.</li>
+<li>Trisha excelled at the avocation of sewing and ultimately turned it into a career.</li>
+<li>While John saw stamp collecting as a fun avocation, many people saw it as a boring hobby.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdb34868" class="outline-2">
+<h2 id="orgdb34868"><span class="section-number-2">68</span> <a href="https://wordsinasentence.com/axiom-in-a-sentence/">Axiom</a></h2>
+<div class="outline-text-2" id="text-68">
+<p>
+<code>a rule or principal that many people accept as true</code>
+</p>
+
+<ul class="org-ul">
+<li>Although you keep using that axiom as the basis for your paper, the concept itself is not true.</li>
+<li>Mrs. Struthers is an awful teacher who does not believe the axiom that states, "all children can learn".</li>
+<li>According to the axiom, all men have equal worth.</li>
+<li>The axiom of it being cheaper by the dozen is not true when it comes to feeding a large family at today’s market prices.</li>
+<li>The actress with the fewest number of lines found it difficult to accept the axiom about there being no small roles only small actors.</li>
+<li>When the university disproved the basic axiom of protein replication, the scientific community was shocked and hurried to confirm the new findings.</li>
+<li>Unfortunately, the dictator runs his country on the axiom "might makes right".</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org77a2691" class="outline-2">
+<h2 id="org77a2691"><span class="section-number-2">69</span> <a href="https://wordsinasentence.com/abase-in-a-sentence/">Abase</a></h2>
+<div class="outline-text-2" id="text-69">
+<p>
+<code>to lower so as to hurt feelings</code>
+</p>
+
+<ul class="org-ul">
+<li>My stepmother is an evil woman who likes to abase little children because she had a miserable childhood herself.</li>
+<li>Because Mark hated himself, he often tried to abase others by calling them names.</li>
+<li>I will not remain married to a man who tries to abase me in order to make me feel worthless!</li>
+<li>Although I need money badly, I will not abase myself by working for pennies.</li>
+<li>The gossip columnist tried to abase the singer’s reputation by spreading lies about him.</li>
+<li>Even though John was angry at his wife for losing a thousand dollars, he chose not to abase her with cruel words.</li>
+<li>Although Alice bullies smaller kids at school, she does not abase her younger brother at home.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga230dfe" class="outline-2">
+<h2 id="orga230dfe"><span class="section-number-2">70</span> <a href="https://wordsinasentence.com/abash-in-a-sentence/">Abash</a></h2>
+<div class="outline-text-2" id="text-70">
+<p>
+<code>to humiliate someone and make them feel embarrassed or ashamed</code>
+</p>
+
+<ul class="org-ul">
+<li>The officer tried to abash the inmates, humiliating them and treating them like dogs.</li>
+<li>Daniel’s tendency to abash his wife left her embarrassed and thinking about divorce.</li>
+<li>Though he claims he didn’t mean to abash his brother, the man has a long history of embarrassing him in public.</li>
+<li>Ross vowed to humiliate his opponent and abash him in any way possible.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbef632e" class="outline-2">
+<h2 id="orgbef632e"><span class="section-number-2">71</span> <a href="https://wordsinasentence.com/abdicate-in-a-sentence/">Abdicate</a></h2>
+<div class="outline-text-2" id="text-71">
+<p>
+<code>to stop accepting a particular responsibility or obligation that you have</code>
+</p>
+
+<ul class="org-ul">
+<li>The young prince became king after his older brother decided to abdicate the throne.</li>
+<li>Because the mother chose to abdicate her role as a parent, her children have become the terrors of the neighborhood.</li>
+<li>Of course, it is easier to abdicate your responsibilities than to be a good citizen.</li>
+<li>Since the dictator of that country will not simply abdicate his position, we must go to war to remove him from power.</li>
+<li>It is obvious from the bad behavior of these children that their parents have chosen to abdicate their jobs as good role models.</li>
+<li>Angry at her husband, the wife decided to abdicate her household position of cook and cleaner for a whole week.</li>
+<li>Although my daughter is getting married to a wonderful man today, it is still very hard for me to abdicate my role as her protector.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org217684a" class="outline-2">
+<h2 id="org217684a"><span class="section-number-2">72</span> <a href="https://wordsinasentence.com/abjure-in-a-sentence/">Abjure</a></h2>
+<div class="outline-text-2" id="text-72">
+<p>
+<code>to give up a belief or an activity</code>
+</p>
+
+<ul class="org-ul">
+<li>After the tyrant took over the country, the citizens had to abjure their political beliefs.</li>
+<li>In order to marry the peasant he loved, the prince made the decision to abjure his title.</li>
+<li>Because John ignored his parents’ plea to abjure a life of crime, he ended up in prison by making bad choices.</li>
+<li>Although chocolate cake is Martha’s favorite dessert, she has chosen to abjure it while on her diet.</li>
+<li>While the military leader claimed to abjure unnecessary violence, he was quick to send his soldiers off to battle.</li>
+<li>Because the heiress does not care about money, she will abjure her inheritance and request that it be donated to charity.</li>
+<li>We could not believe it when Father Lawrence made the choice to abjure his faith and leave the church.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgc279c25" class="outline-2">
+<h2 id="orgc279c25"><span class="section-number-2">73</span> <a href="https://wordsinasentence.com/abnegation-in-a-sentence/">Abnegation</a></h2>
+<div class="outline-text-2" id="text-73">
+<p>
+<code>the act of rejecting or refusing something</code>
+</p>
+
+<ul class="org-ul">
+<li>Her abnegation of ice cream and cookies is due to her Olympic team training.</li>
+<li>Because everyone knew Jane loved serving the public, they were shocked by her abnegation of the congressional seat.</li>
+<li>The school counselor hoped she could encourage her students to consider the abnegation of drug use.</li>
+<li>When Mark decided to protest chemical dumping, he used the abnegation of food and water as his method of protest.</li>
+<li>Everyone expected the government’s abnegation of responsibility for the long war.</li>
+<li>If you wish to be a monk, you must not have a problem with the abnegation of worldly possessions.</li>
+<li>The priest's abnegation of his faith was a shock to everyone in the community.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga625daf" class="outline-2">
+<h2 id="orga625daf"><span class="section-number-2">74</span> <a href="https://wordsinasentence.com/abominate-in-a-sentence/">Abominate</a></h2>
+<div class="outline-text-2" id="text-74">
+<p>
+<code>to despise intensely</code>
+</p>
+
+<ul class="org-ul">
+<li>Since I abominate liver, I will starve to death before I eat it.</li>
+<li>My dogs abominate cold weather so I have to force them outside when the temperature goes below fifty degrees.</li>
+<li>If you abominate something, you really hate it.</li>
+<li>As a diehard golf fan, Josh is unwilling to date anyone who claims to abominate the sport.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org518cadc" class="outline-2">
+<h2 id="org518cadc"><span class="section-number-2">75</span> <a href="https://wordsinasentence.com/abraded-in-a-sentence/">Abraded</a></h2>
+<div class="outline-text-2" id="text-75">
+<p>
+<code>to produce damage or irritation by scraping, rubbing, or crushing</code>
+</p>
+
+<ul class="org-ul">
+<li>The wool blanket abraded my legs and gave me a rash.</li>
+<li>When my husband saw how his facial hair abraded my skin, he decided it was time to shave.</li>
+<li>The uncomfortable shoe strap abraded my heel and created a sore.</li>
+<li>Because the pencil was held so tightly against my finger, it abraded my skin and left a red mark.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org47e3da4" class="outline-2">
+<h2 id="org47e3da4"><span class="section-number-2">76</span> <a href="https://wordsinasentence.com/abrogate-in-a-sentence/">Abrogate</a></h2>
+<div class="outline-text-2" id="text-76">
+<p>
+<code>to abolish; to do away with</code>
+</p>
+
+<ul class="org-ul">
+<li>You cannot abrogate anyone's right to free speech!</li>
+<li>With thunderstorms rolling in this afternoon, we may abrogate today's outdoor protest.</li>
+<li>A good father would never abrogate his parental responsibilities.</li>
+<li>Our city needs to abrogate outdated laws.</li>
+<li>More cities are beginning to abrogate smoking in public places because of second-hand smoke hazards.</li>
+<li>Animal lovers are protesting to abrogate the use of animals in science.</li>
+<li>Because we have a signed contract, you cannot abrogate your end of the agreement.</li>
+</ul>
+
+
+<ul class="org-ul">
+<li>The bus came to an abrupt halt outside the school.</li>
+<li>Our conversation came to an abrupt end when George burst into the room.</li>
+<li>The accident brought his career to an abrupt end.</li>
+<li>Artie knocked me off-balance with his abrupt change of subject.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf0cce7c" class="outline-2">
+<h2 id="orgf0cce7c"><span class="section-number-2">77</span> <a href="https://wordsinasentence.com/abstemious-in-a-sentence/">Abstemious</a></h2>
+<div class="outline-text-2" id="text-77">
+<p>
+<code>marked by moderation and holding back on indulgence</code>
+</p>
+
+<ul class="org-ul">
+<li>Gerald was abstemious at dinner and only ate a little of the food on his plate.</li>
+<li>Because I was abstemious with alcohol when I was younger, I am still quite healthy in my later years.</li>
+<li>The best way to avoid becoming obese is by being abstemious and only eating what is necessary to survive.</li>
+<li>While Mr. Peterson was quite abstemious with his meals, he always put out a big feast when he had guests over for dinner.</li>
+<li>The monks had an abstemious diet which consisted chiefly of chicken, bread, water, and cabbage.</li>
+<li>Even though Mrs. Washington was a very wealthy woman, she still lived an abstemious life and only spent money on the basic essentials.</li>
+<li>Because of his religion, Pierre is abstemious and does not eat meat.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org90642b4" class="outline-2">
+<h2 id="org90642b4"><span class="section-number-2">78</span> <a href="https://wordsinasentence.com/abstention/">Abstention</a></h2>
+<div class="outline-text-2" id="text-78">
+<p>
+<code>a decision to not vote for or against a proposition</code>
+</p>
+
+<ul class="org-ul">
+<li>I decided to settle on an abstention when the family voted on where we should eat, as personally I didn’t care where we went.</li>
+<li>If you do not vote for or against something, you have instead decided on abstention, remaining neutral.</li>
+<li>Abstentions occur most often in Congress, when a senator may choose to not vote for or against a proposed notion.</li>
+<li>If you have ever refused to take sides in something, you know exactly what it means to prefer an abstention over a decision.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org29c54c7" class="outline-2">
+<h2 id="org29c54c7"><span class="section-number-2">79</span> <a href="https://wordsinasentence.com/abstinence-in-a-sentence/">Abstinence</a></h2>
+<div class="outline-text-2" id="text-79">
+<p>
+<code>the act of not taking part in something</code>
+</p>
+
+<ul class="org-ul">
+<li>According to my religion, one should refrain from having sex and practice abstinence until marriage.</li>
+<li>Abstinence from smoking is now mandatory on commercial airlines.</li>
+<li>Because of strong family support, Frank has been able to maintain his abstinence from alcohol for over twelve years.</li>
+<li>The goal of the church’s teen youth group is to promote abstinence from sex, drugs, and alcohol.</li>
+<li>Because I am a diabetic, I plan my menus with a focus on abstinence from sugar.</li>
+<li>Abstinence from sex is the only sure way to prevent unwanted pregnancies.</li>
+<li>On certain religious holidays, the people in my family eat only fish and maintain an abstinence from other meats.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4e99c62" class="outline-2">
+<h2 id="org4e99c62"><span class="section-number-2">80</span> <a href="https://wordsinasentence.com/acclaim-in-a-sentence/">Acclaim</a></h2>
+<div class="outline-text-2" id="text-80">
+<p>
+<code>public praise and applause</code>
+</p>
+
+<ul class="org-ul">
+<li>Showered with acclaim, the dancer loved all of the praise she was getting from the crowd.</li>
+<li>The café won widespread acclaim for its amazing shrimp dishes and yummy desserts.</li>
+<li>Since her last movie, the amazing actress has won national acclaim and several Hollywood roles.</li>
+<li>The popular newspaper has received international acclaim and several national awards.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org2da63b5" class="outline-2">
+<h2 id="org2da63b5"><span class="section-number-2">81</span> <a href="https://wordsinasentence.com/accosted-in-a-sentence/">Accosted</a></h2>
+<div class="outline-text-2" id="text-81">
+<p>
+<code>forcefully confronted</code>
+</p>
+
+<ul class="org-ul">
+<li>When the man accosted me with a gun, I quickly handed over my purse.</li>
+<li>The policemen asked Greg to describe the man who accosted him.</li>
+<li>Because the star hates to be accosted by her fans, she wears disguises when she goes out in public.</li>
+<li>The man who accosted the woman he met online will be going to prison for ten years.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4dd3700" class="outline-2">
+<h2 id="org4dd3700"><span class="section-number-2">82</span> <a href="https://wordsinasentence.com/accretion-in-a-sentence/">Accretion</a></h2>
+<div class="outline-text-2" id="text-82">
+<p>
+<code>act of increasing by natural growth</code>
+</p>
+
+<ul class="org-ul">
+<li>The accretion of traffic accidents and drunk driving was attributed to the opening of the new downtown mall.</li>
+<li>The gradual accretion of terror over many years left hundred dead and thousands wounded.</li>
+<li>Sophia was convinced that the accretion of ice on her car’s windshield was preventing her wipers from operating correctly.</li>
+<li>Coca Cola estimated about 40 cents of lost earnings per share accretion due to the devaluation of their stock.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org21a6da6" class="outline-2">
+<h2 id="org21a6da6"><span class="section-number-2">83</span> <a href="https://wordsinasentence.com/accrue-in-a-sentence/">Accrue</a></h2>
+<div class="outline-text-2" id="text-83">
+<p>
+<code>increase</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though a traditional savings count will accrue a small amount of interest every year, other types of investments are better hedges against inflation.</li>
+<li>The benefits of following a healthy lifestyle will accrue over time.</li>
+<li>If you don’t want the tax penalties to accrue until they’re unmanageable, you’d better work out a payment plan with the IRS.</li>
+<li>I enjoy using this credit card because the more I use it for purchases, the more mileage points I can accrue.</li>
+<li>At last, Brad felt that he had brought his company to a point where he could just stand back and accrue the profits.</li>
+<li>When Jim was first hired, his supervisor told him that the longer he stayed with the company, the more benefits he would accrue.</li>
+<li>We really have to clean out the storeroom because the more surplus junk we accrue, the less room we have for anything.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org97f8bfc" class="outline-2">
+<h2 id="org97f8bfc"><span class="section-number-2">84</span> <a href="https://wordsinasentence.com/acquittal-in-a-sentence/">Acquittal</a></h2>
+<div class="outline-text-2" id="text-84">
+<p>
+<code>a setting free from the charge of an offense or verdict</code>
+</p>
+
+<ul class="org-ul">
+<li>After the defendant learned of his acquittal, he jumped for joy.</li>
+<li>Everyone was shocked by the killer’s acquittal which allowed him to leave prison.</li>
+<li>When there is not enough evidence, a criminal case will usually end with an acquittal.</li>
+<li>The man’s foreign diplomat status ensures he will receive an acquittal on any charge.</li>
+<li>When the accused serial killer received an acquittal, the entire country was enraged.</li>
+<li>Although the defendant received an acquittal on the most serious charges, he still has to go to prison for one year on minor charges.</li>
+<li>The animal rights group was far from happy when the suspected puppy killer received an acquittal for the offense.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org74907b5" class="outline-2">
+<h2 id="org74907b5"><span class="section-number-2">85</span> <a href="https://wordsinasentence.com/acuity-in-a-sentence/">Acuity</a></h2>
+<div class="outline-text-2" id="text-85">
+<p>
+<code>sharpness in relation to thought, vision, or hearing</code>
+</p>
+
+<ul class="org-ul">
+<li>In order for my daughter to get into the school’s gifted program, she had to take a mental acuity test.</li>
+<li>A sniper’s visual acuity has to be exceptional because he must be able to clearly see his targets.</li>
+<li>According to many people, smoking marijuana does not decrease your intellectual acuity.</li>
+<li>Owls make use of their excellent visual acuity to chase their prey at night.</li>
+<li>As the admissions board reviewed the college applications, the members focused on accepting only students with the highest academic acuity.</li>
+<li>Glaucoma has greatly lessened my grandmother’s visual acuity.</li>
+<li>As soon as I put on my glasses, my optical acuity improved.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf42ada8" class="outline-2">
+<h2 id="orgf42ada8"><span class="section-number-2">86</span> <a href="https://wordsinasentence.com/acumen-in-a-sentence/">Acumen</a></h2>
+<div class="outline-text-2" id="text-86">
+<p>
+<code>experience or expertise in something</code>
+</p>
+
+<ul class="org-ul">
+<li>John’s business acumen, along with his computer skills, made him an asset to the software company.</li>
+<li>While you excel in the area of customer service, you do not possess the financial acumen necessary to become a branch manager.</li>
+<li>Although Sarah wants to become a state senator, she lacks the political acumen to win enough votes.</li>
+<li>You need more than acumen to become a successful car salesperson.</li>
+<li>The acumen displayed by our principal is the reason our school is one of the best in the nation.</li>
+<li>Since you have made so many unprofitable trades, your business acumen is in question!</li>
+<li>Attorneys with acumen are highly valued at any law firm.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdfc29cd" class="outline-2">
+<h2 id="orgdfc29cd"><span class="section-number-2">87</span> <a href="https://wordsinasentence.com/addle-in-a-sentence/">Addle</a></h2>
+<div class="outline-text-2" id="text-87">
+<p>
+<code>to cause a person’s thoughts to become jumbled or confused</code>
+</p>
+
+<ul class="org-ul">
+<li>Is it true smoking marijuana can addle your brain and make it difficult for you to concentrate?</li>
+<li>When the test questions started to addle my brain, my head began to hurt.</li>
+<li>The disease will addle your grandmother’s mental capacity and cause her to lose her memory.</li>
+<li>Because the professor is not a good teacher, he is indifferent when his students tell him that his complex lectures addle their brains.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgec5e50c" class="outline-2">
+<h2 id="orgec5e50c"><span class="section-number-2">88</span> <a href="https://wordsinasentence.com/adduce-in-a-sentence/">Adduce</a></h2>
+<div class="outline-text-2" id="text-88">
+<p>
+<code>to produce as support during a discussion or argument</code>
+</p>
+
+<ul class="org-ul">
+<li>During the trial the defense attorney will adduce evidence to show the defendant’s innocence.</li>
+<li>The rookie debate team lost the challenge because it failed to adduce facts supporting its position.</li>
+<li>If you cannot adduce proof you are the sole creator of the concept, I will split the bonus among the entire team.</li>
+<li>The city attorney will adduce the man’s toxicology report to prove he was driving drunk.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9d517fe" class="outline-2">
+<h2 id="org9d517fe"><span class="section-number-2">89</span> <a href="https://wordsinasentence.com/adjourn-in-a-sentence/">Adjourn</a></h2>
+<div class="outline-text-2" id="text-89">
+<p>
+<code>to suspend or conclude an event</code>
+</p>
+
+<ul class="org-ul">
+<li>After church services adjourn at one o’clock, we will have our monthly picnic.</li>
+<li>It is late so we will adjourn this debate until tomorrow.</li>
+<li>Until the director finds another lead actress, we will adjourn the production of the film.</li>
+<li>The trial will adjourn until nine o’clock in the morning.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgbd8c182" class="outline-2">
+<h2 id="orgbd8c182"><span class="section-number-2">90</span> <a href="https://wordsinasentence.com/adjudicate-in-a-sentence/">Adjudicate</a></h2>
+<div class="outline-text-2" id="text-90">
+<p>
+<code>to make a decision on an issue</code>
+</p>
+
+<ul class="org-ul">
+<li>The administrative board will adjudicate on the terms of the doctor’s suspension for misconduct.</li>
+<li>Because Jack is the president, he is the one who must adjudicate whether or not to lay off workers.</li>
+<li>You should never adjudicate a major decision when you are under the influence of alcohol.</li>
+<li>In a national criminal case, the federal authorities are the ones who adjudicate the charges.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgbf14b31" class="outline-2">
+<h2 id="orgbf14b31"><span class="section-number-2">91</span> <a href="https://wordsinasentence.com/adolescence-in-a-sentence/">Adolescence</a></h2>
+<div class="outline-text-2" id="text-91">
+<p>
+<code>the time period when a young person becomes a grownup</code>
+</p>
+
+<ul class="org-ul">
+<li>When children reach the period of adolescence, they crave freedom to make their own choices.</li>
+<li>Perhaps my worse challenge during adolescence was the acne that covered my face.</li>
+<li>During adolescence, Marcus really began to think about what he wanted to study in college.</li>
+<li>Lionel’s voice deepened during adolescence.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org47c9965" class="outline-2">
+<h2 id="org47c9965"><span class="section-number-2">92</span> <a href="https://wordsinasentence.com/adroit-in-a-sentence/">Adroit</a></h2>
+<div class="outline-text-2" id="text-92">
+<p>
+<code>clever or skillful</code>
+</p>
+
+<ul class="org-ul">
+<li>The child was an adroit pianist at an early age.</li>
+<li>Because Leonard is adroit at mental calculations, he is able to effortlessly solve complicated math problems.</li>
+<li>Their rugby team consists of several adroit players.</li>
+<li>Even though Gwen had been taking violin lessons for years, she was still not very adroit at playing compositions.</li>
+<li>The butler was adroit at running a large household.</li>
+<li>When it comes to managing your money, it is obvious you are not very adroit with financial matters!</li>
+<li>My cousin Lenny is an adroit fisherman.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org73875e0" class="outline-2">
+<h2 id="org73875e0"><span class="section-number-2">93</span> <a href="https://wordsinasentence.com/adulterate-in-a-sentence/">Adulterate</a></h2>
+<div class="outline-text-2" id="text-93">
+<p>
+<code>to make a substance less pure by adding something else to it</code>
+</p>
+
+<ul class="org-ul">
+<li>If you want to adulterate your alcoholic drink, you should add some water to it.</li>
+<li>The restaurant was fined for trying to adulterate the beef with cheap meats.</li>
+<li>The evil pharmacist was arrested after he tried to adulterate the cancer medicines for profit.</li>
+<li>As the parent of a young child, I often adulterate the apple juice in my house with water.</li>
+<li>The manufacturers of cheap olive oil often adulterate the liquid to increase their supply of the merchandise.</li>
+<li>Although the company swears it does not adulterate its products, it is obvious to everyone that the quality of the firm’s goods has greatly decreased.</li>
+<li>During Sunday morning church service, it is my job to adulterate the wine so it is weak enough for everyone to safely drink.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org859c1b9" class="outline-2">
+<h2 id="org859c1b9"><span class="section-number-2">94</span> <a href="https://wordsinasentence.com/advent-in-a-sentence/">Advent</a></h2>
+<div class="outline-text-2" id="text-94">
+<p>
+<code>the coming or arrival of something</code>
+</p>
+
+<ul class="org-ul">
+<li>With the advent of the internet, working from home has become a real phenomenon.</li>
+<li>The elder discussed the advent of the messiah and how it would usher in a new world order.</li>
+<li>The advent of drones is set to usher in a whole new era for photography.</li>
+<li>Everyone was afraid that the advent of the year 2000 would cause computers to crash the world over.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org79d79a3" class="outline-2">
+<h2 id="org79d79a3"><span class="section-number-2">95</span> <a href="https://wordsinasentence.com/adventitious-in-a-sentence/">Adventitious</a></h2>
+<div class="outline-text-2" id="text-95">
+<p>
+<code>not natural; foreign</code>
+</p>
+
+<ul class="org-ul">
+<li>The weird-looking plant is adventitious and not native to this country.</li>
+<li>While the band was not popular in its native country, it did find adventitious celebrity in other countries.</li>
+<li>The marine biologist classified the fish as adventitious because it is not normally found in bodies of saltwater.</li>
+<li>During the surgery, the doctor removed an adventitious particle that did not belong inside of the patient’s body.</li>
+<li>Janice was detained at the airport when the x-ray scanner picked up adventitious materials on her body.</li>
+<li>As soon as Gail saw the adventitious man at her wedding, she knew a stranger had crashed her special day.</li>
+<li>It was easy for the nuns to recognize the adventitious student, the sole boy in the all-girls school.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgeaa928b" class="outline-2">
+<h2 id="orgeaa928b"><span class="section-number-2">96</span> <a href="https://wordsinasentence.com/advert-in-a-sentence/">Advert</a></h2>
+<div class="outline-text-2" id="text-96">
+<p>
+<code>an advertisement</code>
+</p>
+
+<ul class="org-ul">
+<li>The newspaper advert announced position openings at the local potato plant.</li>
+<li>To place an advert in the local classifieds will only cost you a few dollars.</li>
+<li>Over twenty thousand people viewed the online advert offering a million dollar reward for a missing laptop.</li>
+<li>People were always shocked to learn that the newlyweds met when the husband placed a single and looking advert.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6e53a54" class="outline-2">
+<h2 id="org6e53a54"><span class="section-number-2">97</span> <a href="https://wordsinasentence.com/aerate-in-a-sentence/">Aerate</a></h2>
+<div class="outline-text-2" id="text-97">
+<p>
+<code>to cause air to circulate through something</code>
+</p>
+
+<ul class="org-ul">
+<li>The cleaners needed to aerate the room to get the strong odor out.</li>
+<li>Without a way to aerate the building, the hot workers were forced to leave early.</li>
+<li>The drink makers began to aerate their drinks, adding a fizz to the products.</li>
+<li>He needed to aerate the flattened ball before leaving for the court.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org12e1ad4" class="outline-2">
+<h2 id="org12e1ad4"><span class="section-number-2">98</span> <a href="https://wordsinasentence.com/aftermath-in-a-sentence/">Aftermath</a></h2>
+<div class="outline-text-2" id="text-98">
+<p>
+<code>the aftereffects or consequences of an unpleasant or destructive event</code>
+</p>
+
+<ul class="org-ul">
+<li>More frightening than the hurricane was the aftermath and incomprehensible task of rebuilding.</li>
+<li>Faced with the aftermath of their crime spree, the petty thieves decided to turn themselves in to authorities.</li>
+<li>Although the aftermath was daunting, nothing could compare to the moment that the tornado struck the building.</li>
+<li>The avalanche’s aftermath required extensive resources including rescue and clean-up crews.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga9d1d60" class="outline-2">
+<h2 id="orga9d1d60"><span class="section-number-2">99</span> <a href="https://wordsinasentence.com/agape-in-a-sentence/">Agape</a></h2>
+<div class="outline-text-2" id="text-99">
+<p>
+<code>open</code>
+</p>
+
+<ul class="org-ul">
+<li>Before you eat oysters, clams, or mussels, always check to be sure that the shells are firmly closed and not even a little bit agape.</li>
+<li>When I first saw the sunset in the Grand Canyon, I could only stand staring with my mouth agape.</li>
+<li>Even though the tornado left us standing agape in the midst of all our ruined possessions, we couldn’t help feeling a huge sense of gratitude that none of us had been hurt.</li>
+<li>I didn’t realize how hurtful my words had been until I saw Sherrie’s expression, agape with shock.</li>
+<li>Despite the danger, Christopher was rooted to the spot as he watched the rabid dog staggering toward him, his jaws agape and slobbering.</li>
+<li>After everyone jumped and yelled “Surprise,” Candace just stared at everyone, her mouth and eyes agape with astonishment.</li>
+<li>While her friends stood around her looking agape, Mary Ann threw her engagement ring as far as she could into the ocean.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb4bc669" class="outline-2">
+<h2 id="orgb4bc669"><span class="section-number-2">100</span> <a href="https://wordsinasentence.com/agnostic-in-a-sentence/">Agnostic</a></h2>
+<div class="outline-text-2" id="text-100">
+<p>
+<code>unsure about the existence of a god or holy being</code>
+</p>
+
+<ul class="org-ul">
+<li>After my husband became agnostic, he stopped going to church because of his doubt about god's existence.</li>
+<li>Jill’s agnostic beliefs had her wondering if there was a deity who guided her life.</li>
+<li>If you are skeptical of your religion, you might have become agnostic.</li>
+<li>John knew he was too agnostic to dedicate his life to the church when he started to doubt the reality of Christ.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org4621a80" class="outline-2">
+<h2 id="org4621a80"><span class="section-number-2">101</span> <a href="https://wordsinasentence.com/agog-in-a-sentence/">Agog</a></h2>
+<div class="outline-text-2" id="text-101">
+<p>
+<code>filled with anticipation and excitement</code>
+</p>
+
+<ul class="org-ul">
+<li>The little kids were agog as they waited for Santa Claus to arrive.</li>
+<li>On the way to the concert hall, the teen girls were agog at the thought of seeing their favorite singer.</li>
+<li>Fans of the movie series are agog about the upcoming release of the new film.</li>
+<li>From the sidewalk, the well-wishers were agog as they waited for the royal couple to leave the church.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7e07664" class="outline-2">
+<h2 id="org7e07664"><span class="section-number-2">102</span> <a href="https://wordsinasentence.com/ague-in-a-sentence/">Ague</a></h2>
+<div class="outline-text-2" id="text-102">
+<p>
+<code>a fever that causes you to shake, sweat and feel cold</code>
+</p>
+
+<ul class="org-ul">
+<li>Dr. Frank determined that his patient acquired ague based on the symptoms but, he realized it was not malaria because the patient had not visited tropical areas lately.</li>
+<li>Customs agents required the tourist to undergo tests to determine if he would be bringing in ague, Ebola or West Nile virus into the country.</li>
+<li>After a rash of emergency room visits with patients complaining of fever and shivering, the state revealed an epidemic of ague.</li>
+<li>Carol believed her son had the flu at first, but after his symptoms persisted he was diagnosed with ague.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org15f5345" class="outline-2">
+<h2 id="org15f5345"><span class="section-number-2">103</span> <a href="https://wordsinasentence.com/ail-in-a-sentence/">Ail</a></h2>
+<div class="outline-text-2" id="text-103">
+<p>
+<code>a trouble, symptom, or affliction</code>
+</p>
+
+<ul class="org-ul">
+<li>A common ail that afflicts people when they have a cold is a runny nose, but that is just one of the sinus issues that come along with that.</li>
+<li>I did not go to school today because I had the serious ail of throwing up every few hours from a sour stomach.</li>
+<li>I cannot name a single ail of a stomach virus that does not strike me as incredibly unpleasant an unwanted.</li>
+<li>A doctor will always ask what the nature of your ail is when you first visit them so they can narrow down what affliction may be troubling you.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org31ced37" class="outline-2">
+<h2 id="org31ced37"><span class="section-number-2">104</span> <a href="https://wordsinasentence.com/aleatory-in-a-sentence/">Aleatory</a></h2>
+<div class="outline-text-2" id="text-104">
+<p>
+<code>random, dependent on luck or chance</code>
+</p>
+
+<ul class="org-ul">
+<li>Rick laughs at anyone who spends money at the slot machines, because it’s a purely aleatory game that has no intellectual component whatsoever.</li>
+<li>Gambling is aleatory in nature because a payout occurs based on an event outside of one's control.</li>
+<li>We insisted that the coin toss be completed five times in a row by five different people, ensuring that the results were completely aleatory and unpredictable.</li>
+<li>Although the throw of a die is supposed to be entirely aleatory, Gregg seems to know how to spin sixes every time.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgac5ec6c" class="outline-2">
+<h2 id="orgac5ec6c"><span class="section-number-2">105</span> <a href="https://wordsinasentence.com/allay-in-a-sentence/">Allay</a></h2>
+<div class="outline-text-2" id="text-105">
+<p>
+<code>to make quiet or calm</code>
+</p>
+
+<ul class="org-ul">
+<li>A good teacher will work hard to allay the concerns of a new student.</li>
+<li>Last night, I spent over an hour trying to allay my daughter’s fears about the boogieman.</li>
+<li>Jim hoped a doctor’s diagnosis would allay his worry about the rash on his arm.</li>
+<li>Even though the president has apologized for his lack of action during the crisis, his statement has done nothing to allay public anger.</li>
+<li>By praying night and day, the people hoped to allay the anger of the gods.</li>
+<li>Walter tried to allay his wife’s concerns about sending their daughter to an out-of-state college by pointing out the short travel distance by plane.</li>
+<li>After the terrorist attack, the president made a speech to try and allay the nation’s fears.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgf6d6e79" class="outline-2">
+<h2 id="orgf6d6e79"><span class="section-number-2">106</span> <a href="https://wordsinasentence.com/ambient-in-a-sentence/">Ambient</a></h2>
+<div class="outline-text-2" id="text-106">
+<p>
+<code>producing a mood or effect by being present</code>
+</p>
+
+<ul class="org-ul">
+<li>The ambient music in the store made people feel good about shopping.</li>
+<li>As soon as I smelled the ambient scent, I started to relax on the massage table.</li>
+<li>The ambient candle created a romantic setting.</li>
+<li>When my baby heard the ambient sound of the waterfall, she quickly fell asleep.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfa6d5f7" class="outline-2">
+<h2 id="orgfa6d5f7"><span class="section-number-2">107</span> <a href="https://wordsinasentence.com/amnesty-in-a-sentence/">Amnesty</a></h2>
+<div class="outline-text-2" id="text-107">
+<p>
+<code>a formal pardon or reprieve given to one who has committed a criminal or political offense</code>
+</p>
+
+<ul class="org-ul">
+<li>Although Bill Smith was sentenced to life in prison in 1998, he was later released after receiving amnesty from the president.</li>
+<li>Dr. Angali was able to return to his native country after receiving amnesty for his political crimes.</li>
+<li>Although the governor claimed to be an honest man of the people, he did not hesitate to give his wealthy friend amnesty for a tax related crime.</li>
+<li>The president upset millions of voters when he announced a plan to offer amnesty to illegal immigrants so they could become citizens.</li>
+<li>Because of overcrowded prison conditions, thousands of prisoners were recently approved for amnesty.</li>
+<li>There are those who believe giving illegal residents amnesty will only encourage other people to sneak into the country.</li>
+<li>One day out of the year, the public library offers a “no fine” amnesty to anyone who returns a long overdue book.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org821bb86" class="outline-2">
+<h2 id="org821bb86"><span class="section-number-2">108</span> <a href="https://wordsinasentence.com/ancillary-in-a-sentence/">Ancillary</a></h2>
+<div class="outline-text-2" id="text-108">
+<p>
+<code>in addition to the main unit, worker, or task</code>
+</p>
+
+<ul class="org-ul">
+<li>If we start the ancillary generators, we should have enough power to keep the main generator online.</li>
+<li>Language tutoring is just one of the many ancillary services provided by our public library.</li>
+<li>When you pay an additional twenty dollars for extra legroom on a plane, you are paying the airline an ancillary fee.</li>
+<li>The ancillary teacher is in the classroom to help the lead teacher meet the needs of all the students.</li>
+<li>When the company decided to cut costs, it laid off its ancillary workforce first.</li>
+<li>The venue has a large auditorium and several ancillary rooms with small screens.</li>
+<li>During her presentation, Heather used many ancillary tools to help enhance her slide show presentation.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd93fe57" class="outline-2">
+<h2 id="orgd93fe57"><span class="section-number-2">109</span> <a href="https://wordsinasentence.com/animadversion-in-a-sentence/">Animadversion</a></h2>
+<div class="outline-text-2" id="text-109">
+<p>
+<code>a judgmental remark or criticism</code>
+</p>
+
+<ul class="org-ul">
+<li>The judge warned the hostile lawyer to not make another animadversion to the witness.</li>
+<li>When Tom was caught cheating on the final exam, he had to endure an animadversion from the talkative principal.</li>
+<li>The critic despised Patterson’s new book and wrote a lengthy animadversion about the author’s lack of talent.</li>
+<li>After the editor offended the queen with a spiteful editorial, he received a verbal animadversion from the newspaper owner.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orge81c736" class="outline-2">
+<h2 id="orge81c736"><span class="section-number-2">110</span> <a href="https://wordsinasentence.com/animus-in-a-sentence/">Animus</a></h2>
+<div class="outline-text-2" id="text-110">
+<p>
+<code>an intense feeling of loathing or disgust; hatred</code>
+</p>
+
+<ul class="org-ul">
+<li>My animus towards my roommate stems from the fact he is constantly stealing my food.</li>
+<li>Whenever I am around the girl who stole my boyfriend, I experience an animus that makes me want to break something.</li>
+<li>The detective’s animus towards the victim’s husband led him to ignore other possible suspects.</li>
+<li>If you hear any animus in my voice, it is because I really dislike my mother-in-law.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org74ec168" class="outline-2">
+<h2 id="org74ec168"><span class="section-number-2">111</span> <a href="https://wordsinasentence.com/anneal-in-a-sentence/">Anneal</a></h2>
+<div class="outline-text-2" id="text-111">
+<p>
+<code>to heat and slow cool metal or glass in order to toughen it</code>
+</p>
+
+<ul class="org-ul">
+<li>The welder was able to anneal the metal, heating it to make it stronger.</li>
+<li>The exact temperature required to anneal steel depends on the ingredients of the alloy.</li>
+<li>If you anneal the metal at too low a temperature, the correct binding process will not take place during heating or cooling.</li>
+<li>If the glass maker does not properly anneal the pane, it is likely to crack with small temperature changes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgfa3684b" class="outline-2">
+<h2 id="orgfa3684b"><span class="section-number-2">112</span> <a href="https://wordsinasentence.com/annihilate-in-a-sentence/">Annihilate</a></h2>
+<div class="outline-text-2" id="text-112">
+<p>
+<code>to destroy, to eradicate</code>
+</p>
+
+<ul class="org-ul">
+<li>During the war, our soldiers will annihilate the enemy and secure our land.</li>
+<li>Hopefully, the medicine will annihilate the bacteria causing my throat infection.</li>
+<li>Because the citizens believe the hurricane is going to annihilate the city, they are evacuating their homes.</li>
+<li>The boxer hopes to annihilate his opponent during the first round of the match.</li>
+<li>If the fire is not put out soon, it will annihilate the entire subdivision.</li>
+<li>With just a single spray, I can annihilate all of the ants on my kitchen counter.</li>
+<li>In the movie, the villain had enough nuclear weapons to annihilate most of the human race.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgd0a974f" class="outline-2">
+<h2 id="orgd0a974f"><span class="section-number-2">113</span> <a href="https://wordsinasentence.com/antecedent-in-a-sentence/">Antecedent</a></h2>
+<div class="outline-text-2" id="text-113">
+<p>
+<code>something that came before something else and may have influenced or caused it</code>
+</p>
+
+<ul class="org-ul">
+<li>Can you identify the antecedent that led to Jane’s emotional breakdown?</li>
+<li>The legal antecedent for this case can easily be found in the law library.</li>
+<li>In a certain way, my mother is my antecedent because without her I never would have been born.</li>
+<li>The sentence you wrote is a bit confusing because the pronoun does not have an antecedent describing the person to whom you are referring.</li>
+<li>Because Jamie is a peaceful man, there must have been some kind of antecedent which caused him to attack the stranger in the park.</li>
+<li>The act of working towards a goal is the necessary antecedent, which comes before completing that particular achievement.</li>
+<li>What antecedent caused the two nations to be at war?</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org33ff066" class="outline-2">
+<h2 id="org33ff066"><span class="section-number-2">114</span> <a href="https://wordsinasentence.com/aplomb-in-a-sentence/">Aplomb</a></h2>
+<div class="outline-text-2" id="text-114">
+<p>
+<code>confidence and skill shown, especially in a difficult situation; keeping your cool</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the negotiator handled the hostage situation with aplomb, the kidnapper released everyone without harm.</li>
+<li>Jason handled his first acting role with aplomb and won over his critics.</li>
+<li>During the bomb scare, the teacher managed the children with aplomb and kept everyone calm.</li>
+<li>Vincent was the first magician to successfully perform this magic trick with aplomb.</li>
+<li>Mark received a job offer because of his ability to handle tasks with aplomb.</li>
+<li>Although the awards host could not read the television prompter, he still performed his opening number with aplomb that made him the hit of the evening.</li>
+<li>Even though Jenny was nervous about dancing in her first recital, she executed her steps with aplomb and received a standing ovation from the audience.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org243d521" class="outline-2">
+<h2 id="org243d521"><span class="section-number-2">115</span> <a href="https://wordsinasentence.com/apostate-in-a-sentence/">Apostate</a></h2>
+<div class="outline-text-2" id="text-115">
+<p>
+<code>an individual who has rejected his faith or religious convictions</code>
+</p>
+
+<ul class="org-ul">
+<li>When John challenged his church’s views, the leaders began to see him as an apostate.</li>
+<li>Anne was viewed as a dangerous apostate once she left the cult.</li>
+<li>After Katie exposed the church’s secrets, she was regarded as an apostate.</li>
+<li>To reject a religion that preaches hate and intolerance, I’ll gladly become an apostate.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgeebd3a4" class="outline-2">
+<h2 id="orgeebd3a4"><span class="section-number-2">116</span> <a href="https://wordsinasentence.com/ardent-in-a-sentence/">Ardent</a></h2>
+<div class="outline-text-2" id="text-116">
+<p>
+<code>feeling great passion, or felt very passionately</code>
+</p>
+
+<ul class="org-ul">
+<li>When the rock star checks his mail, he almost always finds one or two bizarre gifts from some of his ardent fans.</li>
+<li>Paul feels out of place among his friends because of his ardent love of classical music.</li>
+<li>Melissa has always been an ardent supporter of the city’s community theater.</li>
+<li>As an ardent lover of nature, Philip plans at least two or three hiking vacations every year.</li>
+<li>As an ardent devotee of the Shopping Network, she had to restructure her budget to avoid going into bankruptcy.</li>
+<li>Megan had always had an ardent yearning to become a successful actress, so naturally she was elated at the glowing reviews of her performance.</li>
+<li>It’s amazing how even the most ardent desires you have as a teenager tend to fade away as you face the reality of adulthood.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3ea8ba4" class="outline-2">
+<h2 id="org3ea8ba4"><span class="section-number-2">117</span> <a href="https://wordsinasentence.com/arraign-in-a-sentence/">Arraign</a></h2>
+<div class="outline-text-2" id="text-117">
+<p>
+<code>to charge someone in a court of law</code>
+</p>
+
+<ul class="org-ul">
+<li>His lawyer was not present when the suspect was set to arraign.</li>
+<li>They wanted to arraign the thief for stealing cars on the same day he was arrested.</li>
+<li>Before he was set to arraign, the judge liked to carefully review each case.</li>
+<li>The judge had to travel to the hospital to arraign the injured suspect.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgda0caef" class="outline-2">
+<h2 id="orgda0caef"><span class="section-number-2">118</span> <a href="https://wordsinasentence.com/arrant-in-a-sentence/">Arrant</a></h2>
+<div class="outline-text-2" id="text-118">
+<p>
+<code>complete, total, or utter (example: "arrant nonsense")</code>
+</p>
+
+<ul class="org-ul">
+<li>If you allow your son to participate in such arrant nonsense with his friends, he’s going to end up either hurt or in a juvenile detention center.</li>
+<li>I couldn’t believe she was taken in by such arrant deception.</li>
+<li>Because of his outrageous conceit and disregard for the feelings of others, Matt is no longer welcome among the A list of the town’s citizens.</li>
+<li>The kitten’s arrant mischievousness has gotten him into all sorts of mishaps.</li>
+<li>Despite what we’ve all been led to believe, it’s hard to argue with your arrant logic.</li>
+<li>Because of her arrant devotion to her family, she volunteered to go to the labor camp with them.</li>
+<li>Becky’s arrant flirtations with Tony backfired on her when he asked Charlotte to prom.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgdeee961" class="outline-2">
+<h2 id="orgdeee961"><span class="section-number-2">119</span> <a href="https://wordsinasentence.com/asinine-in-a-sentence/">Asinine</a></h2>
+<div class="outline-text-2" id="text-119">
+<p>
+<code>very stupid or foolish</code>
+</p>
+
+<ul class="org-ul">
+<li>How asinine of you to pay for a television in pennies!</li>
+<li>I will not tolerate your asinine behavior.</li>
+<li>Out of all the asinine things you have done before, wearing a swim suit in the snow tops the list.</li>
+<li>Allowing your children to smoke cigarettes is asinine.</li>
+<li>Your asinine attempt to lie in court is going to cost you big time!</li>
+<li>Chris would exhibit his asinine behavior by throwing garbage at the protestors.</li>
+<li>This asinine person had the nerve to cut me in line.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgca6330e" class="outline-2">
+<h2 id="orgca6330e"><span class="section-number-2">120</span> <a href="https://wordsinasentence.com/askance-in-a-sentence/">Askance</a></h2>
+<div class="outline-text-2" id="text-120">
+<p>
+<code>with doubt or suspicion</code>
+</p>
+
+<ul class="org-ul">
+<li>The wealthy man looked askance as the gang members approached him.</li>
+<li>Even though the church members were supposed to be welcoming, they still viewed the stranger askance.</li>
+<li>Employers tend to look askance at people who change jobs often.</li>
+<li>As the police officer listened to the woman’s crazy story, he could not help but look askance at her.</li>
+<li>The insurance agent looked askance at the poor man’s million-dollar claim.</li>
+<li>When Frank’s rival offered him candy, he could only look askance at him.</li>
+<li>Carol looked askance at the unfamiliar man walking around her house.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org841dc9e" class="outline-2">
+<h2 id="org841dc9e"><span class="section-number-2">121</span> <a href="https://wordsinasentence.com/askew-in-a-sentence/">Askew</a></h2>
+<div class="outline-text-2" id="text-121">
+<p>
+<code>tilted to one side; in a crooked position</code>
+</p>
+
+<ul class="org-ul">
+<li>I’ve tried straightening out the poster three times, but it still looks askew.</li>
+<li>Even though his toupee is almost always askew, he is a funny, endearing character who is welcome at any get-together.</li>
+<li>When Mia came home and hung her new painting on the wall, she noticed that it was askew in the frame.</li>
+<li>The first thing Elizabeth noticed when she walked up the sidewalk to her house was that the curtains were askew, as if someone had been watching her from the window.</li>
+<li>Because the door had been installed askew, it had a tendency to swing open suddenly if I hadn’t closed it securely.</li>
+<li>Not waiting to knock, Marshall burst through the door with his eyes wild and his hat sitting askew on the side of his head.</li>
+<li>The detectives looked around the apartment for clues and noticed that the rug seemed to be set askew under the coffee table.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org07b640a" class="outline-2">
+<h2 id="org07b640a"><span class="section-number-2">122</span> <a href="https://wordsinasentence.com/aspersion-in-a-sentence/">Aspersion</a></h2>
+<div class="outline-text-2" id="text-122">
+<p>
+<code>a false charge meant to harm someone’s reputation</code>
+</p>
+
+<ul class="org-ul">
+<li>Jack’s political rival cast an aspersion against him right before the election.</li>
+<li>Because I know Janice is a kind person, I cannot believe the negative aspersion about her.</li>
+<li>Even though I am angry at you, I will not cast an aspersion upon your character.</li>
+<li>After Helen was dumped by her boyfriend, she went online and posted an aspersion about him.</li>
+<li>My friend Jill was right to direct an aspersion against her cheating husband.</li>
+<li>By spreading that aspersion, you could ruin the teacher’s reputation.</li>
+<li>The politician’s career was ruined by an aspersion created by his enemies.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgffb281b" class="outline-2">
+<h2 id="orgffb281b"><span class="section-number-2">123</span> <a href="https://wordsinasentence.com/assent-in-a-sentence/">Assent</a></h2>
+<div class="outline-text-2" id="text-123">
+<p>
+<code>to agree to something especially after thoughtful consideration</code>
+</p>
+
+<ul class="org-ul">
+<li>For a while, it seemed as if Karen was not going to assent to Jim’s marriage proposal.</li>
+<li>The policeman asked if I would assent to a search of my vehicle.</li>
+<li>When I told Frank I would never assent to a divorce, he stormed out of the house.</li>
+<li>After Jim read over his teacher’s notes, he could only assent he had not spent enough time on his research paper.</li>
+<li>Please raise your hands to show you assent to the proposal.</li>
+<li>Because John did not believe the salesman was being honest with him, he did not assent to the deal.</li>
+<li>As my marriage is quite important to me, I have decided to assent to couples' therapy.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9ac3e85" class="outline-2">
+<h2 id="org9ac3e85"><span class="section-number-2">124</span> <a href="https://wordsinasentence.com/assuage-in-a-sentence/">Assuage</a></h2>
+<div class="outline-text-2" id="text-124">
+<p>
+<code>to provide relief; causing to feel better</code>
+</p>
+
+<ul class="org-ul">
+<li>In an effort to assuage angry customers, the store issued everyone a full refund.</li>
+<li>To help assuage my guilt, I told the truth.</li>
+<li>Knowing that my grandfather pulled through heart surgery does assuage my nerves.</li>
+<li>Warm soup does very little to assuage my sore throat.</li>
+<li>Having friends by my side will assuage the worries of becoming a parent.</li>
+<li>While smoking may assuage stress, it will upset your overall health.</li>
+<li>Aspirin will assuage your headache.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9404ffa" class="outline-2">
+<h2 id="org9404ffa"><span class="section-number-2">125</span> <a href="https://wordsinasentence.com/attire-in-a-sentence/">Attire</a></h2>
+<div class="outline-text-2" id="text-125">
+<p>
+<code>one's dress or clothes</code>
+</p>
+
+<ul class="org-ul">
+<li>The high school prom required formal attire, but no one was allowed to rent a limousine.</li>
+<li>After receiving his acceptance to the company, Dan wondered if he was allowed to wear casual attire or suit and tie.</li>
+<li>Most of the attendants at the mayor’s funeral wore similar attire so that it looked like a sea of dark blackness.</li>
+<li>When the man woke up on Saturday, he knew his attire would consist of an umpire’s uniform since he would be working at the little league games this season.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb4906fc" class="outline-2">
+<h2 id="orgb4906fc"><span class="section-number-2">126</span> <a href="https://wordsinasentence.com/augury-in-a-sentence/">Augury</a></h2>
+<div class="outline-text-2" id="text-126">
+<p>
+<code>a prediction or omen</code>
+</p>
+
+<ul class="org-ul">
+<li>There are those who view the virus as an augury of the world coming to an end.</li>
+<li>According to the psychic, the black cat was an augury of my impending death.</li>
+<li>The gloomy music in the movie scene was an augury of an upcoming tragedy.</li>
+<li>When the fortuneteller read my palm, she saw an augury of bad luck.</li>
+<li>The clairvoyant gave me a depressing augury that made me want to stay indoors for my own safety.</li>
+<li>Throughout his painting, the artist uses the color red to represent an augury of death.</li>
+<li>I knew the white dove flying over my beach wedding was an augury of a bright future.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6000a63" class="outline-2">
+<h2 id="org6000a63"><span class="section-number-2">127</span> <a href="https://wordsinasentence.com/august-in-a-sentence/">August</a></h2>
+<div class="outline-text-2" id="text-127">
+<p>
+<code>much-admired and respected</code>
+</p>
+
+<ul class="org-ul">
+<li>Everyone wanted the chance to dine with the august president.</li>
+<li>When Maggie learned the party was at the august nightclub, she was excited by the thought of meeting some of her favorite celebrities.</li>
+<li>The critics raved about the august ballerina’s performance.</li>
+<li>Because John is wealthy and the only son of an august politician, he is one of the country’s most sought-after bachelors.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org709bd7f" class="outline-2">
+<h2 id="org709bd7f"><span class="section-number-2">128</span> <a href="https://wordsinasentence.com/aver-in-a-sentence/">Aver</a></h2>
+<div class="outline-text-2" id="text-128">
+<p>
+<code>to assert something in a convincing way</code>
+</p>
+
+<ul class="org-ul">
+<li>Even though the country is in an economic crisis, its leader will aver the nation is doing well during his monthly address.</li>
+<li>The team’s fans aver a new coach is needed because of the team’s losing record.</li>
+<li>During the interrogation, the suspect did nothing but aver his innocence.</li>
+<li>To ease unrest in our company, the boss made a speech to aver policy changes were coming.</li>
+<li>After our test drive, we listened as the car salesman tried to aver he was offering us the best deal in town.</li>
+<li>The political candidate’s ads aver he is the best choice for governor.</li>
+<li>When the teenager talked to her parents, she tried to aver her right for privacy by asking them to not monitor her computer.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org520eb0e" class="outline-2">
+<h2 id="org520eb0e"><span class="section-number-2">129</span> <a href="https://wordsinasentence.com/aversion-in-a-sentence/">Aversion</a></h2>
+<div class="outline-text-2" id="text-129">
+<p>
+<code>a feeling of disgust toward something with a desire to avoid it</code>
+</p>
+
+<ul class="org-ul">
+<li>Older people who are unfamiliar with computer technology often have an aversion to it.</li>
+<li>Because I am allergic to spiders, I have an aversion to the creatures.</li>
+<li>Vegetarians have a strong aversion to eating meat.</li>
+<li>When I run into my ex-husband, I experience an aversion so powerful that it makes me sick to my stomach.</li>
+<li>Mitch has such an aversion to eating liver that he breaks out in hives whenever someone mentions the meat.</li>
+<li>Although the price of gasoline has risen three days in a row, drivers appear to have no aversion to filling their tanks.</li>
+<li>My aversion to stupidity keeps me from frequently interacting through social media.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org688e45b" class="outline-2">
+<h2 id="org688e45b"><span class="section-number-2">130</span> <a href="https://wordsinasentence.com/avow-in-a-sentence/">Avow</a></h2>
+<div class="outline-text-2" id="text-130">
+<p>
+<code>to admit or confess something publicly</code>
+</p>
+
+<ul class="org-ul">
+<li>Because the man would not avow himself as a follower of the king in front of the villagers, he was sentenced to death.</li>
+<li>Both of the candidates decided to avow their short comings in an effort to win public sympathy.</li>
+<li>Romeo set out to avow his love for Juliet in front of a crowd of onlookers.</li>
+<li>During the town hall meeting, I was too embarrassed to avow that I too had sent thousands of dollars to the senator’s illegal charity.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org38536ea" class="outline-2">
+<h2 id="org38536ea"><span class="section-number-2">131</span> <a href="https://wordsinasentence.com/awry-in-a-sentence/">Awry</a></h2>
+<div class="outline-text-2" id="text-131">
+<p>
+<code>away from the appropriate, planned, or expected course</code>
+</p>
+
+<ul class="org-ul">
+<li>After we hit the deer, our road trip seemed to go awry and off course.</li>
+<li>The inexperienced teacher did not know how to proceed when the troublesome student made her schedule go awry.</li>
+<li>When the serial killer was released from prison, everyone knew the justice system had gone awry.</li>
+<li>Mail delivery often goes awry during a winter storm.</li>
+<li>When there is no supervision, large events can go awry and become chaotic.</li>
+<li>You should have a backup plan for your wedding in case the weather causes the outdoor ceremony to go awry.</li>
+<li>In the movie, the hero must try and change the path of a nuclear missile that has gone awry.</li>
+</ul>
+
+
+
+
+
+
+<a id="bottom"/>
+<a href="#top">⇧</a>
+</div>
+</div>
+</div>
+</body>
+</html>
