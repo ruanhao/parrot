@@ -1,0 +1,1177 @@
+#+TITLE:     B
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/baffled-in-a-sentence/][Baffled]]
+
+  =totally confused or puzzled=
+
+  - The complex puzzle baffled me for several hours before I could connect all the pieces.
+  - Baffled by her son’s hostile behavior, Jane scheduled an appointment with a family therapist.
+  - The woman’s confusing testimony left the jury quite baffled.
+  - While my friend said she completely understood the author’s painting, I was baffled by the dark images on the canvas.
+
+
+
+* [[https://wordsinasentence.com/balk-in-a-sentence/][Balk]]
+
+  =refuse to comply=
+
+  - While my dog loves to go for walks in good weather, he will always balk if he gets the slightest whiff of rain in the air.
+  - Although Martin is pretty dependable about following the prescribed routine, he tends to balk at any tasks that call for extra effort.
+  - Monica knew that her husband would balk at going shopping for new clothes, so she told him they were going to see the new action movie.
+  - I guess my friends don’t trust me very much because they all balk at my request for them to cosign a loan.
+  - I’d like to get some new furniture for the living room, but I have a feeling my husband will balk at spending so much money.
+  - New parents will often balk at hiring a babysitter, especially if there is a grandparent readily available.
+  - Because Colleen will always balk at commitment, I’m afraid she’s always going to be single.
+
+
+
+* [[https://wordsinasentence.com/balm-in-a-sentence/][Balm]]
+
+  =similar to a lotion that is used to soothe dry skin=
+
+  - Since I was going to a place with a cold dry climate, I decided to get some balm to prevent my hands from getting dry.
+  - After shaking his dry cracking hand, I realized that the old man needed to rub some balm on his hands.
+  - Women who wash dishes all day usually use balm on their hands to bring moisture back to their skin.
+  - “Since my hands are dry, may I use your balm,” the girl asked her friend.
+
+
+
+* [[https://wordsinasentence.com/balmy-in-a-sentence/][Balmy]]
+
+  =enjoyable and gentle=
+
+  - The balmy climate immediately improved my spirits.
+  - On a balmy day, teenagers usually flock to the beach.
+  - Fortunately we planned our picnic on a balmy Saturday.
+  - The balmy breeze from the ocean created a comfortable environment for Scarlett’s afternoon wedding.
+  - In the winter months, a well-designed greenhouse provides a balmy climate for the plants.
+  - The evening was so balmy we decided to take a romantic carriage ride through the city.
+  - After the snowstorm, everyone was eager for a balmy day.
+
+
+
+* [[https://wordsinasentence.com/banal-in-a-sentence/][Banal]]
+
+  =boring because it contains nothing new and lacks originality=
+
+  - Because the movie’s plot was banal, we knew exactly how the film would end.
+  - At nearly every meeting, he made that same banal speech.
+  - I was bored to death because of his banal conversation.
+  - Filled with repetitive tasks, Sally’s job can only be described as banal.
+  - How can one enjoy banal romance novels when they are so predictable?
+  - His jokes consist of banal clichés we have heard too many times!
+  - Even though John put a great deal of thought into his song lyrics, they still sound pretty banal to me.
+
+
+
+* [[https://wordsinasentence.com/bane-in-a-sentence/][Bane]]
+
+  =something causing misery or death=
+
+  - Distraction is the bane of productivity when I’m trying to get anything done.
+  - Since loneliness can be the bane of old age, it’s important to maintain friendships and family connections as we grow older.
+  - Some people believe that technology is the bane of social interaction and that eventually no one will have to speak to another person face to face.
+  - Because of all the sinister villains who are the bane of Gotham City citizens, it seems that Batman’s work is never done.
+  - During the Jurassic period, the Tyrannosaurus Rex was the king of the dinosaurs and the bane of every living creature.
+  - All these offers for credit cards are the bane of my goal to live within my means.
+  - During the interview, the former president revealed that he had always thought that the media were the bane of his time in office.
+
+
+
+* [[https://wordsinasentence.com/banish-in-a-sentence/][Banish]]
+
+  =to cast out or away=
+
+  - The ghost hunters tried to banish the ghosts from the house.
+  - After the war is over, the king will banish the rebels from his kingdom.
+  - With a few words of encouragement, my husband managed to banish my fears.
+  - The newly installed government will banish the fallen dictator to a remote island.
+
+
+* Banter
+
+  - We need to help shy Sarah perfect her banter with the opposite sex.
+  - After the comedian ended his easy-going banter with the crowd, he thanked everyone for coming to his show.
+  - The play’s foolish character banter kept the audience laughing for two and a half hours.
+  - If the banter between the award presenters is not exciting, no one will watch the show.
+  - The teacher always gives us two or three minutes to banter with our friends before she starts the daily lesson.
+  - If Jay would rather banter online instead of studying for his exams, he should be prepared for his parents to cancel his phone service.
+  - I am not the type of person who likes to banter about celebrity gossip when I should be working.
+
+
+
+* [[https://wordsinasentence.com/baroque-in-a-sentence/][Baroque]]
+
+  =having a great deal of decorative embellishment; also referring to a time period in which heavy ornamentation was used in design, music, and art=
+
+  - The elaborate architecture of the baroque dwelling seemed out of place in the neighborhood of simply-designed homes.
+  - Looking through the camera lens, I was captivated by the highly crafted adornments that were a part of the church’s baroque architecture.
+  - The baroque picture frame was hand-carved and contained detailed etchings on the corners.
+  - During the Baroque Period in Europe, an individual was not considered fashionable unless his house was elaborately decorated.
+
+
+
+* [[https://wordsinasentence.com/bashful-in-a-sentence/][Bashful]]
+
+  =shy or easily embarrassed=
+
+  - The bashful student turned red with embarrassment.
+  - I am so bashful that I won’t even leave my house.
+  - Because Sally is bashful she won’t speak in public.
+  - Phil is too bashful to ask Ann out on a date.
+
+
+
+* [[https://wordsinasentence.com/bask-in-a-sentence/][Bask]]
+
+  =to obtain joy from receiving praise or attention=
+
+  - After a performance, the singer remains onstage for five minutes to bask in the audience’s adoration.
+  - The author will bask in the attention of his many devotees waiting outside the bookstore.
+  - Before the actor can bask in the admiration of his fans, he must take questions from the media.
+  - It was difficult for the shy educator to bask in the praise she received as Teacher of the Month.
+
+
+
+* [[https://wordsinasentence.com/beleaguer-in-a-sentence/][Beleaguer]]
+
+  =to cause constant or repeated trouble for=
+
+  - On Halloween, I know the little trick-or-treaters are going to beleaguer me all night long.
+  - Jane’s ex-husband tries to beleaguer her by intentionally mailing her child support payments late.
+  - If we do not spray our house with insect repellant, mosquitos will beleaguer us all summer.
+  - The school bully will often beleaguer the smaller kids.
+  - Because Sarah hates Allison, she always tries to beleaguer her to the point of tears.
+  - The politician expects his opponent to beleaguer him in the press.
+  - If you do not answer the little boy’s question, he will beleaguer you until you finally answer.
+
+
+
+* [[https://wordsinasentence.com/bellicose-in-a-sentence/][Bellicose]]
+
+  =demonstrating aggression and willingness to fight; eager for war=
+
+  - Don't cop that bellicose attitude with your mother!
+  - John had a bellicose personality which made him a fierce competitor during wrestling competitions.
+  - His bellicose behavior at the party ensured that he would not be invited again.
+  - Since she was constantly abused by her ex-husband, it is not surprising that she comes across as bellicose to men who approach her.
+  - Talk trash about my father again and I'll show you how bellicose I can be!
+  - The bellicose man approached me, eager to fight.
+  - If you must get bellicose with me, then I'll call the police.
+
+
+
+* [[https://wordsinasentence.com/belligerent-in-a-sentence/][Belligerent]]
+
+  =hostile; ready to fight=
+
+  - My brother was always belligerent and ready to fight.
+  - While the members of the president’s cabinet wanted him to take a belligerent stance against a neighboring country, the president sought a peaceful compromise.
+  - You make more friends being nice than you do by being belligerent.
+  - If you want to see a belligerent dog, you should attempt to take his food while he is eating it.
+  - Because the pharmacy is closed, Jack is unable to get his pain medicine and is becoming increasingly belligerent.
+  - Hopefully when the war ends, there will be no belligerent souls among us.
+  - Since my sister is a belligerent driver who honks her horn constantly, I try to avoid riding anywhere with her.
+
+
+
+* [[https://wordsinasentence.com/bemused-in-a-sentence/][Bemused]]
+
+  =preoccupied or lost in thought=
+
+  - After listening to the confusing lecture, the college girl was bemused.
+  - When reading, the librarian usually wore a bemused expression on her face.
+  - During the festival, I was a little bemused by all the noise at the park.
+  - The bemused police officer did not notice the carjacking.
+  - While trying to find a cure for the disease, the scientist appeared bemused.
+  - I could not talk to my teacher yesterday because he was bemused with questions from my peers.
+  - Because I was bemused by all the traffic around me, I missed my exit on the highway.
+
+
+
+* [[https://wordsinasentence.com/beset-in-a-sentence/][Beset]]
+
+  =to surround or attack from all sides=
+
+  - The expectant mother was beset with a new set of anxieties every time she heard some of her friends’ stories about childbirth.
+  - The company was beset by a flood of lawsuits after their new invention led to injuries among hundreds of their customers.
+  - The drought had been going on for three years, and the whole state was beset with a serious shortage of water.
+  - His paper was published without his knowledge or permission, whereupon he was beset by accusations of plagiarism.
+  - After they had been beset by an inordinate amount of policy changes, the staff demanded a meeting with the administration.
+  - Whenever you feel that you’re beset by insurmountable problems, ask someone for help.
+  - Once the company made the decision to end the practice of supporting the charity, the executives realized that they were beset by an accelerated turnover rate.
+
+
+
+* [[https://wordsinasentence.com/besiege-in-a-sentence/][Besiege]]
+
+  =to approach with an excessive number of requests or questions=
+
+  - The journalists will besiege the police chief with questions about the prisoner’s escape.
+  - On Black Friday, customers will besiege store employees with thousands of product requests.
+  - The homeless people will often besiege tourists with their pleas for money.
+  - If you don’t want the flea market vendors to besiege you with offers, continue walking when they try and move in front of you.
+
+
+
+* [[https://wordsinasentence.com/bewildered-in-a-sentence/][Bewildered]]
+
+  =puzzled or confused=
+
+  - Jason was bewildered by the strange noises coming from his neighbor’s house.
+  - When the soldier woke up after being frozen for sixty years, he was bewildered by all the changes in the world.
+  - The stuffed cat bewildered the curious kitten.
+  - Whenever the puppy looked in the mirror, he was bewildered by his reflection and kept barking at the other dog.
+  - Marge and Jake were bewildered by their teenage son’s word choices.
+  - Bewildered by the job application, Meredith sought out the manager to ask him a few questions.
+  - The bewildered referees had to watch the play again before they could make a ruling.
+
+
+
+* [[https://wordsinasentence.com/blatant-in-a-sentence/][Blatant]]
+
+  =completely obvious, especially in an offensive manner=
+
+  - When the judge heard the defendant’s blatant lie, he became very angry.
+  - The drunk driver’s blatant disregard for the lives of others earned him seven years in prison.
+  - If you want to show your respect for a police officer, it is not wise to offer him a blatant bribe.
+  - In prison, a blatant act of disobedience will get you placed in isolation.
+  - After the player deliberately hit the quarterback in a rough manner, he was charged with a blatant foul.
+  - Your blatant lie about having car insurance is not going to win you any favors in traffic court.
+  - When the waitress ignored the African American family, everyone felt as though it was a blatant case of racism.
+
+
+
+* [[https://wordsinasentence.com/blithe-in-a-sentence/][Blithe]]
+
+  =carefree and unconcerned=
+
+  - The rebellious teenager was blithe about her failing grades.
+  - Although Marcia seems to have a blithe attitude about her job, she is really concerned about moving up at her firm.
+  - The father’s blithe behavior towards his children led the police to remove his kids from the home.
+  - Because my answers came across as blithe during the interview, I did not receive a job offer.
+  - Bill’s actions were blithe and showed he had no regard for other people.
+  - Even though my niece has to pay her bills soon, she is blithe about not having a steady income.
+  - When the hardened criminal sneered at the judge, everyone knew he was blithe about his life sentence.
+
+
+
+* [[https://wordsinasentence.com/bolster-in-a-sentence/][Bolster]]
+
+  =to make something stronger or bolder=
+
+  - Free tickets were given away to bolster attendance at the game.
+  - If I want to feel better about myself, I need to bolster my self-esteem.
+  - You should be hesitant to drink any beverage which claims to bolster your energy level.
+  - In order to bolster its profits, the computer company is cutting its workforce.
+  - The defense attorney hoped to bolster his case by providing his client with a solid alibi.
+  - Raising your voice is not a good way to bolster your position during an argument.
+  - Did you fake an illness to bolster sympathy from your ex-boyfriend?
+
+
+
+* [[https://wordsinasentence.com/bombastic-in-a-sentence/][Bombastic]]
+
+  =one who is full of himself; a self absorbed person; giving oneself high self-esteem or exaggerated dignity=
+
+  - Because he is a bit too bombastic for me, I will not be voting for that politician again!
+  - His bombastic rant made her rethink her decision to go on a date with him.
+  - Determined to gain his girlfriend’s forgiveness, the teenager made a bombastic declaration in front of the entire school.
+  - I cannot believe the minister’s bombastic sermon lasted three hours!
+  - Bombastic by nature, Daryl did not fit in with the quiet chess players.
+  - If you want to sell your energy drink, then you must use bombastic claims in your commercials.
+  - The angry student made bombastic threats about blowing up the school.
+
+
+
+* [[https://wordsinasentence.com/bonanza-in-a-sentence/][Bonanza]]
+
+  =a large amount of a thing that is viewed as desirable=
+
+  - Once I was a lonely girl, but social media has changed that by providing me with a bonanza of friends.
+  - Valentine’s Day produces a bonanza of wealth for candy companies.
+  - Because football is extremely popular, the Super Bowl is always a ratings bonanza for the television station that airs it.
+  - The reality star knows posting a nude selfie will trigger a bonanza of publicity for her.
+
+
+
+* [[https://wordsinasentence.com/boon-in-a-sentence/][Boon]]
+
+  =a benefit or blessing for which one should be grateful=
+
+  - The donation from the billionaire was a nice boon for the homeless charity.
+  - When controversy broke out about the author’s upbringing, it was a welcome boon for his book sales.
+  - The relocation of the car factory to our struggling town is an economic boon.
+  - Because Gerald has such a hectic schedule, he considers the flexibility of online classes to be a huge boon.
+  - The pain medicine is a longed-for boon to the dying woman.
+  - Since Alicia has no cooking skills, she considers her microwave to be a major boon.
+  - The thousand-dollar tip was a boon to the struggling college student.
+
+
+
+* [[https://wordsinasentence.com/braggart-in-a-sentence/][Braggart]]
+
+  =an individual who brags a great deal=
+
+  - My rich uncle is a braggart who constantly boasts about his possessions.
+  - Since Jim does not want to be seen as a braggart, he never talks about the expensive gifts he receives from his father.
+  - The braggart in the bar keeps talking about all the celebrities he supposedly knows.
+  - When the braggart in our neighborhood got a sports car, he kept driving around so everyone would see his vehicle.
+
+
+
+* [[https://wordsinasentence.com/brassy-in-a-sentence/][Brassy]]
+
+  =looking like brass=
+
+  - The brassy jewelry shined with a golden twinkle in the sunlight.
+  - During the fall, the red and brassy gold leaves of the trees are a beautiful sight to see.
+  - Because her hair already has a brassy hue, the girl asked for golden highlights at the salon.
+  - Because it isn’t a bright brassy color, the instrument will need to be shined before the performance.
+
+
+
+* [[https://wordsinasentence.com/brazen-in-a-sentence/][Brazen]]
+
+  =bold and without shame=
+
+  - In a brazen assault, the gang fired their weapons at the policeman.
+  - Despite the fact the pirates are wanted by several governments, they continue to attack vessels off the coast of their native country.
+  - When the actress took off her blouse in public, she shocked everyone with her brazen behavior.
+  - The thieves were brazen enough to leave a mocking note for the investigators.
+  - When I wasn’t looking, the brazen monkey reached out of his cage and grabbed my box of popcorn.
+  - The brazen crooks walked right into the store and stole the diamonds from behind the jewelry counter.
+  - Although Jenny knew she had not finished her assignment, she made a brazen attempt to fool her supervisor with a partially finished project.
+
+
+
+* [[https://wordsinasentence.com/brusque-in-a-sentence/][Brusque]]
+
+  =blunt in manner or speech to the point of harshness=
+
+  - What did I do to make you so brusque with me?
+  - The salesgirl’s brusque manner made me change my mind about shopping in the store.
+  - The brusque server will not be getting a tip from me!
+  - When we met in person, she came across as rather brusque.
+  - In certain cultures, it is natural for single women to be brusque when approached by men they do not know.
+  - Exhausted by a twelve hour flight, the singer had to work hard to not be brusque with her fans.
+  - Since he had burned so many bridges with his brusque attitude, no one wanted to work with him.
+
+
+
+* [[https://wordsinasentence.com/bulky/][Bulky]]
+
+  =large and heavily built or shaped=
+
+  - The bulky package was much too large to be placed in the small mailbox.
+  - Big and bulky, the bride’s dress barely fit inside the luxurious limousine.
+  - Our bulky Christmas tree was so colossal that the top touched the top of the ceiling.
+  - Dressed in bulky, oversized clothes, the children waded out into the snow for a day of fun.
+
+
+
+* [[https://wordsinasentence.com/buoyant-in-a-sentence/][Buoyant]]
+
+  =joyful and self-assured=
+
+  - With a great deal of confidence, the buoyant model strolled down the runway.
+  - When I talked to my doctor, he was buoyant about my weight loss under the new diet.
+  - Jim was buoyant after he received a job offer during his first interview.
+  - As the stock market hit a record high, the buoyant investors were celebrating.
+  - Nothing could interfere with Jenna’s buoyant mood on her wedding day.
+  - Because Christmas bonuses are being paid today, the company employees are feeling quite buoyant.
+  - The student was not buoyant when his teacher told him he would be repeating seventh grade next year.
+
+
+
+* [[https://wordsinasentence.com/burgeon-in-a-sentence/][Burgeon]]
+
+  =to grow and expand rapidly=
+
+  - As car prices go down, car dealers are expecting sales to burgeon.
+  - Because Janice is pregnant with triplets, everyone is expecting her stomach to burgeon quickly.
+  - Left untreated, the weeds in the front yard will burgeon and take over the entire property within days.
+  - Since people are becoming more and more dissatisfied with public schools, the number of charter schools is expected to burgeon within the next five years.
+  - Were you surprised when a romance started to burgeon between the doctor and his favorite nurse?
+  - When the new factory is built, job opportunities are expected to burgeon in our community.
+  - After Katy won the lottery, her spending habits started to burgeon.
+
+
+* Buttress
+
+  - For over two centuries, the U.S. Constitution has been a buttress for the government.
+  - Claudio’s professor told him he needed to do some more research to find data to be a buttress for his theory.
+  - While other families were struggling during the Great Depression, my grandmother was the buttress of her immigrant family as she constantly encouraged them not to give up on their dreams.
+  - Because someone had designed the walls without a proper buttress, the whole building collapsed within a year after it was built.
+  - To buttress his lecture, Dr. Wren prepared a PowerPoint presentation of fifty slides.
+  - Just when the exhausted troops thought they would have to surrender, three more units were sent in to buttress their position.
+  - If you don’t use quality materials to buttress the balcony, someone could get seriously hurt when it falls down.
+
+
+
+* [[https://wordsinasentence.com/byzantine-in-a-sentence/][Byzantine]]
+
+  =complex; hard to comprehend=
+
+  - Because the plot was revealed in a byzantine manner, it was difficult to understand.
+  - I was totally confused after listening to the byzantine recording.
+  - As Kyle walked through the byzantine maze, he became more and more confused.
+  - Meg had several questions after reading the byzantine document.
+
+* [[https://wordsinasentence.com/badger-in-a-sentence/][Badger]]
+
+  =to bother or pester=
+
+  - My daughter will badger me until I explain to her how to tie her shoes.
+  - Because he would always badger me, I decided not to tutor my neighbor.
+  - Not wanting to badger my supervisor, I often sought out answers from other coworkers.
+  - The little boy I babysit for would constantly badger me about how things work.
+
+
+
+* [[https://wordsinasentence.com/balderdash-in-a-sentence/][Balderdash]]
+
+  =ridiculous thoughts or words=
+
+  - Every word that came out of the drunk man’s mouth was balderdash.
+  - Since the politician has no proof of his opponent’s wrongdoings, his claims are viewed as balderdash.
+  - People referred to the old man’s crazy ideas as balderdash.
+  - It was hard for the nurse to make sense of the balderdash spoken by the mental patient.
+
+
+
+* [[https://wordsinasentence.com/bale-in-a-sentence/][Bale]]
+
+  =a bundle of something (paper, hay, etc.) tightly bound together=
+
+  - The first little pig needed another compressed bale of straw to finish building his house.
+  - Because the horse is still hungry, another bale of hay will need to be delivered to the farm with the other rolls.
+  - A machine was used to compact the bale of cans so that it could easily be stacked on top of the other bundles.
+  - The cardboard will be smashed and bound into a bale to prevent waste and prepare for recycling.
+
+
+
+* [[https://wordsinasentence.com/ballyhoo-in-a-sentence/][Ballyhoo]]
+
+  =a fuss or excessive publicity=
+
+  - A ballyhoo was made over the silly video.
+  - The ballyhoo was overdone to drum up publicity.
+  - Diane made a ballyhoo out of her celebratory status.
+  - The musical was excellent, living up to its ballyhoo.
+
+
+
+* [[https://wordsinasentence.com/barrister-in-a-sentence/][Barrister]]
+
+  =a British lawyer who is allowed to argue cases in the higher law courts=
+
+  - While presenting his case in front of a judge, the barrister explained his client’s position.
+  - Even the barrister did not believe the innocence of his client, but he had to defend him anyway.
+  - The barrister presented the court with the written statement of his argument.
+  - After questioning the witness on the stand, the barrister asked for a recess to discuss matters with his client.
+
+
+
+* [[https://wordsinasentence.com/bawl-in-a-sentence/][Bawl]]
+
+  =to cry extremely loudly=
+
+  - Even as the spoiled rich girl put on her diamond bracelets, she would bawl about how her parents didn’t love her.
+  - The man didn’t want to sit next to the woman with the baby because he was certain the infant would bawl the entire flight.
+  - If the dog dies, my son will probably bawl for months.
+  - The police officer knew the woman would bawl when she heard about her daughter’s disappearance.
+
+
+
+* [[https://wordsinasentence.com/bazaar-in-a-sentence/][Bazaar]]
+
+  =a market (frequently seen in the Middle East) that offers an assortment of items for purchase=
+
+  - While shopping at the bazaar, I found a number of international foods.
+  - The open-air bazaar in Cairo is one of the few places where I can buy my husband’s favorite fish.
+  - During the weekends, the bazaar is always crowded with shoppers.
+  - The vendors in the bazaar advertise their wares by yelling out to prospective customers.
+
+
+
+* [[https://wordsinasentence.com/beacon-in-a-sentence/][Beacon]]
+
+  =a thing or person that provides guidance to people=
+
+  - The lighthouse is a beacon for ships lost in the night.
+  - To many, the church is a beacon that offers hope to lost individuals.
+  -  The plane’s emergency beacon led rescuers to the wreckage.
+  - When I looked up in the sky, I saw the beacon atop city hall and realized I wasn’t lost at all.
+
+
+
+* [[https://wordsinasentence.com/beatific-in-a-sentence/][Beatific]]
+
+  =heavenly or blessed=
+
+  - The bride looked angelic and wore a beatific expression as she walked down the aisle.
+  - Because the shrine is considered beatific, locals are very concerned about tourists destroying the purity of the site.
+  - Jane found hope in prayer and left the church service with a beatific expression on her face.
+  - As the priest began the christening ceremony, he gave the newborn a beatific smile.
+
+
+
+* [[https://wordsinasentence.com/beckon-in-a-sentence/][Beckon]]
+
+  =to motion for an individual to come closer=
+
+  - Because I was hungry, the restaurant seemed to beckon to me.
+  - The woman at the bar will beckon you over if she’s interested in getting to know you better.
+  - As we walked through the flea market, the vendors would beckon us into their shops.
+  - The siren uses her voice to beckon sailors to her island.
+
+
+
+* [[https://wordsinasentence.com/bedraggled-in-a-sentence/][Bedraggled]]
+
+  =messy and filthy=
+
+  - The neglected puppy was bedraggled and near-death.
+  - Once the bedraggled homeless man gets a hot shower and a warm meal, he will be a new man.
+  - Are they really turning the bedraggled tenements into luxury condominiums?
+  - The old man hired someone to clean up his bedraggled garden.
+
+
+* [[https://wordsinasentence.com/befuddled-in-a-sentence/][Befuddled]]
+
+  =puzzled; baffled=
+
+  - Even with my professor’s help, I was still befuddled by the complicated chemistry formula.
+  - The befuddled old man could not remember where he lived.
+  - After Kate woke up in a stranger’s bedroom with a major headache, she was befuddled about her activities of the previous evening.
+  - My grandfather was completely befuddled by the smartphone I gave him.
+
+
+
+* [[https://wordsinasentence.com/beget-in-a-sentence/][Beget]]
+
+  =to cause (something) to happen or exist=
+
+  - In my dysfunctional family, fighting never failed to beget more fighting.
+  - High levels of unemployment often beget high levels of crime.
+  - When I became a millionaire, I proved that growing up poor did not beget an entire lifetime of poverty.
+  - The foolish decision to drink and drive may beget your early death.
+  - In most cases, high prices do not beget more sales.
+  - Miserable hotel employees do not beget happy hotel guests.
+  - If Matt does not learn to control his jealousy, he is sure to beget his wife’s anger.
+
+
+
+* [[https://wordsinasentence.com/begrudge-in-a-sentence/][Begrudge]]
+
+  =to be envious of what one feels another does not deserve=
+
+  - It is impossible for me to not begrudge my neighbor of the ten million dollars he won in the lottery.
+  - Although Jane did not complete enough work to earn the bonus, she still had the nerve to begrudge Heather’s reward.
+  - Rick takes pleasure in earning his own money and does not begrudge the inherited wealth of others.
+  - Since the researcher had been looking for a cure for over twenty years, he could not help but begrudge his rival’s success in finding the cure after only two years of research.
+  - Do not begrudge Marie of her success because she has worked hard to become a leader in the firm.
+  - Because James gets a lot of women, I often begrudge his movie star looks.
+  - Since Linda was recently left at the altar, she found it difficult to not begrudge her sister’s wedding day happiness.
+
+
+
+* [[https://wordsinasentence.com/behold-in-a-sentence/][Behold]]
+
+  =to see, or to look at=
+
+  - Watching the fight at the arena was a sight to behold.
+  - When I arrived home early, I was shocked to behold a thief attempting to break into my house.
+  - One of my wishes is to behold the greatest wonders of the world.
+  - I walked into the lunchroom to behold my enemies sitting at the same lunch table.
+
+
+
+* [[https://wordsinasentence.com/beholden-in-a-sentence/][Beholden]]
+
+  =owing something in return for service or help=
+
+  -  Stan refused to accept a college loan because he didn’t want to feel beholden to anyone.
+  - Since Kevin is the company’s president, he feels beholden to his employees and works hard to ensure they are treated fairly.
+  - The bestselling author is beholden to his fans and regularly communicates with them on social media.
+  - When the actress accepted the award, she stated she was beholden to her parents for inspiring her to follow her dreams.
+
+
+
+* [[https://wordsinasentence.com/behoove-in-a-sentence/][Behoove]]
+
+  =in an individual’s interest=
+
+  - If you seriously want to get your driving permit, it would behoove you to start studying for the computer test.
+  - It would behoove my husband to take his medication as his doctor instructed.
+  - In the interest of establishing a good relationship with my neighbors, it would behoove me to go over to their houses and introduce myself.
+  - If the city hires more police officers, they would be taking an action that would behoove everyone in our rapidly growing town.
+  - It would behoove us to leave for the airport at least two hours before our plane is scheduled to depart.
+  - Because Peggy wants to lose weight, it would behoove her to drink more water and fewer soft drinks.
+  - I told my daughter if she wanted to see an increase in her allowance it would behoove her to complete her chores in a timely manner.
+
+
+
+* [[https://wordsinasentence.com/belabor-in-a-sentence/][Belabor]]
+
+  =to emphasize an idea or suggestion too much in a way that becomes boring or annoying; to go on and on about something=
+
+  - If you’re just going to continue to belabor the point, I’m going home.
+  - If the author hadn’t taken up so much space to belabor his viewpoint on the politics of the time, the novel would have been shorter and easier to read.
+  - He has a tendency to belabor the obvious, so he wasn’t voted in as chairman.
+  - Some people use social media as a means to belabor their own views on an issue.
+  - Even though I don’t want to belabor the facts about how difficult it is to get into veterinary school, you should know that it’s wise to have a Plan B.
+  - Because the speaker was inclined to belabor every point of his speech, the exhausted audience lost interest in everything he had to say.
+  - When an issue is as important as preventing domestic abuse, it’s impossible to belabor any relevant point.
+
+
+
+* [[https://wordsinasentence.com/berate-in-a-sentence/][Berate]]
+
+  =to yell at; to criticize or scold someone in a loud and angry way=
+
+  - Shamefaced, the students sat quietly as Mrs. Garcia continued to berate them for the way they had treated the substitute.
+  - Because the bailiff had brought the message that the jury could not reach a decision, the judge called them into the courtroom to berate them about how a hung jury was a waste of taxpayers’ money.
+  - During his first term of office, the President was constantly having to berate Congress for obstructing his proposed legislation.
+  - As the director started to berate the cast for the hundredth time, several of the lead actors walked out.
+  - Gwen always tried to get to the office on time because she knew that Mr. Bergman would berate her if she didn’t have his coffee on his desk promptly at nine.
+  - Every time the referee made a questionable call, the fans would berate him and throw beans on the field.
+  - The members of the congregation squirmed in the pews and wished that the minister wouldn’t berate them for the sins of people who never came to church.
+
+
+
+* [[https://wordsinasentence.com/berserk-in-a-sentence/][Berserk]]
+
+  =out of control with high emotions; wild=
+
+  - Jimmy went totally berserk when Sandra told him that she was breaking off their engagement.
+  - The berserk animal began running around our yard, slamming itself against the windows.
+  - It is hard to live in berserk weather where one day it’s boiling hot and the next day it’s so cold that you have to layer up.
+  - I am afraid to be alone with Tom because when he gets upset he goes totally berserk as if he is mentally ill.
+
+
+
+* [[https://wordsinasentence.com/beseech-in-a-sentence/][Beseech]]
+
+  =to ask someone for something in an urgent and sincere way=
+
+  - As soon as I reach the driving age, I will beseech my parents to buy me a car.
+  - Because we were trying to sleep, my husband went out of his way to beseech our neighbor to turn down his loud music.
+  - I beseech you to lower your weapon before the police officers shoot you!
+  - As a former student who was bullied in school, I beseech all teachers to be aware of what occurs in their classrooms.
+  - Rather than be evicted for nonpayment of his rent, Gary planned to beseech his parents for a loan.
+  - I beseech you to give me something to eat before I die of hunger.
+  - If you want to avoid a misunderstanding, I beseech you to consider your words before speaking.
+
+
+
+* [[https://wordsinasentence.com/besmirch-in-a-sentence/][Besmirch]]
+
+  =to smear an individual’s reputation or character=
+
+  - The woman’s adultery accusation is sure to besmirch the married politician’s reputation.
+  - Because Gail wanted her supervisor’s job, she did everything in her power to besmirch the woman’s character.
+  - The convict tried to besmirch the arresting detective’s name in hopes of having his conviction overturned.
+  - After being kicked out of the country club, Marcus did everything within his power to besmirch the name of the establishment.
+  - How dare you threaten to besmirch my name if I refuse to pay your blackmail demands!
+  - Although James never meant to besmirch his wealthy family’s name, he did tarnish their reputation when he got arrested.
+  - Cathy went out of her way to besmirch her husband’s character during their divorce proceedings.
+
+
+
+* [[https://wordsinasentence.com/besotted-in-a-sentence/][Besotted]]
+
+  =strongly infatuated or obsessed=
+
+  - The besotted mother treated her child like a princess, despite the fact that she risked spoiling her.
+  - Tim is a besotted basketball fan who dreams of playing for the Knicks.
+  - Laura is besotted with her husband to the point that become frantic when he comes home late from work.
+  - Whiffing my Aunts freshly backed loaves of bread while still in the oven, I was besotted by the smell.
+
+
+
+* [[https://wordsinasentence.com/betoken-in-a-sentence/][Betoken]]
+
+  =indicate or specify=
+
+  - In college, a sock wrapped around the door knob serves to betoken a roommate has a guest and does not wish to be disturbed.
+  - The flashing of the buttons on the console does indeed betoken the need for new batteries in the unit.
+  - If the man is the spy, his use of the password will betoken his identity.
+  - Gail put a sign in her yard to betoken she would be graduating soon.
+
+
+
+* [[https://wordsinasentence.com/bicker-in-a-sentence/][Bicker]]
+
+  =to argue about inconsequential or unimportant things=
+
+  - Young children are more likely to bicker about things that really don’t matter, such as who gets to play with a certain toy or who gets to ride in the front seat of the car.
+  - Even adults are prone to bicker about petty things, especially over the internet where there is no one to truly reprimand them for it.
+  - Parents are often annoyed when their children bicker over silly things, mostly because the problems of the adults are much more serious.
+  - Many people choose to bicker with others over things they know aren’t important simply because they do not want to admit that they are wrong.
+
+
+
+* [[https://wordsinasentence.com/bifurcate-in-a-sentence/][Bifurcate]]
+
+  =divided or forked into two=
+
+  - If citizens are worried about a government having too much power, a bifurcate government would allow one branch to check the other branch
+  - The bifurcate system limited the control for the company so that both departments helped control each other.
+  - I noticed that the bifurcate stem allowed flowers to produce in opposite directions angling toward the sky.
+  - With a very small family, I had only a bifurcate family tree showing only my mother’s side and my father’s side.
+
+
+* [[https://wordsinasentence.com/bigot-in-a-sentence/][Bigot]]
+
+  =a person who is obstinately or intolerantly devoted to his or her own opinions and prejudices=
+
+  - The bigot was a lonely old man who thought everyone was inferior to him.
+  - Because Helen is very close-minded, many people consider her to be a bigot.
+  - Although Jason does not have any friends outside of his race, I do not consider him to be a bigot.
+  - My mother is a self-proclaimed bigot who believes all teenagers are bad.
+  - Because Donald is a bigot, he is always looking for a reason to dislike a particular group of people.
+  - Elaine is a racist bigot who refuses to speak to anyone of a different race.
+  - The man who lives next to me is an unpleasant bigot who disagrees with everyone in the neighborhood.
+
+
+
+
+* [[https://wordsinasentence.com/bilk-in-a-sentence/][Bilk]]
+
+  =defraud, cheat=
+
+  - Because he has always been so anti-government, he constantly accuses the President and Congress of trying to bilk tax-payers out of their hard-earned cash.
+  - Be careful with your inheritance because there are a lot of schemes designed to bilk novice investors with claims of easy money.
+  - If those bullies at school continue to bilk Victor out of his lunch money, his father is going to enroll him in Karate classes.
+  - Fly-by-night contractors are famous for trying to bilk homeowners out of thousands of dollars for so-called home improvements that are never completed.
+  - The charge for shipping and handling on a so-called free product is just a sneaky way to get your credit card information and bilk you of more money every month.
+  - While most people have heard of how Ponzi schemes have destroyed the lives of thousands of unfortunate victims, there are is always some new villain out there ready to bilk you of your life savings.
+  - Although she has her phone number on the Do Not Call list, telemarketers are still calling her to try to bilk her out of money for all kinds of products she doesn’t need.
+
+
+
+* [[https://wordsinasentence.com/blandishment-in-a-sentence/][Blandishment]]
+
+  =the use of flattery (sweet-talk) and enticements to persuade somebody gently to do something=
+
+  - Even though the salesman produced every blandishment he could think of from his bag of tricks, his prospect wouldn’t be budged by his flattery.
+  - As Derek waited for Missy to come to the phone, he tried to think of a suitable blandishment to provide before he asked her to go out with him.
+  - Despite his nervousness at meeting his in-laws, Dylan was able to offer just the right blandishment to get their approval.
+  - Because Janice was tired of every stale blandishment bestowed on her by the immature boys in her class, she was thrown off-guard by the apparent sincerity of Alec’s compliment.
+  - While Tad had tried one blandishment after another on his mom, in the end she was impressed, and she grounded him for a week.
+  - Compared to other times he had been in the doghouse with his wife, John knew that this time would call for an expensive gift to accompany the proper blandishment to keep from having to sleep on the sofa.
+  - As the candidate worked the crowd, he kept smiling and offering some blandishment with every handshake.
+
+
+
+* [[https://wordsinasentence.com/blase-in-a-sentence/][Blase]]
+
+  =indifferent because of frequent exposure=
+
+  - After going on eight cruises, I am blasé about the whole cruising experience.
+  - The actor was so frequently in front of the camera that he simply looked upon his paparazzi followers with a blasé attitude.
+  - Since a new smartphone comes out practically every month, Hank is blasé to the latest technological invention.
+  - The frustrated mother was blasé about her toddler sobbing whenever he did not get his way.
+  - After working under Sarah for ten years at the plant, I am blasé to her frequent mood changes and can easily ignore them.
+  - Since Sally had spent most of the summer at the amusement park, she was blasé about returning there for her birthday party in the fall.
+  - Jake is blasé about his wife’s extramarital affairs and refuses to divorce her.
+
+
+
+* [[https://wordsinasentence.com/blather-in-a-sentence/][Blather]]
+
+  =to ramble on for a long period of time=
+
+  - I didn’t want to listen to my teacher blather on about his sister’s wedding in math class.
+  - Unless I walk towards my grandmother’s front door, she will blather about every president during her lifetime and keep me for hours.
+  - The politician plans to blather for hours in an attempt to stop voting on the bill.
+  - When I go to social media sites, I’m sometimes sickened by the meaningless blather I find in ridiculous posts.
+
+
+
+* [[https://wordsinasentence.com/bleak-in-a-sentence/][Bleak]]
+
+  =devoid of enthusiasm or life=
+
+  - At the funeral, the widow looked bleak and lost.
+  - Jim has been drinking a lot of beer lately because of his bleak job situation.
+  - To the young girl, her upcoming marriage to the elderly man signaled a bleak future.
+  - The yard looks incredibly bleak without any plants.
+
+
+
+* [[https://wordsinasentence.com/bleary-in-a-sentence/][Bleary]]
+
+  =blurred eyes from being tired, upset, or as a result of old age=
+
+  - She wiped the sleep from her bleary eyes and yawned.
+  - He blinked rapidly to clear his bleary eyes.
+  - She woke to the sound of her phone ringing and struggled to read the screen with her bleary eyes.
+  - The elderly man’s eyesight became bleary and clouded with age.
+
+
+
+* [[https://wordsinasentence.com/blemish-in-a-sentence/][Blemish]]
+
+  =a small flaw or imperfection that ruins the appearance of something=
+
+  - Oliver was worried that the small blemish on the tip of his nose would stand out in the wedding photographs.
+  - George is a picky eater who throws away any fruit or vegetable that has the slightest blemish.
+  - Debra’s wedding ring is free of the slightest blemish, which is why it cost James so much money.
+  - Herman returned the suit that he purchased at Macy’s because it had a small blemish in the lapel.
+
+
+
+* [[https://wordsinasentence.com/blunt-in-a-sentence/][Blunt]]
+
+  =very direct in one's words, usually in a negative manner and in a rude way=
+
+  - My aunt is quite blunt so it was no surprise when she gave her opinions on the unsightly décor.
+  - I’ve lost friends due to being a very blunt person and speaking my mind.
+  - When I was very blunt about her new relationship, my friend became upset.
+  - When she asked me to be blunt, I don’t think she expected me to be so forthcoming.
+
+
+
+* [[https://wordsinasentence.com/bode-in-a-sentence/][Bode]]
+
+  =being a predictor of a specific result or outcome=
+
+  - The harsh reviews do not bode kindly on the playwright’s latest stage production.
+  - Because I am a light sleeper, the dog’s barking does not bode well for my desire to take a nap.
+  - Poor sales do not bode favorably for the success of the new store.
+  - Does the high rate of unemployment bode poorly for the economy?
+
+
+
+* [[https://wordsinasentence.com/boggle-in-a-sentence/][Boggle]]
+
+  =to baffle or confuse someone’s mind=
+
+  - Difficult math equations and tricky logic questions were enough to boggle the minds of the students.
+  - Her mother’s crazy behavior would always boggle the mind of the confused girl.
+  - Learning that the old china was worth several thousand dollars was enough to boggle the mind of the owner.
+  - Nothing can boggle the mind like learning that a person you love is not who they say they are.
+
+
+
+* [[https://wordsinasentence.com/bondage-in-a-sentence/][Bondage]]
+
+  =the condition of being restrained=
+
+  - The prisoner’s bondage will prevent him from attacking people in court.
+  - When Ted learned his wife was interested in bondage, he purchased materials that could be used to restrain her.
+  - Chaining slaves together was one of the methods used by slave traders to keep their human property in bondage.
+  - After the airplane crashed, seatbelt malfunctions left many passengers in bondage.
+
+
+* [[https://wordsinasentence.com/bonhomie-in-a-sentence/][Bonhomie]]
+
+  =friendliness; a pleasant, good-natured manner=
+
+  - The life-long friends experienced a sense of bonhomie whenever they got together.
+  - The group leader wanted to facilitate bonhomie among the new members.
+  - Wanting a smooth school year, the Resident Assistant sought to create bonhomie between the dorm residents.
+  - The bonhomie ended when a hostile argument broke out between neighbors.
+
+
+
+
+* [[https://wordsinasentence.com/boor-in-a-sentence/][Boor]]
+
+  =an insensitive or inconsiderate individual=
+
+  - Jack was such a boor he would not even hold a door for his mother.
+  - Because Frank is so rude, I tend to think of him as a boor.
+  - My aunt left her husband because he acted like a boor and never paid attention to her feelings.
+  - As a boy, Charles was a boor who bullied other kids in his neighborhood.
+
+
+* [[https://wordsinasentence.com/bough-in-a-sentence/][Bough]]
+
+  =a large tree branch=
+
+  - Mulberries sprouted in each direction off of the main bough of the tree.
+  - One squirrel ran up the bough of the oak tree, and the other squirrel grabbed for the acorn.
+  - During Hurricane Sandy, the wind knocked the bough of the tree over and tore down the power lines.
+  - The lumberjack crawled up to the middle of the tree’s bough and began to saw.
+
+
+
+
+* [[https://wordsinasentence.com/boulder-in-a-sentence/][Boulder]]
+
+  =a large rock typically made smooth by erosion=
+
+  - A large boulder fell from the cliffs above during the storm, blocking the road with its smooth surface.
+  - The only difference in a rock and a boulder is how large it is, though most boulders tend to have a smoother surface.
+  - I would not consider a rock to be a boulder unless it was larger than me, and I am roughly six feet tall.
+  - If you want to find a boulder, the best place to go would be the Rocky Mountains, since large rocks are all around those formations.
+
+
+
+* [[https://wordsinasentence.com/bounteous-in-a-sentence/][Bounteous]]
+
+  =ample; lavish=
+
+  - The bounteous buffet could probably feed thousands of people.
+  - Because the woman wore a dress that was cut quite low, it was hard to miss her bounteous bosom.
+  - The woman used her bounteous tax return to make a sizable down payment on a new car.
+  - If you’re interested in purchasing a stock that pays bounteous dividends, you should check out this steel company.
+
+
+
+* [[https://wordsinasentence.com/bovine-in-a-sentence/][Bovine]]
+
+  =uninteresting and sluggish=
+
+  - When my daughter does not want to do something, she always completes the task in a bovine manner.
+  - Jason was completely bored on his blind date and made bovine statements throughout the meal.
+  - Although Charles was active and talkative at work, at home he was usually bovine and sat around with a dull look on his face.
+  - Many people underestimate Cheryl’s intelligence because of the bovine way in which she responds to most questions.
+
+
+
+* [[https://wordsinasentence.com/bowdlerize-in-a-sentence/][Bowdlerize]]
+
+  =to delete or change the parts of a text that are viewed as offensive=
+
+  - If you do not want to offend your teacher with that profane language, you should bowdlerize the story before handing it in for a grade.
+  - The writer has to bowdlerize his offensive article if he wants it published in the Christian magazine.
+  - Since the studio feels my film is too racy, it has asked me to bowdlerize the movie so it will be family-friendly.
+  - The arrogant writer could not believe someone wanted him to bowdlerize his novel by changing some of the unpleasant language.
+  - When my church leader asked me to bowdlerize the section of the fairy tale that mentioned a witch, he completely shocked me with his close-minded views.
+  - The sound engineer will bowdlerize the song to ensure it is free of vulgar language before playing it at the religious event.
+  - Before my conservative sister brings a magazine into her home, she will bowdlerize it by tearing out the offensive pages.
+
+
+  - A group of Hispanic men are holding a boycott by refusing to work in establishments that will not pay them legal wages.
+  - Frustrated with their low salaries, the workers have started a boycott and will not return to work until they are given a raise.
+  - Homosexual groups are calling for a boycott against the local hotel that refuses to accommodate gay couples.
+  - Since the employees have had their insurance demands met, they have ended the boycott and are now returning to work.
+  - Do you believe the diehard fans will boycott the next movie in the series if the lead actress does not appear in the film?
+  - In the late seventies, the country chose to boycott the Olympics because of international sanctions imposed by other nations.
+  - The president's supporters threatened to boycott any channel that showed the biased movie about their country’s leader.
+
+
+
+* [[https://wordsinasentence.com/brackish-in-a-sentence/][Brackish]]
+
+  =unappealing in taste=
+
+  - Since the water on the island tasted brackish, I decided not to drink it.
+  - Few people enjoy eating my mother-in-law’s brackish cooking.
+  - If the fish has a brackish taste after it is cooked, no one will eat it.
+  - Jack hates to eat corn chips because they leave a brackish flavor in his mouth.
+
+
+
+* [[https://wordsinasentence.com/bridle-in-a-sentence/][Bridle]]
+
+  =the strap located around the head and neck of a horse that the rider holds onto=
+
+  - With the bridle attached to the reins, the girl tugged the reins pulling the horse’s head to its chest.
+  - As the bridle was placed around the stallion’s head, the rider took hold of them.
+  - An accident happened when the horse’s bridle became unattached to the reins causing the rider to no longer be able to hold onto the horse.
+  - After the bridle was placed around the horse’s ears and nose, the reins were thrown toward the horse’s saddle.
+
+
+
+* [[https://wordsinasentence.com/brisk-in-a-sentence/][Brisk]]
+
+  =very active and quick=
+
+  - My grandmother’s exercise regime is to walk the mall at a brisk pace.
+  - Because he was nervous during the interview, his speaking rate was very brisk.
+  - A brisk jog helped to clear my mind.
+  - The woman giving me directions was too brisk and I couldn’t keep up.
+
+
+
+* [[https://wordsinasentence.com/bristle-in-a-sentence/][Bristle]]
+
+  =to display indications of being angry=
+
+  - An honest man will bristle at the suggestion of taking something that doesn’t belong to him.
+  - Although Jim was angry, he didn't bristle in a manner that anyone would notice.
+  - The atheist started to bristle when he was asked to read from the Bible.
+  - Because my daughter is disabled, I tend to bristle when people make fun of individuals with disabilities.
+
+
+
+* [[https://wordsinasentence.com/brittle-in-a-sentence/][Brittle]]
+
+  =easy to break=
+
+  - Margaret uses tons of products to stop her brittle hair from breaking.
+  - Because elderly people have brittle bones, they frequently injure themselves.
+  - The artifact is old and brittle so please be gentle with it.
+  - After Gail suffered a nervous breakdown, she was emotionally brittle and easily upset.
+
+
+
+* [[https://wordsinasentence.com/browbeat-in-a-sentence/][Browbeat]]
+
+  =to bully in an intimidating way=
+
+  - The con man browbeat James into giving him the keys to the vault.
+  - Zack browbeat his girlfriend, threatening to call the police.
+  - As a salesman I never browbeat or force anyone to buy anything.
+  - The FBI browbeat Morris, intimidating him without letup.
+
+
+
+* [[https://wordsinasentence.com/bruit-in-a-sentence/][Bruit]]
+
+  =a report or a rumor=
+
+  - The soldier delivered a bruit to his commander, detailing the events of the mission his soldiers had been dispatched on.
+  - My rival spread a bruit about me to the rest of the class, trying to make me look bad with idle gossip.
+  - I found a bruit on my desk, detailing everything that had occurred in our company for the past two weeks.
+  - I asked my attendant to get me a bruit on what our employees were up to and how they were performing their duties.
+
+
+
+
+* [[https://wordsinasentence.com/bucolic-in-a-sentence/][Bucolic]]
+
+  =relating to the countryside=
+
+  - The postcard image was beautiful and featured a bucolic white house in a dark green pasture.
+  - My husband and I chose a peaceful bucolic town in the country for our summer retreat.
+  - Even though I was born in the city, I still prefer the quiet of a small bucolic village any day.
+  - When I was younger, I dreamed of living in a bucolic cabin near a calming creek.
+  - Sadly, big corporations do not seem to care about destroying bucolic environments to build big buildings.
+  - While I live in the city now, I grew up in a bucolic little town filled with valleys and hills.
+  - I could not believe my sister's vision of the perfect life included a bucolic house in the middle of nowhere.
+
+
+
+* [[https://wordsinasentence.com/buffet-in-a-sentence/][Buffet]]
+
+  =food laid out in this way, to which diners serve themselves=
+
+  - We enforce a policy that diners may return to the buffet up to three times to refill their plates.
+  - Mark told me about a bar that serves up drinks buffet style so that they don’t have to pay for a bartender.
+  - Maria hired waiters for Sam’s birthday party, but served the dessert buffet style.
+  - John hates buffet dinners because he has to actually get up to get his food.
+
+
+
+* [[https://wordsinasentence.com/buffoon-in-a-sentence/][Buffoon]]
+
+  =a silly person who tries to be humorous but comes across as foolish=
+
+  - Since you are making a buffoon of yourself, you should go sit quietly in a corner before you embarrass me further!
+  - I wonder when my thirty-year-old son will stop acting like a buffoon and begin to take life seriously.
+  - While Gerald thinks he is funny, he comes across to everyone as an irritating buffoon.
+  - The script was so poorly written not even Zach’s role as a buffoon was able to amuse the audience.
+
+
+
+* [[https://wordsinasentence.com/bumbling-in-a-sentence/][Bumbling]]
+
+  =acting or moving about in a confused manner=
+
+  - The drunk man was bumbling around the bar, knocking over tables and bumping into other patrons every few seconds.
+  - Some people find it funny to watch animals on painkillers bumbling around the house, since they can barely control their movements.
+  - You may find a baby that has just learned how to walk bumbling around, since it lacks the fine control skills to move around easily.
+  - If you are bumbling around it is probably because you are disoriented or dizzy, though there are many reasons you could be either of those.
+
+
+
+* [[https://wordsinasentence.com/bumptious-in-a-sentence/][Bumptious]]
+
+  =confident in an annoying manner=
+
+  - While Rick is very intelligent, he would be more likable if he were not so bumptious about his educational background.
+  - My coworker is so bumptious and overbearing that people try and avoid her at lunch.
+  - Because Cecilia is quite bumptious about her wealthy family, she finds it hard to get people to like her.
+  - Lebron became quiet and stopped his bumptious chatter when his team lost the championship.
+
+
+
+* [[https://wordsinasentence.com/bungle-in-a-sentence/][Bungle]]
+
+  =to clumsily perform a task=
+
+  - Because the police department is comprised of idiots, it will probably bungle the simple case.
+  - My boss will fire me if I bungle this project.
+  - Only a dummy could bungle such an easy cookie recipe.
+  - You’ll bungle the construction of the dollhouse if you don’t read the instructions.
+
+
+
+* Buoy
+
+  - To alert boaters of the hazard ahead, a small buoy was used to mark the sandbar near the surface.
+  - You can be a human buoy, floating in the water by wearing your life jacket.
+  - A wave sensor inside the buoy measures the wave height, direction, and wave period.
+  - Buoys in the ocean mark the end of the safety zone, and if people swim past them, they will be likely to be dragged out to sea.
+
+
+
+* [[https://wordsinasentence.com/burlesque-in-a-sentence/][Burlesque]]
+
+  =a stage production or literary piece that uses excessive exaggeration or comedic imitation to ridicule something or someone=
+
+  - The burlesque war film depicts our president as a kid playing with toy soldiers.
+  - In the burlesque essay, the animals portray exaggerated versions of some of society’s elite.
+  - The characters in the burlesque show are men dressed as loud and obnoxious women.
+  - Because the writer of the burlesque novel mocked the dictator, he was imprisoned for twenty years.
+
+
+
+* [[https://wordsinasentence.com/burnish-in-a-sentence/][Burnish]]
+
+  =to polish; to make smooth or shiny=
+
+  - Richard is forever attempting to burnish his reputation so that he can advance his position within our company.
+  - I applied car polish to my Porsche repeatedly, making sure to burnish it to perfection.
+  - Presidents look to burnish their legacy during their second term in office.
+  - The presidential candidate used his time at the podium to burnish his image in the eyes of the nation.
+
+
+
+* [[https://wordsinasentence.com/bustle-in-a-sentence/][Bustle]]
+
+  =to move in a noisy or hurried manner=
+
+  - On Valentine’s Day men bustle about the store trying to find last minute gifts.
+  - Jane was running late so she had to bustle to reach her office on time.
+  - During the game's halftime period, people bustle in the concession area in hopes of obtaining refreshments quickly.
+  - The night before the wedding, the event planner will bustle about the church making sure everything is properly arranged.
+
+
+* [[https://wordsinasentence.com/buxom-in-a-sentence/][Buxom]]
+
+  =describing a full-figured female with an ample bosom=
+
+  - Because Gail is a buxom woman, she has to custom order her bras.
+  - The men applaud loudly when the buxom stripper removes her blouse.
+  - While on the beach, the teen boys wouldn’t stop staring at the buxom topless women.
+  - The buxom waitress earns more tips when she wears tight blouses.
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
