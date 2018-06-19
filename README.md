@@ -7,6 +7,13 @@
 ## [长难句](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/reading.html)
 
 ## Ruby
+[A](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/A.html)
+[B](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/B.html)
+[C](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/C.html)
+[D](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/D.html)
+[E](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/E.html)
+[F](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/F.html)
+[G](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/G.html)
 [H](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/H.html)
 [I](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/I.html)
 [J](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/J.html)
