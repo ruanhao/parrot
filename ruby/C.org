@@ -1,0 +1,2573 @@
+#+TITLE:     C
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/solarized/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: <a href="#bottom">⇩</a>
+#+HTML: <a id="top"/>
+#+HTML: </div>
+
+
+* [[https://wordsinasentence.com/cacophony-in-a-sentence/][Cacophony]]
+
+  =an unpleasant mixture of loud sounds=
+
+  - Sometimes, it seems as though the dogs in our neighborhood bark together to create a cacophony that wakes me up every morning.
+  - Because the band had not practiced enough, their arrangement came across as a cacophony instead of entertaining music.
+  - The cacophony in the crowded classroom drowned out the principal’s announcement.
+  - When the actor walked into the theater, there was a cacophony of screams from the reporters.
+  - The cacophony caused by the explosion sent me diving under the bed.
+  - Because Mrs. Thompson left her classroom unattended, she is the one responsible for the cacophony coming from down the hall.
+  - Even though the audio wires were connected properly, a cacophony was still heard every time the speaker touched the microphone.
+
+
+
+* [[https://wordsinasentence.com/callous-in-a-sentence/][Callous]]
+
+  =showing or having an insensitive and cruel disregard for others=
+
+  - There is so much crime in this country that many people have become callous about it and tend to look the other way.
+  -  Despite her wealth, the old lady was a callous woman who never gave to anyone in need.
+  - The callous doctor had no problem telling the overweight man he was fat and lazy.
+  - Because the judge was upset about Rita’s callous disregard for others, he sentenced her to ten years for drunk driving.
+  - The store owner acted in a callous manner towards those who could not pay their bills.
+  - Even though many reporters will do anything for a story, most of them are not callous people.
+  - What kind of callous person leaves a dog tied to a tree on the hottest day of the summer?
+
+
+
+* [[https://wordsinasentence.com/calumny-in-a-sentence/][Calumny]]
+
+  =a false statement made to damage someone’s reputation=
+
+  - The editor refused to publish the calumny that could possibly destroy the politician’s career.
+  - Although Charles does not personally like Henry, he is not the type of person to spread a calumny about his enemy.
+  - The best way for you to defend yourself against calumny is by ignoring the false statements of others.
+  - When Jane’s ex-husband tried to make a calumny about her in court, the judge ordered him to be quiet.
+  - When Jeremy felt he was about to get in trouble, he would often distract his parents with a calumny about his older brother.
+  - Which of my so-called friends would start a calumny about me in order to steal my boyfriend?
+  - The quarterback started a calumny about the coach as payback for being benched during the championship game.
+
+
+
+* [[https://wordsinasentence.com/candid-in-a-sentence/][Candid]]
+
+  =truthful and straightforward=
+
+  - Because the politician made a candid speech, he earned the respect of the voters.
+  - Sometimes my mother talks in such a candid manner that I am embarrassed by the things she shares.
+  - For once, the media has promised to deliver a candid look at the president.
+  - Even though you may not like what I have to say about your husband, I must be candid about my feelings for him.
+  - The book reviewer had no trouble giving his candid review of the awful novel.
+  - Instead of hiding the truth, you and I should have a candid conversation about our relationship.
+  - At the monthly meeting, the management team and the workers started a candid dialogue about the working conditions at the factory.
+
+
+
+* [[https://wordsinasentence.com/candor-in-a-sentence/][Candor]]
+
+  =the state or quality of being frank, open, and sincere in speech or expression=
+
+  - Because the realtor was an honest woman, she replied with candor about the damage to the house.
+  - When you speak in public about your sex life, you may discover that everyone does not appreciate your candor.
+  - The politician’s candor and honesty made him the favorite candidate in the election.
+  - Although I appreciate candor in speech, I do not want to hear every personal detail about another person’s life.
+  - I find it hard to have conversations with people who lack candor because they cannot be open with me.
+  - Because the author writes with such candor about his experiences, his readers will feel as if they are actually a part of his life.
+  - Even though the employees were upset about their pay reductions, they respected their boss’ candor in explaining his decision to them.
+
+
+
+* [[https://wordsinasentence.com/canny-in-a-sentence/][Canny]]
+
+  =displaying good sense and judgment=
+
+  - The canny man would not buy the used car until it passed his mechanic’s inspection.
+  - Because Leonard is a canny investor, he usually sells his stocks before they decrease in value.
+  - In the fable, the wise squirrel is canny enough to store food for the winter.
+  - Mark is a canny card player who knows how to tell when his opponents are bluffing.
+
+
+
+* [[https://wordsinasentence.com/cantankerous-in-a-sentence/][Cantankerous]]
+
+  =easily angered, always complaining or arguing and difficult to get along with=
+
+  - Since Congress is such a cantankerous group, no one expects them to pass any new legislation this year.
+  - The leading character in the movie was a cantankerous old man who hated the world.
+  - Although Jenna’s father can be quite cantankerous at times, he will do anything to make her happy.
+  - By nature, bulls are cantankerous animals that prefer to be left alone.
+  - Despite the fact the singer was cantankerous and difficult to please, everyone still wanted to collaborate with her.
+  - People who are cantankerous have uncooperative natures and find it hard to work with others.
+  - Sitting next to a cantankerous infant would make any plane trip seem longer.
+
+
+
+* [[https://wordsinasentence.com/capricious-in-a-sentence/][Capricious]]
+
+  =sudden behavior change=
+
+  - Because of his capricious nature, Jeremy found it hard to keep a steady job.
+  - Since he started taking the medication, Henry has been less capricious.
+  - Even though the couple wanted to get married outside, they knew their ceremony depended on the capricious weather.
+  - You need to settle down and stop being so capricious!
+  - Because fate is capricious, you never know what it will bring into your life.
+  - Although Marilyn was capricious by nature, she changed her personality when she fell in love with a minister.
+  - At eighty years old, my grandmother is still rather capricious.
+
+
+
+* [[https://wordsinasentence.com/captious-in-a-sentence/][Captious]]
+
+  =always looking for faults; hard to please=
+
+  - My captious father is never satisfied with anything I do.
+  - As the chef waited for the captious critic to review his food, he tried to think of any dish he could have prepared better.
+  - None of the servers wanted to wait on the captious woman who complained about everything.
+  - When my captious teacher grades my essays, she always finds a minor error in my work.
+  - Our captious minister was dismissed from his position after he publicly called out church members for their sins.
+  - If I listened to my sister’s captious comments about my appearance, I would have no self-esteem at all.
+  - My mother-in-law’s captious comments about my cooking made me regret inviting her over for dinner.
+
+
+
+* [[https://wordsinasentence.com/cardinal-in-a-sentence/][Cardinal]]
+
+  =fundamental; of the greatest importance=
+
+  - The therapist addressed the cardinal rule of marriage which is to always compromise on issues and once that is accomplished everything else will fall into place.
+  - In a town in Italy, having litter-free land is a cardinal law due to the number of environmentalists who live there.
+  - The cardinal belief for many law enforcement officials is to always be aware of your surroundings in case a weapon is pulled on you.
+  - The judge explained, “The cardinal action for any plaintiff in a lawsuit is to bring evidence to court.”
+
+
+
+* [[https://wordsinasentence.com/caricature-in-a-sentence/][Caricature]]
+
+  =a picture of someone in which their features have been exaggerated for humorous effect=
+
+  - The picture of the president is not a caricature because it does not distort his facial features.
+  - On our family vacation, I paid an artist to sketch a hilarious caricature of my children.
+  - Many Catholics were not happy when a caricature of the Pope wearing a bikini appeared in a national newspaper.
+  - When the cartoonist drew a caricature of himself, everyone knew he would make fun of anyone.
+
+
+
+* [[https://wordsinasentence.com/carnage-in-a-sentence/][Carnage]]
+
+  =that which is left after an extremely violent event such as a massacre=
+
+  - The suicide bomber left immeasurable carnage in the mall.
+  - According to the Red Cross, it will take months to clean up the carnage left by the Nepalese earthquake.
+  - The president vowed someone would pay for the carnage of the terror attacks on our country’s soil.
+  - For some reason, people willingly click on images of bloody carnage on the Internet.
+
+
+
+* [[https://wordsinasentence.com/caste-in-a-sentence/][Caste]]
+
+  =a class hierarchy determined by a person’s heritage=
+
+  - In the tribe, there is a caste system based on skin color with the darker-skinned people  comprising the lower class.
+  - The poorest people make up the lowest class in a caste that is determined by the wealth of one’s family.
+  - According to the caste, slaves and indentured servants should not mingle with members of other social ranks.
+  - The caste dictates Anun, a member of the upper class, cannot marry Aruk because he is a laborer.
+
+
+
+* [[https://wordsinasentence.com/castigate-in-a-sentence/][Castigate]]
+
+  =to criticize someone or something severely=
+
+  - My mother was a cruel woman who never missed an opportunity to castigate my father.
+  - When the police chief discovers his officers let the criminal escape, he is sure to castigate them.
+  - If you want better results, you should praise your children and not castigate them.
+  - How dare you castigate him when you have done the same thing in the past?
+  - We cannot castigate our students and blame them for their poor grades when we do not give them the resources they need to be successful.
+  - More than likely, the United Nations will castigate the dictator for allowing his military force to torture the people of his country.
+  - Hypocrites are people who castigate others for making the same decisions they have made.
+
+
+
+* [[https://wordsinasentence.com/caustic-in-a-sentence/][Caustic]]
+
+  =extremely sarcastic or critical=
+
+  - The comic’s caustic jokes offended quite a few people.
+  - Being caustic to the receptionist is not going to get you in the doctor’s office any sooner.
+  - After waiting over an hour for my food, I became caustic with the waitress.
+  - Her caustic remarks made me sad.
+  - Even though you are upset, you should realize that making caustic comments is not helping the situation.
+  - Elizabeth’s caustic personality makes her ill-suited to be a flight attendant.
+  - Although Jill made a caustic remark about her boss, she does not deserve to lose her job.
+
+
+
+* [[https://wordsinasentence.com/cavil-in-a-sentence/][Cavil]]
+
+  =to gripe about something minor=
+
+  - Because my sister is so hard to please, she will cavil about the smallest of things.
+  - It is nice to read a movie review in which the critic raves about the entire film and does not cavil about a trivial flaw in the plot.
+  - Since my boss does not like me, he is always looking for a reason to cavil about my work.
+  - My ungrateful daughter had the nerve to cavil about the amount of money spent on her Christmas presents.
+  - Even when everything is perfect, the irritable old man will still cavil to his children.
+  - My stingy husband will cavil about every purchase I make.
+  - As always, Clark was never satisfied and managed to find something to cavil about during our meal at the restaurant.
+
+
+
+* [[https://wordsinasentence.com/censorious-in-a-sentence/][Censorious]]
+
+  =extremely critical=
+
+  - Jill is a bully who constantly makes censorious statements about her coworkers.
+  - Although I found the painting very unappealing, I smiled at the artist and kept my censorious thoughts to myself.
+  - The censorious pastor made several harsh remarks about unwed mothers.
+  - After the critic finished the disappointing novel, he wrote a censorious review that urged readers to save their money.
+
+
+
+* [[https://wordsinasentence.com/certitude-in-a-sentence/][Certitude]]
+
+  =the condition of being certain or sure about something=
+
+  - Unfortunately, the witness could not describe her attacker’s face with certitude.
+  - Everyone believed the journalist’s fake story because she wrote it with such certitude.
+  - During the debate, the politician spoke with great certitude about his ability to make the country great again.
+  - The boy’s mother knew with certitude her son was not a killer.
+
+
+
+* [[https://wordsinasentence.com/chafe-in-a-sentence/][Chafe]]
+
+  =to worry or fret=
+
+  - My protective father tends to chafe whenever I go on a date.
+  - Even when life is seemingly perfect, my worrywart sister will still chafe over something.
+  - Ann is a constant complainer who is always looking for a reason to chafe.
+  - Because Mary suffers from an anxiety disorder, she is prone to chafe about petty matters.
+
+
+
+* [[https://wordsinasentence.com/chagrin-in-a-sentence/][Chagrin]]
+
+  =a feeling of being frustrated or annoyed because of failure or disappointment=
+
+  - To her chagrin, Jill placed second in the beauty pageant.
+  - Much to my chagrin, I failed my math test.
+  - To the viewer’s chagrin, the final episode of the television series ended with several unanswered questions.
+  - After finishing third in the race, I swallowed my chagrin and congratulated the winner.
+  - To my chagrin, I did not win the lottery last night.
+  - If Alan felt any chagrin about losing the contest, he hid it behind a huge smile.
+  - To Jack’s chagrin, he did not get the salary increase he wanted.
+
+
+
+* [[https://wordsinasentence.com/chary-in-a-sentence/][Chary]]
+
+  =apprehensive about doing something=
+
+  - Because Vera was chary about going in the old house, I agreed to go in with her.
+  - School districts are incredibly chary about hiring people with criminal backgrounds.
+  - While Tim has plans to leave college, he is chary about telling his parents of his decision.
+  - The bride’s nerves made her chary of getting married.
+
+
+
+* [[https://wordsinasentence.com/chastise-in-a-sentence/][Chastise]]
+
+  =to criticize someone harshly for doing something wrong=
+
+  - If you bully someone in Mrs. Marshall’s class, she will chastise you and keep you after school.
+  - I like my coach because he encourages me frequently and rarely looks for a reason to chastise me.
+  - Because my doctor is a kind man, he tries not to chastise me too harshly about my unhealthy habits.
+  - The teacher found it difficult to not chastise the troublesome student.
+  - When I saw the nun with the ruler in her hand, I knew she was about to chastise me.
+  - Sometimes, Mary will chastise her teenage daughter about texting while driving.
+  - If you wear inappropriate clothing to school, you can expect the principal to chastise you in public.
+
+
+
+
+* [[https://wordsinasentence.com/choreography-in-a-sentence/][Choreography]]
+
+  =the sequence of steps and movements in a dance or figure skating routine=
+
+  - Coming up with the choreography was easy, but actually sequencing the dance moves with the music was a lot harder.
+  - Extra steps were added to the musical’s choreography, making the dance routines more interesting to watch.
+  - The first dance choreography sequence was difficult for the groom since he had two left feet.
+  - Skating along to her choreography, the figure skater wished the routine didn’t have so many difficult axels.
+
+
+
+* [[https://wordsinasentence.com/chromatic-in-a-sentence/][Chromatic]]
+
+  =relating to color; colorful=
+
+  - Several artists used the same chromatic colors in their portraits at the display.
+  - After the thunderstorm, Sarah noticed a chromatic display in the sky but unsure if it was a rainbow.
+  - While the black and white photographs were quite beautiful, most people believed that they would have been more accepted if they were in a chromatic format.
+  - In October, nature puts on its own chromatic show with the changing of the leaves.
+
+
+
+* [[https://wordsinasentence.com/chromosome-in-a-sentence/][Chromosome]]
+
+  =that portion of the cell that holds the genes which determine the identity and development of a plant or animal=
+
+  - A chromosome is the cell organelle that contains the genes that define an organism’s traits.
+  - Because of an extra 21st chromosome, some people have a disorder called Down syndrome.
+  - Along with the Y chromosome, the X chromosome determines an organism’s gender.
+  - A man with an extra X chromosome may display signs of Klinefelter syndrome, a condition that can cause physical abnormalities like enlarged breasts.
+
+
+
+* [[https://wordsinasentence.com/circuitous-in-a-sentence/][Circuitous]]
+
+  =not said or done simply or clearly=
+
+  - Because the spy did not want to give away the location of his headquarters, he always took a long and circuitous route to his office.
+  - My boss asked me to simplify the circuitous language for the average reader.
+  - Because the bookshelf came with circuitous instructions, I was unable to put it together properly.
+  - Some of the younger children got confused by the circuitous design of the maze and began to cry for their parents.
+  - While my instructor is an expert in the subject he teaches, he often speaks in such a circuitous manner that I find it difficult to understand any of his lessons.
+  - The regulations for the president’s new healthcare plans are so circuitous that many of us are seeking alternative policies.
+  - When I lost the directions to the restaurant, I ended up taking a circuitous route that made me late for my own birthday party.
+
+
+
+* [[https://wordsinasentence.com/circumlocution-in-a-sentence/][Circumlocution]]
+
+  =the use of too many words to say something, especially in order to avoid saying something clearly=
+
+  - The con man tried to use circumlocution to avoid explaining his real intentions to the wealthy couple.
+  - As a politician, the senator had no problem using circumlocution to make his responses sound honest.
+  - Sneaky people who want others to be fooled by their words often use circumlocution to hide their true purposes.
+  - To sell his company’s products, the sly salesman used circumlocution to avoid directly answering the woman’s questions.
+  - I would never vote for a politician who avoids answering questions through the use of circumlocution.
+  - Despite the writer’s use of circumlocution in his article, it was still quite evident he knew nothing about his subject.
+  - If only the speaker would stop all the circumlocution and get to the point of his speech!
+
+
+
+* [[https://wordsinasentence.com/circumscribe-in-a-sentence/][Circumscribe]]
+
+  =to limit the range or scope of something to a particular degree=
+
+  - When my husband drinks too much, I hide his car keys to circumscribe his capacity to drive.
+  - A tall electric fence was constructed outside the prison to circumscribe prison escapes.
+  - If the president does not agree with the bill being proposed by Congress, he will do everything in his power to circumscribe the passing of the legislation.
+  - Our religious town has an ordinance that works to circumscribe the establishment of liquor stores.
+  - To circumscribe the sale of illegal drugs, the city has increased the size of its drug task force by fifty percent.
+  - There are those who believe the new voting law was enacted to circumscribe the voting rights of minority groups.
+  - In court the violent suspects wear shackles that circumscribe their ability to flee.
+
+
+
+* [[https://wordsinasentence.com/circumspect-in-a-sentence/][Circumspect]]
+
+  =to think carefully before doing or saying anything, in order to avoid risks or consequences; cautious=
+
+  - In this day and age, you need to be circumspect about giving out too much personal information on the internet.
+  - Jack found himself circumspect of dating a woman he hardly knew.
+  - Even though he knew the killer was in handcuffs, the cop was still circumspect of the criminal.
+  - Even though the potential investor liked the business proposal, he was circumspect about investing so much money.
+  - Why do you think researchers are so circumspect of the vaccine’s effectiveness?
+  - While the mayor knew his town needed additional police officers, he was circumspect of raising taxes to cover the extra salaries.
+  - Most doctors are circumspect about recommending the new drug to their patients.
+
+
+
+* [[https://wordsinasentence.com/circumstantial-in-a-sentence/][Circumstantial]]
+
+  =something that seems to be true but is not proven=
+
+  - The evidence against the suspect was purely circumstantial and was not enough to convict.
+  - The teacher believed that she knew who stole the test scores but it was all circumstantial belief.
+  - In law school, we learned that circumstantial evidence is inadmissible in a court of law.
+  - Circumstantial evidence made me believe the dog ate the food on the counter.
+
+
+
+* [[https://wordsinasentence.com/circumvent-in-a-sentence/][Circumvent]]
+
+  =to get around something=
+
+  - If we do not find a way to circumvent this problem, we will not be able to finish the project.
+  - The burglar tried to find a way to circumvent the alarm system.
+  - Because the man wanted to circumvent the immigration laws, he snuck into the country inside of a shipping truck.
+  - How would your circumvent our old electrical system when installing our new oven?
+  - If the settlers wanted to get to their new homes, they had to find a way to circumvent the dangerous mountain trails.
+  - The army will circumvent part of the enemy’s defenses by coming in from the south.
+  - According to my lawyer, there is no way to circumvent having to spend two days at a ridiculous court hearing.
+
+
+
+* [[https://wordsinasentence.com/clamber-in-a-sentence/][Clamber]]
+
+  =to crawl or climb in an awkward manner=
+
+  - Fortunately, the baby fell back onto the soft carpet after trying to clamber up the steps.
+  - The tiny kitten was cute as it tried to clamber up the couch.
+  - Wearing high heels, Kate could only clamber up the hill.
+  - The drill sergeant chuckled as he watched the new recruits struggle to clamber the rope wall.
+
+
+
+* [[https://wordsinasentence.com/claustrophobia-in-a-sentence/][Claustrophobia]]
+
+  =the fear of closed, tight places=
+
+  - My claustrophobia is out of control when I am in an elevator.
+  - The doctor told me that my claustrophobia was the reason I was afraid of flying.
+  - Because I have claustrophobia, I need to sit on the aisle seat whenever I am in an auditorium.
+  - If you have claustrophobia, you would probably not want to live in a tiny house.
+
+
+
+
+* [[https://wordsinasentence.com/cleave-in-a-sentence/][Cleave]]
+
+  =to split with a tool=
+
+  - You can use the axe to cleave the tree.
+  - In the horror movie, the killer used a chainsaw to cleave his victims in half.
+  - The laser will quickly cleave the stone into two pieces.
+  - Once we cleave the document with the paper cutter, we will have four flyers instead of one.
+
+
+
+* [[https://wordsinasentence.com/clemency-in-a-sentence/][Clemency]]
+
+  =a decision not to punish someone severely=
+
+  - The killer’s wife begged the judge to give her husband clemency so he would be out of prison before she died.
+  - In their letter to the governor, the victim’s family asked him not to give clemency to their son’s murderer.
+  - Although the man had admitted to stealing from the government, the president still gave him clemency and released him from his sentence.
+  - My husband is always quick to give our daughter his forgiveness and clemency when she misbehaves.
+  - Even though the criminal had shown remorse for his actions, the parole board decided to rule against clemency for him.
+  - Because she was dying of a terminal illness, the death row inmate received clemency and got to spend her last few days with her family.
+  - Melvin knew that without clemency or a pardon he would spend the rest of his life in prison.
+
+
+
+* [[https://wordsinasentence.com/clutter-in-a-sentence/][Clutter]]
+
+  =a messy collection of things lying around=
+
+  - Clutter filled the elderly couple’s home as they refused to get rid of anything they had every bought.
+  - A maid was hired to clean up the mass of clutter in the doctor’s office.
+  - Tired of her messy death, the teacher decided to take some time to clean up the clutter.
+  - The picky lady hates clutter and prefers things neat and orderly.
+
+
+
+* [[https://wordsinasentence.com/coalesce-in-a-sentence/][Coalesce]]
+
+  =to join into a single mass=
+
+  - Olivia stared into the distance and concentrated, hoping that all her random thoughts would somehow coalesce into one brilliant idea.
+  - As refugees continue to flood into the community, the congregations from all the churches will coalesce into one welcoming body to make them feel at home.
+  - Local high school principals have agreed to coalesce around new approaches for college preparation.
+  - Even though the pilgrims and Native Americans were from such contrasting societies, they managed to coalesce their cultures to hold the First Thanksgiving together in peaceful celebration.
+  - Even though she has a multiple personality disorder, there are times when all the characteristics coalesce and we get a glimpse of the true Eva.
+  - When the detective posted all the evidence on the wall, the clues began to coalesce into a clear picture of who had actually committed the murder.
+  - When Phyllis broke her foot so badly, the whole neighborhood decided to coalesce and create a plan for bringing her meals for a month.
+
+
+
+* [[https://wordsinasentence.com/coerce-in-a-sentence/][Coerce]]
+
+  =to make someone do something by using force or threats=
+
+  - The bully tried to coerce the small kids into giving him their lunch money.
+  - As the students argued, the teacher tried to coerce them into silence with the threat of a detention.
+  - It is against the law for someone to coerce you into giving away your belongings.
+  - When the mob guys wanted the property, they tried to coerce the owners into signing over the deed.
+  - The union will try and coerce management into giving pay raises by threatening an employee strike.
+  - In some movies, the bad guys will often try and coerce the bank presidents into robbing their own banks.
+  - If you coerce someone at gunpoint to sign a document, the document is not legally binding.
+
+
+
+* [[https://wordsinasentence.com/cogent-in-a-sentence/][Cogent]]
+
+  =very clear and easy for the mind to accept and believe=
+
+  - Because the child was so young, I worked hard to give her cogent answers to her questions.
+  -  I had no trouble believing the doctor's cogent statement about my strong need for the surgery.
+  - An experienced speaker, John knew how to deliver a cogent presentation that would easily engage his audience.
+  - The angry husband hired a detective to find cogent proof of his wife's extramarital affair.
+  - Although I normally do not like science fiction movies, this film was cogent and easy for me to accept as true.
+  - Frank knew he could only win the debate competition if he presented a cogent position to the judges.
+  - When the homebuilder did not provide me with a cogent answer to my question, I knew he was not the right person to build my family home.
+
+
+
+* [[https://wordsinasentence.com/cognizant-in-a-sentence/][Cognizant]]
+
+  =knowledgeable of something, especially through personal experience=
+
+  - Because I have been on a tight budget for two years, I am very cognizant of the importance of using coupons to get the best deals.
+  - I am fully cognizant of the effects of sedatives on one’s ability to drive.
+  - Since you have never had a baby, there is no way you could be cognizant of labor pains.
+  - As a starving writer, Elaine is very cognizant of the fact that success does not come overnight.
+  - My teenage daughter will not become cognizant of the dangers of driving until she gets her license.
+  - As a police officer, you must be cognizant of the fact some individuals will try to hurt you during their escape attempts.
+  - Because Helen was cognizant of Jim’s reputation as a ladies’ man, she refused to take his marriage proposal seriously.
+
+
+
+* [[https://wordsinasentence.com/collateral-in-a-sentence/][Collateral]]
+
+  =something taken as a guarantee for a debt=
+
+  - Since my sister has a habit of keeping my clothes, I now ask for collateral when she wants to borrow something.
+  - Jake used his car title as collateral for a loan.
+  - When Matt was arrested, his mother used her home as collateral for his bail.
+  - The teacher returns her students’ collateral when they return her pencils and pens.
+
+
+
+* [[https://wordsinasentence.com/collusion-in-a-sentence/][Collusion]]
+
+  =a private agreement for a dishonest purpose=
+
+  - Under the collusion between the crooked cops and the drug dealers, the officers receive fifteen percent of the drug profits.
+  - The two anti-government groups are being charged for engaging in collusion to blow up the White House.
+  - Before the collusion was exposed, the butler and the housekeeper had stolen over fifty thousand dollars from their employer.
+  - The collusion between the two oil companies is being investigated by the justice department.
+
+
+
+* [[https://wordsinasentence.com/commend-in-a-sentence/][Commend]]
+
+  =to express approval of a person's achievements=
+
+  - As the principal of the high school, it is my pleasure to commend all of this year’s graduates for their achievements.
+  - Our supervisor chose to commend us for finishing the project ahead of schedule by taking us bowling on our lunch hour.
+  - In the meeting, the hospital administrators will commend the staff who stayed overtime to handle the patient overflow last weekend.
+  - The mayor will commend several local heroes during the town’s Independence Day Celebration.
+
+
+
+* [[https://wordsinasentence.com/commensurate-in-a-sentence/][Commensurate]]
+
+  =in proportion; equal=
+
+  - You will get a salary increase commensurate with your additional responsibilities and work.
+  - A punishment of 10 years in prison with hard labor for stealing a loaf of bread is not commensurate with the crime.
+  - UPS and FedEx will hire thousands of seasonal employees commensurate to the increased volume in orders during the holiday season.
+  - Because Albert is a smart young man, I think he should quit working in fast food and find a career commensurate with his high IQ.
+
+
+
+* [[https://wordsinasentence.com/commiserate-in-a-sentence/][Commiserate]]
+
+  =express or feel sympathy or pity=
+
+  - Until you have walked in his shoes, you cannot commiserate with him.
+  - As a mother, I commiserate strongly with the woman whose child was kidnapped.
+  - While he wanted to commiserate with the man on death row, he simply could not do it.
+  - I hate it when rich people pretend they commiserate with the poor!
+  - On Valentine’s Day, the single people get together and commiserate about their lonely lives.
+  - Sending someone a greeting card is a simple way to commiserate.
+  - A person with a drinking problem is often not able to commiserate in a healthy way.
+
+
+
+* [[https://wordsinasentence.com/commodious-in-a-sentence/][Commodious]]
+
+  =spacious and convenient; roomy and comfortable=
+
+  - I finally found an inexpensive hotel with rooms that are commodious enough for the whole family.
+  - Mercedes agreed that the sofa was stylish and commodious, but the color didn’t match the throw pillows she had in mind.
+  - John whined to the marriage counselor that his wife’s Pomeranian had more commodious accommodations in their home than he did.
+  - Because she expected to live in a cell-like space at the university, Sarah was pleasantly surprised to find that the dorm rooms were actually quite commodious.
+  - Because bunk beds are not thought of as commodious furnishings, you will generally only find them in children’s rooms or prison cells.
+  - When they’re on tour, the band travels in one of those commodious motor coaches so that they don’t have to deal with attracting crowds at hotels.
+  - The new movie theater not only has a full-service menu, the seating is far more commodious than the standard Coke-and-popcorn cinemas.
+
+
+
+* [[https://wordsinasentence.com/communal-in-a-sentence/][Communal]]
+
+  =used to describe something that is shared by or available to all members of a specific community=
+
+  - The communal pool at the community center is open to everyone that lives in the neighborhood.
+  - There is a communal shelter in town that is open to any member of the community that may need its services.
+  - In America, communal property is very rare because few people want their property to be available to everyone in the community.
+  - In third world countries, many villages are communal in nature, sharing everything with everyone for the good of the whole community.
+
+
+
+* [[https://wordsinasentence.com/compel-in-a-sentence/][Compel]]
+
+  =to press or force to have something done=
+
+  - Sometimes I have to compel my daughter into doing her chores by threatening to keep her allowance.
+  - The congressman believes we should compel people who receive public assistance to perform monthly drug tests.
+  - How can we compel young people to stay in school when we are not teaching them information that will change their lives?
+  - In some cases, the government will torture spies to compel them to reveal their secrets.
+
+
+
+* [[https://wordsinasentence.com/compendium-in-a-sentence/][Compendium]]
+
+  =an assortment of items displayed as a set=
+
+  - The book is nothing more than a compendium of the author’s rants against the government.
+  - At the exhibit, five of the artist’s paintings will be displayed together as a compendium.
+  - The photographic compendium is an album of pictures showing many of the country’s military personnel.
+  - During the event, a football player will auction a compendium of his personal items including a signed jersey and football.
+
+
+
+* [[https://wordsinasentence.com/complacency-in-a-sentence/][Complacency]]
+
+  =a feeling of self-satisfaction that makes one unaware of one’s environment=
+
+  - Because of the complacency of the guards, enemy spies were able to sneak into the castle.
+  - Jill’s husband was not able to see through his veil of complacency until Jill left him for another man.
+  - Despite rumors of a rapist in the area, Carol’s complacency led her to believe it was safe to run alone in the park at night.
+  - The world’s complacency allowed Hitler to invade Poland and start World War II.
+
+
+
+* [[https://wordsinasentence.com/conciliatory-in-a-sentence/][Conciliatory]]
+
+  =To regain (friendship or goodwill) by pleasant behavior; to reconcile=
+
+  - The mediator made a conciliatory statement which helped the two parties find common ground.
+  - In a conciliatory tone, the presidential candidate promoted himself as a man of the people.
+  - Don’t think you are going to appease me with your conciliatory attitude!
+  - As the middle sister, behaving in a conciliatory manner came natural to her.
+  - Although Marilyn wanted to bring her parents together, she had no idea how to be more conciliatory.
+  - While she may appear selfish, I believe her motives are purely conciliatory.
+  - After gaining eighty percent of the votes, the politician made conciliatory remarks to his opponent.
+
+
+
+* [[https://wordsinasentence.com/concoction-in-a-sentence/][Concoction]]
+
+  =something created from scratch=
+
+  - I could not wait for the bartender to finish my delicious concoction.
+  - In her cave, the ugly witch is combining all kinds of weird ingredients to create a concoction to restore her former beauty.
+  - With such unusual ingredients, the chef will be challenged to create a gourmet concoction in thirty minutes.
+  - Although Ted had an awful hangover, he was unwilling to drink the concoction of raw eggs and Tabasco sauce his wife made to ease his misery.
+
+
+
+* [[https://wordsinasentence.com/concomitant-in-a-sentence/][Concomitant]]
+
+  =happening at the same time as something else=
+
+  - Because the contractor and decorator agreed to concomitant work schedules in the final stages of construction, the house was ready to show well ahead of time.
+  - The concomitant sensations I received from the mixture of warm blackberry pie and melting vanilla ice cream took me to dessert heaven.
+  - Pharmaceutical cocktails are designed to fight specific diseases by administering several concomitant drugs to the patient.
+  - With its concomitant lightning, thunder, and pelting rain, the storm sent the dogs running for the safety of the closet, and we didn’t see them again for two hours.
+  - When Beatrice explained that her dizzy spells were concomitant with severe headaches, her doctor ordered a battery of tests to determine what was going on.
+  - Although she was suffering from concomitant infections in her bladder and kidneys, Mary Ann refused to take any pain medication.
+  - Although the dates of her book tour were concomitant with their honeymoon, JoAnn’s new husband agreed to combine the events rather than cancel either of them.
+
+
+
+* [[https://wordsinasentence.com/condescending-in-a-sentence/][Condescending]]
+
+  =showing that you are more important than others=
+
+  - Rick said this condescending remark at work today: "I'm better than all of you!"
+  - You make me feel worthless with your condescending attitude.
+  - Because Judith talked down on others, her peers viewed her as a rude and condescending woman.
+  - You are condescending to believe that men deserve more rights than females.
+  - The arrogant boss spoke to his employees in a condescending manner.
+  - Though he was not superior to everyone else in the room, Adam would still talk in a condescending way.
+  - Your condescending words belittle people!
+
+
+
+* [[https://wordsinasentence.com/condone-in-a-sentence/][Condone]]
+
+  =to accept and allow=
+
+  - We will not condone disorderly conduct at church.
+  - While we condone free speech, we do not condone slander.
+  - Good police officers will not condone speeding.
+  - To condone your recent absences from my class, I will need a written note from your parent or guardian.
+  - Children will think it is acceptable to call other people names if parents condone this behavior.
+  - What right-minded person would condone an act of abuse?
+  - There is no way that my mother will condone me to stay awake past midnight.
+
+
+
+* [[https://wordsinasentence.com/congenial-in-a-sentence/][Congenial]]
+
+  =pleasant and enjoyable=
+
+  - Mark is a congenial host who always makes everyone feel welcome.
+  - Because Jenna is not a congenial person, people rarely accept her dinner invitations.
+  - Ellen’s congenial nature makes her a perfect restaurant hostess.
+  - While Hank pretends to be congenial in public, in private he is an unpleasant man who bullies others to get his way.
+  - I was shocked when my stern boss revealed her congenial side at the holiday party.
+  - Even when overworked, police officers are expected to be congenial with the citizens of their communities.
+  - My Uncle Bill is a congenial man who turns every stranger he meets into a friend.
+
+
+
+* [[https://wordsinasentence.com/congenital-in-a-sentence/][Congenital]]
+
+  =existing since birth=
+
+  - Due to a congenital heart condition that ran in their family, the parents were worried about their unborn child.
+  - Because of congenital glaucoma, he wore a prosthetic eye.
+  - I became a doctor so that I could study congenital disorders in newborns.
+  - Her deafness was considered congenital because she was born without hearing.
+
+
+
+* [[https://wordsinasentence.com/coniferous-in-a-sentence/][Coniferous]]
+
+  =a tree or bush bearing cones and green leaves that do not fall in the winter=
+
+  - Even though the tree was classified as coniferous, it had a peculiar color that was far from evergreen.
+  - Wondering if the tree was coniferous, the curious young woman decided to check back later and see if the needles turned brown.
+  - The little girl filled her basket with coniferous cones and planned to use them to create decorations for the annual fall festival.
+  - Inspecting several coniferous trees, the young mother couldn’t make a decision on which would make the best Christmas tree.
+
+
+
+* [[https://wordsinasentence.com/conjecture-in-a-sentence/][Conjecture]]
+
+  =an opinion or idea formed without proof or sufficient evidence=
+
+  - The jury rejected the attorney’s conjecture about the defendant’s motive because of a lack of evidence.
+  - Because the scientist had only conjecture to back up his untested theory, he doubted if the university would offer him any research funds.
+  - Your argument is being ignored because it is basically nothing but conjecture!
+  - For the most part, you are merely stating conjecture when you insist your team is going to win the football championship.
+  - Let us disprove this scientific conjecture by conducting a laboratory experiment.
+  - Since the police have not given a statement yet, the reporter can only make a conjecture about the crisis.
+  - After doing additional research, the scientist admitted his conjecture about the chemical reaction was incorrect.
+
+
+
+* [[https://wordsinasentence.com/conjure-in-a-sentence/][Conjure]]
+
+  =to bring into existence, sometimes by magic=
+
+  - The magician was able to conjure a rabbit out of his empty top hat.
+  - Even though the cupboards were bare, my mother was able to conjure up some dinner for us.
+  - We watched a movie about a witch who would create spells to conjure up whatever she wanted.
+  - It had been years since I saw her face, but I was often able to conjure an image of her in my head.
+
+
+
+* [[https://wordsinasentence.com/connive-in-a-sentence/][Connive]]
+
+  =to conspire or plan=
+
+  - The billionaire did not believe his greedy children would connive to murder him.
+  - Because some of the gang members were tired of their leader, they met in secret to connive a plot to kill him.
+  - Do you believe the government would connive social concerns to distract the public from key financial issues?
+  - To protect their businesses, the drug dealers are working together to connive a way to get rid of the police chief.
+
+
+
+* [[https://wordsinasentence.com/connoisseur-in-a-sentence/][Connoisseur]]
+
+  =an expert on a particular subject=
+
+  - Because the psychologist talks to many individuals, she considers herself to be a connoisseur of people and their relationships.
+  - The head chef at the popular seafood restaurant is viewed as a lobster connoisseur.
+  - If you are a beer connoisseur, you will enjoy a tour of our local brewery.
+  - Louis is a connoisseur of fine art and rarely misses an exhibit at the art museum.
+  - Before my sister got married and had children, she was known as the party connoisseur who never missed a night out with the girls.
+  - The editor of the “Restaurant Review” is looking for a connoisseur of food to employ as a staff writer.
+  - According to the local whiskey connoisseur, the bottle of whiskey in your cabinet is worth over two thousand dollars.
+
+
+
+* [[https://wordsinasentence.com/connotation-in-a-sentence/][Connotation]]
+
+  =suggested or implied meaning=
+
+  - Even though skinny technically means the same thing as slender, it has a connotation that is less favorable.
+  - While a dictionary may provide a standard definition of a word, it may not always reveal the usual connotation associated with it.
+  - No matter how you look at it, the word lucky will always have a positive connotation.
+  - Even though I called him a tricky little devil, I didn’t any critical connotation of the phrase.
+  - While eternity would seem to have a neutral connotation, there are sometimes when it implies something negative.
+  - Calling a job slave labor is only going to have a negative connotation.
+  - Back in the days of McCarthyism, the only color that typically had a negative connotation was red.
+
+
+
+* [[https://wordsinasentence.com/conscientious-in-a-sentence/][Conscientious]]
+
+  =working hard and careful to do things well=
+
+  - Carrie is a conscientious worker who completes every task.
+  - Because my brother is a conscientious objector, he refuses to serve in the military.
+  - Although Jack is a conscientious student, he failed yesterday’s math test.
+  - In my neighborhood, conscientious people are working to protect our environment.
+  - During the recession, James lost his job even though he was a conscientious worker.
+  - At times, my daughter is so conscientious she will spend the entire day on a single project.
+  - In order to be a skilled pianist, one must be very conscientious while practicing.
+
+
+
+* [[https://wordsinasentence.com/consign-in-a-sentence/][Consign]]
+
+  =to pass something to another individual so the item can be sold=
+
+  - To make extra money, some women in my neighborhood consign their used baby garments to a clothing store.
+  - Ginger is going to consign her jewelry to a well-known auction house.
+  - Since I consign my blankets to stores, I don’t get paid until a sale is made.
+  - My mother will sometimes consign her homemade bread to a local store so it can be sold throughout the city.
+
+
+
+* [[https://wordsinasentence.com/consort-in-a-sentence/][Consort]]
+
+  =a partner or associate with whom one shares something=
+
+  - My consort will finish the presentation for me.
+  - Whenever the king travels, he is always accompanied by his consort, his queen.
+  - The criminal forced his wife to be his consort in crime.
+  - Since polygamy is not unusual in that country, don’t be surprised if you encounter men with more than one consort.
+
+
+
+* [[https://wordsinasentence.com/consternation-in-a-sentence/][Consternation]]
+
+  =a feeling of worry, shock, or fear - often happens when something unexpected happens=
+
+  - I sleep in consternation not knowing where my keys are.
+  - Full of consternation at first, the boy now thinks he aced the pop quiz.
+  - Discovering a water bug crawling on the ceiling left me in consternation for hours.
+  - All it took was one pit bull attack for the girl to have a permanent consternation for dogs.
+  - Face your fears to shed the feeling of consternation.
+  - Opening up my unexpected $400 electric bill has me brimming with consternation, especially since I have no way of paying it.
+  - His sudden consternation for heights is all thanks to a hot air balloon accident he witnessed on live television.
+
+
+
+* [[https://wordsinasentence.com/construe-in-a-sentence/][Construe]]
+
+  =to clarify what something means=
+
+  - We were all amazed by the detective’s ability to construe logic out of the killer’s strange riddle.
+  - How are we supposed to construe the meaning of Janey’s statement when we cannot question her about it?
+  - Although I tried to pay you a compliment, you have decided to construe my words as an insult.
+  - You should not construe my silence as an acceptance of your ridiculous plan to rob the bank.
+  - Even though Ellen looked at the handwritten note several times, she was unable to construe the message behind Henry’s messy text.
+  - Can you believe Ethan had no idea airport security would construe the gun in his backpack as a threat?
+  - When the judge realized Helen would not answer the lawyer’s questions, he had no choice but to construe her disobedience as contempt and place her in jail.
+
+
+
+* [[https://wordsinasentence.com/consummate-in-a-sentence/][Consummate]]
+
+  =extremely skilled=
+
+  - Phil is a consummate golfer who earned over eight million dollars in tournaments last year.
+  - Because my sister is a consummate liar, she can make anyone believe practically anything.
+  - My charity organization is looking for a consummate fundraiser to help our group raise much-needed funds.
+  - At the poker tables, it was easy to spot the consummate players because they never seemed anxious.
+  - The detective was a consummate observer who noticed even the smallest things.
+  - Although Sheila did not have much of a case, she knew the fact she was a consummate attorney would give her the edge in court.
+  - Our hound dog is a consummate hunter who never loses a scent.
+
+
+
+* [[https://wordsinasentence.com/contentious-in-a-sentence/][Contentious]]
+
+  =causing or likely to cause an argument=
+
+  - The author wrote a contentious novel which caused a great deal of unrest.
+  - How is this contentious issue being handled by the usually reserved committee?
+  - As a rule, I tend to avoid contentious topics of conversation which might lead to arguments.
+  - The candidate’s stance on abortion will be a contentious topic among voters.
+  - Despite what they say, many people enjoy reading contentious posts on Facebook.
+  - The only contentious part of this contract is the last paragraph.
+  - While I normally like to provide feedback, I found the questions on the company’s survey to be contentious so I left them unanswered.
+
+
+
+* [[https://wordsinasentence.com/contradict-in-a-sentence/][Contradict]]
+
+  =to disagree with what is being stated=
+
+  - Surprisingly, the lab results contradict with the physician’s diagnosis.
+  - Jackie will not testify during Bill’s trial because she knows her testimony will contradict his alibi.
+  - Because the professor is arrogant, he is not willing to listen to any argument that might contradict his opinions.
+  - The security camera appears to contradict Gail’s claim she never left the hotel.
+
+
+
+* [[https://wordsinasentence.com/contrite-in-a-sentence/][Contrite]]
+
+  =feeling or showing remorse or regret=
+
+  - The local news was noticeably contrite and apologized to viewers for the countless on-air technical difficulties.
+  - The guilty defendant seemed contrite for his actions, crying a river in front of everyone, and he even went as far as requesting 500 hours community service.
+  - Because he wasn’t contrite, the judge sentenced the unremorseful man to the maximum number of years.
+  - Don't you have any contrite in your heart for murdering my brother?!
+  - Though she claimed to be contrite, the woman was truly shameless.
+  - Contrite tears poured from the husband when he revealed to his wife of committing infidelity.
+  - Since you wrote a contrite letter expressing remorse, I will forgive and accept you back into my life.
+
+
+
+* [[https://wordsinasentence.com/contrived-in-a-sentence/][Contrived]]
+
+  =unnatural or fabricated=
+
+  - Jim made the contrived confession after the police threatened him.
+  - If you look at the picture of the dog and cat dancing, you can easily tell a Photoshop user created the contrived image.
+  - The movie’s contrived plot about the killer butterflies did not make sense to anyone in the audience.
+  - When the detective looked around the house, he saw a contrived scene that made him believe the kidnapping was staged.
+  - The model’s contrived photo looked nothing like her.
+  - Since you put a great deal of time into planning your contrived crime, you should not expect a lenient prison sentence.
+  - The people on the reality show speak their lines in such a contrived manner that it sounds as if they are reading from a script.
+
+
+
+* [[https://wordsinasentence.com/converge-in-a-sentence/][Converge]]
+
+  =to come together from different places to meet at one point=
+
+  - Every year, my family chooses to converge in Georgia from all around the United States for our family reunion.
+  - With the location and time of the would-be protest shared with everyone beforehand, the many protestors involved will converge on the town hall at exactly eight AM.
+  - Three squads of police were forced to converge on the scene of a riot after fighting broke out between the people protesting there.
+  - Once the enemy city was surrounded on all sides, the commander of the surrounding force ordered them to slowly converge on the settlement.
+
+
+
+* [[https://wordsinasentence.com/conversant-in-a-sentence/][Conversant]]
+
+  =to be familiar with or have inside knowledge about the facts of something=
+
+  - The man is conversant in several different languages including French and English.
+  - Although she was born in Mexico, Maria left Cancun as a young child and isn’t conversant in Spanish.
+  - My hip grandma surprises people when they find out how conversant she is in pop culture.
+  - Because the terms and conditions of the loan are so important, our banker insisted that we become conversant with them.
+
+
+
+* [[https://wordsinasentence.com/convex-in-a-sentence/][Convex]]
+
+  =shaped like a ball; having a distinct curve that leads into or forms a circle=
+
+  - An ice cream scoop’s convex shape make it great for perfectly round scoops.
+  - The convex curve of the scythe allows for the tool to wrap around the wheat like a closed hand.
+  - The convex shape of the air ballon allows for hot air to push up and lift it from the ground.
+  - A globe is curved and convex like a sphere.
+
+
+
+* [[https://wordsinasentence.com/convivial-in-a-sentence/][Convivial]]
+
+  =friendly and making you feel welcome=
+
+  - Carl was a convivial party host who made everyone feel at home.
+  - If you cannot be convivial, then you should not invite people over for dinner.
+  - A letter through the mail is so much more convivial than an online post or text.
+  - Since I removed the modern furnishings from my dining room, the area looks more warm and convivial.
+  - John’s eyes are bright and sparkly whenever he is in a convivial mood.
+  - Even though churches are supposed to be welcoming places of worship, the church near my apartment building is not convivial to new members.
+  - My sister acted convivial to the mechanic so he would not charge a high price for her car maintenance.
+
+
+
+* [[https://wordsinasentence.com/convoluted-in-a-sentence/][Convoluted]]
+
+  =extremely complex and difficult to follow=
+
+  - My head began to hurt as I listened to the professor’s convoluted speech.
+  - Although Janice spoke slowly, I found it difficult to understand her convoluted story.
+  - I had a hard time understanding the movie’s convoluted plot.
+  - Because the medical procedure is a convoluted process, it takes a very long time to complete.
+  - Even though my brother told my parents a convoluted lie, they were still able to see the truth in his tale.
+  - If we get rid of this convoluted ordering system, we can process orders more quickly.
+  - When I fly, I prefer a direct flight not one which takes me on a convoluted journey.
+
+
+
+* [[https://wordsinasentence.com/copious-in-a-sentence/][Copious]]
+
+  =large in number or quantity=
+
+  - To avoid having a hangover, do not drink a copious amount of alcohol.
+  - He was able to support his argument with copious reasoning.
+  - Very rarely does the Red Cross have a copious blood supply as shortages are all too common.
+  - It takes a copious amount of food to suppress my hungry appetite.
+  - After receiving copious letters from viewers, the network revived the cancelled show.
+  - From the copious number of comments, the controversial news piece became the highest discussed story of 2012.
+  - If I were to list the copious reasons why I'm right and you're wrong, we would be here all day.
+
+
+
+* [[https://wordsinasentence.com/corroborate-in-a-sentence/][Corroborate]]
+
+  =to strengthen or support with other evidence; make more certain=
+
+  - I prayed my friend would corroborate the lie I told my parents!
+  - The chocolate on James’ face was enough to corroborate the theory he was the one who stole the brownies.
+  - Even though she knew her husband was lying, Meredith still agreed to corroborate his story in court.
+  - Dr. Samuelson was glad his partner was willing to corroborate his scientific findings.
+  - The defense attorney could not find anyone to corroborate his client’s alibi.
+  - My coworkers can corroborate the fact I was at work all day.
+  - Although Norman could corroborate his sister’s story, he refused to do so because he was angry at her.
+
+
+
+* [[https://wordsinasentence.com/coterie-in-a-sentence/][Coterie]]
+
+  =a group of individuals who hang out together for a certain reason=
+
+  - Our coterie of girls always sits at the best table in the school cafeteria.
+  - With his latest novel, James hopes to reach a whole new coterie of readers.
+  - The president’s coterie of advisers was unable to offer him a solution to the national problem.
+  - Because the coterie of rebellious teens refused to leave the store, the police were called.
+
+
+
+* [[https://wordsinasentence.com/countenance-in-a-sentence/][Countenance]]
+
+  =a person's face or facial expression=
+
+  - Even though Janet is a very young woman, her rough countenance makes her appear much older.
+  - You could tell from Peter’s countenance that he was quite angry!
+  - If you approach Jackson with that angry countenance, he will meet you with the same expression.
+  - Despite Karen’s struggle with cancer, she always has a peaceful countenance.
+  - Santa Claus always has such a happy countenance!
+  - It is obvious from your countenance you are having a bad day.
+  - Although Harry made the apology, it was obvious from his countenance that his words were insincere.
+
+
+
+* [[https://wordsinasentence.com/counterfeit-in-a-sentence/][Counterfeit]]
+
+  =a fake version of an original item=
+
+  - The man was arrested for making counterfeit money.
+  - When the man tried to pay the mob boss with a counterfeit diamond, he was almost beaten to death.
+  - Pyrite is a mineral that is known as fool’s gold or counterfeit gold because it bears a striking resemblance to the precious metal.
+  - Before the painting is placed in the museum, an art expert will evaluate it to make sure it is not a counterfeit.
+
+
+
+* [[https://wordsinasentence.com/credulous-in-a-sentence/][Credulous]]
+
+  =ready to believe, especially on slight or uncertain evidence=
+
+  - Because my brother is a credulous consumer, he is a salesperson’s dream.
+  - The con man was able to easily sell his wonder products to credulous buyers.
+  - For the most part, credulous individuals will believe anything they are told.
+  - My uncle is a credulous man who once paid a fortune for an imaginary gold mine.
+  - Even though there was very little evidence, the credulous jury decided the defendant was guilty.
+  - At the age of eleven, Pierce was so credulous he believed in the tooth fairy.
+  - Because the credulous public wanted to believe the killer was off the streets, they never questioned the arrest of an innocent man.
+
+
+
+* [[https://wordsinasentence.com/cringe-in-a-sentence/][Cringe]]
+
+  =to shrink or flinch, as in fear, disgust or embarrassment=
+
+  - Because I'm afraid of the dentist, I cringe every time I get my teeth cleaned.
+  - Julie could not help but cringe at the thought of eating chocolate covered crickets.
+  - Briana is typically a brave girl, but coming face to face with a mountain lion on her hike made her cringe in fear.
+  - I cringe every time I read my father's suicide letter.
+
+
+
+* [[https://wordsinasentence.com/crumple-in-a-sentence/][Crumple]]
+
+  =crush something in a way that it becomes wrinkled with many folds=
+
+  - The girl used her foot to crumple each can she collected.
+  - As time marched on, the woman’s aging face began to crumple.
+  - Paper is easy to crumple but hard to straighten back out.
+  - Throwing the dress in the basket caused it to crumple.
+
+
+
+* [[https://wordsinasentence.com/culinary-in-a-sentence/][Culinary]]
+
+  =relating to cooking=
+
+  - The chef created a culinary masterpiece that wowed his patrons.
+  - Because I am interested in cooking, I have been longing to attend culinary school.
+  - She was nervous about her first dinner party because her culinary skills were very basic.
+  - My friend is a culinary expert and helped me choose the menu for the party.
+
+
+
+* [[https://wordsinasentence.com/culminate-in-a-sentence/][Culminate]]
+
+  =to come to a significant point such as the end of an event=
+
+  - At the end of the night, the concert will culminate in a huge fireworks display.
+  - Why is it that men always believe kissing should culminate in sex?
+  - The holiday parade will culminate with the arrival of Santa Claus on his sleigh.
+  - After eight sessions, the summer camp will culminate in a group presentation from all of the sessions.
+  - Unfortunately, the tension between the two countries is likely to culminate in war.
+  - Next week, Jake’s twelve years of school will culminate in his graduation ceremony.
+  - The preparation of the paintings will culminate in a city exhibit in the fall.
+
+
+
+* [[https://wordsinasentence.com/culpable-in-a-sentence/][Culpable]]
+
+  =guilty; deserving blame=
+
+  - The judge found the man culpable of the crime and sentenced him to life in prison.
+  - If you drive under the influence of alcohol, then you are culpable for any accidents you have as a result of driving in that condition.
+  - The teacher who allowed the bullying in her class is just as culpable as the student bully.
+  - Because you acted as the getaway driver during the robbery, you are also culpable of the robbery itself.
+  - If anyone is culpable in this crumbling marriage, it is the cheating wife.
+  - According to the police, the pharmacist is culpable of stealing drugs.
+  - Even though each driver is trying to pass the blame, one of them has to be culpable for the accident.
+
+
+
+* [[https://wordsinasentence.com/cursory-in-a-sentence/][Cursory]]
+
+  =something done quickly with little attention to detail=
+
+  - After doing a cursory head count, Claire realized that two of the campers were not in their tents.
+  - Any cursory observation of human behavior will demonstrate that no one is absolutely predictable in any given situation.
+  - Because the pawnbroker had made only a cursory assessment of his mother’s jewelry, Scott decided not to accept his offer.
+  - Although the witness was only able to provide a cursory description of the perpetrator, the police sketch artist was able to come up with a reasonable representation.
+  - A cursory review of your list of grievances indicates that you probably don’t have a strong case for a civil suit.
+  - While researchers had made a cursory analysis of the side effects of the new formula, they decided that more information was needed before they proposed its acceptance to the FDA.
+  - After taking cursory measurements of the cast members, Amanda was ready to start on making the costumes.
+
+
+
+* [[https://wordsinasentence.com/curt-in-a-sentence/][Curt]]
+
+  =blunt to the point of being impolite=
+
+  - The service agent was fired after he was overheard treating customers in a curt manner.
+  - Because I did not appreciate the salesman’s curt responses to my questions, I went to another dealership to purchase a car.
+  - The curt exchange of greetings made it obvious the two fighters did not like each other.
+  - When I read Barbara’s curt note, I ignored her impolite tone and sent her a civil response.
+
+
+
+* [[https://wordsinasentence.com/customary-in-a-sentence/][Customary]]
+
+  =actions based on longstanding traditions of a particular society=
+
+  - Kisses and hugs were customary in his family, but not his wife’s crew.
+  - The CEO was scheduled to give his customary pep talk but decided to do a luncheon instead.
+  - Somehow the NBA team has managed to avoid their customary slow start to 1st quarter.
+  - The customary 15 percent tip was not only expected, but required.
+
+
+
+
+* [[https://wordsinasentence.com/cadence-in-a-sentence/][Cadence]]
+
+  =a consistent rhythm or beat=
+
+  - We were happy when our fast-talking professor started to speak in a slow cadence we could understand.
+  - When my son gets excited, he speaks in a rapid cadence.
+  - As Jill listened to the rain’s cadence on her roof, she lost herself in romantic daydreams.
+  - Sam’s songs have such a lively cadence that they are very popular in dance clubs.
+  - Although the dancer is in his seventies, he can still move with the smooth cadence of a young dance student.
+  - The little boy worked hard in band class to maintain his drum cadence.
+  - During basic training, the soldier learned the right way to march in cadence.
+
+
+
+* [[https://wordsinasentence.com/cadge-in-a-sentence/][Cadge]]
+
+  =to convince a person to give you something at no charge=
+
+  - By flirting with the bartender, the pretty girl was able to cadge free drinks.
+  - The homeless man was constantly trying to cadge cigarettes from pedestrians.
+  - When the con artist exerts his charm, he can easily cadge money from widows.
+  - The hitchhiker hopes to cadge a free ride to California.
+
+
+
+* [[https://wordsinasentence.com/cajole-in-a-sentence/][Cajole]]
+
+  =persuade someone to do something; convince with gentle pleading; sweet-talk=
+
+  - Why did I ever let my friends cajole me into eating sushi?
+  - Each time we dine there, Howard manages to cajole the waiter into giving us something for free.
+  - Using dry tuna, I was able to cajole the kitten out of the corner.
+  - By offering them outrageous bonuses, the agency tries to cajole college players to sign with professional teams.
+  - You can easily cajole his little boy with a cookie!
+  - In order to cajole the man off the ledge, the police showed him a picture of his wife.
+  - With a kiss on the cheek, I can cajole my husband into taking me shopping.
+
+
+
+* [[https://wordsinasentence.com/calibrate-in-a-sentence/][Calibrate]]
+
+  =to quantify in a careful and detailed manner=
+
+  - The hospital pharmacist knows how important it is to calibrate the IV medications correctly.
+  - Since one of my tires looks a little flat, I’m going to take my car to the shop so a mechanic can calibrate the tire pressure.
+  - The doctor will calibrate my oxygen level by having me blow air into a tube that is attached to a computer.
+  - Before weighing substances in the lab, you should calibrate the scale to make sure it's properly balanced.
+
+
+
+* [[https://wordsinasentence.com/callow-in-a-sentence/][Callow]]
+
+  =immature, lacking in life experience=
+
+  - Since the callow baker was new to cake decorating, she did not know how to properly frost the multi-layer cake.
+  - Alice is a callow secretary who needs to take a few more computer classes.
+  - Even though Jack was a callow football player who only played one game with the junior varsity team, he still hoped to earn a spot on the varsity squad.
+  - When Sarah was a callow young girl, she believed she could get pregnant simply by kissing a boy.
+  - As a teacher with over thirty years of experience, Carol is definitely not a callow educator.
+  - When Frank is trying to impress his friends, he will sometimes do stupid things and behave in a callow manner.
+  - Many people wonder if Charles can manage the company at his callow age of twenty-six.
+
+
+
+* [[https://wordsinasentence.com/calumniate-in-a-sentence/][Calumniate]]
+
+  =to voice untrue accounts about an individual or group=
+
+  - In an attempt to prevent the mayor’s reelection, someone has been using the Internet to calumniate the city leader’s family.
+  - The dishonest reporter would calumniate her own mother in order to make front page news.
+  - If the tabloid continues to calumniate the actor, it will be hit with a lawsuit.
+  - Laura knew her lying ex-husband would calumniate her in order to gain custody of their children.
+
+
+
+* [[https://wordsinasentence.com/cameo-in-a-sentence/][Cameo]]
+
+  =a tiny role in a film that is performed by a famous individual=
+
+  - The actor’s cameo had him onscreen for less than two minutes.
+  - In the movie filmed in our town, our mayor appears as himself in a cameo.
+  - The Oscar winner has a brief cameo in the low budget film.
+  - Although the famous entertainer’s cameo was only a minute long, it still managed to be one of the most exciting parts of the movie.
+
+
+
+* [[https://wordsinasentence.com/canard-in-a-sentence/][Canard]]
+
+  =a phony report or story=
+
+  - The newspaper was sued for publishing a canard about a popular celebrity.
+  - In order to sell magazines, the tabloid will knowingly print a canard that is not supported by facts.
+  - I eat plenty of apples and still get sick so I do not believe the canard about an apple a day keeping the doctor away.
+  - To get back at her ex-boyfriend, Jane made up a canard about him selling drugs.
+
+
+
+* [[https://wordsinasentence.com/candidacy-in-a-sentence/][Candidacy]]
+
+  =the state of being considered for a position=
+
+  - Meeting all the qualifications for candidacy, the well-known business owner decided to run for mayor.
+  - The man’s candidacy for governor didn’t last long with a scandal pushing him out of the race just a week after he entered.
+  - Goldstein’s candidacy was boosted by banking bigwigs who felt having him in office would help business.
+  - Though many placed doubts on his candidacy, the underdog was able to pull of a presidential win.
+
+
+
+* [[https://wordsinasentence.com/cannon-in-a-sentence/][Cannon]]
+
+  =a large, mounted gun that is used to fire heavy projectiles=
+
+  - Invented in China during the 12th century, the first cannon was used along with gunpowder as a weapon of war.
+  - During the Civil War, the use of a cannon for fighting diminished as rifled barrels replaced these heavy weapons.
+  - Cannon battles still take place during the war reenactment, where history buffs get to watch mounted guns in their glory.
+  - Early cannons were filled with balls of gunpowder so that when they struck an object, the explosion would cause more harm.
+
+
+
+* [[https://wordsinasentence.com/canonical-in-a-sentence/][Canonical]]
+
+  =following or according to the rules=
+
+  - The canonical composer always made sure that his hymns fit in with the church’s regulations.
+  - There is no canonical way of producing poetry, since every poet has his own set of rules for writing.
+  - With precise language, the 1900s-canonical literature follows the rules of the time.
+  - Per the rules, the patron’s canonical rituals should be practiced every Sunday.
+
+
+
+* [[https://wordsinasentence.com/canorous-in-a-sentence/][Canorous]]
+
+  =pleasant sounding=
+
+  - Belting out a canorous tune, the singer’s beautiful voice seemed to entrance everyone around.
+  - Giving a canorous speech to the attentive crowd, the speaker’s voice carried beautifully throughout the arena.
+  - The song was canorous to my ear, more pleasant sounding than any other I had heard.
+  - Cecilia’s canorous laugh was soft and lovely as it exited her cherry lips.
+
+
+
+* [[https://wordsinasentence.com/canvass-in-a-sentence/][Canvass]]
+
+  =to seek out support from people=
+
+  - Because my aunt is active in politics, she never fails to canvass her neighborhood in support of her favorite candidates.
+  - Campaign representatives can use their computers to canvass potential voters online.
+  - Right before the election, a team of volunteers will canvass the town for the Democratic Party.
+  - The younger activists were excited to canvass door-to-door for Senator Sanders.
+
+
+
+* [[https://wordsinasentence.com/capacious-in-a-sentence/][Capacious]]
+
+  =having the ability to hold a great amount=
+
+  - When Janet bought a capacious home, she was finally able to use all the furniture she had been keeping in storage.
+  - Len and Kelly traded in their small pickup truck for a capacious sedan that could hold their growing family.
+  - Since we have over five hundred people coming to the wedding, we need to find a capacious venue.
+  - We are only going on an overnight trip, but my wife is still packing several outfits in a capacious suitcase.
+
+
+
+* [[https://wordsinasentence.com/caper-in-a-sentence/][Caper]]
+
+  =a silly stunt or activity=
+
+  - Grandpa Joe insisted he was too old for that type of caper and wouldn’t sing karaoke with us.
+  - The old-timey caper movies are filled with slapstick comedy and silly stunts.
+  - Taking part in the caper, Marlo and I blew bubbles and wrote with chalk like we were kids again.
+  - Embarrassed by his sister’s silly pranks, James screamed at her about her latest caper.
+
+
+
+* [[https://wordsinasentence.com/caprice-sentence/][Caprice]]
+
+  =an impulsive act=
+
+  - Because John did not think before acting, he could spend the next ten years in prison for a silly caprice.
+  - Margie’s angry outburst was a caprice she wished she could take back.
+  - Even though Robert knew he would probably get caught, he felt robbing the bank was a caprice he needed to perform to save his family.
+  - Ann’s nude dancing was a caprice she never would have done in a sober state.
+  - Rather than plan out her vacation, Jackie decided to have a weeklong adventure that would consist of one caprice followed by another unexpected choice.
+  - The last time my uncle drank too much whiskey he engaged in a caprice that ended with him spending over a thousand dollars on complete strangers.
+  - When the board learned of the lawyer’s caprice of bribing a witness, it had no choice but to disbar him for ethical and criminal violations.
+
+
+
+* [[https://wordsinasentence.com/careen-in-a-sentence/][Careen]]
+
+  =to move swiftly in an uncontrollable manner, sometimes from one side to another side=
+
+  - If you drive too fast in dangerous weather, your car may careen off the road.
+  - I yelled as I saw my drunk neighbor careen his vehicle into his house.
+  - When the bartender saw his patron careen from wall to wall, he knew the man would need a ride home.
+  - The force of the storm caused the chairs to careen on the deck of the cruise ship.
+
+
+
+* [[https://wordsinasentence.com/carouse-in-a-sentence/][Carouse]]
+
+  =to take part in a drunken get-together=
+
+  - On most weekends the fraternity brothers carouse with the wild sorority girls.
+  - If you carouse before a big game, the coach will suspend you from the team.
+  - Despite being married the king would often carouse with many women in his private chamber.
+  - On Fridays many of the workers carouse at the neighborhood bar and grill.
+
+
+
+* [[https://wordsinasentence.com/carp-in-a-sentence/][Carp]]
+
+  =to find fault or quarrel with someone constantly=
+
+  - Edith’s husband decided to leave, saying that he couldn’t stand her tendency to carp and complain constantly.
+  - The company has a high turnover rate because the managers carp and fault-find with all of the hourly employees.
+  - Jason’s mother doesn’t allow him to carp under his breath and grounds him when she hears him grumble and complain.
+  - If you gripe and quarrel constantly, you will find yourself alone with few friends.
+
+
+
+* [[https://wordsinasentence.com/carrion-in-a-sentence/][Carrion]]
+
+  =flesh of a deceased animal=
+
+  - We could smell the carrion left by hunters even before we stumbled upon it during our trek up the mountain.
+  - Because animals are regularly killed on the highway, there is always a supply of carrion for the scavengers.
+  - My sister is a strict vegetarian who refuses to eat carrion.
+  - As soon as the worker from the animal shelter arrived, he mentioned he could smell the carrion of a rotting animal.
+
+
+
+* [[https://wordsinasentence.com/catharsis-meaning-in-a-sentence/][Catharsis]]
+
+  =the process of releasing strong emotions and feelings=
+
+  - Sometimes the act of taking a break away from the world will help a tired person experience the catharsis he or she needs to deal with everyday life.
+  - As the city grieves for those who died during the hurricane, many survivors find catharsis in the warmth of area churches.
+  - When I hit a punching bag, I am generating my own personal catharsis by releasing my anger into an object.
+  - Many cult leaders gain followers by encouraging wayward souls to purge themselves of their sins through catharsis.
+  - During his first year of marriage, John went through a huge catharsis in which he learned how to honestly express his emotions.
+  - For many women, yoga is a catharsis which allows them to reflect upon their innermost feelings.
+  - Finally admitting his guilt was a healing catharsis for the serial killer.
+
+
+
+* [[https://wordsinasentence.com/caucus-in-a-sentence/][Caucus]]
+
+  =a gathering of individuals who come together to work for a shared objective – generally political in nature=
+
+  - The Black Student Caucus is holding a cultural diversity workshop in the media center on Saturday.
+  - When the legislative caucus meets, they will discuss a new proposal on gun control.
+  - I wonder what names will come up as possible presidential candidates during next month’s electoral caucus.
+  - Before the student government caucus, Heather needs to make copies of the meeting’s agenda.
+  - The leaders of the highest oil-producing countries will meet in a caucus to converse about the dwindling supply of natural resources.
+  - During the Latino Congressional Caucus, plans were made to increase Latino involvement in politics.
+  - The leaders of the church will hold a caucus to discuss the applicants who have applied to be the new youth minister.
+
+
+
+* [[https://wordsinasentence.com/cavort-in-a-sentence/][Cavort]]
+
+  =to move around in an excited fashion=
+
+  - The boys cavort around the pool while watching bikini-clad girls.
+  - During the company Christmas party, I saw even the most serious employees cavort around the bar.
+  - The happy puppies cavort around their mother’s feet.
+  - As the band plays, the people in the audience cavort around the stage.
+  - The half-naked girls were paid to cavort in front of the camera.
+  - In the summer months, the children cavort in the water released from the sprinklers.
+  - The impatient chimpanzees cavort in their cages while waiting to be fed.
+
+
+
+* [[https://wordsinasentence.com/cement-in-a-sentence/][Cement]]
+
+  =to firmly bind or join something together=
+
+  - The newlywed couple hoped that their new baby would further cement their marriage.
+  - Lying under oath, the banker’s untruthfulness was all that was needed to cement his already doomed fate.
+  - The politician saw his landslide victory as a way to cement his name in history books forever.
+  - To cement her hold on her son, the overbearing mother used money as a way to control his every move.
+
+
+
+* [[https://wordsinasentence.com/centrifugal-in-a-sentence/][Centrifugal]]
+
+  =moving away or advancing from an axis or center=
+
+  - Because I love freshly squeezed juice, I bought a centrifugal juicer that pulls the liquid from the pulp.
+  - Kim had no idea she was doing an experiment about centrifugal force when she sucked her milk through a straw.
+  - On the dairy farm, we use centrifugal energy to remove the cream from the milk.
+  - The centrifugal hose is used to remove fluid from the center of the engine.
+
+
+
+* [[https://wordsinasentence.com/centripetal-in-a-sentence/][Centripetal]]
+
+  =moving towards the center=
+
+  - The centripetal star is slowly accelerating towards the middle of its solar system.
+  - A satellite in orbit around earth is kept on its path by gravity, which serves as a centripetal force.
+  - Without a centripetal force to keep the object near the center, it made its way outside of the margins.
+  - A centripetal force applied by the track kept the soaring roller coaster car from flying off the rails.
+
+
+
+* [[https://wordsinasentence.com/chaff-in-a-sentence/][Chaff]]
+
+  =of very little value=
+
+  - The pawn store owner refused to buy the thief’s chaff because it was worthless.
+  - Since Ann believed her doll collection was very valuable, she was shocked when the expert told her the dolls were chaff.
+  - The woman was not upset about the robbery because she knew only chaff had been stolen.
+  - Because your ring is chaff, I seriously doubt the jeweler will make you an offer for it.
+
+
+* [[https://wordsinasentence.com/charade-in-a-sentence/][Charade]]
+
+  =a sham or farce=
+
+  - Keeping up the charade, my family continued to pretend that they weren’t going to throw my little sister a surprise party.
+  - Many saw the meeting as a charade and did not believe that the board members really intended to solve the budget problem.
+  - The news crisis was just a charade meant to take attention away from some secret agenda.
+  - Ignoring the charade, the people passing by knew that the panhandler was a fraud.
+
+
+
+* [[https://wordsinasentence.com/chaste-in-a-sentence/][Chaste]]
+
+  =wholesome; pure in thought=
+
+  - Because I am very religious, I told my boyfriend we could do nothing more than exchange chaste kisses.
+  - The priest took an oath to avoid impure temptations in order to remain chaste.
+  - When going to church, one should dress in a chaste manner.
+  - The chaste girl would not wear any dress that stopped above her knees.
+
+
+
+* [[https://wordsinasentence.com/chasten-in-a-sentence/][Chasten]]
+
+  =to punish or reprimand in order to correct=
+
+  - As a parent, I don’t feel spanking is a good way to chasten your kids.
+  - The teenager rolled her eyes as her teacher continued to chasten her for never turning in her assignments.
+  - In court, the judge will probably chasten the repeat offender with a lecture and a harsh sentence.
+  - A ten-minute timeout is not enough to chasten the rebellious young boy.
+
+
+
+* [[https://wordsinasentence.com/cheeky-in-a-sentence/][Cheeky]]
+
+  =impudent or unapologetic but in a generally charming way=
+
+  - The third grader was extremely cheeky, rarely referring to the teacher as ‘Mr. Walters’ rather than ‘gramps,’ but it was somewhat endearing.
+  - Someone who is cheeky is usually a bit young, as disrespectful adults are rarely ever viewed in a positive light.
+  - You can be a little cheeky with your teacher when you are a child, but you can never disrespect your boss if you want to keep your job.
+  - My son can be a little cheeky at times, but I don’t get too mad unless he flat out disobeys me on something important.
+
+
+
+* [[https://wordsinasentence.com/chic-in-a-sentence/][Chic]]
+
+  =tastefully stylish=
+
+  - The chic heels will go perfectly with my stylish dress.
+  - Because I knew the accessories were very chic and in the latest style, I didn’t mind paying a high price for them.
+  - The fashion critics praised the young woman’s chic outfit.
+  - When Simon makes over his thirty-year-old restaurant, he plans to give it a chic modern look.
+
+
+
+
+* [[https://wordsinasentence.com/chicanery-in-a-sentence/][Chicanery]]
+
+  =the use of trickery to achieve a political, financial, or legal purpose=
+
+  - You can smell the chicanery from a dishonest politician.
+  - That republican is up to his old chicanery, blaming all democrats for the recession.
+  - Our city council is full of chicanery, telling citizens a tax increase is now necessary though this wasn't the case 2 weeks ago.
+  - People don't trust you because of your chicanery.
+  - Instead of being truthful on his campaign for sheriff, he resorted to chicanery.
+  - Rod Blagojevich, who tried to sell his senate seat, is a man of chicanery.
+  - Stop with the chicanery and be honest with your people, Governor!
+
+
+
+* [[https://wordsinasentence.com/chide-in-a-sentence/][Chide]]
+
+  =tell somebody off; scold=
+
+  - I don’t want the boss to chide me for being late again, so I’m setting the alarm for a half hour earlier.
+  - I knew that Mrs. Perkins would probably chide me for having terrible penmanship, so I decided to type the final draft of my essay on the computer.
+  - I enjoyed watching the mother bird chatter and chide the babies until they finally made their first awkward attempt at flight.
+  - Lisa knew that her friends would chide her for refusing to go to the fraternity party, but she was certain that she was making the smart choice.
+  - Mary knew that things had been very hectic at her husband’s job, so she didn’t chide him for forgetting their anniversary.
+  - It never fails that I overindulge on treats on the weekend, then chide myself on Monday for having such weak will power.
+  - Little Carrie was proud of her new haircut, and she never expected her mother to chide her for her creativity.
+
+
+
+* [[https://wordsinasentence.com/choleric-in-a-sentence/][Choleric]]
+
+  =easily irritated; grumpy=
+
+  - Since I do not sleep well, I am choleric when someone calls me after I have gone to bed.
+  - The choleric baby would not stop crying.
+  - Because Frank knew his wife was in a choleric mood, he tried to avoid doing anything that would upset her.
+  - Even the slightest noise would disturb the choleric man and send him into a rage.
+  - When Matt started to show signs of being choleric, the teacher asked him to lower his head until he was less irritable.
+  -  Janice tried to do everything correctly to avoid annoying her choleric boss.
+  - After getting his shots, the choleric dog did not want to be touched.
+
+
+
+* [[https://wordsinasentence.com/chortle-in-a-sentence/][Chortle]]
+
+  =to chuckle or snort in amusement or glee=
+
+  - As Santa Claus listened to the little boy’s joke, he started to chortle in amusement.
+  - The sound of Vera’s chortle reminded me of a happy pig’s snort.
+  - When the professor made a dry joke, not a single student thought it was worth the effort of a chortle.
+  - Did you hear my grandmother chortle gleefully when she recalled the fun days of her youth?
+
+
+
+* [[https://wordsinasentence.com/churl-in-a-sentence/][Churl]]
+
+  =a rude and mean-spirited person=
+
+  - Theo often acted like a churl, being mean to everyone he came in contact with.
+  - The grump man is a miserable churl who is rude and surly at all times.
+  - Only such a mean-spirited churl could steal candy from a baby.
+  - Acting like a rotten old churl, the hateful judge frowned all day long.
+
+
+
+* [[https://wordsinasentence.com/cinder-in-a-sentence/][Cinder]]
+
+  =a small, glowing piece of partly burnt coal or wood=
+
+  - One glowing cinder was all that remained of the once burning fire.
+  - Cinderella’s nickname came from the cinder ashes that covered her face while stoking the fire.
+  - Tossing the cinder back into the fire, the boy hoped that the glowing piece of would might somehow restart the fire.
+  - As the rain beat down on the campsite, the drenched fire contained not one smoldering cinder of would.
+
+
+
+* [[https://wordsinasentence.com/clairvoyant-in-a-sentence/][Clairvoyant]]
+
+  =able to see beyond the range of ordinary observation=
+
+  - The psychic’s clairvoyant abilities allowed her to see into the future.
+  - If I was clairvoyant, I could win the lottery very easily.
+  - After being struck by lightning, Bill claimed to have clairvoyant gifts that allowed him to read the minds of others.
+  - It is said that the wise man with the clairvoyant abilities can help people talk to their deceased loved ones.
+  - One does not need to be clairvoyant to realize my school’s basketball team is going to win the state championship.
+  - Although Heather is not a clairvoyant, she is very good at predicting how others will respond to certain incidents.
+  - The clairvoyant woman looked at the cards and saw her own death.
+
+
+
+* [[https://wordsinasentence.com/clammy-in-a-sentence/][Clammy]]
+
+  =unpleasantly damp and sticky or slimy to touch=
+
+  - The feverish girl's skin was clammy and slick with a light layer of sweat.
+  - His hands were so clammy on their first date that he was afraid to hold her hand.
+  - During the time of the bubonic plague, one of the first symptoms of the disease was clammy skin cold to the touch but covered with sweat.
+  - The little girl was so excited to pet the dolphin but was repulsed when she felt its clammy, wet skin.
+
+
+
+* [[https://wordsinasentence.com/clasp-in-a-sentence/][Clasp]]
+
+  =take hold of; grab tightly=
+
+  - I would clasp the check firmly in one hand because dropping it would mean possibly losing ten thousand dollars.
+  - When Martha saw the swarthy man walk quickly towards her, she decided to clasp her purse as a precautionary measure so he couldn’t steal it.
+  - Kevin would clasp the money tightly during the pool game so no one could take it out of his hands when he was focused on the game.
+  - As the crazy ghost jumped out at the teenagers in the haunted house, the youngest girl reached up to clasp her sister’s arm in fear.
+
+
+
+* [[https://wordsinasentence.com/cleft-in-a-sentence/][Cleft]]
+
+  =an opening fissure, or V-shaped indentation made by or as if by splitting=
+
+  - Neil and Mary’s baby girl had a cleft lip repair at age six months.
+
+
+
+* [[https://wordsinasentence.com/clinch-in-a-sentence/][Clinch]]
+
+  =to make certain; to finalize=
+
+  - The Senate must work quickly and together in order to clinch the budget deal to avoid a government shutdown.
+
+
+
+* [[https://wordsinasentence.com/cling-in-a-sentence/][Cling]]
+
+  =hold tightly=
+
+  - Eric does not like to swim while wearing an undershirt because wet clothes cling to his body.
+  - Many governors and senators cling to the hope that one day they will be the president of the United States.
+  - I cling onto hope that my daughter will be cured from cancer.
+  - When Charlie was thrown into a Soviet prison for practicing religion, he made a firm decision to continue to cling to his faith.
+
+
+
+* [[https://wordsinasentence.com/cloying-in-a-sentence/][Cloying]]
+
+  =too sugary or sentimental=
+
+  - Jill is no longer impressed by cloying lines of devotion after having her heart broken countless times.
+  - While Kelly and Kyle clearly love each other, their public displays of affection are often cloying to the point of being nauseating.
+  - The anniversary card was cloying so I knew my unsentimental husband had not purchased it himself.
+  - As a comedy, the film had too many cloying scenes that made it seem like a poorly written drama.
+
+
+
+* [[https://wordsinasentence.com/coagulate-in-a-sentence/][Coagulate]]
+
+  =to thicken or develop as a mass=
+
+  - The killer did not realize the blood would coagulate on the floor and form a huge blob.
+  - Over time the milk will coagulate and become a bottle of disgusting clots.
+  - Soon the candy mixture will coagulate around the apple and form one of my favorite treats.
+  - According to the directions, you should stir the brownie batter until it begins to coagulate.
+  - My son is always eager for the pudding to coagulate in the refrigerator.
+  - Within a few hours, the stain will coagulate and form a protective covering over the deck.
+  - I knew the blood had started to coagulate when it stopped oozing from the wound.
+
+
+
+* [[https://wordsinasentence.com/coddle-in-a-sentence/][Coddle]]
+
+  =to treat gently or with great care=
+
+  - The babysitter realized that she couldn’t coddle the children because they started to ignore her commands.
+  - Our teacher was very fair in that she would neither coddle nor chastise her students.
+  - The new parents were unsure whether or not to coddle their newborn.
+  - Because he had recently lost a parent, friends and family would often coddle the young boy.
+
+
+
+* [[https://wordsinasentence.com/coeval-in-a-sentence/][Coeval]]
+
+  =similar in age or length of time=
+
+  - Once Jenny and I realized our parties were coeval, I decided to host my event on another day.
+  - As soon as I get on campus, I plan on requesting a schedule change because two of my classes are coeval.
+  - It’s impossible for me to attend both of my children’s events because they are coeval and occurring at the same time.
+  - Since my sister and I are twins, we have coeval birthdays.
+
+
+
+* [[https://wordsinasentence.com/coffer/][Coffer]]
+
+  =a strong chest or box that is used to store money or valuables=
+
+  - After placing all his loot into the coffer, the pirate locked the chest.
+  - Inside of the mansion, a wooden coffer contained century old jewels and clothing.
+  - Because the couple’s coffer was packed to the top, they had to buy another storage strong box.
+  - The lightwood coffer contained the precious family heirlooms that we plan to pass to our children.
+
+
+
+* [[https://wordsinasentence.com/cogitate-in-a-sentence/][Cogitate]]
+
+  =to think hard about; to consider=
+
+  - Even though he had received many invitations to celebrate his ninetieth birthday, the old spy preferred to stay home with a good cigar and quietly cogitate upon his life of adventure.
+  - After the guilty verdict was handed in, the judge released the jury so that he could cogitate about the kind of sentence he should pass.
+  - My priest told me I could ease the tension in my life by making time every day to find a quiet place to pray and cogitate on peaceful things.
+  - After Timmy drew on the dining room wall with markers, his mother sent him to Time Out to make him cogitate about what he had done.
+  - Henderson presented the new problem to the Executive Committee on Friday, telling them to cogitate on the matter over the weekend.
+  - After spending more than an hour on one homework problem, Michael decided not to cogitate on it any longer and went to the kitchen for a snack.
+  - If you cogitate on your destiny for too long, you will miss out on your life.
+
+
+
+* [[https://wordsinasentence.com/collage-in-a-sentence/][Collage]]
+
+  =an artistic creation made by sticking many different things together=
+
+  - Creating a collage out of all her childhood pictures, Jaleesa used her artistic ability helped her make the perfect mother’s gift.
+  - The musical collage is a mixture of all my favorite songs.
+  - As a collage artist, the woman makes masterpieces by placing paper together in amazing patterns.
+  - Creating an interesting collage, the photographer hoped that the couple would like the mixed-up framing.
+
+
+
+* [[https://wordsinasentence.com/collate-in-a-sentence/][Collate]]
+
+  =to put information in a specific order=
+
+  - The software program allows people to collate their photographs by dates.
+  - Before filing the folders, the clerk will collate them into stacks based on the spelling of the client’s last name.
+  - Does our boss want us to collate these documents by company name or by order number?
+  - The museum curator will collate the artifacts by their countries of origin before placing them in their respective wings.
+
+
+
+* [[https://wordsinasentence.com/colloquy-in-a-sentence/][Colloquy]]
+
+  =a serious chat or conversation=
+
+  - From my bedroom, I could hear portions of my parents’ colloquy about my poor grades.
+  - Jane knew her job was in danger when her manager called her into his office for a colloquy about productivity.
+  - During the colloquy, the lawyers discussed a plea deal for the defendant.
+  - The investigator came up with a list of suspects while engaging in a colloquy with the missing student’s parents.
+
+
+
+* [[https://wordsinasentence.com/collude-in-a-sentence/][Collude]]
+
+  =to conspire for a secret purpose=
+
+  - Breaking antitrust laws, company executives began to collude with one another to make sure their illegal doings were under wraps.
+  - Insurance companies should not be allowed to collude to raise rates on customers.
+  - The government’s willingness to collude with our foreign enemies shocked the ethics committee advisers.
+  - Central banks have been accused of making plans to collude with one another in order to control the world economy.
+
+
+
+* [[https://wordsinasentence.com/comatose-in-a-sentence/][Comatose]]
+
+  =unconscious and unable to communicate=
+
+  - The car crash victim was comatose and unable to talk while on the stretcher.
+  - Having been comatose for almost a week, the man’s family was worried that he might not wake up.
+  - Although he was comatose and couldn’t communicate back my dad’s doctor suggested we talk to him while he was unconscious.
+  - The horrible accident left Elaine comatose and in a state of limited brain activity.
+
+
+
+* [[https://wordsinasentence.com/comely-in-a-sentence/][Comely]]
+
+  =attractive to the eye=
+
+  - Jake offered to buy the comely blonde a drink.
+  - When the shallow man saw his blind date, he refused to go out with her because she did not look comely.
+  - The comely young maiden had a long list of suitors who wanted to marry her.
+  - Although the painting is comely to some people, I find it very unappealing.
+  - A smart man places more emphasis on a woman’s intelligence than he does on her comely appearance.
+  - Because the driver was distracted by the jogger’s comely looks, he hit the car in front of him.
+  - Jennifer is a popular model because she has a comely face.
+
+
+
+* [[https://wordsinasentence.com/comeuppance-in-a-sentence/][Comeuppance]]
+
+  =just punishment that someone deserves=
+
+  - The judge handed down comeuppance to the deserving rapist.
+  - Still angry at her cheating ex-husband, the woman hoped that he would get the comeuppance he rightly deserved.
+  - It seemed to the victim that her attacker would never get the comeuppance he ought to have been given for his crime.
+  - Some feel that watching murderers get their comeuppance in the death chamber is rewarding.
+
+
+
+* [[https://wordsinasentence.com/commencement-in-a-sentence/][Commencement]]
+
+  =graduation ceremony in which diplomas or degrees are confirmed=
+
+  - Preparing her commencement speech, the Valedictorian wanted to find a moving quote to speak to her fellow graduates.
+  - The commencement ceremony for those graduating from the nursing program will begin at 3 pm.
+  - A commencement schedule was given to graduates so that they would know what time they should arrive.
+  - In honor of her son’s high school graduation, the proud mother gave him a new car after the commencement ceremony.
+
+
+
+* [[https://wordsinasentence.com/complaisant-in-a-sentence/][Complaisant]]
+
+  =marked by an inclination to please or oblige=
+
+  - Marsha’s complaisant character made her the perfect servant.
+  - Because John is too complaisant in his willingness to please others, people often take advantage of him.
+  - In the movie, the heroine had a complaisant personality which made it impossible for her to deny anyone anything.
+  - During the flight, I was lucky enough to have an attendant who was friendly and complaisant and made sure all my needs were met.
+  - Hector was a poor manager because he was too complaisant and found it difficult to give orders.
+  - While I enjoy pleasing others, I could never be so complaisant that I would allow others to mistake my kindness for weakness.
+  - Even though our maid was complaisant and willingly performed her duties, I knew she was unhappy with her job.
+
+
+
+* [[https://wordsinasentence.com/complicity-in-a-sentence/][Complicity]]
+
+  =the condition of being involved in an act of wrongdoing=
+
+  - Your complicity in the crime is probably going to earn you five years in prison.
+  - Since I did not have any complicity in the case, it was easy for my lawyer to get me released from jail.
+  - The politician blamed the fraud on his staff members and refused to accept any complicity for the financial deception.
+  - Although Jack did not rob the store, he will be charged with complicity in the crime because he gave his friends the alarm code.
+  - Keith was guilty of complicity when he purposefully left the computer store open so his friends could steal laptops.
+  - Since everyone knows John hated his wife, no one is surprised he is suspected of complicity in her murder.
+  - The storeowner was charged with complicity in the bombing because he sold the chemicals to the suspects without asking for identification.
+
+
+
+* [[https://wordsinasentence.com/compulsion-in-a-sentence/][Compulsion]]
+
+  =an illogical need to perform an action=
+
+  - Along with my obsessive compulsive disorder comes the compulsion to repeatedly check doors to ensure they are locked.
+  - I like being me and feel no compulsion to dress like celebrities I do not know.
+  - Because Jim found it hard to ignore the compulsion to drink alcohol, he checked himself into a rehab clinic.
+  - Edward’s compulsion to frequently have sex with strangers led to the end of his marriage.
+
+
+
+* [[https://wordsinasentence.com/compunction-in-a-sentence/][Compunction]]
+
+  =anxiety arising from awareness of guilt=
+
+  - The serial killer showed no compunction when his guilty verdict was announced.
+  - Even though the stock broker admitted his crime, he displayed very little compunction while standing in front of the judge.
+  - Surprisingly, the gang member showed compunction when questioned about the murder.
+  - The drunk driver showed no compunction after killing an innocent person.
+  - When the Petersons failed to make their mortgage payments, the bank manager showed no compunction and quickly foreclosed on the couple’s home.
+  - Because Michelle lacked compunction, she had no problem throwing away food which could be eaten by others.
+  - Even though Roger was on a strict diet, he felt little compunction after eating three donuts.
+
+
+
+* [[https://wordsinasentence.com/concave-in-a-sentence/][Concave]]
+
+  =shaped in an inward manner like a bowl’s interior=
+
+  - While a convex lens turns outward, a concave lens bends inwardly.
+  - My contact lenses have a concave shape which allows them to pull in and visually sharpen images.
+  - If you press the cantaloupe and it becomes concave and bendy, then you know the fruit is overly ripe.
+  - My concave belly button turns interiorly.
+
+
+
+* [[https://wordsinasentence.com/concession-in-a-sentence/][Concession]]
+
+  =an item or privilege that is given=
+
+  - Since the developer could not give the landowner his desired concession, he was not able to buy the land for the new subdivision.
+  - The prosecutor must be willing to offer a concession of leniency if he wants the defendant to testify against his co-conspirators.
+  - Because of the storm, the city has made a concession that gives citizens a grace period to pay their utility bills without a fee.
+  - The management is willing to give the employees a ten percent salary increase as a concession if they end the strike immediately.
+  - In exchange for investing in  my company, the investor is asking for a concession that amounts to twenty-five percent of the business.
+  - With neither of the country leaders willing to make a concession to ease trade restrictions, the negotiations have ended.
+  - The hotel offered the newlyweds a free bottle of champagne as a concession for not having their suite ready.
+
+
+
+* [[https://wordsinasentence.com/conciliate-in-a-sentence/][Conciliate]]
+
+  =make calm and content; placate=
+
+  - Before mediating between the two parties, the judge attempted to conciliate the plaintiff to prevent unnecessary litigation.
+  - Nothing Frank did could conciliate Ruthie after she lost her necklace which she received as an heirloom.
+  - The seasoned ambassador did his utmost to conciliate France after fighting broke out along its southern border, to no avail.
+  - Attempting to conciliate the angry protesters, Bob held up his hands and urged everyone to take a deep breath.
+
+
+
+* [[https://wordsinasentence.com/condign-in-a-sentence/][Condign]]
+
+  =fair, fitting, and deserved=
+
+  - The judge’s job was to make sure that the sentence was condign for each crime.
+  - They searched for an award that was condign for the young spelling bee winner.
+  - The employee felt that his raise was condign for all the work he had put into his position.
+  - The movie was not condign for those under the age of thirteen.
+
+
+
+* [[https://wordsinasentence.com/condolence-in-a-sentence/][Condolence]]
+
+  =a show of sympathy or comfort=
+
+  - I offered my neighbor my condolence when I heard of his mother’s death.
+  - As a gesture of condolence, I sent my friend a cheery greeting card when her boyfriend dumped her.
+  - My children and I paid a visit of condolence to their school bus driver’s widow.
+  - When the soldier died protecting his comrades, his wife received a call of condolence from our nation's president.
+
+
+
+* [[https://wordsinasentence.com/confer-in-a-sentence/][Confer]]
+
+  =to discuss=
+
+  - Since the doctors are unfamiliar with my symptoms, they will confer on a diagnosis.
+  - The principal closed his office door so he could confer in private with the troubled teen.
+  - At the pharmacy, there is a private area in which the pharmacist can confer with customers about their prescriptions.
+  - The head referee will confer with his colleagues to determine which team should get the ball.
+  - To many people, the leader of our country is a dictator who makes important decisions without choosing to confer with his cabinet.
+  - All the suspect would say is that he wanted to confer with his attorney before making a statement.
+  - After the huge loss, the coach will confer with his team about their poor performance.
+
+
+
+* [[https://wordsinasentence.com/congeal-in-a-sentence/][Congeal]]
+
+  =to change from a liquid to solid state=
+
+  - They refrigerated the liquid gelatin so it would congeal before they ate it.
+  - She wanted to wash the frying pan before the bacon fat had a chance to congeal.
+  - Before I could put a bandage on, my blood begun to congeal on my cut.
+  - Once it was cold, the fat would congeal on top of the stew.
+
+
+
+* [[https://wordsinasentence.com/congregate-in-a-sentence/][Congregate]]
+
+  =to gather as a unit or group=
+
+  - During the summer teenagers often congregate at the beach.
+  - The students will congregate around a fight in order to keep teachers from breaking up the brawl.
+  - Around noon a number of police officers usually congregate for lunch at the sub shop.
+  - The mourners will congregate at the widow’s house after the burial service.
+
+
+
+* [[https://wordsinasentence.com/conjoin-in-a-sentence/][Conjoin]]
+
+  =unite; combine=
+
+  - With only one set of handcuffs, the officer had to conjoin the two suspects.
+  - Wedding ceremonies serve to conjoin two separate families.
+  - The two suspects had to conjoin their alibis in order to beat the case.
+  - For the dive to be complete, both hands must conjoin.
+
+
+
+* [[https://wordsinasentence.com/conscience-in-a-sentence/][Conscience]]
+
+  =the feeling that lets you know if you have done something wrong=
+
+  - The serial killer’s lack of a conscience made it very easy for him to kill people.
+  - Because I treat others as fairly as I can, I have a clear conscience about my business dealings.
+  - Jim does not throw away leftovers because his conscience never lets him forget about the people who are starving somewhere.
+  - If you let your conscience guide you, you will more than likely make a good decision.
+
+
+
+* [[https://wordsinasentence.com/conscription-in-a-sentence/][Conscription]]
+
+  =the system of forcing individuals to serve in the military=
+
+  - Because of John’s moral beliefs, he refuses to take part in the conscription that would require him to bear arms.
+  - Conscription exists as a means to ensure there are always men to protect and defend our nation.
+  - When the anti-war protestors spoke out against conscription, they were opposing mandatory military service.
+  - A number of men who want to avoid conscription insist their religious views prevent them from serving in the military.
+
+
+
+* [[https://wordsinasentence.com/consecrate-in-a-sentence/][Consecrate]]
+
+  =to announce something is sacred or devoted to a specific purpose=
+
+  - After high school, the young men will consecrate their lives to the church and serve as missionaries for two years.
+  - The monks will consecrate the temple as a house of worship.
+  - During the baptismal ceremony, the priest will consecrate the infant in front of his parents.
+  - The minister must consecrate the bread before it is distributed to the members of the congregation.
+  - After graduation, Crystal is going to consecrate her life by becoming a nun.
+  - According to tradition, the high priestess will consecrate an animal that will be worshipped throughout the year.
+  - The spiritual leader of the Indian tribe will consecrate the burial grounds of his people.
+
+
+
+* [[https://wordsinasentence.com/consequential-in-a-sentence/][Consequential]]
+
+  =significant; important=
+
+  - The partial footprint was consequential in solving the case.
+  - The discovery of gold was consequential to the fate of many western territories.
+  - Because lives are at stake, choosing to go to war is the most consequential decision a nation can make.
+  - The Atlantic hurricane is turning east, making it no longer a consequential threat to the U.S. mainland.
+
+
+
+* [[https://wordsinasentence.com/consolidate-in-a-sentence/][Consolidate]]
+
+  =to put together=
+
+  - To save money on airline fees, my husband and I will consolidate our clothes so they fit in one suitcase.
+  - The file cabinet allows us to consolidate our bills and important documents in one place.
+  - Because the company wants to consolidate its operations in one location, it is closing down its international offices.
+  - The publishing company has decided to consolidate all of the author’s poems in one large book.
+
+
+
+* [[https://wordsinasentence.com/consonance-in-a-sentence/][Consonance]]
+
+  =harmony, compatibility or agreement=
+
+  - The consonance of the committee was clear when they voted to unanimously elect a new treasurer.
+  - There was a beautiful consonance in the melody of the song.
+  - During rush hour, the drivers displayed unusual consonance which allowed me to get to work on time.
+  - Because his views were in consonance with the board, he was hired immediately.
+
+
+
+* [[https://wordsinasentence.com/conspicuous-in-a-sentence/][Conspicuous]]
+
+  =very easy to notice=
+
+  - It would be inappropriate for you to wear such a short conspicuous dress to your father’s funeral.
+  - During the summer months, the mosquitos are very conspicuous near the water.
+  - The football coach found the quarterback’s absence conspicuous during the big game.
+  - If you dye your hair purple, you will be very conspicuous among the other teachers.
+  - The bank robber made the mistake of trying to escape in a conspicuous orange car.
+  - Because William talks so loud, he is always conspicuous at work.
+  - Hunters wear camouflage so they appear less conspicuous around the animals.
+
+
+
+* [[https://wordsinasentence.com/conspire-in-a-sentence/][Conspire]]
+
+  =to make covert plans to perform an illegal or bad deed=
+
+  - Some poor people believe politicians conspire to keep them in dire financial straits.
+  - When Henry won the lottery, he became paranoid his relatives would conspire to take his money.
+  - The students have decided to conspire to steal the test answers.
+  - In the hit film, three women conspire to kidnap their horrible boss.
+
+
+
+* [[https://wordsinasentence.com/contiguous-in-a-sentence/][Contiguous]]
+
+  =used to describe things that touch each other or are next to each other=
+
+  - Susan chose her condominium because she loved the fact its layout included a large playroom for her growing family.
+  - Although many individuals own several pieces of property in our town, few of them own contiguous lots that are located right next to each other.
+  - Having a balcony that is contiguous to my bedroom allows me to view the sunrise from my bed.
+  - Because there is a bar contiguous to the pool, you do not have to get out of the water to order a drink.
+  - Since the two lakes are contiguous, they seem to flow into each other.
+  - The escaped prisoner found it easy to cross the border of the two contiguous states.
+  - Because my office is contiguous to my boss’ office, I often hear many of his private conversations.
+
+
+
+* [[https://wordsinasentence.com/contorted-in-a-sentence/][Contorted]]
+
+  =twisted in a forceful manner=
+
+  - The python contorted around its intended victim.
+  - As the rat started to die, its body contorted from the spasms caused by the poison.
+  - The software contorted our pictures and made us look ridiculous.
+  - During the seizure, Matt’s entire body became contorted.
+
+
+
+* [[https://wordsinasentence.com/contumacious-in-a-sentence/][Contumacious]]
+
+  =rebellious against laws or those in authority=
+
+  - Because the contumacious student refused to obey the principal’s instructions, he was suspended from school.
+  - The judge was quick to have contumacious defendants removed from his courtroom.
+  - When the soldier behaved in a contumacious manner towards his commanding officer, he was court martialed and dismissed from the military.
+  - The contumacious football player was kicked off the team for not following the coach’s orders.
+  - When the contumacious witness refused to answer the lawyer’s questions, she was charged with contempt of court.
+  - Since the contumacious prisoner will not obey the guards, he has been placed in solitary confinement.
+  - Jake’s contumacious personality makes it hard for him to get along with his supervisor at work.
+
+
+
+* [[https://wordsinasentence.com/contumely-in-a-sentence/][Contumely]]
+
+  =unpleasant behavior or language=
+
+  - The television network felt the show’s dialogue contained contumely that was inappropriate for its young viewers.
+  - As the prisoner was dragged out of court, he shouted contumely and made threats against the sentencing judge.
+  - The teacher did not appreciate the student speaking to her while using contumely.
+  - When I met my ex-husband’s new wife, I treated her to a great deal of contumely because she destroyed my happy life.
+  - It was so unlike the priest to use contumely in his weekly address to the congregation.
+  - Even at the neighborhood bar, patrons were disturbed by Rick’s use of contumely to describe his wife.
+  - The judge commanded the witness to stop offending the jury with his contumely about the defendant’s sex life.
+
+
+
+* [[https://wordsinasentence.com/conundrum-in-a-sentence/][Conundrum]]
+
+  =a difficult problem that seems to have no solution=
+
+  - Trying to solve this conundrum is really making my head hurt.
+  - The government has spent hundreds of millions of dollars trying to unearth a solution to the fuel conundrum.
+  - Perhaps the answer to the fuel conundrum is mandatory carpooling.
+  - The labor secretary believes outsourcing could be the remedy for our employment conundrum.
+  - Because she is a puzzle lover, my daughter is going to adore this conundrum book.
+  - Upset by the conundrum, Janice found it difficult to sleep.
+  - When I am faced with a conundrum, I often ask my friends for advice.
+
+
+
+* [[https://wordsinasentence.com/convalescence-in-a-sentence/][Convalescence]]
+
+  =the period of time spent recuperating from illness or treatment=
+
+  - During my convalescence, I will be on a restricted diet until my digestive system heals.
+  - Jane is fortunate her insurance company is willing to pay for her convalescence in a nice rehabilitation center.
+  - After the police officer’s convalescence, he will be given deskwork until he is formally approved for active duty.
+  - The pop star received thousands of letters during his convalescence in the hospital.
+
+
+
+* [[https://wordsinasentence.com/convene-in-a-sentence/][Convene]]
+
+  =to gather for a reason=
+
+  - As soon as the last closing argument is made, the jury will convene to ponder the verdict.
+  - An informant told the federal agents where the drug lords were going to convene for a huge drug buy.
+  - Tomorrow morning, the teachers will convene in the cafeteria to discuss the dress code.
+  - The grand jury is expected to convene today to decide if there is enough evidence to bring the murder case to trial.
+  - When the legislative bodies convene in January, the newly elected representatives will take their seats.
+  - It was heartwarming to see so many athletes convene in support of the president’s fitness program.
+  - In case of a fire, the volunteer firefighters are to convene at the fire station.
+
+
+
+* [[https://wordsinasentence.com/convergence-in-a-sentence/][Convergence]]
+
+  =two or more things coming together to form a new whole=
+
+  - Because of the convergence of political views in the legislature, it is highly likely the government will be able to vote on the budget proposal without any bickering.
+  - The sculptor used a convergence of science and art to create beautiful sculptures of the muscles of the human body.
+  - Due to the convergence of the two largest cable companies, many of the smaller competitors will soon close their doors.
+  - The convergence of the two high tech devices will produce a mobile phone that will change the future of communications.
+  - When the musician saw people leaving his concert, he realized his attempt to play a convergence of two distinct musical sounds did not go over well with the crowd.
+  - The convergence of television and computers has led to the creation of many digital streaming devices.
+  - When the euro was designed, economists hoped it would create a convergence of many of the European economies.
+
+
+
+* [[https://wordsinasentence.com/convoke-in-a-sentence/][Convoke]]
+
+  =to call together or summon a meeting=
+
+  - The chairman decided to convoke a meeting to discuss the company’s budget issue.
+  - Though he wanted to convoke a meeting being between all of the party’s the attorney couldn’t fit it into everyone’s schedule.
+  - Wanting to convoke the council into an assembly, the leader called every member at home.
+  - The mayor will convoke a meeting on Monday so that the townspeople can express their opinions on the water problem.
+
+
+
+* [[https://wordsinasentence.com/convoy-in-a-sentence/][Convoy]]
+
+  =a group of vehicles that move as a unit for safety reasons=
+
+  - As the convoy of missionaries travelled through the dangerous jungle, they were escorted by a team of soldiers.
+  - When the convoy carrying a team of doctors and nurses was struck by a bomb, the medical group pulled its workers out of the region.
+  - The refugee convoy moved over three thousand refugees safely across the border.
+  - Because the convoy of ships is being protected by military planes, the vessels are not likely to be attacked by pirates.
+
+
+
+* [[https://wordsinasentence.com/convulsion-in-a-sentence/][Convulsion]]
+
+  =a sudden and uncontrollable movement of the body=
+
+  - The man was wracked with a convulsion when his Parkinson’s kicked in, causing him to shake uncontrollably.
+  - A shiver is technically a convulsion since it is a bodily movement that we cannot consciously control.
+  - The woman shuddered in fear as she moved throughout the haunted house, a convulsion that she couldn’t stop no matter how hard she tried.
+  - People that suffer from seizures experience a convulsion when their body moves without the conscious input of the mind.
+
+
+
+* [[https://wordsinasentence.com/corporeal-in-a-sentence/][Corporeal]]
+
+  =tangible; of a physical nature=
+
+  - As Jack reached for the ghost, he realized it was not corporeal when his hands went straight through the shape.
+  - The illusion seemed so corporeal that I tried to grab it.
+  - The sense of touch allows us to navigate safely through the many features of the corporeal world.
+  - In order to walk on the Earth, spirits must take some kind of corporeal form.
+  - When we learned about anatomy in science class, we discussed how the skin is corporeal defense for the body’s internal organs.
+  - My corporeal needs include food, clothing, and shelter.
+  - According to many religions, upon the death of its corporeal figure the soul departs and goes to either heaven or hell.
+
+
+
+* [[https://wordsinasentence.com/corrugated-in-a-sentence/][Corrugated]]
+
+  =containing a wavy exterior; wrinkled=
+
+  - The roof was made of corrugated material so the rain could flow down easily.
+  - When Jim ordered the corrugated metal to build his shed, he did not know it was lined with grooves.
+  - The channels on the corrugated walls give the room a three dimensional look.
+  - For safe shipping, we put the small lights in the corrugated chambers of the cardboard packaging.
+
+
+
+* [[https://wordsinasentence.com/coruscate-in-a-sentence/][Coruscate]]
+
+  =to give off flashes of light=
+
+  - The diamonds began to coruscate in the bright light.
+  - The flashlight was used to coruscate a message to the other campers across the lake.
+  - The candlelight started to coruscate through the window and onto the freshly fallen snow.
+  - The lighthouse light coruscate could be seen from miles around.
+
+
+
+* [[https://wordsinasentence.com/cosset-in-a-sentence/][Cosset]]
+
+  =to treat like a pet; to overly indulge=
+
+  - From buying expensive toys to boxing vegetable-free lunches, the mother would cosset to her child's every whim.
+
+
+
+* [[https://wordsinasentence.com/coterminous-in-a-sentence/][Coterminous]]
+
+  =having the same border or covering the same area as something else=
+
+  - The little town of Richland is coterminous with the parish of Richland as they share the same border.
+  - Some places have political and physical lines and although sometimes the same, the two are not always conterminous.
+  - Tipton county only includes one town, so it would make sense that the coterminous areas share the same name.
+  - In this case, the small village is conterminous with the town of Daniel since they have the same northern border.
+
+
+
+* [[https://wordsinasentence.com/coup-in-a-sentence/][Coup]]
+
+  =the quick action of taking power or a surprise victory=
+
+  - When the coup failed, the dictator killed all the rebels who tried to remove him from power.
+  - The military coup appeared out of nowhere and removed the president and his advisers from their positions of authority.
+  - Since our team is usually eliminated early in the competition, we considered it a major coup when we won the championship.
+  - The general ordered the execution of all the soldiers who took part in the failed coup against him.
+
+
+
+* [[https://wordsinasentence.com/covenant-in-a-sentence/][Covenant]]
+
+  =a binding arrangement; a contract=
+
+  - The priest’s covenant is an agreement between him and God.
+  - According to the property covenant, all residents must pay a sixty-dollar monthly fee in exchange for sanitation and water.
+  - The property owner believes the covenant should be declared invalid because the buyer has not paid for the land.
+  - Before you get married, you should know marriage is a covenant in which both parties agree to love and respect each other.
+
+
+
+* [[https://wordsinasentence.com/covert-in-a-sentence/][Covert]]
+
+  =hidden or secret=
+
+  - The spy went to great lengths to make sure his enemies would not discover his covert plans.
+  - Because my husband is always snooping into my affairs, I am working very hard to keep his surprise party covert.
+  - The purpose of the agency’s covert operation is to rescue the kidnapped soldiers before the enemy troops can prepare a defense.
+  - As an investigator, John often uses covert surveillance methods to follow his suspects without being seen.
+  - The criminals usually do their covert deeds at night when they are less likely to be discovered.
+  - What is your covert plan to hack into the school computer and change your grades?
+  - The covert spy had a closet full of disguises that he frequently wore.
+
+
+
+* [[https://wordsinasentence.com/coy-in-a-sentence/][Coy]]
+
+  =in a shy yet flirtatious manner=
+
+  - From behind her fan, the young woman gave her suitor a coy smile.
+  - The nerd wore a coy grin on his face when he approached the cheerleader.
+  - Because Mia wanted Greg to think she was an innocent young woman, she acted coy around him.
+  - Ginger batted her eyes in a coy manner as she tried to get the attention of the man sitting across the bar.
+
+
+
+* [[https://wordsinasentence.com/crafty-in-a-sentence/][Crafty]]
+
+  =cunning and tricky=
+
+  - The crafty wolf was able to trick Little Red Riding Hood into thinking he was Grandmother.
+  - While playing hide-and-go seek, my crafty little sister is always able to find the best hiding spots.
+  - The crafty widow came up with a way to trick her next victim into marrying her.
+  - Crafty and cunning, the student was able to cheat on the test without her teacher noticing.
+
+
+
+* [[https://wordsinasentence.com/cramp-in-a-sentence/][Cramp]]
+
+  =a small convulsion caused by a muscle that hurts=
+
+  - After swimming in the hot sun right after eating a large lunch, a cramp formed in my stomach making me double over in pain.
+  - “If the cramp in your leg does not feel better after ten minutes,” the doctor advised, “then massage that area of your leg.”
+  - Since the girl continued for hours constantly writing her memoirs, she had to immediately stop when a cramp formed in her left palm.
+  - Polio caused my grandmother to frequently have a cramp in her leg causing severe pain in her calf.
+
+
+
+* [[https://wordsinasentence.com/cranky-in-a-sentence/][Cranky]]
+
+  =ill-tempered, irritable, or agitated=
+
+  - My cranky girlfriend is making an effort to avoid looking or talking to me today since I irritated her with my comment about her weight this morning.
+  - You might get cranky on the beach if you get too much sand in your swimming trunks, since nobody likes how irritating sand is.
+  - Nothing makes me cranky like being woken up early in the morning for no real reason, since I hate waking up in the mornings.
+  - No one likes to talk with a cranky person since they are usually irritable and unfriendly, two qualities that make for poor conversation.
+
+
+
+* [[https://wordsinasentence.com/crass-in-a-sentence/][Crass]]
+
+  =stupid, vulgar, insensitive=
+
+  - If you don’t want to hear crass comments about the way you dress, don’t wear that outfit to the night club.
+  - I wish he would realize that his racism and bigotry are based on crass stereotypes of people that are just as human as you and I.
+  - While he considers his apartment well-furnished, his crass excessiveness goes way beyond the bounds of good taste.
+  - The couple’s crass public display of affection led passersby to suggest to them that they get a room.
+  - If you’re going to be so crass as to crash a wedding that you haven’t been invited to, I’m going to pretend I don’t even know you.
+  - Although free enterprise is a time-honored business tradition, it’s considered crass behavior to try and bargain for all goods and services.
+  - Compared to his usual crass manners, his behavior tonight was rather pleasant.
+
+
+
+* [[https://wordsinasentence.com/craven-in-a-sentence/][Craven]]
+
+  =cowardly=
+
+  - My husband James proves he is not craven every time he runs into a burning building to save a stranger.
+  - When the company went bankrupt, the craven CEO quickly flew out of the country to avoid having to answer to his former employees.
+  - Josh is such a craven individual that he did not bother to stand up for his wife when a stranger attacked her.
+  - Are you so craven you will snitch on your friends to avoid getting into trouble?
+  - The craven politician fled the scene when the media surrounded his office to question him about his indiscretions.
+  - Because police officers must be fearless, craven people should not apply for positions in law enforcement.
+  - The craven soldier deserted his post and ran away from the battle.
+
+
+
+* [[https://wordsinasentence.com/credence-in-a-sentence/][Credence]]
+
+  =mental acceptance as true or real=
+
+  - Because the experiment had been performed over a hundred times, a great deal of credence was given to the results.
+  - Nobody in the courtroom gave any credence to the drunk’s testimony.
+  - Since you have a history of lying, I find it difficult to give credence to anything you tell me.
+  - As no one has been able to disprove the scientist’s theory, it has gained more credence over the years.
+  - When the popular actor was questioned about his sexuality, he refused to give credence to the rumor he was gay.
+  - The jury found it hard to give credence to the testimony provided by the convicted felon.
+  - The outcome of the experiment gave credence to the theory that plants grow quicker when exposed to classical music.
+
+
+
+* [[https://wordsinasentence.com/credo-in-a-sentence/][Credo]]
+
+  =the core beliefs that determine a person’s or group’s behaviors=
+
+  - As a soldier, Danielle adheres to the credo of placing her country first.
+  - The knight’s credo revolved around his undying loyalty to his king.
+  - According to the nonprofit organization’s credo, every homeless person should have a roof over his head.
+  - Treating others how I want to be treated is a credo I learned from my parents.
+
+
+
+* [[https://wordsinasentence.com/creep-in-a-sentence/][Creep]]
+
+  =to maneuver discreetly in a quiet and unhurried way=
+
+  - The mouse attempted to creep by the unsuspecting snake by moving one small step at a time without making any noise.
+  - While playing tag, a girl decided to creep softly by the leader while his back was turned and hide behind a nearby tree.
+  - Without trying to disturb the patient, the nurse would creep into the room to change the bedpan.
+  - Robbers will often creep into a house at night so that they can steal their valuables without waking up the family.
+
+
+
+* [[https://wordsinasentence.com/crepuscular-in-a-sentence/][Crepuscular]]
+
+  =lively mainly at dusk or sunrise=
+
+  - At sunset, the entomologists study the crepuscular insects as they move across the beach.
+  - The fact many desert creatures are crepuscular allow them to avoid the high temperatures during the day.
+  - Because of Hank’s crepuscular work schedule, he tends to be more active at dawn and sunset.
+  - Some animals are crepuscular because their survival depends upon their ability to go unnoticed by their predators in the dim hours.
+
+
+
+* [[https://wordsinasentence.com/croak-in-a-sentence/][Croak]]
+
+  =a low, hoarse sound that certain animals made such as a frog or raven=
+
+  - Letting out a low croak, the frog used his low voice to warn others in the pond that a predator was nearby.
+  - The raven continued to croak and kept the farmer up all night with its deep squawk.
+  - Hearing the male frog’s croak, the female amphibian made her way towards the alluring sound.
+  - The raven let out a hoarse croak to warn the stranger not to come near its nest.
+
+
+  - The crocodile tears allows us to see through the false expressions of regret.
+  - They weep crocodile tears for the poor and disadvantaged, but in reality they are happy with things as they are.
+  - I never got a sincere apology from her, only a lot of excuses and crocodile tears.
+  - I lost 200 people I hired, and some people actually suggested that I cried crocodile tears.
+
+
+
+* [[https://wordsinasentence.com/crony-in-a-sentence/][Crony]]
+
+  =an intimate companion or friend=
+
+  - The old man and his crony drink in the bar all day.
+  - In the evenings, my grandmother and her crony sit on the front porch and gossip about their neighbors.
+  - The dictator’s crony is the only person who knows all of the ruler’s secrets.
+  - When John became a famous actor and moved to Hollywood, he took his favorite crony, his best friend, along with him.
+
+
+
+* [[https://wordsinasentence.com/crouch-in-a-sentence/][Crouch]]
+
+  =to lower the body down and forward by bending of the knees=
+
+  - The hunter decided to crouch down in hopes that the deer would not see him.
+  - Without a way to crouch forward, the man had to sit perfectly straight the entire time.
+  - The girl proceeded to crouch down in the back seat and scared her mother.
+  - As he bent his body to crouch down low, the lion eyed his prey.
+
+
+* [[https://wordsinasentence.com/crusade-in-a-sentence/][Crusade]]
+
+  =a campaign organized to support or promote a certain cause=
+
+  - The woman’s crusade against firearm violence earned her the hostility of gun manufacturers.
+  - Because we believed the historic home should not be destroyed, we launched a crusade to make the property a national landmark.
+  - Rick dropped out of college for a year so he could devote himself to the crusade to spread Christianity.
+  - When the mayor learned his son was killed by a drug dealer, he started a crusade to rid his city of illegal drugs.
+
+
+
+* [[https://wordsinasentence.com/cuddle-in-a-sentence/][Cuddle]]
+
+  =to embrace affectionately=
+
+  - Wishing she could cuddle him in her arms, the working mother thought about her newborn the whole time she was at the conference.
+  - Trying to prove that dogs are much friendlier than cats, the girl challenged her sister to cuddle her feline without getting scratched.
+  - Although she liked to cuddle before going to bed, being married to a die-hard Patriots fan made this impossible during football season.
+  - Pulling her doll close so that they could cuddle, the toddler sighed and closed her weary eyes as she drifted off to sleep.
+
+
+
+* [[https://wordsinasentence.com/cull-in-a-sentence/][Cull]]
+
+  =to take from a unit or group=
+
+  - Before we take the pecans to market, we cull the damaged ones that cannot be sold.
+  - The test is administered so the school can cull the best students for the gifted program.
+  - When we cull the contestants for the show, we choose individuals with outgoing personalities.
+  - As part of the quality assurance team, Jim must cull the defective items from the manufacturing line.
+
+
+
+* [[https://wordsinasentence.com/culprit-in-a-sentence/][Culprit]]
+
+  =the individual or thing responsible for an offense or crime=
+
+  - The severe drought is the culprit behind the death of the orange trees.
+  - After much research, scientists identified the culprit of the disease as a genetic disorder.
+  - Fortunately the culprit was arrested without anyone being harmed.
+  - According to civil rights leaders, the police only put forth effort to capture a culprit when he is a member of a minority race.
+  - Until the doctor identifies the culprit of the infection, he cannot determine a course of treatment.
+  - The arson investigator determined a faulty wire was the culprit behind the fire.
+  - During a press conference, the police shared a sketch of the culprit believed to be responsible for a series of burglaries.
+
+
+
+* [[https://wordsinasentence.com/cyclone-in-a-sentence/][Cyclone]]
+
+  =a tornado or other similar spinning storm=
+
+  - Appearing in the sky out of nowhere, the twisting cyclone began to pick up debris with its strong winds.
+  - Fearing that a cyclone was headed towards their home, the family braved the strong winds and headed towards the cellar.
+  - The spinning cyclone appeared over the water and its horrific winds pushed it towards the island shore.
+  - The cyclone ripped through the community, picking up mobile homes and vehicles and tossing them several hundred feet.
+
+
+
+* [[https://wordsinasentence.com/cynosure-in-a-sentence/][Cynosure]]
+
+  =something or someone that is the center of attention=
+
+  - At the ball, the cynosure of the evening was the queen’s million-dollar tiara.
+  - Jane has been the cynosure of the media since she won the award for best supporting actress.
+  - When Jake got the yellow sports car for his birthday, he knew his arrival at school would be the cynosure of the day.
+  - The coach told Serena if she wanted to make the tennis team she needed to practice and make tennis the cynosure of her life.
+  - Because Margaret has sizable breasts, she wears extra large sweaters to avoid being the cynosure of all the boys.
+  - The run-down house is the unpleasant cynosure of our otherwise beautiful neighborhood.
+  - Because the bride was so beautiful, she was the cynosure of everyone in the church.
+
+
+
+
+
+
+
+
+#+HTML: <a id="bottom"/>
+#+HTML: <a href="#top">⇧</a>
