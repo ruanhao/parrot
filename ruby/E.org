@@ -116,7 +116,7 @@
   - Because the art critic felt the painting was effete, he reviewed it quite harshly and referred to it as a spiritless effort from the painter.
   - The professional football player became angry when the press referred to him as an effete athlete who had no passion for his sport.
   - Because the old man was upset about his wife’s death, he became effete and refused to eat.
-  - The detective pretended to be wheelchair bound as part of his effete man disguise.
+  - The detective pretended to be *wheelchair bound* as part of his effete man disguise.
 
 
 
@@ -252,7 +252,7 @@
   - When you listen to the eloquent politician speak, you always understand his message.
   - Margie is an eloquent storyteller who can paint a picture with her words.
   - As a listener, I found his persuasive speech to be quite eloquent and moving.
-  - The valedictorian’s eloquent words brought the audience to its feet.
+  - The valedictorian’s eloquent words *brought the audience to its feet* =起立鼓掌=.
   - According to many British history books, Winston Churchill was an eloquent spokesman who led his people simply with his words.
   - An eloquent minister can hold his congregation’s attention even during a long sermon.
   - Despite his sorrow, the soldier managed to give an eloquent eulogy about his fallen comrade.
