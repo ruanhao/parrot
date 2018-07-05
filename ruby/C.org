@@ -1621,9 +1621,9 @@
   =a small, glowing piece of partly burnt coal or wood=
 
   - One glowing cinder was all that remained of the once burning fire.
-  - Cinderella’s nickname came from the cinder ashes that covered her face while stoking the fire.
+  - Cinderella’s nickname came from the cinder ashes that covered her face while *stoking* the fire.
   - Tossing the cinder back into the fire, the boy hoped that the glowing piece of would might somehow restart the fire.
-  - As the rain beat down on the campsite, the drenched fire contained not one smoldering cinder of would.
+  - As the rain beat down on the campsite, the drenched fire contained not one *smoldering* cinder of wood.
 
 
 
@@ -1673,7 +1673,7 @@
 
 * [[https://wordsinasentence.com/clinch-in-a-sentence/][Clinch]]
 
-  =to make certain; to finalize=
+  =to make certain; to finalize; to confirm=
 
   - The Senate must work quickly and together in order to clinch the budget deal to avoid a government shutdown.
 
@@ -1766,6 +1766,8 @@
 
   =an artistic creation made by sticking many different things together=
 
+  #+HTML: <img src="http://thinkspacegallery.com/wp-content/uploads/2014/10/derek_gores_collage_Mystery_Rewarded.jpg"/>
+
   - Creating a collage out of all her childhood pictures, Jaleesa used her artistic ability helped her make the perfect mother’s gift.
   - The musical collage is a mixture of all my favorite songs.
   - As a collage artist, the woman makes masterpieces by placing paper together in amazing patterns.
@@ -1799,7 +1801,7 @@
 
   =to conspire for a secret purpose=
 
-  - Breaking antitrust laws, company executives began to collude with one another to make sure their illegal doings were under wraps.
+  - Breaking antitrust laws, company executives began to collude with one another to make sure their illegal doings were under *wraps*.
   - Insurance companies should not be allowed to collude to raise rates on customers.
   - The government’s willingness to collude with our foreign enemies shocked the ethics committee advisers.
   - Central banks have been accused of making plans to collude with one another in order to control the world economy.
@@ -1810,7 +1812,7 @@
 
   =unconscious and unable to communicate=
 
-  - The car crash victim was comatose and unable to talk while on the stretcher.
+  - The car crash victim was comatose and unable to talk while on the *stretcher* =担架=.
   - Having been comatose for almost a week, the man’s family was worried that he might not wake up.
   - Although he was comatose and couldn’t communicate back my dad’s doctor suggested we talk to him while he was unconscious.
   - The horrible accident left Elaine comatose and in a state of limited brain activity.
@@ -1912,14 +1914,14 @@
 
   - While a convex lens turns outward, a concave lens bends inwardly.
   - My contact lenses have a concave shape which allows them to pull in and visually sharpen images.
-  - If you press the cantaloupe and it becomes concave and bendy, then you know the fruit is overly ripe.
+  - If you press the *cantaloupe* =哈密瓜= and it becomes concave and bendy, then you know the fruit is overly ripe.
   - My concave belly button turns interiorly.
 
 
 
 * [[https://wordsinasentence.com/concession-in-a-sentence/][Concession]]
 
-  =an item or privilege that is given=
+  =an item or privilege that is given in response to demands=
 
   - Since the developer could not give the landowner his desired concession, he was not able to buy the land for the new subdivision.
   - The prosecutor must be willing to offer a concession of leniency if he wants the defendant to testify against his co-conspirators.
@@ -2053,7 +2055,7 @@
 
   - The partial footprint was consequential in solving the case.
   - The discovery of gold was consequential to the fate of many western territories.
-  - Because lives are at stake, choosing to go to war is the most consequential decision a nation can make.
+  - Because lives are *at stake* =危急关头=, choosing to go to war is the most consequential decision a nation can make.
   - The Atlantic hurricane is turning east, making it no longer a consequential threat to the U.S. mainland.
 
 
@@ -2098,7 +2100,7 @@
 
   =to make covert plans to perform an illegal or bad deed=
 
-  - Some poor people believe politicians conspire to keep them in dire financial straits.
+  - Some poor people believe politicians conspire to keep them in dire *financial straits* =财政困境=.
   - When Henry won the lottery, he became paranoid his relatives would conspire to take his money.
   - The students have decided to conspire to steal the test answers.
   - In the hit film, three women conspire to kidnap their horrible boss.
@@ -2109,7 +2111,6 @@
 
   =used to describe things that touch each other or are next to each other=
 
-  - Susan chose her condominium because she loved the fact its layout included a large playroom for her growing family.
   - Although many individuals own several pieces of property in our town, few of them own contiguous lots that are located right next to each other.
   - Having a balcony that is contiguous to my bedroom allows me to view the sunrise from my bed.
   - Because there is a bar contiguous to the pool, you do not have to get out of the water to order a drink.
@@ -2163,7 +2164,7 @@
   =a difficult problem that seems to have no solution=
 
   - Trying to solve this conundrum is really making my head hurt.
-  - The government has spent hundreds of millions of dollars trying to unearth a solution to the fuel conundrum.
+  - The government has spent hundreds of millions of dollars trying to unearth a solution to *fuel the conundrum*.
   - Perhaps the answer to the fuel conundrum is mandatory carpooling.
   - The labor secretary believes outsourcing could be the remedy for our employment conundrum.
   - Because she is a puzzle lover, my daughter is going to adore this conundrum book.
