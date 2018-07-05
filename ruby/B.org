@@ -32,7 +32,7 @@
 
   =refuse to comply=
 
-  - While my dog loves to go for walks in good weather, he will always balk if he gets the slightest whiff of rain in the air.
+  - While my dog loves to go for walks in good weather, he will always balk if he gets the slightest *whiff* of rain in the air.
   - Although Martin is pretty dependable about following the prescribed routine, he tends to balk at any tasks that call for extra effort.
   - Monica knew that her husband would balk at going shopping for new clothes, so she told him they were going to see the new action movie.
   - I guess my friends don’t trust me very much because they all balk at my request for them to cosign a loan.
@@ -90,7 +90,7 @@
   - Some people believe that technology is the bane of social interaction and that eventually no one will have to speak to another person face to face.
   - Because of all the sinister villains who are the bane of Gotham City citizens, it seems that Batman’s work is never done.
   - During the Jurassic period, the Tyrannosaurus Rex was the king of the dinosaurs and the bane of every living creature.
-  - All these offers for credit cards are the bane of my goal to live within my means.
+  - All these offers for credit cards are the bane of my goal to live *within my means* =能力范围内=.
   - During the interview, the former president revealed that he had always thought that the media were the bane of his time in office.
 
 
@@ -372,7 +372,7 @@
   - When we met in person, she came across as rather brusque.
   - In certain cultures, it is natural for single women to be brusque when approached by men they do not know.
   - Exhausted by a twelve hour flight, the singer had to work hard to not be brusque with her fans.
-  - Since he had burned so many bridges with his brusque attitude, no one wanted to work with him.
+  - Since he had *burned so many bridges* =过河拆桥= with his brusque attitude, no one wanted to work with him.
 
 
 
@@ -473,7 +473,7 @@
   =a fuss or excessive publicity=
 
   - A ballyhoo was made over the silly video.
-  - The ballyhoo was overdone to drum up publicity.
+  - The ballyhoo was overdone to *drum up* =招揽(顾客等)= publicity.
   - Diane made a ballyhoo out of her celebratory status.
   - The musical was excellent, living up to its ballyhoo.
 
