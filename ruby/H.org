@@ -468,6 +468,8 @@
 
   =to move in a quick fashion=
 
+  #+HTML: <img src="http://areweprepared.ca/wp-content/uploads/pictures/haste.jpg"/>
+
   - Marilyn made an attempt to hasten the death of her elderly husband by putting *arsenic* in his food.
   - Sadly, the new tax law will hasten the closure of many small businesses.
   - Failing to wash your hands properly will hasten the spread of the flu virus.
@@ -492,6 +494,8 @@
 * [[https://wordsinasentence.com/hazy-in-a-sentence/][Hazy]]
 
   =cloudy; foggy=
+
+  #+HTML: <img src="http://www.climatechangenews.com/files/2015/10/295153252_19d224d3bf_o.jpg"/>
 
   - Because the windshield was so fogged up, everything along the highway looked hazy.
   - The hazy trees blocked the western view of the river.
@@ -592,6 +596,8 @@
 
   =bushes or shrubs that form a boundary as they grow closely together in a row=
 
+  #+HTML: <img src="http://www.thetutuguru.com.au/wp-content/uploads/2012/10/Established-Leighton-Cypress-Hedge.jpg"/>
+
   - An ever-growing hedge stops nosy neighbors from being able to see into the back yard.
   - Trimming the tall hedge, the lawn maintenance worker made sure to keep the bush looking neat.
   - Forming a hedge around the moat, the *prickly* *shrubs* provided even more protection for the king’s castle.
@@ -613,6 +619,8 @@
 * [[https://wordsinasentence.com/hew-in-a-sentence/][Hew]]
 
   =using heavy blows to hack with a tool or instrument=
+
+  #+HTML: <img src="https://i.ytimg.com/vi/ztlm2uiCQ3U/maxresdefault.jpg"/>
 
   - When my father got angry with my mother, he would go in the backyard and hew wood with his axe.
   - The man used a *scythe* to hew his way through the field of grass.
@@ -727,6 +735,8 @@
 
   =to trick or deceive someone=
 
+  #+HTML: <img src="http://www.spinfold.com/wp-content/uploads/2016/02/cozen.jpg"/>
+
   - In an attempt to hoodwink the woman into opening the front door, the rapist pretended to be a police officer.
   - Car dealerships often hoodwink customers into coming to their lots by making promises of incredibly low payments.
   - In the shady bar, the bartender is known for trying to hoodwink customers by passing off cheap whiskey as a premium brand.
@@ -786,6 +796,8 @@
 * [[https://wordsinasentence.com/hurtle-in-a-sentence/][Hurtle]]
 
   =move at a rapid pace in a wild manner=
+
+  #+HTML: <img src="https://nation.com.pk/print_images/large/2012-03-06/huge-asteroid-to-hurtle-past-earth-next-year-1330986100-7068.jpg"/>
 
   - The force of the truck caused the car to hurtle over the bridge.
   - If you live in a trailer, you should evacuate at once because the hurricane could cause your home  to hurtle through the air.
