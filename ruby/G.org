@@ -678,6 +678,8 @@
 
   =tiny pieces of reflective material that are usually used for decoration=
 
+  #+HTML: <img src="https://images.freecreatives.com/wp-content/uploads/2016/02/Multi-Color-Bokeh-Glitter-Background-for-You-Desktop.jpg"/>
+
   - Glitter lined the girl’s fancy prom dress to help it sparkle in the light.
   - With a hint of silver glitter, the *drag queen’s* =男扮女装的男性同性恋者= sparkling eyes were as bright as her personality.
   - Gluing glitter onto the sign, the student hoped that her shimmering poster board would stand out from all the rest.
@@ -725,6 +727,8 @@
 
   =provoke or annoy (someone) so as to stimulate some action or reaction=
 
+  #+HTML: <img src="http://www.dailyencouragement.net/images/animals/oxen_with_goad.jpg"/>
+
   - During lunch in the cafeteria today, my rival tried to goad me into a fight so I would get suspended from school.
   - My mother is going to try and goad her dog into getting off the bed by offering him a treat.
   - As a teacher, Joan was constantly looking for positive ways to goad her students into reading more.
@@ -771,6 +775,8 @@
 * [[https://wordsinasentence.com/grate-in-a-sentence/][Grate]]
 
   =to shred a food item by moving it forcefully against a grater=
+
+  #+HTML: <img src="http://www.cookhacker.com/wp-content/uploads/2017/01/Oxo-Box-Grater.png"/>
 
   - Please grate the lettuce for the tacos.
   - Before you put the cheese on the pizza, you should grate it so it will melt quicker.
@@ -877,6 +883,8 @@
 
   =a typically isolated small group of trees=
 
+  #+HTML: <img src="http://www.redwoodhikes.com/Richardson/Richardson2.jpg"/>
+
   - While waves of grass made up the majority of the *open plains* =空旷草原=, there is a small grove made up of a dozen trees or so to the west.
   - A thousand trees is a forest, while a grove can be made up of just a handful of trees you could count on your fingers.
   - I am unsure of the difference between *a copse of trees* and a grove, but both are small groups of trees compared to a forest.
@@ -887,6 +895,8 @@
 * [[https://wordsinasentence.com/grovel-in-a-sentence/][Grovel]]
 
   =to be kind to someone in order to gain something=
+
+  #+HTML: <img src="http://fscomps.fotosearch.com/compc/ARP/ARP116/grovel_c.jpg"/>
 
   - The dog was willing to grovel for the biscuit.
   - When Rick won the lottery, all of his distant relatives started to grovel for his winnings.
@@ -921,6 +931,8 @@
 
   =severe in tone or manner=
 
+  #+HTML: <img src="http://i.ytimg.com/vi/v49OBWu3peI/maxresdefault.jpg"/>
+
   - Although the old man pretends to be gruff, he is really warm and kind.
   - The woman’s gruff response told me she wasn’t interested in purchasing a magazine subscription.
   - In a gruff voice, the police officer ordered the suspect out of his vehicle.
@@ -931,6 +943,8 @@
 * [[https://wordsinasentence.com/grumpy-in-a-sentence/][Grumpy]]
 
   =ill-tempered or unhappy=
+
+  #+HTML: <img src="http://animalsadda.com/wp-content/uploads/2015/03/Grumpy-Cat-9.jpg"/>
 
   - I am always grumpy in the early morning, rarely saying a word and frowning at everyone who bothers to look my way.
   - My cat is always extremely grumpy if he isn’t fed on a regular basis, and he’ll make his displeasure known with his claws on my furniture.
