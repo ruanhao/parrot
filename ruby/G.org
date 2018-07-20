@@ -309,6 +309,8 @@
 
   =to feel around blindly for something=
 
+  #+HTML: <img src="http://informationng.com/wp-content/uploads/2013/01/grope.jpg"/>
+
   - The homeowner began to grope around in the dark in search of a flashlight or candle.
   - It was so dark in the shadowy alley that the woman had to grope around in her purse to find her keys.
   - Down in the dark well, the injured man continued to grope around for a way to escape.
@@ -509,6 +511,8 @@
 
   =extremely skinny, typically because of illness or starvation=
 
+  #+HTML: <img src="https://i.ytimg.com/vi/hRvw8SiiXuI/hqdefault.jpg"/>
+
   - After being held in a dark basement for three months, the prisoner was gaunt and weak.
   - The selfish queen who spent millions on her wardrobe felt no pity for her citizens who were gaunt from starvation.
   - Because Taylor had become very gaunt as a result of having cancer, he found it difficult to find clothes to fit his small frame.
@@ -519,6 +523,8 @@
 * [[https://wordsinasentence.com/gawk-in-a-sentence/][Gawk]]
 
   =to stare stupidly=
+
+  #+HTML: <img src="https://pbs.twimg.com/profile_images/477245104193679360/hIcZs-ya.png"/>
 
   - People always gawk at us because we have seven children in our family.
   - Everyone turned to gawk at me after I tripped and fell in the school hallway.
@@ -912,7 +918,7 @@
   - Letting out a low growl, the dog let her owner know that someone was outside the door.
   - The tiger’s growl echoed through the jungle, alerting prey that the cat was on the hunt.
   - We heard a snarling growl in the bushes, but could not figure out what animal was making the *racket*.
-  - Mila’s puppy will growl at her with a *drawn-out* =持续很久= *yap* 狂吠= when he’s ready for a snack.
+  - Mila’s puppy will growl at her with a *drawn-out* =持续很久= *yap* =狂吠= when he’s ready for a snack.
 
 
 
