@@ -52,7 +52,7 @@
   - The cops threw Jack to the ground and arrested him after he set the American flag ablaze.
   - Before fleeing, the bandit set the home ablaze so that any possible evidence would be obliterated.
   - Eyes ablaze, the man with the black hat reached for his revolver and aimed it at Bob’s head.
-  - After shooting the captive in the head, the terrorist doused Chris’s body with gasoline and set it ablaze.
+  - After shooting the captive in the head, the terrorist *doused* Chris’s body with gasoline and set it ablaze.
 
 
 

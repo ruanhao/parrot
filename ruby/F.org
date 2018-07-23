@@ -465,6 +465,8 @@
 
   =to not engage in something; to refrain=
 
+    #+HTML: <img src="https://www.quia.com/files/quia/users/mrsstarke/Week2/forbear.jpg"/>
+
   - Since Catie did not have a date for the prom, she chose to forbear attending the event.
   - Ted will forbear voting in the election because he does not feel any of the candidates are worthy of public office.
   - While Helen is on a diet, she will forbear her craving for sweets.
@@ -614,6 +616,8 @@
 * [[https://wordsinasentence.com/frantic-in-a-sentence/][Frantic]]
 
   =in a state of panic, worry, frenzy or rush=
+
+  #+HTML: <img src="http://www.efficientlifeskills.com/wp-content/uploads/2013/06/Frantic1.jpg"/>
 
   - The frantic squirrel ran around Sophia’s house in a state of panic after it jumped through her kitchen window.
   - When Billy did not come home after school, his mother became frantic with worry.
@@ -924,6 +928,9 @@
 
   =a deceptive look or act=
 
+
+  #+HTML: <img src="http://www.chinastrategies.com/wp-content/uploads/2014/10/feint.jpg"/>
+
   - The child’s feint involved pretending to be ill so he would not have to face his bullies at school.
   - Looking at the surveillance tapes, the security chief quickly noticed the feint the man used to steal watches from the jeweler.
   - The police watched as the drug dealer swapped duffel bags during the feint.
@@ -1081,7 +1088,7 @@
 
 * [[https://wordsinasentence.com/fitful-in-a-sentence/][Fitful]]
 
-  =unsteady; erratic=
+  =unsteady; erratic，断断续续，反复无常=
 
   #+HTML: <img src="https://img.purch.com/rc/300x200/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA3OC8yOTYvb3JpZ2luYWwvaW5zb21uaWEtd29tYW4uanBn"/>
 
@@ -1140,9 +1147,11 @@
 
   =to cringe or jump slightly unintentionally=
 
+    #+HTML: <img src="http://olegvolk.net/gallery/d/40134-1/flinch_8506.jpg"/>
+
   - The young boy would flinch when the bee buzzed right next to his ear causing his head to turn suddenly away from the bee.
   - While the robber was trying to sneak into the house, he noticed the two young girls flinch at the sound of the glass breaking by their bodies’ slight movement.
-  - While shooting a gun, I would always flinch at the loud sound causing the gun to bounce upward.
+  - While shooting a gun, I would always *flinch* at the loud sound causing the gun to bounce upward.
   - Detonation of the fire alarm suddenly caused the children to flinch shifting them in their seats.
 
 
@@ -1218,7 +1227,7 @@
 
 * [[https://wordsinasentence.com/foray-in-a-sentence/][Foray]]
 
-  =an initial attempt at something=
+  =an initial attempt at something, 尝试，突袭=
 
   - Although we felt a little anxious about our foray into the jungle, we were still looking forward to our first big game hunt.
   - The aging senator told the voters that this election would be his final foray into the world of politics.
@@ -1256,6 +1265,8 @@
 
   =to go without something=
 
+    #+HTML: <img src="http://thesizzlingmommy.com/wp-content/uploads/2012/08/forgo-high-carb-foods.jpg"/>
+
   - I will forgo drinking because I am the designated driver.
   - Because Henry does not want to put his fate in the jury’s hands, he is going to forgo his right to a trial.
   - The actress decided to forgo the after-party and go home to her sick daughter.
@@ -1277,6 +1288,8 @@
 * [[https://wordsinasentence.com/frenzy-in-a-sentence/][Frenzy]]
 
   =wildly excited or out-of-control behavior=
+
+    #+HTML: <img src="http://athenacinema.com/wp-content/uploads/2013/01/frenzy11-1000.jpeg"/>
 
   - Distraught by the death of his wife, the man attacked in frenzy.
   - Taking PCP will put you into a wild frenzy and likely lead to serious injury.
