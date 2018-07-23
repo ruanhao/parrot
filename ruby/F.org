@@ -273,6 +273,8 @@
 
   =something that is believed to be real but only exists in imagination=
 
+  #+HTML: <img src="https://res.cloudinary.com/teepublic/image/private/s--2Ka-X04N--/b_rgb:fffffe,t_Heather%20Preview/c_limit,f_jpg,h_630,q_90,w_630/v1485814533/production/designs/1161642_1.jpg"/>
+
   - My young daughter claims to have a unicorn as a best friend, but such a thing is clearly a figment of her imagination.
   - I had an imaginary friend when I was little, but that figment of my imagination left me as I got older.
   - The crazy man in the asylum said he was playing a game of war with Napoleon Bonaparte, but all things considered that could not be anything other than a figment of his imagination.
@@ -849,6 +851,8 @@
 
   =pointless foolishness and stupidity=
 
+  #+HTML: <img src="http://1.bp.blogspot.com/_sjmxrHygBno/S0xSWGLCkHI/AAAAAAAACp8/5DmwWFBuonI/s400/pic1.jpg"/>
+
   - Even in his 40’s, the irresponsible man spent most of his salary on video games and other fatuity.
   - The woman tried to convince her husband that playing the lottery is senseless fatuity and would lead to nothing.
   - Fatuity and silliness during class caused the boy to fail most of his midterms.
@@ -859,6 +863,8 @@
 * [[https://wordsinasentence.com/faze-in-a-sentence/][Faze]]
 
   =unnerve; disturb=
+
+  #+HTML: <img src="https://verbalberbal.files.wordpress.com/2013/12/toddler-tantrum.jpg"/>
 
   - Negative comments aimed at the politician did not faze his *nerves of steel* =钢铁意志=.
   - Interviewers were unable to faze the relaxed applicant.
@@ -942,6 +948,8 @@
 * [[https://wordsinasentence.com/felicitate-in-a-sentence/][Felicitate]]
 
   =to congratulate=
+
+  #+HTML: <img src="https://drawinglics.com/photos/6897063/from-border-village-to-changing-the-world-with-piece-of-thread-minister-patali-champika-ranawaka-presenting-a-memento-to-dranura-rathnayake-during-a-ceremony-to-felicitate-him-at-hotel-nippon-in-colombo.py"/>
 
   - Cards and gifts arrived by mail to felicitate the graduate on his academic achievements.
   - The ornate shawl was given by the tribe to felicitate the woman on the birth of her new baby.
@@ -1074,6 +1082,8 @@
 * [[https://wordsinasentence.com/fitful-in-a-sentence/][Fitful]]
 
   =unsteady; erratic=
+
+  #+HTML: <img src="https://img.purch.com/rc/300x200/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA3OC8yOTYvb3JpZ2luYWwvaW5zb21uaWEtd29tYW4uanBn"/>
 
   - Jim was tired when he woke up after a fitful night of sleep.
   - When I visited the doctor, he was concerned about my fitful heartbeat and ordered an EKG.
@@ -1302,6 +1312,8 @@
 * [[https://wordsinasentence.com/frolic-in-a-sentence/][Frolic]]
 
   =to move about playfully and energetically=
+
+  #+HTML: <img src="https://upsidedance.files.wordpress.com/2013/04/img_0329.jpg"/>
 
   - It’s fun to watch the playful goats frolic around the meadow in the afternoon.
   - Because she is a no-nonsense kind of principal, the children know not to frolic around the gym while waiting on the bus.
