@@ -1092,7 +1092,7 @@
 
   #+HTML: <img src="https://img.purch.com/rc/300x200/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA3OC8yOTYvb3JpZ2luYWwvaW5zb21uaWEtd29tYW4uanBn"/>
 
-  - Jim was tired when he woke up after a fitful night of sleep.
+  - Jim was tired when he woke up after *a fitful night* of sleep.
   - When I visited the doctor, he was concerned about my fitful heartbeat and ordered an EKG.
   - The intoxicated man walked in a fitful manner to the restroom.
   - Because the weather has been fitful lately, we are not sure if our outdoor wedding is going to take place.
