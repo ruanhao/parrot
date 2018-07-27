@@ -1836,6 +1836,8 @@ to make more beautiful and attractive; to decorate=
 
   =to strongly condemn an individual or thing=
 
+  #+HTML: <img src="http://word.langfly.com/Picture/10/705/634837292610862705.jpg"/>
+
   - After being injured in the war, my uncle came to execrate gun violence.
   - The members of the Animal Society execrate people who abuse cats and dogs.
   - Because my ex-boyfriend stole all my money, I will execrate him during my testimony.
@@ -1865,6 +1867,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/exiguous-in-a-sentence/][Exiguous]]
 
   =a tiny quantity of something or a tiny height=
+
+  #+HTML: <img src="https://i0.wp.com/www.bragitoff.com/wp-content/uploads/2015/06/exiguous.jpg"/>
 
   - Due to my exiguous knowledge of history, I was bound to lose quickly at the history trivia game.
   - His exiguous size of barely five feet tall caused everyone to look down at the grown man.
@@ -2015,6 +2019,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/extort-in-a-sentence/][Extort]]
 
   =to take from an unwilling person=
+
+  #+HTML: <img src="http://images.mid-day.com/images/2015/apr/Honeytrap-3.jpg"/>
 
   - When Larry was fired, he attempted to extort cash from his former boss by threatening to expose the man’s drug addiction.
   - The con man hoped to extort money from the grocery story by pretending to fall on a slippery floor.
