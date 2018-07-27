@@ -678,6 +678,8 @@ to make more beautiful and attractive; to decorate=
 
   =to avoid something which you do not think is right or proper=
 
+  #+HTML: <img src="http://www.brainlesstales.com/images/2015/Apr/eschew-cashew.jpg"/>
+
   - Since my husband believes chores are a woman’s work, he tries to eschew them around the house.
   - Because I am a strict Christian, I tend to eschew events that are not religious in nature.
   - True vegetarians eschew food items that come from living animals.
@@ -691,6 +693,7 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/esoteric-in-a-sentence/][Esoteric]]
 
   =known about or understood by very few people=
+
 
   - The medical research was so esoteric that only a few physicians could actually understand the results.
   - Only a couple of people I know share your esoteric thoughts on those religious principles.
@@ -881,6 +884,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/exempt-in-a-sentence/][Exempt]]
 
   =free from a responsibility or obligation that is placed on others=
+
+  #+HTML: <img src="https://www.goodreturns.in/img/2015/04/15-1429072924-tax-no-entry-600.jpg"/>
 
   - Because I made a perfect score on my last exam, I am exempt from the study guide that all of the other students are required to complete.
   - Many people wish to be exempt from jury duty, but they nevertheless must attend because it is required by law for them to do so.
@@ -1242,6 +1247,8 @@ to make more beautiful and attractive; to decorate=
 
   =glowing; radiant=
 
+  #+HTML: <img src="http://www.publicationcoach.com/wp-content/uploads/2017/04/17-04-19-bigstock-radiant-90692381.jpg"/>
+
   - The effulgent sun was shining brightly as we headed out for our picnic.
   - As the bride walked down the aisle, she looked effulgent in her sparkling gown.
   - Ginger’s blonde hair sparkled under the photographer’s effulgent lights.
@@ -1322,6 +1329,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/emasculate-in-a-sentence/][Emasculate]]
 
   =emasculate means to lessen a man’s identity=
+
+  #+HTML: <img src="http://images.askmen.com/410x410/top_10/dating/1241599143_things-women-do-to-emasculate-men_flash.jpg"/>
 
   - He was worried his pink pants would emasculate him a bit, but he wore them anyway.
   - Although the strain of his unemployment was stressful, she didn't have to emasculate him.
