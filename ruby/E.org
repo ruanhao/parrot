@@ -1316,6 +1316,8 @@ to make more beautiful and attractive; to decorate=
 
   =to come out from a source=
 
+  #+HTML: <img src="https://drawingninja.com/resoure/1893858/vocabulary-week-1-the-delicious-smell-of-her-soup-emanated-from-the-kitchen.png"/>
+
   - Hopefully, the fun memories of the weekend will emanate throughout the office and give all the employees a positive outlook this week.
   - The bright light on the porch seems to emanate throughout the front yard.
   - After the hurricane, the east coast insurance office will process any claims that emanate from within the southern portion of the United States.
@@ -1401,6 +1403,8 @@ to make more beautiful and attractive; to decorate=
 
   =an area that is surrounded by a fence, wall, etc=
 
+  #+HTML: <img src="https://i.ebayimg.com/images/g/IzAAAOxylpNTQ4UZ/s-l300.jpg"/>
+
   - The enclosure was filled with cows grazing in the field.
   - To keep the cows from straying too far, the farmer built an enclosure.
   - The secret agents were having a difficult time breaching the enclosure to the lair.
@@ -1455,6 +1459,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/enjoin-in-a-sentence/][Enjoin]]
 
   =to prohibit someone from performing an action=
+
+  #+HTML: <img src="https://cdn-thumbs.barewalls.com/forbidden-sign-on-the-white-backgro_bwc21958251.jpg"/>
 
   - The angry man wanted the judge to grant an *injunction* =限制令= to enjoin his ex-wife from selling their vacation home.
   - After my father learns I failed all of my exams, he will probably take steps to enjoin me from using my credit cards.
@@ -1795,6 +1801,8 @@ to make more beautiful and attractive; to decorate=
 
   =to severely condemn=
 
+  #+HTML: <img src="http://laoblogger.com/images/excoriate-clipart-2.jpg"/>
+
   - In his speech, the president will excoriate the dictator’s actions and state his plans for military intervention.
   - The church elders have no choice but to publicly excoriate the young minister who was convicted of selling drugs.
   - How dare my mother excoriate me for getting pregnant outside of marriage when she did the same thing?
@@ -1889,6 +1897,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/expatiate-in-a-sentence/][Expatiate]]
 
   =to write or talk about something using many details=
+
+  #+HTML: <img src="http://www.youdict.com/images/words/expatiate1.jpg"/>
 
   - During his book signing, Clark will expatiate on his military adventures.
   - The congressman will expatiate for hours on the importance of educational spending.
@@ -2108,6 +2118,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/exultation-in-a-sentence/][Exultation]]
 
   =a feeling of triumphant elation or jubilation=
+
+  #+HTML: <img src="https://img.tfd.com/wn/89/668BE-exultation.png"/>
 
   - Harry’s feelings of exultation intensified as he neared the end of his prison term.
   - The pirate’s shouts of exultation upon defeating his enemy sent chills of terror up the spines of the captives.
