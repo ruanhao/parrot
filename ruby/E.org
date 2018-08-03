@@ -1944,6 +1944,8 @@ to make more beautiful and attractive; to decorate=
 
   =to express strong disagreement=
 
+  #+HTML: <img src="http://i1265.photobucket.com/albums/jj518/farnaz1992/argue_1381353c.jpg"/>
+
   - My mother never missed the opportunity to expostulate her opinion anytime my father did something which displeased her.
   - Although I try not to expostulate about my daughter’s clothing choices, I still keep my eye on what goes into her closet.
   - More than likely, the cat will expostulate his opinion of his new food by leaving it in his dish.
@@ -2104,6 +2106,8 @@ to make more beautiful and attractive; to decorate=
 * [[https://wordsinasentence.com/exult-in-a-sentence/][Exult]]
 
   =to rejoice, be very happy=
+
+  #+HTML: <img src="https://img.tfd.com/wn/43/BF8D9-exult.png"/>
 
   - Christians are taught to exult Christ above all else.
   - After winning first place in the contest, his family took him out to exult in the victory.
