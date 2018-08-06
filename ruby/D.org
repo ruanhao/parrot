@@ -1366,6 +1366,8 @@
 
   =chilly and damp in an unlikable way=
 
+  #+HTML: <img src="https://i3.kym-cdn.com/photos/images/original/001/102/474/a6c.jpeg"/>
+
   - After the flooding, the house was so dank we moved into a hotel for a few weeks.
   - The basement is dank because of the power outage and the leaky pipes.
   - Until we open the windows and let in the sun and fresh air, the abandoned house is going to be quite dank.
@@ -1376,6 +1378,8 @@
 * [[https://wordsinasentence.com/dapper-in-a-sentence/][Dapper]]
 
   =neat in appearance, usually referring to a male=
+
+  #+HTML: <img src="http://onedapperstreet.com/wp-content/uploads/2014/03/OOTD_140310_7288Edit-copy.jpg"/>
 
   - In the roaring twenties, all of the dapper men took a great deal of care with their appearance.
   - The mother dressed her son in his most dapper attire for the family reunion.
@@ -1391,6 +1395,8 @@
 
   =to coat or smear a substance on a surface=
 
+  #+HTML: <img src="http://netdna.tinyhouseblog.com/wp-content/uploads/2014/10/Wattle-and-Daub.jpg"/>
+
   - My mom screamed at me when I began to daub my bread with too much cream cheese.
   - I suspected that the prankster would daub my door handle with Vaseline because he has done so in the past.
   - Maria used a soft cloth to gently daub her eyes after she applied too much makeup.
@@ -1401,6 +1407,8 @@
 * [[https://wordsinasentence.com/dawdle-in-a-sentence/][Dawdle]]
 
   =to waste time by moving slowly=
+
+  #+HTML: <img src="http://s7.leapfrog.com/is/image/LeapFrog/article-slow-poke-solutions?$lp-content-img$"/>
 
   - If I do not monitor my daughter in the mall, she will dawdle there all day long.
   - Teenagers will often dawdle when doing chores they hate.
@@ -1438,6 +1446,8 @@
 
   =to ask questions in order to extract evidence=
 
+  #+HTML: <img src="https://tse2.mm.bing.net/th?id=OIP.r7KUAxp3S-DoTeluZKolMgHaDF&pid=Api"/>
+
   - When the fight ended at school, the principal needed to debrief each eyewitness to get an idea of which student started the fight.
   - In the courtroom, the prosecutor would debrief each witness on the stand in order to get their information stated about the defendant’s whereabouts in front of the jury.
   - The sergeant on the active battlefield would debrief the colonel of the army every ten minutes regarding their results of their strategy.
@@ -1448,6 +1458,8 @@
 * [[https://wordsinasentence.com/debunk-in-a-sentence/][Debunk]]
 
   =to reveal the inaccuracies associated with a belief=
+
+  #+HTML: <img src="http://www.metropolitanrisk.com/wp-content/uploads/2014/09/bigstock-Directional-Sign-56353643.jpg"/>
 
   - My attempts to debunk my young daughter’s belief in Santa Claus only ended with her crying for days.
   - If the president conducts a number of town hall conversations, he believes he can debunk the myths about his healthcare proposal.
@@ -1460,6 +1472,8 @@
 
   =to move one fluid or liquid from one container to another=
 
+  #+HTML: <img src="http://4.bp.blogspot.com/_0vxE5RcL9Pc/TCS9DtdX-kI/AAAAAAAACpQ/IiCUzZtQL9I/s1600/decant.jpg"/>
+
   - After asking the waiter for him to refill my glass, he took the large pitcher of iced tea to decant it from his pitcher into my glass.
   - It was quite difficult to decant perfume from its original bottle into the beautiful vessel without smelling up the whole room.
   - To save the wine for later, we would need to decant it from the bottle into a closed flask since we lost the cork.
@@ -1470,6 +1484,8 @@
 * [[https://wordsinasentence.com/declaim-in-a-sentence/][Declaim]]
 
   =to say something in a loud, passionate way=
+
+  #+HTML: <img src="http://the.honoluluadvertiser.com/dailypix/2010/Apr/20/hawaii4200337V2_b.jpg"/>
 
   - The love-struck newlywed would declaim his love for his bride on the peak of the highest mountain top.
   - Even though the defendant tried to declare her independence through a loud and passionate speech, few people believed she was innocent.
@@ -1518,6 +1534,8 @@
 
   =to make impure or dirty, to spoil or contaminate=
 
+  #+HTML: <img src="https://digventures.com/wp-content/uploads/2014/11/dirty-hands_article_new.jpg"/>
+
   - Because Jared is a hamburger purist, he believes that adding any condiments is only going to defile the flavor of the beef.
   - Mrs. Underwood told her Sunday School students that they should never defile a church or other holy place with vulgar behavior and language.
   - Willis has lined the walls of his apartment with aluminum foil so that aliens won’t be able to penetrate his subconscious and defile his brain.
@@ -1554,6 +1572,8 @@
 
   =to cover, as in to pay for something=
 
+  #+HTML: <img src="http://www.uft.org/files/imagecache/article_1_548x254/photo/giving-care-colombia-1a.jpg"/>
+
   - Because I have a coupon that will defray fifty percent of my restaurant bill, I have enough money to see a movie after dinner.
   - We are being asked to donate twenty dollars to help the festival organizer defray the cost of managing the event.
   - Fortunately, the scholarship will defray a large part of my daughter’s tuition.
@@ -1567,6 +1587,8 @@
 * [[https://wordsinasentence.com/dejected-in-a-sentence/][Dejected]]
 
   =depressed; miserable=
+
+  #+HTML: <img src="http://img4.wikia.nocookie.net/__cb20120922010023/stargirl/images/9/9c/Cutcaster-photo-100121808-Dejected-basketball-player.jpg"/>
 
   - I felt dejected after losing my job.
   - When Jan did not get the role in the film, she was more dejected than I had ever seen her.
@@ -1637,6 +1659,8 @@
 
   =a political leader who tries to influence people by making emotional speeches=
 
+  #+HTML: <img src="http://whatwouldjackdo.net/images/thedemagogue.jpg"/>
+
   - Todd wrote an excellent paper describing Hitler as a demagogue.
   - The agitators were led by an angry demagogue whose mission was to overthrow the government.
   - Because of the frantic way he delivers his speeches, the preacher comes across as a crazed demagogue.
@@ -1673,6 +1697,8 @@
 
   =shy and modest; reserved=
 
+  #+HTML: <img src="http://image4.oasap.com/o_img/2014/08/01/44331-425840-big/demure-vintage-floral-mini-dress.jpg"/>
+
   - My sister is too outgoing for anyone to ever accuse her of being demure.
   - While Helen is quite demure in her job as a librarian, at night she becomes a wild karaoke queen.
   - Because he was nervous at the audition, Biff sang in a demure voice which the judges were unable to hear.
@@ -1700,6 +1726,8 @@
 * [[https://wordsinasentence.com/depose-in-a-sentence/][Depose]]
 
   =to forcefully take a position away from a person=
+
+  #+HTML: <img src="http://www.200words-a-day.com/images/deporre.jpg"/>
 
   - A coalition of countries is trying to depose the island dictator.
   - Working together the princes hope to depose their father and assume power.
@@ -1781,6 +1809,10 @@
 
   =dried out; lifeless=
 
+  #+HTML: <img src="http://images.fineartamerica.com/images-medium-large/a-desiccated-horse-carcass-propped-joel-sartore.jpg"/>
+
+  #+HTML: <img src="http://richmoon.com.vn/upload/files/sanpham/coconut_powder.jpg"/>
+
   - The professional soccer player became desiccated after being in a car accident that left him in a coma.
   - Without water, the crops quickly became desiccated.
   - The man tried unsuccessfully to get water from the desiccated well.
@@ -1803,6 +1835,8 @@
 
   =to stop doing something=
 
+  #+HTML: <img src="http://www.trademarkeagle.co.uk/imagelibrary/icon-cease-desist.jpg"/>
+
   - The document from the court orders the magazine to desist from publishing false stories about the actor.
   - Because of the copyright violation, my lawyer sent a cease and desist letter to the company that was publishing my work without permission.
   - A scared dog uses his bark to encourage strangers to desist from coming into his territory.
@@ -1816,6 +1850,8 @@
 * [[https://wordsinasentence.com/desolate-in-a-sentence/][Desolate]]
 
   =empty; without life=
+
+  #+HTML: <img src="http://www.artlimited.net/user/0/0/1/2/1/3/6/artlimited_img277384.jpg"/>
 
   - Since the *anchor stores* =超级商店= closed, the shopping center has become a desolate wasteland.
   - The farmer hopes the fertilizer will moisturize the soil in the desolate field so he can grow crops.
@@ -1840,6 +1876,8 @@
 * [[https://wordsinasentence.com/destitute-in-a-sentence/][Destitute]]
 
   =utterly lacking=
+
+  #+HTML: <img src="http://image.ourclipart.com/513/5136092/destitute-clipart.png"/>
 
   - Even though I grew up in a destitute family, it did not stop me from attending an Ivy League school
   - The heiress could think of nothing worse than being destitute.
@@ -1905,6 +1943,8 @@
 
   =filthy, discolored, often dark or depressing=
 
+  #+HTML: <img src="https://i0.wp.com/bitzngiggles.com/wp-content/uploads/2016/02/Dingy-socks-post.jpg?ssl=1"/>
+
   - Her dress was a dingy grey that was two sizes too big and could have used a wash.
   - It wasn’t surprising that Catherine felt sad all the time when she lived in a room that was so dingy, dark, and depressing.
   - She wore a dingy dress that was discolored from years of sweat and little washing.
@@ -1948,6 +1988,8 @@
 * [[https://wordsinasentence.com/disburse-in-a-sentence/][Disburse]]
 
   =to pay out, expend; usually from a public fund or treasury=
+
+  #+HTML: <img src="http://www.texaslawyer.com/image/EM/Money-exchange-Article-201406171349.jpg"/>
 
   - The federal government said it was studying whether to disburse more relief funds to the state after the damage appears to be severe.
 
@@ -2044,6 +2086,8 @@
 * [[https://wordsinasentence.com/dissimulation-in-a-sentence/][Dissimulation]]
 
   =the action of covering the truth=
+
+  #+HTML: <img src="https://fennario.files.wordpress.com/2012/07/dissimulation.jpg"/>
 
   - Many anti-government groups believe the president is always conducting acts of dissimulation to deceive the public.
   - When I took my mother’s car without permission, I refilled the gas tank and left the car exactly as I found it as part of my dissimulation to avoid being caught.
