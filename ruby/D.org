@@ -2103,6 +2103,8 @@
 
   =to convince an individual to not try or complete something=
 
+  #+HTML: <img src="http://images.digopaul.com/wp-content/uploads/related_images/2015/09/08/dissuade_2.jpg"/>
+
   - Jealous people will always try to dissuade you from trying to be successful.
   - When the car dealer saw I was trying to leave without purchasing a car, he tried to dissuade me from leaving the lot.
   - The rain will more than likely dissuade Josh from staying out for too long.
@@ -2126,6 +2128,8 @@
 * [[https://wordsinasentence.com/doff-in-a-sentence/][Doff]]
 
   =means to tip or remove (one's hat) in salutation=
+
+  #+HTML: <img src="http://megainsights.com/wp-content/uploads/2011/12/DSC_0244.jpg"/>
 
   - Before he could doff his hat at the busy woman, she hurried by without paying him any attention.
   - The lady gave a courtesy as the gentleman moved to doff his hat as they bid each other adieu.
@@ -2249,6 +2253,8 @@
 
   =pointless *babble* or chatter=
 
+  #+HTML: <img src="http://www.monkeyinthecage.com/wp-content/uploads/2015/09/George-Lucas-Useless-Drivel.jpg"/>
+
   - Instead of studying, we wasted the hours talking about irrelevant drivel.
   - The inexperienced teacher was so nervous during the first class that she talked about drivel completely unrelated to the course.
   - Since I enjoy eating in silence, I tend to eat lunch at my desk to avoid my colleagues' drivel.
@@ -2263,6 +2269,8 @@
 
   =oddly humorous; funny=
 
+  #+HTML: <img src="http://www.landscapestories.net/wp-content/uploads/2011/09/Droll-e1318359715322.jpg"/>
+
   - I love this *anthology* because all the stories are droll and entertaining, rather than making me think too hard.
   - Despite the droll expression on Charlie’s face, Marian was afraid that he might have been hurt when he tumbled off the swing.
   - If you’re always going to have that droll smirk on your face, I’ll never tell you when someone has a crush on you.
@@ -2276,6 +2284,8 @@
 * [[https://wordsinasentence.com/drool-in-a-sentence/][Drool]]
 
   =spilling saliva from the mouth=
+
+  #+HTML: <img src="http://www.reactiongifs.com/r/drool.gif"/>
 
   - Eyeing the steak on the neighboring table, the dieting woman couldn’t help but drool.
   - Babbling and laughing, the teething baby began to drool all over his bib.
@@ -2327,6 +2337,8 @@
 
   =force or threats meant to make someone do something=
 
+  #+HTML: <img src="http://images.wisegeek.com/young-man-pointing-gun-at-man-in-suit-who-is-using-a-phone.jpg"/>
+
   - The judge overturned the case because the defendant’s attorney proved that his client’s confession had been given under duress.
   - The vet said Scampi was licking her nose because she was stressed out, but I didn’t think she had been under any duress.
   - I think Claire was under duress when she signed the agreement; she never would have voluntarily accepted those conditions.
@@ -2340,6 +2352,8 @@
 * [[https://wordsinasentence.com/dyspeptic-in-a-sentence/][Dyspeptic]]
 
   =irritable and bad-tempered=
+
+  #+HTML: <img src="http://slideplayer.com/slide/7288601/24/images/21/Dyspeptic+syndrome+-+loss+of+appetite,+sialorrhea,+nausea,+vomiting,+meteorism,+diarrhea,+steatorrea..jpg"/>
 
   - The dyspeptic man could not determine if he was happy or sad.
   - Dyspeptic in nature, the woman settled into bed and cried as she murmured about her horrible life.
