@@ -35,6 +35,8 @@
 
   =showing or having an insensitive and cruel disregard for others=
 
+  #+HTML: <img src="https://cdn4.iconfinder.com/data/icons/negative-character-traits-alphabet-c-part-2/248/negative-Cset2014-512.png"/>
+
   - There is so much crime in this country that many people have become callous about it and tend to look the other way.
   -  Despite her wealth, the old lady was a callous woman who never gave to anyone in need.
   - The callous doctor had no problem telling the overweight man he was fat and lazy.
@@ -62,6 +64,8 @@
 * [[https://wordsinasentence.com/candid-in-a-sentence/][Candid]]
 
   =truthful and straightforward=
+
+  #+HTML: <img src="https://farm2.staticflickr.com/1270/5190089481_406b73db48_b.jpg"/>
 
   - Because the politician made a candid speech, he earned the respect of the voters.
   - Sometimes my mother talks in such a candid manner that I am embarrassed by the things she shares.
@@ -130,6 +134,8 @@
 
   =always looking for faults; hard to please=
 
+  #+HTML: <img src="https://nicewemen.files.wordpress.com/2015/04/captious-a-woman-who-is-fault-finding-quarrelsome-eagerness-to-object.jpg"/>
+
   - My captious father is never satisfied with anything I do.
   - As the chef waited for the captious critic to review his food, he tried to think of any dish he could have prepared better.
   - None of the servers wanted to wait on the captious woman who complained about everything.
@@ -154,6 +160,8 @@
 * [[https://wordsinasentence.com/caricature-in-a-sentence/][Caricature]]
 
   =a picture of someone in which their features have been exaggerated for humorous effect=
+
+  #+HTML: <img src="https://www.comedycapers.com/wp-content/uploads/2011/06/Caricature-Barack-Obama-C-Senties.jpg"/>
 
   - The picture of the president is not a caricature because it does not distort his facial features.
   - On our family vacation, I paid an artist to sketch a hilarious caricature of my children.
@@ -252,6 +260,8 @@
 
   =to worry or fret=
 
+  #+HTML: <img src="http://s.wiggle.co.uk/images/nk-chafe-ease-med.jpg?w=1200&amp;h=1200&amp;a=7"/>
+
   - My protective father tends to chafe whenever I go on a date.
   - Even when life is seemingly perfect, my worrywart sister will still chafe over something.
   - Ann is a constant complainer who is always looking for a reason to chafe.
@@ -336,6 +346,8 @@
 
   =not said or done simply or clearly=
 
+  #+HTML: <img src="http://media.gettyimages.com/vectors/circuitous-route-a-to-b-arrow-drawing-vector-id533225923?s=170667a"/>
+
   - Because the spy did not want to give away the location of his headquarters, he always took a long and circuitous route to his office.
   - My boss asked me to simplify the circuitous language for the average reader.
   - Because the bookshelf came with circuitous instructions, I was unable to put it together properly.
@@ -378,6 +390,8 @@
 
   =to think carefully before doing or saying anything, in order to avoid risks or consequences; cautious=
 
+  #+HTML: <img src="http://getclipart.biz/1024/clip-art-of-a-cucasian-undercover-private-eye-detective-talking-secretively-on-a-telephone-by-ron-leishman-2858.jpg"/>
+
   - In this day and age, you need to be circumspect about giving out too much personal information on the internet.
   - Jack found himself circumspect of dating a woman he hardly knew.
   - Even though he knew the killer was in handcuffs, the cop was still circumspect of the criminal.
@@ -416,6 +430,8 @@
 * [[https://wordsinasentence.com/clamber-in-a-sentence/][Clamber]]
 
   =to crawl or climb in an awkward manner=
+
+  #+HTML: <img src="https://thumbs.dreamstime.com/z/clamber-cliff-2276546.jpg"/>
 
   - Fortunately, the baby fell back onto the soft carpet after trying to clamber up the steps.
   - The tiny kitten was cute as it tried to clamber up the couch.
@@ -475,6 +491,8 @@
 * [[https://wordsinasentence.com/coalesce-in-a-sentence/][Coalesce]]
 
   =to join into a single mass=
+
+  #+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Coalescence.svg/1200px-Coalescence.svg.png"/>
 
   - Olivia stared into the distance and concentrated, hoping that all her random thoughts would somehow coalesce into one brilliant idea.
   - As refugees continue to flood into the community, the congregations from all the churches will coalesce into one welcoming body to make them feel at home.
@@ -626,6 +644,8 @@
 
   =an assortment of items displayed as a set=
 
+  #+HTML: <img src="https://www.personaltouchpromotions.com.au/images/P/B163.jpg"/>
+
   - The book is nothing more than a compendium of the author’s rants against the government.
   - At the exhibit, five of the artist’s paintings will be displayed together as a compendium.
   - The photographic compendium is an album of pictures showing many of the country’s military personnel.
@@ -661,6 +681,8 @@
 * [[https://wordsinasentence.com/concoction-in-a-sentence/][Concoction]]
 
   =something created from scratch=
+
+  #+HTML: <img src="https://images.clipartof.com/Clipart-Of-A-Cartoon-Senior-White-Male-Mad-Scientist-Mixing-A-Concoction-Royalty-Free-Vector-Illustration-10241381854.jpg"/>
 
   - I could not wait for the bartender to finish my delicious concoction.
   - In her cave, the ugly witch is combining all kinds of weird ingredients to create a concoction to restore her former beauty.
@@ -701,6 +723,8 @@
 
   =to accept and allow=
 
+  #+HTML: <img src="http://www.christiantz.com/images/tz/condone-blf.jpg"/>
+
   - We will not condone disorderly conduct at church.
   - While we condone free speech, we do not condone slander.
   - Good police officers will not condone speeding.
@@ -714,6 +738,8 @@
 * [[https://wordsinasentence.com/congenial-in-a-sentence/][Congenial]]
 
   =pleasant and enjoyable=
+
+  #+HTML: <img src="https://img.haikudeck.com/mg/E533956B-29AF-492D-9562-111A9408A0F3.jpg"/>
 
   - Mark is a congenial host who always makes everyone feel welcome.
   - Because Jenna is not a congenial person, people rarely accept her dinner invitations.
@@ -751,6 +777,8 @@
 
   =an opinion or idea formed without proof or sufficient evidence=
 
+  #+HTML: <img src="https://numberstrings.files.wordpress.com/2014/12/conjecture-3.jpg"/>
+
   - The jury rejected the attorney’s conjecture about the defendant’s motive because of a lack of evidence.
   - Because the scientist had only conjecture to back up his untested theory, he doubted if the university would offer him any research funds.
   - Your argument is being ignored because it is basically nothing but conjecture!
@@ -764,6 +792,8 @@
 * [[https://wordsinasentence.com/conjure-in-a-sentence/][Conjure]]
 
   =to bring into existence, sometimes by magic=
+
+  #+HTML: <img src="http://img14.deviantart.net/8884/i/2012/340/9/e/conjure_by_michelleramey-d3c9bp9.jpg"/>
 
   - The magician was able to conjure a rabbit out of his empty top hat.
   - Even though the cupboards were bare, my mother was able to conjure up some dinner for us.
@@ -815,6 +845,8 @@
 
   =working hard and careful to do things well=
 
+  #+HTML: <img src="https://www.featurepics.com/StockImage/20100630/conscientious-school-boy-student-stock-picture-1602118.jpg"/>
+
   - Carrie is a conscientious worker who completes every task.
   - Because my brother is a conscientious objector, he refuses to serve in the military.
   - Although Jack is a conscientious student, he failed yesterday’s math test.
@@ -829,6 +861,8 @@
 
   =to pass something to another individual so the item can be sold=
 
+  #+HTML: <img src="https://cbsdallas.files.wordpress.com/2015/02/dc_aug2012_rduron_001.jpg"/>
+
   - To make extra money, some women in my neighborhood consign their used baby garments to a clothing store.
   - Ginger is going to consign her jewelry to a well-known auction house.
   - Since I consign my blankets to stores, I don’t get paid until a sale is made.
@@ -840,6 +874,8 @@
 
   =a partner or associate with whom one shares something=
 
+  #+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/%E3%80%8A%E9%9B%8D%E5%AE%AB%E5%BC%8F%E8%8C%83%E3%80%8B%E5%92%8C%E5%A6%83%E9%83%A8%E5%88%86.jpg"/>
+
   - My consort will finish the presentation for me.
   - Whenever the king travels, he is always accompanied by his consort, his queen.
   - The criminal forced his wife to be his consort in crime.
@@ -850,6 +886,8 @@
 * [[https://wordsinasentence.com/consternation-in-a-sentence/][Consternation]]
 
   =a feeling of worry, shock, or fear - often happens when something unexpected happens=
+
+  #+HTML: <img src="http://3.bp.blogspot.com/_cniDxLEEmcI/S8pEAsA6_nI/AAAAAAAABtc/7Ka0dCb1A4I/s1600/IMG_3357.JPG"/>
 
   - I sleep in consternation not knowing where my keys are.
   - Full of consternation at first, the boy now thinks he aced the pop quiz.
@@ -879,6 +917,8 @@
 
   =extremely skilled=
 
+  #+HTML: <img src="http://www.india-forums.com/tellybuzz/images/uploads/CE5_varsha-thm.jpg"/>
+
   - Phil is a consummate golfer who earned over eight million dollars in tournaments last year.
   - Because my sister is a consummate liar, she can make anyone believe practically anything.
   - My charity organization is looking for a consummate fundraiser to help our group raise much-needed funds.
@@ -892,6 +932,8 @@
 * [[https://wordsinasentence.com/contentious-in-a-sentence/][Contentious]]
 
   =causing or likely to cause an argument=
+
+  #+HTML: <img src="http://images.christianpost.com/full/69286/oreilly-and-obama-a-contentious-meeting.jpg"/>
 
   - The author wrote a contentious novel which caused a great deal of unrest.
   - How is this contentious issue being handled by the usually reserved committee?
@@ -932,6 +974,8 @@
 
   =unnatural or fabricated=
 
+  #+HTML: <img src="http://www.aapt.org/Contests/images/Photo09/C-210_large.jpg"/>
+
   - Jim made the contrived confession after the police threatened him.
   - If you look at the picture of the dog and cat dancing, you can easily tell a Photoshop user created the contrived image.
   - The movie’s contrived plot about the killer butterflies did not make sense to anyone in the audience.
@@ -956,6 +1000,8 @@
 * [[https://wordsinasentence.com/conversant-in-a-sentence/][Conversant]]
 
   =to be familiar with or have inside knowledge about the facts of something=
+
+  #+HTML: <img src="http://www.beet.tv/wp-content/uploads/2016/04/Michael-Davis-Conversant-Media-1024x576.png"/>
 
   - The man is conversant in several different languages including French and English.
   - Although she was born in Mexico, Maria left Cancun as a young child and isn’t conversant in Spanish.
@@ -1046,6 +1092,8 @@
 
   =a person's face or facial expression=
 
+  #+HTML: <img src="http://2.bp.blogspot.com/_ORw0Hlr9NWI/SwMH8tAu1tI/AAAAAAAAANg/0WupY68FEYo/s1600/CH+12+a+long+way+gone+vocabulary+Countenance.jpg"/>
+
   - Even though Janet is a very young woman, her rough countenance makes her appear much older.
   - You could tell from Peter’s countenance that he was quite angry!
   - If you approach Jackson with that angry countenance, he will meet you with the same expression.
@@ -1084,6 +1132,8 @@
 * [[https://wordsinasentence.com/cringe-in-a-sentence/][Cringe]]
 
   =to shrink or flinch, as in fear, disgust or embarrassment=
+
+  #+HTML: <img src="https://i.ytimg.com/vi/OCYGcjhd4Hg/maxresdefault.jpg"/>
 
   - Because I'm afraid of the dentist, I cringe every time I get my teeth cleaned.
   - Julie could not help but cringe at the thought of eating chocolate covered crickets.
@@ -1132,6 +1182,8 @@
 
   =guilty; deserving blame=
 
+  #+HTML: <img src="https://duncantucker.files.wordpress.com/2014/11/presunto_culpable.jpg"/>
+
   - The judge found the man culpable of the crime and sentenced him to life in prison.
   - If you drive under the influence of alcohol, then you are culpable for any accidents you have as a result of driving in that condition.
   - The teacher who allowed the bullying in her class is just as culpable as the student bully.
@@ -1145,6 +1197,8 @@
 * [[https://wordsinasentence.com/cursory-in-a-sentence/][Cursory]]
 
   =something done quickly with little attention to detail=
+
+  #+HTML: <img src="https://i.ytimg.com/vi/J2zTykFJ010/hqdefault.jpg"/>
 
   - After doing a cursory head count, Claire realized that two of the campers were not in their tents.
   - Any cursory observation of human behavior will demonstrate that no one is absolutely predictable in any given situation.
@@ -1222,6 +1276,8 @@
 
   =to quantify in a careful and detailed manner=
 
+  #+HTML: <img src="http://www.thecalibrationstation.com/wp-content/uploads/2014/04/Tape-Measure-Pull.jpg"/>
+
   - The hospital pharmacist knows how important it is to calibrate the IV medications correctly.
   - Since one of my tires looks a little flat, I’m going to take my car to the shop so a mechanic can calibrate the tire pressure.
   - The doctor will calibrate my oxygen level by having me blow air into a tube that is attached to a computer.
@@ -1257,6 +1313,8 @@
 * [[https://wordsinasentence.com/cameo-in-a-sentence/][Cameo]]
 
   =a tiny role in a film that is performed by a famous individual=
+
+  #+HTML: <img src="https://fthmb.tqn.com/u5YPlV0AcIuKztgo90cfd0W8QIw=/2834x3514/filters:fill(auto,1)/cameo-on-carnelian-depicting-female-face-113887581-58160b225f9b581c0bddf7a3.jpg"/>
 
   - The actor’s cameo had him onscreen for less than two minutes.
   - In the movie filmed in our town, our mayor appears as himself in a cameo.
@@ -1323,6 +1381,8 @@
 * [[https://wordsinasentence.com/canvass-in-a-sentence/][Canvass]]
 
   =to seek out support from people=
+
+  #+HTML: <img src="http://miplannedparenthood.org/wp-content/uploads/2015/10/canvassing.jpg"/>
 
   - Because my aunt is active in politics, she never fails to canvass her neighborhood in support of her favorite candidates.
   - Campaign representatives can use their computers to canvass potential voters online.
@@ -1393,6 +1453,8 @@
 
   =to find fault or quarrel with someone constantly=
 
+  #+HTML: <img src="https://denstormerpresents.files.wordpress.com/2013/01/carp.jpg"/>
+
   - Edith’s husband decided to leave, saying that he couldn’t stand her tendency to carp and complain constantly.
   - The company has a high turnover rate because the managers carp and fault-find with all of the hourly employees.
   - Jason’s mother doesn’t allow him to carp under his breath and grounds him when she hears him grumble and complain.
@@ -1429,6 +1491,8 @@
 
   =a gathering of individuals who come together to work for a shared objective – generally political in nature=
 
+  #+HTML: <img src="https://img.rt.com/files/2016.02/original/56afc8fcc36188447d8b45ba.jpg"/>
+
   - The Black Student Caucus is holding a cultural diversity workshop in the media center on Saturday.
   - When the legislative caucus meets, they will discuss a new proposal on gun control.
   - I wonder what names will come up as possible presidential candidates during next month’s electoral caucus.
@@ -1442,6 +1506,8 @@
 * [[https://wordsinasentence.com/cavort-in-a-sentence/][Cavort]]
 
   =to move around in an excited fashion=
+
+  #+HTML: <img src="http://static.sfdict.com/static/wotd/tiles/20150612_cavort.png"/>
 
   - The boys cavort around the pool while watching bikini-clad girls.
   - During the company Christmas party, I saw even the most serious employees cavort around the bar.
@@ -1490,6 +1556,8 @@
 
   =of very little value=
 
+  #+HTML: <img src="http://jeffshore.com/wp-content/uploads/2014/01/chaff.jpg"/>
+
   - The pawn store owner refused to buy the thief’s chaff because it was worthless.
   - Since Ann believed her doll collection was very valuable, she was shocked when the expert told her the dolls were chaff.
   - The woman was not upset about the robbery because she knew only chaff had been stolen.
@@ -1499,6 +1567,8 @@
 * [[https://wordsinasentence.com/charade-in-a-sentence/][Charade]]
 
   =a sham or farce=
+
+  #+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1991_Daihatsu_Charade_SG_Sedan_cropped.JPG/1920px-1991_Daihatsu_Charade_SG_Sedan_cropped.JPG"/>
 
   - Keeping up the charade, my family continued to pretend that they weren’t going to throw my little sister a surprise party.
   - Many saw the meeting as a charade and did not believe that the board members really intended to solve the budget problem.
@@ -1510,6 +1580,8 @@
 * [[https://wordsinasentence.com/chaste-in-a-sentence/][Chaste]]
 
   =wholesome; pure in thought=
+
+  #+HTML: <img src="http://1mpkoh2uj7ew36r28p3t8kxt11gl.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/shutterstock_194460959-660x350.jpg"/>
 
   - Because I am very religious, I told my boyfriend we could do nothing more than exchange chaste kisses.
   - The priest took an oath to avoid impure temptations in order to remain chaste.
@@ -1555,6 +1627,8 @@
 * [[https://wordsinasentence.com/chicanery-in-a-sentence/][Chicanery]]
 
   =the use of trickery to achieve a political, financial, or legal purpose=
+
+  #+HTML: <img src="http://4.bp.blogspot.com/-MZnWs8vnVqU/Ut42kZxPdzI/AAAAAAAAAdA/RApiZgjmZs4/s1600/Dick_Dastardly.jpg"/>
 
   - You can smell the chicanery from a dishonest politician.
   - That republican is up to his old chicanery, blaming all democrats for the recession.
@@ -1645,6 +1719,8 @@
 
   =unpleasantly damp and sticky or slimy to touch=
 
+  #+HTML: <img src="http://www.natural-homeremedies.com/wp-content/uploads/2012/07/Clammy-Skin.jpg"/>
+
   - The feverish girl's skin was clammy and slick with a light layer of sweat.
   - His hands were so clammy on their first date that he was afraid to hold her hand.
   - During the time of the bubonic plague, one of the first symptoms of the disease was clammy skin cold to the touch but covered with sweat.
@@ -1655,6 +1731,8 @@
 * [[https://wordsinasentence.com/clasp-in-a-sentence/][Clasp]]
 
   =take hold of; grab tightly=
+
+  #+HTML: <img src="http://alexnld.com/wp-content/uploads/2015/03/SKU048009.5.jpg"/>
 
   - I would clasp the check firmly in one hand because dropping it would mean possibly losing ten thousand dollars.
   - When Martha saw the swarthy man walk quickly towards her, she decided to clasp her purse as a precautionary measure so he couldn’t steal it.
@@ -1675,6 +1753,8 @@
 
   =to make certain; to finalize; to confirm=
 
+  #+HTML: <img src="http://www.couch2cage.com/wp-content/uploads/2011/01/muay-thai-clinch.jpg"/>
+
   - The Senate must work quickly and together in order to clinch the budget deal to avoid a government shutdown.
 
 
@@ -1693,6 +1773,8 @@
 * [[https://wordsinasentence.com/cloying-in-a-sentence/][Cloying]]
 
   =too sugary or sentimental=
+
+  #+HTML: <img src="https://assets.merriam-webster.com/mw/images/gallery/gal-wap-slideshow-slide/cloying-3374-01fa3f8b40c7bd48f80625b217cc3734@1x.jpg"/>
 
   - Jill is no longer impressed by cloying lines of devotion after having her heart broken countless times.
   - While Kelly and Kyle clearly love each other, their public displays of affection are often cloying to the point of being nauseating.
@@ -1752,6 +1834,8 @@
 
   =to think hard about; to consider=
 
+  #+HTML: <img src="http://www.wineverygame.com/words/images/cogitate.jpg"/>
+
   - Even though he had received many invitations to celebrate his ninetieth birthday, the old spy preferred to stay home with a good cigar and quietly cogitate upon his life of adventure.
   - After the guilty verdict was handed in, the judge released the jury so that he could cogitate about the kind of sentence he should pass.
   - My priest told me I could ease the tension in my life by making time every day to find a quiet place to pray and cogitate on peaceful things.
@@ -1789,6 +1873,8 @@
 * [[https://wordsinasentence.com/colloquy-in-a-sentence/][Colloquy]]
 
   =a serious chat or conversation=
+
+  #+HTML: <img src="http://historylearning.com/fileadmin/_processed_/csm_Marburger-Religionsgespraech_4e250eeab5.jpg"/>
 
   - From my bedroom, I could hear portions of my parents’ colloquy about my poor grades.
   - Jane knew her job was in danger when her manager called her into his office for a colloquy about productivity.
@@ -1859,6 +1945,8 @@
 
   =marked by an inclination to please or oblige=
 
+  #+HTML: <img src="http://www.featurepics.com/StockImage/20110603/mouse-with-food-stock-illustration-1904136.jpg"/>
+
   - Marsha’s complaisant character made her the perfect servant.
   - Because John is too complaisant in his willingness to please others, people often take advantage of him.
   - In the movie, the heroine had a complaisant personality which made it impossible for her to deny anyone anything.
@@ -1872,6 +1960,8 @@
 * [[https://wordsinasentence.com/complicity-in-a-sentence/][Complicity]]
 
   =the condition of being involved in an act of wrongdoing=
+
+  #+HTML: <img src="http://3.bp.blogspot.com/-g7IWx-IFy4A/ULDWR4CpkHI/AAAAAAAAEDQ/1Q8ixFUMGWM/s1600/561656_393058454106530_1449839252_n.jpg"/>
 
   - Your complicity in the crime is probably going to earn you five years in prison.
   - Since I did not have any complicity in the case, it was easy for my lawyer to get me released from jail.
@@ -1898,6 +1988,8 @@
 
   =anxiety arising from awareness of guilt=
 
+  #+HTML: <img src="http://img.tfd.com/wn/CA/668DE-compunction.jpg"/>
+
   - The serial killer showed no compunction when his guilty verdict was announced.
   - Even though the stock broker admitted his crime, he displayed very little compunction while standing in front of the judge.
   - Surprisingly, the gang member showed compunction when questioned about the murder.
@@ -1922,6 +2014,8 @@
 * [[https://wordsinasentence.com/concession-in-a-sentence/][Concession]]
 
   =an item or privilege that is given in response to demands=
+
+  #+HTML: <img src="https://orlandoinformer.com/wp-content/uploads/2011/07/oi-regal-pointe-orlando-stadium-and-imax-movie-theatre-405.jpg"/>
 
   - Since the developer could not give the landowner his desired concession, he was not able to buy the land for the new subdivision.
   - The prosecutor must be willing to offer a concession of leniency if he wants the defendant to testify against his co-conspirators.
@@ -1970,6 +2064,8 @@
 
   =to discuss=
 
+  #+HTML: <img src="http://www.whataboutclients.com/archives/meet%20and%20confer%20(1).jpg"/>
+
   - Since the doctors are unfamiliar with my symptoms, they will confer on a diagnosis.
   - The principal closed his office door so he could confer in private with the troubled teen.
   - At the pharmacy, there is a private area in which the pharmacist can confer with customers about their prescriptions.
@@ -1984,6 +2080,8 @@
 
   =to change from a liquid to solid state=
 
+  #+HTML: <img src="http://www.theglobaljewishkitchen.com/wp-content/uploads/2011/05/CArrot-CakeBBQ-Turkey-CHco-Bananas-084-2-3.jpg"/>
+
   - They refrigerated the liquid gelatin so it would congeal before they ate it.
   - She wanted to wash the frying pan before the bacon fat had a chance to congeal.
   - Before I could put a bandage on, my blood begun to congeal on my cut.
@@ -1994,6 +2092,8 @@
 * [[https://wordsinasentence.com/congregate-in-a-sentence/][Congregate]]
 
   =to gather as a unit or group=
+
+  #+HTML: <img src="http://mrsstuder.pbworks.com/f/congregate.jpg"/>
 
   - During the summer teenagers often congregate at the beach.
   - The students will congregate around a fight in order to keep teachers from breaking up the brawl.
@@ -2028,6 +2128,8 @@
 
   =the system of forcing individuals to serve in the military=
 
+  #+HTML: <img src="https://www.military-history.org/wp-content/uploads/2011/06/Kitchener.jpg"/>
+
   - Because of John’s moral beliefs, he refuses to take part in the conscription that would require him to bear arms.
   - Conscription exists as a means to ensure there are always men to protect and defend our nation.
   - When the anti-war protestors spoke out against conscription, they were opposing mandatory military service.
@@ -2038,6 +2140,8 @@
 * [[https://wordsinasentence.com/consecrate-in-a-sentence/][Consecrate]]
 
   =to announce something is sacred or devoted to a specific purpose=
+
+  #+HTML: <img src="https://i.ytimg.com/vi/SVhoahkphMU/maxresdefault.jpg"/>
 
   - After high school, the young men will consecrate their lives to the church and serve as missionaries for two years.
   - The monks will consecrate the temple as a house of worship.
@@ -2063,6 +2167,8 @@
 * [[https://wordsinasentence.com/consolidate-in-a-sentence/][Consolidate]]
 
   =to put together=
+
+  #+HTML: <img src="http://mystudentloanattorney.com/wp-content/uploads/2014/05/student-loan-consolidate-lawyer-tampa.jpg"/>
 
   - To save money on airline fees, my husband and I will consolidate our clothes so they fit in one suitcase.
   - The file cabinet allows us to consolidate our bills and important documents in one place.
@@ -2111,6 +2217,8 @@
 
   =used to describe things that touch each other or are next to each other=
 
+  #+HTML: <img src="http://www.ems12lead.com/wp-content/uploads/sites/42/2008/12/contiguous-states.jpg"/>
+
   - Although many individuals own several pieces of property in our town, few of them own contiguous lots that are located right next to each other.
   - Having a balcony that is contiguous to my bedroom allows me to view the sunrise from my bed.
   - Because there is a bar contiguous to the pool, you do not have to get out of the water to order a drink.
@@ -2124,6 +2232,8 @@
 
   =twisted in a forceful manner=
 
+  #+HTML: <img src="http://images.fineartamerica.com/images-medium-large/contorted-filbert-michele-stoehr.jpg"/>
+
   - The python contorted around its intended victim.
   - As the rat started to die, its body contorted from the spasms caused by the poison.
   - The software contorted our pictures and made us look ridiculous.
@@ -2134,6 +2244,8 @@
 * [[https://wordsinasentence.com/contumacious-in-a-sentence/][Contumacious]]
 
   =rebellious against laws or those in authority=
+
+  #+HTML: <img src="https://classconnection.s3.amazonaws.com/202/flashcards/940202/jpg/contumacious-contumacious-ugly-drag-crossdresser-homo-fag-ga-demotivational-poster-12393072881331510458928.jpg"/>
 
   - Because the contumacious student refused to obey the principal’s instructions, he was suspended from school.
   - The judge was quick to have contumacious defendants removed from his courtroom.
@@ -2149,6 +2261,8 @@
 
   =unpleasant behavior or language=
 
+  #+HTML: <img src="https://media.yourdailydish.com/wp-content/uploads/2016/11/MacysParade_Feat-400x242.jpg"/>
+
   - The television network felt the show’s dialogue contained contumely that was inappropriate for its young viewers.
   - As the prisoner was dragged out of court, he shouted contumely and made threats against the sentencing judge.
   - The teacher did not appreciate the student speaking to her while using contumely.
@@ -2162,6 +2276,8 @@
 * [[https://wordsinasentence.com/conundrum-in-a-sentence/][Conundrum]]
 
   =a difficult problem that seems to have no solution=
+
+  #+HTML: <img src="http://www.brainlesstales.com/images/2012/Jul/conundrum.jpg"/>
 
   - Trying to solve this conundrum is really making my head hurt.
   - The government has spent hundreds of millions of dollars trying to unearth a solution to *fuel the conundrum*.
@@ -2177,6 +2293,8 @@
 
   =the period of time spent recuperating from illness or treatment=
 
+  #+HTML: <img src="http://img.wikinut.com/img/1vr.t5swxchnga2u/jpeg/0/Convalescence.jpeg"/>
+
   - During my convalescence, I will be on a restricted diet until my digestive system heals.
   - Jane is fortunate her insurance company is willing to pay for her convalescence in a nice rehabilitation center.
   - After the police officer’s convalescence, he will be given deskwork until he is formally approved for active duty.
@@ -2187,6 +2305,8 @@
 * [[https://wordsinasentence.com/convene-in-a-sentence/][Convene]]
 
   =to gather for a reason=
+
+  #+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Secretaries_Kerry%2C_Hagel_Convene_ISIL_Meeting_on_Sidelines_of_NATO_Summit_in_Wales_%2815142257431%29.jpg"/>
 
   - As soon as the last closing argument is made, the jury will convene to ponder the verdict.
   - An informant told the federal agents where the drug lords were going to convene for a huge drug buy.
@@ -2201,6 +2321,8 @@
 * [[https://wordsinasentence.com/convergence-in-a-sentence/][Convergence]]
 
   =two or more things coming together to form a new whole=
+
+  #+HTML: <img src="https://www.futuristgerd.com/wp-content/uploads/2014/04/Fotolia-convergence-arrows-dot-middle.jpg"/>
 
   - Because of the convergence of political views in the legislature, it is highly likely the government will be able to vote on the budget proposal without any *bickering*.
   - The sculptor used a convergence of science and art to create beautiful sculptures of the muscles of the human body.
@@ -2227,6 +2349,8 @@
 
   =a group of vehicles that move as a unit for safety reasons=
 
+  #+HTML: <img src="http://image.tmdb.org/t/p/original/3ngGXCx43Si2pEG22zxFr9HVkn1.jpg"/>
+
   - As the convoy of missionaries travelled through the dangerous jungle, they were escorted by a team of soldiers.
   - When the convoy carrying a team of doctors and nurses was struck by a bomb, the medical group pulled its workers out of the region.
   - The refugee convoy moved over three thousand refugees safely across the border.
@@ -2248,6 +2372,8 @@
 * [[https://wordsinasentence.com/corporeal-in-a-sentence/][Corporeal]]
 
   =tangible; of a physical nature=
+
+  #+HTML: <img src="http://pre10.deviantart.net/34dd/th/pre/f/2012/206/c/6/corporeal_dampy_pants_by_kitty11123-d58jwqs.jpg"/>
 
   - As Jack reached for the ghost, he realized it was not corporeal when his hands went straight through the shape.
   - The illusion seemed so corporeal that I tried to grab it.
@@ -2275,6 +2401,8 @@
 * [[https://wordsinasentence.com/coruscate-in-a-sentence/][Coruscate]]
 
   =to give off flashes of light=
+
+  #+HTML: <img src="https://pbs.twimg.com/profile_images/484815233668505600/vX35o0Lh_400x400.jpeg"/>
 
   - The diamonds began to coruscate in the bright light.
   - The flashlight was used to coruscate a message to the other campers across the lake.
@@ -2306,6 +2434,8 @@
 
   =the quick action of taking power or a surprise victory=
 
+  #+HTML: <img src="http://news.bbcimg.co.uk/media/images/75090000/jpg/_75090716_022411742-1.jpg"/>
+
   - When the coup failed, the dictator killed all the rebels who tried to remove him from power.
   - The military coup appeared out of nowhere and removed the president and his advisers from their positions of authority.
   - Since our team is usually eliminated early in the competition, we considered it a major coup when we won the championship.
@@ -2317,6 +2447,8 @@
 
   =a binding arrangement; a contract=
 
+  #+HTML: <img src="http://thomastaylorministries.org/wp-content/uploads/2014/12/covenant.jpg"/>
+
   - The priest’s covenant is an agreement between him and God.
   - According to the property covenant, all residents must pay a sixty-dollar monthly fee in exchange for sanitation and water.
   - The property owner believes the covenant should be declared invalid because the buyer has not paid for the land.
@@ -2327,6 +2459,8 @@
 * [[https://wordsinasentence.com/covert-in-a-sentence/][Covert]]
 
   =hidden or secret=
+
+  #+HTML: <img src="http://orig07.deviantart.net/86be/f/2013/086/f/8/covert_tooth_by_ducttoast-d5zieqq.png"/>
 
   - The spy went to great lengths to make sure his enemies would not discover his covert plans.
   - Because my husband is always *snooping* into my affairs, I am working very hard to keep his surprise party covert.
@@ -2375,6 +2509,8 @@
 
   =ill-tempered, irritable, or agitated=
 
+  #+HTML: <img src="http://crankygirl.info/gallery/wp-content/uploads/2011/06/cranky.jpg"/>
+
   - My cranky girlfriend is making an effort to avoid looking or talking to me today since I irritated her with my comment about her weight this morning.
   - You might get cranky on the beach if you get too much sand in your *swimming trunks* =平角裤=, since nobody likes how irritating sand is.
   - Nothing makes me cranky like being woken up early in the morning for no real reason, since I hate waking up in the mornings.
@@ -2385,6 +2521,8 @@
 * [[https://wordsinasentence.com/crass-in-a-sentence/][Crass]]
 
   =stupid, vulgar, insensitive=
+
+  #+HTML: <img src="http://www.roller-mag.com/crass_anti-war_f-up.jpg"/>
 
   - If you don’t want to hear crass comments about the way you dress, don’t wear that outfit to the night club.
   - I wish he would realize that his racism and bigotry are based on crass stereotypes of people that are just as human as you and I.
@@ -2413,6 +2551,8 @@
 * [[https://wordsinasentence.com/credence-in-a-sentence/][Credence]]
 
   =mental acceptance as true or real=
+
+  #+HTML: <img src="http://thenationonlineng.net/wp-content/uploads/2015/08/PIC.-13.-BELGIAN-ENVOY-PRESENTS-LETTER-OF-CREDENCE-IN-ABUJA.jpg"/>
 
   - Because the experiment had been performed over a hundred times, a great deal of credence was given to the results.
   - Nobody in the courtroom gave any credence to the drunk’s testimony.
@@ -2450,6 +2590,8 @@
 
   =lively mainly at dusk or sunrise=
 
+  #+HTML: <img src="http://www.nomadlens.com/wp-content/uploads/2014/01/crepuscular_rays_revelstoke-1140x700.jpg"/>
+
   - At sunset, the entomologists study the crepuscular insects as they move across the beach.
   - The fact many desert creatures are crepuscular allow them to avoid the high temperatures during the day.
   - Because of Hank’s crepuscular work schedule, he tends to be more active at dawn and sunset.
@@ -2460,6 +2602,8 @@
 * [[https://wordsinasentence.com/croak-in-a-sentence/][Croak]]
 
   =a low, hoarse sound that certain animals made such as a frog or raven=
+
+  #+HTML: <img src="http://www.art4apps.org/images/downloadable/croak.png"/>
 
   - Letting out a low croak, the frog used his low voice to warn others in the pond that a predator was nearby.
   - The raven continued to croak and kept the farmer up all night with its deep squawk.
@@ -2472,6 +2616,8 @@
 * [[https://wordsinasentence.com/crony-in-a-sentence/][Crony]]
 
   =an intimate companion or friend=
+
+  #+HTML: <img src="http://www.infiniteunknown.net/wp-content/uploads/2015/10/crony-capitalism.jpg"/>
 
   - The old man and his crony drink in the bar all day.
   - In the evenings, my grandmother and her crony sit on the front porch and gossip about their neighbors.
@@ -2505,6 +2651,8 @@
 
   =to embrace affectionately=
 
+  #+HTML: <img src="http://www.bycarla.co.uk/assets/images/products/NPILLOW25/CUDDLE1.jpg"/>
+
   - Wishing she could cuddle him in her arms, the working mother thought about her newborn the whole time she was at the conference.
   - Trying to prove that dogs are much friendlier than cats, the girl challenged her sister to cuddle her feline without getting scratched.
   - Although she liked to cuddle before going to bed, being married to a die-hard Patriots fan made this impossible during football season.
@@ -2526,6 +2674,8 @@
 * [[https://wordsinasentence.com/culprit-in-a-sentence/][Culprit]]
 
   =the individual or thing responsible for an offense or crime=
+
+  #+HTML: <img src="https://www.cloudphysics.com/static/uploads/2014/04/the_culprit_by_santing-d37z2bu.png"/>
 
   - The severe drought is the culprit behind the death of the orange trees.
   - After much research, scientists identified the culprit of the disease as a genetic disorder.
