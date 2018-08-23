@@ -1,0 +1,110 @@
+#+TITLE:     Coach Shane
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+LINK_HOME: http://www.github.com/ruanhao
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall
+#+TOC:       headlines 3
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="org-html-themes/css/style.css" rel="stylesheet" type="text/css" />
+ #+HTML: <div class="outline-2" id="meta">
+| Author   | {{{author}}} ({{{email}}})    |
+| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
+#+HTML: </div>
+
+
+* How are you doing?
+
+#+BEGIN_EXAMPLE
+How are you doing?
+  Great! How are you doing?
+Not too bad, thanks!
+  Take it easy~~
+#+END_EXAMPLE
+
+* What do you do for a living?
+
+#+BEGIN_EXAMPLE
+What do you do for a living?
+  I'm a teacher.
+Oh, really? What do you teach?
+  I'm a math teacher at Carson College.
+#+END_EXAMPLE
+
+* I'm into SOMETHING
+
+#+BEGIN_EXAMPLE
+I can't believe you're watching that.
+  The Golf Channel? I'm into golf.
+Since when?
+  Since college. I used to play every day!
+#+END_EXAMPLE
+
+* My knee went out
+
+#+BEGIN_EXAMPLE
+You wanna play some basketball this weekend?
+  I'd love to, but my knee went out.
+Ouch! How did that happen?
+  When I was playing soccer~~
+#+END_EXAMPLE
+
+
+
+* What's up this weekend?
+
+#+BEGIN_EXAMPLE
+What's up this weekend?
+  I'm gonna go hiking.
+Where at?
+  Park Canyon. You wanna go?
+#+END_EXAMPLE
+
+* I'm going to kick back
+
+#+BEGIN_EXAMPLE
+You wanna go do something?
+  No, I'm gonna kick back.
+You're so lazy!
+  Hey! I had a long week.
+#+END_EXAMPLE
+
+* I slept in
+
+#+BEGIN_EXAMPLE
+ You look refreshed.
+   Yes! I slept in. I woke up at 10!
+ I wish I could. I've got kids~~
+   That's why I'll never marry!
+#+END_EXAMPLE
+
+
+* I overslept
+
+#+BEGIN_EXAMPLE
+ Where have you been?
+   I'm sorry, boss. I overslept.
+ Again?!
+   I'm sorry. It won't happen again~~
+#+END_EXAMPLE
+
+
+* I'm gonna stock up on SOMETHING
+
+#+BEGIN_EXAMPLE
+What are you getting at the store?
+  I'm gonna stock up on water.
+What about cookies?
+  Those, too!
+#+END_EXAMPLE
+
+* I'm counting on you
+
+#+BEGIN_EXAMPLE
+Will you help me move this Sunday?
+  Sure!
+I'm counting on you~~
+  Don't worry! I'll be there~~
+#+END_EXAMPLE
