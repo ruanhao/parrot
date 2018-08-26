@@ -86,6 +86,8 @@
 
   =to reduce or gradually eliminate something=
 
+  #+HTML: <img src="https://content.artofmanliness.com/uploads/2011/12/whittle.jpg"/>
+
   - Her patience began to whittle when the students would not stop talking.
   - Our hiring manager will whittle the number of job applicants from 90 to 3.
   - After the race on the hot day, the store’s stock of bottled waters started to whittle.
@@ -103,6 +105,8 @@
 * [[https://wordsinasentence.com/wilt-in-a-sentence/][Wilt]]
 
   =to droop or become limp and soft=
+
+  #+HTML: <img src="http://www.walterreeves.com/wp-content/uploads/2010/07/tomato-bacterial-wilt-2-500x333.jpg"/>
 
   - I placed an excessive amount of water into the vase on my breakfront because of how quickly the flowers tend to wilt.
   - We worried that the long hours of my new job would cause our relationship to wilt.
@@ -143,6 +147,8 @@
 
   =to take small steps while walking in a stumbling way=
 
+  #+HTML: <img src="https://images.ctfassets.net/6m9bd13t776q/6EhuRJ7ss0iwUwYCUuWAoA/ea7f09c576f56923c49a53ced0313ec6/pregnancy-waddle-640x640.jpg?q=75"/>
+
   - As the duck would waddle to the pond, its *webbed* feet would move back and forth along the path in *bobbing* motion.
   - When the penguins at the zoo would waddle, children would frequently laugh as their plump bodies would shift from side to side in the enclosure.
   - Being nine months pregnant with triplets, the woman could only waddle slowly around the house due to her protruding stomach.
@@ -171,6 +177,8 @@
 
   =to hit hard=
 
+  #+HTML: <img src="http://skylanders.com/content/dam/atvi/skylanders/trapteam/new-skylanders/front-characters/wallop.png"/>
+
   - Boxers wallop each other with jabs and punches.
   - The bullies wallop their victim until he's covered with bruises.
   - The golfer hit the ball with a powerful wallop and it flew past the hole into the sand several meters away.
@@ -179,6 +187,8 @@
 * [[https://wordsinasentence.com/wallow-in-a-sentence/][Wallow]]
 
   =to indulge in one’s emotions=
+
+  #+HTML: <img src="http://sundaebean.com/wp-content/uploads/2013/10/pig_wallowing_small.jpg"/>
 
   - Ever since April lost her job, she has done nothing but wallow in self-pity.
   - Becky is a strong woman and not the type of person to wallow in gloom.
@@ -238,6 +248,9 @@
 
   =to gradually eliminate a thing from your life=
 
+  #+HTML: <img src="http://netdoctor.cdnds.net/16/43/1600x800/landscape-1477657725-weaning1.jpg"/>
+
+
   - I’m trying to wean myself off soda by drinking fewer each day.
   - The kitten will need to wean off of its mother’s milk and start drinking out of a bowl.
   - We are trying to wean my toddler from sucking a *pacifier* =安抚奶嘴=, but she hasn’t let go yet.
@@ -265,6 +278,8 @@
 
   =to try and persuade using flattery=
 
+  #+HTML: <img src="http://www.memecreator.com/static/images/memes/322752.jpg"/>
+
   - After Bill forgot his wedding anniversary, he attempted to wheedle his way back into his wife’s heart by surprising her with a romantic getaway.
   - My daughter will pretend to cry if she thinks it will allow her to wheedle out of a consequence.
   - When my sister could not pay her light bill, she batted her eyelashes at the clerk in an attempt to wheedle an extension.
@@ -276,6 +291,8 @@
 * [[https://wordsinasentence.com/wheeze-in-a-sentence/][Wheeze]]
 
   =to breathe with a whistling or rattling sound in the chest=
+
+  #+HTML: <img src="http://www.allergy-clinic.co.uk/images/asthma.jpg"/>
 
   - Because of an infection in his lungs, the patient will wheeze anytime he breathes in air too deeply.
   - Bacteria in the air can make a person who breathes normally *sniffle* =抽鼻子= and wheeze.
@@ -352,6 +369,8 @@
 
   =sneaky and calculating=
 
+  #+HTML: <img src="http://pre02.deviantart.net/ee5c/th/pre/f/2014/048/b/e/dr__wily_by_jenl-d6o7uns.png"/>
+
   - The wily cartoon character was always thinking of ways to steal food.
   - As a wily con artist, Chris was able to take advantage of a large number of people.
   - The casino manager banned the wily gambler for counting cards.
@@ -363,6 +382,8 @@
 * [[https://wordsinasentence.com/wince-in-a-sentence/][Wince]]
 
   =to make a tensing movement as a result of distress or pain=
+
+  #+HTML: <img src="http://fscomps.fotosearch.com/compc/CSP/CSP479/kid-boy-pinch-ear-wince-clipart__k43768595.jpg"/>
 
   - The electric shock made the dog wince.
   - When Frank’s boss told him he had to work late, he could not help but wince.
@@ -382,6 +403,9 @@
   - As a shareholder, I am very pleased with my dividend windfall this year.
 
 * Winnow
+
+#+HTML: <img src="http://www.hidatool.com/image/cache/data/ProductImages/gardening/misc/g_misc_bamboowinnow-320x320.jpg"/>
+
   - The warm summer breeze slowly winnowed the sand across their beach towel.
   - With his *makeshift* =临时替代品= fan, the adventurer was able to winnow the sweat from his face.
   - As the bird took off, it acted to winnow the dirt around it.
@@ -404,6 +428,8 @@
 
   =describes objects that are thin and fine=
 
+  #+HTML: <img src="http://i0.wp.com/www.stylepresso.com/wp-content/uploads/2015/10/Wispy-Hairstyles.jpg"/>
+
   - The soft-spoken woman’s wispy voice could barely be heard in the crowd.
   - Wispy clouds, fine and thin, bounced around in the air.
   - Because the spaghetti was wispy and thin, a sauce was needed to thicken it up.
@@ -422,6 +448,8 @@
 
   =wrinkly from sickness or old age=
 
+  #+HTML: <img src="http://img11.deviantart.net/1e8a/i/2010/141/d/6/wizened_by_firefly_leuchtkaefer.jpg"/>
+
   - While the flowers arrived looking fresh and beautiful, they have grown wizened over the past few days.
   - My grandmother’s wizened face broke into a smile when I placed my newborn daughter in her arms.
   - Even though Will looks like a wizened old man who cannot care for himself, he is actually an active senior who enjoys skydiving.
@@ -430,6 +458,8 @@
 * [[https://wordsinasentence.com/wobble-in-a-sentence/][Wobble]]
 
   =to move unsteadily from side to side=
+
+  #+HTML: <img src="http://www.wholesalefitness.co.nz/Cache/Pictures/970876/6_Wobble_board.jpg"/>
 
   - While learning to walk, the toddler would wobble from side to side.
   - Because one of its legs is lose, the table might wobble if something is placed on it.
@@ -460,6 +490,10 @@
 * [[https://wordsinasentence.com/wrenching-in-a-sentence/][Wrenching]]
 
   =forcefully pulling away from something or someone=
+
+  #+HTML: <img src="http://www.brainlesstales.com/images/2013/Oct/gut-wrenching.jpg"/>
+
+  #+HTML: <img src="https://thumbs.dreamstime.com/z/wrenching-nut-641075.jpg"/>
 
   - The football player tried wrenching the ball from the other team member’s hands, but his grip was too strong.
   - Wrenching the door open with enough force that it slammed against the wall, Bridget stormed into the house to confront her lying best friend.
@@ -505,6 +539,8 @@
 * [[https://wordsinasentence.com/wry-in-a-sentence/][Wry]]
 
   =describes something sarcastic or a bit humorous=
+
+  #+HTML: <img src="http://mirror.rezai.net/images/20080805232746_20070705-mirror.jpg"/>
 
   - Bill's wry sense of humor made it difficult to be taken seriously at the office.
   - When I asked Lauren "What's up?" she gave me this wry response "The sky!"

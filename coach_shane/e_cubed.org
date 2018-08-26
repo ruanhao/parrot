@@ -1,4 +1,4 @@
-#+TITLE:     Coach Shane
+#+TITLE:     Daily Easy English Expression
 #+AUTHOR:    Hao Ruan
 #+EMAIL:     haoru@cisco.com
 #+LANGUAGE:  en
@@ -8,7 +8,7 @@
 #+TOC:       headlines 3
 #+HTML_DOCTYPE: <!DOCTYPE html>
 #+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
-#+HTML_HEAD: <link href="org-html-themes/css/style.css" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="../org-html-themes/css/style.css" rel="stylesheet" type="text/css" />
  #+HTML: <div class="outline-2" id="meta">
 | Author   | {{{author}}} ({{{email}}})    |
 | Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
@@ -107,4 +107,109 @@ Will you help me move this Sunday?
   Sure!
 I'm counting on you~~
   Don't worry! I'll be there~~
+#+END_EXAMPLE
+
+
+* I had a long week
+
+#+BEGIN_EXAMPLE
+You look stressed.
+  Well, I had a long week.
+Already? What happened?
+  Just work. I have a new project that's taking forever.
+#+END_EXAMPLE
+
+
+* TGIF (Thank god, it's Friday)
+#+BEGIN_EXAMPLE
+Ugh! Thank god, it's Friday!
+  No kidding! You going out tonight?
+No way! I've got FNL~~
+  Have fun~~
+#+END_EXAMPLE
+
+
+* That's pure nonsense
+
+#+BEGIN_EXAMPLE
+You're sitting too close to the TV.
+  I'm comfortable.
+Your eyesight is going to get bad.
+  That's pure nonsense!
+#+END_EXAMPLE
+
+* Did you get out ~ing?
+
+#+BEGIN_EXAMPLE
+Did you get out hunting this weekend?j
+  Yesterday morning.
+Did you get anything.
+  Nothing but really cold feet!
+#+END_EXAMPLE
+
+* (to) do away with SOMETHING
+
+#+BEGIN_EXAMPLE
+  I need to do away with my knuckle cracking.
+    It's a hard habit to break.
+  I know. It's almost impossible.
+    Want me to help?
+#+END_EXAMPLE
+
+
+* (to) do SOMETHING up
+
+#+BEGIN_EXAMPLE
+Are you gonna do it up for your mom's birthday?
+  No, we're just gonna have a nice dinner at home.
+No party?
+  She said she didn't want one.
+#+END_EXAMPLE
+
+
+* (to) do up CLOTHES
+
+#+BEGIN_EXAMPLE
+Is it cold outside, mom?
+  Yes. Be sure to do up your jacket.
+OK. Where's my hat?
+  It's in your pocket.
+#+END_EXAMPLE
+
+
+* (to) do it over
+
+#+BEGIN_EXAMPLE
+How do you like my picture, daddy?
+  What is it?
+It's a picture of a bear.
+  Oh..um..you should do it over.
+#+END_EXAMPLE
+
+
+* Because of
+
+=Because of ..., I can not ...=
+
+#+BEGIN_EXAMPLE
+Why didn't you call me last night?
+  Because of my phone's battery~~
+Why didn't you charge it?
+  Because of my carelessness, I left my *cord* at school~
+#+END_EXAMPLE
+
+
+* Thanks to
+
+=Thanks to ..., I can ...=
+
+#+BEGIN_EXAMPLE
+Your skin looks healthy!
+  It's all thanks to this lotion.
+You mean, thanks to me for buying you the lotion!
+  Right^^
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+
 #+END_EXAMPLE
