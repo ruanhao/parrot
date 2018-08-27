@@ -210,6 +210,58 @@ You mean, thanks to me for buying you the lotion!
   Right^^
 #+END_EXAMPLE
 
-#+BEGIN_EXAMPLE
 
+
+* Check back in a jiffy
+
+#+BEGIN_EXAMPLE
+Hi, are my copies done?
+  Not yet. Check back in a jiffy.
+All right. I'll go get a latte and come back.
+  They'll be done for you.
+#+END_EXAMPLE
+
+
+
+* Pick your poison
+
+#+BEGIN_EXAMPLE
+Ooh, these all look good!
+  Pick your poison.
+Hmm... I'll have the peanut butter cookie.
+  Good. I want the triple chocolate.
+#+END_EXAMPLE
+
+
+* Those poor children
+
+#+BEGIN_EXAMPLE
+Those poor children. Why do wars mostly affect poor people?
+  I hate wars.
+We need to tell our leaders "No more war".
+  We have to.
+#+END_EXAMPLE
+
+
+* ~ is pathetic
+
+#+BEGIN_EXAMPLE
+How do you spell 'raisin'? With an 'i' or an 'e'?
+  An 'i'.
+What about 'streusel'? Two 's's?
+  No. One. Your spelling is pathetic!
+#+END_EXAMPLE
+
+#+HTML: <img src="https://cookiescakespiesohmy.files.wordpress.com/2011/04/dscn0701.jpg"/>
+
+
+* What purpose does it serve?
+
+=what is it used for=
+
+#+BEGIN_EXAMPLE
+Why are you taking vitamin C all day long?
+  These are really good when you're sick.
+What purpose do they serve?
+  They help strengthen your immune system.
 #+END_EXAMPLE
