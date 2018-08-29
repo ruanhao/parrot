@@ -22,6 +22,8 @@
 
   =implied but not directly stated=
 
+  #+HTML: <img src="https://i.pinimg.com/564x/15/7e/f9/157ef90abd2e1787732f3c47d87ab46e.jpg"/>
+
   - Although no words were spoken, our nods represented our tacit agreement to a cease fire.
   - In my business, all that is needed for a tacit understanding is a handshake between men.
   - Even though my boyfriend and I have only been dating for three months, we have a tacit understanding to not date other people.
@@ -33,6 +35,8 @@
 * [[https://wordsinasentence.com/tactile-in-a-sentence/][Tactile]]
 
   =in regards to the sense of touch=
+
+  #+HTML: <img src="https://www.digilor.fr/wp-content/uploads/2015/12/borne-ecran-tactile-55-pouces-kiosk-XL.jpg"/>
 
   - The child’s tactile response was to move her hand away from the hot stove.
   - When I accidently touched the cactus, my tactile senses told my brain to quickly remove my fingers.
@@ -55,6 +59,8 @@
 * [[https://wordsinasentence.com/tangle-in-a-sentence/][Tangle]]
 
   =to become mixed together or intertwined=
+
+  #+HTML: <img src="http://ep.yimg.com/ay/yhst-13171632195427/tangle-jr-9.gif"/>
 
   - Tara’s mother yelled as Tara was getting out of the shower, “If you don’t comb your wet hair, it may tangle.”
   - Environmentalists argue against the manufacturing of plastic due to the fact that *marine life* =海洋生物= often tangle with the plastic trash in the ocean.
@@ -90,6 +96,8 @@
 
   =to make thinner or narrower at one end or to diminish gradually=
 
+  #+HTML: <img src="http://www.easy-hairstyles.net/wp-content/uploads/2013/11/taper-haircut-9.jpg"/>
+
   - The more I sketched my drawing, the more my pencil began to taper.
   - The woman asked the artist to gradually taper her tattoo down her back.
   - Because the uneven walls would taper, the room would be difficult to wallpaper.
@@ -107,6 +115,8 @@
 * [[https://wordsinasentence.com/tarnish-in-a-sentence/][Tarnish]]
 
   =a dullness of color or luster=
+
+  #+HTML: <img src="https://d1alt1wkdk73qo.cloudfront.net/images/guide/26f057fdeca047fda9b49a7026a2c78c/640x478_ac.jpg"/>
 
   - The once shiny candlesticks now only had a tarnish about them, not being as pretty as they once were.
   - Tarnish on silverware makes them less valuable than new silverware, because they are no longer shiny and reflective.
@@ -126,6 +136,8 @@
 
   =stressed to the point of being nervous=
 
+  #+HTML: <img src="http://img2.allposters.com/images/JUPPOD/011206_1204_0004_lshs-FB.jpg"/>
+
   - As I waited for the results of my lab tests, I was taut with anxiety.
   - Bill was taut with worry as he waited for the doctor to update him on his wife’s recovery status.
   - Since I wanted to have the perfect wedding, I was taut with nerves on the day of the event.
@@ -137,6 +149,8 @@
 * [[https://wordsinasentence.com/tawdry-in-a-sentence/][Tawdry]]
 
   =cheap and poor in appearance or quality=
+
+  #+HTML: <img src="http://3.bp.blogspot.com/-XNCoDQQ8zy8/Uk4D-O0i9HI/AAAAAAAACXA/X11YA6qiTys/s1600/Photo+Sep+15,+8+02+01+PM.jpg"/>
 
   - Everyone is always expecting a politician to have a tawdry affair.
   - Although Aunt Eloise had lots of money, she always wore such tawdry jewerly.
@@ -176,6 +190,8 @@
 * [[https://wordsinasentence.com/temperate-in-a-sentence/][Temperate]]
 
   =to have moderate or mild weather=
+
+  #+HTML: <img src="http://animals.sandiegozoo.org/sites/default/files/2016-08/habitats_hero_temperate%20forest.jpg"/>
 
   - Living in a temperate climate, I sometimes had to wear my jacket in the early fall since it was cool outside.
   - While walking through the temperate forest, the rain began to fall heavily through the leaves in the warm summer temperature.
@@ -223,6 +239,8 @@
 
   =the quality of being determined to do or achieve something=
 
+  #+HTML: <img src="http://www.torontorealtyblog.com/wp-content/uploads/2011/12/Tenacity.jpg"/>
+
   - Jake’s tenacity allowed him to excel in college while working two jobs.
   - While Aaron is not the largest football player on the team, he has a tenacity that makes him just as productive as his biggest teammate.
   - Unpacking all these boxes is going to require a great deal of tenacity.
@@ -234,6 +252,8 @@
 * [[https://wordsinasentence.com/tendentious-in-a-sentence/][Tendentious]]
 
   =exhibiting a certain prejudice towards a subject=
+
+  #+HTML: <img src="http://images.mid-day.com/images/2015/dec/16Sepp-Blatter-1.jpg"/>
 
   - The president was tendentious on his plan for the company and would not listen to other options.
   - Because my father is tendentious on the subject of interracial relationships, he will not acknowledge my black boyfriend.
@@ -280,6 +300,8 @@
 * [[https://wordsinasentence.com/terse-in-a-sentence/][Terse]]
 
   =a very short statement or remark=
+
+  #+HTML: <img src="https://img.haikudeck.com/mg/37E240A1-B1B7-482B-9BF4-18E85A753F69.jpg"/>
 
   - When Jessie is angry, she only gives terse responses.
   - Because they had little information on the suspect, the police issued only a terse statement to the media.
@@ -331,6 +353,8 @@
 
   =to hinder or stop something from happening=
 
+  #+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Canoe_drawing_showing_thwarts_-_01.png/1200px-Canoe_drawing_showing_thwarts_-_01.png"/>
+
   - Someone built this wall with broken bottles set in the top to thwart the intrusion of outsiders.
   - After all the stress and planning, Zoey couldn’t believe that a case of chicken pox had come along to thwart her beautiful wedding.
   - In order to thwart the advancing enemy troops, the captain ordered the explosives team to destroy the bridge.
@@ -365,6 +389,8 @@
 
   =an individual who compliments others for a reason=
 
+  #+HTML: <img src="http://www.captaintoadys.com/images/Toady_Full_Charcoal-TRANS-2.jpg"/>
+
   - In order to get a promotion, Amy has been acting like the manager’s toady by agreeing with everything he says.
   - Being the toady she is, Elaine *fawns over* the company president every time she sees him.
   - April became a toady when she brought the teacher an apple.
@@ -374,6 +400,10 @@
 
   =to tumble over=
 
+  #+HTML: <img src="http://www.hussrides.com/sites/default/files/gallery/topple-tower-g7.jpg"/>
+
+  #+HTML: <img src="http://ecx.images-amazon.com/images/I/51gHrM6Iq1L.jpg"/>
+
   - Placing the bowling ball onto the flimsy table caused it to topple over onto the floor.
   - After several *whacks* with the axe, the lumberjack started to make the tree topple over with a loud *thud*.
   - At first, the blocks in the Jenga game only began to lean until a small wind made the block tower topple down.
@@ -382,6 +412,8 @@
 * [[https://wordsinasentence.com/torpid-in-a-sentence/][Torpid]]
 
   =lazy or inactive=
+
+  #+HTML: <img src="https://briandbuckleydotcom.files.wordpress.com/2013/04/torpid.jpg"/>
 
   - My torpid brother rests on the couch all day.
   - When June is torpid, she will snuggle under her bed covers and watch television until she falls asleep.
@@ -395,6 +427,8 @@
 
   =the state of being motionless or inactive=
 
+  #+HTML: <img src="http://www.warmwildlife.org/wp-content/uploads/2017/01/Sleeping-Bear-edit-1080x675.jpg"/>
+
   - After overeating on Christmas, I fell into a satisfied torpor.
   - Hopefully the stock market will rise from its torpor and reach a year-end high.
   - If my husband does not come out of his torpor and get a job, I will divorce him.
@@ -406,6 +440,8 @@
 * [[https://wordsinasentence.com/tortuous-in-a-sentence/][Tortuous]]
 
   =containing *coils*, turns and curves=
+
+  #+HTML: <img src="http://media.gettyimages.com/photos/tortuous-road-picture-id97936427?s=170667a"/>
 
   - When the tortuous snake moved across the Sahara Desert, his body made an S-shape in the sand.
   - With the sign showing a tortuous road up ahead, we realized that we were traveling down the *bends* =弯道= of the mountain.
@@ -455,6 +491,8 @@
 * [[https://wordsinasentence.com/trample-in-a-sentence/][Trample]]
 
   =to crush, disfigure, maim, etc., by walking or running over something=
+
+  #+HTML: <img src="https://www.tramplecity.com/updates/02-06-11-big1.jpg"/>
 
   - The girl walked lightly through the garden, carefully watching her feet so that she didn’t trample the beautiful flowers.
   - The concert was quickly filled with drunken party-goers and Layla knew that if she didn't leave now they were likely to trample her.
@@ -568,6 +606,8 @@
 
   =a serious book or piece of writing about some subject=
 
+  #+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/A_Treatise_of_Human_Nature_by_David_Hume.jpg"/>
+
   - I read Josh’s treatise on the Civil War and found it to be very informative.
   - The doctor’s treatise was very formal and systematic, drawing much praise.
   - She wrote a furious treatise against all the corruption in government.
@@ -576,6 +616,8 @@
 * [[https://wordsinasentence.com/trenchant-in-a-sentence/][Trenchant]]
 
   =sharp or cutting=
+
+  #+HTML: <img src="http://www.davidellis.ca/wp-content/uploads/2012/11/black-man-yelling-into-phone.jpg"/>
 
   - Marvin’s trenchant wit made him a popular speaker at conservative fundraisers.
   - Although the movie’s plot is exciting, the dialogue is boring and needs to be polished until it is more trenchant.
@@ -600,6 +642,8 @@
 * [[https://wordsinasentence.com/trespass-in-a-sentence/][Trespass]]
 
   =to enter someone else's property illegally=
+
+  #+HTML: <img src="http://www.dallascitynews.net/wp-content/uploads/2016/02/NO-Trespassing.jpg"/>
 
   - Hoping no one would see him trespass, the hunter ignored the sign and headed in to the woods.
   - Although she realized it was a crime, the girl made it a habit to trespass through the abandoned building when she was bored.
@@ -628,6 +672,8 @@
 
   =a very thin flow=
 
+  #+HTML: <img src="https://www.thesaleslion.com/wp-content/uploads/2013/01/trickle-down.jpg"/>
+
   - There was a slow trickle of water from the faucet in the bathroom.
   - Before it began to gush, the roof leak started off as a trickle.
   - The rain began to slowly trickle down the driver’s windshield.
@@ -645,6 +691,8 @@
 * [[https://wordsinasentence.com/trite-in-a-sentence/][Trite]]
 
   =unoriginal and lacking in importance=
+
+  #+HTML: <img src="https://i1.wp.com/workschoolenglish.com/wp-content/uploads/2018/02/trite.png?resize=480%2C320&amp;ssl=1"/>
 
   - I did not finish the novel because the story’s plot was trite and uninspiring.
   - At parties, I tend to avoid trite conversations because they are dull and do not reveal any new information.
@@ -666,6 +714,8 @@
 * [[https://wordsinasentence.com/truculent-in-a-sentence/][Truculent]]
 
   =quick to fight or argue=
+
+  #+HTML: <img src="https://phocab-photos.s3.amazonaws.com/https3amazonawscombrainyflixphotos9676mediumjpg.jpg"/>
 
   - When my uncle drinks too much, he becomes very truculent and will fight anyone.
   - Why are you in such a truculent mood that you want to argue with everyone today?
@@ -712,6 +762,8 @@
 * [[https://wordsinasentence.com/taciturn-in-a-sentence/][Taciturn]]
 
   =reserved or uncommunicative in speech; saying little=
+
+  #+HTML: <img src="http://dailyvocab.com/wp-content/uploads/2015/05/Voluble-Vs-Taciturn.jpg"/>
 
   - My shy brother is taciturn and rarely speaks in public.
   - Although my grandfather was a taciturn man who spoke infrequently, he was a man people readily followed.
@@ -763,6 +815,8 @@
 
   =acid or sharp in taste=
 
+  #+HTML: <img src="https://gourmandistan.files.wordpress.com/2010/05/strawberry-tart.jpg"/>
+
   - The sour candy I eat is very tart and I love it, but my mom that hates sour food does not.
   - People who prefer sweet foods usually don’t like things that are tart, such as lemons or sour candy.
   - Cherries are very tart compared to strawberries, which is why some sweet tooth individuals don’t like them.
@@ -773,6 +827,8 @@
 
   =to be unsteady or to wobble=
 
+  #+HTML: <img src="https://thumbs.dreamstime.com/z/teeter-totter-8813396.jpg"/>
+
   - The judges held their breaths as they watched the normally skilled gymnast teeter on the edge of the balance beam.
   - Jane was so distracted by her book that she put her coffee cup on the edge of the table and she watched it teeter for a moment before crashing to the floor.
   - The toddler finally stood up and within seconds began to teeter on his unsteady feet.
@@ -782,6 +838,8 @@
 * [[https://wordsinasentence.com/temerity-in-a-sentence/][Temerity]]
 
   =excessive confidence or boldness; audacity=
+
+  #+HTML: <img src="http://www.temeritygp.com/images/GPMales/Gordo%205-13-13%2018%20months.JPG"/>
 
   - We were shocked Ann Marie had the temerity to challenge our teacher’s authority in class.
   - Because they feel their doctors are more educated than they are, most patients do not have the temerity to challenge their medical diagnosis.
@@ -909,6 +967,8 @@
 
   =to tap something hard=
 
+  #+HTML: <img src="https://www.publicdomainpictures.net/pictures/80000/velka/comic-thump-sound-effect.jpg"/>
+
   - Many shoppers will *thump a watermelon* to see if it is ripe while grocery shopping in the produce section of the store.
   - At first a *flick* on the window pane did not get the attention of the girl inside, so the boy decided to thump the window with his fist.
   - In order to insinuate that somebody was knocking at the door, the little girl decided to thump on the wooden table next to her.
@@ -947,6 +1007,8 @@
 
   =a small but noticeable amount=
 
+  #+HTML: <img src="https://www.vampyvarnish.com/wp-content/uploads/2016/02/LORAC-Buildable-Blush-Spectra-Ultraviolet-Tinge.jpg"/>
+
   - After kissing his wife, Jim had a tinge of lipstick on his lips.
   - The yellow tinge of Eli’s skin suggests he may have jaundice.
   - Because I was going to miss my family, I felt a tinge of sadness as I drove to college.
@@ -968,6 +1030,8 @@
 * [[https://wordsinasentence.com/toil-in-a-sentence/][Toil]]
 
   =to work for a long period of time=
+
+  #+HTML: <img src="https://thumbs.dreamstime.com/z/sisyphean-toil-6768014.jpg"/>
 
   - You should hire Justin because he is a hard worker who will toil until the job is done.
   - Day after day, the slaves had to toil in the hot fields without payment.
@@ -1028,6 +1092,8 @@
 
   =to move with an unsteady or unsure *gait* or walk=
 
+  #+HTML: <img src="http://www.mormonshare.com/wp-content/uploads/2014/08/cg_teeter-totter-girls.gif"/>
+
   - Disoriented, I had no choice but to totter towards the edge of the skating rink to grab a hold of the wall before I fell again.
   - Getting hit on the head by an apple, Isaac Newton would totter all the way back to his home, unable to walk in a straight line at all.
   - If you are drunk, you will probably totter to and fro as you walk, because you are too unsteady on your feet to move properly.
@@ -1046,6 +1112,8 @@
 
   =to harm someone’s reputation by speaking of them in a negative manner=
 
+  #+HTML: <img src="https://jacket2.org/sites/jacket2.org/files/imagecache/wide_main_column/traduce.jpg"/>
+
   - The crooked politician paid a newspaper editor to traduce his rivals.
   - Because Gail and I are enemies, she tried to traduce me by telling my boyfriend lies.
   - Racists often quote negative stereotypes in an effort to traduce minority groups.
@@ -1055,6 +1123,8 @@
 * [[https://wordsinasentence.com/traipse-in-a-sentence/][Traipse]]
 
   =a leisurely and generally purposeless walk=
+
+  #+HTML: <img src="https://thenypost.files.wordpress.com/2013/08/047_leap_year-300x300.jpg"/>
 
   - Every Sunday the voracious reader loved to traipse down several blocks to every independent bookstore without any intention of actually buying anything.
   - Because of her insomnia, she would often traipse around her house at night until she fell asleep or it was time to go to work.
@@ -1104,6 +1174,8 @@
 
   =a gymnastic or acrobatic apparatus made of a short bar hanging high up in the air from two ropes=
 
+  #+HTML: <img src="https://i.ytimg.com/vi/WIO-lxCyiDU/maxresdefault.jpg"/>
+
   - Swinging from the trapeze, the acrobat did crowd wowing tricks as she dangled on the bar.
   - Trapeze artists are trained from childhood on how to spin and catch one another while hanging from their swing.
   - Being able to perform from on a low-flying trapeze is one of the main requirements of the gymnastic camp.
@@ -1112,6 +1184,8 @@
 * [[https://wordsinasentence.com/travesty-in-a-sentence/][Travesty]]
 
   =a false or distorted representation of something, usually of something serious=
+
+  #+HTML: <img src="http://cultmtl.com/wp-content/uploads/2014/07/travesty.jpg"/>
 
   - It would be a travesty of justice to put an innocent man in jail.
   - Allowing students to cheat on tests is a travesty of education.
@@ -1146,6 +1220,8 @@
 
   =to handle with disrespect or in a discourteous manner=
 
+  #+HTML: <img src="https://secrettouchings.files.wordpress.com/2013/01/raspberry-trifle-001.jpg"/>
+
   - When the cat catches the mouse, it will trifle with it before ending its life.
   - Jack was angered by his ex-wife’s attempt to trifle with him in front of their children.
   - Because Kate is a mean older sister, she will often trifle with her younger siblings and make them cry for no reason at all.
@@ -1165,6 +1241,8 @@
   =quiz game with little-known and unimportant facts=
 
   =冷知识=
+
+  #+HTML: <img src="http://chartcons.com/wp-content/uploads/good-trivia-questions-and-answers1.jpg"/>
 
   - I love to compete in trivia contests because I know so many *random facts*.
   - We *whiled away our time* =消磨时间=, arguing over any meaningless trivia that caught our attention.
@@ -1195,6 +1273,8 @@
 
   =move forward slowly because of exhaustion=
 
+  #+HTML: <img src="https://www.quia.com/files/quia/users/amercer423/trudge"/>
+
   - Despite three days without food or rest, the weary soldiers continue to trudge over the battlefield.
   - Hoping to find help, the exhausted teens trudge through the woods.
   - Long before school buses were created, students would trudge for miles to get an education.
@@ -1206,6 +1286,8 @@
 
   =something that is showy (looks good) but is really worthless=
 
+  #+HTML: <img src="https://thepsyoflifeblog.files.wordpress.com/2016/09/trumperymeme.png?w=480"/>
+
   - The coins were trumpery, looking as if they were gold but were actually worthless.
   - The trumpery inside the trunk wasn’t valuable but it was good for decoration.
   - Putting on the gaudy necklace, the woman hoped that the trumpery would pass for real jewels.
@@ -1215,6 +1297,8 @@
 
   =to fall down over and over again=
 
+  #+HTML: <img src="https://www.quia.com/files/quia/users/mdanielsjrhs/Images/toys/tumble.gif"/>
+
   - We installed a guard rail at the top of the steps to prevent the little boy from taking a tumble down two *flights of stairs* =一段楼梯=.
   - Jack began to tumble down the steep slope after he attempted to run up the side of a mountain to fetch a *pail* of water.
   - When the war broke out, stock prices took a tumble out of fear that the economy would suffer.
@@ -1223,6 +1307,8 @@
 * [[https://wordsinasentence.com/tumult-in-a-sentence/][Tumult]]
 
   =confusion or disorder=
+
+  #+HTML: <img src="http://graphics8.nytimes.com/images/2012/09/16/world/16china-span/16china-span-articleLarge.jpg"/>
 
   - While the political candidate’s popularity rating continues to fall, his office has declined into a state of tumult.
   - Economists are working to find solutions to the financial tumult that is ruining the lives of many Americans.
@@ -1264,6 +1350,8 @@
 
   =a sudden, sharp localized pain=
 
+  #+HTML: <img src="https://limblogger.files.wordpress.com/2011/05/05-23-11-the-twinge-that-teaches.jpg"/>
+
   - After being tackled by several 300 pound football players, the quarterback felt a twinge in his ribs that made him think he broke a few bones.
   - The elderly man felt a sharp twinge in his chest right before he had a heart attack.
   - John’s terrible migraines always started with a piercing twinge in his head followed by a pounding headache.
@@ -1272,6 +1360,8 @@
 * [[https://wordsinasentence.com/tyro-in-a-sentence/][Tyro]]
 
   =a beginner=
+
+  #+HTML: <img src="http://img1.wikia.nocookie.net/__cb20150626042520/finalfantasy/images/0/09/PFF_Tyro_Illust.png"/>
 
   - Julie is a good violinist, but at 13, she is a tyro and still has a lot to learn.
   - I suggest you read this book titled "Introduction to Computers" as it's perfect for a tech tyro like yourself.

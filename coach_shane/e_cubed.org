@@ -344,3 +344,99 @@ What's that? A present?
 Wow! Uh...I don't want to rain on your parade, but Sue just got engaged.
   What? Engaged? She's gonna get married? What???
 #+END_EXAMPLE
+
+
+* I'm broke
+
+#+BEGIN_EXAMPLE
+Let's go eat lunch.
+  'kay. Burgers?
+Nah, I want something healthy.
+  Healthy? Healthy means expensive. I can't. I'm broke.
+#+END_EXAMPLE
+
+
+* to sell SOMEONE out
+
+#+BEGIN_EXAMPLE
+I can't believe you sold me out to mom.
+  You're always selling me out.
+Okay, let's make a truce.
+  Okay. From now no, we lie for each other to mom.
+#+END_EXAMPLE
+
+
+* It will all come down to
+
+='it' means 'result'=
+
+='come down to' means 'deciding factor'=
+
+#+BEGIN_EXAMPLE
+In order to win the tournament, he must make this putt.
+  It will all come down to this putt.
+It all comes down to this shot...
+  It all comes down to his concentration...
+No! He missed! He's a loser!
+#+END_EXAMPLE
+
+#+HTML: <img src="http://superhumancoach.com/wp-content/uploads/2012/10/Missed-putt.jpg"/>
+
+
+* I beg to differ~~
+
+#+BEGIN_EXAMPLE
+Don't these uggs look good on me?
+  I beg to differ.
+What?
+  You look like a gay cowboy. Uggs are for women.
+#+END_EXAMPLE
+
+#+HTML: <img src="http://cdn.ebaumsworld.com/picture/nirvana4u/motivator2165253.jpg"/>
+
+
+* luck, lock and look
+
+#+BEGIN_EXAMPLE
+Where're you going?
+  To the library. I want to look for a book.
+Good luck. The locked up already.
+  It's that late?
+#+END_EXAMPLE
+
+
+* Don't sweat it
+
+=do not worry about it=
+
+#+BEGIN_EXAMPLE
+I need you to finish this report, okay?
+  By when?
+By next Tuesday.
+  That gives me only Thursday, Friday and Monday to work on it.
+Don't sweat it! You can come in on the weekend^^
+#+END_EXAMPLE
+
+
+* Go all out
+
+=do things with 100% energy=
+
+#+BEGIN_EXAMPLE
+Look at all the bags!
+  Christmas shopping! I went all out this year~
+Did you get one for me?
+  No. You said you didn't believe in Santa.
+#+END_EXAMPLE
+
+
+* already
+
+=used to emphasize lateness=
+
+#+BEGIN_EXAMPLE
+Where is my fried chicken already? I ordered 30 minutes ago...
+  Here's you order, sir.
+I thought you forgot about me.
+  With you beautiful voice? How could I? Hehe..
+#+END_EXAMPLE
