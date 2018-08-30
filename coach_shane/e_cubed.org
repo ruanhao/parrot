@@ -606,3 +606,15 @@ Andrey really brightens up when he sees three children.
 They look so cute.
   Fortunately, they resemble their mother!!
 #+END_EXAMPLE
+
+* picky
+
+#+BEGIN_EXAMPLE
+What can I get you?
+  A hamburger, please.
+Anything else?
+  Well, please cook it medium rare. Toast the buns and butter the bottom bun.
+  I’d like twice as much ketchup as mustard. Three dill pickle slices. No cheese.
+  A thin tomato and one strip of bacon. Am I being too picky?
+No, not at all, sir.
+#+END_EXAMPLE
