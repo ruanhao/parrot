@@ -618,3 +618,63 @@ Anything else?
   A thin tomato and one strip of bacon. Am I being too picky?
 No, not at all, sir.
 #+END_EXAMPLE
+
+
+* turn out
+
+#+BEGIN_EXAMPLE
+How was the interview?
+  It turns out they weren't hiring a clerk.
+Oh, no. That's too bad.
+  They were hiring a manager. And I got it!
+Wow! Everything turned out great!
+#+END_EXAMPLE
+
+* Auld Lang Syne
+
+=for old good memory=
+
+#+BEGIN_EXAMPLE
+Here.
+  What's this?
+The words to Auld Lang Syne. We'll be singing it at midnight.
+  Oh! Thank you^^
+#+END_EXAMPLE
+
+
+* Starting is half the battle
+
+#+BEGIN_EXAMPLE
+I'm gonna learn English this year.
+  Great. How?
+I'm not sure. Any ideas?
+  YouTube! There are so many great teachers. Start with one you like.
+  Starting is half the battle you know~
+#+END_EXAMPLE
+
+
+* I'm sticking to my guns
+
+='guns' means 'opinion/idea/method'=
+
+#+BEGIN_EXAMPLE
+Doing YouTube videos everyday is tough, isn't it?
+  It is. It takes a lot of time.
+You should take a break.
+  Not yet. I'm sticking to my guns.
+  I told my students that I would produce a new video every day.
+  I'm gonna do that^^
+#+END_EXAMPLE
+
+
+* taking forever
+
+=take a long time=
+
+#+BEGIN_EXAMPLE
+You done (toilet) yet?
+  Almost.
+Come on! You're taking forever!
+  Just a minute. Okay~ Come on in~
+Ugh!!!
+#+END_EXAMPLE
