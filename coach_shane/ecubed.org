@@ -678,3 +678,39 @@ Come on! You're taking forever!
   Just a minute. Okay~ Come on in~
 Ugh!!!
 #+END_EXAMPLE
+
+
+* pushover
+
+#+BEGIN_EXAMPLE
+Boss, can I go home early tonight?
+  No! I need everyone here until we finish.
+    Mr. Havencroft~ could I leave early? I want to buy a dress~
+  Oh, Miss Tisdale! Of course you can. Buy a pretty dress, okay?
+Havencroft’s such a pushover when it comes to women~
+#+END_EXAMPLE
+
+
+
+* on the edge
+
+=on the edge of (disaster)=
+
+#+BEGIN_EXAMPLE
+What’s wrong with you?
+  I’m on the edge, man. I’m gonna lose it.
+Why? What happened?
+  Everything. My job. My girl. My future. I feel like I’m gonna explode~
+#+END_EXAMPLE
+
+
+* cushy
+
+=used to describe job=
+
+#+BEGIN_EXAMPLE
+You don’t work Mondays?
+  I work. I just work from home.
+Wow! Your job’s so cushy!
+  I know! We do have lots of nice things!
+#+END_EXAMPLE
