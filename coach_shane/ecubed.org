@@ -1092,3 +1092,72 @@ You want sump'n from McDonald's? (something!)
 I'm get'n an apple pie. (getting!)
   I said I don't want nothing! (nothingàanything!)
 #+END_EXAMPLE
+
+
+* pouting
+
+#+BEGIN_EXAMPLE
+Are you pouting?
+  No.
+You're pouting. Just because I won't eat with you?
+  You never do anything with me.
+Okay, I'll eat with you!
+  Go away.
+#+END_EXAMPLE
+
+
+* Get the gist
+
+=basicly understand something=
+
+#+BEGIN_EXAMPLE
+Did you understand DD216?
+  Not everything but I got the gist of it.
+It was about eating sweet and sour chicken in the bathroom, right?
+  No! It was about two kids who didn't clean the bathroom properly!
+#+END_EXAMPLE
+
+
+
+* a sneezing fit
+
+#+BEGIN_EXAMPLE
+Who's having a sneezing fit?
+  Jimmy.
+He's always sick.
+  By the way, that's his keyboard you're using.
+#+END_EXAMPLE
+
+
+
+* to get the hang of it
+
+=to get used to something=
+
+#+BEGIN_EXAMPLE
+How's your backswing going?
+  I just can't get the hang of it.
+Your form looks good.
+  Thanks. I'll keep practicing~
+#+END_EXAMPLE
+
+
+* to die for
+
+#+BEGIN_EXAMPLE
+Is that carrot cake?
+  It was.
+Where'd you get that?
+  Monkey's Bakery. They're stuff is to die for!
+#+END_EXAMPLE
+
+
+
+* make ends meet
+
+#+BEGIN_EXAMPLE
+I think I'll need a part-time job.
+  You already work!
+But I can't make ends meet.
+  Why don't you try cutting out things like cable TV?
+#+END_EXAMPLE
