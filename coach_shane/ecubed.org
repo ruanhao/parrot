@@ -714,3 +714,381 @@ You don’t work Mondays?
 Wow! Your job’s so cushy!
   I know! We do have lots of nice things!
 #+END_EXAMPLE
+
+
+* to hone
+
+=to sharpen=
+
+#+BEGIN_EXAMPLE
+Go ahead. How will you start your speech?
+  Well, um, okay: "Yo, what's up ladies and gentlemen…"
+Yo? What's up? I think you need to hone your communication skills.
+  Oh…how about… "Check this out, ladies and gentlemen…"
+Come on! This is your grandmother's 70th birthday party speech!
+#+END_EXAMPLE
+
+* Don't chew with your mouth open!
+
+#+BEGIN_EXAMPLE
+What are you eating?
+  Brownies^^
+Gross! Don't chew with your mouth open.
+  Then don't ask me questions when I'm eating.
+#+END_EXAMPLE
+
+* to put up with
+
+#+BEGIN_EXAMPLE
+I can't put up with this anymore.
+  What? What's bothering you?
+The noise! The damn construction!
+  They'll be here all week! You'll have to put up with it~
+#+END_EXAMPLE
+
+
+* to get the nod
+
+#+BEGIN_EXAMPLE
+I wanna start an English speaking class online.
+  And charge money?
+Yes, but not a lot.
+  You might wanna get the nod from your students first.
+Good idea!
+#+END_EXAMPLE
+
+
+* nuke it
+
+=put something into microwave=
+
+#+BEGIN_EXAMPLE
+You should heat up that sandwich before you eat it.
+  I'll nuke it.
+No! That's bad! Just put it in the oven for 10 minutes.
+  But I wanna eat now~~
+#+END_EXAMPLE
+
+
+* hoopla
+
+#+BEGIN_EXAMPLE
+So?
+  Well, after all the hoopla, frankly, I'm quite disappointed.
+There was a lot of hoopla.
+  But the food is nothing!
+I totally agree~~
+#+END_EXAMPLE
+
+
+* to straighten ~ out
+
+=to solve=
+
+#+BEGIN_EXAMPLE
+Professor Dick was so rude to me.
+  He probably didn't know you were a teacher.
+I'm really mad.
+  I'll go talk to him and straighten this out. Don't worry.
+I won't be happy unless he apologizes.
+#+END_EXAMPLE
+
+
+* Brouhaha
+
+=big fight among a lot people=
+
+#+BEGIN_EXAMPLE
+Did you stay 'til the end of the game?
+  No. I left at halftime.
+You're lucky. A huge brouhaha broke out.
+  Were you okay?
+I barely escaped!
+#+END_EXAMPLE
+
+* Hat's off to
+
+=show congratulation or to show respect=
+
+#+BEGIN_EXAMPLE
+My English is getting better.
+  That's great! Have you been doing DD?
+Yeah! I was 100% correct on the last Daily Dictation!
+  My hat's off to you!
+#+END_EXAMPLE
+
+
+* be on call
+
+=standby=
+
+#+BEGIN_EXAMPLE
+Hey, Parmy, let's have lunch.
+  I can't. I'm on call.
+The boss again?
+  Yep. As soon as he calls, I gotta go~
+#+END_EXAMPLE
+
+
+* And whatnot
+
+=this and that, many things=
+
+#+BEGIN_EXAMPLE
+What'd you get at the store?
+  I got some chips, and cheese dip, and candy bars, and whatnot.
+Ooh^^ Can I have a candy bar?
+  No! They're for the party~ You'll have to wait.
+#+END_EXAMPLE
+
+* to TINKER AROUND with something
+
+=paly with something and learn how it works=
+
+#+BEGIN_EXAMPLE
+What are you gonna do today?
+  I might tinker around with my blog.
+Is there a problem?
+  Well, I want it to look nicer.
+#+END_EXAMPLE
+
+
+* kowtow
+
+=show too much respect to=
+
+#+BEGIN_EXAMPLE
+You look stressed.
+  I have to go out with my boss tonight. He drinks.
+Don't kowtow to him when it comes to drinking. Be polite but strong.
+  But what if I lose my job?
+#+END_EXAMPLE
+
+
+* to tweak something
+
+=treak means 'change a little bit'=
+
+#+BEGIN_EXAMPLE
+What are you doing?
+  Tweaking my resume.
+It looks fine.
+  Hmm… What about this font instead?
+Oh~ That does look better.
+#+END_EXAMPLE
+
+
+* when it comes to
+
+#+BEGIN_EXAMPLE
+When it comes to pizza, pepperoni is my favorite.
+  When it comes to soda, Coke is it.
+How about I buy you a pizza and Coke?
+  When it comes to friends, you're the best!
+#+END_EXAMPLE
+
+
+* take it with a grain of salt
+
+=do not believe it=
+='it' means 'promise/threat/insult=
+
+
+#+BEGIN_EXAMPLE
+The president said he wouldn't increase my taxes.
+  You have to take those promises with a grain of salt.
+I voted for him because of that promise.
+  That's too bad~
+#+END_EXAMPLE
+
+
+* I changed my mind.
+
+#+BEGIN_EXAMPLE
+I'm ready to go to the movies! Let's go!  Let's go.
+  I changed my mind.
+What?
+  I want to stay home!
+NO! We always do what YOU want to do. This time we're doing what I want to do! GET READY. NOW.
+#+END_EXAMPLE
+
+
+* 9 out of 10 times
+
+#+BEGIN_EXAMPLE
+How do you like my stew?
+  Hmm… Well, it's different~
+You don't like it!
+  No! Nine out of ten times I love your food, but sometimes…
+You hate it! You hate ME!
+#+END_EXAMPLE
+
+
+* goof off
+
+=to play, to do nothing, to tease each other=
+=ofter used when we're suppose to study, work, drive=
+
+#+BEGIN_EXAMPLE
+Dad, can I go study at the library?
+  No!
+Why not? All the other kids are there.
+  I know. And all you do is goof off. If you want to study, stay home and study.
+#+END_EXAMPLE
+
+* My dogs are barking!
+
+=My feet are tired/sore=
+
+#+BEGIN_EXAMPLE
+Let's take a rest.
+  You tired?
+My dogs are barking!
+  You need to get new shoes~
+#+END_EXAMPLE
+
+
+* to get carried away
+
+='get' means 'become'=
+=become crazy=
+
+#+BEGIN_EXAMPLE
+What's wrong?
+  I have a bump. It might be cancer. It might be deadly. I could die! I should go to the doctor! I'm dying!
+I think you're getting carried away.
+  It's CANCER.
+It's a pimple.
+#+END_EXAMPLE
+
+
+* my diet
+
+=the type of food you most like to eat=
+
+#+BEGIN_EXAMPLE
+I need to change my diet.
+  What's wrong?
+My diet consists of too much sugar and not enough good things.
+  You wanna be a vegetarian?!
+#+END_EXAMPLE
+
+
+* veggies
+
+#+BEGIN_EXAMPLE
+Want some?
+  What you got? Veggie sticks?
+Yeah! Veggies are good for you.
+  No thanks. The only veggies sticks I like are French fries.
+#+END_EXAMPLE
+
+#+HTML: <img src="http://cdn.running.competitor.com/files/2013/11/21.jpg"/>
+
+
+* ad hoc
+
+=for this=
+
+#+BEGIN_EXAMPLE
+Where are you going?
+  Town Hall. The city formed an ad hoc committee to discuss the water problem.
+It has been so dry for so long.
+  That's right, we need to be careful
+#+END_EXAMPLE
+
+
+* pig out
+
+=eat a lot=
+
+#+BEGIN_EXAMPLE
+Where were you?
+  I was pigging out at the Pizza Palace.
+You always go there.
+  Their pies are SO good!
+#+END_EXAMPLE
+
+#+HTML: <img src="http://media.spokesman.com/picture_story_item_images/srx_pig_out_3_t940.jpg?e9219e083a78a4429a18d28d8a24b72ce48bf775"/>
+
+
+* ~ is it
+
+#+BEGIN_EXAMPLE
+What's the best soft drink out there?
+  I think Fanta is the best.
+    No way. Coke is it!
+      What? 7-Up is it!
+#+END_EXAMPLE
+
+
+* What the heck is wrong with you?
+
+=What the hell/on earth/in the world is wrong with you=
+
+#+BEGIN_EXAMPLE
+What the heck is wrong with you?
+  I'm doing yoga.
+You look like a pretzel!
+  This will help me live longer~
+#+END_EXAMPLE
+
+
+#+HTML: <img src="http://preview.turbosquid.com/Preview/2014/07/10__14_23_57/BigPretzel2_1.jpg9dc18c94-2b44-40fe-8e6d-437dacc5d2c0Original.jpg"/>
+
+
+* in heat
+
+#+BEGIN_EXAMPLE
+What is that sound?
+  My cat's in heat.
+What?
+  She wants to have kittens. She's calling for a mate~
+#+END_EXAMPLE
+
+
+* For shits and giggles
+
+=shits means fun, giggles means games=
+=for the heck of it=
+
+#+BEGIN_EXAMPLE
+Why the hell did you throw that snowball at me?
+  For shits and giggles.
+It hurt!
+  Sorry!
+You're dead!
+  Ahh!
+#+END_EXAMPLE
+
+
+* Put some elbow into it!
+
+=use some extra power=
+
+#+BEGIN_EXAMPLE
+I can't push this snow.
+  Put some elbow into it!
+See! Look what you made me do! I broke the shovel~
+  You are going to have to pay for that~~
+#+END_EXAMPLE
+
+
+* go away
+
+#+BEGIN_EXAMPLE
+You got a minute.
+  Uh, sure. What's up?
+I'm hungry. Make me something to eat.
+  Go away.
+#+END_EXAMPLE
+
+
+* sump'n, nut'n, get'n
+
+#+BEGIN_EXAMPLE
+You want sump'n from McDonald's? (something!)
+  Nut'n. (nothing!)
+I'm get'n an apple pie. (getting!)
+  I said I don't want nothing! (nothingàanything!)
+#+END_EXAMPLE
