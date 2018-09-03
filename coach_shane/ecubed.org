@@ -1286,3 +1286,147 @@ Katy Perry is SUCH a good singer.
 Then who’s a good singer?
   Hmm... Freddie Mercury was a good singer.
 #+END_EXAMPLE
+
+
+* Who are you? Einstein?
+
+#+BEGIN_EXAMPLE
+How can I fall in love?
+  Well, you need to stimulate your brain.
+What?
+  You need an increase in dopamine and norepinephrine which will make you feel "love".
+Who are you, Einstein?
+#+END_EXAMPLE
+
+
+* Beats me.
+=I don't know=
+
+#+BEGIN_EXAMPLE
+Is Pluto still considered a planet?
+  Beats me.
+Well, in my book, it is.
+  Who are you? Carl Sagan?
+#+END_EXAMPLE
+
+
+* Bite the dust
+
+=die, broken, no use=
+
+#+BEGIN_EXAMPLE
+Where's your friend?
+  Who?
+Your MP3 player! You're always listening to it.
+  I dropped it and it bit the dust~
+#+END_EXAMPLE
+
+
+* bite me
+
+=leave me alone=
+
+#+BEGIN_EXAMPLE
+Are you sick?
+  Bite me.
+What? You look pale.
+  Ugh! I just found out my girlfriend is seeing someone else!
+#+END_EXAMPLE
+
+
+* No ifs, ands or buts!
+
+=Don't make any excuses=
+
+#+BEGIN_EXAMPLE
+I want that report on my desk by 5.
+  5? But it's 4 o'clock now.
+No ifs, ands or buts. 5.
+  All right~~
+#+END_EXAMPLE
+
+
+
+* Damned if I do, damned if I don't!
+
+#+BEGIN_EXAMPLE
+Are you going to the company dinner?
+  If I go, my wife will be mad. If I don't, the boss will be mad.
+You're damned if you do, damned if you don't.
+  Damn it~~
+#+END_EXAMPLE
+
+
+* hard to beat~
+
+#+BEGIN_EXAMPLE
+Who do you think will win the game?
+  Between the Yankees and the Astros?
+Yeah.
+  The Yankees will be hard to beat!
+#+END_EXAMPLE
+
+
+* out of the blue
+
+=out of the clear blue sky=
+
+=suddenly=
+
+#+BEGIN_EXAMPLE
+You're all wet!
+  I know! Out of the blueit started to rain!
+It rained?
+  Yes! It totally surprised everyone~
+#+END_EXAMPLE
+
+
+* low-key
+
+#+BEGIN_EXAMPLE
+My favorite actor is Tom Hanks.
+  Why's that?
+He's great on-screen, and low-key off-screen.
+  You're right! He's never in the news like Lady Gaga!
+#+END_EXAMPLE
+
+
+* What do you say we…
+
+=Let's ...=
+
+#+BEGIN_EXAMPLE
+I'm bored.
+  What do you say we watch a movie?
+Sure! What do you wanna see?
+  How about…Titanic!
+#+END_EXAMPLE
+
+
+* another nail in the coffin…
+
+=often used to describe company=
+
+#+BEGIN_EXAMPLE
+Russia and China have a LOT of new business deals.
+  Good for them.
+But that's another nail in the coffin for the dollar.
+  So…should we buy gold?
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+The iPhone4 power cable doesn't work on the iPhone5.
+  That's stupid.
+This is another nail in their coffin.
+  They're not doing well since Steve Jobs died...
+#+END_EXAMPLE
+
+
+* high-profile
+
+#+BEGIN_EXAMPLE
+We need to grow our classes.
+  Yes. We need to be more high-profile.
+Any ideas on how we do that?
+  Buy everyone who joins a free car?
+#+END_EXAMPLE
