@@ -1161,3 +1161,128 @@ I think I'll need a part-time job.
 But I can't make ends meet.
   Why don't you try cutting out things like cable TV?
 #+END_EXAMPLE
+
+
+* to order take-out
+
+#+BEGIN_EXAMPLE
+I’m ordering take-out!
+  From where?
+Monkey Burgers.
+  Get me a cheeseburger and a chocolate shake.
+#+END_EXAMPLE
+
+
+* rather ~
+
+=to express emotion gently, in which situation however normal people could go crazy=
+
+#+BEGIN_EXAMPLE
+I just found out I was adopted.
+  You must be shocked.
+Well, I’m rather upset.
+  I would be, too.
+#+END_EXAMPLE
+
+
+* I’m perplexed!
+
+#+BEGIN_EXAMPLE
+You look perplexed.
+  Yeah, was that a man or a woman?
+Oh, you mean Pat?
+  Yeah.
+I’m not sure, either, actually.
+#+END_EXAMPLE
+
+
+#+HTML: <img src="https://www.psychologicalscience.org/onlyhuman/uploaded_images/pat2-742146.jpg"/>
+
+
+* Keep it PG!
+
+#+BEGIN_EXAMPLE
+Don’t look over there.
+  Why? What’s going on?
+Two people are kissing. Gross~
+  Oh~ Keep it PG!!
+#+END_EXAMPLE
+
+- G
+  General
+- PG
+  Parantal Guidance
+- R
+  Restricted
+- X
+  Explicit
+
+
+* typo
+
+#+BEGIN_EXAMPLE
+“Thanks you”? You made a typo.
+  Oh! Thanks! Do you see any others?
+Um, nope. Looks good.
+  Click. Sent! Thank you for your help^^
+#+END_EXAMPLE
+
+
+* sooner or later
+
+#+BEGIN_EXAMPLE
+Did you see my lighter?
+  You haven’t quit smoking yet?
+I will. Sooner or later.
+  Yeah. Sooner or later it’ll kill you.
+#+END_EXAMPLE
+
+
+
+* Go figure!
+
+=crazy=
+
+#+BEGIN_EXAMPLE
+You lived in Korea for over 20 years?
+  Yeah! Go figure!
+Are you gonna go back?
+  I’m not sure.
+#+END_EXAMPLE
+
+
+#+BEGIN_EXAMPLE
+The banks are losing billions of dollars but the bankers are still getting huge bonuses...
+Go figure.
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+When I exercise at the gym, I get tired right away.
+But, when I go shopping, I can go all day!!
+Go figure^^
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+My son is too full to eat his carrots. But he has room enough to eat cake...
+Go figure~~
+#+END_EXAMPLE
+
+
+* Is A considered B?
+
+#+BEGIN_EXAMPLE
+Is a McDonald’s salad considered healthy?
+  It’s a salad.
+But it’s from McDonald’s.
+  My guess is it’s healthy.
+#+END_EXAMPLE
+
+
+* In my book…
+
+#+BEGIN_EXAMPLE
+Katy Perry is SUCH a good singer.
+  In my book, she’s not a singer AT ALL.
+Then who’s a good singer?
+  Hmm... Freddie Mercury was a good singer.
+#+END_EXAMPLE
