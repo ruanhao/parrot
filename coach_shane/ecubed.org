@@ -1570,3 +1570,56 @@ That comes to $5.15.
   Okay… Here’s $10.30. I’ll pay for the next person’s, too.
 Oh, paying it forward! Great. Next^^
 #+END_EXAMPLE
+
+
+* a tar baby
+
+#+BEGIN_EXAMPLE
+Do you think the West should have interfered with Saddam Hussein?
+  It was a tar baby!
+How?
+  Saddam is gone, but the West is STILL over there.
+  They created a problem and it's just getting worse for them.
+#+END_EXAMPLE
+
+
+* He's 40 going on 10!
+
+#+BEGIN_EXAMPLE
+Look at your brother! He's having a great time!
+  He's 40 going on 10!
+Is it his first time to Disney Land?
+  NO! He comes every year! He's a kid!!
+#+END_EXAMPLE
+
+
+* You and I/me...both?
+
+#+BEGIN_EXAMPLE
+You and me are just the same.
+  You and I.
+Whatever! We both love English, but you and me both hate to study!
+  And-you and I both like Coach Shane's lessons!! And he likes you and me!
+#+END_EXAMPLE
+
+
+
+* If I were in your shoes...
+
+#+BEGIN_EXAMPLE
+Should I get the green shoes or the orange shoes?
+  If I were in your shoes, I'd get the purple shoes!
+Purple? That's an ugly color for shoes.
+  So are green and orange!
+#+END_EXAMPLE
+
+
+
+* keep them coming
+#+BEGIN_EXAMPLE
+Thanks for the question. Next? Come on, keep them coming.
+  Why do you teach English for free?
+Because a lot of people don't have enough money to study.
+  But you have to make money, too!
+People with money can join my DDM classes! Those aren't free! Next question! Keep them coming~~
+#+END_EXAMPLE
