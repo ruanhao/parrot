@@ -1616,10 +1616,195 @@ Purple? That's an ugly color for shoes.
 
 
 * keep them coming
+
 #+BEGIN_EXAMPLE
 Thanks for the question. Next? Come on, keep them coming.
   Why do you teach English for free?
 Because a lot of people don't have enough money to study.
   But you have to make money, too!
 People with money can join my DDM classes! Those aren't free! Next question! Keep them coming~~
+#+END_EXAMPLE
+
+
+* Hero vs heroine
+
+#+BEGIN_EXAMPLE
+Who’s your favorite hero?
+  Hmm…Joan of Arc!
+She’s a heroine, not a hero!
+  Same thing—she was braver than most men!
+#+END_EXAMPLE
+
+
+* I’m in deep doo-doo.
+
+=in trouble=
+
+#+BEGIN_EXAMPLE
+So, John, did you finish?
+  Finish what?
+The proposal. It’s due in ten minutes.
+  OH MY GOD. I didn’t even start.
+You’re in deep doo-doo!
+#+END_EXAMPLE
+
+
+* Tops
+
+1. the best
+2. no more than
+
+#+BEGIN_EXAMPLE
+I need to buy my new girlfriend a present.
+  Birthday?
+Yeah. Should I get her something expensive?
+  How long have you been dating?
+3 days.
+  10 bucks tops! No more!
+#+END_EXAMPLE
+
+
+* 30-something.
+
+#+BEGIN_EXAMPLE
+How old is Shane?
+  I think he’s 30-something. No! Maybe late 20s.
+I think mid-30s.
+  Early 30s tops!
+#+END_EXAMPLE
+
+
+* To have someone over
+
+#+BEGIN_EXAMPLE
+What’s up tonight?
+  I’m having my girlfriend’s parents over.
+For dinner? You can’t cook!
+  KFC, buddy! They’ll never know!!
+#+END_EXAMPLE
+
+
+
+* to brown bag it
+
+#+HTML: <img src="https://www.crc.losrios.edu/files/thumbnails/file/ten-creative-brown-bag-lunches-that-kids-and-adults-will-love_1.jpg"/>
+
+#+BEGIN_EXAMPLE
+What are you eating for lunch today?
+  I’ve got a tuna sandwichand some chips.
+You brown bag it?
+  Yeah! Food I make tastes better and costs less^^
+#+END_EXAMPLE
+
+
+* head honcho
+
+=boss=
+
+#+BEGIN_EXAMPLE
+Where’s the head honcho?
+  He’s out for lunch.
+Did you eat, yet?
+  I always brown bag it.
+Homemade food is tops!
+#+END_EXAMPLE
+
+
+* I’m all tied up~
+
+=very busy=
+
+#+BEGIN_EXAMPLE
+Can you come to my little party on Friday?
+  I’m sorry, John. I’m tied up this weekend.
+But you have to come!
+  John! I told you—I’m getting married on Saturday.
+#+END_EXAMPLE
+
+
+* for good
+
+=forever=
+
+#+BEGIN_EXAMPLE
+So, you are leaving Korea?
+  Yes, next month.
+But you’ll be coming back, right?
+  No, I think I’ll be leaving for good.
+#+END_EXAMPLE
+
+
+* on and off
+
+=occational=
+
+#+BEGIN_EXAMPLE
+Where’s your girlfriend?
+  We’re taking a break.
+You guys are on and off all the time.
+  This time…I think it’s for good.
+#+END_EXAMPLE
+
+- It's been rainning on and off.
+- My mom and I talk on and off.
+- I'm working off and on.
+- My tennis is off and on. (sometimes play good, sometimes play bad)
+
+
+* What do YOU think?
+
+#+BEGIN_EXAMPLE
+Do I look fat in this shirt?
+  What do YOU think?
+I do?
+  It’s WAY too tight. Your belly is hanging out!
+#+END_EXAMPLE
+
+marshmallow:
+
+#+HTML: <img src="http://gritineducation.com/wp-content/uploads/2014/09/marshmallow_00278646.jpg"/>
+
+
+* It doesn’t measure up.
+
+#+BEGIN_EXAMPLE
+So, how’s the car?
+  It doesn’t measure up.
+What? Your car is better than my Mercedes SLK320?
+  What do you think? Mine’s a Volvo!
+#+END_EXAMPLE
+
+
+* watered-down
+
+=not powerful, not 100%, not strong, not the full version=
+
+=usually means something is intended to be not strong to test you, to test if you like it=
+
+#+BEGIN_EXAMPLE
+What’s the difference between DD and DDM?
+  DD is the watered-down version of DDM.
+So, DD is no good?
+  NO! DD is great, but DDM is MUCH better!!
+#+END_EXAMPLE
+
+* jump the shark
+
+=no longer super popular=
+
+#+BEGIN_EXAMPLE
+Let’s watch the new Diehard movie.
+  No way! Diehard has jumped the shark.
+What? Bruce Willis is the greatest!
+  You’re crazy!
+#+END_EXAMPLE
+
+
+* What’s your approach?
+
+#+BEGIN_EXAMPLE
+What’s the best approach to learning English?
+  I try to learn it like a child.
+What do you mean?
+  I start with listening, repeating, and then trying!
 #+END_EXAMPLE
