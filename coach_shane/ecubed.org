@@ -1947,3 +1947,168 @@ Are you still single?
 Well, I do want some grandchildren~
   Don't worry, grandma! There's plenty of time^^
 #+END_EXAMPLE
+
+
+* smooth sailing
+
+#+BEGIN_EXAMPLE
+I finished my report!
+  Already?
+Yes! The rest of the week will be smooth sailing for me!
+  I’m so jealous! I’m not even half done!
+#+END_EXAMPLE
+
+
+* To be on the rocks
+
+=describe tough situation=
+
+#+BEGIN_EXAMPLE
+I haven’t seen Sue lately.
+  We’re on the rocks.
+What’s wrong?
+  I think we’re just bored with each other.
+#+END_EXAMPLE
+
+
+* on the rocks (Whiskey or Coke?!)
+
+#+BEGIN_EXAMPLE
+Whisky on the rocks, please.
+  And for you?
+    Coke on the rocks!
+We don’t say that. We just say “with ice”.
+    Oh...
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+I want my Whisky dry. (without ice)
+#+END_EXAMPLE
+
+
+* a hangover...to hang over
+
+#+BEGIN_EXAMPLE
+John is hanging his head over the toilet.
+  He's got a hangover.
+Did he eat something bad?
+  No! He drank too much last night!
+#+END_EXAMPLE
+
+
+* in for a bumpy ride
+
+#+BEGIN_EXAMPLE
+Our company lost the contract.
+  Oh, no. We're in for a bumpy ride.
+You think we'll lose our jobs?
+  I hope not. Let's get out there and find new clients.
+#+END_EXAMPLE
+
+
+* I’ve been meaning to tell you…
+
+#+BEGIN_EXAMPLE
+Shane, I’ve been meaning to tell you something…
+  What’s that, boss?
+I need you to come in tomorrow.
+  Saturday? On the weekend?
+I’ve been meaning to tell you since Monday…I forgot.
+  But…
+Thanks a lot^^ See you tomorrow~~
+#+END_EXAMPLE
+
+
+* Could not have said better
+
+=i agree=
+
+#+BEGIN_EXAMPLE
+Look at that guy! He's eating SO much junk food.
+  That's why he's so fat.
+Well...you are what you eat.
+  I couldn't have said it better.
+#+END_EXAMPLE
+
+
+* as far as ~
+
+1. regarding something
+2. based on
+
+#+BEGIN_EXAMPLE
+How many languages does Shane speak?
+  He said 11, but as far as I know, it's only 7.
+As far as I can see, he speaks about 20.
+  No, he's just an actor. He only speaks one. English!
+#+END_EXAMPLE
+
+
+
+* I like them PLURAL!
+
+='them' is used to emphasize the extent=
+
+#+BEGIN_EXAMPLE
+Ooh, I like them chocolate muffins.
+  They're homemade.
+Those are homemade?
+  Yep! I got the recipe from my grandma!
+Is your grandma single?
+  Don't be joking about my grandma.
+#+END_EXAMPLE
+
+
+* Here's to your success!
+
+#+BEGIN_EXAMPLE
+Congratulations on your new DDM classes.
+  Thank you.
+Here's to your success!
+  Well! Here's to OUR success! Let's all benefit from DDM!
+    To success!!!
+#+END_EXAMPLE
+
+
+
+* That hits the spot
+
+#+BEGIN_EXAMPLE
+Boy, that hits the spot.
+  Yes! This is JUST what I needed.
+Nothing beats a delicious meal.
+  Especially when it's KFC~
+Finger lickin' good!
+  And Coke!
+#+END_EXAMPLE
+
+
+
+* It doesn't agree with me.
+
+=it is not good for me, not suits me=
+
+#+BEGIN_EXAMPLE
+You want some soup?
+  No, that stuff doesn't agree with me. Too spicy.
+Oh! It totally agrees with me. How about...
+  A bowl of cereal would hit the spot?
+Cereal's for kids.
+  No it's not. Shane eats it.
+#+END_EXAMPLE
+
+
+#+HTML: <img src="https://cdn.bmstores.co.uk/images/hpcProductImage/imgFull/305560-Lucky-Charms-453g1.jpg"/>
+
+
+* Suit yourself
+
+=i don't like it but you can just choose something that agrees with you=
+
+#+BEGIN_EXAMPLE
+Bacon and eggs again?
+  It's my favorite breakfast.
+Whoa! Too much pepper!
+  No, I like my eggs black^^
+Suit yourself~
+#+END_EXAMPLE
