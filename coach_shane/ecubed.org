@@ -2276,3 +2276,26 @@ What are you doing?
 Stupid is as stupid does.
   Hey! I have a higher IQ than you~~~whoa!!
 #+END_EXAMPLE
+
+
+* Go to school…go to the school…
+
+#+BEGIN_EXAMPLE
+I'm going to the school.
+  You go to school there, too?
+No. I'm going to the school. I'm meeting a friend.
+  Oh. I'll go with. I've got a class.
+#+END_EXAMPLE
+
+
+* Here you go VS There you go
+
+=basic the same=
+
+#+BEGIN_EXAMPLE
+Here you go.
+  Thank you, waiter! Hey, honey, you want some?
+Sure!
+  There you go^^
+Thanks, sweetie^^
+#+END_EXAMPLE
