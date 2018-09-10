@@ -2524,3 +2524,136 @@ How do you like the content?
 What's wrong?
   It's lacking. There needs to be more.
 #+END_EXAMPLE
+
+
+* classic and classical
+
+#+BEGIN_EXAMPLE
+I love classical music, man.
+  Me, too. Mozart is divine.
+No, I mean Rush, Queen, AC/DC!
+  Oh, you mean classic music, then. Classic rock to be more specific.
+#+END_EXAMPLE
+
+
+* to hunker down
+
+#+HTML: <img src="http://arnoldzwicky.s3.amazonaws.com/HunkeringMan.jpg"/>
+
+=study very hard=
+
+#+BEGIN_EXAMPLE
+What are you up to?
+  I'm hunkering down for finals!
+How many you got?
+  5. And a paper, too.
+#+END_EXAMPLE
+
+
+
+* to flake out
+
+=be unreliable=
+
+#+BEGIN_EXAMPLE
+Where's Jim?
+  He flaked out again.
+What? We need him.
+  He always does this. He's unreliable.
+#+END_EXAMPLE
+
+
+* the straight and narrow
+
+=live by the rule=
+
+#+BEGIN_EXAMPLE
+If you want to be respected, you have to stick to the straight and narrow.
+  What do you mean?
+You have to follow the rules. Keep to principles.
+  But I hate following rules. And I hated my school principals, too.
+#+END_EXAMPLE
+
+
+* on a health kick
+
+=these days, do something very often=
+
+#+BEGIN_EXAMPLE
+What's with all the vegetables?
+  I'm on a health kick.
+Why?
+  My wife and I are planning on having kids next year. We wanna be as healthy as possible.
+#+END_EXAMPLE
+
+
+
+* Nothing but the best.
+
+#+BEGIN_EXAMPLE
+What's this?
+  A little lunch especially for you.
+Tuna sandwiches and Doritos!
+  Nothing but the best for you^^
+#+END_EXAMPLE
+
+
+#+HTML: <img src="https://ll-us-i5.wal.co/asr/46fa6dba-b744-4078-af97-3ab8acce09f5_1.1c5550a5c299bc10e91b3d09d0701d9e.jpeg-a9ae7cb343c0601f26ad69275b4427644d81ce6f-optim-2000x2000.jpg"/>
+
+
+
+* Great taste.
+
+=like high quality=
+
+#+BEGIN_EXAMPLE
+He fed you Doritos on your birthday?
+  Yes! Original flavor.
+Oh~ Great taste.
+  Hello! Those are the best.
+#+END_EXAMPLE
+
+
+* What's all the racket?
+
+=what is so loud outside=
+
+#+BEGIN_EXAMPLE
+What's all the racket?
+  Construction.
+Again?
+  They're tearing down the building next door.
+#+END_EXAMPLE
+
+
+
+* pipe down
+
+#+BEGIN_EXAMPLE
+You'd better pipe down.
+  Why?
+Dad just got home. He's got a headache.
+  Oh. Thanks for telling me^^
+#+END_EXAMPLE
+
+
+* devastated
+
+#+BEGIN_EXAMPLE
+Can you order these chocolates for me?
+  Sorry, baby. No international orders. Are you okay?
+I'm...I'm devastated! They look so good~~
+  Don't worry, sugar! I'll find some better chocolates!
+#+END_EXAMPLE
+
+
+* give the green light
+
+=give permission to do something=
+
+#+BEGIN_EXAMPLE
+What are you doing?
+  I'm planning my vacation to Iceland.
+The boss said you can take the time off?
+  He gave me the green light 5 minutes ago.
+#+END_EXAMPLE
