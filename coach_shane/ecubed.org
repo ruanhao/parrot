@@ -2657,3 +2657,161 @@ What are you doing?
 The boss said you can take the time off?
   He gave me the green light 5 minutes ago.
 #+END_EXAMPLE
+
+
+
+* dirt poor
+
+#+BEGIN_EXAMPLE
+Hey, John. You wanna go to Iceland with me?
+  What? I'm dirt poor.
+Come on. I'll loan you the money.
+  And charge me 20% interest? No thanks.
+#+END_EXAMPLE
+
+
+* What's all the fuss about?
+
+=fuss means complaining/arguing=
+
+#+BEGIN_EXAMPLE
+What's all the fuss about?
+  Mom doesn't want to have a birthday party.
+You told her? You shouldn't have.
+  You know I can't keep a secret!
+#+END_EXAMPLE
+
+
+* Down and out
+
+1. extremely depressed
+2. (in sport) stike out
+
+#+BEGIN_EXAMPLE
+You look down and out, Shane.
+  We lost the game.
+You still have another chance, don't you?
+  Yes, one more chance tomorrow.
+Great! So you're down, but not out!
+#+END_EXAMPLE
+
+
+* to go Dutch
+
+=pay what you actually ate=
+
+#+BEGIN_EXAMPLE
+I really had a great dinner.
+  Your steak looked wonderful.
+And so did your hotdog.
+  Alright—do you mind if we go Dutch?
+#+END_EXAMPLE
+
+
+* to dress up
+#+BEGIN_EXAMPLE
+What are you getting all dressed up for?
+  Tonight's Beiber's concert! Baby, baby, baby~ Oh~
+Justin gonna sing that song to you?
+  Yes! I'll always be his.
+#+END_EXAMPLE
+
+
+* get your head out of the clouds
+
+=be realistic=
+
+#+BEGIN_EXAMPLE
+So, how was the Beiber concert?
+  It was the BEST! And he winked at me twice!
+When are you gonna get your head out of the clouds?
+  He did. I know he did~
+#+END_EXAMPLE
+
+
+* squirt
+
+#+BEGIN_EXAMPLE
+Are you crying?
+  No. A lemon squirted me in the eye.
+Ow! That must sting.
+  Well, now he's lemonade! Have some^^
+#+END_EXAMPLE
+
+* give a wide berth
+
+=give large space=
+
+#+BEGIN_EXAMPLE
+Why are you slowing down?
+  An ambulance is coming, son.
+So?
+  You should always give emergency vehicles a wide berth.
+#+END_EXAMPLE
+
+
+* in its clutches
+
+#+BEGIN_EXAMPLE
+The US wants Snowden in its clutches.
+  And then what?
+He'll go to jail for a LONG time.
+  He shouldn't have done what he did.
+#+END_EXAMPLE
+
+
+
+* to be at the helm
+
+#+BEGIN_EXAMPLE
+Are you looking at the stock market?
+  My Apple stock is up!
+Who took over after Jobs died?
+  Tim Cook's at the helm. He's doing great.
+#+END_EXAMPLE
+
+
+* Be up to something
+
+=make evil plan, plotting=
+
+#+BEGIN_EXAMPLE
+Why does Shane keep going to the kitchen?
+  I don't know. That is strange.
+I think he's up to something.
+  I know! Mom baked new cookies. He's eating them!
+#+END_EXAMPLE
+
+
+* Beggars can't be choosers.
+
+
+#+BEGIN_EXAMPLE
+Here's your new fridge!
+  It's a used one. I wanted a new refrigerator.
+For $100? You're lucky I found this one!
+  I guess... Beggars can't be choosers.
+#+END_EXAMPLE
+
+
+* A cheat sheet
+
+
+#+BEGIN_EXAMPLE
+Wow! You did great on the math test.
+  I used a cheat sheet!
+You cheated?
+  I just wrote down the formulas~~
+#+END_EXAMPLE
+
+
+* Ditch
+
+=throw away=
+
+#+BEGIN_EXAMPLE
+Who's that guy?
+  I don't know. I'm trying to ditch him.
+Here he comes again.
+  Help me, please!!
+#+END_EXAMPLE
