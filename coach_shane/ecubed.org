@@ -2815,3 +2815,93 @@ Who's that guy?
 Here he comes again.
   Help me, please!!
 #+END_EXAMPLE
+
+
+* to be in THE moment
+
+=concentrate=
+
+#+BEGIN_EXAMPLE
+His presentation is going great!
+  He is totally in the moment.
+I didn't know he could talk so well.
+  When he gets in the moment, he becomes a new person.
+#+END_EXAMPLE
+
+
+* ~ gone wild
+
+#+BEGIN_EXAMPLE
+You can't have that soda can in the park. It's against the law.
+  Okay...
+And you can't eat in the park.
+  The laws have gone wild! Where's the common sense? I wanna have a picnic in the park!!
+#+END_EXAMPLE
+
+
+* Twoosh
+
+=A tweet which precisely meets the 140-character limit=
+
+#+BEGIN_EXAMPLE
+This message is for all my English students-I promise to always give you my best English lessons.
+If you ever have questions, please ask me!
+Twoosh!
+  What?
+Twoosh! Exactly 140 characters^^
+#+END_EXAMPLE
+
+
+* Corny
+
+=childish, not very mature=
+
+#+BEGIN_EXAMPLE
+Hey, why do seagulls fly over the sea?
+  Hmm...to look for food?
+No! Because if they flew over a bay, they'd be called bagels!
+  That's SO corny.
+#+END_EXAMPLE
+
+
+bagel:
+
+#+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Plain-Bagel.jpg"/>
+
+
+* dress-down Friday
+
+=dress-down means dressing casually=
+
+#+BEGIN_EXAMPLE
+Starting this week, we'll have dress-down Fridays!
+  Yay!!
+But no rags. No shorts. Be decent.
+  Boo!!
+#+END_EXAMPLE
+
+
+* to be out of sorts
+
+=feel stress/mad/strange=
+
+#+BEGIN_EXAMPLE
+Where are you going?
+  Oh! I missed the turn. Sorry~ I'm outta sorts today.
+Maybe I should drive.
+  Maybe. My boss made me really mad and I keep thinking about it.
+#+END_EXAMPLE
+
+
+* to hound somebody
+
+=to nag/harass/pester someone=
+
+#+BEGIN_EXAMPLE
+Did you take a shower?
+  Yes, dad.
+Did you use soap?
+  Yes, dad.
+Did you brush your teeth?
+  Yes! Quit hounding me~
+#+END_EXAMPLE
