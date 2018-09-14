@@ -2905,3 +2905,299 @@ Did you use soap?
 Did you brush your teeth?
   Yes! Quit hounding me~
 #+END_EXAMPLE
+
+
+* ~ bores me to tears
+
+#+BEGIN_EXAMPLE
+Did you read Obama's book?
+  Just the first few pages.
+Why didn't you finish it?
+  It bored me to tears~
+#+END_EXAMPLE
+
+
+* To have (the) guts
+
+#+BEGIN_EXAMPLE
+I should tell my boss to give me a raise.
+  You don't have the guts.
+I'll send him an email.
+  No! Ask him face-to-face.
+#+END_EXAMPLE
+
+
+* It's all Greek to me.
+
+#+BEGIN_EXAMPLE
+Can you help me with my math?
+  Oh, son, it's all Greek to me.
+No, dad. It's math. Numbers.
+  I mean it doesn't make any sense to me! I don't understand it. Ask your uncle!
+#+END_EXAMPLE
+
+
+* Go with the flow
+
+#+BEGIN_EXAMPLE
+Why are you wearing a tie?
+  I always do.
+It's dress-down Friday. Go with the flow~
+  To be honest, I don't have any casual clothes~~~
+#+END_EXAMPLE
+
+
+* to foot the bill
+
+#+BEGIN_EXAMPLE
+You're having your birthday party at a steakhouse? Who's gonna foot the bill?
+  You are!
+What?
+  Come on! You're rich! Please^^
+#+END_EXAMPLE
+
+
+
+* I'm finna
+
+=I'm fixing to do something=
+
+#+BEGIN_EXAMPLE
+I'm finna go to the store.
+  Great! Get me some cheese.
+You cooking?
+  I'm finna make some hammers!
+#+END_EXAMPLE
+
+* Stoop so low as to~
+
+=stoop means to make a bow=
+
+=overly humble=
+
+#+BEGIN_EXAMPLE
+You're going somewhere.
+  The boss'.
+What for?
+  I told him I'd wash his car.
+You stoop SO low.
+  At least I've got a job~~
+#+END_EXAMPLE
+
+#+HTML: <img src="https://en.pimg.jp/002/195/322/1/2195322.jpg"/>
+
+
+* Stoop so low as to~ (2)
+
+=to be a person of no morals=
+
+#+BEGIN_EXAMPLE
+Why's John so mad at you?
+  Because I went to dinner with Glenda.
+His girlfriend?! I can't believe you'd stoop so low.
+  She's pretty.
+#+END_EXAMPLE
+
+
+* To make ends meet
+
+#+BEGIN_EXAMPLE
+Are you collecting cans?
+  Bottles, too.
+What for?
+  Trying to make ends meet.
+#+END_EXAMPLE
+
+
+* Spick and span (also spelled "spic and span!")
+
+=perfectly clean=
+
+#+BEGIN_EXAMPLE
+Wow! Look at your room!
+  Pretty clean, huh?
+Spick and span!
+  The floors were the toughest.
+#+END_EXAMPLE
+
+
+#+HTML: <img src="http://www.dteps.com/assets/images/brand/600000/625469c.jpg"/>
+
+* Out of my league
+
+=too good to be the same=
+
+#+BEGIN_EXAMPLE
+Why aren't you taking Coach Shane's DDM class?
+  It's out of my league.
+Are you nuts? If you can understand his explanations, it's YOUR level!
+  Really? Maybe I should try, then~~
+#+END_EXAMPLE
+
+
+* To do a disservice to someone
+
+=not serving properly=
+
+#+BEGIN_EXAMPLE
+You're giving your kid juice boxes.
+  Juice is good for you.
+You're doing your kid a disservice. Give him real fruit instead.
+  But this is all he likes...
+#+END_EXAMPLE
+
+
+* The apple doesn't fall far from the tree
+
+=tree means parent, apple means child, but usually means Dad and son=
+
+=son is not very different from his father=
+
+#+BEGIN_EXAMPLE
+Bill Gates supports population reduction.
+  His dad headed Planned Parenthood.
+Wow! They don't like humans.
+  The apple doesn't fall far from the tree~
+#+END_EXAMPLE
+
+* easy on the eyes
+
+=look nice=
+
+#+BEGIN_EXAMPLE
+So?
+  You're wearing that shirt for the interview?
+Too much?
+  Something easier on the eyes, please.
+#+END_EXAMPLE
+
+
+* in/out on/off
+
+=on/off schedule=
+
+=in/out office=
+
+#+BEGIN_EXAMPLE
+Is Dr. Ron on today?
+  He's out.
+Who's in?
+  Dr. Vinn is in.
+Dr. Gaugh?
+  She's off.
+#+END_EXAMPLE
+
+
+* VERB + away, VERB + on
+
+=on means continue to=
+
+=away means continue to do a lot=
+
+#+BEGIN_EXAMPLE
+You look sick!
+  I partied away the night last night.
+I can smell~~
+  There's another party tonight!
+Party on~!!
+#+END_EXAMPLE
+
+
+* That figures~~
+
+=I understand~=
+
+#+BEGIN_EXAMPLE
+Were you at John's? He's a troublemaker.
+  Yes, mom. I won't go again.
+What's the matter?
+  John broke his promise.
+That figures.
+  He promised to let me win at Nintendo~~
+#+END_EXAMPLE
+
+
+* What for?
+
+=why=
+
+#+BEGIN_EXAMPLE
+Can you buy some carrots at the store?
+  What for?
+I'm gonna make a carrot cake.
+  What for?
+Mom's birthday^^
+#+END_EXAMPLE
+
+* to be BOUND TO DO smtg.
+
+=surely to do=
+
+#+BEGIN_EXAMPLE
+I study English every day, but I'm not improving.
+  That happens. Have you tried DDM?
+What for? There's lots of free classes.
+  But DDM is truly great. You're bound to learn something in every class.
+#+END_EXAMPLE
+
+
+* to hit on someone
+
+=flirt with=
+
+#+BEGIN_EXAMPLE
+Were you hitting on her?
+  The vegetable lady?
+No, the fruit lady?
+  I said her melons looked nice. What? OW!
+#+END_EXAMPLE
+
+
+* hit it off
+
+=blend in well=
+
+#+BEGIN_EXAMPLE
+You and Dean hit it off.
+  Yeah, he's a great guy. We're gonna go fishing.
+He's gay.
+  Oh... You don't think he thinks I was hitting on him do you?
+#+END_EXAMPLE
+
+
+
+* to throw in the towel
+
+=give in=
+
+#+BEGIN_EXAMPLE
+How's your English going?
+  I threw in the towel.
+Already?
+  It's too hard. And boring~~
+#+END_EXAMPLE
+
+
+* Stay on my tail.
+
+=follow me=
+
+#+BEGIN_EXAMPLE
+Are you gonna be able to follow me?
+  No problem. Don't drive too fast, though.
+Okay. Stay on my tail, okay?
+  Got it.
+#+END_EXAMPLE
+
+
+* binding, bound to NOUN
+
+=tied to=
+
+#+BEGIN_EXAMPLE
+I hate this internet company.
+  Switch!
+I can't. I signed a binding contract.
+  For how long?
+I'm bound to it for 3 years~~
+#+END_EXAMPLE
