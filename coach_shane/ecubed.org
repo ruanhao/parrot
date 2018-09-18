@@ -3201,3 +3201,110 @@ I can't. I signed a binding contract.
   For how long?
 I'm bound to it for 3 years~~
 #+END_EXAMPLE
+
+
+* bawling your eyes out
+
+#+HTML: <img src="http://www.iconographicdesign.com/wp-content/uploads/gallery/animation/game_girl_bawl.gif"/>
+
+#+BEGIN_EXAMPLE
+What was wrong earlier?
+  Nothing.
+You were bawling your eyes out.
+  I got a paper cut.
+#+END_EXAMPLE
+
+
+* going through a rough patch
+
+#+BEGIN_EXAMPLE
+Hey, Shane, I haven't see you in a while.
+  I'm going through a rough patch.
+At work?
+  No, at home. Lots of problems.
+#+END_EXAMPLE
+
+
+* a slacker
+
+#+HTML: <img src="https://cdn1.nbrii.com/wp-content/uploads/2013/04/bigstock-Slacker-1016995.jpg"/>
+
+#+BEGIN_EXAMPLE
+Tim makes me mad.
+  He doesn't do much work, does he?
+He's SUCH a slacker.
+  Why does the boss keep him?
+#+END_EXAMPLE
+
+
+* Slacking off
+
+#+BEGIN_EXAMPLE
+Playing a game?
+  Oh...yeah!!
+I've never seen you slacking off!
+  We all do sometimes! I needed a break~
+#+END_EXAMPLE
+
+
+
+* What have you been up to?
+
+#+BEGIN_EXAMPLE
+Tim, long time no see!
+  Hey, Shane.
+What have you been up to?
+  Not too much! Slacking off~~
+#+END_EXAMPLE
+
+
+
+* I'm stumped.
+
+=don't know what to do=
+
+#+BEGIN_EXAMPLE
+Did you solve Jazz's math problem.
+  No, I'm stumped.
+I got it in 2 minutes.
+  Well...you must be a genius!
+#+END_EXAMPLE
+
+
+* Taken aback
+
+=very shocked (negatively)=
+
+#+HTML: <img src="https://media1.tenor.com/images/5e3b238578d9a74df6291ae5e6eee059/tenor.gif"/>
+
+#+BEGIN_EXAMPLE
+How did your mom take the news?
+  She was taken aback.
+She's not happy?
+  She's okay, just very surprised.
+#+END_EXAMPLE
+
+
+* Slack up on somebody
+
+=stop being so hard=
+
+#+BEGIN_EXAMPLE
+You're too hard on your son.
+  He needs to learn.
+You should slack up a bit.
+  No. Kids need to learn young.
+#+END_EXAMPLE
+
+
+* to have a way with ~
+
+=have a connection with=
+
+#+BEGIN_EXAMPLE
+Oh my god! A tiger!!
+  Come here, kitty-kitty~~
+    Run for your lives!!
+  Such a good kitty!
+      Wow—Shane really has a way with animals!
+#+END_EXAMPLE
