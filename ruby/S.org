@@ -36,6 +36,8 @@
 
   =most important or prominent=
 
+  #+HTML: <img src="http://www.omahaoutdoors.com/blog/wp-content/uploads/2014/12/salient.jpg"/>
+
   - When I look at the house for sale, salient defects such as the broken windows stare back at me.
   - The salient feature on Johnny’s face is his huge nose.
   - As Janet debated which car to buy, she realized price was the most salient factor in her decision.
@@ -49,6 +51,8 @@
 
   =something that is good for you or is beneficial to mind or body=
 
+  #+HTML: <img src="http://www.thankyourluckystarsdesign.com.au/images/img_pro_logo_salubrious.jpg"/>
+
   - Vegetables are salubrious foods which provide essential nutrients.
   - While nuts are salubrious on a nutritional level, eating too many of them can cause you to gain unwanted weight.
   - Rumor has it that the spring waters in our community are salubrious and filled with healing oils.
@@ -60,6 +64,8 @@
 * [[https://wordsinasentence.com/salutary-in-a-sentence/][Salutary]]
 
   =producing good benefits=
+
+  #+HTML: <img src="https://i.imgflip.com/rqm20.jpg"/>
 
   - The board hopes the merger of the two companies will have salutary effects that will leave all the shareholders happy.
   - At the salutary event, the charity easily reached its fundraising goal of one million dollars.
@@ -107,6 +113,8 @@
 
   =sad and solemn=
 
+  #+HTML: <img src="http://www.chetart.com/portfolioimages/saturnine.jpg"/>
+
   - The dog’s eyes became saturnine whenever he was left at home alone.
   - As the widow accepted offers of sympathy at her husband’s funeral, she struggled to keep tears from her saturnine eyes.
   - Matt had a saturnine look on his face as he watched his ex-girlfriend walk out the door for the last time.
@@ -136,6 +144,8 @@
 
   =a split or separation within a group or organization=
 
+  #+HTML: <img src="http://image1.slideserve.com/2219671/the-great-schism-n.jpg"/>
+
   - The schism between my two best friends put me in the awkward position of having to choose one over the other.
   - In the United States, the schism caused by slavery eventually led to the Civil War.
   - Because of the schism that has divided the football players, our high school team will not play a game this week.
@@ -147,6 +157,8 @@
 * [[https://wordsinasentence.com/scour-in-a-sentence/][Scour]]
 
   =to scrub hard=
+
+  #+HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Local_scour.gif"/>
 
   - My mother made us scour the bathroom before our guests arrived.
   - After I spilled ketchup on my white shirt, I took it to the bathroom to scour it with cold water.
@@ -195,6 +207,8 @@
 
   =to soothe or calm=
 
+  #+HTML: <img src="https://ih1.redbubble.net/image.176298362.5236/stf,small,600x600-c,0,0,1000,1000.u3.jpg"/>
+
   - The shot should sedate the patient and allow him to sleep peacefully.
   - When my baby is upset, I can usually sedate her by *patting her back*.
   - The only way to sedate the hostile dog was by putting him to sleep with a tranquilizer.
@@ -235,6 +249,8 @@
 
   =Caused by or related to an earthquake=
 
+  #+HTML: <img src="http://www.osc.co.uk/wp-content/uploads/2015/03/SEISMIC22.jpg"/>
+
   - Seismic tests were conducted to determine the force of the earthquake.
   - Seismic waves caused by the earthquake caused a tsunami on the island shore.
   - Conducting hi-tech seismic surveys, the scientists were able to predict an upcoming quake.
@@ -253,6 +269,8 @@
 
   =being able to feel or sense things=
 
+  #+HTML: <img src="http://www.lab-initio.com/250dpi/nz024.jpg"/>
+
   - Humans are not the only sentient beings, elephants are very emotional and perceptive mammals as well.
   - For many years, scientists argued over whether corals were sentient creatures or were an inanimate object like a rock.
   - Many people believe plants to be sentient and responsive to things such as music and the human voice.
@@ -270,6 +288,8 @@
 * [[https://wordsinasentence.com/sequester-in-a-sentence/][Sequester]]
 
   =to be put away for a specific reason=
+
+  #+HTML: <img src="http://marshallramsey.com/wp-content/uploads/030413SEquester.jpg"/>
 
   - The people with the virus were told to sequester themselves at home to avoid spreading the illness.
   - If the verdict is not decided the first day, the judge will sequester the jury members to protect them from external influences.
@@ -328,6 +348,8 @@
 
   =submissive; willing to serve others=
 
+  #+HTML: <img src="http://hotelworkers.org/images/uploads/servile_waiter.jpg"/>
+
   - Some individuals are so servile that other people take advantage of their submissiveness.
   - Because she has a servile *disposition* =性情=, Janet is a great nurse.
   - Even though Michelle was no longer a maid, she still felt servile when she was in a room with wealthy people.
@@ -340,6 +362,8 @@
 
   =become wrinkled or get smaller=
 
+  #+HTML: <img src="http://farm8.staticflickr.com/7141/6709519077_49823bbecc_z.jpg"/>
+
   - Soaking in the bathtub for too long, the girl’s tiny fingers began to shrivel up like wrinkled sticks.
   - As they lay in the sun, the grapes began to shrivel into a raisin form.
   - Years of tanning in the sun had caused the woman’s skin to dry and shrivel.
@@ -348,6 +372,8 @@
 * [[https://wordsinasentence.com/shunt-in-a-sentence/][Shunt]]
 
   =to push or shove something=
+
+  #+HTML: <img src="http://s0.geograph.org.uk/geophotos/01/98/56/1985664_7fea3def.jpg"/>
 
   - It’s unfortunate that our society tends to shunt older workers to retirement before they are ready.
   - The *thirty something* attempted to shunt the idea of marriage in hopes she would get a ring.
@@ -386,6 +412,8 @@
 
   =performed too rapidly=
 
+  #+HTML: <img src="https://101words.org/wp-content/uploads/2016/07/slipshod-service-1024x512.jpg"/>
+
   - Because the roofer performed a slipshod repair job, we had a leak in the kitchen within hours.
   - This is a very important task so please do not perform it in a slipshod manner.
   - If you turn in a slipshod project for your final assignment, you will probably not pass the class.
@@ -395,6 +423,8 @@
 * [[https://wordsinasentence.com/slovenly-in-a-sentence/][Slovenly]]
 
   =having a dirty appearance=
+
+  #+HTML: <img src="http://www.twainquotes.com/UniformEds/SlovenlyPeterCover.jpg"/>
 
   - The man’s slovenly dress was a result of him being homeless for a month.
   - Because Jan is a *pet hoarder*, with over twenty cats, it is not surprising that she lives in a slovenly home.
@@ -407,6 +437,8 @@
 * [[https://wordsinasentence.com/sluggish-in-a-sentence/][Sluggish]]
 
   =slow-moving and lacking in energy=
+
+  #+HTML: <img src="http://s3.amazonaws.com/content.washingtonexaminer.biz/web-producers/NateBeeler2.jpg"/>
 
   - After staying up all night, the tired teenager was sluggish when morning arrived.
   - It took forever for the sluggish sloth to move from one side of the road to the other.
@@ -425,6 +457,8 @@
 * [[https://wordsinasentence.com/smug-in-a-sentence/][Smug]]
 
   =extremely satisfied with oneself=
+
+  #+HTML: <img src="http://theconservativetreehouse.files.wordpress.com/2011/03/smug-obama1.jpg"/>
 
   - Gregory was smug after he easily eliminated his rival during the kickboxing competition.
   - After scoring a touchdown, the smug player did his celebratory dance.
@@ -455,6 +489,8 @@
 
   =a fusible metal (usually tin or lead) that is used to join other metals together=
 
+  #+HTML: <img src="http://images.delphiglass.com/image_1500/148010.jpg"/>
+
   - Half of the world’s tin is used for solder, specifically to fuse other metals together.
   - A laser was used to attach a lead solder to the ball joint.
   - It is important when fusing things to use solder that is compatible with both metals.
@@ -463,6 +499,8 @@
 * [[https://wordsinasentence.com/solicit-in-a-sentence/][Solicit]]
 
   =to request or ask for something=
+
+  #+HTML: <img src="http://images.mysecuritysign.com/img/lg/K/do-not-solicit-residents-no-soliciting-sign-k2-0466.png"/>
 
   - Many businesses put up signs to discourage others from going there to solicit.
   - If you want to solicit business from them, you’ll have to communicate at their level.
@@ -475,6 +513,8 @@
 * [[https://wordsinasentence.com/solicitous-in-a-sentence/][solicitous]]
 
   =full of anxiety and concern=
+
+  #+HTML: <img src="http://1.bp.blogspot.com/-YZALMyWYmTY/UP3LGRGiNYI/AAAAAAAAA38/5uFdUF1AVsA/s1600/18+Curious.png"/>
 
   - I am going to keep a solicitous eye out for criminals in this *hard-hit* =受失业问题打击严重的= neighborhood.
   - The solicitous mother did not want her young daughter going out on a date.
@@ -500,6 +540,8 @@
 
   =a monologue that is spoken out loud by an actor or actress=
 
+  #+HTML: <img src="http://farm4.staticflickr.com/3544/3678577761_1bcdb79640_z.jpg?zz=1"/>
+
   - Speaking her internal thoughts as she moved about, the Broadway star gave a stellar soliloquy through her moving speech.
   - A closing soliloquy moved the crowd to tears as they were given a glimpse into the dying man’s fears and hopes.
   - The actress’s soliloquy let the audience hear the character’s inner thoughts right before the climax.
@@ -509,6 +551,8 @@
 
   =able to pay all financial obligations=
 
+  #+HTML: <img src="https://i.ytimg.com/vi/hydUVGUbyvU/hqdefault.jpg"/>
+
   - When the man realized he was not solvent and was unable to *provide for* =供养= his wife and kids, he killed himself.
   - Rick refused to sell his solvent company because it was so profitable.
   - Because the restaurant is not solvent, it will be closing in two weeks.
@@ -517,6 +561,8 @@
 * [[https://wordsinasentence.com/somber-in-a-sentence/][Somber]]
 
   =grim or miserable=
+
+  #+HTML: <img src="https://s3.amazonaws.com/contenthub-static/blog/wp-content/uploads/2016/09/Somber.gif"/>
 
   - When I saw the doctor’s somber expression, I knew my diagnosis was not a good one.
   - Sometimes the news is so somber I turn off the television.
@@ -529,6 +575,8 @@
 * [[https://wordsinasentence.com/sonorous-in-a-sentence/][Sonorous]]
 
   =able to produce a deep sound=
+
+  #+HTML: <img src="http://www.sonicanta.com/img/sonorous_ua.jpg"/>
 
   - Even without a microphone, the singer’s sonorous voice filled the entire room.
   - Because Hank has a sonorous pleasant-sounding voice, he is often paid to narrate television commercials.
@@ -551,6 +599,8 @@
 
   =juvenile, immature, and lacking good judgment=
 
+  #+HTML: <img src="http://farm4.static.flickr.com/3640/3338977131_d320a83693.jpg"/>
+
   - After drinking too much alcohol, the celebrity made sophomoric comments that turned his fans against him.
   - The sophomoric humor in the movie only appeals to teenagers.
   - When Jason and Heather went out on dates, Jason often displayed sophomoric behaviors that really embarrassed Heather in front of her mature friends.
@@ -562,6 +612,8 @@
 * [[https://wordsinasentence.com/soporific-in-a-sentence/][Soporific]]
 
   =causing or tending to cause sleep=
+
+  #+HTML: <img src="http://assets.merriam-webster.com/mw/images/gallery/gal-wap-slideshow-slide/soporific-2438-202c77f202fd1a2488685a5036e8c694@1x.jpg"/>
 
   - The professor’s boring speech was soporific and had everyone in the audience yawning.
   - While alcohol is soporific and can help you sleep, it does not take away your problems.
@@ -584,6 +636,8 @@
 * [[https://wordsinasentence.com/specious-in-a-sentence/][Specious]]
 
   =seems correct or true, but actually wrong or false; deceptive=
+
+  #+HTML: <img src="https://classconnection.s3.amazonaws.com/313/flashcards/718497/png/specious.png"/>
 
   - The intruder tried to give the authorities a specious excuse regarding his presence in the building.
   - Although he could not deliver on them, the salesman made us several specious promises.

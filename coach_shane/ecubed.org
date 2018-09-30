@@ -3308,3 +3308,164 @@ Oh my god! A tiger!!
   Such a good kitty!
       Wow—Shane really has a way with animals!
 #+END_EXAMPLE
+
+
+
+* Give a shout out to ~
+
+#+BEGIN_EXAMPLE
+Welcome to the Podcast, Country Shane.
+  I love LME!! Lemme give a shout out to my mom!
+Respect your mother!
+  I love you, MOM!!
+#+END_EXAMPLE
+
+
+
+* to get cold feet
+
+#+BEGIN_EXAMPLE
+How was your date last night?
+  Oh...I didn't go.
+She canceled?
+  Actually...I didn't even call.
+You got cold feet!
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=w7zf0diXkiY&index=281&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][save it for a rainy day]]
+
+#+BEGIN_EXAMPLE
+Where are you going?
+  SHOPPING!!!
+You don't need anything.
+  Hello? It's fall. I need shoes!
+Save your money for a rainy day!
+  Ooh...rain boots~~ Thanks!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=3EPXuh5jlAE&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=282][trendy]]
+
+=fashion but sometimes showy=
+
+#+BEGIN_EXAMPLE
+I hate those guys.
+  Why? They're nice. They're cool.
+But they try to be so trendy.
+  Trendy's not bad! You don't have to hate~
+I hate trends! I wanna be me!
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=A3ICAVqDV-U&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=283][stay ahead of the game]]
+
+=have an advantage, do well in=
+
+#+BEGIN_EXAMPLE
+You are such a smart investor.
+  Well, I try to stay ahead of the game.
+But how? Do you know powerful people?
+  No! I watch business trends closely.
+#+END_EXAMPLE
+
+
+* pretty beat
+
+=very tired=
+
+#+BEGIN_EXAMPLE
+Let's play another game.
+  I'm pretty beat.
+You're tired from playing tic-tac-toe?
+  It takes lots of concentration!
+#+END_EXAMPLE
+
+
+* a crock
+
+=it is bullshit=
+
+#+BEGIN_EXAMPLE
+This site is a crock.
+  What's wrong?
+The lessons are boring, expensive and ZERO interaction.
+  You should join DDM.
+#+END_EXAMPLE
+
+
+#+HTML: <img src="http://www.crock-pot.com/on/demandware.static/-/Sites-master-catalog/default/dw8c9b92f6/images/highres/SCCPVI600-S-1.jpg"/>
+
+
+
+* [[https://www.youtube.com/watch?v=-_h9FMTte5Q&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=286][~ not carved in stone]]
+
+=not immutable=
+
+#+BEGIN_EXAMPLE
+How often are Shane's podcasts?
+  Every ten days.
+So...tomorrow's a new one!
+  Well, it's not carved in stone!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=jYVUx-7XCkA&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=287][one too many]]
+
+=do too much=
+
+#+BEGIN_EXAMPLE
+Are you angry.
+  Do you like Carol?
+No! She's just a friend.
+  You smiled at her one time too many!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=lvwJKzxRv5I&index=288&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][cut me some slack]]
+
+=give me a break=
+
+#+BEGIN_EXAMPLE
+I want you home by 10.
+  Alright, dad.
+And don't spend more than 20 bucks.
+  Cut me some slack, dad! I'll be good!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=-HBeDFFkLvY&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=289][to crack open]]
+
+#+BEGIN_EXAMPLE
+Who's smoking in there?
+  Me.
+Crack open the window, dirty man.
+  Sorry~
+#+END_EXAMPLE
+
+
+
+* to feel stifled
+
+=feel suffercated=
+
+#+BEGIN_EXAMPLE
+You look stressed.
+  Argh~ I feel so stifled in this office.
+Crack a window.
+  It's not enough. I need trees!!!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=uE4rUe7RDvk&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=291][to stifle something]]
+
+=to control=
+
+#+BEGIN_EXAMPLE
+I'm leaving you.
+  Why?
+You're stifling my emotions.
+  You can be emotional. But not too loud~ I've got a headache.
+#+END_EXAMPLE
