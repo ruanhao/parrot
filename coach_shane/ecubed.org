@@ -3449,7 +3449,7 @@ Crack open the window, dirty man.
 
 * to feel stifled
 
-=feel suffercated=
+=feel suffocated=
 
 #+BEGIN_EXAMPLE
 You look stressed.
@@ -3461,11 +3461,346 @@ Crack a window.
 
 * [[https://www.youtube.com/watch?v=uE4rUe7RDvk&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=291][to stifle something]]
 
-=to control=
 
 #+BEGIN_EXAMPLE
 I'm leaving you.
   Why?
 You're stifling my emotions.
   You can be emotional. But not too loud~ I've got a headache.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=xE-nE-rCo0M&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=292][a crook]]
+
+#+BEGIN_EXAMPLE
+Is that my book?
+  Yeah. I'm just borrowing it.
+Is that my pen?
+  Yeah. I needed that, too.
+You're a crook!
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=xxaCirDX4uI&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=293][Right off the bat.]]
+
+=immediately=
+
+#+BEGIN_EXAMPLE
+How was your English class?
+  Horrible!
+Why?
+  The teacher gave us a test right off the bat.
+#+END_EXAMPLE
+
+
+* food for thought
+
+=something you should give time to think about=
+
+#+BEGIN_EXAMPLE
+I really want to master English.
+  Are you studying a lot?
+Three days a week.
+  Here's some food for thought:
+  they say it takes 10,000 hours to master something.
+  how many hours have you invested?
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=uvzwP-4Y5cw&index=295&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to scramble]]
+
+=to hurry=
+
+#+BEGIN_EXAMPLE
+What are you doing Sergej?
+  I'm getting ready for FNL. Are you joining tonight?
+Yeah, in a few minutes.
+  You'd better scramble. It fills up fast. (fill up: 满员)
+#+END_EXAMPLE
+
+
+
+#+HTML: <img src="http://www.sporkorfoon.com/.a/6a00e5529a039488340120a82608da970b-800wi"/>
+
+
+* out of sight, out of mind
+
+=眼不见心不烦=
+
+#+BEGIN_EXAMPLE
+Are you okay since you broke up with Meg?
+  Oh, I'm okay.
+Is that her picture on your wall?
+  Yeah...it's nice~
+BURN IT! Out of sight, out of mind.
+#+END_EXAMPLE
+
+
+
+* It'll never fly
+
+#+BEGIN_EXAMPLE
+So, you want to open a restaurant that sells...
+  Bugs! They're so delicious.
+It'll never fly.
+  Why not? Have you ever eaten one?
+#+END_EXAMPLE
+
+
+* when pigs fly
+
+#+BEGIN_EXAMPLE
+Aren't you studying for the math test?
+  I'm pretty confident.
+But you skipped most of the classes.
+  I'll be fine.
+Yeah, when pigs fly.
+#+END_EXAMPLE
+
+
+* to pick someone's brain
+
+=ask someone for advice=
+
+#+BEGIN_EXAMPLE
+Any ideas on how to improve business?
+  No. We need someone to help us.
+Why don't we pick Jason's brain?
+  Jason? From IBM? Great idea!
+#+END_EXAMPLE
+
+
+
+* a train wreck
+
+=describe someone is very bad=
+
+#+BEGIN_EXAMPLE
+Justin Beiber was in trouble again.
+  The guy's a train wreck.
+That's what fame does.
+  No, that's what no discipline does.
+#+END_EXAMPLE
+
+
+
+* pushing up daisies
+
+#+BEGIN_EXAMPLE
+John's drinking and smoking again.
+  Yeah. He had a bad week.
+If he keeps that up, he'll be pushing up daisies.
+  How can we get him to stop?
+
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=CDV1FFR2ANc&index=302&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][out in the sticks]]
+
+=far away from city=
+
+#+BEGIN_EXAMPLE
+I heard Shane moved.
+  Yeah. He's out in the sticks now.
+How far out?
+  Far! He lives on a mountain with no neighbors!
+#+END_EXAMPLE
+
+
+* Spring forward (ahead), fall back.
+
+
+#+BEGIN_EXAMPLE
+You still didn't change this clock?
+Woops! Wait...is it 5 or 7?
+Spring forward, fall back!
+Thank you! That gives me another hour to prepare dinner.
+#+END_EXAMPLE
+
+#+HTML: <img src="http://www.adfinity.net/catalog/images/15585/021501%C2%A0Spring+forward%21+Clocks+get+set+ahead+one+hour+tonight%21+Daylight+Saving+Time+Facebook+meme.jpg"/>
+
+
+* How does that strike you?
+
+=what is your first impression=
+
+#+BEGIN_EXAMPLE
+How did Obama's recent comment strike you?
+  Which one?
+When he said "I'm really good at killing people".
+  What? He never said that. That'd be crazy~
+Look it up!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=OkNZaHVY8R0&index=305&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][A little too strange...]]
+
+
+#+BEGIN_EXAMPLE
+Do you like Lady Gaga's new song?
+  I don't think I've ever heard it.
+But it's everywhere. She's the greatest~
+  Eh~ She's a little too strange for me.
+#+END_EXAMPLE
+
+
+* It's raining cats and dogs.
+
+美国人基本不用这种说法
+
+#+BEGIN_EXAMPLE
+Hey, mom! How are you?
+  Who is this?
+Your son--Shane.
+  Oh. I'm fine.
+That's good! Why's it so loud there?
+  It's raining cats and dogs.
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=acRE8iJP2uc&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=307][back in the saddle]]
+
+
+#+BEGIN_EXAMPLE
+Hey, long time no see!
+  Yeah, I was super busy.
+It's good to see you exercising again.
+  Yes! I'm back in the saddle!
+#+END_EXAMPLE
+
+
+
+* all too much
+
+=overwhelming=
+
+#+BEGIN_EXAMPLE
+You shouldn't eat that, it's not healthy.
+  Okay...
+Don't use margarine, use butter. (人造牛油；玛琪琳；植物奶油)
+  Okay. This health stuff is all too much for me.
+#+END_EXAMPLE
+
+
+
+
+* [[https://www.youtube.com/watch?v=FpuGb1rz4mU&index=309&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][way too much, far too much, much too much]]
+
+#+BEGIN_EXAMPLE
+Hi! I brought you some apples!
+  Wow! Oh my...this is way too much.
+Make some pies. Make some sauce.
+  Wow~ But this is far too much for me. I live alone!
+#+END_EXAMPLE
+
+
+* a stroke of luck
+
+=pure luck=
+
+#+BEGIN_EXAMPLE
+How did you get such a perfect picture of a UFO?
+  It was a stroke of luck. I was trying to film the full moon...
+And the UFO just came into the shot?
+  Exactly! In and out in 2 seconds! Amazing, huh?
+#+END_EXAMPLE
+
+
+* to face the music
+
+=look at the truth, don't lie to yourself=
+
+#+BEGIN_EXAMPLE
+Shane, I think you should stop trying to be funny.
+  But, maybe I should make more funny laughs...
+NO! It's time to face the music. You're not funny.
+  But...but...but...
+NO BUTS!
+#+END_EXAMPLE
+
+
+
+* top it off
+
+#+BEGIN_EXAMPLE
+Dad, can I use your car tonight.
+  No.
+If I wash it and top it off with gas?
+  No.
+But I promise to...
+  NO ifs, ands or buts. No car.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=pceK0sQD_3I&index=313&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][grueling]]
+
+#+BEGIN_EXAMPLE
+I had a grueling workout today.
+  Great! What'd you work on?
+Biceps. Look at these, huh?
+  Hmm... You need some more work!
+#+END_EXAMPLE
+
+
+* a mooch
+
+=someone who takes your thing without asking=
+
+#+BEGIN_EXAMPLE
+Where'd you get Doritos?
+  By the microwave.
+Those are my Doritos, you mooch.
+  Those were your Doritos. Thanks.
+Stop mooching off me!
+  Honey—you're my wife!!! Ow~~
+#+END_EXAMPLE
+
+
+* to beat around the bush
+
+#+BEGIN_EXAMPLE
+Are you busy tomorrow?
+  No. Why?
+Just wondered. Do you like movies?
+  Yeah. Why?
+Just wondering.
+  Quit beating around the bush.
+#+END_EXAMPLE
+
+
+* to butter someone up
+
+#+BEGIN_EXAMPLE
+Shane, you are so smart.
+  Well, my IQ is 84^^
+Wow! And you look SO young.
+  Hey, are you trying to butter me up?
+No! I would never do that~~
+  Okay. Continue^^
+#+END_EXAMPLE
+
+
+* to give someone a boost
+
+=make someone feel happy=
+
+#+BEGIN_EXAMPLE
+What are you reading?
+  Tony Robbins.
+The self-help guy?
+  Yeah! Reading his stuff always gives me a boost!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=JLTUpvdeQjg&index=318&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to knock yourself out]]
+
+=help yourself=
+
+#+BEGIN_EXAMPLE
+Ooh! Cookies^^
+  Knock yourself out.
+Really?
+  Yeah! I've got more in the oven^^
 #+END_EXAMPLE
