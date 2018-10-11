@@ -3804,3 +3804,66 @@ Ooh! Cookies^^
 Really?
   Yeah! I've got more in the oven^^
 #+END_EXAMPLE
+
+
+* knock yourself out
+
+=exert yourself, work so hard=
+
+#+BEGIN_EXAMPLE
+I'll give you a ride to the airport tomorrow.
+  No! Don't knock yourself out!
+It's no problem. I'm going near there anyway.
+  Oh! Wonderful, then!
+#+END_EXAMPLE
+
+
+* tough it out
+
+=endure difficult situation=
+
+#+BEGIN_EXAMPLE
+It's so cold. Turn on the gas.
+  No. Gas is expensive.
+But this wood burning stove is not enough.
+  Tough it out! Be a man!
+I'm a woman!
+  Same thing! Be a woMAN!!
+#+END_EXAMPLE
+
+
+* butt out
+
+=走开，没你啥事=
+
+#+BEGIN_EXAMPLE
+What are you guys talking about?
+  Butt out.
+Come on. Tell me.
+  Butt out! This isn't about you.
+#+END_EXAMPLE
+
+
+
+* to belt out a song
+
+=sing a song loud=
+
+#+BEGIN_EXAMPLE
+Hey, you can really belt out a tune!
+  Come on~ Everyone can sing Jingle Bells!
+Yeah, but you were really jazzy!
+  Well, thanks^^
+#+END_EXAMPLE
+
+
+* holiday season
+
+* a stickler
+
+#+BEGIN_EXAMPLE
+How fast are you going now?
+  103 km/hr exactly.
+Better slow down to a hundred.
+  Man~ You're such a stickler to the rules.
+#+END_EXAMPLE
