@@ -3806,7 +3806,7 @@ Really?
 #+END_EXAMPLE
 
 
-* knock yourself out
+* knock yourself out (PART II)
 
 =exert yourself, work so hard=
 
@@ -3832,7 +3832,7 @@ I'm a woman!
 #+END_EXAMPLE
 
 
-* butt out
+* [[https://www.youtube.com/watch?v=yoSzRsRyLDE&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=321][butt out]]
 
 =走开，没你啥事=
 
@@ -3845,7 +3845,7 @@ Come on. Tell me.
 
 
 
-* to belt out a song
+* [[https://www.youtube.com/watch?v=sZCecqGcSTs&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=322][to belt out a song]]
 
 =sing a song loud=
 
@@ -3857,13 +3857,104 @@ Yeah, but you were really jazzy!
 #+END_EXAMPLE
 
 
-* holiday season
+* [[https://www.youtube.com/watch?v=ZQmq_CP2Iug&index=323&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][holiday season]]
 
-* a stickler
+#+BEGIN_EXAMPLE
+Are you doing anything this holiday season?
+  Visiting grandma! You?
+Same with us!
+  Have a happy holidays!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=jxCWdU_EYXo&index=324&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Bah! Humbug!]]
+
+=ridiculous, nonsense=
+
+#+BEGIN_EXAMPLE
+Are you looking forward to Christmas?
+  Bah! Humbug!
+Oh, come on! Santa won't like that!
+  Bah! HUMBUG! There is no Santa.
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=h2_4MOofzIY&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=325][holiday cheer]]
+
+#+BEGIN_EXAMPLE
+Shane, belt out some holiday cheer!
+  I'm not in the mood.
+Come on, Scrooge! (小气鬼)
+  Bah! Humbug!
+#+END_EXAMPLE
+
+
+
+* R.I.P.  (Rest In Peace)
+
+#+BEGIN_EXAMPLE
+Did you hear the news?
+  What?
+Nelson Mandela died.
+  Aw, what a shame. He did great things. May he rest in peace~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=DNHzrWg6Pmk&index=327&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][a stickler]]
+
 
 #+BEGIN_EXAMPLE
 How fast are you going now?
   103 km/hr exactly.
 Better slow down to a hundred.
   Man~ You're such a stickler to the rules.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=13QYnLN6AlA&index=328&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][zip it]]
+
+=shut up=
+
+#+BEGIN_EXAMPLE
+I think your idea is terrible.
+  Be quiet.
+It's all wrong!
+  Zip it!
+You don't know...
+  QUIET!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=HumSKZ87inM&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=329][to get duped]]
+
+=get tricked=
+
+#+BEGIN_EXAMPLE
+So, were you able to recover your file?
+  No. It's gone forever.
+But you bought that software online~
+  I got duped!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=YDdJ2bGzCPg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=330][a stepping stone]]
+
+#+BEGIN_EXAMPLE
+I'm thinking about joining DDM.
+  Great! Have you tried DD?
+No, what's that?
+  It's the perfect stepping stone to DDM.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=UW8480bsbv8&index=331&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][trash it]]
+
+=dump it=
+
+#+BEGIN_EXAMPLE
+Are you gonna keep this CD?
+  Trash it.
+It's unopened!
+  I don't like the singer!
 #+END_EXAMPLE
