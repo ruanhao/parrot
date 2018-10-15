@@ -3958,3 +3958,329 @@ Are you gonna keep this CD?
 It's unopened!
   I don't like the singer!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=uyQNv00ZNd4&index=332&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to throw a party]]
+
+#+BEGIN_EXAMPLE
+Are you gonna throw a party?
+  For what?
+It's your birthday!
+  I'm too old for parties!!
+#+END_EXAMPLE
+
+
+* a grand
+
+=1000 dollars=
+
+#+BEGIN_EXAMPLE
+What's the rent on this place?
+  A grand.
+That's pretty expensive.
+  Well, it's a really nice place.
+#+END_EXAMPLE
+
+
+* steep
+
+=very much expensive=
+
+#+BEGIN_EXAMPLE
+How's the new program working.
+  Perfectly!
+How much did you pay?
+  A grand.
+Wow!! That's pretty steep.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=QgKTIMPIIio&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=335][up and about]]
+
+=awake=
+
+#+BEGIN_EXAMPLE
+John! You're back!!
+  Yes. I'm completely recovered.
+Good to see you up and about.
+  It's good to be back.
+#+END_EXAMPLE
+
+
+
+* on the sly
+
+=do something not good secretly=
+
+#+BEGIN_EXAMPLE
+Your weight is the same.
+  I know doctor. I can't lose weight.
+Have you been eating sweets on the sly?
+  Uh...well...no. Um, well...
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=0HVEMzcZMXE&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=337][to take it out on somebody]]
+
+=出气=
+
+#+BEGIN_EXAMPLE
+I'm sorry I took it out on you.
+  You always do!
+I'm sorry. My dad made me so mad.
+  Try and remember that I'm not your dad.
+#+END_EXAMPLE
+
+
+* litterbugs
+
+#+BEGIN_EXAMPLE
+Hey! Litterbug.
+  Huh? Oh, it's just a cigarette butt.
+Use your pocket!
+  Sorry~
+#+END_EXAMPLE
+
+
+#+HTML: <img src="http://www.ways2gogreenblog.com/wp-content/uploads/2009/08/litterbug.jpg"/>
+
+
+* [[https://www.youtube.com/watch?v=nn6jQx6CKZA&index=339&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Starting is half the battle]]
+
+#+BEGIN_EXAMPLE
+How can I master English?
+  Did you start DDM?
+Ugh... Isn't it too difficult?
+  Hey—starting is half the battle. You'll be fine.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=KriRY799V58&index=340&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Kudos]]
+
+=congradulation/show respect=
+
+#+BEGIN_EXAMPLE
+Did you sign up for the free DDM lectures?
+  Yes, I finally did!
+Kudos to you!
+  Thanks! Thanks for telling me about it!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=7aOfifK_k7I&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=341][snubbed]]
+
+=ignored=
+
+#+BEGIN_EXAMPLE
+And the Oscar goes to Tom Hanks!
+  I can't believe they snubbed you.
+I knew I wouldn't win.
+  But your acting in E-cubed is the GREATEST!
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=nJHWXYWmWdI&index=342&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][That figures]]
+
+=that makes sense=
+
+#+BEGIN_EXAMPLE
+Shane got stuck on the mountain.
+  That figures.
+Why?
+  If it snowed down here, it must have snowed a lot more up there.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=IAtFFaPltM8&index=343&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Go figure~]]
+
+=that's weird/crazy=
+
+#+BEGIN_EXAMPLE
+So, you don't like carrots, but you like carrot cake?
+  Yep.
+And you love tomato soup, but you hate tomatoes?
+  Yeah.
+Huh...go figure~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=4--llNSIvKU&index=344&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][nagging]]
+
+#+BEGIN_EXAMPLE
+Wash your hands before eating.
+  I will.
+And clean under your fingernails.
+  I will.
+And use soap!
+  I will! Stop nagging me~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=t4TDdG0sSR4&index=345&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][blow off steam]]
+
+=to vent=
+
+#+BEGIN_EXAMPLE
+And another thing--stop playing games all night.
+  Stop nagging me!
+Where are you going? I'm talking to you!
+  I gotta go blow off some steam~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ktPPvuBHemk&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=346][bogged down]]
+
+=over burdened=
+
+#+BEGIN_EXAMPLE
+Why didn't you text me back?
+  I'm sorry, I was busy.
+Didn't you see it?
+  I did, but I was SO bogged down at that time.
+You don't love me?
+  Ugh~~~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=qnHYSMNLjbc&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=347][a loose cannon]]
+
+=someone who is easily got angry=
+
+#+BEGIN_EXAMPLE
+Shane's videos are so stupid.
+  Don't tell him that.
+Why? What's he gonna do?
+  He'll punch you! He's a loose cannon.
+Ooh~ I'm so scared~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=PyNUBsrCxfc&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=348][He can hold his own.]]
+
+=喝酒很会把握分寸=
+
+#+BEGIN_EXAMPLE
+Look at that guy. Still drinking.
+  And he's fine!
+He can hold his own.
+  How many beers is that?
+That's his 23rd can of beer!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=9auXLAI_wRw&index=349&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Back at you]]
+
+=彼此彼此=
+
+#+BEGIN_EXAMPLE
+2 more days left in 2013!
+  Yes! I'm glad!
+Happy New Year!
+  Back at you!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Wq7n7rH8uRk&index=350&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Same to you]]
+
+#+BEGIN_EXAMPLE
+Have you made any resolutions?
+  I'm gonna run a marathon in 2014! You?
+I'm gonna master English! Good luck to you!
+  Same to you^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=rjbc-57GChs&index=351&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Back to you]]
+
+#+BEGIN_EXAMPLE
+How is the celebration in Time Square?
+  Still thousands of people!
+It's so noisy!
+  Yes! Too noisy! Back to you!
+Okay, we'll have more later from Time Square.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=gv1Z-h92o0Q&index=352&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][standing in my way]]
+
+#+BEGIN_EXAMPLE
+You should focus on English.
+  I know. But...
+What's standing in your way?
+  I don't have time!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=-3eA_UkEicE&index=353&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][More power to you]]
+
+=good job (used to give courage)=
+
+#+BEGIN_EXAMPLE
+I've really reduced my smoking!
+  How many today?
+9!
+  Great! More power to you!
+#+END_EXAMPLE
+
+
+
+* industrious
+
+#+BEGIN_EXAMPLE
+Wow! Did you clean your room?
+  Yep. And I did the dishes.
+Great.
+  And I folded the clothes!
+You are so industrious!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=b13EBnZaPTk&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=355][to dwell on something]]
+
+=constantly thinking/talk about something=
+
+#+BEGIN_EXAMPLE
+The boss is always dwelling on the importance of coming in early.
+  Yeah, but he's the first to fall asleep at his desk!
+He thinks he's so industrious.
+  I get more done in one day than he does all week~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=U4JpKArQr4c&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=356][to give a holler]]
+
+=call me if you need help=
+
+#+BEGIN_EXAMPLE
+I heard you're moving next week.
+  Yes! I'm excited.
+Well, give me a holler if you need any help!
+  Thanks, John. I will^^
+#+END_EXAMPLE
+
+
+* Yikes
+
+=omg=
+
+#+BEGIN_EXAMPLE
+Shane, I want you to give the opening speech.
+  Oh, okay. How long should it be?
+60 minutes.
+  Yikes! Um, how many people will be there?
+Around 600.
+  Yikes!!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=0EXiFG1S7gU&index=358&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][asking]]
+
+#+BEGIN_EXAMPLE
+Look at this sweater.
+  Nice. Is it wool?
+100%. It's beautiful.
+  What are they asking?
+Only 300 dollars!
+  Yikes!
+#+END_EXAMPLE
