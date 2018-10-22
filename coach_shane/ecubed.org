@@ -4284,3 +4284,174 @@ Look at this sweater.
 Only 300 dollars!
   Yikes!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=mbcjg8o6eis&index=359&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][it didn't pan out,to pan sb]]
+
+=success=
+
+#+BEGIN_EXAMPLE
+Did you get that car you were talking about?
+  No. It didn't pan out.
+What happened?
+  The guy was asking too much.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=jD8s0Xx434U&index=360&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to mold A into B]]
+
+#+BEGIN_EXAMPLE
+Why do you teach English?
+  I coach students to be masters of English.
+Why?
+  So that they can change their world. I want to mold global leaders in every part of the world.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ZW0dIK7Tzd8&index=361&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to dazzle]]
+
+=shining, exciting=
+
+#+BEGIN_EXAMPLE
+How was Vegas?
+  The hotels were quite nice.
+Did you see any shows?
+  There was a magic show that really dazzled me!
+Which one?
+  Mac King. He's at Harrah's.
+#+END_EXAMPLE
+
+
+
+* to break even
+
+=盈利=
+
+#+BEGIN_EXAMPLE
+What kind of business do you want to start?
+  I want to sell ice cream!
+But...this is Alaska.
+  Everyone loves ice cream!
+You'll never break even.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ilBSGvKFbuM&index=363&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to be in its infancy]]
+
+#+BEGIN_EXAMPLE
+How's your new company going?
+  Nicely. We're still in our infancy.
+Have you broke even?
+  Not yet. Maybe in 6 months.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=2Lkz4poBf3w&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=364][to be washed up]]
+
+=not good any more=
+
+#+BEGIN_EXAMPLE
+Shane, why don't you sing again?
+  I'm too old.
+But you were SO excellent!
+  That's was a long time ago. I'm all washed up now~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=wwGopSrcinE&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=365][to fall flat]]
+
+=very disappointed=
+
+#+BEGIN_EXAMPLE
+Boy, that movie really fell flat.
+  Yeah~ What a waste of money.
+Let's go watch some Seinfeld.
+  Good idea!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Kfy1rprbEBI&index=366&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to swerve]]
+
+#+BEGIN_EXAMPLE
+Why'd that guy swerve?
+  Look out!
+Oh...a dog!
+  Oh, that's SO dangerous. Let's drive slowly~
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=UZVb3zjzUkg&index=367&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][a Sunday driver]]
+
+=drive slowly=
+
+#+BEGIN_EXAMPLE
+Come on.
+  Relax. We've got time.
+I hate these Sunday drivers.
+  Relax! Don't cause an accident.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=NAhwyPEKVs8&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=368][to run ragged]]
+
+=very busy=
+
+#+BEGIN_EXAMPLE
+My new schedule is running me ragged.
+  Pretty tough?
+I'm busy from 7am to 7pm non-stop!
+  Wow! Don't work too hard~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Iqx78CLt21s&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=369][to be engaged]]
+
+#+BEGIN_EXAMPLE
+Why do you like Coach Shane's English lessons?
+  He keeps me engaged.
+What? You're getting married to Coach Shane?! WOW!!!
+  No! He keeps me interested!!!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Hg7DSWip2ec&index=370&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to nip it in the bud]]
+
+#+BEGIN_EXAMPLE
+I think I'm gonna get that Caramel Macchiato. That was really good yesterday.
+  No, you better nip that in the bud?
+Why?
+  You'll get addicted! All that sugar~ Stay away or you'll get fat.
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=8zu3vZU5EDI&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=371][First World problems]]
+
+#+BEGIN_EXAMPLE
+Look at this! My coffee's only 4/5ths full!
+  First world problems...
+Well, it's true! I paid for a full cup!
+  At least you have the luxury of buying gourmet coffee!
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=aiCbTWCJjBQ&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=372][a retrospective]]
+
+#+BEGIN_EXAMPLE
+Are you going to Picasso's retrospective?
+  Where is it?
+At MoMA (museum of modern art). I'm going on Friday.
+  Great. I'd love to go with you.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=JWFb-orh8kg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=373][to cut in line]]
+
+#+BEGIN_EXAMPLE
+Uh, did you just cut in line?
+  Oh, there's a line here?
+Yeah! The end of the line is way back there.
+  Oh...sorry~
+#+END_EXAMPLE
