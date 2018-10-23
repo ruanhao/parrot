@@ -6,6 +6,8 @@
 
 ## [长难句](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/reading.html)
 
+## [Ecubed](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/coach_shane/ecubed.html)
+
 ## Ruby
 [A](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/A.html)
 [B](https://nbviewer.jupyter.org/github/ruanhao/parrot/blob/master/ruby/B.html)

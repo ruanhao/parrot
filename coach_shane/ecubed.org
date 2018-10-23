@@ -4455,3 +4455,56 @@ Uh, did you just cut in line?
 Yeah! The end of the line is way back there.
   Oh...sorry~
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=MnPhiEMbmIw&index=374&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Save my spot!]]
+
+#+BEGIN_EXAMPLE
+Are you okay?
+  Oh man...I've really gotta go to the bathroom. Could you save my spot?
+Sure, no problem.
+  Oh, thanks. I'll be back quick!
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=mPSCouBw2PM&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=375][to be thick-skinned (tough-skinned)]]
+
+#+BEGIN_EXAMPLE
+My professor is SO mean to me. He always criticizes my writing.
+  You need to be more thick-skinned.
+But he NEVER likes my work.
+  He's making you a better writer. Don't get emotional.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Py36uxkBbkQ&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=376][nerd versus geek]]
+
+#+BEGIN_EXAMPLE
+John is such a nerd.
+  No, he's more of a geek.
+What's the difference?
+  John is overly confident and extroverted!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=aL6-43JYlJc&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=377][a sticky situation]]
+
+#+BEGIN_EXAMPLE
+I think I saw Becky's boyfriend with another woman.
+  Are you sure?
+Yeah...he was kissing her.
+  Oh my god! Did you tell Becky, yet?
+No! This is a very sticky situation. The woman was Becky's roommate!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=BLFgmGxbmLY&index=378&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][no pun intended]]
+
+#+BEGIN_EXAMPLE
+Oh no!
+  What happened?
+I spilled maple syrup on my keyboard!!!
+  Ooh—now that's a sticky situation. No pun intended~
+Ha-ha-ha~~
+#+END_EXAMPLE
