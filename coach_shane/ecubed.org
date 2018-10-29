@@ -5039,3 +5039,60 @@ George cracks me up.
 I know. That's what's so funny.
   Well, I think he's a jerk.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=4m7xV0TVU5Y&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=426&pbjreload=10][put your best foot forward]]
+
+=give a positive position=
+
+#+BEGIN_EXAMPLE
+My first day is tomorrow.
+  Well, put your best foot forward!
+I'll do my best.
+  I'm sure you'll do just fine!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=c0UGpG5Qgoo&index=427&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][head over heels]]
+
+=神魂颠倒=
+
+#+BEGIN_EXAMPLE
+What do you think?
+  Oh, I'm head over heels!
+You like it?
+  It's the perfect car! I'll take it!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=bqGuEF-v_hY&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=428][to bail on somebody]]
+
+#+BEGIN_EXAMPLE
+Is Jim helping you with your English?
+  He bailed on me.
+What happened?
+  As soon as we started, his girlfriend called.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=9ZBIIY-LuK8&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=429][a can-do attitude]]
+
+#+BEGIN_EXAMPLE
+English is so hard~
+  Come on! It's not that bad.
+It is. I don't wanna study English~
+  Hey! You need to have a can-do attitude.
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=3KbJlMQchKE&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=430][slow jam]]
+
+=慢即兴演奏=
+
+#+BEGIN_EXAMPLE
+What's your favorite slow jam?
+  Oh...so many. Um, Let's Stay Together.
+By who?
+  Al Green. It's a classic.
+#+END_EXAMPLE
