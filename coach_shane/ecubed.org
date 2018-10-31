@@ -5096,3 +5096,98 @@ What's your favorite slow jam?
 By who?
   Al Green. It's a classic.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=14tulHv53x4&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=431&pbjreload=10][before my time]]
+
+#+BEGIN_EXAMPLE
+I heard you like Al Green!
+  Yeah, so?
+Isn't that a little before your time?
+  It is, but his music is timeless.
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=_qd3Lj-Uum8&index=432&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][all that jazz]]
+
+=etc=
+
+#+BEGIN_EXAMPLE
+How's DDM?
+  It's a lot of fun. Never boring.
+What do you learn?
+  Pronunciation, how to speak, how to listen, all that jazz!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=GAoK2_F_OWE&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=433][give me some feedback]]
+
+#+BEGIN_EXAMPLE
+Would you have a look at my resume?
+  Sure.
+I need some feedback.
+  No problem. Send me an email.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=pKguT_DFPsU&index=434&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][What's your take?]]
+
+#+BEGIN_EXAMPLE
+What's your take on recycling?
+  It's essential.
+How's America's recycling?
+  Where I live-it's horrible.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=NIvIrgOVeOA&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=435][clear your head]]
+
+#+BEGIN_EXAMPLE
+Where are you going?
+  I'm too stressed out. I need to clear my head.
+Will you be back?
+  After a while~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=1r55sWoae0I&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=436][creep me out]]
+
+#+BEGIN_EXAMPLE
+Robots creep me out.
+  I love robots! Spiders creep me out.
+But you can kill a spider! A robot could kill you!!
+  Hmm... Good point!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=HcR5dOyYzhM&index=437&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][don't jump the gun]]
+
+#+BEGIN_EXAMPLE
+My garden is ruined.
+  I told you not to jump the gun.
+But it was so warm last week.
+  Yeah! And snow this week! May is month to plant~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=rhFpsB2G1Q8&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=438][in a heartbeat]]
+
+=do something quickly=
+
+#+BEGIN_EXAMPLE
+I hate my job.
+  Google's hiring.
+Oh, I'd take a job there in a heartbeat.
+  Yeah, but would they take you?
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=iFJuWAM123w&index=439&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][a slew of something]]
+
+#+BEGIN_EXAMPLE
+What are you doing?
+  Watching Coach Shane's videos.
+Does he have a lot?
+  A slew!! Hundreds of videos! All free!
+#+END_EXAMPLE
