@@ -5,15 +5,8 @@
 #+LINK_HOME: http://www.github.com/ruanhao
 #+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
 #+STARTUP:   showall
-#+TOC:       headlines 3
 #+HTML_DOCTYPE: <!DOCTYPE html>
-#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
-#+HTML_HEAD: <link href="../org-html-themes/css/style.css" rel="stylesheet" type="text/css" />
- #+HTML: <div class="outline-2" id="meta">
-| Author   | {{{author}}} ({{{email}}})    |
-| Date     | {{{time(%Y-%m-%d %H:%M:%S)}}} |
-#+HTML: </div>
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css"/>
 
 * How are you doing?
 
@@ -5518,4 +5511,59 @@ How's the homework coming along?
   It's almost done.
 It has to be done before you meet your friends.
   Don't worry. It'll be done.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Vi8Ns0PA6Xs&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=469][crucial]]
+
+#+BEGIN_EXAMPLE
+Cake! I'm gonna share it with Rex!
+  It's crucial that you don't let Rex eat this cake.
+Why not? He loves all desserts.
+  But this is chocolate. Chocolate can kill dogs.
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=JuvYgnFMB5M&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=470][to breathe over someone's shoulder]]
+
+#+BEGIN_EXAMPLE
+Tim is constantly breathing over your shoulder!
+  I know. He's really nervous about the report.
+How's it going?
+  It's almost finished.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=JIYAvpWsHTQ&index=471&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][in the shop]]
+
+=repair shop, body shop, ...=
+
+#+BEGIN_EXAMPLE
+Did you walk here?
+  Yeah. My car's in the shop.
+What happened?
+  I don't know. Something's wrong with the engine.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=jOHL5NJcMTo&index=472&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][a dish]]
+
+#+BEGIN_EXAMPLE
+What's that?
+  This is a great veggie dish to make your body stronger.
+Is that kimchi? You made it?
+  Well, I opened the package^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=BD_wUy7FQts&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=473][pizzazz]]
+
+=make it more interesting=
+
+#+BEGIN_EXAMPLE
+How's the stew.
+  It's okay. A little bland.
+Argh~~ I should've added cumin.
+  Yeah. That would've given it some pizzazz!
 #+END_EXAMPLE
