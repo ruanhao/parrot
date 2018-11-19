@@ -5567,3 +5567,81 @@ How's the stew.
 Argh~~ I should've added cumin.
   Yeah. That would've given it some pizzazz!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=o0sEu1Gmc9I&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=474][to dabble in ~]]
+
+=to play with=
+
+#+BEGIN_EXAMPLE
+Would you help me write this sales letter?
+  Me? Why me?
+I know you've dabbled in writing in the past.
+  Yeah, but that was poetry! Not business stuff!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=DqfMGCXW7nw&index=475&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to be slapped with a fine]]
+
+#+BEGIN_EXAMPLE
+You're late.
+  I'm sorry. I made an illegal U-turn.
+Did they let you go?
+  No! I got slapped with a fine.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=nTOYY0TDSH0&index=476&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to sneeze at something]]
+
+#+BEGIN_EXAMPLE
+Shane is an English teacher! Ha!
+  Why?
+He's American. They speak American, not English.
+  Don't sneeze at American English!!
+#+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=ZEMrsfzx4vY&index=477&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][two-faced]]
+
+#+BEGIN_EXAMPLE
+Oprah's on. I love her!
+  Turn it off.
+Why? She's the greatest!
+  She's two-faced. On TV she seems nice, but I've heard in person...whoo!
+#+END_EXAMPLE
+
+constipated face:
+
+#+HTML: <img src="https://steemitimages.com/p/3W72119s5BjWMGm4Xa2MvD5AT2bJsSA8F9WeC71v1s1fKfGkK9mMKuc3LcvF4KigbWg9UsrpEPGGEnt9MQ4aErNBsdVzkoafeXwnzkTtynrMrmDwZUEtv2?format=match&mode=fit"/>
+
+* [[https://www.youtube.com/watch?v=OpX9FHEGb-g&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=478][tick off]]
+
+=angry=
+
+#+BEGIN_EXAMPLE
+What's wrong with John?
+  Eric ticked him off.
+Again?
+  Eric keeps bothering him about smoking.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Y-QdzbZCtVg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=479][in a rut]]
+
+#+BEGIN_EXAMPLE
+You don't look so happy.
+  I'm in a rut.
+Take a break from work.
+  Yeah, maybe a week off would help.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=uv9eQFINzK4&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=480][opposites attract]]
+
+#+BEGIN_EXAMPLE
+Do you think opposites attract?
+  Maybe at first.
+Yeah! I agree.
+  If two people are too different, I don't think a relationship will work.
+#+END_EXAMPLE
