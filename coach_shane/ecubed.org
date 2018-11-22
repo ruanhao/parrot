@@ -5645,3 +5645,33 @@ Do you think opposites attract?
 Yeah! I agree.
   If two people are too different, I don't think a relationship will work.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=2LvTEsbcqqw&index=481&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][What keeps you up at night?]]
+
+#+BEGIN_EXAMPLE
+You always look so happy!
+  Yeah, thanks. But you... What keeps you up at night?
+Oh, everything! My job, my bills...money!
+  I wish I could help~~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=S5OTDaju4Ys&index=482&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][a bad omen]]
+
+#+BEGIN_EXAMPLE
+It's 11 at night and still 40 out.
+  This is a bad omen.
+I know. We're gonna die in this heat.
+  Thank god we have A/C.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=viHqC9OxanU&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=483][kerfuffle]]
+
+#+BEGIN_EXAMPLE
+What's all the kerfuffle about?
+  The lady in 407 has an alligator!
+What? That's crazy!
+  I know, but she says it's her pet.
+#+END_EXAMPLE
