@@ -5675,3 +5675,53 @@ What's all the kerfuffle about?
 What? That's crazy!
   I know, but she says it's her pet.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=020qrSqCdtM&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=484][My gut tells me...]]
+
+#+BEGIN_EXAMPLE
+Let's go back home.
+  No, let's stay some more.
+Two hours and not a bite.
+  My gut tells me the fish are getting hungry~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=2Gci18fiZCI&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=485][turn over a new leaf]]
+
+#+BEGIN_EXAMPLE
+Is that tea?
+  Yeah. No more coffee for me.
+You stopped drinking beer, too! Did you turn over a new leaf?
+  Yeah! I'm trying to be more healthy.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=q57MYaCaRPE&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=486][constructive criticism]]
+
+#+BEGIN_EXAMPLE
+What's wrong?
+  This guy said my video was bad.
+Did he say why?
+  No! At least give me some constructive criticism if you're gonna say that~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=1Y4XG04w7t4&index=487&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Sounds about right]]
+
+#+BEGIN_EXAMPLE
+How much longer?
+  About 60 miles.
+So, we should get there around 3?
+  Sounds about right.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=mS0B1jbY4T4&index=488&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][To be after something]]
+
+#+BEGIN_EXAMPLE
+What are you after in life?
+  Fame. I wanna be famous!
+What are you after?
+  Money. I wanna be rich!
+#+END_EXAMPLE
