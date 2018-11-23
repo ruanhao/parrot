@@ -5725,3 +5725,130 @@ What are you after in life?
 What are you after?
   Money. I wanna be rich!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=mU1Vunj9n-U&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=489][to gloss over something]]
+
+#+BEGIN_EXAMPLE
+Don't gloss over your pronunciation rules.
+  I go too quickly?
+Yes. Explain them clearly.
+  Okay. I just thought everyone knew them.
+#+END_EXAMPLE
+
+gloss:
+
+#+HTML: <img src="https://limecrime-weblinc.netdna-ssl.com/product_images/extra-poppin/Extra%20Poppin/5af0f9746170702f87003e79/zoom.jpg?c=1525741940"/>
+
+
+* [[https://www.youtube.com/watch?v=-Zig5a6mZ5E&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=490][to be fresh out of something]]
+
+#+BEGIN_EXAMPLE
+I'm going to the store.
+  Great. We're fresh out of milk.
+Anything else?
+  We could use some sugar. And lettuce, too.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=5Rx2tc_Whtc&index=491&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][I could use (something to drink/eat)]]
+
+#+BEGIN_EXAMPLE
+Can I get you anything?
+  I could use a coffee.
+Milk and sugar?
+  Black, please.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=n2VvIEcIFkw&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=492][The devil is in the details.]]
+
+#+BEGIN_EXAMPLE
+Your scholarship application is great, but...
+  But what?
+Pat Smith is a Mrs. not a Mr.
+  Oh my god...
+The devil is in the details~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=NVXjIsllzmU&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=493][Who's your money on?]]
+
+#+BEGIN_EXAMPLE
+The World Cup has begun!
+  Who's your money on?
+Brazil, man. Home-field advantage.
+  Spain's the defending champs!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=lh197XbDl6E&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=494][the refs]]
+
+#+BEGIN_EXAMPLE
+This World Cup is gonna be hi-tech.
+  How so?
+They're using goal-line technology.
+  So the refs won't miss any goals.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=eBzjt7aG2pk&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=495][Dutch, Holland, Netherlands]]
+
+#+BEGIN_EXAMPLE
+Where are you from?
+  The Netherlands.
+Oh, Holland, right?
+  Well, Holland is actually just an area of the Netherlands.
+Oh. But you're Dutch, right?
+  No. I'm Frisian. A different ethnic group.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=BkssZOpIBUM&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=496][to crash]]
+
+#+BEGIN_EXAMPLE
+I'm starting to crash.
+  How long have you been working?
+I started working at 6AM. 15 hours.
+  Yeah. You need to get some rest, bud!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=IflGJFlKwH4&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=497][tear around/through]]
+
+#+BEGIN_EXAMPLE
+What was that?
+  The cat's tearing around the house.
+He broke my lamp!
+  But he's so cute^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=2zoQFfFaOFA&index=498&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to be stoked]]
+
+#+BEGIN_EXAMPLE
+Wow! 500 E-cubed lessons!
+  That's a lot, huh?
+Yes! You must be exhausted!
+  No way! I'm stoked! 500 more!!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=d00xSChFswg&index=499&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][dead broke/tired]]
+
+#+BEGIN_EXAMPLE
+Did you hear what Hillary Clinton said?
+  Now what?
+After Bill retired as president, they were dead broke!
+  What? Dead broke! Tell her to come live with us! She'll see dead broke!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=iLXuxhk38aQ&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=500][bursting at the seams]]
+
+#+BEGIN_EXAMPLE
+Did you like it?
+  That was the best spaghetti ever!
+You want a bit more!
+  No! I'm already bursting at the seams^^
+#+END_EXAMPLE
