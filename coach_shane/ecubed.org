@@ -5852,3 +5852,93 @@ Did you like it?
 You want a bit more!
   No! I'm already bursting at the seams^^
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=PiSUTAQwKCA&index=501&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to bow out]]
+
+=quit politely=
+
+#+BEGIN_EXAMPLE
+I heard your marathon is tomorrow.
+  Yeah, but I had to bow out.
+What? Why?
+  My knee went out. I can't run.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=zdKbgsztCFw&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=502][pass it on/along]]
+
+=spread secretly=
+
+#+BEGIN_EXAMPLE
+Hey, Brian's birthday is Friday.
+  Oh.
+We're gonna have a surprise birthday party for him. Pass it along.
+  You bet.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=uoe3GDw46mg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=503][mum's the word]]
+
+=keep it secret=
+
+#+BEGIN_EXAMPLE
+We're having a surprise birthday party for Brian on Friday.
+  Awesome.
+Mum's the word, okay?
+  Got it.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=mWVbh8XUTzI&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=504][my lips are sealed]]
+
+#+BEGIN_EXAMPLE
+Ryan's birthday party is Friday. It's a secret.
+  You mean Brian?
+Oh, yeah. Brian. It's a secret.
+  My lips are sealed.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=gDIcAtGTZd0&index=505&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][a nail-biter]]
+
+#+BEGIN_EXAMPLE
+Did you see the Greece-Ivory Coast match?
+  Yes!
+That was a nail-biter!
+  I'm loving these lesser-known teams!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=lkD78lmgUmU&index=506&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][You name it.]]
+
+=you decide=
+
+#+BEGIN_EXAMPLE
+You wanna name my cat?
+  No! You name it!
+What should I name it?
+  You name it!
+How about...Shane?!
+#+END_EXAMPLE
+
+* [[https://www.youtube.com/watch?v=cvESnaPLAXg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=507][to feign something]]
+
+#+BEGIN_EXAMPLE
+Here comes the boss.
+  He saw us watching the game.
+Quick, feign death!
+  Were you men watching the game? Guys? Sue, bring my gun. Let's make sure they're dead.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=4Sew7sUiRLU&index=508&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][take a dip]]
+
+skinny-diping: 裸泳
+
+#+BEGIN_EXAMPLE
+It's so hot.
+  Let's go take a dip.
+Great idea! The lake?
+  Too far. Let's go to the pool.
+#+END_EXAMPLE
