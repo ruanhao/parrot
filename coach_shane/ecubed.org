@@ -6258,3 +6258,58 @@ What’s this?
 It’s pink. A pink resume?
   Yes! I gotta cut through the clutter.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=wUqFNFnDfEc&index=539&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][thrift shop]]
+
+#+BEGIN_EXAMPLE
+New shirt?
+  Yep.
+Thrift shop?
+  How'd you know?
+Just a guess.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=xggArqOWteg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=540][kick off]]
+
+#+BEGIN_EXAMPLE
+When's the season kick off?
+  Football?
+Is there another season?
+  September 4th.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=tcxeU9rsJ0k&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=541][Pick it up]]
+
+=go fast=
+
+#+BEGIN_EXAMPLE
+Coach Shane speaks to slow.
+  You think so?
+Yes. I wish he'd pick it up!
+  Leave him a message.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=B48JfH6ozrY&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=542][Gifted]]
+
+#+BEGIN_EXAMPLE
+What are you gifted at?
+  Sleeping!
+No, serious. Tell me!
+  Hmm… I guess I'm a very good explainer!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=N68izNgQQkQ&index=543&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Mental]]
+
+=stupid/intellectual=
+
+#+BEGIN_EXAMPLE
+Where are you going?
+  I'm gonna go play golf.
+Golf is so mental.
+  No, it's not. But it is a very mental game.
+#+END_EXAMPLE
