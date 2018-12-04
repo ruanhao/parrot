@@ -6313,3 +6313,103 @@ Where are you going?
 Golf is so mental.
   No, it's not. But it is a very mental game.
 #+END_EXAMPLE
+
+
+
+
+* [[https://www.youtube.com/watch?v=-sDZbjN1t6U&index=544&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][short and sweet]]
+
+#+BEGIN_EXAMPLE
+Oh, you’re finished with the book?
+  Yep. You wanna read it?
+Maybe. How was it?
+  Short and sweet. You’ll like it.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=X7o3c8BdMaA&index=545&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][in a pinch]]
+
+#+BEGIN_EXAMPLE
+Problem. We don’t have buttermilk.
+  You got milk and lemon juice, right?
+Yes.
+  Well, in a pinch, that’ll do.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=YwPmDrzpykQ&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=546][Let it slide]]
+
+#+BEGIN_EXAMPLE
+I’m surprised to see you here.
+  Why?
+Your mom was SO mad at you the other day.
+  Oh, she always lets me slide! I’m her angel^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=rfcAjmQt43Q&index=547&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][for starters]]
+
+#+BEGIN_EXAMPLE
+My English isn’t improving.
+  How are you studying?
+Books. Sometimes movies.
+  Well, for starters, you should be watching E-cubed every day!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=lCuuq8xpR6w&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=548][to patch things up]]
+
+#+BEGIN_EXAMPLE
+Come to the game with us!
+  You and Sue are back together?
+Yeah! We patched things up.
+  That’s great! We’ll join you!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=nsvw-v5ZgjQ&index=549&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][to chime in]]
+
+#+BEGIN_EXAMPLE
+I completely disagreed with John.
+  Really?
+Yes! He was totally wrong.
+  Why didn’t you chime in?
+#+END_EXAMPLE
+
+wind chime
+
+#+HTML: <img src="http://images.hayneedle.com/mgen/master:QM007.jpg"/>
+
+
+* [[https://www.youtube.com/watch?v=enqCgITsLOo&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=550][long-winded]]
+
+#+BEGIN_EXAMPLE
+Are you watching C-Span?
+  Yeah.
+Those guys are so long-winded. How can you watch?
+  It helps me fall asleep!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=YlXoY-kG1tc&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=551][get into a groove]]
+
+#+BEGIN_EXAMPLE
+Did you ride this morning?
+  No, I got up late.
+Come on! You need to exercise.
+  I know. I need to get into a groove.
+#+END_EXAMPLE
+
+#+HTML: <img src="http://thetechnologygeek.org/wp-content/uploads/2016/06/Microsoft-Groove-Music.png"/>
+
+
+* [[https://www.youtube.com/watch?v=wvX0mOl_EMY&index=552&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][lemming, sheep, sheeple]]
+
+#+BEGIN_EXAMPLE
+Dude, your phone is so old.
+  It still works.
+And when’s the last time you bought clothes?
+  I don’t need any.
+Come on!
+  Hey, I’m not a lemming! I do things my own way.
+#+END_EXAMPLE
