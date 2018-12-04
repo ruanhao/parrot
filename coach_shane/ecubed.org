@@ -6413,3 +6413,63 @@ And when’s the last time you bought clothes?
 Come on!
   Hey, I’m not a lemming! I do things my own way.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=NVynS3rWrhg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=553][to eyeball something]]
+
+#+BEGIN_EXAMPLE
+How many boxes are you going to need?
+  I have no idea.
+Just eyeball your stuff and guess.
+  Um…twelve, maybe.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=aQSAS5FR4z8&index=554&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][in a huff]]
+
+#+BEGIN_EXAMPLE
+Where's Shane going in a huff?
+  He's mad again.
+What'd you do?
+  I told him his jokes weren't funny.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=q6efJ6UyIs4&index=555&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][a knee-jerk reaction/response]]
+
+#+BEGIN_EXAMPLE
+What do you think of the riots?
+  Well, my knee-jerk reaction is to support the people.
+But?
+  But, after I thought about it, violence with violence never solves anything.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=FkZKfs7MyNQ&index=556&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Drained]]
+
+#+BEGIN_EXAMPLE
+You look tired.
+  I'm totally drained.
+What happened?
+  Eh~ Some people expect too much.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ckhQQj2aN2M&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=557][buff]]
+
+#+begin_example
+You're pretty buff.
+  Yeah? I've been working out a bit.
+Great! Any reason?
+  Not really. I just like the exercise.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=KIiJatRAwCc&index=558&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Yes, siree, Bob!]]
+
+#+BEGIN_EXAMPLE
+I'd like to upgrade my internet speed to Ultra.
+  No problem.
+Can you come out with the new modem tomorrow?
+  Yes, siree, Bob!
+#+END_EXAMPLE
