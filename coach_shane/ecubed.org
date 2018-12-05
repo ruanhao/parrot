@@ -6473,3 +6473,142 @@ I'd like to upgrade my internet speed to Ultra.
 Can you come out with the new modem tomorrow?
   Yes, siree, Bob!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=35FncptqZoo&index=559&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][lean on me]]
+
+#+BEGIN_EXAMPLE
+I’m so nervous. Moving to another country.
+  Well, lean on me. I’m there for you.
+I really appreciate it.
+  Hey, that’s what friends are for^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=bl7xFaeUHh4&index=560&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][sound asleep]]
+
+#+BEGIN_EXAMPLE
+Where were you last night?
+  I went to bed early. I was tired~
+I called you three times!
+  Sorry~ I was sound asleep!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=0bSycCnwMCg&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=561][Lay it on me]]
+
+=tell me=
+
+#+BEGIN_EXAMPLE
+Do you have time now?
+  Oh, right. Your new idea. Lay it on me.
+Well, I think you should make a better website.
+  Ugh! I know! It’s urgent~~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=q5_mDlD_Ne0&index=563&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][pull your weight]]
+
+#+BEGIN_EXAMPLE
+Oh, no. Is John on our team?
+  Yeah, why?
+He never pulls his weight!
+  Really? He seems like a hard worker.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=a_xplwS842k&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=564][flickering]]
+
+#+BEGIN_EXAMPLE
+Do you have a minute?
+  What do you need?
+The light in my room is flickering.
+  I’ll change it for you.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=pU5VWZNp34o&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=565][Dork]]
+
+#+BEGIN_EXAMPLE
+What are you doing?
+  Oh…just…nothing.
+Making faces in the mirror? Dork!
+  Leave me alone~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=AWlRBoRbGBc&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=566][urbanite]]
+
+#+BEGIN_EXAMPLE
+Let’s go to Le Grange tonight!
+  The restaurant? No thanks~
+Why not? It sounds great~
+  Pfft~ It’s for urbanites!
+#+END_EXAMPLE
+
+
+#+HTML: <img src="http://www.tourisme-montmedy.fr/medias/decouvrir/gastronomie/la_grange_avioth__kintzig__1_.jpg"/>
+
+
+* [[https://www.youtube.com/watch?v=p-dgGGmP-Bk&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV&index=567][farm-to-fork]]
+
+#+BEGIN_EXAMPLE
+What are your grocery bills?
+  A little high. About $300.
+Wow! Why so much?
+  I look for farm-to-fork foods. They’re pricier.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=L63mMG2IoZI&index=568&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][rat’s nest]]
+
+#+BEGIN_EXAMPLE
+I have to go to Eduardo’s today.
+  You don’t sound too excited.
+No, his place is a rat’s nest. Yuck~
+  It can’t be that bad!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=u7IPUtsJV9o&index=569&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][Don’t quit your day job]]
+
+#+BEGIN_EXAMPLE
+I started a new business!
+  Doing what?
+I’m gonna sell handmade wool socks!
+  In the desert? Don’t quit your day job!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=mmdY807RvrU&index=570&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][sugarcoat]]
+
+=lie=
+
+#+BEGIN_EXAMPLE
+  So, how’d you like my poem?
+Well…it was nice.
+  Come on! Don’t sugarcoat it! Tell me.
+Um… Don’t quit your day job.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=4yV4KtFfcNg&index=571&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][grab a nap]]
+
+#+BEGIN_EXAMPLE
+Is there anything else you need?
+  No, nothing. Thanks.
+Okay. I’m gonna go grab a nap.
+  Sleep well^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=gVEUFCL6mpE&index=572&list=PLSJJLy6bohJEv3dUikbpX9xcO8UYc1bDV][don’t quote me on that]]
+
+=I am not sure=
+
+#+BEGIN_EXAMPLE
+Coach Shane’s starting a new class next month, but don’t quote me on that.
+  Cool! What kind?
+For speaking. Very necessary.
+  Excellent. I’m gonna sign up!
+#+END_EXAMPLE
