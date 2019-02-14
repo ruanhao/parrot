@@ -7393,3 +7393,45 @@ What do you want for dinner?
 Not you! You always get your own way. Shane?
   Um… I want…hamburgers!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=D0FJNv06ypU&index=47&list=PLfR_AJFT1BqwxoteBolWvR0Ap32qYWlyO][above reproach/beyond reproach]]
+
+#+BEGIN_EXAMPLE
+Did you hear about Bill Cosby?
+  It’s disgusting~
+I thought he was beyond reproach!
+  Are you kidding! No one in Hollywood is above reproach!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=0KqqqXhiDgw&list=PLfR_AJFT1BqwxoteBolWvR0Ap32qYWlyO&index=48][tenacity]]
+
+#+BEGIN_EXAMPLE
+He’s still there~
+  All day and nothing.
+Not a bite. Just sunburn.
+  I respect his tenacity. Let’s go!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=D84xL4-mihw&list=PLfR_AJFT1BqwxoteBolWvR0Ap32qYWlyO&index=49][to hang in the balance]]
+
+waiting for result/decision/judgement
+
+#+BEGIN_EXAMPLE
+So, are you moving?
+  I don’t know. It’s hanging in the balance.
+How’s that?
+  If cats are okay, I’m moving. If not…
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=vGvUI12Z6mA&list=PLfR_AJFT1BqwxoteBolWvR0Ap32qYWlyO&index=50][an auspicious day/occasion/number/sign…   promising]]
+
+#+BEGIN_EXAMPLE
+Wow! You’re all happy!
+  The boss’ daughter is getting married.
+So! Not to you!
+  But it’s an auspicious day! I’m gonna ask for a raise!
+#+END_EXAMPLE
