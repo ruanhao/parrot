@@ -7435,3 +7435,56 @@ Wow! You’re all happy!
 So! Not to you!
   But it’s an auspicious day! I’m gonna ask for a raise!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=7tMhPigqCrw&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc][smack-dab in the middle]]
+
+smack-dab means directly
+
+#+BEGIN_EXAMPLE
+Why are you covering your face?
+  I got a new zit.
+Who cares!
+  It’s smack-dab in the middle of my nose!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=kltF4wN0xOY&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc&index=2][in the limelight]]
+
+#+BEGIN_EXAMPLE
+You’re such a good singer!
+  Thanks^^
+You should be a professional!
+  No, thank you! I hate the limelight~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=q9FakIetHp8&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc&index=3][second to none]]
+
+#+begin_example
+What’s that?
+  Tangy Tangerine. Hmm^^
+Is it any good?
+  Second to none! Wanna try?
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=6Kzqq__j6KQ&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc&index=4][peddling]]
+
+#+BEGIN_EXAMPLE
+Is that Coach Shane?
+  Yep. He’s still peddling that DDM and PIRF stuff.
+He should! They’re second to none!
+  Really?
+Everyone who joins stays and loves them!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=sI-D9g_2ALo&index=5&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc][let go VS let them go]]
+
+#+BEGIN_EXAMPLE
+You got another fish?
+  Yep! It’s a little one, though~
+Are you going to let go of him?
+  No! Got him!! Now I’ll let him go!^^
+#+END_EXAMPLE
