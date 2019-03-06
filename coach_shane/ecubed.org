@@ -7818,3 +7818,47 @@ Look at your flags! You must be a democrat.
 A republican?
   If you must label me, label me proud.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Io_SuxxxE80&index=37&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc][raise your glass]]
+
+#+BEGIN_EXAMPLE
+Do you want friends around the world?
+  Yes!
+Do you want people to respect you and your culture?
+  Yes!
+Then raise your glass to English! Communication is the answer!
+  I'll drink to that^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ov6Na_UIqQs&index=38&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc][roots]]
+
+#+BEGIN_EXAMPLE
+You like the area?
+  It's nice, but I don't wanna put my roots down here.
+Why not?
+  It's too urban. I want my kids to grow up in the country.
+#+END_EXAMPLE
+
+
+* a bug zapper
+
+#+HTML: <img src="http://www.thegadgetqueen.com.au/wp-content/uploads/2014/02/bug-zapper-orange_5.jpg"/>
+
+#+BEGIN_EXAMPLE
+Online shopping again?
+  I'm looking at bug zappers!
+Yay! No more skeeters!!
+  That's what I'm hoping for^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=MUno7EKj7vk&index=40&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc][flimsy]]
+
+#+BEGIN_EXAMPLE
+A new desk?
+  Yeah, the last one was no good. Too flimsy.
+Didn't you pay a lot for it?
+  No, it was cheap. This one is much better.
+#+END_EXAMPLE
