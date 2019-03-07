@@ -7862,3 +7862,57 @@ A new desk?
 Didn't you pay a lot for it?
   No, it was cheap. This one is much better.
 #+END_EXAMPLE
+
+
+
+* [[https://www.youtube.com/watch?v=r5Dj_Gyhuto&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc&index=41][hit me up]]
+
+#+BEGIN_EXAMPLE
+If you want free English lessons, hit me up.
+  Really? What kinds of lessons?
+Two—speaking and listening.
+  Great! I’ll email you today^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=BH8XaSobUNc&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc&index=42][~ doesn’t cut it]]
+
+'it' means minimum requirement
+
+#+BEGIN_EXAMPLE
+So, how are these curtains?
+  Nope. They don’t cut it.
+Why?
+  They’re too thin and too short.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Zdi36cU0pZw&index=43&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc][scatterbrain]]
+
+not concentrated
+
+#+BEGIN_EXAMPLE
+Did you send out the lessons?
+  What lessons?
+The free lessons you promised!
+  Oh~ I’m such a scatterbrain! I’ll do it~
+#+END_EXAMPLE
+
+* [[https://www.youtube.com/watch?v=lUb15HVlfso&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc&index=44][tight]]
+
+#+BEGIN_EXAMPLE
+Wow! I saw you talking to that guy.
+  Besher? Oh, yeah. We’re tight.
+But he’s such a famous genius!
+  I know! And he’s a really great kid^^
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=0w6Sn_iNdVw&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc&index=45][a drag]]
+
+#+BEGIN_EXAMPLE
+Are you okay?
+  Huh? Oh, yeah. I’m just studying English.
+It looks like you’re almost dead.
+  Ugh~ Grammar is SUCH a drag.
+#+END_EXAMPLE
