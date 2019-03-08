@@ -7918,6 +7918,7 @@ It looks like you’re almost dead.
 #+END_EXAMPLE
 
 
+
 * [[https://www.youtube.com/watch?v=dUBQ2V59p3c&index=46&list=PLh5OCZQHbfaiRQoM9oj689eS5vOjouKRc][a bit of a handful]]
 
 #+BEGIN_EXAMPLE
@@ -7971,4 +7972,60 @@ Coach Shane is finished.
   What?
 700 expressions. All free. All on YouTube. Other teachers sell that stuff! But today was his last. He's retiring.
   Retiring my foot! He'll never retire!
+#+END_EXAMPLE
+
+* [[https://www.youtube.com/watch?v=udEVXPgyYYk&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY][walk it off]]
+
+'it' means physical/mental pain
+
+#+BEGIN_EXAMPLE
+OW!!! My leg!!!
+  Quit crying! It was just a baseball.
+Just a baseball?!!
+  Be tough! Walk it off~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=9DoC-31DU-I&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=2][come to terms with (myself)]]
+
+accept the (painful) truth
+
+#+BEGIN_EXAMPLE
+Are you gonna do the triathlon in April?
+  No. Probably not.
+Why not? You love triathlons.
+  Yeah, but I’ve finally come to terms with myself. I’m getting too old!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Ykk-6jr-jIQ&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=3][go to bat for someone]]
+
+support someone by doing something
+
+#+BEGIN_EXAMPLE
+What were you talking to John about?
+  Oh, I told him how great you did on the last project.
+Oh! Thank you!!
+  I like to go to bat for people who deserve it.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=e_eBsPEIoi8&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=4][to weasel out of sth]]
+
+#+BEGIN_EXAMPLE
+Where were you yesterday?
+  Oh…I hate company picnics. I stayed home.
+How’d you weasel out?
+  I told the boss my daughter was sick!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=PPZLcCsriw8&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=5][to get chunky]]
+
+#+BEGIN_EXAMPLE
+What are you doing?
+  Getting some chocolate.
+Some? You’ve got all the flavors.
+  I know!
+You’re gonna get chunky~~
 #+END_EXAMPLE
