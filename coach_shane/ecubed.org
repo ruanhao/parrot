@@ -8354,3 +8354,96 @@ Which Timmy? Your neighbor?
   Yeah.
 He’s 4! He doesn’t know! Don’t let him bother you!!!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=j-b8zbi37v4&index=35&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY][If it looks like a duck and quacks like a duck, it’s probably a duck.]]
+
+#+BEGIN_EXAMPLE
+Do you think Mike likes Sue?
+  Um… If it looks like a duck and quacks like a duck…
+It’s probably a duck!!
+  Exactly!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=N60Jl1kVfTc&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=36][duke it out]]
+
+fight
+
+#+BEGIN_EXAMPLE
+Do you think Russia and the US will duke it out?
+  What? What are you talking about?
+I’m just worried about a war.
+  I’m sure we’ll be fine. Don’t worry about it!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=EjMxgcsCYEI&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=37][taken for a ride]]
+
+#+BEGIN_EXAMPLE
+Back already?
+  Yeah~
+Did you enjoy the Skywalk?
+  No! I think I was taken for a ride!
+How long was it?
+  25 bucks for 5 minutes! No cameras~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=AUwleittFks&index=38&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY][to fly the coop]]
+
+#+HTML: <img src="https://www.thegreenhead.com/imgs/cedar-chicken-coop-run-with-garden-planter-3.jpg"/>
+
+supposed to do something but escape
+
+#+BEGIN_EXAMPLE
+Where’s Shane?
+  He flew the coop.
+He knew I wanted to talk to him!
+  I think that’s why~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Q2kcUP-KExE&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=39][on the dole]]
+
+receiving government support
+
+#+BEGIN_EXAMPLE
+How do these people do this?
+  Do what?
+Demonstrate! Everyday!!
+  They’re on the dole~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=GMw7aQWjIBI&index=40&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY][to dole out ~]]
+
+#+BEGIN_EXAMPLE
+Cat pictures again?
+  Yes! They’re useful.
+How?
+  They always dole out wisdom.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=h-5Eg9mPGBc&index=41&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY][quibble over]]
+
+argue with small thing
+
+#+BEGIN_EXAMPLE
+Should we make it this blue?
+  Too dark. How about this?
+Not blue enough. This?
+  Not happy enough. How about…
+    This one! Quit quibbling over a stupid color!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=x5ykJpvtEL0&list=PLfR_AJFT1BqxKgec06AyYWPZQ_Z_IvrfY&index=42][go for it]]
+
+#+BEGIN_EXAMPLE
+Hillary is running for president.
+  Oh no. Another Clinton?
+She should go for it. She’s a woman!
+  She’s a woman, but is she qualified?
+#+END_EXAMPLE
