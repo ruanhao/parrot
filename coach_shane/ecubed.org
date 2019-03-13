@@ -8613,3 +8613,34 @@ Hi! You wanna have some coffee?
 What? Oh…sorry…
     Betty! You shouldn’t say something like that right out in the open!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=kWXYe0N2N20&index=8&list=PLfR_AJFT1Bqw2gOHZlCE2HXiEnL8N927S][chronic pain]]
+
+#+BEGIN_EXAMPLE
+You okay? Another headache?
+  This chronic pain is too much.
+You need to see a doctor.
+  Any recommendations?
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=w_qDAzNpu-c&list=PLfR_AJFT1Bqw2gOHZlCE2HXiEnL8N927S&index=9][the silver bullet]]
+
+#+BEGIN_EXAMPLE
+My joints are killing me.
+  You should drink cherry concentrate.
+Really?
+  Oh, yeah. It's the silver bullet for chronic pain.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Bb8idYKHL-o&list=PLfR_AJFT1Bqw2gOHZlCE2HXiEnL8N927S&index=10][full full, bald bald, good good]]
+
+#+BEGIN_EXAMPLE
+Oh! I'm full~
+  What about apple pie?
+Sure!
+  But you're full~
+Well, not full full!
+#+END_EXAMPLE
