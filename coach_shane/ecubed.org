@@ -9125,3 +9125,47 @@ What sort?
   Taste! These taste good, these are sort of (kinda) good, these are bad.
 Why do I sort (hang out) with your sort (person like you)?
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ctn2qRqNSvw&index=2&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][beach, sheet and fork (pronunciation warning~)]]
+
+#+BEGIN_EXAMPLE
+Let’s go to the beach!
+  Do you have a beach sheet?
+I did, but it ripped.
+  That’s right. Your fork ripped it during the picnic~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=jYp01YoJxjI&index=3&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][the powers that be]]
+
+the hidden government
+
+#+BEGIN_EXAMPLE
+Do you think Trump could become president?
+  I doubt it!
+Why not?
+  The powers that be wouldn’t allow it! They want someone they can control.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=bLL1fUaaSes&index=4&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][to sweep something under the rug]]
+
+#+HTML: <img src="http://www.idioms4you.com/img1/sweep-under-the-carpet-def.jpg"/>
+
+#+BEGIN_EXAMPLE
+I can’t believe Don is getting married. Again!
+  Number 5. And his fiancé doesn’t know.
+Doesn’t know she’s number 5?
+  He swept ALL his past relationships under the rug~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=xXo-uDu9Hi4&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=5][I can’t make head nor tail~]]
+
+#+BEGIN_EXAMPLE
+Let’s watch Matrix!
+  No, thank you.
+Why not? It’s such a great movie.
+  I can’t make head nor tail of it. It’s too weird~
+#+END_EXAMPLE
