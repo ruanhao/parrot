@@ -9170,7 +9170,63 @@ Why not? It’s such a great movie.
   I can’t make head nor tail of it. It’s too weird~
 #+END_EXAMPLE
 
-----------------------------------------------------
+
+* [[https://www.youtube.com/watch?v=yVFLIUJnUZE&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=6][You know what they say~]]
+
+#+HTML: <img src="http://s3.amazonaws.com/yummy_uploads2/blog/6398.jpg"/>
+
+#+BEGIN_EXAMPLE
+You're looking very healthy!
+  Thanks. A little exercise, good sleep, good diet! I try^^
+And are those apple slices?
+  You know what they say!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Rv4Xl0ECuqA&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=7][the proof of the pudding is in the eating]]
+
+#+BEGIN_EXAMPLE
+I've been taking Coach Shane's course for a year now.
+  So, has it helped?
+Yes! The proof of the pudding is in my TOEFL score! Check it out~
+  120?! Damn!!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=SfOIyXa31fY&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=8][I'm sitting on it.]]
+
+#+BEGIN_EXAMPLE
+I thought you wanted to start that new project.
+  I'm sitting on it.
+Why? It's such a good idea!
+  Well, it's too early. Maybe in six months.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ZRDlcdPc4b8&index=9&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][Go big or go home~]]
+
+#+BEGIN_EXAMPLE
+How's your team this year?
+  They're really tough. I'm excited.
+Think you'll make it to the championship?
+  Hey! Go big or go home, right?!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=N6iJqb7Ba4E&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=10][take up with VS take SMT up with]]
+
+take up with someone: make friends with bad guy
+
+take something up with someone: discuss something with someone
+
+#+BEGIN_EXAMPLE
+Why are you taking up with those guys? They're bad.
+  They understand me.
+I'm gonna take this up with your dad.
+  I'm 18. I can do what I want.
+>>>>>>> update
+#+END_EXAMPLE
+
 
 * [[https://www.youtube.com/watch?v=YeZUf0qZqEg&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=11][take up (time) VS take up (SMT)]]
 
