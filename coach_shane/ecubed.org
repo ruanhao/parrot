@@ -9169,3 +9169,115 @@ Let’s watch Matrix!
 Why not? It’s such a great movie.
   I can’t make head nor tail of it. It’s too weird~
 #+END_EXAMPLE
+
+----------------------------------------------------
+
+* [[https://www.youtube.com/watch?v=YeZUf0qZqEg&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=11][take up (time) VS take up (SMT)]]
+
+take up SMT: study
+
+#+BEGIN_EXAMPLE
+Shane! I never see you anymore!
+  Yeah, my free time is completely taken up~
+With what?
+  I took up English! I’m gonna master it~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ogyaoyOFV1E&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=12][tough as nails]]
+
+#+BEGIN_EXAMPLE
+Is Jim going to the gym?
+  Yeah.
+Wasn’t he in a car accident last week?
+  Yeah. He’s tough as nails. Nothing stops him~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=cZJu8gJkgSI&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=13][bring in the big guns]]
+
+experts/the bosses
+
+#+BEGIN_EXAMPLE
+How do you pronounce this word? C-O-G-N-A-C.
+  Hmm… I think it’s “kahg-nack”.
+Really? That sounds too weird.
+  Well, let’s bring in the big gun. I’ll call Shane.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=22HlEhrTCAE&index=14&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][give solace to ~]]
+
+#+BEGIN_EXAMPLE
+Are they taking those dogs into the hospital?
+  Yeah. Cats, too.
+Why? That’s so dirty~
+  No! They give solace to the kids who’ve been there a long time.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=t6LSKkaCeIg&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=15][pirating]]
+
+illeagally get something and sell them
+
+#+BEGIN_EXAMPLE
+Did you know some guy is pirating Coach Shane’s videos?
+  Really? Let’s GET HIM!
+Yeah! Boy, his lessons must be really popular!
+  Come on! He’s the best~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=DZ11vhYSYkE&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=16][to beat someone to it]]
+
+someone has already done it
+
+#+BEGIN_EXAMPLE
+I’m SO going to buy that red dress!
+  Don’t.
+Why not? It’s beautiful. I’ll look so good~
+  Peggy already beat you to it.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=aD03vG9yx_0&index=17&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][to make a stand]]
+
+#+BEGIN_EXAMPLE
+So, how do you feel about illegal immigration?
+  Well, our country was built on immigrants.
+So, illegal immigration is okay?
+  Well, I didn’t say that…
+    This guy never makes a stand on anything~~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=GYlUhzDO9dA&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=18][rooting for you]]
+
+#+BEGIN_EXAMPLE
+Tomorrow’s my big interview.
+  I’m rooting for you.
+Thanks. I’m really nervous~
+  That’s natural! You’ll do fine!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=TGpZGwJKioU&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=19][Monday-morning quarterback]]
+
+#+BEGIN_EXAMPLE
+I can’t believe you said that in the interview.
+  I got nervous~
+You should have told them…
+  Hey! Quit being a Monday-morning quarterback.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=fiyGmcerxqM&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=20][a cowlick]]
+
+#+HTML: <img src="http://media.gq.com/photos/57f7bd00efd8450b0917b30a/16:9/pass/tom-hardy-cowlick-edit-1.jpg"/>
+
+#+BEGIN_EXAMPLE
+I’m leaving! Have a nice day~
+  Uh…did you look in the mirror?
+No, why? Something on my face?
+  You have a massive cowlick!
+#+END_EXAMPLE
