@@ -9281,3 +9281,57 @@ I’m leaving! Have a nice day~
 No, why? Something on my face?
   You have a massive cowlick!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ZP1C1rmZL8A&index=21&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][to be pumped]]
+
+#+BEGIN_EXAMPLE
+I heard you’re moving?
+  Yes! I am SO pumped!
+Where to?
+  Up north! Maybe Alaska~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=E8hpcN01jbs&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=22][to pander to someone]]
+
+#+BEGIN_EXAMPLE
+Look at the idiots~
+  Pandering to the general public.
+Can you imagine those guys ever eating anything on a stick?
+  Maybe a pure gold stick!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=OwUh4tC2lN4&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=23][run-of-the-mill]]
+
+#+BEGIN_EXAMPLE
+Where did you grow up?
+  In a run of the mill American neighborhood.
+A suburb?
+  Yep, a neighborhood of little pink houses!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=FvelZSzSOrc&index=24&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][put a crimp in my plan]]
+
+crimp: 用于当做书签的折痕
+
+#+BEGIN_EXAMPLE
+Are you going to take a vacation in December?
+  Well, I was~
+What happened?
+  I got sick in July and missed almost two weeks of work~ That put a crimp in my plan~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=DIWsTnTw70Y&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=25][to be wired]]
+
+high nervous enegy
+
+#+BEGIN_EXAMPLE
+What is wrong with you?
+  I’m a little wired. Too much coffee.
+And not enough sleep! Go take a walk.
+  Yeah. Good idea. I’ll walk to Starbu~~ Ow!
+#+END_EXAMPLE
