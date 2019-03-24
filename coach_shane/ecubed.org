@@ -9481,3 +9481,193 @@ You need to be more positive. This is a resume.
 Hey! Don’t get fresh with me. I just took a class on resumes.
   Sorry. I’m just really nervous~
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=O7DHksKVawY&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=34][demanding]]
+
+#+BEGIN_EXAMPLE
+What are you doing tomorrow?
+  Cooking, cleaning…oh, I need to cut the grass, too.
+Why don't you get your wife to help?
+  She works. She comes home and expects a perfect house.
+Wow~ She is SO demanding.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=S2DslZ5poGc&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=35][potluck]]
+
+#+BEGIN_EXAMPLE
+What's that?
+  An apple pie. I'm taking it to Tom's.
+You have to bring food to his party?
+  It's potluck!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=jwVlll3hwM8&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=36][thingamajig]]
+
+coaster:
+
+#+HTML: <img src="https://www.personalizedfavors.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/m/a/mandala-coaster-2.jpg"/>
+
+#+BEGIN_EXAMPLE
+Give me that…thingamajig, will you?
+  What?
+For the bottom of my cup. You know~
+  You mean, a coaster?!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=pl9OiHOTqGc&index=37&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf][Split the difference]]
+
+#+BEGIN_EXAMPLE
+You want to go to Hawaii for our honeymoon…
+  And you want to go to Alaska…
+Let's split the difference~ Chicago!
+  Chicago it is!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=-BwZ2DEF024&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=38][Jump me]]
+
+突然袭击
+
+#+BEGIN_EXAMPLE
+How was your hike? Not too good?
+  I was so scared.
+What happened?
+  I saw some punks. I thought they were gonna jump me.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ANGrV6kq4p4&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=39][WYSIWYG]]
+
+#+BEGIN_EXAMPLE
+What's the best type of politician?
+  Ha! Well…a "what you see is what you get" politician would be best.
+What does that mean?
+  One with no surprises. If he says something, he does it. No secrets. No lies.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Dx4W8LneaQo&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=40][at your beck and call]]
+
+#+BEGIN_EXAMPLE
+Can you bring me an ice cube?
+  I'm not at your beck and call.
+No. You were just…
+  Go get it yourself!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=8Awn0HU5aBY&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=41][to milk something]]
+
+take advantage
+
+#+BEGIN_EXAMPLE
+Ever since he was sick, he's been milking it.
+  But he's not sick anymore.
+I know.
+  That was like two months ago.
+I know!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=LrES-0sHEKY&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=42][to be underhanded]]
+
+#+BEGIN_EXAMPLE
+What happened to Brian?
+  I fired him.
+Why? He was so friendly to everyone. The customers loved him.
+  He did it to build his business.
+He was running his own business? That's so underhanded~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=Pg3jidaq48E&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=43][She's got it bad~]]
+
+#+BEGIN_EXAMPLE
+Where's John.
+  He quit.
+WHAT? He's the star of the team.
+  He's got it bad, coach. Everything's about his new girl~
+WOMEN!!!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ky61oQRfvSI&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=44][the trade-off]]
+
+#+BEGIN_EXAMPLE
+So, if you work for us, we'll pay you a lot of money.
+  What's the trade-off?
+You will have no time to spend it.
+  Then…
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=1rVM2Hd7Osw&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=45][~ is not all that ~]]
+
+#+BEGIN_EXAMPLE
+Mary is such a genius!
+  Eh~ She's not all that bright.
+What? She graduated from Yale.
+  So! So did George Bush.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=hdNAFSJBA7Y&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=46][~ is all but ~]]
+
+- to be all ..[stop for a moment].. but -> means: to be everything except
+- to be all but (no stop) -> means: to be almost
+
+#+BEGIN_EXAMPLE
+Hi, Jack! How's it going these days?
+  Pretty good. I'm not all that busy-enjoying life. You?
+Oh~ I'm all but enjoying life. Work's been tough.
+  Oh, that's too bad. I hope it gets better.
+It will soon. I'm all but done~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=OhmcOn1FugU&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=47][whatsoever]]
+
+#+BEGIN_EXAMPLE
+Is DDM helping you?
+  I have no doubt whatsoever.
+Maybe I should join.
+  If you have any questions whatsoever, just ask!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=t00-HbVQoPs&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=48][Them's fightin' words!]]
+
+#+BEGIN_EXAMPLE
+Why didn't John come to the party?
+  He said your house was too small.
+Too small?
+  And your taste in music was bad~
+What? Them's fightin' words!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=9tfkZS3lkhE&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=49][Good on you!]]
+
+congrats, good job, that's nice
+
+#+BEGIN_EXAMPLE
+Check out my new shirt!
+  Hey, that looks good on you!
+Thanks. I made it myself.
+  Well, good on you!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=tlvAHRVZjFQ&list=PLfR_AJFT1BqyP9yxuA-aNOlMnOX8Rn3nf&index=50][way off the mark]]
+
+#+BEGIN_EXAMPLE
+I thought you said October would be cool. 30-31 degrees.
+  I thought it would be.
+It's 38 degrees outside.
+  So I was a little off~
+You were WAY of the mark.
+#+END_EXAMPLE
