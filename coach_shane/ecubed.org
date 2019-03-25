@@ -9671,3 +9671,13 @@ It's 38 degrees outside.
   So I was a little off~
 You were WAY of the mark.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=aK4mohQAfcU&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0][Up yours!]]
+
+#+BEGIN_EXAMPLE
+And your cooking is terrible.
+  What do you know?
+And you smell!
+  Up yours!
+#+END_EXAMPLE
