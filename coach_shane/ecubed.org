@@ -9681,3 +9681,98 @@ And your cooking is terrible.
 And you smell!
   Up yours!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=gPbu5xhm0vY&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=2][Copy that.]]
+
+#+BEGIN_EXAMPLE
+I want you to pick me up by 5pm.
+  Copy that.
+And don’t forget to bring my briefcase.
+  Roger(收到). Anything else?
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=kE4m3U7eao0&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=3][a double whammy]]
+
+#+BEGIN_EXAMPLE
+You don’t look too good.
+  I’ve got a bad cold. I’m taking some medicine.
+Take some vitamin C, too. Give it a double whammy!
+ Good idea.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=qU_fXKO4neI&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=4][beneath contempt]]
+
+不齿
+
+#+BEGIN_EXAMPLE
+Bankers are beneath contempt.
+  Come on~ They’re just regular guys.
+Taking bonuses when their banks lose money?
+  Well…wouldn’t you take free money?
+#+END_EXAMPLE
+
+
+* [[https://stackoverflow.com/questions/25750815/how-to-specify-database-name-in-spring-data-mongodb][back in my heyday]]
+
+#+BEGIN_EXAMPLE
+I see you’re cycling again.
+  I want to do a triathlon next year!
+Yeah? You’re too old!
+  Hey, back in my heyday, I was unstoppable!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=gbEZH7p6g9s&index=6&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0][a live wire]]
+
+#+BEGIN_EXAMPLE
+So, how was babysitting?
+  Wow! That Timmy is a real live wire.
+Non-stop action, huh?
+  We talked and played the whole time!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=vNzpA8oLFlk&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=7][to pull the plug]]
+
+#+BEGIN_EXAMPLE
+Did you pull the plug?
+  On what?
+The LME Podcast? We miss it!
+  No! It’s just on a break~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=AAgw9rFP8w4&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=8][Tell me about it~]]
+
+"Beats me" means I don't know!
+"Tell me about it" means I know!
+
+#+BEGIN_EXAMPLE
+I’m so happy the summer is over.
+  Tell me about it!
+Fall is definitely my favorite season.
+  I’m more into winter.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=fbaP4WvpdJ8&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=9][to pigeonhole someone]]
+
+#+BEGIN_EXAMPLE
+I think I should quit my job.
+  Why? The pay is great.
+But I’m pigeonholed.
+  So, other than flipping burgers, what can you do?
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=HzTUe9Zbf5k&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=10][I feel less and less so]]
+
+#+BEGIN_EXAMPLE
+I used to be a really nervous driver.
+  So you became a taxi driver?
+Well, I feel less and less so now.
+  Whew! That’s good~~
+#+END_EXAMPLE
