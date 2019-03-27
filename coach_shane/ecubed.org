@@ -9776,3 +9776,117 @@ I used to be a really nervous driver.
 Well, I feel less and less so now.
   Whew! That’s good~~
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=QGN4oBsRULg&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=11][to be in the cards…]]
+
+#+BEGIN_EXAMPLE
+You’re still at the office?
+  When I was 20, I planned on retiring at 40.
+You’re 47 and still working.
+  Yep~ It wasn’t in the cards.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=9yjKgjho_wU&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=12][to come around]]
+
+1. visit
+2. agree
+
+#+BEGIN_EXAMPLE
+Is Tom here?
+  No. Why don’t you come around tomorrow?
+Okay. You think he’ll be less mad at me?
+  I’m sure^^ He always comes around after a day or two.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=oKa_7nAcoYg&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=13][slip through the cracks]]
+
+#+BEGIN_EXAMPLE
+How did that guy get so many guns?
+  He slipped through the cracks.
+But don’t they check people before they can buy a gun?
+  Yes, but the system’s not perfect.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=dDi7c-fWz8c&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=14][to get wind of it]]
+
+#+BEGIN_EXAMPLE
+Mike’s retiring next month.
+  Yeah. I got wind of it on Twitter.
+What’d you see?
+  HR announced a new opening in Marketing—so I guessed~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=jM4TCG37_-Q&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=15][cockamamie]]
+
+hash browns:
+
+#+HTML: <img src="http://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/4/6/0/WU1606H_Omelet-and-Hash-Browns_s4x3.jpg.rend.hgtvcom.616.462.suffix/1500909697184.jpeg"/>
+
+deep frier: 油炸专用锅
+
+#+HTML: <img src="https://www.mytopia.com.au/media/catalog/product/cache/2/thumbnail/800x/9df78eab33525d08d6e5fb8d27136e95/c/l/clean_104_5.jpg"/>
+
+#+BEGIN_EXAMPLE
+Where’s my hash browns?
+  No hash browns.
+McDonald’s said ALL-DAY BREAKFAST!
+  They gave me some cockamamie story about having just one deep fryer and it’s either fries or hash browns~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=_1P-M5aC7jE&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=16][in broad daylight]]
+
+9am - 3pm
+
+#+BEGIN_EXAMPLE
+What happened to Ronny?
+  He got mugged an hour ago in Central Park.
+In broad daylight.
+  Yeah! Careful where you walk~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=sLtzTpewW88&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=17][like VS as]]
+
+#+BEGIN_EXAMPLE
+I wish I were more confident.
+  Maybe you should act like your brother.
+You want me to act as if I were Jimmy?
+  No, like Timmy. Jimmy’s just two.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=hUCDwD60K8M&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=18][Viewer discretion is advised.]]
+
+#+BEGIN_EXAMPLE
+Alright, let me tell you how I got divorced.
+  Oh, this should be interesting.
+Viewer discretion…erm…listener discretion is advised.
+  Ooh! Turn up the volume!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=_-HteUZKhW8&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=19][you would think]]
+
+
+#+BEGIN_EXAMPLE
+Tim’s so smart, but jobless. He should have a job~
+  You would think.
+But no…playing video games all day long.
+  Yeah. And he’s so bad! You would think he’d be good!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=HJpz4GL_Knc&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=20][the lesser of two evils]]
+
+#+BEGIN_EXAMPLE
+What’s that? Pumpkin Spice Latte?
+  Caramel Macchiato.
+No! Those are so bad for you!
+  Well, it was the lesser of two evils.
+#+END_EXAMPLE
