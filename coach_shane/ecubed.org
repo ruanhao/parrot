@@ -10003,3 +10003,46 @@ What’s wrong?
 Your tummy?
   Yeah. I think it was that duck I ate~
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=3XH7BJZmxio&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=31][to chomp on (into) something]]
+
+#+BEGIN_EXAMPLE
+What are you chomping on?
+  Ice.
+Are you crazy? Who chomps on ice?
+  It wakes me up!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=-MrufDk-_GU&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=32][to pledge]]
+
+#+BEGIN_EXAMPLE
+The world is SO violent.
+  It's always been that way.
+But I want it to stop.
+  Same here. Starting with me, I pledge no violence.
+Me, too.
+  Let's tell everyone.
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=OjMt84rCuAU&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=33][lulz]]
+
+#+BEGIN_EXAMPLE
+Why did you pull the fire alarm?
+  I did it for the lulz~
+Right. Here's the bill from the Fire Department.
+  $579?
+Pretty funny, huh?
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=7nJGp9yagsI&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=34][a dope, to be dope]]
+
+#+BEGIN_EXAMPLE
+That ride is dope!
+  But the guy driving is drunk~
+Oh my god~~
+  What a dope!
+#+END_EXAMPLE
