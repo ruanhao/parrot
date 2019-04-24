@@ -10046,3 +10046,44 @@ That ride is dope!
 Oh my god~~
   What a dope!
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=OpVRxGUUvDg&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=39][swanky]]
+
+#+BEGIN_EXAMPLE
+Did you have a nightmare?
+  Oh~ Yeah! I had this totally swanky studio for my videos and podcasts…
+Yeah~
+  And I spilled coffee and the room flooded with coffee!!!
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=ItKm_gCu75k&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=40][to clinch]]
+
+#+BEGIN_EXAMPLE
+You look happy!
+  I clinched the top spot in Google!!
+Really? What search term?
+  Search for "English teacher Coach Shane".
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=YfQwAg49Lwo&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=41][like a turkey voting for Christmas]]
+
+#+BEGIN_EXAMPLE
+I'm voting for Dan in the next election.
+  What? Why?
+He's going to promise more free benefits. He's a giver!
+  You're like a turkey voting for Christmas~~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=WtGzTR1KSRc&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=42][razzle-dazzle]]
+
+#+BEGIN_EXAMPLE
+Where can I get some big feathers?
+  Beats me.
+What about neon lights for my white board?
+  No idea.
+Ugh~ My videos need some razzle-dazzle!
+#+END_EXAMPLE
