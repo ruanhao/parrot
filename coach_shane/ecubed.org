@@ -9992,7 +9992,6 @@ How? What’s the secret?
 #+END_EXAMPLE
 
 
-
 * [[https://www.youtube.com/watch?v=oLx14zgZ7cM&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=30][to be under the weather]]
 
 feel sick
@@ -10045,6 +10044,48 @@ That ride is dope!
   But the guy driving is drunk~
 Oh my god~~
   What a dope!
+#+END_EXAMPLE
+
+
+
+
+* [[https://www.youtube.com/watch?v=3up7HAgBy78&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=35][weed]]
+
+#+BEGIN_EXAMPLE
+Only dopes smoke dope.
+  Eh~ I don’t judge a person just because they smoke weed.
+Marijuana is a drug!
+  Not in every state~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=vjg-hgY2jUE&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=36][a stand-up guy]]
+
+#+BEGIN_EXAMPLE
+Do you know Joe Rogan?
+  Yeah! He’s a real stand-up guy.
+Right, he’s a stand-up. But he smokes weed~
+  Well, just like Obama. Bill Gates~ Oprah…
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=EYUtWW9hNng&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=37][harder than you think]]
+
+#+BEGIN_EXAMPLE
+When I retire, I want an easy job for fun. Maybe something at a coffee shop.
+  You are so mean.
+What?
+  You think working at a coffee shop is easy? It’s much harder than you think~
+#+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=aQtKwsMyMeA&list=PLfR_AJFT1BqydfPG7amHVbjUvdBWKwBq0&index=38][Does a bear shit in the woods?]]
+
+#+BEGIN_EXAMPLE
+Did you register for Coach Shane’s class?
+  Does a bear shit in the woods?
+Um…well…yeah, sure.
+  There’s your answer~
 #+END_EXAMPLE
 
 
