@@ -1,0 +1,296 @@
+#+TITLE:     The Wolf Of Wall Street
+#+AUTHOR:    Hao Ruan
+#+EMAIL:     haoru@cisco.com
+#+LANGUAGE:  en
+#+OPTIONS:   h:6 html-postamble:nil html-preamble:t tex:t f:t ^:nil
+#+STARTUP:   showall indent
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+#+HTML_HEAD: <link href="./org-html-themes/notes/notes.css" rel="stylesheet" type="text/css" />
+
+
+* paint the tape
+
+  A form of market manipulation whereby market players attempt to influence the price of a security by buying and selling it among themselves to create the appearance of substantial trading activity.
+
+  #+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/5a298db0-59ab-4c91-ad6e-cc0cb74fed83?autoplay=false"> </iframe>
+
+
+* put meat on the table
+
+  #+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/5863bd7c-a56f-4a7b-af45-773200214b8e?autoplay=false"> </iframe>
+
+
+* elemental chart
+
+  #+ATTR_HTML: :width 50%
+  [[https://www.vaughns-1-pagers.com/biology/human-periodic-elements/human-periodic-table.gif]]
+
+
+* cold hard cash
+
+  A term for a good amount of cash; physical money.
+
+  - Here, have a 2000. Yes it's real. Cold hard cash, baby!
+
+
+* in this racket
+
+  #+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/ea459458-b470-441b-9d50-7d86395bb81a?autoplay=false"> </iframe>
+
+  #+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/7094a85c-fb0d-47f7-b422-c11bfd7e975e?autoplay=false"> </iframe>
+
+* wig out
+
+  To become extremely emotional or excitable; to lose control of one's emotions.
+
+  #+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/9edd0aee-5249-4fe4-8167-1e7f3e1d38db?autoplay=false"> </iframe>
+
+* feed the geese
+
+  The act of masturbating.
+
+  #+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/044c3ce8-cf5c-4d4b-b64c-658ba12f90b4?autoplay=false"> </iframe>
+
+
+* below the belt
+
+  Below the line of what is acceptable behviour.
+
+* implode
+
+  猝死
+
+* Ferris Wheel
+
+  #+ATTR_HTML: :width 50%
+  [[https://bransontracks.com/wp-content/uploads/2017/07/TR_PinkSkyWheel.jpg]]
+
+
+* ins and outs
+
+  details; complicated details
+
+  - I couldn't remember all the ins and outs from the movie, so I just gave a summary
+
+
+* gear up
+
+  To step up to the challenge, get motivated, work harder to get the job done.
+
+  #+BEGIN_VERSE
+  person 1 - "i'm really struggling to all this done in time..."
+  person 2 - "you're gonna have to gear up mate."
+  #+END_VERSE
+
+
+* dirty laundry
+
+  ususally used to describe someones secrets that they dont want anyone to find out about.
+
+  - Everyone usually wants to know about others dirty laundry.
+  - I found out about janes dirty laundry!
+
+
+* penny stock
+
+  价格低下的普通股
+
+
+* hand over fist
+
+  energetically and rapidly.
+
+  - He completed his assignments hand over fist.
+
+* loophole
+
+  A forgotten condition in a law, agreement, etc. that allows one to interpret.
+
+  #+BEGIN_VERSE
+  Dave: Man, I fucken HATE that bitch.
+  Joe: Calm down, you know we're not allowed to hit girls.
+  Dave: Who said anything about "hitting". There's no rule against brutally beating with a medival flail. *evil glint* Loopholes rule!
+  Joe: You sick fuck.
+  #+END_VERSE
+
+* slipped disc
+
+  腰椎间盘突出
+
+
+* Chickens come home to roost
+
+  This expression is similar to "what goes around, comes around" and basically means that the consequences of one's evil actions
+  catch up in a negative way.
+
+
+  - Dude, you keep dealing drugs and you're going to get caught. When the chickens come home to roost,
+    they will take your car, your house, and all your money!
+
+
+* Cock-off
+
+  An event much like a duel, where two men unable to come to terms by conventional methods such as talking or fighting,
+  stand back to back, walk 10 paces, turn and drop their pants.
+  The man with the largest cock wins, and the loser must hang his head in shame and leave.
+
+  - Obviously talking or even fighting wouldn't have settled the argument so I challenged him to a cock-off. I won.
+
+* shit out of luck
+
+  When a request or problem is described, this phrase is used to tell the person that what they need or are requesting is simply not possible/available and probably won't be in the near future.
+
+  #+BEGIN_VERSE
+  Jill: I'd like to borrow your bike so that I can go down to the grocery store.
+  Jack: Sorry Jane, its got a flat, you're shit out of luck.
+  #+END_VERSE
+
+* tit in a wringer
+
+  In a bad way, in a bad situation.
+
+  - He got caught stealing from the office. He's really got his tit in a wringer.
+
+
+* imbecile
+
+  #+ATTR_HTML: :width 50%
+  [[https://i.imgflip.com/1ga885.jpg]]
+
+
+* anchors aweigh
+
+Means the ship is prepared to leave the port or harbor. In other words, "aweigh" means to pull up.
+
+
+* driving range
+
+#+ATTR_HTML: :width 100%
+[[https://www.fargogolf.net/wp-content/uploads/2019/04/Osgood-Driving-range-now-open-940x423.jpg]]
+
+
+* voluptuous
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/0f6ee827-7ecb-4ac2-a214-4d7f8562e6cb?autoplay=false"> </iframe>
+
+* price hits the high teens
+
+价格到了高位
+
+* subpoena
+
+#+ATTR_HTML: :width 60%
+[[https://www.thompsoncoburn.com/images/default-source/blogs/subpoena-of-student-records_16850567866_o.jpg]]
+
+
+* chopper
+
+#+ATTR_HTML: :width 100%
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/PeterFondaCaptainAmerica-side.jpg/600px-PeterFondaCaptainAmerica-side.jpg]]
+
+
+
+* with that said
+
+话虽如此
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/5b448031-8705-4712-ace3-0895e3bf75dd?autoplay=false"> </iframe>
+
+
+* ballpark
+
+A same general vicinity or idea as something else; an estimate of the scope and range of something.
+
+- He's looking for a used car in the $5000 ballpark.
+
+
+* Fuckity Fuck Fuck
+
+A term used to express extreme disapleasure at a particular moment. More prefered than 'Fuck' alone, due to its repetition and deeper meaning.
+
+#+BEGIN_EXAMPLE
+Cindy: What happened?!?
+Lisa: Fuckity Fuck Fuck!!!
+Fredd: Woah that was deep, man....
+#+END_EXAMPLE
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/c7f9bae3-4913-451c-be41-5fda11103685?autoplay=false"> </iframe>
+
+
+* kick in
+
+The moment you start to notice the drugs take effect.
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/23be40ae-e080-40a5-ba58-3471cd74ddf4?autoplay=false"> </iframe>
+
+- those shrooms took an hour to kick in, I was starting to think I got ripped off and felt stupid for willingly eating cow turd.
+- Op op op! I think that wasabi pea is starting to kick in!.
+
+
+* bite off more than one can chew
+
+Try to do more then you can handle.
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/13a45e91-c013-4a0a-960e-078cbd423a60?autoplay=false"> </iframe>
+
+
+- You might bite off more than one can chew if you I take a second job at night.
+
+
+* of all places [fn:ofallplaces]
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/a78a6e62-f583-43ff-a380-11da40cdd468?autoplay=false"> </iframe>
+
+* kick someone's face/teeth/head in [fn:kick]
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/873a13b1-f2d8-429b-acb2-ae8dbca17d55?autoplay=false"> </iframe>
+
+* out of line
+
+behaving improperly
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/4c90e031-919e-4262-89e0-da16eabeeb6d?autoplay=false"> </iframe>
+
+- He skipped class. he's way out of line.
+
+
+* where does this leave us [fn:where]
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/7ba898bb-9f25-41dc-be16-6d33be224d23?autoplay=false"> </iframe>
+
+
+* as (of) yet
+
+used for talking about something that has not happened or been done up to now.
+
+- A deal is still being worked out, but as yet nothing is finalized.
+- Police stated that there have been no arrests made as yet.
+- The report remains unfinished as of yet.
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/e2b1daf0-8205-40fe-8cc2-f8927722b1be?autoplay=false"> </iframe>
+
+
+* unless circumstances dictate
+
+除非在特殊情况下
+
+- There is a term, and we don't like to use it unless circumstances dictate, and I think they do dictate in this case.
+
+#+HTML: <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/c16e9311-49e4-451e-8154-d46e8f9235c1?autoplay=false"> </iframe>
+
+
+
+
+
+
+
+
+
+* Footnotes
+
+[fn:where] [[https://forum.wordreference.com/threads/where-does-this-leave-us.1894091/][Where does this leave us?]]
+
+[fn:kick] [[https://forum.wordreference.com/threads/kick-someone%E2%80%99s-face-teeth-head-in.3331386/][kick someone's face/teeth/head/<in>]]
+
+[fn:ofallplaces] [[https://ell.stackexchange.com/questions/87269/the-phrase-of-all-places/87270][the phrase "of all places"]]

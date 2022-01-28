@@ -10235,3 +10235,15 @@ Whachya reading?
 History stuff?
   Yeah, I'm brushing up on some history for my class.
 #+END_EXAMPLE
+
+
+* [[https://www.youtube.com/watch?v=yGYWkU65Cm0&list=PLfR_AJFT1BqxGkLaBpXcWcmfpeOBKINeD&index=3][to rustle up something]]
+
+try to make/find something that is necessary but not easy to be gotten
+
+#+BEGIN_EXAMPLE
+You got anything to eat?
+  Well…let me try and rustle up something here.
+What you got?
+  Let's see…an egg. Some ketchup. A carrot. Sounds like an omelet!
+#+END_EXAMPLE

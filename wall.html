@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2020-03-14 Sat 22:32 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Wolf Of Wall Street</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Hao Ruan">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css" />
+<link href="./org-html-themes/notes/notes.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">The Wolf Of Wall Street</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org6846be1">1. paint the tape</a></li>
+<li><a href="#org142f3a9">2. put meat on the table</a></li>
+<li><a href="#org7ac49c7">3. elemental chart</a></li>
+<li><a href="#org4699f2e">4. cold hard cash</a></li>
+<li><a href="#org4534346">5. in this racket</a></li>
+<li><a href="#orgeeb65fb">6. wig out</a></li>
+<li><a href="#org4769c4e">7. feed the geese</a></li>
+<li><a href="#org63c51ad">8. below the belt</a></li>
+<li><a href="#org9494a9e">9. implode</a></li>
+<li><a href="#orge982b19">10. Ferris Wheel</a></li>
+<li><a href="#org9d4c366">11. ins and outs</a></li>
+<li><a href="#org16c5a2e">12. gear up</a></li>
+<li><a href="#orgc819777">13. dirty laundry</a></li>
+<li><a href="#org566d314">14. penny stock</a></li>
+<li><a href="#orge334043">15. hand over fist</a></li>
+<li><a href="#org001f4b4">16. loophole</a></li>
+<li><a href="#org75f6e5e">17. slipped disc</a></li>
+<li><a href="#org8abd653">18. Chickens come home to roost</a></li>
+<li><a href="#orgf207925">19. Cock-off</a></li>
+<li><a href="#org5fffa93">20. shit out of luck</a></li>
+<li><a href="#orgbfcd1a6">21. tit in a wringer</a></li>
+<li><a href="#orgd858ea6">22. imbecile</a></li>
+<li><a href="#org4dfbcfe">23. anchors aweigh</a></li>
+<li><a href="#org2fadc29">24. driving range</a></li>
+<li><a href="#org2fd220f">25. voluptuous</a></li>
+<li><a href="#orge0dec5b">26. price hits the high teens</a></li>
+<li><a href="#orgd478508">27. subpoena</a></li>
+<li><a href="#org2b099a7">28. chopper</a></li>
+<li><a href="#orga1811b7">29. with that said</a></li>
+<li><a href="#org8f89d7b">30. ballpark</a></li>
+<li><a href="#org9558861">31. Fuckity Fuck Fuck</a></li>
+<li><a href="#org9b9f972">32. kick in</a></li>
+<li><a href="#org8385b5f">33. bite off more than one can chew</a></li>
+<li><a href="#orgdb496ad">34. of all places </a></li>
+<li><a href="#org67427fa">35. kick someone's face/teeth/head in </a></li>
+<li><a href="#org24c9c5d">36. out of line</a></li>
+<li><a href="#org4b47480">37. where does this leave us </a></li>
+<li><a href="#orgcf06cf9">38. as (of) yet</a></li>
+<li><a href="#org5624ebe">39. unless circumstances dictate</a></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org6846be1" class="outline-2">
+<h2 id="org6846be1"><span class="section-number-2">1</span> paint the tape</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+A form of market manipulation whereby market players attempt to influence the price of a security by buying and selling it among themselves to create the appearance of substantial trading activity.
+</p>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/5a298db0-59ab-4c91-ad6e-cc0cb74fed83?autoplay=false"> </iframe>
+</div>
+</div>
+
+
+<div id="outline-container-org142f3a9" class="outline-2">
+<h2 id="org142f3a9"><span class="section-number-2">2</span> put meat on the table</h2>
+<div class="outline-text-2" id="text-2">
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/5863bd7c-a56f-4a7b-af45-773200214b8e?autoplay=false"> </iframe>
+</div>
+</div>
+
+
+<div id="outline-container-org7ac49c7" class="outline-2">
+<h2 id="org7ac49c7"><span class="section-number-2">3</span> elemental chart</h2>
+<div class="outline-text-2" id="text-3">
+
+<div class="figure">
+<p><img src="https://www.vaughns-1-pagers.com/biology/human-periodic-elements/human-periodic-table.gif" alt="human-periodic-table.gif" width="50%">
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org4699f2e" class="outline-2">
+<h2 id="org4699f2e"><span class="section-number-2">4</span> cold hard cash</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+A term for a good amount of cash; physical money.
+</p>
+
+<ul class="org-ul">
+<li>Here, have a 2000. Yes it's real. Cold hard cash, baby!</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org4534346" class="outline-2">
+<h2 id="org4534346"><span class="section-number-2">5</span> in this racket</h2>
+<div class="outline-text-2" id="text-5">
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/ea459458-b470-441b-9d50-7d86395bb81a?autoplay=false"> </iframe>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/7094a85c-fb0d-47f7-b422-c11bfd7e975e?autoplay=false"> </iframe>
+</div>
+</div>
+
+<div id="outline-container-orgeeb65fb" class="outline-2">
+<h2 id="orgeeb65fb"><span class="section-number-2">6</span> wig out</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+To become extremely emotional or excitable; to lose control of one's emotions.
+</p>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/9edd0aee-5249-4fe4-8167-1e7f3e1d38db?autoplay=false"> </iframe>
+</div>
+</div>
+
+<div id="outline-container-org4769c4e" class="outline-2">
+<h2 id="org4769c4e"><span class="section-number-2">7</span> feed the geese</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+The act of masturbating.
+</p>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/044c3ce8-cf5c-4d4b-b64c-658ba12f90b4?autoplay=false"> </iframe>
+</div>
+</div>
+
+
+<div id="outline-container-org63c51ad" class="outline-2">
+<h2 id="org63c51ad"><span class="section-number-2">8</span> below the belt</h2>
+<div class="outline-text-2" id="text-8">
+<p>
+Below the line of what is acceptable behviour.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9494a9e" class="outline-2">
+<h2 id="org9494a9e"><span class="section-number-2">9</span> implode</h2>
+<div class="outline-text-2" id="text-9">
+<p>
+猝死
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge982b19" class="outline-2">
+<h2 id="orge982b19"><span class="section-number-2">10</span> Ferris Wheel</h2>
+<div class="outline-text-2" id="text-10">
+
+<div class="figure">
+<p><img src="https://bransontracks.com/wp-content/uploads/2017/07/TR_PinkSkyWheel.jpg" alt="TR_PinkSkyWheel.jpg" width="50%">
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org9d4c366" class="outline-2">
+<h2 id="org9d4c366"><span class="section-number-2">11</span> ins and outs</h2>
+<div class="outline-text-2" id="text-11">
+<p>
+details; complicated details
+</p>
+
+<ul class="org-ul">
+<li>I couldn't remember all the ins and outs from the movie, so I just gave a summary</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org16c5a2e" class="outline-2">
+<h2 id="org16c5a2e"><span class="section-number-2">12</span> gear up</h2>
+<div class="outline-text-2" id="text-12">
+<p>
+To step up to the challenge, get motivated, work harder to get the job done.
+</p>
+
+<p class="verse">
+person 1 - "i'm really struggling to all this done in time&#x2026;"<br>
+person 2 - "you're gonna have to gear up mate."<br>
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgc819777" class="outline-2">
+<h2 id="orgc819777"><span class="section-number-2">13</span> dirty laundry</h2>
+<div class="outline-text-2" id="text-13">
+<p>
+ususally used to describe someones secrets that they dont want anyone to find out about.
+</p>
+
+<ul class="org-ul">
+<li>Everyone usually wants to know about others dirty laundry.</li>
+<li>I found out about janes dirty laundry!</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org566d314" class="outline-2">
+<h2 id="org566d314"><span class="section-number-2">14</span> penny stock</h2>
+<div class="outline-text-2" id="text-14">
+<p>
+价格低下的普通股
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orge334043" class="outline-2">
+<h2 id="orge334043"><span class="section-number-2">15</span> hand over fist</h2>
+<div class="outline-text-2" id="text-15">
+<p>
+energetically and rapidly.
+</p>
+
+<ul class="org-ul">
+<li>He completed his assignments hand over fist.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org001f4b4" class="outline-2">
+<h2 id="org001f4b4"><span class="section-number-2">16</span> loophole</h2>
+<div class="outline-text-2" id="text-16">
+<p>
+A forgotten condition in a law, agreement, etc. that allows one to interpret.
+</p>
+
+<p class="verse">
+Dave: Man, I fucken HATE that bitch.<br>
+Joe: Calm down, you know we're not allowed to hit girls.<br>
+Dave: Who said anything about "hitting". There's no rule against brutally beating with a medival flail. <b>evil glint</b> Loopholes rule!<br>
+Joe: You sick fuck.<br>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75f6e5e" class="outline-2">
+<h2 id="org75f6e5e"><span class="section-number-2">17</span> slipped disc</h2>
+<div class="outline-text-2" id="text-17">
+<p>
+腰椎间盘突出
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org8abd653" class="outline-2">
+<h2 id="org8abd653"><span class="section-number-2">18</span> Chickens come home to roost</h2>
+<div class="outline-text-2" id="text-18">
+<p>
+This expression is similar to "what goes around, comes around" and basically means that the consequences of one's evil actions
+catch up in a negative way.
+</p>
+
+
+<ul class="org-ul">
+<li>Dude, you keep dealing drugs and you're going to get caught. When the chickens come home to roost,
+they will take your car, your house, and all your money!</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgf207925" class="outline-2">
+<h2 id="orgf207925"><span class="section-number-2">19</span> Cock-off</h2>
+<div class="outline-text-2" id="text-19">
+<p>
+An event much like a duel, where two men unable to come to terms by conventional methods such as talking or fighting,
+stand back to back, walk 10 paces, turn and drop their pants.
+The man with the largest cock wins, and the loser must hang his head in shame and leave.
+</p>
+
+<ul class="org-ul">
+<li>Obviously talking or even fighting wouldn't have settled the argument so I challenged him to a cock-off. I won.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org5fffa93" class="outline-2">
+<h2 id="org5fffa93"><span class="section-number-2">20</span> shit out of luck</h2>
+<div class="outline-text-2" id="text-20">
+<p>
+When a request or problem is described, this phrase is used to tell the person that what they need or are requesting is simply not possible/available and probably won't be in the near future.
+</p>
+
+<p class="verse">
+Jill: I'd like to borrow your bike so that I can go down to the grocery store.<br>
+Jack: Sorry Jane, its got a flat, you're shit out of luck.<br>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfcd1a6" class="outline-2">
+<h2 id="orgbfcd1a6"><span class="section-number-2">21</span> tit in a wringer</h2>
+<div class="outline-text-2" id="text-21">
+<p>
+In a bad way, in a bad situation.
+</p>
+
+<ul class="org-ul">
+<li>He got caught stealing from the office. He's really got his tit in a wringer.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgd858ea6" class="outline-2">
+<h2 id="orgd858ea6"><span class="section-number-2">22</span> imbecile</h2>
+<div class="outline-text-2" id="text-22">
+
+<div class="figure">
+<p><img src="https://i.imgflip.com/1ga885.jpg" alt="1ga885.jpg" width="50%">
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org4dfbcfe" class="outline-2">
+<h2 id="org4dfbcfe"><span class="section-number-2">23</span> anchors aweigh</h2>
+<div class="outline-text-2" id="text-23">
+<p>
+Means the ship is prepared to leave the port or harbor. In other words, "aweigh" means to pull up.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org2fadc29" class="outline-2">
+<h2 id="org2fadc29"><span class="section-number-2">24</span> driving range</h2>
+<div class="outline-text-2" id="text-24">
+
+<div class="figure">
+<p><img src="https://www.fargogolf.net/wp-content/uploads/2019/04/Osgood-Driving-range-now-open-940x423.jpg" alt="Osgood-Driving-range-now-open-940x423.jpg" width="100%">
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org2fd220f" class="outline-2">
+<h2 id="org2fd220f"><span class="section-number-2">25</span> voluptuous</h2>
+<div class="outline-text-2" id="text-25">
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/0f6ee827-7ecb-4ac2-a214-4d7f8562e6cb?autoplay=false"> </iframe>
+</div>
+</div>
+
+<div id="outline-container-orge0dec5b" class="outline-2">
+<h2 id="orge0dec5b"><span class="section-number-2">26</span> price hits the high teens</h2>
+<div class="outline-text-2" id="text-26">
+<p>
+价格到了高位
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd478508" class="outline-2">
+<h2 id="orgd478508"><span class="section-number-2">27</span> subpoena</h2>
+<div class="outline-text-2" id="text-27">
+
+<div class="figure">
+<p><img src="https://www.thompsoncoburn.com/images/default-source/blogs/subpoena-of-student-records_16850567866_o.jpg" alt="subpoena-of-student-records_16850567866_o.jpg" width="60%">
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org2b099a7" class="outline-2">
+<h2 id="org2b099a7"><span class="section-number-2">28</span> chopper</h2>
+<div class="outline-text-2" id="text-28">
+
+<div class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/PeterFondaCaptainAmerica-side.jpg/600px-PeterFondaCaptainAmerica-side.jpg" alt="600px-PeterFondaCaptainAmerica-side.jpg" width="100%">
+</p>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga1811b7" class="outline-2">
+<h2 id="orga1811b7"><span class="section-number-2">29</span> with that said</h2>
+<div class="outline-text-2" id="text-29">
+<p>
+话虽如此
+</p>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/5b448031-8705-4712-ace3-0895e3bf75dd?autoplay=false"> </iframe>
+</div>
+</div>
+
+
+<div id="outline-container-org8f89d7b" class="outline-2">
+<h2 id="org8f89d7b"><span class="section-number-2">30</span> ballpark</h2>
+<div class="outline-text-2" id="text-30">
+<p>
+A same general vicinity or idea as something else; an estimate of the scope and range of something.
+</p>
+
+<ul class="org-ul">
+<li>He's looking for a used car in the $5000 ballpark.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org9558861" class="outline-2">
+<h2 id="org9558861"><span class="section-number-2">31</span> Fuckity Fuck Fuck</h2>
+<div class="outline-text-2" id="text-31">
+<p>
+A term used to express extreme disapleasure at a particular moment. More prefered than 'Fuck' alone, due to its repetition and deeper meaning.
+</p>
+
+<pre class="example">
+Cindy: What happened?!?
+Lisa: Fuckity Fuck Fuck!!!
+Fredd: Woah that was deep, man....
+</pre>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/c7f9bae3-4913-451c-be41-5fda11103685?autoplay=false"> </iframe>
+</div>
+</div>
+
+
+<div id="outline-container-org9b9f972" class="outline-2">
+<h2 id="org9b9f972"><span class="section-number-2">32</span> kick in</h2>
+<div class="outline-text-2" id="text-32">
+<p>
+The moment you start to notice the drugs take effect.
+</p>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/23be40ae-e080-40a5-ba58-3471cd74ddf4?autoplay=false"> </iframe>
+
+<ul class="org-ul">
+<li>those shrooms took an hour to kick in, I was starting to think I got ripped off and felt stupid for willingly eating cow turd.</li>
+<li>Op op op! I think that wasabi pea is starting to kick in!.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org8385b5f" class="outline-2">
+<h2 id="org8385b5f"><span class="section-number-2">33</span> bite off more than one can chew</h2>
+<div class="outline-text-2" id="text-33">
+<p>
+Try to do more then you can handle.
+</p>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/13a45e91-c013-4a0a-960e-078cbd423a60?autoplay=false"> </iframe>
+
+
+<ul class="org-ul">
+<li>You might bite off more than one can chew if you I take a second job at night.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgdb496ad" class="outline-2">
+<h2 id="orgdb496ad"><span class="section-number-2">34</span> of all places <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup></h2>
+<div class="outline-text-2" id="text-34">
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/a78a6e62-f583-43ff-a380-11da40cdd468?autoplay=false"> </iframe>
+</div>
+</div>
+
+<div id="outline-container-org67427fa" class="outline-2">
+<h2 id="org67427fa"><span class="section-number-2">35</span> kick someone's face/teeth/head in <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></h2>
+<div class="outline-text-2" id="text-35">
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/873a13b1-f2d8-429b-acb2-ae8dbca17d55?autoplay=false"> </iframe>
+</div>
+</div>
+
+<div id="outline-container-org24c9c5d" class="outline-2">
+<h2 id="org24c9c5d"><span class="section-number-2">36</span> out of line</h2>
+<div class="outline-text-2" id="text-36">
+<p>
+behaving improperly
+</p>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/4c90e031-919e-4262-89e0-da16eabeeb6d?autoplay=false"> </iframe>
+
+<ul class="org-ul">
+<li>He skipped class. he's way out of line.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org4b47480" class="outline-2">
+<h2 id="org4b47480"><span class="section-number-2">37</span> where does this leave us <sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup></h2>
+<div class="outline-text-2" id="text-37">
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/7ba898bb-9f25-41dc-be16-6d33be224d23?autoplay=false"> </iframe>
+</div>
+</div>
+
+
+<div id="outline-container-orgcf06cf9" class="outline-2">
+<h2 id="orgcf06cf9"><span class="section-number-2">38</span> as (of) yet</h2>
+<div class="outline-text-2" id="text-38">
+<p>
+used for talking about something that has not happened or been done up to now.
+</p>
+
+<ul class="org-ul">
+<li>A deal is still being worked out, but as yet nothing is finalized.</li>
+<li>Police stated that there have been no arrests made as yet.</li>
+<li>The report remains unfinished as of yet.</li>
+</ul>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/e2b1daf0-8205-40fe-8cc2-f8927722b1be?autoplay=false"> </iframe>
+</div>
+</div>
+
+
+<div id="outline-container-org5624ebe" class="outline-2">
+<h2 id="org5624ebe"><span class="section-number-2">39</span> unless circumstances dictate</h2>
+<div class="outline-text-2" id="text-39">
+<p>
+除非在特殊情况下
+</p>
+
+<ul class="org-ul">
+<li>There is a term, and we don't like to use it unless circumstances dictate, and I think they do dictate in this case.</li>
+</ul>
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 420px; height: 360px;" src="https://getyarn.io/yarn-clip/embed/c16e9311-49e4-451e-8154-d46e8f9235c1?autoplay=false"> </iframe>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+<a href="https://ell.stackexchange.com/questions/87269/the-phrase-of-all-places/87270">the phrase "of all places"</a>
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+<a href="https://forum.wordreference.com/threads/kick-someone%E2%80%99s-face-teeth-head-in.3331386/">kick someone's face/teeth/head/&lt;in&gt;</a>
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+<a href="https://forum.wordreference.com/threads/where-does-this-leave-us.1894091/">Where does this leave us?</a>
+</p></div></div>
+
+
+</div>
+</div></div>
+</body>
+</html>
